@@ -1,0 +1,55 @@
+name: Fetch SE News
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# セキュリティ原則:
+#  - 他のリポジトリとは完全に独立
+#  - 外部へのwrite権限は data/news.json のみ
+#  - APIキーは一切使用しない（公開APIのみ）
+#  - GITHUB_TOKEN は最小権限 (contents: write のみ)
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+on:
+  schedule:
+    - cron: '0,30 * * * *'   # 毎時0分・30分
+  workflow_dispatch:           # 手動実行
+
+# ── 最小権限 ──────────────────────────
+permissions:
+  contents: write              # data/news.json のコミットのみ
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15        # 暴走防止
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests feedparser
+          # ネットワーク確認（デバッグ用）
+          python -c "import requests; print('requests OK')"
+
+      - name: Fetch news
+        env:
+          # GITHUB_TOKEN は自動付与（Secretsに設定不要）
+          # 外部APIキーは一切使用しない
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/fetch_news.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          # 変更がある場合のみコミット
+          git diff --cached --quiet || \
+            git commit -m "data: update news $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push

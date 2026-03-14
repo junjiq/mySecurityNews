@@ -1,0 +1,1597 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>SE NEWS // TERMINAL</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Outfit:wght@400;600;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+/* ═══════════════════════════════════════════════
+   DESIGN TOKENS — Dark Terminal Aesthetic
+═══════════════════════════════════════════════ */
+:root {
+  --bg:      #0d0f14;
+  --bg2:     #13161d;
+  --bg3:     #1a1e27;
+  --bg4:     #212737;
+  --border:  #252b3b;
+  --border2: #2e3650;
+  --text:    #e2e6f0;
+  --text2:   #8b93a8;
+  --text3:   #4a5270;
+  --accent:  #4ade80;   /* terminal green */
+  --accentb: #22d3ee;   /* cyan */
+  --accentc: #a78bfa;   /* purple */
+  --red:     #f87171;
+  --orange:  #fb923c;
+  --yellow:  #fbbf24;
+  --blue:    #60a5fa;
+  /* source colors */
+  --hn:      #ff6600;
+  --gh:      #58a6ff;
+  --zq:      #3b82f6;
+  --jpcert:  #f87171;
+  --devto:   #4ade80;
+  --proj:    #a78bfa;   /* project-specific */
+  --mitre:   #22d3ee;
+  --msf:     #fb923c;
+  /* shadows */
+  --sh1: 0 1px 3px rgba(0,0,0,0.4);
+  --sh2: 0 4px 16px rgba(0,0,0,0.5);
+  --sh3: 0 8px 32px rgba(0,0,0,0.6);
+}
+
+/* ── Reset ── */
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{scroll-behavior:smooth}
+body{
+  background:var(--bg);
+  color:var(--text);
+  font-family:'Noto Sans JP',sans-serif;
+  font-size:14px;
+  line-height:1.6;
+  min-height:100vh;
+  overflow-x:hidden;
+}
+
+/* scanline overlay */
+body::before{
+  content:'';
+  position:fixed;inset:0;pointer-events:none;z-index:9999;
+  background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,0.03) 2px,rgba(0,0,0,0.03) 4px);
+}
+
+/* ── HEADER ── */
+.header{
+  position:sticky;top:0;z-index:200;
+  background:rgba(13,15,20,0.95);
+  backdrop-filter:blur(20px);
+  border-bottom:1px solid var(--border);
+}
+.header-inner{
+  max-width:1120px;margin:0 auto;
+  display:flex;align-items:center;gap:12px;
+  padding:0 16px;height:54px;
+}
+.logo{
+  font-family:'Outfit',sans-serif;
+  font-size:18px;font-weight:800;
+  letter-spacing:3px;
+  color:var(--accent);
+  display:flex;align-items:center;gap:8px;
+  white-space:nowrap;
+  text-shadow:0 0 20px rgba(74,222,128,0.4);
+}
+.logo-slash{color:var(--text3);font-weight:400}
+.logo-sub{
+  font-family:'JetBrains Mono',monospace;
+  font-size:9px;font-weight:400;
+  color:var(--text3);letter-spacing:2px;
+  display:block;margin-top:-2px;
+}
+
+.header-search{
+  flex:1;max-width:320px;
+  display:flex;align-items:center;gap:8px;
+  background:var(--bg3);
+  border:1px solid var(--border);
+  border-radius:6px;padding:7px 12px;
+  transition:all 0.2s;
+}
+.header-search:focus-within{
+  border-color:var(--accent);
+  background:var(--bg2);
+  box-shadow:0 0 0 3px rgba(74,222,128,0.08);
+}
+.header-search input{
+  flex:1;border:none;background:transparent;
+  color:var(--text);font-size:13px;font-family:inherit;
+}
+.header-search input:focus{outline:none}
+.header-search input::placeholder{color:var(--text3)}
+
+.header-right{margin-left:auto;display:flex;gap:6px;align-items:center}
+.icon-btn{
+  width:34px;height:34px;border-radius:6px;
+  border:1px solid transparent;
+  background:transparent;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  font-size:16px;color:var(--text2);
+  transition:all 0.15s;
+}
+.icon-btn:hover{background:var(--bg3);border-color:var(--border);color:var(--text)}
+
+/* ── TAB NAV ── */
+.tab-nav{
+  display:flex;padding:0 16px;
+  max-width:1120px;margin:0 auto;
+  overflow-x:auto;scrollbar-width:none;
+  border-top:1px solid var(--border);
+}
+.tab-nav::-webkit-scrollbar{display:none}
+.tab-btn{
+  display:flex;align-items:center;gap:6px;
+  padding:10px 14px;
+  border:none;background:transparent;
+  font-size:12px;font-weight:600;
+  color:var(--text3);cursor:pointer;
+  white-space:nowrap;
+  border-bottom:2px solid transparent;
+  margin-bottom:-1px;
+  font-family:'Outfit',sans-serif;
+  letter-spacing:0.5px;
+  transition:all 0.2s;
+}
+.tab-btn:hover{color:var(--text2)}
+.tab-btn.active{color:var(--accent);border-bottom-color:var(--accent)}
+.tab-badge{
+  background:var(--red);color:#fff;
+  font-size:9px;padding:1px 5px;
+  border-radius:8px;font-family:'JetBrains Mono',monospace;
+  min-width:16px;text-align:center;
+}
+
+/* ── BODY LAYOUT ── */
+.app-body{
+  max-width:1120px;margin:0 auto;
+  padding:16px;
+  display:grid;
+  grid-template-columns:1fr 280px;
+  gap:16px;
+}
+@media(max-width:780px){
+  .app-body{grid-template-columns:1fr}
+  .sidebar{display:none}
+  .app-body{padding-bottom:72px}
+}
+
+/* ── SOURCE CHIPS ── */
+.chip-row{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.chip{
+  display:flex;align-items:center;gap:5px;
+  padding:4px 10px;border-radius:4px;
+  border:1px solid var(--border2);
+  background:var(--bg3);
+  color:var(--text2);font-size:11px;font-weight:600;
+  cursor:pointer;font-family:'Outfit',sans-serif;
+  letter-spacing:0.5px;transition:all 0.15s;
+}
+.chip:hover{border-color:var(--text3);color:var(--text)}
+.chip.active{background:rgba(74,222,128,0.1);border-color:var(--accent);color:var(--accent)}
+.chip[data-s="hn"].active{background:rgba(255,102,0,.12);border-color:var(--hn);color:var(--hn)}
+.chip[data-s="github"].active{background:rgba(88,166,255,.12);border-color:var(--gh);color:var(--gh)}
+.chip[data-s="zennqiita"].active{background:rgba(59,130,246,.12);border-color:var(--zq);color:var(--zq)}
+.chip[data-s="jpcert"].active{background:rgba(248,113,113,.12);border-color:var(--jpcert);color:var(--jpcert)}
+.chip[data-s="devto"].active{background:rgba(74,222,128,.12);border-color:var(--devto);color:var(--devto)}
+.chip[data-s="project"].active{background:rgba(167,139,250,.12);border-color:var(--proj);color:var(--proj)}
+.chip[data-s="mitre"].active{background:rgba(34,211,238,.12);border-color:var(--mitre);color:var(--mitre)}
+.chip[data-s="msf"].active{background:rgba(251,146,60,.12);border-color:var(--msf);color:var(--msf)}
+.chip-dot{width:5px;height:5px;border-radius:50%}
+
+/* ── ARTICLE CARD ── */
+.article-list{display:flex;flex-direction:column;gap:0}
+.article-card{
+  background:var(--bg2);
+  border:1px solid var(--border);
+  border-radius:8px;
+  padding:14px 16px;
+  cursor:pointer;
+  transition:all 0.2s;
+  position:relative;
+  margin-bottom:6px;
+  animation:fadeUp 0.3s ease backwards;
+  overflow:hidden;
+}
+.article-card::before{
+  content:'';
+  position:absolute;left:0;top:0;bottom:0;
+  width:3px;border-radius:8px 0 0 8px;
+  transition:opacity 0.2s;opacity:0.5;
+}
+.article-card[data-s="hn"]::before{background:var(--hn)}
+.article-card[data-s="github"]::before{background:var(--gh)}
+.article-card[data-s="zennqiita"]::before{background:var(--zq)}
+.article-card[data-s="jpcert"]::before{background:var(--jpcert)}
+.article-card[data-s="devto"]::before{background:var(--devto)}
+.article-card[data-s="project"]::before{background:var(--proj)}
+.article-card[data-s="mitre"]::before{background:var(--mitre)}
+.article-card[data-s="msf"]::before{background:var(--msf)}
+
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.article-card:hover{
+  background:var(--bg3);
+  border-color:var(--border2);
+  box-shadow:var(--sh2);
+}
+.article-card:hover::before{opacity:1}
+.article-card.read{opacity:0.5}
+
+.card-top{display:flex;align-items:center;gap:8px;margin-bottom:8px}
+.src-tag{
+  font-family:'JetBrains Mono',monospace;
+  font-size:9px;font-weight:600;
+  padding:2px 7px;border-radius:3px;
+  letter-spacing:0.5px;
+  flex-shrink:0;
+}
+.src-tag[data-s="hn"]{background:rgba(255,102,0,.15);color:var(--hn)}
+.src-tag[data-s="github"]{background:rgba(88,166,255,.15);color:var(--gh)}
+.src-tag[data-s="zennqiita"]{background:rgba(59,130,246,.15);color:var(--zq)}
+.src-tag[data-s="jpcert"]{background:rgba(248,113,113,.15);color:var(--jpcert)}
+.src-tag[data-s="devto"]{background:rgba(74,222,128,.15);color:var(--devto)}
+.src-tag[data-s="project"]{background:rgba(167,139,250,.15);color:var(--proj)}
+.src-tag[data-s="mitre"]{background:rgba(34,211,238,.15);color:var(--mitre)}
+.src-tag[data-s="msf"]{background:rgba(251,146,60,.15);color:var(--msf)}
+
+.new-pill{
+  background:rgba(248,113,113,0.2);color:var(--red);
+  font-size:8px;font-weight:700;padding:2px 5px;
+  border-radius:3px;font-family:'JetBrains Mono',monospace;
+  animation:blink 2s infinite;
+}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0.4}}
+.card-time{
+  margin-left:auto;
+  font-size:10px;color:var(--text3);
+  font-family:'JetBrains Mono',monospace;
+}
+
+.card-title{
+  font-size:14px;font-weight:500;
+  line-height:1.55;color:var(--text);
+  margin-bottom:8px;
+  display:-webkit-box;
+  -webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
+}
+.card-footer{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.meta{
+  font-size:10px;color:var(--text3);
+  font-family:'JetBrains Mono',monospace;
+  display:flex;align-items:center;gap:3px;
+}
+.pill{
+  font-size:10px;padding:2px 7px;border-radius:3px;
+  background:var(--bg4);border:1px solid var(--border);
+  color:var(--text2);font-family:'JetBrains Mono',monospace;
+}
+.pill.proj-pill{background:rgba(167,139,250,.1);border-color:rgba(167,139,250,.3);color:var(--proj)}
+.card-actions{margin-left:auto;display:flex;gap:2px}
+.act-btn{
+  width:28px;height:28px;border:none;background:transparent;
+  border-radius:4px;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  font-size:14px;color:var(--text3);transition:all 0.15s;
+}
+.act-btn:hover{background:var(--bg4);color:var(--text)}
+.act-btn.bookmarked{color:var(--yellow)}
+
+/* ── TREND TAB ── */
+.section-hd{
+  font-family:'Outfit',sans-serif;
+  font-size:11px;font-weight:600;
+  letter-spacing:2px;color:var(--text3);
+  text-transform:uppercase;
+  margin-bottom:10px;
+  display:flex;align-items:center;gap:6px;
+}
+.section-hd::after{content:'';flex:1;height:1px;background:var(--border)}
+.trend-section{margin-bottom:20px}
+
+.trend-item{
+  display:flex;align-items:flex-start;gap:12px;
+  padding:10px 12px;
+  background:var(--bg2);border:1px solid var(--border);
+  border-radius:6px;margin-bottom:4px;
+  cursor:pointer;transition:all 0.15s;
+}
+.trend-item:hover{background:var(--bg3);border-color:var(--border2);transform:translateX(2px)}
+.trend-rank{
+  font-family:'Outfit',sans-serif;
+  font-size:20px;font-weight:800;
+  color:var(--border2);min-width:26px;line-height:1.1;
+}
+.trend-rank.gold{color:var(--yellow)}
+.trend-rank.silver{color:var(--text2)}
+.trend-rank.bronze{color:var(--orange)}
+.trend-title{font-size:13px;font-weight:500;line-height:1.45;margin-bottom:4px}
+.trend-meta{font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace;display:flex;flex-wrap:wrap;gap:8px}
+
+.kw-cloud{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:20px}
+.kw-item{
+  padding:3px 9px;border-radius:4px;
+  background:var(--bg3);border:1px solid var(--border);
+  color:var(--text2);cursor:pointer;transition:all 0.15s;
+}
+.kw-item:hover{border-color:var(--accent);color:var(--accent);background:rgba(74,222,128,.08)}
+
+/* ── SECURITY TAB ── */
+.sev-chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.sev-chip{
+  padding:4px 10px;border-radius:4px;
+  border:1px solid var(--border2);background:var(--bg3);
+  color:var(--text2);font-size:11px;font-weight:700;
+  cursor:pointer;font-family:'JetBrains Mono',monospace;
+  transition:all 0.15s;
+}
+.sev-chip:hover{color:var(--text)}
+.sev-chip.active{color:#fff}
+.sev-chip[data-sev="critical"].active{background:#7f1d1d;border-color:#991b1b}
+.sev-chip[data-sev="high"].active{background:#dc2626;border-color:#ef4444}
+.sev-chip[data-sev="medium"].active{background:#d97706;border-color:#f59e0b}
+.sev-chip[data-sev="low"].active{background:#16a34a;border-color:#22c55e}
+.sev-chip[data-sev="info"].active{background:#1d4ed8;border-color:#3b82f6}
+.sev-chip[data-sev="all"].active{background:var(--bg4);border-color:var(--border2);color:var(--text)}
+
+.sec-card{
+  background:var(--bg2);border:1px solid var(--border);
+  border-radius:8px;overflow:hidden;margin-bottom:6px;
+  animation:fadeUp 0.3s ease backwards;cursor:pointer;
+  transition:all 0.2s;
+}
+.sec-card:hover{background:var(--bg3);border-color:var(--border2);box-shadow:var(--sh2)}
+.sec-card-head{padding:10px 14px;display:flex;align-items:center;gap:8px}
+.sev-badge{
+  padding:2px 7px;border-radius:3px;
+  font-size:9px;font-weight:700;
+  font-family:'JetBrains Mono',monospace;letter-spacing:1px;
+}
+.sev-critical{background:#7f1d1d;color:#fca5a5}
+.sev-high{background:#991b1b;color:#fca5a5}
+.sev-medium{background:#92400e;color:#fde68a}
+.sev-low{background:#14532d;color:#86efac}
+.sev-info{background:#1e3a5f;color:#93c5fd}
+.sec-card-body{padding:4px 14px 14px}
+.sec-card-title{font-size:13px;font-weight:600;line-height:1.45;margin-bottom:6px}
+.sec-tags{display:flex;flex-wrap:wrap;gap:4px}
+.sec-tag{
+  font-size:9px;padding:2px 6px;border-radius:3px;
+  background:rgba(167,139,250,.1);
+  border:1px solid rgba(167,139,250,.2);
+  color:var(--proj);font-family:'JetBrains Mono',monospace;
+}
+
+/* ── FAVORITES TAB ── */
+.fav-empty{
+  text-align:center;padding:48px 16px;color:var(--text3);
+}
+.fav-empty-icon{font-size:32px;margin-bottom:8px}
+.fav-empty-msg{font-size:13px;color:var(--text2);line-height:1.6}
+
+.folder-block{margin-bottom:20px}
+.folder-hd{
+  display:flex;align-items:center;gap:8px;
+  padding:8px 12px;
+  background:var(--bg3);border:1px solid var(--border);
+  border-radius:6px 6px 0 0;
+  font-size:12px;font-weight:700;
+  font-family:'Outfit',sans-serif;letter-spacing:0.5px;
+  color:var(--text2);
+}
+.folder-cnt{
+  margin-left:auto;
+  font-family:'JetBrains Mono',monospace;
+  font-size:10px;color:var(--text3);
+}
+.folder-del{
+  background:transparent;border:none;cursor:pointer;
+  color:var(--text3);font-size:13px;transition:color 0.15s;
+  padding:2px 4px;
+}
+.folder-del:hover{color:var(--red)}
+
+/* ── SIDEBAR ── */
+.sidebar{display:flex;flex-direction:column;gap:12px}
+.sc{
+  background:var(--bg2);border:1px solid var(--border);
+  border-radius:8px;overflow:hidden;
+}
+.sc-head{
+  padding:10px 14px;
+  border-bottom:1px solid var(--border);
+  font-family:'Outfit',sans-serif;
+  font-size:11px;font-weight:700;
+  letter-spacing:1.5px;color:var(--text2);
+  text-transform:uppercase;
+  display:flex;align-items:center;gap:8px;
+}
+.sc-body{padding:12px 14px}
+
+.stat-dot{
+  width:7px;height:7px;border-radius:50%;flex-shrink:0;
+}
+.stat-dot.ok{background:var(--accent);box-shadow:0 0 6px rgba(74,222,128,0.5);animation:pulse 2s infinite}
+.stat-dot.loading{background:var(--yellow);animation:pulse 0.8s infinite}
+.stat-dot.error{background:var(--red)}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+.stat-row{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.stat-text{font-size:12px;color:var(--text2)}
+.countdown{
+  font-family:'JetBrains Mono',monospace;
+  font-size:11px;color:var(--text3);margin-top:4px;
+}
+.updated-txt{
+  font-family:'JetBrains Mono',monospace;
+  font-size:10px;color:var(--text3);margin-top:8px;
+  padding-top:8px;border-top:1px solid var(--border);
+}
+
+.folder-mini{
+  display:flex;align-items:center;gap:8px;
+  padding:7px 8px;border-radius:4px;
+  cursor:pointer;transition:background 0.15s;
+  font-size:12px;color:var(--text2);
+}
+.folder-mini:hover{background:var(--bg3)}
+.folder-mini-cnt{
+  margin-left:auto;font-size:10px;color:var(--text3);
+  font-family:'JetBrains Mono',monospace;
+}
+.add-folder-btn{
+  width:100%;padding:7px;margin-top:4px;
+  border:1px dashed var(--border2);
+  background:transparent;border-radius:4px;
+  cursor:pointer;font-size:11px;color:var(--text3);
+  font-family:inherit;transition:all 0.15s;
+  display:flex;align-items:center;justify-content:center;gap:5px;
+}
+.add-folder-btn:hover{border-color:var(--accent);color:var(--accent);background:rgba(74,222,128,.05)}
+
+.src-stat-row{display:flex;align-items:center;gap:8px;margin-bottom:7px}
+.src-stat-lbl{font-size:10px;color:var(--text2);font-family:'JetBrains Mono',monospace;min-width:64px}
+.src-stat-wrap{flex:1;height:3px;background:var(--bg4);border-radius:2px;overflow:hidden}
+.src-stat-bar{height:100%;border-radius:2px;transition:width 1s ease}
+.src-stat-num{font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace;min-width:20px;text-align:right}
+
+/* ── MODALS ── */
+.overlay{
+  position:fixed;inset:0;
+  background:rgba(0,0,0,0.7);backdrop-filter:blur(8px);
+  z-index:500;display:flex;align-items:center;justify-content:center;
+  padding:16px;opacity:0;pointer-events:none;transition:opacity 0.2s;
+}
+.overlay.open{opacity:1;pointer-events:all}
+.modal{
+  background:var(--bg2);border:1px solid var(--border2);
+  border-radius:10px;box-shadow:var(--sh3);
+  width:100%;max-width:360px;
+  transform:translateY(16px);transition:transform 0.2s;
+}
+.overlay.open .modal{transform:translateY(0)}
+.modal-head{
+  padding:14px 18px;border-bottom:1px solid var(--border);
+  font-family:'Outfit',sans-serif;font-size:13px;font-weight:700;
+  letter-spacing:0.5px;color:var(--text);
+  display:flex;align-items:center;justify-content:space-between;
+}
+.modal-body{padding:16px 18px}
+.modal-input{
+  width:100%;padding:9px 12px;
+  border:1px solid var(--border2);border-radius:6px;
+  background:var(--bg3);color:var(--text);
+  font-size:13px;font-family:inherit;
+  transition:border-color 0.2s;
+}
+.modal-input:focus{outline:none;border-color:var(--accent)}
+.modal-input::placeholder{color:var(--text3)}
+.modal-actions{display:flex;gap:8px;margin-top:14px}
+.btn-ok{
+  flex:1;padding:9px;border-radius:6px;
+  background:var(--accent);color:#0d0f14;
+  border:none;font-size:12px;font-weight:800;
+  cursor:pointer;font-family:'Outfit',sans-serif;
+  letter-spacing:0.5px;transition:all 0.15s;
+}
+.btn-ok:hover{background:#22c55e}
+.btn-cancel{
+  flex:1;padding:9px;border-radius:6px;
+  background:var(--bg4);color:var(--text2);
+  border:1px solid var(--border2);
+  font-size:12px;font-weight:600;cursor:pointer;
+  font-family:inherit;transition:all 0.15s;
+}
+.btn-cancel:hover{background:var(--bg3)}
+
+.folder-pick{display:flex;flex-direction:column;gap:4px}
+.folder-pick-item{
+  display:flex;align-items:center;gap:10px;
+  padding:9px 12px;border-radius:6px;
+  border:1px solid var(--border);background:var(--bg3);
+  cursor:pointer;font-size:12px;color:var(--text2);
+  transition:all 0.15s;
+}
+.folder-pick-item:hover{border-color:var(--accent);color:var(--text)}
+.folder-pick-item.selected{border-color:var(--accent);background:rgba(74,222,128,.08);color:var(--accent);font-weight:600}
+
+/* ── BOTTOM NAV (mobile) ── */
+.bottom-nav{
+  display:none;position:fixed;bottom:0;left:0;right:0;
+  background:rgba(13,15,20,0.97);
+  border-top:1px solid var(--border);
+  backdrop-filter:blur(20px);
+  z-index:300;padding:4px 0 env(safe-area-inset-bottom);
+}
+@media(max-width:780px){.bottom-nav{display:flex}}
+.bnav-item{
+  flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;
+  padding:6px 0;border:none;background:transparent;
+  cursor:pointer;font-size:10px;color:var(--text3);
+  font-family:'Outfit',sans-serif;font-weight:600;
+  transition:color 0.15s;letter-spacing:0.5px;
+}
+.bnav-item.active{color:var(--accent)}
+.bnav-icon{font-size:18px}
+
+/* ── TOAST ── */
+.toast{
+  position:fixed;bottom:80px;left:50%;
+  transform:translateX(-50%) translateY(20px);
+  background:var(--bg3);border:1px solid var(--border2);
+  color:var(--text);padding:9px 18px;border-radius:6px;
+  font-size:12px;z-index:600;opacity:0;
+  transition:all 0.25s;white-space:nowrap;
+  box-shadow:var(--sh3);font-family:'Outfit',sans-serif;
+}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+.toast.ok{border-color:var(--accent);color:var(--accent)}
+.toast.err{border-color:var(--red);color:var(--red)}
+
+/* ── SKELETON ── */
+.skel{
+  background:linear-gradient(90deg,var(--bg3) 25%,var(--bg4) 50%,var(--bg3) 75%);
+  background-size:200% 100%;
+  animation:shimmer 1.5s infinite;border-radius:3px;
+}
+@keyframes shimmer{to{background-position:-200% 0}}
+.skel-card{
+  background:var(--bg2);border:1px solid var(--border);
+  border-radius:8px;padding:14px 16px;margin-bottom:6px;
+}
+
+/* ── PROGRESS ── */
+.pgbar{
+  position:fixed;top:0;left:0;height:2px;
+  background:linear-gradient(90deg,var(--accent),var(--accentb));
+  z-index:999;pointer-events:none;
+  transition:width 0.3s,opacity 0.5s;
+  box-shadow:0 0 10px rgba(74,222,128,0.5);
+}
+
+/* ── MISC ── */
+::-webkit-scrollbar{width:4px;height:4px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{background:var(--border2);border-radius:2px}
+::-webkit-scrollbar-thumb:hover{background:var(--text3)}
+</style>
+</head>
+<body>
+
+<div class="pgbar" id="pgbar" style="width:0;opacity:0"></div>
+
+<!-- HEADER -->
+<header class="header">
+  <div class="header-inner">
+    <div class="logo">
+      SE<span class="logo-slash">/</span>NEWS
+      <span class="logo-sub">INTEL TERMINAL</span>
+    </div>
+    <div class="header-search">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#4a5270" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input id="searchInput" type="text" placeholder="記事を検索..." oninput="onSearch()">
+    </div>
+    <div class="header-right">
+      <button class="icon-btn" title="お気に入り" onclick="switchTab('favorites')">🔖</button>
+      <button class="icon-btn" title="更新" onclick="manualRefresh()">↺</button>
+    </div>
+  </div>
+  <nav class="tab-nav">
+    <button class="tab-btn active" data-tab="feed" onclick="switchTab('feed')">◈ フィード</button>
+    <button class="tab-btn" data-tab="project" onclick="switchTab('project')">⬡ プロジェクト</button>
+    <button class="tab-btn" data-tab="trend" onclick="switchTab('trend')">↑ トレンド</button>
+    <button class="tab-btn" data-tab="security" onclick="switchTab('security')">⚑ セキュリティ</button>
+    <button class="tab-btn" data-tab="favorites" onclick="switchTab('favorites')">◇ お気に入り <span class="tab-badge" id="favBadge" style="display:none">0</span></button>
+  </nav>
+</header>
+
+<!-- BODY -->
+<div class="app-body">
+  <main id="mainCol">
+
+    <!-- FEED TAB -->
+    <div id="tab-feed">
+      <div class="chip-row" id="feedChips">
+        <button class="chip active" data-s="all" onclick="setSource('all')"><span class="chip-dot" style="background:#4a5270"></span>ALL</button>
+        <button class="chip" data-s="hn" onclick="setSource('hn')"><span class="chip-dot" style="background:var(--hn)"></span>HN</button>
+        <button class="chip" data-s="github" onclick="setSource('github')"><span class="chip-dot" style="background:var(--gh)"></span>GitHub</button>
+        <button class="chip" data-s="zennqiita" onclick="setSource('zennqiita')"><span class="chip-dot" style="background:var(--zq)"></span>Zenn/Qiita</button>
+        <button class="chip" data-s="jpcert" onclick="setSource('jpcert')"><span class="chip-dot" style="background:var(--jpcert)"></span>JPCERT</button>
+        <button class="chip" data-s="devto" onclick="setSource('devto')"><span class="chip-dot" style="background:var(--devto)"></span>dev.to</button>
+        <button class="chip" data-s="project" onclick="setSource('project')"><span class="chip-dot" style="background:var(--proj)"></span>PROJECT</button>
+        <button class="chip" data-s="mitre" onclick="setSource('mitre')"><span class="chip-dot" style="background:var(--mitre)"></span>ATT&CK</button>
+        <button class="chip" data-s="msf" onclick="setSource('msf')"><span class="chip-dot" style="background:var(--msf)"></span>MSF/CVE</button>
+      </div>
+      <div id="feedList" class="article-list"></div>
+    </div>
+
+    <!-- PROJECT TAB -->
+    <div id="tab-project" style="display:none">
+      <div class="section-hd" style="margin-bottom:12px">⬡ 追加ソース</div>
+      <p style="font-size:12px;color:var(--text3);margin-bottom:16px;font-family:'JetBrains Mono',monospace;line-height:1.7">
+      </p>
+      <div id="projectList" class="article-list"></div>
+    </div>
+
+    <!-- TREND TAB -->
+    <div id="tab-trend" style="display:none">
+      <div class="trend-section">
+        <div class="section-hd">↑ HOT ARTICLES</div>
+        <div id="trendList"></div>
+      </div>
+      <div class="trend-section">
+        <div class="section-hd">◎ KEYWORD RADAR</div>
+        <div class="kw-cloud" id="kwCloud"></div>
+      </div>
+      <div class="trend-section">
+        <div class="section-hd">◫ SOURCE DISTRIBUTION</div>
+        <div id="srcDist"></div>
+      </div>
+    </div>
+
+    <!-- SECURITY TAB -->
+    <div id="tab-security" style="display:none">
+      <div class="sev-chips" id="sevChips">
+        <button class="sev-chip active" data-sev="all" onclick="setSev('all')">ALL</button>
+        <button class="sev-chip" data-sev="critical" onclick="setSev('critical')">CRITICAL</button>
+        <button class="sev-chip" data-sev="high" onclick="setSev('high')">HIGH</button>
+        <button class="sev-chip" data-sev="medium" onclick="setSev('medium')">MEDIUM</button>
+        <button class="sev-chip" data-sev="low" onclick="setSev('low')">LOW</button>
+        <button class="sev-chip" data-sev="info" onclick="setSev('info')">INFO</button>
+      </div>
+      <div id="secList"></div>
+    </div>
+
+    <!-- FAVORITES TAB -->
+    <div id="tab-favorites" style="display:none">
+      <div id="favContent"></div>
+    </div>
+
+  </main>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="sc">
+      <div class="sc-head">◉ FEED STATUS</div>
+      <div class="sc-body">
+        <div class="stat-row">
+          <div class="stat-dot" id="statDot"></div>
+          <div class="stat-text" id="statText">初期化中...</div>
+        </div>
+        <div class="countdown" id="countdown">次回更新: --:--</div>
+        <div class="updated-txt" id="updatedTxt">最終収集: --<br>合計: -- 件</div>
+      </div>
+    </div>
+
+    <div class="sc">
+      <div class="sc-head">
+        ⬡ FOLDERS
+        <button class="icon-btn" style="margin-left:auto;width:24px;height:24px;font-size:14px" onclick="openNewFolder()">+</button>
+      </div>
+      <div class="sc-body" id="sidebarFolders"></div>
+    </div>
+
+    <div class="sc">
+      <div class="sc-head">◫ SOURCES</div>
+      <div class="sc-body" id="sidebarSrc"></div>
+    </div>
+  </aside>
+</div>
+
+<!-- BOTTOM NAV -->
+<nav class="bottom-nav">
+  <button class="bnav-item active" data-tab="feed" onclick="switchTab('feed')"><span class="bnav-icon">◈</span>FEED</button>
+  <button class="bnav-item" data-tab="project" onclick="switchTab('project')"><span class="bnav-icon">⬡</span>PROJECT</button>
+  <button class="bnav-item" data-tab="trend" onclick="switchTab('trend')"><span class="bnav-icon">↑</span>TREND</button>
+  <button class="bnav-item" data-tab="security" onclick="switchTab('security')"><span class="bnav-icon">⚑</span>SEC</button>
+  <button class="bnav-item" data-tab="favorites" onclick="switchTab('favorites')"><span class="bnav-icon">◇</span>FAV</button>
+</nav>
+
+<!-- MODAL: bookmark -->
+<div class="overlay" id="bmModal">
+  <div class="modal">
+    <div class="modal-head">◇ お気に入りに追加<button class="icon-btn" style="width:26px;height:26px;font-size:13px" onclick="closeModal('bmModal')">✕</button></div>
+    <div class="modal-body">
+      <div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.5" id="bmTitle"></div>
+      <div style="font-size:10px;font-weight:700;color:var(--text3);margin-bottom:8px;font-family:'Outfit',sans-serif;letter-spacing:1px">SELECT FOLDER</div>
+      <div class="folder-pick" id="folderPick"></div>
+      <button class="add-folder-btn" style="margin-top:8px" onclick="openNewFolderFromBm()">+ 新しいフォルダ</button>
+    </div>
+  </div>
+</div>
+
+<!-- MODAL: new folder -->
+<div class="overlay" id="nfModal">
+  <div class="modal">
+    <div class="modal-head">⬡ フォルダ作成<button class="icon-btn" style="width:26px;height:26px;font-size:13px" onclick="closeModal('nfModal')">✕</button></div>
+    <div class="modal-body">
+      <input class="modal-input" id="nfInput" type="text" placeholder="フォルダ名" maxlength="30">
+      <div class="modal-actions">
+        <button class="btn-cancel" onclick="closeModal('nfModal')">CANCEL</button>
+        <button class="btn-ok" onclick="createFolder()">CREATE</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// ════════════════════════════════════════════
+//  STATE
+// ════════════════════════════════════════════
+let allItems = [];
+let currentTab = 'feed';
+let currentSource = 'all';
+let currentSev = 'all';
+let searchQ = '';
+let pendingBmItem = null;
+let refreshTmr, countTmr, nextAt;
+
+const RELOAD_MS = 5 * 60 * 1000; // 5分ごとにJSONチェック
+const CORS = 'https://api.allorigins.win/get?url=';
+
+// ── Storage ──────────────────────────────────
+const ls = {
+  get: k => { try { return JSON.parse(localStorage.getItem(k)); } catch { return null; } },
+  set: (k,v) => localStorage.setItem(k, JSON.stringify(v)),
+};
+let folders   = ls.get('se3_folders') || ['気になる記事', 'セキュリティ', 'あとで読む'];
+let favorites = ls.get('se3_favorites') || {};
+let readIds   = new Set(ls.get('se3_read') || []);
+
+const saveAll = () => {
+  ls.set('se3_folders', folders);
+  ls.set('se3_favorites', favorites);
+  ls.set('se3_read', [...readIds]);
+};
+
+// ════════════════════════════════════════════
+//  SOURCE META
+// ════════════════════════════════════════════
+const SMETA = {
+  hn:        { name:'Hacker News',    icon:'◉', color:'var(--hn)' },
+  github:    { name:'GitHub',         icon:'◈', color:'var(--gh)' },
+  zennqiita: { name:'Zenn/Qiita',     icon:'◧', color:'var(--zq)' },
+  jpcert:    { name:'JPCERT',         icon:'⚑', color:'var(--jpcert)' },
+  devto:     { name:'dev.to',         icon:'◎', color:'var(--devto)' },
+  project:   { name:'PROJECT',        icon:'⬡', color:'var(--proj)' },
+  mitre:     { name:'ATT&CK',         icon:'◫', color:'var(--mitre)' },
+  msf:       { name:'MSF/CVE',        icon:'↯', color:'var(--msf)' },
+};
+
+// ━━━ ブロックドメイン（ペイウォール・広告）━━━
+const BLOCKED = new Set([
+  'medium.com','wsj.com','nytimes.com','ft.com',
+  'bloomberg.com','forbes.com','wired.com',
+  'technologyreview.com','businessinsider.com',
+  'theatlantic.com','economist.com','hbr.org',
+]);
+const isBlocked = url => {
+  try {
+    const d = new URL(url).hostname.replace('www.','');
+    return [...BLOCKED].some(b => d.includes(b));
+  } catch { return false; }
+};
+
+// ════════════════════════════════════════════
+//  FETCHERS
+// ════════════════════════════════════════════
+
+// ── Hacker News ──────────────────────────────
+async function fetchHN() {
+  const r = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json');
+  const ids = (await r.json()).slice(0, 25);
+  const settled = await Promise.allSettled(
+    ids.map(id => fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`).then(r=>r.json()))
+  );
+  return settled
+    .filter(r => r.status==='fulfilled' && r.value?.url && !isBlocked(r.value.url))
+    .map(r => r.value)
+    .map(d => ({
+      id:`hn-${d.id}`, source:'hn',
+      title:d.title, url:d.url,
+      score:d.score, comments:d.descendants||0,
+      author:d.by, tags:[],
+      date: new Date(d.time*1000).toISOString(),
+    }));
+}
+
+// ── GitHub Trending ───────────────────────────
+async function fetchGitHub() {
+  const r = await fetch(CORS + encodeURIComponent('https://github.com/trending'));
+  const html = (await r.json()).contents;
+  const doc = new DOMParser().parseFromString(html,'text/html');
+  const items = [];
+  doc.querySelectorAll('article.Box-row').forEach((el,i) => {
+    if(i>=20) return;
+    const a = el.querySelector('h2 a');
+    const desc = el.querySelector('p');
+    const lang = el.querySelector('[itemprop="programmingLanguage"]');
+    const stars = el.querySelector('.f6 a');
+    if(!a) return;
+    const path = a.getAttribute('href');
+    items.push({
+      id:`gh-${path.replace(/\//g,'-')}`, source:'github',
+      title:`${path.slice(1)} — ${desc?.textContent.trim()||''}`,
+      url:`https://github.com${path}`,
+      score:null, stars:stars?.textContent.trim()||'',
+      author:path.split('/')[1],
+      tags: lang?[lang.textContent.trim()]:[],
+      date: new Date().toISOString(),
+    });
+  });
+  return items;
+}
+
+// ── Zenn ─────────────────────────────────────
+async function fetchZenn() {
+  const r = await fetch(CORS + encodeURIComponent('https://zenn.dev/feed'));
+  const xml = new DOMParser().parseFromString((await r.json()).contents,'text/xml');
+  return [...xml.querySelectorAll('item')].slice(0,15)
+    .filter(el => !isBlocked(el.querySelector('link')?.textContent||''))
+    .map((el,i) => ({
+      id:`zenn-${i}-${Date.now()}`, source:'zennqiita',
+      title:el.querySelector('title')?.textContent||'',
+      url:el.querySelector('link')?.textContent||'',
+      score:null,
+      author:el.querySelector('author,creator')?.textContent||'Zenn',
+      tags:['Zenn'], subSource:'Zenn',
+      date: new Date(el.querySelector('pubDate')?.textContent||Date.now()).toISOString(),
+    }));
+}
+
+// ── Qiita ────────────────────────────────────
+async function fetchQiita() {
+  const r = await fetch(CORS + encodeURIComponent('https://qiita.com/popular-items/feed.atom'));
+  const xml = new DOMParser().parseFromString((await r.json()).contents,'text/xml');
+  return [...xml.querySelectorAll('entry')].slice(0,15)
+    .filter(el => !isBlocked(el.querySelector('link')?.getAttribute('href')||''))
+    .map((el,i) => ({
+      id:`qiita-${i}-${Date.now()}`, source:'zennqiita',
+      title:el.querySelector('title')?.textContent||'',
+      url:el.querySelector('link')?.getAttribute('href')||'',
+      score:null,
+      author:el.querySelector('author name')?.textContent||'Qiita',
+      tags:['Qiita'], subSource:'Qiita',
+      date: new Date(el.querySelector('updated,published')?.textContent||Date.now()).toISOString(),
+    }));
+}
+
+// ── JPCERT (3 feeds) ──────────────────────────
+async function fetchJPCERT() {
+  const feeds = [
+    ['https://www.jpcert.or.jp/feed/news.rdf','ニュース','info'],
+    ['https://www.jpcert.or.jp/feed/alerts.rdf','アラート','high'],
+    ['https://www.jpcert.or.jp/feed/vulnotes.rdf','脆弱性','medium'],
+  ];
+  const items = [];
+  for(const [url,label,sev] of feeds){
+    try{
+      const r = await fetch(CORS + encodeURIComponent(url));
+      const xml = new DOMParser().parseFromString((await r.json()).contents,'text/xml');
+      [...xml.querySelectorAll('item')].slice(0,10).forEach((el,i)=>{
+        items.push({
+          id:`jpcert-${label[0]}-${i}`, source:'jpcert',
+          title:el.querySelector('title')?.textContent?.trim()||'',
+          url:el.querySelector('link')?.textContent?.trim()||'',
+          score:null, author:'JPCERT/CC',
+          tags:['JPCERT',label,'セキュリティ'], severity:sev,
+          date: new Date(el.querySelector('pubDate,date')?.textContent||Date.now()).toISOString(),
+        });
+      });
+    }catch(e){}
+  }
+  return items;
+}
+
+// ── dev.to ───────────────────────────────────
+async function fetchDevTo() {
+  const r = await fetch('https://dev.to/api/articles?per_page=20&tag=security,devops,programming,pentest');
+  return (await r.json())
+    .filter(a => !isBlocked(a.url))
+    .map(a => ({
+      id:`devto-${a.id}`, source:'devto',
+      title:a.title, url:a.url,
+      score:a.positive_reactions_count, comments:a.comments_count,
+      author:a.user?.name||'', tags:(a.tag_list||[]).slice(0,3),
+      date:a.published_at,
+    }));
+}
+
+// ── PROJECT-SPECIFIC SOURCES ──────────────────
+// プロジェクトに関わる情報を専用タグで収集
+async function fetchProjectSources() {
+  const items = [];
+
+  
+  try {
+    const r = await fetch(CORS + encodeURIComponent('https://www.anthropic.com/rss.xml'));
+    const xml = new DOMParser().parseFromString((await r.json()).contents,'text/xml');
+    [...xml.querySelectorAll('item')].slice(0,8).forEach((el,i)=>{
+      items.push({
+        id:`techblog-${i}`, source:'project',
+        title:el.querySelector('title')?.textContent||'',
+        url:el.querySelector('link')?.textContent||'',
+        score:null, author:'Tech Blog',
+        tags:['Tech','AI'],
+        projCategory:'Tech',
+        date: new Date(el.querySelector('pubDate')?.textContent||Date.now()).toISOString(),
+      });
+    });
+  }catch(e){}
+
+  
+  try {
+    const r = await fetch(CORS + encodeURIComponent('https://status.hetzner.com/history.rss'));
+    const xml = new DOMParser().parseFromString((await r.json()).contents,'text/xml');
+    [...xml.querySelectorAll('item')].slice(0,5).forEach((el,i)=>{
+      items.push({
+        id:`infra-${i}`, source:'project',
+        title:`${el.querySelector('title')?.textContent||''}`,
+        url:el.querySelector('link')?.textContent||'',
+        score:null, author:'Infra Status',
+        tags:['Infra','VPS'],
+        projCategory:'Infra',
+        date: new Date(el.querySelector('pubDate')?.textContent||Date.now()).toISOString(),
+      });
+    });
+  }catch(e){}
+
+  // GitHub: プロジェクト関連ツールのリリース
+  const toolRepos = [
+    ['fortra/impacket','Impacket'],
+    ['projectdiscovery/nuclei','Nuclei'],
+    ['BloodHoundAD/BloodHound','BloodHound'],
+    ['Pennyw0rth/NetExec','NetExec/CME'],
+    ['chroma-core/chroma','ChromaDB'],
+  ];
+  for(const [repo,label] of toolRepos){
+    try{
+      const r = await fetch(`https://api.github.com/repos/${repo}/releases?per_page=2`);
+      const data = await r.json();
+      if(!Array.isArray(data)) continue;
+      data.forEach(rel => {
+        items.push({
+          id:`ghrel-${repo.replace('/','_')}-${rel.id}`,
+          source:'project',
+          title:`[${label}] ${rel.tag_name} — ${rel.name||'新リリース'}`,
+          url:rel.html_url,
+          score:rel.reactions?.['+1']||null,
+          author:label, tags:[label,'Release','Tool'],
+          projCategory:'Tools',
+          date:rel.published_at||new Date().toISOString(),
+        });
+      });
+    }catch(e){}
+  }
+
+  
+  try {
+    const r = await fetch(CORS + encodeURIComponent('https://www.hackthebox.com/blog/feed'));
+    const xml = new DOMParser().parseFromString((await r.json()).contents,'text/xml');
+    [...xml.querySelectorAll('item')].slice(0,8).forEach((el,i)=>{
+      items.push({
+        id:`htb-${i}`, source:'project',
+        title:el.querySelector('title')?.textContent||'',
+        url:el.querySelector('link')?.textContent||'',
+        score:null, author:'CTF Platform',
+        tags:['CTF','Security'],
+        projCategory:'CTF',
+        date: new Date(el.querySelector('pubDate')?.textContent||Date.now()).toISOString(),
+      });
+    });
+  }catch(e){}
+
+  return items;
+}
+
+
+async function fetchMitreAndMSF() {
+  const items = [];
+
+  
+  try {
+    const r = await fetch(CORS + encodeURIComponent('https://medium.com/feed/mitre-attack'));
+    const xml = new DOMParser().parseFromString((await r.json()).contents,'text/xml');
+    [...xml.querySelectorAll('item')].slice(0,8).forEach((el,i)=>{
+      const url = el.querySelector('link')?.textContent||'';
+      if(isBlocked(url)) return;
+      items.push({
+        id:`mitre-${i}`, source:'mitre',
+        title:el.querySelector('title')?.textContent||'',
+        url, score:null, author:'MITRE ATT&CK',
+        tags:['ATT&CK','MITRE','TTP'],
+        date: new Date(el.querySelector('pubDate')?.textContent||Date.now()).toISOString(),
+      });
+    });
+  }catch(e){}
+
+  // Exploit-DB RSS
+  try {
+    const r = await fetch(CORS + encodeURIComponent('https://www.exploit-db.com/rss.xml'));
+    const xml = new DOMParser().parseFromString((await r.json()).contents,'text/xml');
+    [...xml.querySelectorAll('item')].slice(0,12).forEach((el,i)=>{
+      items.push({
+        id:`edb-${i}`, source:'msf',
+        title:el.querySelector('title')?.textContent||'',
+        url:el.querySelector('link')?.textContent||'',
+        score:null, author:'Exploit-DB',
+        tags:['Exploit-DB','CVE','PoC'],
+        severity:'high',
+        date: new Date(el.querySelector('pubDate')?.textContent||Date.now()).toISOString(),
+      });
+    });
+  }catch(e){}
+
+  // NVD（最新CVE）
+  try {
+    const r = await fetch('https://services.nvd.nist.gov/rest/json/cves/2.0?resultsPerPage=15&sortBy=published');
+    const data = await r.json();
+    (data.vulnerabilities||[]).forEach((v,i) => {
+      const cve = v.cve;
+      const cvss = cve.metrics?.cvssMetricV31?.[0]?.cvssData?.baseScore
+                || cve.metrics?.cvssMetricV3?.[0]?.cvssData?.baseScore || 0;
+      const sev = cvss>=9?'critical':cvss>=7?'high':cvss>=4?'medium':'low';
+      const desc = cve.descriptions?.find(d=>d.lang==='en')?.value||'';
+      items.push({
+        id:`nvd-${cve.id}`, source:'msf',
+        title:`[${cve.id}] CVSS ${cvss} — ${desc.slice(0,100)}`,
+        url:`https://nvd.nist.gov/vuln/detail/${cve.id}`,
+        score:cvss, author:'NVD/NIST',
+        tags:[cve.id,'CVE',`CVSS:${cvss}`],
+        severity:sev,
+        date:cve.published||new Date().toISOString(),
+      });
+    });
+  }catch(e){}
+
+  return items;
+}
+
+// ════════════════════════════════════════════
+//  MAIN FETCH
+// ════════════════════════════════════════════
+async function fetchAll() {
+  setStatus('loading','取得中...');
+  showPg(10);
+
+  const fetchers = [
+    {fn:fetchHN,       name:'HN'},
+    {fn:fetchGitHub,   name:'GitHub'},
+    {fn:fetchZenn,     name:'Zenn'},
+    {fn:fetchQiita,    name:'Qiita'},
+    {fn:fetchJPCERT,   name:'JPCERT'},
+    {fn:fetchDevTo,    name:'dev.to'},
+    {fn:fetchProjectSources, name:'Project'},
+    {fn:fetchMitreAndMSF,    name:'MITRE/CVE'},
+  ];
+
+  const prevIds = new Set(allItems.map(i=>i.id));
+  let merged = [];
+  let errs = [];
+  const step = 75 / fetchers.length;
+
+  for(let i=0; i<fetchers.length; i++){
+    try{
+      const res = await fetchers[i].fn();
+      merged = merged.concat(res);
+    }catch(e){
+      errs.push(fetchers[i].name);
+    }
+    showPg(10 + step*(i+1));
+  }
+
+  // 重複除去 & isNew付与
+  const seen = new Set();
+  merged = merged
+    .filter(item => {
+      if(seen.has(item.id)) return false;
+      seen.add(item.id);
+      return true;
+    })
+    .map(item => ({...item, isNew: !prevIds.has(item.id) && prevIds.size > 0}));
+
+  // 日付ソート
+  merged.sort((a,b) => new Date(b.date) - new Date(a.date));
+  allItems = merged;
+
+  showPg(100);
+  setStatus('ok', `${allItems.length} 件収集済み`);
+  updateSidebar();
+  renderCurrentTab();
+  scheduleNext();
+
+  const now = new Date();
+  document.getElementById('updatedTxt').innerHTML =
+    `最終収集: ${now.toLocaleTimeString('ja-JP',{hour:'2-digit',minute:'2-digit'})}<br>合計: ${allItems.length} 件`;
+
+  if(errs.length) showToast(`⚠ ${errs.join(', ')} 取得失敗`,'err');
+  else showToast(`✓ ${allItems.length} 件を更新`,'ok');
+}
+
+function scheduleNext(){
+  if(refreshTmr) clearTimeout(refreshTmr);
+  if(countTmr) clearInterval(countTmr);
+  nextAt = Date.now() + RELOAD_MS;
+  refreshTmr = setTimeout(fetchAll, RELOAD_MS);
+  countTmr = setInterval(()=>{
+    const rem = Math.max(0, nextAt - Date.now());
+    const m = String(Math.floor(rem/60000)).padStart(2,'0');
+    const s = String(Math.floor((rem%60000)/1000)).padStart(2,'0');
+    document.getElementById('countdown').textContent = `次回更新: ${m}:${s}`;
+  },1000);
+}
+
+function manualRefresh(){ fetchAll(); }
+
+// ════════════════════════════════════════════
+//  ROUTING
+// ════════════════════════════════════════════
+function switchTab(tab){
+  currentTab = tab;
+  document.querySelectorAll('.tab-btn,.bnav-item').forEach(el=>
+    el.classList.toggle('active', el.dataset.tab===tab));
+  ['feed','project','trend','security','favorites'].forEach(t=>{
+    const el = document.getElementById(`tab-${t}`);
+    if(el) el.style.display = t===tab ? '' : 'none';
+  });
+  renderCurrentTab();
+}
+
+function renderCurrentTab(){
+  if(currentTab==='feed')      renderFeed();
+  else if(currentTab==='project') renderProject();
+  else if(currentTab==='trend')   renderTrend();
+  else if(currentTab==='security') renderSecurity();
+  else if(currentTab==='favorites') renderFavorites();
+}
+
+// ════════════════════════════════════════════
+//  FEED
+// ════════════════════════════════════════════
+function setSource(src){
+  currentSource = src;
+  document.querySelectorAll('.chip[data-s]').forEach(el=>
+    el.classList.toggle('active', el.dataset.s===src));
+  renderFeed();
+}
+function onSearch(){
+  searchQ = document.getElementById('searchInput').value.toLowerCase();
+  renderFeed();
+}
+function getFiltered(){
+  return allItems.filter(item=>{
+    const ms = currentSource==='all' || item.source===currentSource;
+    const mq = !searchQ ||
+      item.title.toLowerCase().includes(searchQ) ||
+      (item.author||'').toLowerCase().includes(searchQ) ||
+      (item.tags||[]).some(t=>t.toLowerCase().includes(searchQ));
+    return ms && mq;
+  });
+}
+function renderFeed(){
+  const el = document.getElementById('feedList');
+  if(!allItems.length){ el.innerHTML = skelCards(7); return; }
+  const items = getFiltered();
+  if(!items.length){ el.innerHTML = emptyState('◈','該当記事なし'); return; }
+  el.innerHTML = items.map((item,i)=>card(item,i)).join('');
+}
+
+// ════════════════════════════════════════════
+//  PROJECT TAB
+// ════════════════════════════════════════════
+function renderProject(){
+  const el = document.getElementById('projectList');
+  const items = allItems.filter(i => i.source==='project' || i.source==='mitre' || i.source==='msf');
+  if(!items.length){ el.innerHTML = skelCards(4); return; }
+
+  // カテゴリ別グループ
+  const cats = {};
+  items.forEach(item=>{
+    const cat = item.projCategory || SMETA[item.source]?.name || item.source;
+    if(!cats[cat]) cats[cat]=[];
+    cats[cat].push(item);
+  });
+
+  el.innerHTML = Object.entries(cats).map(([cat,citems])=>`
+    <div style="margin-bottom:20px">
+      <div class="section-hd">${cat}</div>
+      ${citems.map((item,i)=>card(item,i)).join('')}
+    </div>`).join('');
+}
+
+// ════════════════════════════════════════════
+//  CARD
+// ════════════════════════════════════════════
+function card(item, i){
+  const m = SMETA[item.source] || {name:item.source, icon:'◉', color:'#aaa'};
+  const delay = Math.min(i*20, 500);
+  const read = readIds.has(item.id);
+  const bm = isBookmarked(item.id);
+  let meta = '';
+  if(item.score!=null) meta += `<span class="meta">▲ ${item.score}</span>`;
+  if(item.comments!=null) meta += `<span class="meta">◎ ${item.comments}</span>`;
+  if(item.stars) meta += `<span class="meta">★ ${item.stars}</span>`;
+  if(item.author) meta += `<span class="meta">@ ${esc(item.author)}</span>`;
+  if(item.subSource) meta += `<span class="meta">▸ ${item.subSource}</span>`;
+  const tags = (item.tags||[]).map(t=>{
+    const isProj = ['JPCERT','Security'].includes(t);
+    return `<span class="pill${isProj?' proj-pill':''}">${esc(t)}</span>`;
+  }).join('');
+
+  return `
+  <div class="article-card${read?' read':''}" data-s="${item.source}"
+       style="animation-delay:${delay}ms"
+       onclick="openArt('${esc(item.id)}','${esc(item.url)}')">
+    <div class="card-top">
+      <span class="src-tag" data-s="${item.source}">${m.icon} ${m.name}</span>
+      ${item.isNew ? '<span class="new-pill">NEW</span>' : ''}
+      <span class="card-time">${relT(item.date)}</span>
+    </div>
+    <div class="card-title">${esc(item.title)}</div>
+    <div class="card-footer">
+      ${meta}${tags}
+      <div class="card-actions" onclick="event.stopPropagation()">
+        <button class="act-btn${bm?' bookmarked':''}"
+                onclick="openBmModal('${esc(item.id)}')" title="お気に入り">
+          ${bm?'★':'☆'}
+        </button>
+        <button class="act-btn" onclick="share('${esc(item.url)}')" title="シェア">↗</button>
+      </div>
+    </div>
+  </div>`;
+}
+
+function openArt(id, url){
+  readIds.add(id); saveAll();
+  window.open(url,'_blank','noopener');
+}
+function share(url){
+  if(navigator.share){ navigator.share({url}); }
+  else { navigator.clipboard?.writeText(url); showToast('◇ URLをコピー','ok'); }
+}
+
+// ════════════════════════════════════════════
+//  TREND
+// ════════════════════════════════════════════
+function renderTrend(){
+  // Hot articles
+  const scored = allItems.filter(i=>i.score>0).sort((a,b)=>b.score-a.score).slice(0,15);
+  const tEl = document.getElementById('trendList');
+  tEl.innerHTML = scored.length ? scored.map((item,i)=>{
+    const m = SMETA[item.source]||{name:item.source,icon:'◉'};
+    const rankCls = i===0?'gold':i===1?'silver':i===2?'bronze':'';
+    return `
+    <div class="trend-item" onclick="window.open('${esc(item.url)}','_blank','noopener')">
+      <div class="trend-rank${rankCls?' '+rankCls:''}">${i+1}</div>
+      <div>
+        <div class="trend-title">${esc(item.title)}</div>
+        <div class="trend-meta">
+          <span>${m.icon} ${m.name}</span>
+          <span>▲ ${item.score}</span>
+          ${item.comments?`<span>◎ ${item.comments}</span>`:''}
+          <span>${relT(item.date)}</span>
+        </div>
+      </div>
+    </div>`;
+  }).join('') : `<div style="color:var(--text3);font-size:12px;padding:12px;font-family:'JetBrains Mono',monospace">データ収集中...</div>`;
+
+  // Keywords
+  const stopWords = new Set(['the','a','an','in','of','to','is','and','for','with','how','why','what','from','on','that','this','are','was']);
+  const words = {};
+  allItems.forEach(item=>{
+    item.title.toLowerCase().split(/[\s\-_:,.()\/\[\]]+/).forEach(w=>{
+      w = w.replace(/[^a-zA-Z0-9\u3040-\u9FAF]/g,'');
+      if(w.length>2 && !stopWords.has(w)) words[w]=(words[w]||0)+1;
+    });
+  });
+  const topW = Object.entries(words).sort((a,b)=>b[1]-a[1]).slice(0,35);
+  const maxC = topW[0]?.[1]||1;
+  document.getElementById('kwCloud').innerHTML = topW.map(([w,cnt])=>{
+    const sz = 10 + Math.floor((cnt/maxC)*8);
+    return `<span class="kw-item" style="font-size:${sz}px;opacity:${0.5+(cnt/maxC)*0.5}"
+      onclick="document.getElementById('searchInput').value='${w}';onSearch();switchTab('feed')">${w}</span>`;
+  }).join('');
+
+  // Source dist
+  const cnts = {};
+  allItems.forEach(i=>cnts[i.source]=(cnts[i.source]||0)+1);
+  const maxCnt = Math.max(...Object.values(cnts),1);
+  document.getElementById('srcDist').innerHTML = Object.entries(cnts)
+    .sort((a,b)=>b[1]-a[1])
+    .map(([src,cnt])=>{
+      const m = SMETA[src]||{name:src,icon:'◉',color:'#4a5270'};
+      return `
+      <div class="src-stat-row">
+        <div class="src-stat-lbl">${m.icon} ${m.name}</div>
+        <div class="src-stat-wrap">
+          <div class="src-stat-bar" style="width:${(cnt/maxCnt*100).toFixed(0)}%;background:${m.color}"></div>
+        </div>
+        <div class="src-stat-num">${cnt}</div>
+      </div>`;
+    }).join('');
+}
+
+// ════════════════════════════════════════════
+//  SECURITY TAB
+// ════════════════════════════════════════════
+const SEV_KW = {
+  critical:['rce','remote code execution','critical','zero-day','0day','ransomware','緊急','脆弱性'],
+  high:    ['exploit','vulnerability','cve','xss','sqli','privilege escalation','bypass','攻撃'],
+  medium:  ['patch','update','advisory','warning','threat','malware','phishing'],
+  info:    ['security','セキュリティ','pentest','tool','research'],
+};
+function classifySev(item){
+  if(item.severity) return item.severity;
+  const t = (item.title+' '+(item.tags||[]).join(' ')).toLowerCase();
+  for(const [s,kws] of Object.entries(SEV_KW)){
+    if(kws.some(k=>t.includes(k))) return s;
+  }
+  return null;
+}
+function isSecItem(item){
+  const t = (item.title+' '+(item.tags||[]).join(' ')).toLowerCase();
+  return item.source==='jpcert' || item.source==='msf' ||
+    Object.values(SEV_KW).flat().some(k=>t.includes(k));
+}
+function setSev(sev){
+  currentSev = sev;
+  document.querySelectorAll('.sev-chip').forEach(el=>
+    el.classList.toggle('active', el.dataset.sev===sev));
+  renderSecurity();
+}
+function renderSecurity(){
+  const el = document.getElementById('secList');
+  let items = allItems.filter(isSecItem);
+  if(currentSev!=='all') items = items.filter(i=>classifySev(i)===currentSev);
+  const sevOrd = {critical:0,high:1,medium:2,low:3,info:4};
+  items.sort((a,b)=>(sevOrd[classifySev(a)]??4)-(sevOrd[classifySev(b)]??4));
+
+  if(!items.length){ el.innerHTML = emptyState('⚑','セキュリティ情報を収集中...'); return; }
+  el.innerHTML = items.map((item,i)=>{
+    const sev = classifySev(item)||'info';
+    const m = SMETA[item.source]||{name:item.source,icon:'◉'};
+    return `
+    <div class="sec-card" style="animation-delay:${Math.min(i*20,400)}ms"
+         onclick="window.open('${esc(item.url)}','_blank','noopener')">
+      <div class="sec-card-head">
+        <span class="sev-badge sev-${sev}">${sev.toUpperCase()}</span>
+        <span class="src-tag" data-s="${item.source}" style="font-size:9px">${m.icon} ${m.name}</span>
+        <span style="margin-left:auto;font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace">${relT(item.date)}</span>
+      </div>
+      <div class="sec-card-body">
+        <div class="sec-card-title">${esc(item.title)}</div>
+        <div class="sec-tags">
+          ${(item.tags||[]).map(t=>`<span class="sec-tag">${esc(t)}</span>`).join('')}
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ════════════════════════════════════════════
+//  FAVORITES
+// ════════════════════════════════════════════
+function isBookmarked(id){ return Object.values(favorites).some(arr=>arr.some(i=>i.id===id)); }
+
+function openBmModal(itemId){
+  const item = allItems.find(i=>i.id===itemId);
+  if(!item) return;
+  pendingBmItem = item;
+  document.getElementById('bmTitle').textContent = item.title;
+  renderFolderPick();
+  openModal('bmModal');
+}
+function renderFolderPick(){
+  document.getElementById('folderPick').innerHTML = folders.map(f=>{
+    const has = (favorites[f]||[]).some(i=>i.id===pendingBmItem?.id);
+    return `
+    <div class="folder-pick-item${has?' selected':''}" onclick="toggleFav('${esc(f)}')">
+      <span>⬡</span><span style="flex:1">${esc(f)}</span>
+      ${has?'<span>✓</span>':''}
+    </div>`;
+  }).join('');
+}
+function toggleFav(folder){
+  if(!pendingBmItem) return;
+  if(!favorites[folder]) favorites[folder]=[];
+  const idx = favorites[folder].findIndex(i=>i.id===pendingBmItem.id);
+  if(idx>=0){ favorites[folder].splice(idx,1); showToast('◇ 削除しました'); }
+  else { favorites[folder].unshift({...pendingBmItem}); showToast(`★ 「${folder}」に追加`,'ok'); }
+  saveAll();
+  renderFolderPick();
+  updateFavBadge();
+  updateSidebarFolders();
+  if(currentTab==='feed') renderFeed();
+}
+
+function openNewFolder(){ document.getElementById('nfInput').value=''; openModal('nfModal'); }
+function openNewFolderFromBm(){ closeModal('bmModal'); openNewFolder(); }
+function createFolder(){
+  const name = document.getElementById('nfInput').value.trim();
+  if(!name) return;
+  if(folders.includes(name)){ showToast('⚠ 同名フォルダあり','err'); return; }
+  folders.push(name); saveAll();
+  closeModal('nfModal');
+  showToast(`⬡ 「${name}」作成`,'ok');
+  updateSidebarFolders();
+  if(pendingBmItem) openModal('bmModal');
+}
+function deleteFolder(name){
+  if(!confirm(`「${name}」を削除しますか？`)) return;
+  folders = folders.filter(f=>f!==name);
+  delete favorites[name];
+  saveAll();
+  updateFavBadge();
+  updateSidebarFolders();
+  renderFavorites();
+  showToast(`⬡ 「${name}」削除`);
+}
+
+function renderFavorites(){
+  const el = document.getElementById('favContent');
+  const total = Object.values(favorites).reduce((s,a)=>s+a.length,0);
+  if(!total){
+    el.innerHTML = `
+    <div class="fav-empty">
+      <div class="fav-empty-icon">◇</div>
+      <div class="fav-empty-msg">お気に入りはまだありません<br>記事の ☆ ボタンから追加できます</div>
+    </div>`;
+    return;
+  }
+  el.innerHTML = folders.map(f=>{
+    const items = favorites[f]||[];
+    if(!items.length) return '';
+    return `
+    <div class="folder-block">
+      <div class="folder-hd">
+        <span>⬡</span>${esc(f)}
+        <span class="folder-cnt">${items.length} 件</span>
+        <button class="folder-del" onclick="deleteFolder('${esc(f)}')" title="削除">✕</button>
+      </div>
+      <div style="border:1px solid var(--border);border-top:none;border-radius:0 0 6px 6px;padding:8px">
+        ${items.map((item,i)=>card({...item,isNew:false},i)).join('')}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function updateFavBadge(){
+  const t = Object.values(favorites).reduce((s,a)=>s+a.length,0);
+  const b = document.getElementById('favBadge');
+  b.textContent=t; b.style.display=t>0?'':'none';
+}
+
+// ════════════════════════════════════════════
+//  SIDEBAR
+// ════════════════════════════════════════════
+function updateSidebar(){ updateSidebarFolders(); updateSidebarSrc(); }
+
+function updateSidebarFolders(){
+  const el = document.getElementById('sidebarFolders');
+  el.innerHTML = folders.map(f=>{
+    const cnt=(favorites[f]||[]).length;
+    return `
+    <div class="folder-mini" onclick="switchTab('favorites')">
+      <span style="color:var(--proj)">⬡</span>
+      <span style="flex:1;font-size:12px">${esc(f)}</span>
+      <span class="folder-mini-cnt">${cnt}</span>
+    </div>`;
+  }).join('') + `<button class="add-folder-btn" onclick="openNewFolder()">+ フォルダ追加</button>`;
+}
+
+function updateSidebarSrc(){
+  const el = document.getElementById('sidebarSrc');
+  const cnts={};
+  allItems.forEach(i=>cnts[i.source]=(cnts[i.source]||0)+1);
+  const maxC=Math.max(...Object.values(cnts),1);
+  el.innerHTML = Object.entries(cnts).sort((a,b)=>b[1]-a[1]).map(([src,cnt])=>{
+    const m=SMETA[src]||{name:src,icon:'◉',color:'#4a5270'};
+    return `
+    <div class="src-stat-row">
+      <div class="src-stat-lbl">${m.icon} ${m.name.slice(0,8)}</div>
+      <div class="src-stat-wrap">
+        <div class="src-stat-bar" style="width:${(cnt/maxC*100).toFixed(0)}%;background:${m.color}"></div>
+      </div>
+      <div class="src-stat-num">${cnt}</div>
+    </div>`;
+  }).join('');
+}
+
+// ════════════════════════════════════════════
+//  UTILS
+// ════════════════════════════════════════════
+function setStatus(s,t){
+  const d=document.getElementById('statDot');
+  d.className='stat-dot '+(s==='loading'?'loading':s==='error'?'error':'ok');
+  document.getElementById('statText').textContent=t;
+}
+function showPg(pct){
+  const b=document.getElementById('pgbar');
+  b.style.opacity='1';b.style.width=pct+'%';
+  if(pct>=100) setTimeout(()=>{b.style.opacity='0';b.style.width='0';},600);
+}
+let toastTmr;
+function showToast(msg,type=''){
+  const el=document.getElementById('toast');
+  el.textContent=msg;el.className='toast '+(type==='ok'?'ok':type==='err'?'err':'')+' show';
+  if(toastTmr) clearTimeout(toastTmr);
+  toastTmr=setTimeout(()=>el.classList.remove('show'),2800);
+}
+function openModal(id){document.getElementById(id).classList.add('open')}
+function closeModal(id){document.getElementById(id).classList.remove('open')}
+function relT(ds){
+  try{
+    const d=(Date.now()-new Date(ds))/1000;
+    if(d<60)return '今';
+    if(d<3600)return `${Math.floor(d/60)}分前`;
+    if(d<86400)return `${Math.floor(d/3600)}時間前`;
+    return `${Math.floor(d/86400)}日前`;
+  }catch{return '--'}
+}
+function esc(s){
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+function skelCards(n){
+  return Array(n).fill(0).map(()=>`
+  <div class="skel-card">
+    <div style="display:flex;gap:8px;margin-bottom:8px">
+      <div class="skel" style="width:70px;height:16px"></div>
+      <div class="skel" style="width:50px;height:16px;margin-left:auto"></div>
+    </div>
+    <div class="skel" style="height:14px;margin-bottom:5px"></div>
+    <div class="skel" style="height:14px;width:80%;margin-bottom:10px"></div>
+    <div class="skel" style="height:10px;width:50%"></div>
+  </div>`).join('');
+}
+function emptyState(icon,msg){
+  return `<div style="text-align:center;padding:48px 16px;color:var(--text3)">
+    <div style="font-size:28px;margin-bottom:8px">${icon}</div>
+    <div style="font-size:13px;color:var(--text2)">${msg}</div>
+  </div>`;
+}
+
+// Modal overlay click
+document.querySelectorAll('.overlay').forEach(el=>
+  el.addEventListener('click',e=>{ if(e.target===el) el.classList.remove('open'); }));
+document.getElementById('nfInput').addEventListener('keydown',e=>{ if(e.key==='Enter') createFolder(); });
+
+// ════════════════════════════════════════════
+//  INIT
+// ════════════════════════════════════════════
+updateFavBadge();
+updateSidebarFolders();
+document.getElementById('feedList').innerHTML = skelCards(7);
+fetchAll();
+</script>
+</body>
+</html>
