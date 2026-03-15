@@ -916,8 +916,7 @@ function empty(icon, msg) {
 }
 
 // INIT
-switchTab('archive');
-loadAll();
+loadAll().then(() => switchTab('archive'));
 </script>
 </body>
 </html>
