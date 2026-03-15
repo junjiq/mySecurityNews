@@ -603,25 +603,27 @@ function renderPentest() {
   if (!items.length) { el.innerHTML = empty('↯','ペンテスト情報を収集中...'); return; }
   const catColors = {exploit:'var(--msf)',cve:'var(--red)',tool:'var(--proj)',ctf:'var(--accent)'};
   const catLabels = {exploit:'EXPLOIT',cve:'CVE',tool:'TOOL',ctf:'CTF'};
-  el.innerHTML = items.map(function(item,i) {
+  el.innerHTML = items.map((item,i) => {
     const ptCat = getPtCategory(item);
     const m = SMETA[item.source]||{name:item.source,icon:'◉'};
     const sev = item.severity || '';
-    const sevHtml = sev ? '<span class="sev-pill sev-'+sev+'" style="margin-left:4px">'+sev.toUpperCase()+'</span>' : '';
-    const tagsHtml = (item.tags||[]).map(function(t){ return '<span class="sec-tag">'+esc(t)+'</span>'; }).join('');
+    const sevHtml = sev ? `<span class="sev-pill sev-${sev}" style="margin-left:4px">${sev.toUpperCase()}</span>` : '';
+    const tagsHtml = (item.tags||[]).map(t => `<span class="sec-tag">${esc(t)}</span>`).join('');
     const catColor = catColors[ptCat] || 'var(--msf)';
     const catLabel = catLabels[ptCat] || ptCat.toUpperCase();
-    return '<div class="sec-card" style="animation-delay:'+Math.min(i*20,400)+'ms" onclick="window.open(''+esc(item.url)+'','_blank','noopener')">'
-      + '<div class="sec-card-head">'
-      + '<span class="sev-pill" style="background:rgba(251,146,60,.2);color:'+catColor+';border:1px solid '+catColor+'">'+catLabel+'</span>'
-      + sevHtml
-      + '<span class="src-tag" data-s="'+item.source+'" style="font-size:9px">'+m.icon+' '+m.name+'</span>'
-      + '<span style="margin-left:auto;font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace">'+relT(item.date)+'</span>'
-      + '</div>'
-      + '<div class="sec-card-body">'
-      + '<div class="sec-card-title">'+esc(item.title)+'</div>'
-      + '<div class="sec-tags">'+tagsHtml+'</div>'
-      + '</div></div>';
+    return `
+    <div class="sec-card" style="animation-delay:${Math.min(i*20,400)}ms" onclick="window.open('${esc(item.url)}','_blank','noopener')">
+      <div class="sec-card-head">
+        <span class="sev-pill" style="background:rgba(251,146,60,.2);color:${catColor};border:1px solid ${catColor}">${catLabel}</span>
+        ${sevHtml}
+        <span class="src-tag" data-s="${item.source}" style="font-size:9px">${m.icon} ${m.name}</span>
+        <span style="margin-left:auto;font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace">${relT(item.date)}</span>
+      </div>
+      <div class="sec-card-body">
+        <div class="sec-card-title">${esc(item.title)}</div>
+        <div class="sec-tags">${tagsHtml}</div>
+      </div>
+    </div>`;
   }).join('');
 }
 function setSev(sev) {
