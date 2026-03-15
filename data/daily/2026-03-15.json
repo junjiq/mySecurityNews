@@ -1,7 +1,7 @@
 {
   "date": "2026-03-15",
-  "generated_at": "2026-03-15T04:23:08.669848+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-03-15T05:50:37.334786+00:00",
+  "total_articles": 67,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 56,
       "top_items": [
         {
           "title": "Ageless Linux – Software for humans of indeterminate age",
           "url": "https://agelesslinux.org/",
-          "score": 322,
+          "score": 481,
           "source": "hn",
           "severity": null,
           "date": "2026-03-14T22:10:26+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "Montana passes Right to Compute act (2025)",
           "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
-          "score": 245,
+          "score": 257,
           "source": "hn",
           "severity": null,
           "date": "2026-03-14T13:59:58+00:00"
@@ -61,8 +61,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 11,
       "top_items": [
+        {
+          "title": "Anthropic公式「Skills完全ガイド」を読んだら、自分のSKILL.mdのトークン消費を40%減らせた",
+          "url": "https://qiita.com/yurukusa/items/f69920b4a02cf7e2988c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-15T11:58:48+09:00"
+        },
+        {
+          "title": "【入門記事】ClaudeCodeの中級者になりたい人は集合してください",
+          "url": "https://qiita.com/K5K/items/72cc4282819ace823524?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-15T11:31:07+09:00"
+        },
         {
           "title": "【全自動に超進化】100ページ超のPDF要件定義書も余裕！Antigravityだけで一気に設計書に落とし込む！",
           "url": "https://qiita.com/hitotch/items/0e746edf66e123a7af81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,22 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-14T22:06:20+09:00"
-        },
-        {
-          "title": "AI × Pythonで研究が“30秒で終わる”ようになった話 ― データ基盤 → 仮説量産 → 高速検証の時代へ",
-          "url": "https://qiita.com/d94231/items/0bf79993886f7d73a81b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-14T21:27:08+09:00"
-        },
-        {
-          "title": "symbol-shoestringのhealthコマンド不具合調査",
-          "url": "https://qiita.com/ccHarvestasya/items/d8ece57a40d6362ef2c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-14T21:13:01+09:00"
         }
       ]
     }
