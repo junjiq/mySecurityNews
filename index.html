@@ -607,19 +607,19 @@ function renderPentest() {
     const catLabels = {exploit:'EXPLOIT',cve:'CVE',tool:'TOOL',ctf:'CTF'};
     const m = SMETA[item.source]||{name:item.source,icon:'◉'};
     const sev = item.severity;
-    return \`
-    <div class="sec-card" style="animation-delay:\${Math.min(i*20,400)}ms" onclick="window.open('\${esc(item.url)}','_blank','noopener')">
+    return `
+    <div class="sec-card" style="animation-delay:${Math.min(i*20,400)}ms" onclick="window.open('${esc(item.url)}','_blank','noopener')">
       <div class="sec-card-head">
-        <span class="sev-pill" style="background:rgba(251,146,60,.2);color:\${catColors[ptCat]};border:1px solid \${catColors[ptCat]}">\${catLabels[ptCat]||ptCat.toUpperCase()}</span>
-        \${sev ? \`<span class="sev-pill sev-\${sev}" style="margin-left:4px">\${sev.toUpperCase()}</span>\` : ''}
-        <span class="src-tag" data-s="\${item.source}" style="font-size:9px">\${m.icon} \${m.name}</span>
-        <span style="margin-left:auto;font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace">\${relT(item.date)}</span>
+        <span class="sev-pill" style="background:rgba(251,146,60,.2);color:${catColors[ptCat]};border:1px solid ${catColors[ptCat]}">${catLabels[ptCat]||ptCat.toUpperCase()}</span>
+        ${sev ? `<span class="sev-pill sev-${sev}" style="margin-left:4px">${sev.toUpperCase()}</span>` : ''}
+        <span class="src-tag" data-s="${item.source}" style="font-size:9px">${m.icon} ${m.name}</span>
+        <span style="margin-left:auto;font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace">${relT(item.date)}</span>
       </div>
       <div class="sec-card-body">
-        <div class="sec-card-title">\${esc(item.title)}</div>
-        <div class="sec-tags">\${(item.tags||[]).map(t=>\`<span class="sec-tag">\${esc(t)}</span>\`).join('')}</div>
+        <div class="sec-card-title">${esc(item.title)}</div>
+        <div class="sec-tags">${(item.tags||[]).map(t=>`<span class="sec-tag">${esc(t)}</span>`).join('')}</div>
       </div>
-    </div>\`;
+    </div>`;
   }).join('');
 }
 function setSev(sev) {
