@@ -226,6 +226,7 @@ body::before{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;
     <button class="tab-btn active" data-tab="feed"     onclick="switchTab('feed')">◈ フィード</button>
     <button class="tab-btn"        data-tab="summary"  onclick="switchTab('summary')">◎ 日次サマリー</button>
     <button class="tab-btn"        data-tab="security" onclick="switchTab('security')">⚑ セキュリティ</button>
+    <button class="tab-btn"        data-tab="pentest"  onclick="switchTab('pentest')">↯ ペンテスト</button>
     <button class="tab-btn"        data-tab="trend"    onclick="switchTab('trend')">↑ トレンド</button>
     <button class="tab-btn"        data-tab="archive"  onclick="switchTab('archive')">◫ アーカイブ</button>
   </nav>
@@ -260,6 +261,17 @@ body::before{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;
         <button class="sev-chip" data-sev="info"            onclick="setSev('info')">INFO</button>
       </div>
       <div id="secList"></div>
+    </div>
+
+    <div id="tab-pentest" style="display:none">
+      <div class="sev-chips">
+        <button class="sev-chip active" data-pt="all"      onclick="setPtFilter('all')">ALL</button>
+        <button class="sev-chip" data-pt="exploit"         onclick="setPtFilter('exploit')" style="border-color:#fb923c;color:#fb923c">EXPLOIT</button>
+        <button class="sev-chip" data-pt="cve"             onclick="setPtFilter('cve')" style="border-color:#f87171;color:#f87171">CVE</button>
+        <button class="sev-chip" data-pt="tool"            onclick="setPtFilter('tool')" style="border-color:#a78bfa;color:#a78bfa">TOOL</button>
+        <button class="sev-chip" data-pt="ctf"             onclick="setPtFilter('ctf')" style="border-color:#4ade80;color:#4ade80">CTF</button>
+      </div>
+      <div id="pentestList"></div>
     </div>
 
     <div id="tab-trend" style="display:none">
@@ -307,6 +319,7 @@ body::before{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;
   <button class="bnav-item active" data-tab="feed"     onclick="switchTab('feed')"><span class="bnav-icon">◈</span>FEED</button>
   <button class="bnav-item"        data-tab="summary"  onclick="switchTab('summary')"><span class="bnav-icon">◎</span>SUMMARY</button>
   <button class="bnav-item"        data-tab="security" onclick="switchTab('security')"><span class="bnav-icon">⚑</span>SEC</button>
+  <button class="bnav-item"        data-tab="pentest"  onclick="switchTab('pentest')"><span class="bnav-icon">↯</span>PENTEST</button>
   <button class="bnav-item"        data-tab="trend"    onclick="switchTab('trend')"><span class="bnav-icon">↑</span>TREND</button>
   <button class="bnav-item"        data-tab="archive"  onclick="switchTab('archive')"><span class="bnav-icon">◫</span>ARCHIVE</button>
 </nav>
@@ -420,7 +433,7 @@ function switchTab(tab) {
   currentTab = tab;
   document.querySelectorAll('.tab-btn,.bnav-item').forEach(el =>
     el.classList.toggle('active', el.dataset.tab === tab));
-  ['feed','summary','security','trend','archive'].forEach(t => {
+  ['feed','summary','security','pentest','trend','archive'].forEach(t => {
     const el = document.getElementById(`tab-${t}`);
     if (el) el.style.display = t === tab ? '' : 'none';
   });
@@ -430,6 +443,7 @@ function renderCurrentTab() {
   if (currentTab==='feed')     renderFeed();
   if (currentTab==='summary')  renderSummary();
   if (currentTab==='security') renderSecurity();
+  if (currentTab==='pentest')  renderPentest();
   if (currentTab==='trend')    renderTrend();
   if (currentTab==='archive')  renderArchive();
 }
@@ -536,9 +550,78 @@ function classifySev(item) {
   return null;
 }
 function isSecItem(item) {
+  // セキュリティタブ = 防御側（JPCERT・アドバイザリ・パッチ情報）
+  if (item.source === 'jpcert') return true;
   const t = (item.title+' '+(item.tags||[]).join(' ')).toLowerCase();
-  return item.source==='jpcert' || item.source==='msf' ||
-    Object.values(SEV_KW).flat().some(k=>t.includes(k));
+  const defKws = ['advisory','patch','update','warning','alert','セキュリティ','アラート','脆弱性対策'];
+  return defKws.some(k => t.includes(k));
+}
+
+// ペンテストタブ = 攻撃側（Exploit-DB・CVE・PoC・ツール・CTF）
+const PT_KW = {
+  exploit: ['exploit','rce','poc','remote code','bypass','privilege escalation','sqli','xss','lfi','rfi'],
+  cve:     ['cve-','cvss','nvd','zero-day','0day'],
+  tool:    ['metasploit','burp','nuclei','nmap','sqlmap','impacket','bloodhound','crackmapexec','netexec','hydra','ffuf'],
+  ctf:     ['ctf','htb','hackthebox','tryhackme','writeup','pwn','reversing','forensics'],
+};
+let currentPtFilter = 'all';
+
+function isPentestItem(item) {
+  if (item.source === 'msf') return true;
+  if (item.proj_category === 'CTF') return true;
+  const t = (item.title+' '+(item.tags||[]).join(' ')).toLowerCase();
+  return Object.values(PT_KW).flat().some(k => t.includes(k));
+}
+
+function getPtCategory(item) {
+  if (item.proj_category === 'CTF') return 'ctf';
+  if (item.source === 'msf') {
+    const t = item.title.toLowerCase();
+    if (t.includes('cve-') || t.includes('cvss')) return 'cve';
+    return 'exploit';
+  }
+  const t = (item.title+' '+(item.tags||[]).join(' ')).toLowerCase();
+  for (const [cat, kws] of Object.entries(PT_KW)) {
+    if (kws.some(k => t.includes(k))) return cat;
+  }
+  return 'exploit';
+}
+
+function setPtFilter(filter) {
+  currentPtFilter = filter;
+  document.querySelectorAll('[data-pt]').forEach(el =>
+    el.classList.toggle('active', el.dataset.pt === filter));
+  renderPentest();
+}
+
+function renderPentest() {
+  const el = document.getElementById('pentestList');
+  let items = allItems.filter(isPentestItem);
+  if (currentPtFilter !== 'all') {
+    items = items.filter(i => getPtCategory(i) === currentPtFilter);
+  }
+  items.sort((a,b) => new Date(b.date) - new Date(a.date));
+  if (!items.length) { el.innerHTML = empty('↯','ペンテスト情報を収集中...'); return; }
+  el.innerHTML = items.map((item,i) => {
+    const ptCat = getPtCategory(item);
+    const catColors = {exploit:'var(--msf)',cve:'var(--red)',tool:'var(--proj)',ctf:'var(--accent)'};
+    const catLabels = {exploit:'EXPLOIT',cve:'CVE',tool:'TOOL',ctf:'CTF'};
+    const m = SMETA[item.source]||{name:item.source,icon:'◉'};
+    const sev = item.severity;
+    return \`
+    <div class="sec-card" style="animation-delay:\${Math.min(i*20,400)}ms" onclick="window.open('\${esc(item.url)}','_blank','noopener')">
+      <div class="sec-card-head">
+        <span class="sev-pill" style="background:rgba(251,146,60,.2);color:\${catColors[ptCat]};border:1px solid \${catColors[ptCat]}">\${catLabels[ptCat]||ptCat.toUpperCase()}</span>
+        \${sev ? \`<span class="sev-pill sev-\${sev}" style="margin-left:4px">\${sev.toUpperCase()}</span>\` : ''}
+        <span class="src-tag" data-s="\${item.source}" style="font-size:9px">\${m.icon} \${m.name}</span>
+        <span style="margin-left:auto;font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace">\${relT(item.date)}</span>
+      </div>
+      <div class="sec-card-body">
+        <div class="sec-card-title">\${esc(item.title)}</div>
+        <div class="sec-tags">\${(item.tags||[]).map(t=>\`<span class="sec-tag">\${esc(t)}</span>\`).join('')}</div>
+      </div>
+    </div>\`;
+  }).join('');
 }
 function setSev(sev) {
   currentSev = sev;
