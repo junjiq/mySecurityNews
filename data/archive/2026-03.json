@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-15T19:48:50.694811+00:00",
-  "total_articles": 198,
+  "generated_at": "2026-03-15T20:23:41.151670+00:00",
+  "total_articles": 211,
   "source_counts": {
-    "hn": 150,
-    "zennqiita": 47,
+    "hn": 153,
+    "zennqiita": 57,
     "project": 1
   },
   "severity_counts": {
     "high": 1,
-    "critical": 5
+    "critical": 6
   },
   "top_articles": [
     {
@@ -76,18 +76,25 @@
       "date": "2026-03-15T08:04:55+00:00"
     },
     {
-      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "score": 321,
-      "source": "hn",
-      "date": "2026-03-15T10:15:47+00:00"
-    },
-    {
       "title": "How kernel anti-cheats work",
       "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 321,
+      "score": 328,
       "source": "hn",
       "date": "2026-03-15T00:15:10+00:00"
+    },
+    {
+      "title": "Rack-mount hydroponics",
+      "url": "https://sa.lj.am/rack-mount-hydroponics/",
+      "score": 325,
+      "source": "hn",
+      "date": "2026-03-15T04:23:43+00:00"
+    },
+    {
+      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+      "score": 322,
+      "source": "hn",
+      "date": "2026-03-15T10:15:47+00:00"
     },
     {
       "title": "Hammerspoon",
@@ -95,13 +102,6 @@
       "score": 321,
       "source": "hn",
       "date": "2026-03-13T18:34:12+00:00"
-    },
-    {
-      "title": "Rack-mount hydroponics",
-      "url": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 316,
-      "source": "hn",
-      "date": "2026-03-15T04:23:43+00:00"
     },
     {
       "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
@@ -141,7 +141,7 @@
     {
       "title": "A Visual Introduction to Machine Learning (2015)",
       "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 267,
+      "score": 274,
       "source": "hn",
       "date": "2026-03-15T10:47:35+00:00"
     },
@@ -195,6 +195,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-13T09:45:30+00:00"
+    },
+    {
+      "title": "//go:fix inline and the source-level inliner",
+      "url": "https://go.dev/blog/inliner",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-11T18:39:25+00:00"
     }
   ]
 }

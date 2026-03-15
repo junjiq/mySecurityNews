@@ -1,7 +1,7 @@
 {
   "date": "2026-03-15",
-  "generated_at": "2026-03-15T19:48:50.651492+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-03-15T20:23:41.108704+00:00",
+  "total_articles": 65,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 49,
       "top_items": [
         {
           "title": "Ageless Linux – Software for humans of indeterminate age",
@@ -34,17 +34,9 @@
           "date": "2026-03-15T08:04:55+00:00"
         },
         {
-          "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-          "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-          "score": 321,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-15T10:15:47+00:00"
-        },
-        {
           "title": "How kernel anti-cheats work",
           "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-          "score": 321,
+          "score": 328,
           "source": "hn",
           "severity": null,
           "date": "2026-03-15T00:15:10+00:00"
@@ -52,16 +44,24 @@
         {
           "title": "Rack-mount hydroponics",
           "url": "https://sa.lj.am/rack-mount-hydroponics/",
-          "score": 316,
+          "score": 325,
           "source": "hn",
           "severity": null,
           "date": "2026-03-15T04:23:43+00:00"
+        },
+        {
+          "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+          "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+          "score": 322,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-15T10:15:47+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 16,
       "top_items": [
         {
           "title": "【入門記事】ClaudeCodeの中級者になりたい人は集合してください",
@@ -80,6 +80,14 @@
           "date": "2026-03-15T22:00:27+09:00"
         },
         {
+          "title": "Claude Codeスキルで自動化するペネトレーションテスト完全ガイド — 23カテゴリの実践手法",
+          "url": "https://qiita.com/nogataka/items/0808d2b51aa986569dd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-15T21:04:57+09:00"
+        },
+        {
           "title": "学生プランでGithub CopilotでOpusとかGPT5.4が使えなくなった",
           "url": "https://qiita.com/hokutoh/items/3b074137a6f372776ec5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -88,20 +96,12 @@
           "date": "2026-03-15T19:13:42+09:00"
         },
         {
-          "title": "2026/03/15 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-          "url": "https://qiita.com/ennagara128/items/afc04f2a5a1f1880236e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "MITRE ATT&CK入門：攻撃者視点で対策・検知・ゼロトラストをつなぐ",
+          "url": "https://qiita.com/comty/items/564c3c58dc602188e135?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-15T12:40:01+09:00"
-        },
-        {
-          "title": "「安全なウェブサイトの作り方」に沿って、Next.jsで脆弱性の攻撃と防御を体験するハンズオン",
-          "url": "https://qiita.com/arunbababa/items/952ce224a77b06e2cc26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "high",
-          "date": "2026-03-15T12:34:21+09:00"
+          "date": "2026-03-15T19:01:43+09:00"
         }
       ]
     }
