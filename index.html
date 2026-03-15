@@ -223,18 +223,18 @@ body::before{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;
     </div>
   </div>
   <nav class="tab-nav">
-    <button class="tab-btn active" data-tab="feed"     onclick="switchTab('feed')">◈ フィード</button>
+    <button class="tab-btn active" data-tab="archive"  onclick="switchTab('archive')">◫ 月次まとめ</button>
+    <button class="tab-btn"        data-tab="feed"     onclick="switchTab('feed')">◈ フィード</button>
     <button class="tab-btn"        data-tab="summary"  onclick="switchTab('summary')">◎ 日次サマリー</button>
     <button class="tab-btn"        data-tab="security" onclick="switchTab('security')">⚑ セキュリティ</button>
     <button class="tab-btn"        data-tab="pentest"  onclick="switchTab('pentest')">↯ ペンテスト</button>
     <button class="tab-btn"        data-tab="trend"    onclick="switchTab('trend')">↑ トレンド</button>
-    <button class="tab-btn"        data-tab="archive"  onclick="switchTab('archive')">◫ アーカイブ</button>
   </nav>
 </header>
 
 <div class="app-body">
   <main id="mainCol">
-    <div id="tab-feed">
+    <div id="tab-feed" style="display:none">
       <div class="chip-row">
         <button class="chip active" data-s="all"       onclick="setSource('all')"><span class="chip-dot" style="background:#4a5270"></span>ALL</button>
         <button class="chip" data-s="hn"               onclick="setSource('hn')"><span class="chip-dot" style="background:var(--hn)"></span>HN</button>
@@ -289,8 +289,8 @@ body::before{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;
       </div>
     </div>
 
-    <div id="tab-archive" style="display:none">
-      <div class="section-hd" style="margin-bottom:12px">◫ 月別アーカイブ</div>
+    <div id="tab-archive">
+      <div class="section-hd" style="margin-bottom:12px">◫ 月次まとめ</div>
       <div class="month-grid" id="monthGrid"></div>
       <div id="archiveDetail"></div>
     </div>
@@ -316,12 +316,11 @@ body::before{content:'';position:fixed;inset:0;pointer-events:none;z-index:9999;
 </div>
 
 <nav class="bottom-nav">
-  <button class="bnav-item active" data-tab="feed"     onclick="switchTab('feed')"><span class="bnav-icon">◈</span>FEED</button>
-  <button class="bnav-item"        data-tab="summary"  onclick="switchTab('summary')"><span class="bnav-icon">◎</span>SUMMARY</button>
+  <button class="bnav-item active" data-tab="archive"  onclick="switchTab('archive')"><span class="bnav-icon">◫</span>MONTHLY</button>
+  <button class="bnav-item"        data-tab="feed"     onclick="switchTab('feed')"><span class="bnav-icon">◈</span>FEED</button>
   <button class="bnav-item"        data-tab="security" onclick="switchTab('security')"><span class="bnav-icon">⚑</span>SEC</button>
   <button class="bnav-item"        data-tab="pentest"  onclick="switchTab('pentest')"><span class="bnav-icon">↯</span>PENTEST</button>
   <button class="bnav-item"        data-tab="trend"    onclick="switchTab('trend')"><span class="bnav-icon">↑</span>TREND</button>
-  <button class="bnav-item"        data-tab="archive"  onclick="switchTab('archive')"><span class="bnav-icon">◫</span>ARCHIVE</button>
 </nav>
 
 <div class="toast" id="toast"></div>
@@ -764,9 +763,34 @@ async function loadArchiveMonth(month, file) {
         <span style="font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace;flex-shrink:0">${relT(a.date)}</span>
       </div>`).join('');
 
+    // Gemini要約セクション
+    const geminiHtml = d.gemini_summary ? (() => {
+      const g = d.gemini_summary;
+      const catsHtml = (g.categories||[]).map(cat => `
+        <div style="margin-bottom:10px;padding:12px;background:var(--bg3);border-radius:6px;border-left:3px solid var(--accentc)">
+          <div style="font-family:'Outfit',sans-serif;font-size:11px;font-weight:700;color:var(--accentc);letter-spacing:1px;margin-bottom:6px">${cat.name}</div>
+          <div style="font-size:13px;color:var(--text);line-height:1.7;margin-bottom:8px">${cat.summary}</div>
+          <div style="display:flex;flex-wrap:wrap;gap:4px">
+            ${(cat.keywords||[]).map(k=>`<span style="font-size:10px;padding:2px 8px;border-radius:3px;background:rgba(167,139,250,.15);border:1px solid rgba(167,139,250,.3);color:var(--accentc);font-family:'JetBrains Mono',monospace">${k}</span>`).join('')}
+          </div>
+        </div>`).join('');
+      return `
+        <div style="margin-bottom:20px">
+          <div class="section-hd" style="margin-bottom:10px">
+            ◎ Gemini 月間トレンド要約
+            <span style="font-size:9px;font-weight:400;color:var(--accent);letter-spacing:0;margin-left:8px;font-family:'JetBrains Mono',monospace">AI生成</span>
+          </div>
+          <div style="padding:14px;background:var(--bg3);border-radius:8px;border:1px solid rgba(167,139,250,.2);margin-bottom:10px">
+            <div style="font-size:13px;color:var(--text2);line-height:1.75">${g.overall}</div>
+          </div>
+          ${catsHtml}
+        </div>`;
+    })() : '';
+
     detail.innerHTML = `
       <div class="archive-detail">
         <div class="section-hd" style="margin-bottom:12px">${d.month} ARCHIVE</div>
+        ${geminiHtml}
         <div class="archive-stat-row">
           <div class="archive-stat"><div class="archive-stat-num">${d.total_articles}</div><div class="archive-stat-lbl">総記事数</div></div>
           <div class="archive-stat"><div class="archive-stat-num" style="color:var(--red)">${(d.security_highlights||[]).length}</div><div class="archive-stat-lbl">セキュリティ</div></div>
@@ -888,7 +912,7 @@ function empty(icon, msg) {
 }
 
 // INIT
-document.getElementById('feedList').innerHTML = skelCards(7);
+switchTab('archive');
 loadAll();
 </script>
 </body>
