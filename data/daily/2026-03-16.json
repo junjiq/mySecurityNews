@@ -1,7 +1,7 @@
 {
   "date": "2026-03-16",
-  "generated_at": "2026-03-16T14:43:28.697250+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-03-16T16:02:19.100064+00:00",
+  "total_articles": 41,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 32,
       "top_items": [
         {
           "title": "Canada's bill C-22 mandates mass metadata surveillance",
@@ -42,20 +42,20 @@
           "date": "2026-03-15T19:12:53+00:00"
         },
         {
-          "title": "LLM Architecture Gallery",
-          "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-          "score": 459,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-15T16:01:09+00:00"
-        },
-        {
           "title": "Stop Sloppypasta",
           "url": "https://stopsloppypasta.ai/",
           "score": 444,
           "source": "hn",
           "severity": null,
           "date": "2026-03-15T17:25:00+00:00"
+        },
+        {
+          "title": "How I write software with LLMs",
+          "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+          "score": 299,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-16T01:24:09+00:00"
         }
       ]
     },
