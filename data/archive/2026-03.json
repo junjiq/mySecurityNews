@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-16T16:02:19.146562+00:00",
-  "total_articles": 263,
+  "generated_at": "2026-03-16T17:33:55.074438+00:00",
+  "total_articles": 279,
   "source_counts": {
-    "hn": 195,
+    "hn": 211,
     "zennqiita": 67,
     "project": 1
   },
   "severity_counts": {
     "medium": 1,
-    "critical": 7,
+    "critical": 8,
     "high": 1
   },
   "top_articles": [
@@ -30,9 +30,23 @@
     {
       "title": "Canada's bill C-22 mandates mass metadata surveillance",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "score": 814,
+      "score": 938,
       "source": "hn",
       "date": "2026-03-15T21:22:16+00:00"
+    },
+    {
+      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+      "score": 841,
+      "source": "hn",
+      "date": "2026-03-16T12:00:06+00:00"
+    },
+    {
+      "title": "The 49MB web page",
+      "url": "https://thatshubham.com/blog/news-audit",
+      "score": 741,
+      "source": "hn",
+      "date": "2026-03-15T19:25:18+00:00"
     },
     {
       "title": "Ageless Linux – Software for humans of indeterminate age",
@@ -42,18 +56,18 @@
       "date": "2026-03-14T22:10:26+00:00"
     },
     {
-      "title": "The 49MB web page",
-      "url": "https://thatshubham.com/blog/news-audit",
-      "score": 647,
-      "source": "hn",
-      "date": "2026-03-15T19:25:18+00:00"
-    },
-    {
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
       "score": 622,
       "source": "hn",
       "date": "2026-03-13T12:31:09+00:00"
+    },
+    {
+      "title": "Stop Sloppypasta",
+      "url": "https://stopsloppypasta.ai/",
+      "score": 572,
+      "source": "hn",
+      "date": "2026-03-15T17:25:00+00:00"
     },
     {
       "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
@@ -63,6 +77,13 @@
       "date": "2026-03-11T14:34:57+00:00"
     },
     {
+      "title": "Chrome DevTools MCP (2025)",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "score": 557,
+      "source": "hn",
+      "date": "2026-03-15T19:12:53+00:00"
+    },
+    {
       "title": "TUI Studio – visual terminal UI design tool",
       "url": "https://tui.studio/",
       "score": 557,
@@ -70,11 +91,11 @@
       "date": "2026-03-13T10:32:45+00:00"
     },
     {
-      "title": "Chrome DevTools MCP (2025)",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 522,
+      "title": "Corruption erodes social trust more in democracies than in autocracies",
+      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+      "score": 503,
       "source": "hn",
-      "date": "2026-03-15T19:12:53+00:00"
+      "date": "2026-03-16T11:25:31+00:00"
     },
     {
       "title": "LLM Architecture Gallery",
@@ -84,11 +105,18 @@
       "date": "2026-03-15T16:01:09+00:00"
     },
     {
-      "title": "Stop Sloppypasta",
-      "url": "https://stopsloppypasta.ai/",
-      "score": 444,
+      "title": "How I write software with LLMs",
+      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+      "score": 412,
       "source": "hn",
-      "date": "2026-03-15T17:25:00+00:00"
+      "date": "2026-03-16T01:24:09+00:00"
+    },
+    {
+      "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
+      "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
+      "score": 411,
+      "source": "hn",
+      "date": "2026-03-16T11:57:33+00:00"
     },
     {
       "title": "Mouser: An open source alternative to Logi-Plus mouse software",
@@ -124,37 +152,16 @@
       "score": 330,
       "source": "hn",
       "date": "2026-03-15T08:04:55+00:00"
-    },
-    {
-      "title": "How kernel anti-cheats work",
-      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 328,
-      "source": "hn",
-      "date": "2026-03-15T00:15:10+00:00"
-    },
-    {
-      "title": "Rack-mount hydroponics",
-      "url": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 325,
-      "source": "hn",
-      "date": "2026-03-15T04:23:43+00:00"
-    },
-    {
-      "title": "Hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "score": 321,
-      "source": "hn",
-      "date": "2026-03-13T18:34:12+00:00"
-    },
-    {
-      "title": "Separating the Wayland compositor and window manager",
-      "url": "https://isaacfreund.com/blog/river-window-management/",
-      "score": 317,
-      "source": "hn",
-      "date": "2026-03-15T15:09:24+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
+      "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-16T11:57:33+00:00"
+    },
     {
       "title": "Show HN: Open-source playground to red-team AI agents with exploits published",
       "url": "https://github.com/fabraix/playground",
