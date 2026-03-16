@@ -1,7 +1,7 @@
 {
   "date": "2026-03-16",
-  "generated_at": "2026-03-16T05:03:32.337184+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-03-16T06:51:28.932824+00:00",
+  "total_articles": 59,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 49,
       "top_items": [
         {
-          "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+          "title": "Canada's bill C-22 mandates mass metadata surveillance",
           "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-          "score": 511,
+          "score": 594,
           "source": "hn",
           "severity": null,
           "date": "2026-03-15T21:22:16+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Chrome DevTools MCP (2025)",
           "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-          "score": 410,
+          "score": 437,
           "source": "hn",
           "severity": null,
           "date": "2026-03-15T19:12:53+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "The 49MB web page",
           "url": "https://thatshubham.com/blog/news-audit",
-          "score": 390,
+          "score": 434,
           "source": "hn",
           "severity": null,
           "date": "2026-03-15T19:25:18+00:00"
@@ -50,19 +50,27 @@
           "date": "2026-03-15T10:15:47+00:00"
         },
         {
-          "title": "A Visual Introduction to Machine Learning (2015)",
-          "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-          "score": 336,
+          "title": "LLM Architecture Gallery",
+          "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+          "score": 348,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-15T10:47:35+00:00"
+          "date": "2026-03-15T16:01:09+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 10,
       "top_items": [
+        {
+          "title": "Anthropic公式「Skills完全ガイド」を読んだら、自分のSKILL.mdのトークン消費を40%減らせた",
+          "url": "https://qiita.com/yurukusa/items/f69920b4a02cf7e2988c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-16T15:11:41+09:00"
+        },
         {
           "title": "【入門記事】ClaudeCodeの中級者になりたい人は集合してください",
           "url": "https://qiita.com/K5K/items/72cc4282819ace823524?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,14 +78,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-15T23:20:18+09:00"
-        },
-        {
-          "title": "Anthropic公式「Skills完全ガイド」を読んだら、自分のSKILL.mdのトークン消費を40%減らせた",
-          "url": "https://qiita.com/yurukusa/items/f69920b4a02cf7e2988c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-15T22:00:27+09:00"
         },
         {
           "title": "Claude Codeスキルで自動化するペネトレーションテスト完全ガイド — 23カテゴリの実践手法",

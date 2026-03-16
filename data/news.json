@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-03-16T05:04:30.032464+00:00",
-  "count": 322,
+  "updated_at": "2026-03-16T06:51:28.863580+00:00",
+  "count": 324,
   "items": [
+    {
+      "id": "qiita-e860282845",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Anthropic公式「Skills完全ガイド」を読んだら、自分のSKILL.mdのトークン消費を40%減らせた",
+      "url": "https://qiita.com/yurukusa/items/f69920b4a02cf7e2988c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yurukusa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-16T15:11:41+09:00"
+    },
+    {
+      "id": "hn-47395147",
+      "source": "hn",
+      "title": "ASCII and Unicode quotation marks (2007)",
+      "url": "https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html",
+      "score": 8,
+      "comments": 0,
+      "author": "exvi",
+      "tags": [],
+      "date": "2026-03-16T04:09:50+00:00"
+    },
     {
       "id": "hn-47394264",
       "source": "hn",
       "title": "Federal Right to Privacy Act – Draft legislation",
       "url": "https://righttoprivacyact.github.io",
-      "score": 49,
-      "comments": 25,
+      "score": 64,
+      "comments": 35,
       "author": "pilingual",
       "tags": [],
       "date": "2026-03-16T01:58:56+00:00"
@@ -18,8 +42,8 @@
       "source": "hn",
       "title": "How I write software with LLMs",
       "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "score": 49,
-      "comments": 6,
+      "score": 93,
+      "comments": 29,
       "author": "indigodaddy",
       "tags": [],
       "date": "2026-03-16T01:24:09+00:00"
@@ -29,8 +53,8 @@
       "source": "hn",
       "title": "Quillx is an open standard for disclosing AI involvement in software projects",
       "url": "https://github.com/QAInsights/AIx",
-      "score": 11,
-      "comments": 13,
+      "score": 19,
+      "comments": 21,
       "author": "qainsights",
       "tags": [],
       "date": "2026-03-16T01:21:39+00:00"
@@ -73,8 +97,8 @@
       "source": "hn",
       "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
       "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
-      "score": 85,
-      "comments": 51,
+      "score": 96,
+      "comments": 59,
       "author": "anjel",
       "tags": [],
       "date": "2026-03-16T00:22:48+00:00"
@@ -84,8 +108,8 @@
       "source": "hn",
       "title": "The Linux Programming Interface as a university course text",
       "url": "https://man7.org/tlpi/academic/index.html",
-      "score": 59,
-      "comments": 4,
+      "score": 72,
+      "comments": 6,
       "author": "teleforce",
       "tags": [],
       "date": "2026-03-15T23:51:26+00:00"
@@ -149,10 +173,10 @@
     {
       "id": "hn-47392084",
       "source": "hn",
-      "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+      "title": "Canada's bill C-22 mandates mass metadata surveillance",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "score": 512,
-      "comments": 139,
+      "score": 594,
+      "comments": 166,
       "author": "opengrass",
       "tags": [],
       "date": "2026-03-15T21:22:16+00:00"
@@ -173,8 +197,8 @@
       "source": "hn",
       "title": "LLMs can be exhausting",
       "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-      "score": 138,
-      "comments": 107,
+      "score": 167,
+      "comments": 124,
       "author": "tjohnell",
       "tags": [],
       "date": "2026-03-15T20:56:21+00:00"
@@ -184,8 +208,8 @@
       "source": "hn",
       "title": "The 49MB web page",
       "url": "https://thatshubham.com/blog/news-audit",
-      "score": 390,
-      "comments": 196,
+      "score": 434,
+      "comments": 207,
       "author": "kermatt",
       "tags": [],
       "date": "2026-03-15T19:25:18+00:00"
@@ -195,8 +219,8 @@
       "source": "hn",
       "title": "Chrome DevTools MCP (2025)",
       "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 410,
-      "comments": 181,
+      "score": 437,
+      "comments": 182,
       "author": "xnx",
       "tags": [],
       "date": "2026-03-15T19:12:53+00:00"
@@ -239,8 +263,8 @@
       "source": "hn",
       "title": "Stop Sloppypasta",
       "url": "https://stopsloppypasta.ai/",
-      "score": 193,
-      "comments": 98,
+      "score": 240,
+      "comments": 105,
       "author": "namnnumbr",
       "tags": [],
       "date": "2026-03-15T17:25:00+00:00"
@@ -261,8 +285,8 @@
       "source": "hn",
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "score": 308,
-      "comments": 22,
+      "score": 348,
+      "comments": 27,
       "author": "tzury",
       "tags": [],
       "date": "2026-03-15T16:01:09+00:00"
@@ -316,8 +340,8 @@
       "source": "hn",
       "title": "What makes Intel Optane stand out (2023)",
       "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
-      "score": 192,
-      "comments": 132,
+      "score": 196,
+      "comments": 139,
       "author": "walterbell",
       "tags": [],
       "date": "2026-03-15T15:09:41+00:00"
@@ -327,8 +351,8 @@
       "source": "hn",
       "title": "Separating the Wayland compositor and window manager",
       "url": "https://isaacfreund.com/blog/river-window-management/",
-      "score": 251,
-      "comments": 120,
+      "score": 266,
+      "comments": 124,
       "author": "dpassens",
       "tags": [],
       "date": "2026-03-15T15:09:24+00:00"
@@ -395,24 +419,11 @@
       "source": "hn",
       "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
       "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-      "score": 241,
-      "comments": 150,
+      "score": 247,
+      "comments": 154,
       "author": "robinhouston",
       "tags": [],
       "date": "2026-03-15T13:08:02+00:00"
-    },
-    {
-      "id": "qiita-e860282845",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Anthropic公式「Skills完全ガイド」を読んだら、自分のSKILL.mdのトークン消費を40%減らせた",
-      "url": "https://qiita.com/yurukusa/items/f69920b4a02cf7e2988c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yurukusa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-15T22:00:27+09:00"
     },
     {
       "id": "hn-47386983",
@@ -520,8 +531,8 @@
       "source": "hn",
       "title": "A Visual Introduction to Machine Learning (2015)",
       "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 336,
-      "comments": 29,
+      "score": 347,
+      "comments": 30,
       "author": "vismit2000",
       "tags": [],
       "date": "2026-03-15T10:47:35+00:00"
@@ -581,8 +592,8 @@
       "source": "hn",
       "title": "The emergence of print-on-demand Amazon paperback books",
       "url": "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/",
-      "score": 117,
-      "comments": 80,
+      "score": 130,
+      "comments": 91,
       "author": "aerhardt",
       "tags": [],
       "date": "2026-03-15T09:06:35+00:00"
@@ -655,8 +666,8 @@
       "source": "hn",
       "title": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
       "url": "https://github.com/jtsylve/spice-crypt",
-      "score": 16,
-      "comments": 2,
+      "score": 28,
+      "comments": 4,
       "author": "luu",
       "tags": [],
       "date": "2026-03-15T07:11:32+00:00"
@@ -1896,8 +1907,8 @@
       "source": "hn",
       "title": "Lies I was told about collaborative editing, Part 2: Why we don't use Yjs",
       "url": "https://www.moment.dev/blog/lies-i-was-told-pt-2",
-      "score": 6,
-      "comments": 2,
+      "score": 31,
+      "comments": 13,
       "author": "antics",
       "tags": [],
       "date": "2026-03-13T01:38:44+00:00"
@@ -1944,7 +1955,7 @@
       "source": "hn",
       "title": "Bandit: A 32bit baremetal computer that runs Color Forth [video]",
       "url": "https://www.youtube.com/watch?v=HK0uAKkt0AE",
-      "score": 39,
+      "score": 51,
       "comments": 2,
       "author": "surprisetalk",
       "tags": [],
@@ -1955,8 +1966,8 @@
       "source": "hn",
       "title": "Electric motor scaling laws and inertia in robot actuators",
       "url": "https://robot-daycare.com/posts/actuation_series_1/",
-      "score": 18,
-      "comments": 2,
+      "score": 50,
+      "comments": 9,
       "author": "o4c",
       "tags": [],
       "date": "2026-03-12T13:04:35+00:00"
@@ -2036,6 +2047,17 @@
       "author": "fatih-erikli-cg",
       "tags": [],
       "date": "2026-03-12T12:51:15+00:00"
+    },
+    {
+      "id": "hn-47349499",
+      "source": "hn",
+      "title": "How far can you go with IX Route Servers only?",
+      "url": "https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers",
+      "score": 16,
+      "comments": 0,
+      "author": "ingve",
+      "tags": [],
+      "date": "2026-03-12T12:11:20+00:00"
     },
     {
       "id": "qiita-d15bed2eea",
@@ -2151,9 +2173,9 @@
     {
       "id": "hn-47343902",
       "source": "hn",
-      "title": "What Every Computer Scientist Should Know About FP Arithmetic (1991) [pdf]",
+      "title": "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
       "url": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
-      "score": 18,
+      "score": 37,
       "comments": 2,
       "author": "jbarrow",
       "tags": [],
@@ -2219,8 +2241,8 @@
       "source": "hn",
       "title": "Bus travel from Lima to Rio de Janeiro",
       "url": "https://kenschutte.com/lima-to-rio-by-bus/",
-      "score": 140,
-      "comments": 54,
+      "score": 151,
+      "comments": 60,
       "author": "ks2048",
       "tags": [],
       "date": "2026-03-11T19:07:12+00:00"
@@ -2230,8 +2252,8 @@
       "source": "hn",
       "title": "//go:fix inline and the source-level inliner",
       "url": "https://go.dev/blog/inliner",
-      "score": 124,
-      "comments": 51,
+      "score": 131,
+      "comments": 55,
       "author": "commotionfever",
       "tags": [],
       "date": "2026-03-11T18:39:25+00:00",
