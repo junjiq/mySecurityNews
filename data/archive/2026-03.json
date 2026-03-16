@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-16T17:33:55.074438+00:00",
-  "total_articles": 279,
+  "generated_at": "2026-03-16T18:56:22.883939+00:00",
+  "total_articles": 288,
   "source_counts": {
-    "hn": 211,
+    "hn": 220,
     "zennqiita": 67,
     "project": 1
   },
   "severity_counts": {
+    "critical": 10,
     "medium": 1,
-    "critical": 8,
     "high": 1
   },
   "top_articles": [
@@ -37,7 +37,7 @@
     {
       "title": "Polymarket gamblers threaten to kill me over Iran missile story",
       "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-      "score": 841,
+      "score": 932,
       "source": "hn",
       "date": "2026-03-16T12:00:06+00:00"
     },
@@ -77,6 +77,13 @@
       "date": "2026-03-11T14:34:57+00:00"
     },
     {
+      "title": "Corruption erodes social trust more in democracies than in autocracies",
+      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+      "score": 558,
+      "source": "hn",
+      "date": "2026-03-16T11:25:31+00:00"
+    },
+    {
       "title": "Chrome DevTools MCP (2025)",
       "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
       "score": 557,
@@ -91,11 +98,11 @@
       "date": "2026-03-13T10:32:45+00:00"
     },
     {
-      "title": "Corruption erodes social trust more in democracies than in autocracies",
-      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-      "score": 503,
+      "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
+      "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
+      "score": 467,
       "source": "hn",
-      "date": "2026-03-16T11:25:31+00:00"
+      "date": "2026-03-16T11:57:33+00:00"
     },
     {
       "title": "LLM Architecture Gallery",
@@ -107,16 +114,9 @@
     {
       "title": "How I write software with LLMs",
       "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "score": 412,
+      "score": 413,
       "source": "hn",
       "date": "2026-03-16T01:24:09+00:00"
-    },
-    {
-      "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
-      "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
-      "score": 411,
-      "source": "hn",
-      "date": "2026-03-16T11:57:33+00:00"
     },
     {
       "title": "Mouser: An open source alternative to Logi-Plus mouse software",
@@ -155,6 +155,20 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
+      "url": "https://www.bbc.com/news/articles/c70n2x7p22do",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-16T18:38:14+00:00"
+    },
+    {
+      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
+      "url": "https://arxiv.org/abs/2511.04427",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-16T17:07:37+00:00"
+    },
     {
       "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
       "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",

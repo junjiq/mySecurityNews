@@ -1,9 +1,23 @@
 {
   "date": "2026-03-16",
-  "generated_at": "2026-03-16T17:33:55.030106+00:00",
-  "total_articles": 53,
-  "urgent_count": 2,
+  "generated_at": "2026-03-16T18:56:22.839061+00:00",
+  "total_articles": 58,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
+      "url": "https://www.bbc.com/news/articles/c70n2x7p22do",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-16T18:38:14+00:00"
+    },
+    {
+      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
+      "url": "https://arxiv.org/abs/2511.04427",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-16T17:07:37+00:00"
+    },
     {
       "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
       "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
@@ -22,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 49,
       "top_items": [
         {
           "title": "Canada's bill C-22 mandates mass metadata surveillance",
@@ -35,7 +49,7 @@
         {
           "title": "Polymarket gamblers threaten to kill me over Iran missile story",
           "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-          "score": 841,
+          "score": 932,
           "source": "hn",
           "severity": "medium",
           "date": "2026-03-16T12:00:06+00:00"
@@ -49,20 +63,20 @@
           "date": "2026-03-15T19:25:18+00:00"
         },
         {
+          "title": "Corruption erodes social trust more in democracies than in autocracies",
+          "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+          "score": 558,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-16T11:25:31+00:00"
+        },
+        {
           "title": "Chrome DevTools MCP (2025)",
           "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
           "score": 557,
           "source": "hn",
           "severity": null,
           "date": "2026-03-15T19:12:53+00:00"
-        },
-        {
-          "title": "Corruption erodes social trust more in democracies than in autocracies",
-          "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-          "score": 503,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-16T11:25:31+00:00"
         }
       ]
     },
