@@ -1,9 +1,16 @@
 {
   "date": "2026-03-16",
-  "generated_at": "2026-03-16T22:28:43.111177+00:00",
+  "generated_at": "2026-03-16T22:58:15.897702+00:00",
   "total_articles": 59,
   "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
+      "url": "https://mistral.ai/news/leanstral",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-16T20:59:40+00:00"
+    },
     {
       "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
       "url": "https://www.bbc.com/news/articles/c70n2x7p22do",
@@ -24,24 +31,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-16T11:57:33+00:00"
-    },
-    {
-      "title": "Show HN: Open-source playground to red-team AI agents with exploits published",
-      "url": "https://github.com/fabraix/playground",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-15T22:29:46+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 44,
       "top_items": [
         {
           "title": "Polymarket gamblers threaten to kill me over Iran missile story",
           "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-          "score": 1189,
+          "score": 1215,
           "source": "hn",
           "severity": "medium",
           "date": "2026-03-16T12:00:06+00:00"
@@ -49,7 +49,7 @@
         {
           "title": "Corruption erodes social trust more in democracies than in autocracies",
           "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-          "score": 613,
+          "score": 615,
           "source": "hn",
           "severity": null,
           "date": "2026-03-16T11:25:31+00:00"
@@ -73,7 +73,7 @@
         {
           "title": "US Job Market Visualizer",
           "url": "https://karpathy.ai/jobs/",
-          "score": 370,
+          "score": 375,
           "source": "hn",
           "severity": null,
           "date": "2026-03-16T15:10:30+00:00"
@@ -82,8 +82,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 15,
       "top_items": [
+        {
+          "title": "【Unity】演出スキップがつらすぎたので、ChainRacePattern という仕組みを作った",
+          "url": "https://qiita.com/morishift/items/a2c5012d496312358323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-17T07:29:28+09:00"
+        },
         {
           "title": "qperf をインストールして TCP, UDP レイテンシ(遅延)をマイクロ秒(μs)単位で測定してみてみた",
           "url": "https://qiita.com/shirok/items/7ee5cc026ef8227843ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -115,14 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-16T16:37:31+09:00"
-        },
-        {
-          "title": "[小ネタ] Excelでセルにローカルフォルダの画像を表示する時は IMAGE 関数 + Caddy ワンライナーが便利",
-          "url": "https://qiita.com/ssc-ksaitou/items/be43b3fd69502d6bf60b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-16T15:55:57+09:00"
         }
       ]
     }
