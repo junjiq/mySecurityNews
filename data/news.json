@@ -1,14 +1,61 @@
 {
-  "updated_at": "2026-03-16T11:47:36.396882+00:00",
-  "count": 351,
+  "updated_at": "2026-03-16T13:01:37.711030+00:00",
+  "count": 356,
   "items": [
+    {
+      "id": "qiita-d9bd61ffb9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "qperf をインストールして TCP, UDP レイテンシ(遅延)をマイクロ秒(μs)単位で測定してみてみた",
+      "url": "https://qiita.com/shirok/items/7ee5cc026ef8227843ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-16T22:01:06+09:00"
+    },
+    {
+      "id": "hn-47397842",
+      "source": "hn",
+      "title": "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
+      "url": "https://jobs.ashbyhq.com/Nango",
+      "score": 1,
+      "comments": 0,
+      "author": "bastienbeurier",
+      "tags": [],
+      "date": "2026-03-16T12:03:13+00:00"
+    },
+    {
+      "id": "hn-47397822",
+      "source": "hn",
+      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+      "score": 192,
+      "comments": 114,
+      "author": "defly",
+      "tags": [],
+      "date": "2026-03-16T12:00:06+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-47397593",
+      "source": "hn",
+      "title": "Corruption erodes social trust more in democracies than in autocracies",
+      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+      "score": 69,
+      "comments": 19,
+      "author": "PaulHoule",
+      "tags": [],
+      "date": "2026-03-16T11:25:31+00:00"
+    },
     {
       "id": "hn-47397528",
       "source": "hn",
       "title": "Scientists discover a surprising way to quiet the anxious mind (2025)",
       "url": "https://www.sciencedaily.com/releases/2025/10/251027023816.htm",
-      "score": 11,
-      "comments": 3,
+      "score": 28,
+      "comments": 25,
       "author": "carlos-menezes",
       "tags": [],
       "date": "2026-03-16T11:16:39+00:00"
@@ -136,19 +183,6 @@
       "date": "2026-03-16T11:17:54+09:00"
     },
     {
-      "id": "qiita-d9bd61ffb9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "qperf をインストールして TCP, UDP レイテンシ(遅延)をマイクロ秒(μs)単位で測定してみてみた",
-      "url": "https://qiita.com/shirok/items/7ee5cc026ef8227843ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-16T11:14:38+09:00"
-    },
-    {
       "id": "hn-47394264",
       "source": "hn",
       "title": "Federal Right to Privacy Act – Draft legislation",
@@ -177,8 +211,8 @@
       "source": "hn",
       "title": "How I write software with LLMs",
       "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "score": 249,
-      "comments": 198,
+      "score": 293,
+      "comments": 238,
       "author": "indigodaddy",
       "tags": [],
       "date": "2026-03-16T01:24:09+00:00"
@@ -256,8 +290,8 @@
       "source": "hn",
       "title": "The Linux Programming Interface as a university course text",
       "url": "https://man7.org/tlpi/academic/index.html",
-      "score": 108,
-      "comments": 14,
+      "score": 120,
+      "comments": 17,
       "author": "teleforce",
       "tags": [],
       "date": "2026-03-15T23:51:26+00:00"
@@ -323,8 +357,8 @@
       "source": "hn",
       "title": "Canada's bill C-22 mandates mass metadata surveillance",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "score": 762,
-      "comments": 225,
+      "score": 806,
+      "comments": 238,
       "author": "opengrass",
       "tags": [],
       "date": "2026-03-15T21:22:16+00:00"
@@ -345,8 +379,8 @@
       "source": "hn",
       "title": "LLMs can be exhausting",
       "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-      "score": 243,
-      "comments": 160,
+      "score": 254,
+      "comments": 170,
       "author": "tjohnell",
       "tags": [],
       "date": "2026-03-15T20:56:21+00:00"
@@ -356,8 +390,8 @@
       "source": "hn",
       "title": "The 49MB web page",
       "url": "https://thatshubham.com/blog/news-audit",
-      "score": 604,
-      "comments": 276,
+      "score": 636,
+      "comments": 289,
       "author": "kermatt",
       "tags": [],
       "date": "2026-03-15T19:25:18+00:00"
@@ -367,11 +401,22 @@
       "source": "hn",
       "title": "Chrome DevTools MCP (2025)",
       "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 500,
-      "comments": 202,
+      "score": 518,
+      "comments": 209,
       "author": "xnx",
       "tags": [],
       "date": "2026-03-15T19:12:53+00:00"
+    },
+    {
+      "id": "hn-47390609",
+      "source": "hn",
+      "title": "The \"are you sure?\" Problem: Why AI keeps changing its mind",
+      "url": "https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/",
+      "score": 5,
+      "comments": 0,
+      "author": "turoczy",
+      "tags": [],
+      "date": "2026-03-15T18:56:58+00:00"
     },
     {
       "id": "hn-47390233",
@@ -411,8 +456,8 @@
       "source": "hn",
       "title": "Stop Sloppypasta",
       "url": "https://stopsloppypasta.ai/",
-      "score": 395,
-      "comments": 165,
+      "score": 440,
+      "comments": 178,
       "author": "namnnumbr",
       "tags": [],
       "date": "2026-03-15T17:25:00+00:00"
@@ -433,8 +478,8 @@
       "source": "hn",
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "score": 430,
-      "comments": 33,
+      "score": 457,
+      "comments": 34,
       "author": "tzury",
       "tags": [],
       "date": "2026-03-15T16:01:09+00:00"
@@ -499,8 +544,8 @@
       "source": "hn",
       "title": "Separating the Wayland compositor and window manager",
       "url": "https://isaacfreund.com/blog/river-window-management/",
-      "score": 307,
-      "comments": 162,
+      "score": 317,
+      "comments": 171,
       "author": "dpassens",
       "tags": [],
       "date": "2026-03-15T15:09:24+00:00"
@@ -580,8 +625,8 @@
       "source": "hn",
       "title": "Glassworm is back: A new wave of invisible Unicode attacks hits repositories",
       "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-      "score": 270,
-      "comments": 166,
+      "score": 279,
+      "comments": 168,
       "author": "robinhouston",
       "tags": [],
       "date": "2026-03-15T13:08:02+00:00"
@@ -753,8 +798,8 @@
       "source": "hn",
       "title": "Six ingenious ways how Canon DSLRs used to illuminate their autofocus points",
       "url": "https://exclusivearchitecture.com/03-technical-articles-CSDS-00-table-of-contents.html",
-      "score": 46,
-      "comments": 8,
+      "score": 60,
+      "comments": 13,
       "author": "ExAr",
       "tags": [],
       "date": "2026-03-15T09:07:52+00:00"
@@ -764,8 +809,8 @@
       "source": "hn",
       "title": "The emergence of print-on-demand Amazon paperback books",
       "url": "https://www.alexerhardt.com/en/enshittification-amazon-paperback-books/",
-      "score": 175,
-      "comments": 131,
+      "score": 181,
+      "comments": 140,
       "author": "aerhardt",
       "tags": [],
       "date": "2026-03-15T09:06:35+00:00"
@@ -1869,6 +1914,17 @@
       "date": "2026-03-13T17:58:22+00:00"
     },
     {
+      "id": "hn-47367443",
+      "source": "hn",
+      "title": "The Accidental Room (2018)",
+      "url": "https://99percentinvisible.org/episode/the-accidental-room/",
+      "score": 43,
+      "comments": 5,
+      "author": "blewboarwastake",
+      "tags": [],
+      "date": "2026-03-13T17:49:54+00:00"
+    },
+    {
       "id": "hn-47367336",
       "source": "hn",
       "title": "Cookie jars capture American kitsch (2023)",
@@ -2151,7 +2207,7 @@
       "source": "hn",
       "title": "Why Are Viral Capsids Icosahedral?",
       "url": "https://www.asimov.press/p/viral-capsids",
-      "score": 8,
+      "score": 16,
       "comments": 0,
       "author": "surprisetalk",
       "tags": [],
@@ -2162,8 +2218,8 @@
       "source": "hn",
       "title": "Electric motor scaling laws and inertia in robot actuators",
       "url": "https://robot-daycare.com/posts/actuation_series_1/",
-      "score": 96,
-      "comments": 19,
+      "score": 111,
+      "comments": 20,
       "author": "o4c",
       "tags": [],
       "date": "2026-03-12T13:04:35+00:00"
@@ -2225,8 +2281,8 @@
       "source": "hn",
       "title": "Reviewing Large Changes with Jujutsu",
       "url": "https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/",
-      "score": 22,
-      "comments": 2,
+      "score": 34,
+      "comments": 3,
       "author": "bengesoff",
       "tags": [],
       "date": "2026-03-12T12:52:49+00:00"
@@ -2260,7 +2316,7 @@
       "source": "hn",
       "title": "How far can you go with IX Route Servers only?",
       "url": "https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers",
-      "score": 42,
+      "score": 47,
       "comments": 3,
       "author": "ingve",
       "tags": [],
@@ -2297,8 +2353,8 @@
       "source": "hn",
       "title": "Home Assistant waters my plants",
       "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
-      "score": 54,
-      "comments": 18,
+      "score": 85,
+      "comments": 32,
       "author": "finniananderson",
       "tags": [],
       "date": "2026-03-12T10:19:14+00:00"
@@ -2393,8 +2449,8 @@
       "source": "hn",
       "title": "What every computer scientist should know about floating-point arithmetic (1991) [pdf]",
       "url": "https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf",
-      "score": 78,
-      "comments": 12,
+      "score": 87,
+      "comments": 13,
       "author": "jbarrow",
       "tags": [],
       "date": "2026-03-11T23:24:22+00:00"
@@ -2404,8 +2460,8 @@
       "source": "hn",
       "title": "Kona EV Hacking",
       "url": "http://techno-fandom.org/~hobbit/cars/ev/",
-      "score": 52,
-      "comments": 17,
+      "score": 59,
+      "comments": 32,
       "author": "AnnikaL",
       "tags": [],
       "date": "2026-03-11T21:26:16+00:00"

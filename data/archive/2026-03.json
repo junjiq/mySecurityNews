@@ -1,13 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-16T11:43:00.552091+00:00",
-  "total_articles": 258,
+  "generated_at": "2026-03-16T13:01:37.823297+00:00",
+  "total_articles": 263,
   "source_counts": {
-    "hn": 190,
+    "hn": 195,
     "zennqiita": 67,
     "project": 1
   },
   "severity_counts": {
+    "medium": 1,
     "critical": 7,
     "high": 1
   },
@@ -29,7 +30,7 @@
     {
       "title": "Canada's bill C-22 mandates mass metadata surveillance",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "score": 759,
+      "score": 806,
       "source": "hn",
       "date": "2026-03-15T21:22:16+00:00"
     },
@@ -41,18 +42,18 @@
       "date": "2026-03-14T22:10:26+00:00"
     },
     {
+      "title": "The 49MB web page",
+      "url": "https://thatshubham.com/blog/news-audit",
+      "score": 636,
+      "source": "hn",
+      "date": "2026-03-15T19:25:18+00:00"
+    },
+    {
       "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
       "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
       "score": 622,
       "source": "hn",
       "date": "2026-03-13T12:31:09+00:00"
-    },
-    {
-      "title": "The 49MB web page",
-      "url": "https://thatshubham.com/blog/news-audit",
-      "score": 603,
-      "source": "hn",
-      "date": "2026-03-15T19:25:18+00:00"
     },
     {
       "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
@@ -71,21 +72,21 @@
     {
       "title": "Chrome DevTools MCP (2025)",
       "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 498,
+      "score": 518,
       "source": "hn",
       "date": "2026-03-15T19:12:53+00:00"
     },
     {
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "score": 429,
+      "score": 457,
       "source": "hn",
       "date": "2026-03-15T16:01:09+00:00"
     },
     {
       "title": "Stop Sloppypasta",
       "url": "https://stopsloppypasta.ai/",
-      "score": 394,
+      "score": 440,
       "source": "hn",
       "date": "2026-03-15T17:25:00+00:00"
     },
@@ -146,11 +147,11 @@
       "date": "2026-03-13T18:34:12+00:00"
     },
     {
-      "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
-      "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
-      "score": 315,
+      "title": "Separating the Wayland compositor and window manager",
+      "url": "https://isaacfreund.com/blog/river-window-management/",
+      "score": 317,
       "source": "hn",
-      "date": "2026-03-11T18:21:58+00:00"
+      "date": "2026-03-15T15:09:24+00:00"
     }
   ],
   "security_highlights": [
