@@ -1,8 +1,8 @@
 {
   "date": "2026-03-17",
-  "generated_at": "2026-03-17T16:50:57.239966+00:00",
-  "total_articles": 52,
-  "urgent_count": 4,
+  "generated_at": "2026-03-17T17:24:47.074167+00:00",
+  "total_articles": 48,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Reverse-engineering Viktor and making it Open Source",
@@ -24,24 +24,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-16T18:38:14+00:00"
-    },
-    {
-      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "url": "https://arxiv.org/abs/2511.04427",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-16T17:07:37+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 33,
       "top_items": [
         {
           "title": "Kagi Translate now supports LinkedIn Speak as an output language",
           "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-          "score": 1156,
+          "score": 1189,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T04:39:42+00:00"
@@ -57,7 +50,7 @@
         {
           "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
           "url": "https://mistral.ai/news/leanstral",
-          "score": 677,
+          "score": 686,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-16T20:59:40+00:00"
@@ -73,7 +66,7 @@
         {
           "title": "Kagi Small Web",
           "url": "https://kagi.com/smallweb/",
-          "score": 521,
+          "score": 540,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T09:53:53+00:00"
