@@ -1,7 +1,7 @@
 {
   "date": "2026-03-17",
-  "generated_at": "2026-03-17T10:19:07.369027+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-03-17T10:47:47.384698+00:00",
+  "total_articles": 59,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -62,9 +62,17 @@
           "date": "2026-03-16T11:25:31+00:00"
         },
         {
+          "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+          "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+          "score": 601,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-17T04:39:42+00:00"
+        },
+        {
           "title": "US SEC preparing to scrap quarterly reporting requirement",
           "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-          "score": 581,
+          "score": 587,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T00:02:35+00:00"
@@ -72,24 +80,16 @@
         {
           "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
           "url": "https://mistral.ai/news/leanstral",
-          "score": 557,
+          "score": 571,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-16T20:59:40+00:00"
-        },
-        {
-          "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-          "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-          "score": 536,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-17T04:39:42+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 15,
       "top_items": [
         {
           "title": "【Unity】演出スキップがつらすぎたので、ChainRacePattern という仕組みを作った",
@@ -97,7 +97,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-17T19:11:12+09:00"
+          "date": "2026-03-17T19:33:08+09:00"
         },
         {
           "title": "AIエージェントは「プロンプトで書く」から「対話を通じて育てる」という時代へ ─ Claude Codeで実践",
