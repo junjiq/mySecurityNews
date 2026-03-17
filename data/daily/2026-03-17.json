@@ -1,8 +1,8 @@
 {
   "date": "2026-03-17",
-  "generated_at": "2026-03-17T20:46:05.729620+00:00",
+  "generated_at": "2026-03-17T21:13:36.748773+00:00",
   "total_articles": 57,
-  "urgent_count": 2,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Reverse-engineering Viktor and making it open source",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-17T08:15:34+00:00"
-    },
-    {
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-16T20:59:40+00:00"
     }
   ],
   "categories": [
@@ -41,14 +34,6 @@
           "date": "2026-03-17T10:39:48+00:00"
         },
         {
-          "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-          "url": "https://mistral.ai/news/leanstral",
-          "score": 720,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-03-16T20:59:40+00:00"
-        },
-        {
           "title": "US SEC preparing to scrap quarterly reporting requirement",
           "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
           "score": 662,
@@ -59,10 +44,18 @@
         {
           "title": "Kagi Small Web",
           "url": "https://kagi.com/smallweb/",
-          "score": 626,
+          "score": 635,
           "source": "hn",
           "severity": null,
           "date": "2026-03-17T09:53:53+00:00"
+        },
+        {
+          "title": "Every layer of review makes you 10x slower",
+          "url": "https://apenwarr.ca/log/20260316",
+          "score": 425,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-17T03:20:36+00:00"
         }
       ]
     },
