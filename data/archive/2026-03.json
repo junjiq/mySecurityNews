@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-18T16:55:38.610132+00:00",
+  "generated_at": "2026-03-18T17:50:14.583001+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 347,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "medium": 2,
+    "medium": 3,
     "critical": 14,
     "high": 1
   },
@@ -93,9 +93,16 @@
     {
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 701,
+      "score": 709,
       "source": "hn",
       "date": "2026-03-17T18:59:50+00:00"
+    },
+    {
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "score": 671,
+      "source": "hn",
+      "date": "2026-03-17T21:04:26+00:00"
     },
     {
       "title": "Corruption erodes social trust more in democracies than in autocracies",
@@ -112,13 +119,6 @@
       "date": "2026-03-17T00:02:35+00:00"
     },
     {
-      "title": "Mistral AI Releases Forge",
-      "url": "https://mistral.ai/news/forge",
-      "score": 659,
-      "source": "hn",
-      "date": "2026-03-17T21:04:26+00:00"
-    },
-    {
       "title": "Have a fucking website",
       "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
       "score": 629,
@@ -133,6 +133,13 @@
       "date": "2026-03-13T12:31:09+00:00"
     },
     {
+      "title": "Rob Pike's Rules of Programming (1989)",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "score": 593,
+      "source": "hn",
+      "date": "2026-03-18T09:59:54+00:00"
+    },
+    {
       "title": "Stop Sloppypasta",
       "url": "https://stopsloppypasta.ai/",
       "score": 572,
@@ -145,13 +152,6 @@
       "score": 569,
       "source": "hn",
       "date": "2026-03-11T14:34:57+00:00"
-    },
-    {
-      "title": "Rob Pike's Rules of Programming (1989)",
-      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 557,
-      "source": "hn",
-      "date": "2026-03-18T09:59:54+00:00"
     }
   ],
   "security_highlights": [
