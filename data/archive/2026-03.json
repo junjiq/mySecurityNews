@@ -1,16 +1,16 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-18T17:50:14.583001+00:00",
+  "generated_at": "2026-03-18T19:22:53.328763+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 347,
-    "zennqiita": 103,
+    "hn": 350,
+    "zennqiita": 100,
     "project": 1
   },
   "severity_counts": {
+    "high": 2,
     "medium": 3,
-    "critical": 14,
-    "high": 1
+    "critical": 14
   },
   "top_articles": [
     {
@@ -84,6 +84,13 @@
       "date": "2026-03-16T20:59:40+00:00"
     },
     {
+      "title": "A Decade of Slug",
+      "url": "https://terathon.com/blog/decade-slug.html",
+      "score": 712,
+      "source": "hn",
+      "date": "2026-03-17T18:59:50+00:00"
+    },
+    {
       "title": "Kagi Small Web",
       "url": "https://kagi.com/smallweb/",
       "score": 712,
@@ -91,18 +98,18 @@
       "date": "2026-03-17T09:53:53+00:00"
     },
     {
-      "title": "A Decade of Slug",
-      "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 709,
-      "source": "hn",
-      "date": "2026-03-17T18:59:50+00:00"
-    },
-    {
       "title": "Mistral AI Releases Forge",
       "url": "https://mistral.ai/news/forge",
-      "score": 671,
+      "score": 680,
       "source": "hn",
       "date": "2026-03-17T21:04:26+00:00"
+    },
+    {
+      "title": "Rob Pike's Rules of Programming (1989)",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "score": 666,
+      "source": "hn",
+      "date": "2026-03-18T09:59:54+00:00"
     },
     {
       "title": "Corruption erodes social trust more in democracies than in autocracies",
@@ -133,13 +140,6 @@
       "date": "2026-03-13T12:31:09+00:00"
     },
     {
-      "title": "Rob Pike's Rules of Programming (1989)",
-      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 593,
-      "source": "hn",
-      "date": "2026-03-18T09:59:54+00:00"
-    },
-    {
       "title": "Stop Sloppypasta",
       "url": "https://stopsloppypasta.ai/",
       "score": 572,
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-03-18T15:43:19+00:00"
+    },
     {
       "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
       "url": "https://github.com/joaoh82/rustunnel",
