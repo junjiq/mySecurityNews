@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-03-18T10:20:57.258078+00:00",
+  "updated_at": "2026-03-18T10:47:50.843645+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47423647",
+      "source": "hn",
+      "title": "Rob Pike's 5 Rules of Programming",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "score": 17,
+      "comments": 2,
+      "author": "vismit2000",
+      "tags": [],
+      "date": "2026-03-18T09:59:54+00:00"
+    },
+    {
+      "id": "hn-47423624",
+      "source": "hn",
+      "title": "Kagi is contemplating the removal of the assistant from its professional tier",
+      "url": "https://kagifeedback.org/d/10116-kagi-assistant-standalone-subscription",
+      "score": 8,
+      "comments": 1,
+      "author": "EbNar",
+      "tags": [],
+      "date": "2026-03-18T09:56:48+00:00"
+    },
+    {
+      "id": "hn-47422942",
+      "source": "hn",
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "url": "https://nightingale.cafe/",
+      "score": 23,
+      "comments": 5,
+      "author": "rzzzzru",
+      "tags": [],
+      "date": "2026-03-18T08:06:24+00:00",
+      "severity": "critical"
+    },
     {
       "id": "qiita-e1ad0253e3",
       "source": "zennqiita",
@@ -42,7 +76,7 @@
       "source": "hn",
       "title": "Celebrating Tony Hoare's mark on computer science",
       "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-      "score": 31,
+      "score": 34,
       "comments": 1,
       "author": "benhoyt",
       "tags": [],
@@ -111,7 +145,7 @@
       "title": "Forget Flags and Scripts: Just Rename the File",
       "url": "https://robertsdotpm.github.io/software_engineering/program_names_as_input.html",
       "score": 39,
-      "comments": 37,
+      "comments": 38,
       "author": "Uptrenda",
       "tags": [],
       "date": "2026-03-18T04:11:20+00:00"
@@ -121,8 +155,8 @@
       "source": "hn",
       "title": "Have a fucking website",
       "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "score": 417,
-      "comments": 228,
+      "score": 433,
+      "comments": 239,
       "author": "asukachikaru",
       "tags": [],
       "date": "2026-03-18T03:53:42+00:00"
@@ -195,8 +229,8 @@
       "source": "hn",
       "title": "The pleasures of poor product design",
       "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-      "score": 123,
-      "comments": 41,
+      "score": 126,
+      "comments": 46,
       "author": "NaOH",
       "tags": [],
       "date": "2026-03-18T01:00:45+00:00"
@@ -206,8 +240,8 @@
       "source": "hn",
       "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
       "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
-      "score": 99,
-      "comments": 5,
+      "score": 101,
+      "comments": 6,
       "author": "y1n0",
       "tags": [],
       "date": "2026-03-18T00:53:10+00:00"
@@ -254,8 +288,8 @@
       "source": "hn",
       "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
       "url": "https://arxiv.org/abs/2603.15381",
-      "score": 120,
-      "comments": 54,
+      "score": 123,
+      "comments": 55,
       "author": "aanet",
       "tags": [],
       "date": "2026-03-17T21:42:39+00:00"
@@ -276,8 +310,8 @@
       "source": "hn",
       "title": "Mistral AI Releases Forge",
       "url": "https://mistral.ai/news/forge",
-      "score": 465,
-      "comments": 99,
+      "score": 479,
+      "comments": 108,
       "author": "pember",
       "tags": [],
       "date": "2026-03-17T21:04:26+00:00"
@@ -309,8 +343,8 @@
       "source": "hn",
       "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
       "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 340,
-      "comments": 164,
+      "score": 342,
+      "comments": 168,
       "author": "stefankuehnel",
       "tags": [],
       "date": "2026-03-17T20:23:39+00:00"
@@ -342,7 +376,7 @@
       "source": "hn",
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 614,
+      "score": 616,
       "comments": 61,
       "author": "mwkaufma",
       "tags": [],
@@ -364,8 +398,8 @@
       "source": "hn",
       "title": "Python 3.15's JIT is now back on track",
       "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 376,
-      "comments": 198,
+      "score": 381,
+      "comments": 211,
       "author": "guidoiaquinti",
       "tags": [],
       "date": "2026-03-17T18:37:27+00:00"
@@ -463,8 +497,8 @@
       "source": "hn",
       "title": "Unsloth Studio",
       "url": "https://unsloth.ai/docs/new/studio",
-      "score": 287,
-      "comments": 53,
+      "score": 290,
+      "comments": 55,
       "author": "brainless",
       "tags": [],
       "date": "2026-03-17T15:26:32+00:00"
@@ -474,8 +508,8 @@
       "source": "hn",
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 686,
-      "comments": 235,
+      "score": 693,
+      "comments": 244,
       "author": "crtasm",
       "tags": [],
       "date": "2026-03-17T15:16:29+00:00"
@@ -518,8 +552,8 @@
       "source": "hn",
       "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
       "url": "https://github.com/adammiribyan/zeroboot",
-      "score": 164,
-      "comments": 41,
+      "score": 168,
+      "comments": 43,
       "author": "adammiribyan",
       "tags": [],
       "date": "2026-03-17T13:43:44+00:00"
@@ -744,8 +778,8 @@
       "source": "hn",
       "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
       "url": "https://oseifert.ch/blog/building-pgit",
-      "score": 43,
-      "comments": 11,
+      "score": 45,
+      "comments": 14,
       "author": "ImGajeed76",
       "tags": [],
       "date": "2026-03-17T06:11:17+00:00"
@@ -1727,8 +1761,8 @@
       "source": "hn",
       "title": "How the Eon Team Produced a Virtual Embodied Fly",
       "url": "https://eon.systems/updates/embodied-brain-emulation",
-      "score": 3,
-      "comments": 0,
+      "score": 8,
+      "comments": 1,
       "author": "LopRabbit",
       "tags": [],
       "date": "2026-03-15T23:44:34+00:00"
@@ -1915,8 +1949,8 @@
       "source": "hn",
       "title": "Write up of my homebrew CPU build",
       "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-      "score": 71,
-      "comments": 8,
+      "score": 77,
+      "comments": 10,
       "author": "wwarren",
       "tags": [],
       "date": "2026-03-15T17:36:48+00:00"
@@ -2108,8 +2142,8 @@
       "source": "hn",
       "title": "Honda is killing its EVs",
       "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
-      "score": 329,
-      "comments": 711,
+      "score": 333,
+      "comments": 729,
       "author": "sylvainkalache",
       "tags": [],
       "date": "2026-03-15T13:38:08+00:00"
@@ -2449,8 +2483,8 @@
       "source": "hn",
       "title": "Leviathan (1651)",
       "url": "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm",
-      "score": 70,
-      "comments": 20,
+      "score": 75,
+      "comments": 22,
       "author": "mrwh",
       "tags": [],
       "date": "2026-03-15T05:46:35+00:00"
@@ -3356,8 +3390,8 @@
       "source": "hn",
       "title": "JPEG Compression",
       "url": "https://www.sophielwang.com/blog/jpeg",
-      "score": 190,
-      "comments": 37,
+      "score": 214,
+      "comments": 43,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-03-14T01:31:48+00:00"
@@ -3379,8 +3413,8 @@
       "source": "hn",
       "title": "(Media over QUIC) on a Boat",
       "url": "https://moq.dev/blog/on-a-boat/",
-      "score": 14,
-      "comments": 1,
+      "score": 17,
+      "comments": 2,
       "author": "mmcclure",
       "tags": [],
       "date": "2026-03-14T00:50:20+00:00"
@@ -3490,7 +3524,7 @@
       "source": "hn",
       "title": "More than 135 open hardware devices flashable with your own firmware",
       "url": "https://openhardware.directory",
-      "score": 231,
+      "score": 232,
       "comments": 25,
       "author": "iosifnicolae2",
       "tags": [],
@@ -5383,21 +5417,6 @@
       "date": "2025-04-01T23:29:39Z"
     },
     {
-      "id": "ghrel-RustScan_RustScan-201908247",
-      "source": "project",
-      "proj_category": "Tools",
-      "title": "[RustScan] 2.4.1 — 2.4.1 - Guaranteed Speed 🦔",
-      "url": "https://github.com/bee-san/RustScan/releases/tag/2.4.1",
-      "score": null,
-      "author": "RustScan",
-      "tags": [
-        "RustScan",
-        "Scanner",
-        "Release"
-      ],
-      "date": "2025-02-23T15:03:50Z"
-    },
-    {
       "id": "ghrel-BloodHoundAD_BloodHound-103984705",
       "source": "project",
       "proj_category": "Tools",
@@ -5895,32 +5914,6 @@
       ],
       "severity": "high",
       "date": "Wed, 04 Feb 2026 00:00:00 +0000"
-    },
-    {
-      "id": "zenn-c3f0dd536c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Apple Neural Engine の Private API を叩いて LLM 推論を高速化しようとした話",
-      "url": "https://zenn.dev/salescore/articles/776dff7a85f781",
-      "score": null,
-      "author": "muramoto",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 16 Mar 2026 06:10:00 GMT"
-    },
-    {
-      "id": "zenn-8455bc2d3b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Webサービスを作って公開したらなんか知らないアカウントが開発者を自称していた",
-      "url": "https://zenn.dev/satetsu888/articles/ab3b195c7603b0",
-      "score": null,
-      "author": "satetsu888",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 15 Mar 2026 08:11:29 GMT"
     }
   ]
 }
