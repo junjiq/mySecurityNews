@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-03-18T15:29:56.158994+00:00",
+  "updated_at": "2026-03-18T15:56:38.960190+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47426936",
+      "source": "hn",
+      "title": "Machine Payments Protocol (MPP)",
+      "url": "https://stripe.com/blog/machine-payments-protocol",
+      "score": 7,
+      "comments": 2,
+      "author": "bpierre",
+      "tags": [],
+      "date": "2026-03-18T15:24:12+00:00"
+    },
     {
       "id": "qiita-aad307a77a",
       "source": "zennqiita",
@@ -20,8 +31,8 @@
       "source": "hn",
       "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
       "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
-      "score": 68,
-      "comments": 40,
+      "score": 116,
+      "comments": 57,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-03-18T14:14:02+00:00"
@@ -31,8 +42,8 @@
       "source": "hn",
       "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
       "url": "https://github.com/joaoh82/rustunnel",
-      "score": 13,
-      "comments": 1,
+      "score": 25,
+      "comments": 4,
       "author": "joaoh82",
       "tags": [],
       "date": "2026-03-18T14:00:43+00:00",
@@ -50,12 +61,23 @@
       "date": "2026-03-18T13:39:05+00:00"
     },
     {
+      "id": "hn-47425607",
+      "source": "hn",
+      "title": "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
+      "url": "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/",
+      "score": 33,
+      "comments": 37,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-03-18T13:32:48+00:00"
+    },
+    {
       "id": "hn-47425297",
       "source": "hn",
       "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts",
       "url": "https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking",
-      "score": 124,
-      "comments": 68,
+      "score": 140,
+      "comments": 95,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-03-18T13:04:15+00:00"
@@ -98,8 +120,8 @@
       "source": "hn",
       "title": "Rob Pike's 5 Rules of Programming",
       "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 457,
-      "comments": 257,
+      "score": 497,
+      "comments": 270,
       "author": "vismit2000",
       "tags": [],
       "date": "2026-03-18T09:59:54+00:00"
@@ -120,8 +142,8 @@
       "source": "hn",
       "title": "Nightingale – open-source karaoke app that works with any song on your computer",
       "url": "https://nightingale.cafe/",
-      "score": 308,
-      "comments": 51,
+      "score": 333,
+      "comments": 69,
       "author": "rzzzzru",
       "tags": [],
       "date": "2026-03-18T08:06:24+00:00",
@@ -167,8 +189,8 @@
       "source": "hn",
       "title": "Celebrating Tony Hoare's mark on computer science",
       "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-      "score": 80,
-      "comments": 21,
+      "score": 83,
+      "comments": 22,
       "author": "benhoyt",
       "tags": [],
       "date": "2026-03-18T06:31:14+00:00"
@@ -307,8 +329,8 @@
       "source": "hn",
       "title": "The pleasures of poor product design",
       "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-      "score": 194,
-      "comments": 64,
+      "score": 196,
+      "comments": 66,
       "author": "NaOH",
       "tags": [],
       "date": "2026-03-18T01:00:45+00:00"
@@ -388,8 +410,8 @@
       "source": "hn",
       "title": "Mistral AI Releases Forge",
       "url": "https://mistral.ai/news/forge",
-      "score": 630,
-      "comments": 150,
+      "score": 640,
+      "comments": 156,
       "author": "pember",
       "tags": [],
       "date": "2026-03-17T21:04:26+00:00"
@@ -421,8 +443,8 @@
       "source": "hn",
       "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
       "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 392,
-      "comments": 210,
+      "score": 395,
+      "comments": 214,
       "author": "stefankuehnel",
       "tags": [],
       "date": "2026-03-17T20:23:39+00:00"
@@ -454,8 +476,8 @@
       "source": "hn",
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 688,
-      "comments": 67,
+      "score": 693,
+      "comments": 68,
       "author": "mwkaufma",
       "tags": [],
       "date": "2026-03-17T18:59:50+00:00"
@@ -476,8 +498,8 @@
       "source": "hn",
       "title": "Python 3.15's JIT is now back on track",
       "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 442,
-      "comments": 257,
+      "score": 443,
+      "comments": 261,
       "author": "guidoiaquinti",
       "tags": [],
       "date": "2026-03-17T18:37:27+00:00"
@@ -575,7 +597,7 @@
       "source": "hn",
       "title": "A Fuzzer for the Toy Optimizer",
       "url": "https://bernsteinbear.com/blog/toy-fuzzer/",
-      "score": 4,
+      "score": 7,
       "comments": 1,
       "author": "surprisetalk",
       "tags": [],
@@ -597,8 +619,8 @@
       "source": "hn",
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 749,
-      "comments": 277,
+      "score": 755,
+      "comments": 279,
       "author": "crtasm",
       "tags": [],
       "date": "2026-03-17T15:16:29+00:00"
@@ -1345,8 +1367,8 @@
       "source": "hn",
       "title": "Using calculus to do number theory",
       "url": "https://hidden-phenomena.com/articles/hensels",
-      "score": 30,
-      "comments": 3,
+      "score": 37,
+      "comments": 7,
       "author": "cpp_frog",
       "tags": [],
       "date": "2026-03-16T14:12:45+00:00"
@@ -1861,8 +1883,8 @@
       "source": "hn",
       "title": "How the Eon Team Produced a Virtual Embodied Fly",
       "url": "https://eon.systems/updates/embodied-brain-emulation",
-      "score": 59,
-      "comments": 16,
+      "score": 62,
+      "comments": 17,
       "author": "LopRabbit",
       "tags": [],
       "date": "2026-03-15T23:44:34+00:00"
@@ -2049,7 +2071,7 @@
       "source": "hn",
       "title": "Write up of my homebrew CPU build",
       "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-      "score": 166,
+      "score": 177,
       "comments": 24,
       "author": "wwarren",
       "tags": [],
@@ -3379,8 +3401,8 @@
       "source": "hn",
       "title": "Restoring the first recording of computer music (2018)",
       "url": "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music",
-      "score": 9,
-      "comments": 3,
+      "score": 12,
+      "comments": 4,
       "author": "OJFord",
       "tags": [],
       "date": "2026-03-14T08:28:16+00:00"
@@ -3501,8 +3523,8 @@
       "source": "hn",
       "title": "JPEG Compression",
       "url": "https://www.sophielwang.com/blog/jpeg",
-      "score": 343,
-      "comments": 84,
+      "score": 353,
+      "comments": 91,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-03-14T01:31:48+00:00"
@@ -3524,8 +3546,8 @@
       "source": "hn",
       "title": "(Media over QUIC) on a Boat",
       "url": "https://moq.dev/blog/on-a-boat/",
-      "score": 79,
-      "comments": 13,
+      "score": 82,
+      "comments": 16,
       "author": "mmcclure",
       "tags": [],
       "date": "2026-03-14T00:50:20+00:00"
@@ -3568,8 +3590,8 @@
       "source": "hn",
       "title": "A Tiny Camera Revealed a Hidden Passage in the Great Pyramid",
       "url": "https://modernengineeringmarvels.com/2026/03/13/a-tiny-camera-revealed-a-hidden-passage-in-the-great-pyramid/",
-      "score": 45,
-      "comments": 12,
+      "score": 52,
+      "comments": 19,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-03-14T00:08:16+00:00"
@@ -3724,8 +3746,8 @@
       "source": "hn",
       "title": "Pandas Exercises for Data Analysis (Interactive)",
       "url": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
-      "score": 92,
-      "comments": 18,
+      "score": 96,
+      "comments": 23,
       "author": "selva86",
       "tags": [],
       "date": "2026-03-13T18:05:23+00:00"
@@ -5181,20 +5203,6 @@
       "date": "2026-02-23T22:31:22Z"
     },
     {
-      "id": "htb-dt-3279111",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "Interpreter Machine Writeup | HackTheBox",
-      "url": "https://dev.to/0xjerry__/interpreter-machine-hackthebox-4cbc",
-      "score": 0,
-      "author": "Andrés",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-02-23T22:31:22Z"
-    },
-    {
       "id": "ghrel-Pennyw0rth_NetExec-289454548",
       "source": "project",
       "proj_category": "Tools",
@@ -5207,22 +5215,6 @@
         "Release"
       ],
       "date": "2026-02-23T14:52:17Z"
-    },
-    {
-      "id": "ghrel-pwndbg_pwndbg-287681700",
-      "source": "project",
-      "proj_category": "Tools",
-      "title": "[pwndbg] 2026.02.18 — 2026.02.18",
-      "url": "https://github.com/pwndbg/pwndbg/releases/tag/2026.02.18",
-      "score": null,
-      "author": "pwndbg",
-      "tags": [
-        "pwndbg",
-        "GDB",
-        "Pwn",
-        "Release"
-      ],
-      "date": "2026-02-18T14:54:30Z"
     },
     {
       "id": "ctf-3246876",
