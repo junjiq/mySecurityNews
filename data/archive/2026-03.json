@@ -1,16 +1,16 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-19T16:48:37.061488+00:00",
+  "generated_at": "2026-03-19T17:23:11.150509+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99,
+    "hn": 354,
+    "zennqiita": 96,
     "project": 1
   },
   "severity_counts": {
     "high": 2,
     "medium": 3,
-    "critical": 13
+    "critical": 12
   },
   "top_articles": [
     {
@@ -58,7 +58,7 @@
     {
       "title": "Afroman found not liable in defamation case",
       "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-      "score": 805,
+      "score": 855,
       "source": "hn",
       "date": "2026-03-19T09:51:56+00:00"
     },
@@ -82,6 +82,13 @@
       "score": 741,
       "source": "hn",
       "date": "2026-03-15T19:25:18+00:00"
+    },
+    {
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "score": 740,
+      "source": "hn",
+      "date": "2026-03-19T13:05:50+00:00"
     },
     {
       "title": "Ageless Linux – Software for humans of indeterminate age",
@@ -124,13 +131,6 @@
       "score": 680,
       "source": "hn",
       "date": "2026-03-17T21:04:26+00:00"
-    },
-    {
-      "title": "Astral to Join OpenAI",
-      "url": "https://astral.sh/blog/openai",
-      "score": 674,
-      "source": "hn",
-      "date": "2026-03-19T13:05:50+00:00"
     },
     {
       "title": "OpenRocket",
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-13T18:42:54+00:00"
-    },
-    {
-      "title": "Source code of Swedish e-government services has been leaked",
-      "url": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-13T09:45:30+00:00"
     }
   ]
 }
