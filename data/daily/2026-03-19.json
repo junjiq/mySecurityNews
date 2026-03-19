@@ -1,14 +1,30 @@
 {
   "date": "2026-03-19",
-  "generated_at": "2026-03-19T20:12:32.423799+00:00",
-  "total_articles": 67,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-03-19T21:12:34.876370+00:00",
+  "total_articles": 72,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Clockwise acquired by Salesforce and shutting down next week",
+      "url": "https://www.getclockwise.com",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-19T19:50:51+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 58,
       "top_items": [
+        {
+          "title": "Astral to Join OpenAI",
+          "url": "https://astral.sh/blog/openai",
+          "score": 1047,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-19T13:05:50+00:00"
+        },
         {
           "title": "Afroman found not liable in defamation case",
           "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
@@ -16,14 +32,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T09:51:56+00:00"
-        },
-        {
-          "title": "Astral to Join OpenAI",
-          "url": "https://astral.sh/blog/openai",
-          "score": 978,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-19T13:05:50+00:00"
         },
         {
           "title": "Austin’s surge of new housing construction drove down rents",
@@ -42,12 +50,12 @@
           "date": "2026-03-19T02:23:17+00:00"
         },
         {
-          "title": "Warranty Void If Regenerated",
-          "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-          "score": 466,
+          "title": "“Your frustration is the product”",
+          "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
+          "score": 308,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-18T20:45:54+00:00"
+          "date": "2026-03-19T11:34:24+00:00"
         }
       ]
     },
