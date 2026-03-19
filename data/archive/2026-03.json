@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-19T23:09:06.019923+00:00",
+  "generated_at": "2026-03-19T23:41:54.744001+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 347,
@@ -30,7 +30,7 @@
     {
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
-      "score": 1141,
+      "score": 1167,
       "source": "hn",
       "date": "2026-03-19T13:05:50+00:00"
     },
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "Minecraft Source Code Is Interesting",
+      "url": "https://www.karanjanthe.me/posts/minecraft-source/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-19T22:33:08+00:00"
+    },
+    {
       "title": "Clockwise acquired by Salesforce and shutting down next week",
       "url": "https://www.getclockwise.com",
       "severity": "critical",
@@ -238,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-14T19:35:37+00:00"
-    },
-    {
-      "title": "An investigation of the forces behind the age-verification bills",
-      "url": "https://lwn.net/Articles/1062779/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-14T01:19:18+00:00"
     }
   ]
 }
