@@ -1,7 +1,7 @@
 {
   "date": "2026-03-19",
-  "generated_at": "2026-03-19T12:13:37.692147+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-03-19T13:31:51.379988+00:00",
+  "total_articles": 58,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,15 +22,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 49,
       "top_items": [
         {
           "title": "Austin’s surge of new housing construction drove down rents",
           "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-          "score": 598,
+          "score": 628,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T00:15:39+00:00"
+        },
+        {
+          "title": "A sufficiently detailed spec is code",
+          "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+          "score": 461,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-19T02:23:17+00:00"
         },
         {
           "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
@@ -41,34 +49,26 @@
           "date": "2026-03-18T14:14:02+00:00"
         },
         {
-          "title": "A sufficiently detailed spec is code",
-          "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-          "score": 423,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-19T02:23:17+00:00"
-        },
-        {
           "title": "Warranty Void If Regenerated",
           "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-          "score": 391,
+          "score": 423,
           "source": "hn",
           "severity": null,
           "date": "2026-03-18T20:45:54+00:00"
         },
         {
-          "title": "FBI is buying location data to track US citizens, director confirms",
-          "url": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
-          "score": 352,
+          "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
+          "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+          "score": 364,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-18T20:09:52+00:00"
+          "date": "2026-03-19T09:51:56+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 9,
       "top_items": [
         {
           "title": "「OpenAI APIのトークン消費量をざっくり計算して」と頼まれて調べたら絶望した話",
