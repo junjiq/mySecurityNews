@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-20T20:08:36.708151+00:00",
+  "generated_at": "2026-03-20T20:44:49.486852+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 350,
-    "zennqiita": 100,
+    "hn": 339,
+    "zennqiita": 111,
     "project": 1
   },
   "severity_counts": {
+    "critical": 12,
     "high": 3,
-    "critical": 11,
     "medium": 3
   },
   "top_articles": [
@@ -84,13 +84,6 @@
       "date": "2026-03-15T19:25:18+00:00"
     },
     {
-      "title": "Ageless Linux – Software for humans of indeterminate age",
-      "url": "https://agelesslinux.org/",
-      "score": 728,
-      "source": "hn",
-      "date": "2026-03-14T22:10:26+00:00"
-    },
-    {
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "url": "https://mistral.ai/news/leanstral",
       "score": 720,
@@ -128,7 +121,7 @@
     {
       "title": "ArXiv declares independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 667,
+      "score": 679,
       "source": "hn",
       "date": "2026-03-20T04:24:11+00:00"
     },
@@ -152,9 +145,23 @@
       "score": 662,
       "source": "hn",
       "date": "2026-03-17T00:02:35+00:00"
+    },
+    {
+      "title": "Have a fucking website",
+      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "score": 629,
+      "source": "hn",
+      "date": "2026-03-18T03:53:42+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
+      "url": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-03-20T15:43:04+09:00"
+    },
     {
       "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
       "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
