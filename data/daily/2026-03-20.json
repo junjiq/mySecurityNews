@@ -1,7 +1,7 @@
 {
   "date": "2026-03-20",
-  "generated_at": "2026-03-20T13:52:39.597664+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-03-20T14:18:37.638911+00:00",
+  "total_articles": 64,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,36 +29,36 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 55,
       "top_items": [
         {
           "title": "Google details new 24-hour process to sideload unverified Android apps",
           "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-          "score": 981,
+          "score": 1000,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T17:16:04+00:00"
         },
         {
-          "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
-          "url": "https://github.com/KittenML/KittenTTS",
-          "score": 480,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-19T15:56:06+00:00"
-        },
-        {
           "title": "ArXiv Declares Independence from Cornell",
           "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-          "score": 467,
+          "score": 489,
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T04:24:11+00:00"
         },
         {
+          "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+          "url": "https://github.com/KittenML/KittenTTS",
+          "score": 483,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-19T15:56:06+00:00"
+        },
+        {
           "title": "4Chan mocks £520k fine for UK online safety breaches",
           "url": "https://www.bbc.com/news/articles/c624330lg1ko",
-          "score": 417,
+          "score": 421,
           "source": "hn",
           "severity": null,
           "date": "2026-03-19T14:46:25+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "Push events into a running session with channels",
           "url": "https://code.claude.com/docs/en/channels",
-          "score": 365,
+          "score": 368,
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T00:22:08+00:00"
@@ -78,20 +78,12 @@
       "count": 9,
       "top_items": [
         {
-          "title": "【保存版】バグバウンティ実践者のための curl  ― 偵察からPoC構築まで",
-          "url": "https://qiita.com/kaminuma/items/6bd7359a202f0102a240?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-20T21:06:57+09:00"
-        },
-        {
           "title": "GPT-5.4 mini & nano入門 — サブエージェント時代の軽量モデルをAPIで活用する",
           "url": "https://qiita.com/kai_kou/items/dbb87652428ee1b255b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-20T19:32:55+09:00"
+          "date": "2026-03-20T22:58:48+09:00"
         },
         {
           "title": "Deep Agents入門 — 計画・メモリ・サブエージェントを備えたOSSエージェントハーネス",
@@ -99,7 +91,15 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-20T19:32:49+09:00"
+          "date": "2026-03-20T22:58:40+09:00"
+        },
+        {
+          "title": "【保存版】バグバウンティ実践者のための curl  ― 偵察からPoC構築まで",
+          "url": "https://qiita.com/kaminuma/items/6bd7359a202f0102a240?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-20T21:06:57+09:00"
         },
         {
           "title": "aws loginのクレデンシャルがcdk deployで読み込まれない問題を解決した話",
