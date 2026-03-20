@@ -1,16 +1,16 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-20T01:35:40.968237+00:00",
+  "generated_at": "2026-03-20T02:59:53.469231+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99,
+    "hn": 352,
+    "zennqiita": 98,
     "project": 1
   },
   "severity_counts": {
+    "high": 3,
     "critical": 11,
-    "medium": 4,
-    "high": 2
+    "medium": 4
   },
   "top_articles": [
     {
@@ -21,18 +21,18 @@
       "date": "2026-03-16T12:00:06+00:00"
     },
     {
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "score": 1239,
+      "source": "hn",
+      "date": "2026-03-19T13:05:50+00:00"
+    },
+    {
       "title": "Kagi Translate now supports LinkedIn Speak as an output language",
       "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
       "score": 1220,
       "source": "hn",
       "date": "2026-03-17T04:39:42+00:00"
-    },
-    {
-      "title": "Astral to Join OpenAI",
-      "url": "https://astral.sh/blog/openai",
-      "score": 1215,
-      "source": "hn",
-      "date": "2026-03-19T13:05:50+00:00"
     },
     {
       "title": "Afroman found not liable in defamation case",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-03-20T01:09:45+00:00"
+    },
     {
       "title": "Minecraft Source Code Is Interesting",
       "url": "https://www.karanjanthe.me/posts/minecraft-source/",

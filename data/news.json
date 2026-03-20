@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T01:35:40.854527+00:00",
+  "updated_at": "2026-03-20T02:59:53.358999+00:00",
   "count": 500,
   "items": [
     {
@@ -13,15 +13,27 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-03-20T10:33:07+09:00"
+      "date": "2026-03-20T11:02:03+09:00"
+    },
+    {
+      "id": "hn-47448994",
+      "source": "hn",
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "score": 25,
+      "comments": 2,
+      "author": "nyxgeek",
+      "tags": [],
+      "date": "2026-03-20T01:09:45+00:00",
+      "severity": "high"
     },
     {
       "id": "hn-47448566",
       "source": "hn",
       "title": "Drugwars for the TI-82/83/83 Calculators",
       "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
-      "score": 7,
-      "comments": 8,
+      "score": 45,
+      "comments": 23,
       "author": "robotnikman",
       "tags": [],
       "date": "2026-03-20T00:26:47+00:00"
@@ -29,10 +41,10 @@
     {
       "id": "hn-47448524",
       "source": "hn",
-      "title": "Claude Code: Channels",
+      "title": "Push events into a running session with channels",
       "url": "https://code.claude.com/docs/en/channels",
-      "score": 113,
-      "comments": 47,
+      "score": 177,
+      "comments": 104,
       "author": "jasonjmcghee",
       "tags": [],
       "date": "2026-03-20T00:22:08+00:00"
@@ -40,10 +52,10 @@
     {
       "id": "hn-47448328",
       "source": "hn",
-      "title": "Wayland set the Linux Desktop back by 10 years",
+      "title": "Wayland set the Linux Desktop back by 10 years?",
       "url": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
-      "score": 106,
-      "comments": 63,
+      "score": 171,
+      "comments": 146,
       "author": "omarroth",
       "tags": [],
       "date": "2026-03-20T00:01:40+00:00"
@@ -51,10 +63,10 @@
     {
       "id": "hn-47447690",
       "source": "hn",
-      "title": "The Day I Discovered Type Design",
+      "title": "The day I discovered type design",
       "url": "https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/",
-      "score": 28,
-      "comments": 2,
+      "score": 47,
+      "comments": 5,
       "author": "ingve",
       "tags": [],
       "date": "2026-03-19T23:08:37+00:00"
@@ -87,8 +99,8 @@
       "source": "hn",
       "title": "Be intentional about how AI changes your codebase",
       "url": "https://aicode.swerdlow.dev",
-      "score": 67,
-      "comments": 26,
+      "score": 72,
+      "comments": 28,
       "author": "benswerd",
       "tags": [],
       "date": "2026-03-19T21:23:24+00:00"
@@ -120,8 +132,8 @@
       "source": "hn",
       "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
       "url": "https://esolang-bench.vercel.app/",
-      "score": 58,
-      "comments": 29,
+      "score": 68,
+      "comments": 32,
       "author": "matt_d",
       "tags": [],
       "date": "2026-03-19T21:01:03+00:00"
@@ -131,8 +143,8 @@
       "source": "hn",
       "title": "Cockpit is a web-based graphical interface for servers",
       "url": "https://github.com/cockpit-project/cockpit",
-      "score": 165,
-      "comments": 102,
+      "score": 186,
+      "comments": 110,
       "author": "modinfo",
       "tags": [],
       "date": "2026-03-19T20:33:02+00:00"
@@ -153,8 +165,8 @@
       "source": "hn",
       "title": "Waymo Safety Impact",
       "url": "https://waymo.com/safety/impact/",
-      "score": 215,
-      "comments": 211,
+      "score": 240,
+      "comments": 231,
       "author": "xnx",
       "tags": [],
       "date": "2026-03-19T20:13:35+00:00"
@@ -175,8 +187,8 @@
       "source": "hn",
       "title": "Clockwise acquired by Salesforce and shutting down next week",
       "url": "https://www.getclockwise.com",
-      "score": 71,
-      "comments": 45,
+      "score": 84,
+      "comments": 48,
       "author": "nigelgutzmann",
       "tags": [],
       "date": "2026-03-19T19:50:51+00:00",
@@ -209,8 +221,8 @@
       "source": "hn",
       "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
       "url": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
-      "score": 77,
-      "comments": 18,
+      "score": 81,
+      "comments": 16,
       "author": "ofrzeta",
       "tags": [],
       "date": "2026-03-19T19:18:25+00:00"
@@ -231,8 +243,8 @@
       "source": "hn",
       "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
       "url": "https://qlabs.sh/10x",
-      "score": 99,
-      "comments": 17,
+      "score": 104,
+      "comments": 22,
       "author": "sdpmas",
       "tags": [],
       "date": "2026-03-19T18:51:25+00:00"
@@ -242,7 +254,7 @@
       "source": "hn",
       "title": "Noq: n0's new QUIC implementation in Rust",
       "url": "https://www.iroh.computer/blog/noq-announcement",
-      "score": 142,
+      "score": 157,
       "comments": 20,
       "author": "od0",
       "tags": [],
@@ -309,8 +321,8 @@
       "source": "hn",
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 494,
-      "comments": 579,
+      "score": 558,
+      "comments": 643,
       "author": "0xedb",
       "tags": [],
       "date": "2026-03-19T17:16:04+00:00"
@@ -331,8 +343,8 @@
       "source": "hn",
       "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
       "url": "https://blog.skypilot.co/scaling-autoresearch/",
-      "score": 122,
-      "comments": 59,
+      "score": 129,
+      "comments": 60,
       "author": "hopechong",
       "tags": [],
       "date": "2026-03-19T16:55:45+00:00"
@@ -364,8 +376,8 @@
       "source": "hn",
       "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
       "url": "https://github.com/KittenML/KittenTTS",
-      "score": 316,
-      "comments": 106,
+      "score": 337,
+      "comments": 122,
       "author": "rohan_joshi",
       "tags": [],
       "date": "2026-03-19T15:56:06+00:00"
@@ -408,8 +420,8 @@
       "source": "hn",
       "title": "4Chan mocks £520k fine for UK online safety breaches",
       "url": "https://www.bbc.com/news/articles/c624330lg1ko",
-      "score": 265,
-      "comments": 419,
+      "score": 282,
+      "comments": 456,
       "author": "mosura",
       "tags": [],
       "date": "2026-03-19T14:46:25+00:00"
@@ -487,8 +499,8 @@
       "source": "hn",
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
-      "score": 1215,
-      "comments": 751,
+      "score": 1239,
+      "comments": 770,
       "author": "ibraheemdev",
       "tags": [],
       "date": "2026-03-19T13:05:50+00:00"
@@ -509,8 +521,8 @@
       "source": "hn",
       "title": "Juggalo makeup blocks facial recognition technology (2019)",
       "url": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
-      "score": 229,
-      "comments": 141,
+      "score": 239,
+      "comments": 143,
       "author": "speckx",
       "tags": [],
       "date": "2026-03-19T13:02:35+00:00"
@@ -601,8 +613,8 @@
       "source": "hn",
       "title": "“Your frustration is the product”",
       "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-      "score": 431,
-      "comments": 249,
+      "score": 454,
+      "comments": 262,
       "author": "llm_nerd",
       "tags": [],
       "date": "2026-03-19T11:34:24+00:00"
@@ -894,8 +906,8 @@
       "source": "hn",
       "title": "How many branches can your CPU predict?",
       "url": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
-      "score": 16,
-      "comments": 28,
+      "score": 31,
+      "comments": 30,
       "author": "chmaynard",
       "tags": [],
       "date": "2026-03-18T23:39:58+00:00"
@@ -1857,8 +1869,8 @@
       "source": "hn",
       "title": "How the Turner twins are mythbusting modern technical apparel",
       "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
-      "score": 113,
-      "comments": 60,
+      "score": 127,
+      "comments": 68,
       "author": "greedo",
       "tags": [],
       "date": "2026-03-17T19:19:44+00:00"
@@ -2604,7 +2616,7 @@
       "source": "hn",
       "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
       "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
-      "score": 237,
+      "score": 249,
       "comments": 36,
       "author": "PaulHoule",
       "tags": [],
@@ -5153,19 +5165,6 @@
         "Qiita"
       ],
       "date": "2026-03-14T15:39:19+09:00"
-    },
-    {
-      "id": "qiita-7eb56472fb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "簡単コピペでClaude Codeに144種類のエージェントチームを作成 ── agency-agentsという40Kスター超のAIエージェント集を使いこなす",
-      "url": "https://qiita.com/nogataka/items/5b5747f619e6eb745436?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nogataka",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-14T15:11:26+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",
