@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-20T18:13:55.455035+00:00",
+  "generated_at": "2026-03-20T18:47:13.406420+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 350,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "high": 3,
-    "critical": 10,
+    "critical": 11,
     "medium": 3
   },
   "top_articles": [
@@ -147,11 +147,11 @@
       "date": "2026-03-17T00:02:35+00:00"
     },
     {
-      "title": "Have a fucking website",
-      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "score": 629,
+      "title": "ArXiv declares independence from Cornell",
+      "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "score": 640,
       "source": "hn",
-      "date": "2026-03-18T03:53:42+00:00"
+      "date": "2026-03-20T04:24:11+00:00"
     }
   ],
   "security_highlights": [
@@ -203,6 +203,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-17T08:15:34+00:00"
+    },
+    {
+      "title": "Show HN: An open-source safety net for home hemodialysis",
+      "url": "https://safehemo.com/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-17T00:48:15+00:00"
     },
     {
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
