@@ -1,9 +1,16 @@
 {
   "date": "2026-03-20",
-  "generated_at": "2026-03-20T21:09:00.123324+00:00",
-  "total_articles": 58,
-  "urgent_count": 3,
+  "generated_at": "2026-03-20T21:42:05.490977+00:00",
+  "total_articles": 57,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "OpenCode – The open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-20T21:03:52+00:00"
+    },
     {
       "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
       "url": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 40,
       "top_items": [
         {
           "title": "ArXiv declares independence from Cornell",
           "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-          "score": 683,
+          "score": 690,
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T04:24:11+00:00"
@@ -56,20 +63,20 @@
           "date": "2026-03-20T13:38:56+00:00"
         },
         {
+          "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+          "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+          "score": 394,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-20T13:01:56+00:00"
+        },
+        {
           "title": "Push events into a running session with channels",
           "url": "https://code.claude.com/docs/en/channels",
           "score": 371,
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T00:22:08+00:00"
-        },
-        {
-          "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-          "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-          "score": 367,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-20T13:01:56+00:00"
         }
       ]
     },
