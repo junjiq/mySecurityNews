@@ -1,7 +1,7 @@
 {
   "date": "2026-03-21",
-  "generated_at": "2026-03-21T13:19:11.677309+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-03-21T13:46:00.459791+00:00",
+  "total_articles": 46,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 39,
+      "count": 36,
       "top_items": [
         {
           "title": "OpenCode – Open source AI coding agent",
           "url": "https://opencode.ai/",
-          "score": 921,
+          "score": 939,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-20T21:03:52+00:00"
@@ -41,14 +41,6 @@
           "date": "2026-03-20T14:09:58+00:00"
         },
         {
-          "title": "I'm OK being left behind, thanks",
-          "url": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/",
-          "score": 542,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-20T13:38:56+00:00"
-        },
-        {
           "title": "Our commitment to Windows quality",
           "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
           "score": 524,
@@ -59,10 +51,18 @@
         {
           "title": "A Japanese glossary of chopsticks faux pas (2022)",
           "url": "https://www.nippon.com/en/japan-data/h01362/",
-          "score": 320,
+          "score": 331,
           "source": "hn",
           "severity": null,
           "date": "2026-03-20T20:54:57+00:00"
+        },
+        {
+          "title": "Ghostling",
+          "url": "https://github.com/ghostty-org/ghostling",
+          "score": 245,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-20T22:11:37+00:00"
         }
       ]
     },
@@ -76,7 +76,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-21T22:18:09+09:00"
+          "date": "2026-03-21T22:19:44+09:00"
         },
         {
           "title": "高校の文化祭で簡易POSを作って学んだ、「ITを入れれば効率化する」とは限らないという話",
