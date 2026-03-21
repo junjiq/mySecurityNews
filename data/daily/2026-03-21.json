@@ -1,9 +1,16 @@
 {
   "date": "2026-03-21",
-  "generated_at": "2026-03-21T23:06:51.002032+00:00",
-  "total_articles": 54,
-  "urgent_count": 1,
+  "generated_at": "2026-03-21T23:39:31.606324+00:00",
+  "total_articles": 55,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Floci – A free, open-source local AWS emulator",
+      "url": "https://github.com/hectorvent/floci",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-21T21:49:15+00:00"
+    },
     {
       "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
       "url": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -15,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
@@ -28,34 +35,34 @@
         {
           "title": "Some things just take time",
           "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-          "score": 438,
+          "score": 455,
           "source": "hn",
           "severity": null,
           "date": "2026-03-21T14:46:56+00:00"
         },
         {
-          "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
-          "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-          "score": 292,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-21T05:06:11+00:00"
-        },
-        {
           "title": "Do Not Turn Child Protection into Internet Access Control",
           "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-          "score": 247,
+          "score": 317,
           "source": "hn",
           "severity": null,
           "date": "2026-03-21T20:32:20+00:00"
         },
         {
-          "title": "404 Deno CEO not found",
-          "url": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
+          "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
+          "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
+          "score": 301,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-21T05:06:11+00:00"
+        },
+        {
+          "title": "Tinybox- offline AI device 120B parameters",
+          "url": "https://tinygrad.org/#tinybox",
           "score": 227,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-21T15:10:54+00:00"
+          "date": "2026-03-21T20:08:37+00:00"
         }
       ]
     },
