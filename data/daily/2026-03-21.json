@@ -1,6 +1,6 @@
 {
   "date": "2026-03-21",
-  "generated_at": "2026-03-21T02:55:41.961500+00:00",
+  "generated_at": "2026-03-21T03:45:50.597767+00:00",
   "total_articles": 58,
   "urgent_count": 2,
   "urgent_items": [
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "ArXiv declares independence from Cornell",
@@ -49,42 +49,34 @@
           "date": "2026-03-20T13:38:56+00:00"
         },
         {
-          "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-          "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-          "score": 482,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-20T13:01:56+00:00"
-        },
-        {
           "title": "OpenCode – Open source AI coding agent",
           "url": "https://opencode.ai/",
-          "score": 481,
+          "score": 517,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-20T21:03:52+00:00"
+        },
+        {
+          "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+          "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+          "score": 493,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-20T13:01:56+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 15,
       "top_items": [
-        {
-          "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
-          "url": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "critical",
-          "date": "2026-03-21T11:04:19+09:00"
-        },
         {
           "title": "Ruffleを入れただけでは動かない ― Pleiades Company様製のErinyesを現代ブラウザで蘇らせて分かったこと【Githubにて公開中】",
           "url": "https://qiita.com/shinohara-tsukasa/items/67a2bb1d333fcfae53e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-21T10:44:30+09:00"
+          "date": "2026-03-21T12:11:27+09:00"
         },
         {
           "title": "TRON 組込みOSシェア60%で世界一⁉️は疑わしい ～ 日本発のOS標準規格の基礎と歴史",
@@ -92,7 +84,15 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-21T09:50:38+09:00"
+          "date": "2026-03-21T12:06:19+09:00"
+        },
+        {
+          "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
+          "url": "https://qiita.com/sarubot/items/df077776b293163e0a42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": "critical",
+          "date": "2026-03-21T11:04:19+09:00"
         },
         {
           "title": "Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました",
