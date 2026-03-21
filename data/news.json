@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-21T21:07:37.419285+00:00",
+  "updated_at": "2026-03-21T21:39:28.299155+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47471213",
+      "source": "hn",
+      "title": "Revert \"userdb: add birthDate field to JSON user records",
+      "url": "https://github.com/systemd/systemd/pull/41179",
+      "score": 12,
+      "comments": 2,
+      "author": "smartmic",
+      "tags": [],
+      "date": "2026-03-21T20:53:43+00:00"
+    },
     {
       "id": "hn-47470991",
       "source": "hn",
       "title": "Do Not Turn Child Protection into Internet Access Control",
       "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 8,
-      "comments": 1,
+      "score": 70,
+      "comments": 20,
       "author": "smartmic",
       "tags": [],
       "date": "2026-03-21T20:32:20+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "Tinybox- offline AI device 120B parameters",
       "url": "https://tinygrad.org/#tinybox",
-      "score": 97,
-      "comments": 47,
+      "score": 129,
+      "comments": 77,
       "author": "albelfio",
       "tags": [],
       "date": "2026-03-21T20:08:37+00:00"
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "No evidence cannabis helps anxiety, depression, or PTSD",
       "url": "https://www.sciencedaily.com/releases/2026/03/260319044656.htm",
-      "score": 31,
-      "comments": 9,
+      "score": 54,
+      "comments": 30,
       "author": "nothrowaways",
       "tags": [],
       "date": "2026-03-21T20:05:58+00:00"
@@ -51,19 +62,30 @@
       "source": "hn",
       "title": "Hawaii's worst flooding in 20 years threatens dam, prompts evacuations",
       "url": "https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573",
-      "score": 13,
-      "comments": 0,
+      "score": 22,
+      "comments": 6,
       "author": "geox",
       "tags": [],
       "date": "2026-03-21T19:55:23+00:00",
       "severity": "medium"
     },
     {
+      "id": "hn-47470200",
+      "source": "hn",
+      "title": "No Semicolons Needed",
+      "url": "https://terts.dev/blog/no-semicolons-needed/",
+      "score": 8,
+      "comments": 0,
+      "author": "karakoram",
+      "tags": [],
+      "date": "2026-03-21T19:07:20+00:00"
+    },
+    {
       "id": "hn-47469949",
       "source": "hn",
       "title": "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
       "url": "https://github.com/pagel-s/termcraft",
-      "score": 25,
+      "score": 35,
       "comments": 1,
       "author": "sebosch",
       "tags": [],
@@ -90,6 +112,17 @@
       "author": "edward",
       "tags": [],
       "date": "2026-03-21T17:52:51+00:00"
+    },
+    {
+      "id": "hn-47469331",
+      "source": "hn",
+      "title": "Hide macOS Tahoe's Menu Icons",
+      "url": "https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/",
+      "score": 22,
+      "comments": 6,
+      "author": "soheilpro",
+      "tags": [],
+      "date": "2026-03-21T17:46:00+00:00"
     },
     {
       "id": "qiita-315fddd438",
@@ -144,8 +177,8 @@
       "source": "hn",
       "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
-      "score": 57,
-      "comments": 31,
+      "score": 61,
+      "comments": 36,
       "author": "Anon84",
       "tags": [],
       "date": "2026-03-21T15:30:29+00:00"
@@ -168,8 +201,8 @@
       "source": "hn",
       "title": "404 Deno CEO not found",
       "url": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
-      "score": 222,
-      "comments": 159,
+      "score": 227,
+      "comments": 164,
       "author": "WhyNotHugo",
       "tags": [],
       "date": "2026-03-21T15:10:54+00:00"
@@ -192,7 +225,7 @@
       "source": "hn",
       "title": "Show HN: Joonote – A note-taking app on your lock screen and notification panel",
       "url": "https://joonote.com/",
-      "score": 24,
+      "score": 25,
       "comments": 14,
       "author": "kilgarenone",
       "tags": [],
@@ -214,8 +247,8 @@
       "source": "hn",
       "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
       "url": "https://grafeo.dev/",
-      "score": 138,
-      "comments": 44,
+      "score": 144,
+      "comments": 47,
       "author": "0x1997",
       "tags": [],
       "date": "2026-03-21T14:50:18+00:00"
@@ -236,8 +269,8 @@
       "source": "hn",
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 373,
-      "comments": 127,
+      "score": 390,
+      "comments": 132,
       "author": "vaylian",
       "tags": [],
       "date": "2026-03-21T14:46:56+00:00"
@@ -375,8 +408,8 @@
       "source": "hn",
       "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
       "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
-      "score": 442,
-      "comments": 126,
+      "score": 453,
+      "comments": 127,
       "author": "pabs3",
       "tags": [],
       "date": "2026-03-21T07:30:16+00:00"
@@ -419,8 +452,8 @@
       "source": "hn",
       "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
       "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-      "score": 245,
-      "comments": 276,
+      "score": 264,
+      "comments": 284,
       "author": "akersten",
       "tags": [],
       "date": "2026-03-21T05:06:11+00:00"
@@ -641,8 +674,8 @@
       "source": "hn",
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 1166,
-      "comments": 573,
+      "score": 1171,
+      "comments": 574,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-03-20T21:03:52+00:00",
@@ -653,8 +686,8 @@
       "source": "hn",
       "title": "A Japanese glossary of chopsticks faux pas (2022)",
       "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 431,
-      "comments": 337,
+      "score": 436,
+      "comments": 340,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-03-20T20:54:57+00:00"
@@ -2081,8 +2114,8 @@
       "source": "hn",
       "title": "Electronics for Kids, 2nd Edition",
       "url": "https://nostarch.com/electronics-for-kids-2e",
-      "score": 18,
-      "comments": 1,
+      "score": 32,
+      "comments": 3,
       "author": "0x54MUR41",
       "tags": [],
       "date": "2026-03-19T04:35:51+00:00"
@@ -2249,8 +2282,8 @@
       "source": "hn",
       "title": "Books of the Century by Le Monde",
       "url": "https://standardebooks.org/collections/le-mondes-100-books-of-the-century",
-      "score": 76,
-      "comments": 42,
+      "score": 78,
+      "comments": 46,
       "author": "zlu",
       "tags": [],
       "date": "2026-03-19T00:58:25+00:00"
@@ -2385,8 +2418,8 @@
       "source": "hn",
       "title": "ZJIT removes redundant object loads and stores",
       "url": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
-      "score": 56,
-      "comments": 6,
+      "score": 58,
+      "comments": 8,
       "author": "tekknolagi",
       "tags": [],
       "date": "2026-03-18T21:26:23+00:00"
@@ -3178,8 +3211,8 @@
       "source": "hn",
       "title": "Meta's Omnilingual MT for 1,600 Languages",
       "url": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
-      "score": 108,
-      "comments": 29,
+      "score": 109,
+      "comments": 30,
       "author": "j0e1",
       "tags": [],
       "date": "2026-03-18T05:00:18+00:00"
@@ -3381,7 +3414,7 @@
       "source": "hn",
       "title": "Mamba-3",
       "url": "https://www.together.ai/blog/mamba-3",
-      "score": 260,
+      "score": 263,
       "comments": 50,
       "author": "matt_d",
       "tags": [],
@@ -3628,6 +3661,17 @@
       "author": "richard_pepper",
       "tags": [],
       "date": "2026-03-17T17:00:50+00:00"
+    },
+    {
+      "id": "hn-47415179",
+      "source": "hn",
+      "title": "The paddle wheel aircraft carriers of Lake Michigan",
+      "url": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
+      "score": 5,
+      "comments": 1,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-03-17T16:48:51+00:00"
     },
     {
       "id": "hn-47415044",
@@ -3906,8 +3950,8 @@
       "source": "hn",
       "title": "The seven hour explosion nobody could explain",
       "url": "https://phys.org/news/2026-03-hour-explosion.html",
-      "score": 46,
-      "comments": 5,
+      "score": 51,
+      "comments": 7,
       "author": "mellosouls",
       "tags": [],
       "date": "2026-03-17T11:14:23+00:00"
@@ -5142,52 +5186,6 @@
         "Qiita"
       ],
       "date": "2026-03-16T10:49:15+09:00"
-    },
-    {
-      "id": "qiita-aeeed0c7c1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Grafanaの管理者って6種類あんねん【Cognito連携】",
-      "url": "https://qiita.com/melknzw/items/63d33ed4b6fe9fe9a922?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "melknzw",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-16T10:36:29+09:00"
-    },
-    {
-      "id": "hn-47394022",
-      "source": "hn",
-      "title": "How I write software with LLMs",
-      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "score": 413,
-      "comments": 391,
-      "author": "indigodaddy",
-      "tags": [],
-      "date": "2026-03-16T01:24:09+00:00"
-    },
-    {
-      "id": "hn-47394004",
-      "source": "hn",
-      "title": "Quillx is an open standard for disclosing AI involvement in software projects",
-      "url": "https://github.com/QAInsights/AIx",
-      "score": 19,
-      "comments": 21,
-      "author": "qainsights",
-      "tags": [],
-      "date": "2026-03-16T01:21:39+00:00"
-    },
-    {
-      "id": "hn-47393941",
-      "source": "hn",
-      "title": "I built an ephemeral P2P chat with WebRTC, without servers",
-      "url": "https://ephemchat.vercel.app/",
-      "score": 6,
-      "comments": 4,
-      "author": "zRinexD",
-      "tags": [],
-      "date": "2026-03-16T01:11:52+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",
