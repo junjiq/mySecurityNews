@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-22T20:42:24.347745+00:00",
+  "generated_at": "2026-03-22T21:40:04.587297+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 349,
-    "zennqiita": 101,
+    "hn": 351,
+    "zennqiita": 99,
     "project": 1
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "medium": 5,
     "high": 2
   },
@@ -98,13 +98,6 @@
       "date": "2026-03-17T18:59:50+00:00"
     },
     {
-      "title": "Kagi Small Web",
-      "url": "https://kagi.com/smallweb/",
-      "score": 712,
-      "source": "hn",
-      "date": "2026-03-17T09:53:53+00:00"
-    },
-    {
       "title": "Mistral AI Releases Forge",
       "url": "https://mistral.ai/news/forge",
       "score": 680,
@@ -152,6 +145,13 @@
       "score": 542,
       "source": "hn",
       "date": "2026-03-20T13:38:56+00:00"
+    },
+    {
+      "title": "Our commitment to Windows quality",
+      "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+      "score": 524,
+      "source": "hn",
+      "date": "2026-03-20T19:16:13+00:00"
     }
   ],
   "security_highlights": [
@@ -168,6 +168,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-21T21:49:15+00:00"
+    },
+    {
+      "title": "How to Attract AI Bots to Your Open Source Project",
+      "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-21T20:58:01+00:00"
     },
     {
       "title": "【緊急】GitHub/npmを汚染する「見えないコード」の脅威：GlassWorm対策",
