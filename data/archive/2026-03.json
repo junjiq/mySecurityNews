@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-22T14:09:26.144589+00:00",
+  "generated_at": "2026-03-22T14:42:19.595256+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 345,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 14,
     "medium": 5,
     "high": 2
   },
@@ -65,7 +65,7 @@
     {
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 764,
+      "score": 769,
       "source": "hn",
       "date": "2026-03-21T14:46:56+00:00"
     },
@@ -89,13 +89,6 @@
       "score": 726,
       "source": "hn",
       "date": "2026-03-21T20:32:20+00:00"
-    },
-    {
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "score": 720,
-      "source": "hn",
-      "date": "2026-03-16T20:59:40+00:00"
     },
     {
       "title": "Austin’s surge of new housing construction drove down rents",
@@ -152,6 +145,13 @@
       "score": 620,
       "source": "hn",
       "date": "2026-03-19T19:08:02+00:00"
+    },
+    {
+      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "score": 596,
+      "source": "hn",
+      "date": "2026-03-20T13:01:56+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-17T00:48:15+00:00"
-    },
-    {
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-16T20:59:40+00:00"
     }
   ]
 }
