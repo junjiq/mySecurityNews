@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-22T17:07:02.179894+00:00",
+  "generated_at": "2026-03-22T18:08:49.117350+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 348,
-    "zennqiita": 102,
+    "hn": 350,
+    "zennqiita": 100,
     "project": 1
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 13,
     "medium": 5,
     "high": 2
   },
@@ -119,13 +119,6 @@
       "date": "2026-03-17T21:04:26+00:00"
     },
     {
-      "title": "US SEC preparing to scrap quarterly reporting requirement",
-      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-      "score": 662,
-      "source": "hn",
-      "date": "2026-03-17T00:02:35+00:00"
-    },
-    {
       "title": "Have a fucking website",
       "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
       "score": 629,
@@ -152,6 +145,13 @@
       "score": 596,
       "source": "hn",
       "date": "2026-03-20T13:01:56+00:00"
+    },
+    {
+      "title": "Tinybox – A powerful computer for deep learning",
+      "url": "https://tinygrad.org/#tinybox",
+      "score": 562,
+      "source": "hn",
+      "date": "2026-03-21T20:08:37+00:00"
     }
   ],
   "security_highlights": [
@@ -259,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-17T08:15:34+00:00"
-    },
-    {
-      "title": "Show HN: An open-source safety net for home hemodialysis",
-      "url": "https://safehemo.com/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-17T00:48:15+00:00"
     }
   ]
 }
