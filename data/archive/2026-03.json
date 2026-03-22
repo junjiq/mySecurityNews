@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-22T12:09:16.264372+00:00",
+  "generated_at": "2026-03-22T12:47:11.473032+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 345,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 17,
+    "critical": 16,
     "medium": 5,
     "high": 2
   },
@@ -79,14 +79,14 @@
     {
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 731,
+      "score": 748,
       "source": "hn",
       "date": "2026-03-21T14:46:56+00:00"
     },
     {
       "title": "Do Not Turn Child Protection into Internet Access Control",
       "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 724,
+      "score": 726,
       "source": "hn",
       "date": "2026-03-21T20:32:20+00:00"
     },
@@ -280,13 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-16T18:38:14+00:00"
-    },
-    {
-      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "url": "https://arxiv.org/abs/2511.04427",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-16T17:07:37+00:00"
     }
   ]
 }
