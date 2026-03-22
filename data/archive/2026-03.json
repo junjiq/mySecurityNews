@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-22T11:07:05.731823+00:00",
+  "generated_at": "2026-03-22T11:38:31.342962+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 345,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 17,
     "medium": 5,
     "high": 2
   },
@@ -77,6 +77,13 @@
       "date": "2026-03-17T15:16:29+00:00"
     },
     {
+      "title": "Some things just take time",
+      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+      "score": 721,
+      "source": "hn",
+      "date": "2026-03-21T14:46:56+00:00"
+    },
+    {
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "url": "https://mistral.ai/news/leanstral",
       "score": 720,
@@ -84,11 +91,11 @@
       "date": "2026-03-16T20:59:40+00:00"
     },
     {
-      "title": "Some things just take time",
-      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 715,
+      "title": "Do Not Turn Child Protection into Internet Access Control",
+      "url": "https://news.dyne.org/child-protection-is-not-access-control/",
+      "score": 714,
       "source": "hn",
-      "date": "2026-03-21T14:46:56+00:00"
+      "date": "2026-03-21T20:32:20+00:00"
     },
     {
       "title": "Austin’s surge of new housing construction drove down rents",
@@ -110,13 +117,6 @@
       "score": 712,
       "source": "hn",
       "date": "2026-03-17T09:53:53+00:00"
-    },
-    {
-      "title": "Do Not Turn Child Protection into Internet Access Control",
-      "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 698,
-      "source": "hn",
-      "date": "2026-03-21T20:32:20+00:00"
     },
     {
       "title": "Mistral AI Releases Forge",
@@ -210,6 +210,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-19T19:50:51+00:00"
+    },
+    {
+      "title": "Show HN: Oku – One tab to filter out noise from feeds and content sources",
+      "url": "https://oku.io",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-19T17:27:45+00:00"
     },
     {
       "title": "An FAQ on Reinforcement Learning Environments",
