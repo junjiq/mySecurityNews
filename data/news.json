@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T07:17:42.886780+00:00",
+  "updated_at": "2026-03-22T07:18:27.383222+00:00",
   "count": 500,
   "items": [
     {
@@ -18,7 +18,7 @@
       "source": "hn",
       "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
       "url": "https://radar.cloudflare.com/domains/domain/archive.today",
-      "score": 99,
+      "score": 100,
       "comments": 40,
       "author": "winkelmann",
       "tags": [],
@@ -52,7 +52,7 @@
       "title": "The three pillars of JavaScript bloat",
       "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
       "score": 154,
-      "comments": 72,
+      "comments": 73,
       "author": "onlyspaceghost",
       "tags": [],
       "date": "2026-03-22T02:04:31+00:00"
@@ -62,8 +62,8 @@
       "source": "hn",
       "title": "Chest Fridge (2009)",
       "url": "https://mtbest.net/chest-fridge/",
-      "score": 74,
-      "comments": 49,
+      "score": 75,
+      "comments": 50,
       "author": "wolfi1",
       "tags": [],
       "date": "2026-03-22T01:02:10+00:00"
@@ -128,7 +128,7 @@
       "source": "hn",
       "title": "Floci – A free, open-source local AWS emulator",
       "url": "https://github.com/hectorvent/floci",
-      "score": 147,
+      "score": 148,
       "comments": 37,
       "author": "shaicoleman",
       "tags": [],
@@ -162,7 +162,7 @@
       "source": "hn",
       "title": "Do Not Turn Child Protection into Internet Access Control",
       "url": "https://news.dyne.org/child-protection-is-not-access-control/",
-      "score": 625,
+      "score": 626,
       "comments": 332,
       "author": "smartmic",
       "tags": [],
@@ -174,7 +174,7 @@
       "title": "Tinybox – Offline AI device 120B parameters",
       "url": "https://tinygrad.org/#tinybox",
       "score": 439,
-      "comments": 262,
+      "comments": 263,
       "author": "albelfio",
       "tags": [],
       "date": "2026-03-21T20:08:37+00:00"
@@ -1709,7 +1709,7 @@
       "source": "hn",
       "title": "My first patch to the Linux kernel",
       "url": "https://pooladkhay.com/posts/first-kernel-patch/",
-      "score": 4,
+      "score": 5,
       "comments": 0,
       "author": "pooladkhay",
       "tags": [],
@@ -5379,45 +5379,6 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-968c20124c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "cmuxで変わるClaude Codeのマルチプロジェクト開発体験",
-      "url": "https://zenn.dev/hummer/articles/cmux-ecosystem-claude-code",
-      "score": null,
-      "author": "Yamamoto Yuji / はまあ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Mar 2026 16:44:41 GMT"
-    },
-    {
-      "id": "zenn-69ac8fabaf",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "DGX Sparkで色々なローカルLLMを動かした比較結果",
-      "url": "https://zenn.dev/karaage0703/articles/fcca40c614dffd",
-      "score": null,
-      "author": "からあげ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Mar 2026 16:18:04 GMT"
-    },
-    {
-      "id": "zenn-470e97fd6b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "仕様駆動開発スターターキットを公開しました",
-      "url": "https://zenn.dev/sakamotchi8/articles/spec-driven-starter-introduction",
-      "score": null,
-      "author": "sakamotchi8",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Mar 2026 04:32:52 GMT"
-    },
-    {
       "id": "zenn-d2304647ed",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5455,19 +5416,6 @@
         "Zenn"
       ],
       "date": "Sat, 21 Mar 2026 01:22:23 GMT"
-    },
-    {
-      "id": "zenn-4557a6aafd",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "古いPCをChromeOS Flexで蘇らせる（ChromeOS FlexのちLinux開発環境の立ち上げ、時々Gemini CLI）",
-      "url": "https://zenn.dev/gidajun/articles/bf4d9b493d5e9a",
-      "score": null,
-      "author": "ぎだじゅん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 20 Mar 2026 17:41:44 GMT"
     },
     {
       "id": "zenn-6e544df38b",
@@ -5626,6 +5574,19 @@
       "date": "Thu, 19 Mar 2026 03:34:48 GMT"
     },
     {
+      "id": "zenn-d0897d0a16",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "新機能を追加するために3,000行削除した話 — AIが書いたコードの技術負債とどう向き合うか",
+      "url": "https://zenn.dev/shigerufukada/articles/ccf7cb56eb7b46",
+      "score": null,
+      "author": "Fukada",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Mar 2026 02:39:46 GMT"
+    },
+    {
       "id": "zenn-f2e197c071",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5637,6 +5598,45 @@
         "Zenn"
       ],
       "date": "Thu, 19 Mar 2026 02:14:59 GMT"
+    },
+    {
+      "id": "zenn-b007d77dd0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "「AIに言われてウザかったフレーズ選手権」をアプリにした",
+      "url": "https://zenn.dev/acntechjp/articles/ba13495f3c8c0d",
+      "score": null,
+      "author": "akinobukato",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Mar 2026 00:07:13 GMT"
+    },
+    {
+      "id": "zenn-882f016a2b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Reactをやめて MoonBit で50ページの業務システムを作った",
+      "url": "https://zenn.dev/lehti/articles/c4b813a9192701",
+      "score": null,
+      "author": "Lehti",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Mar 2026 22:00:08 GMT"
+    },
+    {
+      "id": "zenn-afbd788d48",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "個人的開発環境 2026春",
+      "url": "https://zenn.dev/nokogiri/articles/2026-dev-environment",
+      "score": null,
+      "author": "nokogiri",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 18 Mar 2026 15:23:35 GMT"
     },
     {
       "id": "edb-bed48c0760",
