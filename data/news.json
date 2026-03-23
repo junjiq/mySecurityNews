@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T11:18:29.812468+00:00",
+  "updated_at": "2026-03-23T11:18:55.488429+00:00",
   "count": 500,
   "items": [
     {
@@ -7,7 +7,7 @@
       "source": "hn",
       "title": "GitHub appears to be struggling with measly three nines availability",
       "url": "https://www.theregister.com/2026/02/10/github_outages/",
-      "score": 16,
+      "score": 17,
       "comments": 5,
       "author": "richtr",
       "tags": [],
@@ -29,7 +29,7 @@
       "source": "hn",
       "title": "Migrating to the EU",
       "url": "https://rz01.org/eu-migration/",
-      "score": 60,
+      "score": 62,
       "comments": 22,
       "author": "exitnode",
       "tags": [],
@@ -668,7 +668,7 @@
       "title": "Project Nomad – Knowledge That Never Goes Offline",
       "url": "https://www.projectnomad.us",
       "score": 468,
-      "comments": 157,
+      "comments": 158,
       "author": "jensgk",
       "tags": [],
       "date": "2026-03-22T12:28:38+00:00"
@@ -745,7 +745,7 @@
       "title": "Reports of code's death are greatly exaggerated",
       "url": "https://stevekrouse.com/precision",
       "score": 419,
-      "comments": 314,
+      "comments": 315,
       "author": "stevekrouse",
       "tags": [],
       "date": "2026-03-22T11:09:34+00:00"
@@ -5170,7 +5170,7 @@
       "title": "Ordered dithering with arbitrary or irregular colour palettes (2023)",
       "url": "https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/",
       "score": 48,
-      "comments": 4,
+      "comments": 5,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-03-17T15:31:52+00:00"
@@ -5451,19 +5451,6 @@
       "date": "Sun, 22 Mar 2026 10:37:07 GMT"
     },
     {
-      "id": "zenn-939533cc41",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeに長期記憶を持たせたら、壁打ちの質が変わった",
-      "url": "https://zenn.dev/noprogllama/articles/7c24b2c2410213",
-      "score": null,
-      "author": "noprogllama",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 22 Mar 2026 09:18:21 GMT"
-    },
-    {
       "id": "zenn-09d443934c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5542,24 +5529,11 @@
       "date": "Sat, 21 Mar 2026 15:22:48 GMT"
     },
     {
-      "id": "zenn-a5a84b1d13",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "LLMに狙ったコードを書かせるためにLinterを自作してみたら体験が良かった",
-      "url": "https://zenn.dev/arika/articles/20260321-dotnet-linter-for-llms",
-      "score": null,
-      "author": "arika",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 21 Mar 2026 14:56:39 GMT"
-    },
-    {
-      "id": "zenn-3b48fb2295",
+      "id": "zenn-2819572131",
       "source": "zennqiita",
       "sub_source": "Zenn",
       "title": "コードレビューとは何か",
-      "url": "https://zenn.dev/baleenstudio/articles/what-is-a-code-review",
+      "url": "https://zenn.dev/takekazuomi/articles/what-is-a-code-review",
       "score": null,
       "author": "Takekazu Omi",
       "tags": [
@@ -5633,6 +5607,19 @@
       "date": "Fri, 20 Mar 2026 13:28:10 GMT"
     },
     {
+      "id": "zenn-7550435cc4",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "個人開発サイトにBOTが大量アクセス → Cloudflare無料プランで撃退した話🛡️",
+      "url": "https://zenn.dev/ausssxi/articles/646f7078117847",
+      "score": null,
+      "author": "MotoHub",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 20 Mar 2026 08:06:19 GMT"
+    },
+    {
       "id": "zenn-959d40c600",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5644,6 +5631,19 @@
         "Zenn"
       ],
       "date": "Thu, 19 Mar 2026 23:07:00 GMT"
+    },
+    {
+      "id": "zenn-76152595c2",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "業務アプリのフロントエンド負債と向き合い、Tailwind CSS から Panda CSS への移行を決めた話",
+      "url": "https://zenn.dev/levtech/articles/frontend-kaizen-pandacss",
+      "score": null,
+      "author": "Koichi Hayakawa",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 19 Mar 2026 04:15:04 GMT"
     },
     {
       "id": "edb-bed48c0760",
