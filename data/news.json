@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-23T20:13:57.392693+00:00",
+  "updated_at": "2026-03-23T20:46:13.830446+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47494629",
+      "source": "hn",
+      "title": "Bets on US-Iran ceasefire show signs of insider knowledge, say experts",
+      "url": "https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket",
+      "score": 11,
+      "comments": 1,
+      "author": "trocado",
+      "tags": [],
+      "date": "2026-03-23T20:25:10+00:00"
+    },
     {
       "id": "hn-47493657",
       "source": "hn",
       "title": "Local Stack Archived their GitHub repo and requires an account to run",
       "url": "https://github.com/localstack/localstack",
-      "score": 41,
-      "comments": 15,
+      "score": 66,
+      "comments": 26,
       "author": "ecshafer",
       "tags": [],
       "date": "2026-03-23T18:57:08+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "Autoresearch on an old research idea",
       "url": "https://ykumar.me/blog/eclip-autoresearch/",
-      "score": 118,
-      "comments": 29,
+      "score": 138,
+      "comments": 42,
       "author": "ykumards",
       "tags": [],
       "date": "2026-03-23T18:40:58+00:00"
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "AI Risks \"Hypernormal\" Science",
       "url": "https://www.asimov.press/p/ai-science",
-      "score": 10,
-      "comments": 3,
+      "score": 24,
+      "comments": 12,
       "author": "mailyk",
       "tags": [],
       "date": "2026-03-23T18:19:05+00:00"
@@ -40,8 +51,8 @@
       "source": "hn",
       "title": "US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html",
-      "score": 184,
-      "comments": 108,
+      "score": 217,
+      "comments": 137,
       "author": "lode",
       "tags": [],
       "date": "2026-03-23T17:35:38+00:00"
@@ -51,8 +62,8 @@
       "source": "hn",
       "title": "Is it a pint?",
       "url": "https://isitapint.com/",
-      "score": 133,
-      "comments": 123,
+      "score": 142,
+      "comments": 124,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-03-23T16:13:40+00:00"
@@ -62,7 +73,7 @@
       "source": "hn",
       "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
       "url": "https://github.com/jer-irl/threadprocs",
-      "score": 52,
+      "score": 56,
       "comments": 34,
       "author": "jer-irl",
       "tags": [],
@@ -84,11 +95,22 @@
       "source": "hn",
       "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
       "url": "https://www.cyber.mil/stigs/downloads",
-      "score": 133,
-      "comments": 121,
+      "score": 143,
+      "comments": 131,
       "author": "Eduard",
       "tags": [],
       "date": "2026-03-23T15:25:04+00:00"
+    },
+    {
+      "id": "hn-47490648",
+      "source": "hn",
+      "title": "An incoherent Rust",
+      "url": "https://www.boxyuwu.blog/posts/an-incoherent-rust/",
+      "score": 35,
+      "comments": 1,
+      "author": "emschwartz",
+      "tags": [],
+      "date": "2026-03-23T15:13:22+00:00"
     },
     {
       "id": "hn-47490365",
@@ -117,8 +139,8 @@
       "source": "hn",
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 336,
-      "comments": 193,
+      "score": 355,
+      "comments": 199,
       "author": "anemll",
       "tags": [],
       "date": "2026-03-23T14:30:10+00:00"
@@ -185,8 +207,8 @@
       "source": "hn",
       "title": "GitHub appears to be struggling with measly three nines availability",
       "url": "https://www.theregister.com/2026/02/10/github_outages/",
-      "score": 390,
-      "comments": 203,
+      "score": 397,
+      "comments": 204,
       "author": "richtr",
       "tags": [],
       "date": "2026-03-23T10:39:39+00:00"
@@ -196,8 +218,8 @@
       "source": "hn",
       "title": "I built an AI receptionist for a mechanic shop",
       "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
-      "score": 148,
-      "comments": 165,
+      "score": 156,
+      "comments": 173,
       "author": "mooreds",
       "tags": [],
       "date": "2026-03-23T10:32:33+00:00"
@@ -207,8 +229,8 @@
       "source": "hn",
       "title": "Migrating to the EU",
       "url": "https://rz01.org/eu-migration/",
-      "score": 743,
-      "comments": 590,
+      "score": 761,
+      "comments": 602,
       "author": "exitnode",
       "tags": [],
       "date": "2026-03-23T10:17:32+00:00"
@@ -218,8 +240,8 @@
       "source": "hn",
       "title": "Digs: Offline-first iOS app to browse your Discogs vinyl collection",
       "url": "https://lustin.fr/blog/building-digs/",
-      "score": 23,
-      "comments": 7,
+      "score": 26,
+      "comments": 10,
       "author": "rlustin",
       "tags": [],
       "date": "2026-03-23T09:02:05+00:00"
@@ -273,8 +295,8 @@
       "source": "hn",
       "title": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
       "url": "https://www.bbc.com/news/articles/cy01g522ww4o",
-      "score": 199,
-      "comments": 337,
+      "score": 219,
+      "comments": 370,
       "author": "mememememememo",
       "tags": [],
       "date": "2026-03-23T07:24:19+00:00"
@@ -382,8 +404,8 @@
       "source": "hn",
       "title": "“Collaboration” is bullshit",
       "url": "https://www.joanwestenberg.com/collaboration-is-bullshit/",
-      "score": 213,
-      "comments": 97,
+      "score": 223,
+      "comments": 115,
       "author": "mitchbob",
       "tags": [],
       "date": "2026-03-23T01:43:45+00:00"
@@ -662,8 +684,8 @@
       "source": "hn",
       "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
       "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 792,
-      "comments": 362,
+      "score": 797,
+      "comments": 363,
       "author": "JumpCrisscross",
       "tags": [],
       "date": "2026-03-22T18:23:40+00:00"
@@ -1070,7 +1092,7 @@
       "source": "hn",
       "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
       "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-      "score": 105,
+      "score": 113,
       "comments": 36,
       "author": "jicea",
       "tags": [],
@@ -1110,6 +1132,17 @@
       "author": "PythonicNinja",
       "tags": [],
       "date": "2026-03-22T09:00:37+00:00"
+    },
+    {
+      "id": "hn-47475417",
+      "source": "hn",
+      "title": "Dune3d: A parametric 3D CAD application",
+      "url": "https://github.com/dune3d/dune3d",
+      "score": 15,
+      "comments": 1,
+      "author": "luu",
+      "tags": [],
+      "date": "2026-03-22T08:06:18+00:00"
     },
     {
       "id": "hn-47475232",
@@ -2207,7 +2240,7 @@
       "source": "hn",
       "title": "BIO: The Bao I/O Coprocessor",
       "url": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
-      "score": 70,
+      "score": 81,
       "comments": 21,
       "author": "zdw",
       "tags": [],
@@ -3125,8 +3158,8 @@
       "source": "hn",
       "title": "Walmart: ChatGPT checkout converted 3x worse than website",
       "url": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
-      "score": 345,
-      "comments": 231,
+      "score": 354,
+      "comments": 235,
       "author": "speckx",
       "tags": [],
       "date": "2026-03-19T19:42:35+00:00"
@@ -3202,8 +3235,8 @@
       "source": "hn",
       "title": "Finding all regex matches has always been O(n²)",
       "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
-      "score": 61,
-      "comments": 10,
+      "score": 82,
+      "comments": 17,
       "author": "lalitmaganti",
       "tags": [],
       "date": "2026-03-19T18:40:02+00:00"
@@ -3720,7 +3753,7 @@
       "source": "hn",
       "title": "An unsolicited guide to being a researcher [pdf]",
       "url": "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf",
-      "score": 133,
+      "score": 137,
       "comments": 19,
       "author": "sebg",
       "tags": [],
@@ -3755,8 +3788,8 @@
       "source": "hn",
       "title": "Bombadil: Property-based testing for web UIs",
       "url": "https://github.com/antithesishq/bombadil",
-      "score": 201,
-      "comments": 76,
+      "score": 203,
+      "comments": 77,
       "author": "Klaster_1",
       "tags": [],
       "date": "2026-03-19T08:53:36+00:00"
@@ -5140,43 +5173,6 @@
       "author": "Uptrenda",
       "tags": [],
       "date": "2026-03-18T04:11:20+00:00"
-    },
-    {
-      "id": "hn-47421442",
-      "source": "hn",
-      "title": "Have a fucking website",
-      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "score": 629,
-      "comments": 357,
-      "author": "asukachikaru",
-      "tags": [],
-      "date": "2026-03-18T03:53:42+00:00"
-    },
-    {
-      "id": "qiita-550663c99e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【前編】「バグが出ました。」それは報告？相談？ ― 意識の違いでシゴデキエンジニアに！！ ―",
-      "url": "https://qiita.com/hitomin_poke/items/417b4d6f416fb188a30c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hitomin_poke",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-18T12:32:12+09:00"
-    },
-    {
-      "id": "qiita-a1d87455dd",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【2026年最新版】ローカルLLM（Ollama）で完全オフラインAI開発環境を作る",
-      "url": "https://qiita.com/miruky/items/026aeee6b59f78df5e9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "miruky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-18T12:12:26+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",
