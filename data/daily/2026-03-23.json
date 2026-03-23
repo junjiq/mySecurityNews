@@ -1,7 +1,7 @@
 {
   "date": "2026-03-23",
-  "generated_at": "2026-03-23T00:26:59.312397+00:00",
-  "total_articles": 67,
+  "generated_at": "2026-03-23T00:59:22.967933+00:00",
+  "total_articles": 63,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 53,
       "top_items": [
         {
           "title": "Hormuz Minesweeper – Are you tired of winning?",
@@ -36,10 +36,18 @@
         {
           "title": "The future of version control",
           "url": "https://bramcohen.com/p/manyana",
-          "score": 378,
+          "score": 391,
           "source": "hn",
           "severity": null,
           "date": "2026-03-22T15:16:28+00:00"
+        },
+        {
+          "title": "Project Nomad – Knowledge That Never Goes Offline",
+          "url": "https://www.projectnomad.us",
+          "score": 355,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-22T12:28:38+00:00"
         },
         {
           "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
@@ -48,20 +56,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-22T03:43:51+00:00"
-        },
-        {
-          "title": "Project Nomad – Knowledge That Never Goes Offline",
-          "url": "https://www.projectnomad.us",
-          "score": 348,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-22T12:28:38+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
         {
           "title": "Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました",
