@@ -1,34 +1,26 @@
 {
   "date": "2026-03-23",
-  "generated_at": "2026-03-23T21:12:48.630047+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-03-23T21:45:37.438739+00:00",
+  "total_articles": 51,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 39,
       "top_items": [
         {
           "title": "Migrating to the EU",
           "url": "https://rz01.org/eu-migration/",
-          "score": 769,
+          "score": 779,
           "source": "hn",
           "severity": null,
           "date": "2026-03-23T10:17:32+00:00"
         },
         {
-          "title": "GrapheneOS will remain usable by anyone without requiring personal information",
-          "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-          "score": 458,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-22T21:14:11+00:00"
-        },
-        {
           "title": "GitHub appears to be struggling with measly three nines availability",
           "url": "https://www.theregister.com/2026/02/10/github_outages/",
-          "score": 397,
+          "score": 409,
           "source": "hn",
           "severity": null,
           "date": "2026-03-23T10:39:39+00:00"
@@ -36,7 +28,7 @@
         {
           "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
           "url": "https://twitter.com/anemll/status/2035901335984611412",
-          "score": 372,
+          "score": 387,
           "source": "hn",
           "severity": null,
           "date": "2026-03-23T14:30:10+00:00"
@@ -48,12 +40,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-23T08:29:27+00:00"
+        },
+        {
+          "title": "Student beauty and grades under in-person and remote teaching",
+          "url": "https://www.sciencedirect.com/science/article/pii/S016517652200283X",
+          "score": 325,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-23T11:31:19+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "GitHub Issues からリリースノートをAIで自動生成する方法",
