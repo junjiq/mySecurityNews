@@ -1,42 +1,42 @@
 {
   "date": "2026-03-24",
-  "generated_at": "2026-03-24T13:33:08.855642+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-03-24T14:28:44.700010+00:00",
+  "total_articles": 55,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 46,
       "top_items": [
         {
           "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
           "url": "https://twitter.com/anemll/status/2035901335984611412",
-          "score": 654,
+          "score": 665,
           "source": "hn",
           "severity": null,
           "date": "2026-03-23T14:30:10+00:00"
         },
         {
-          "title": "Claude Code Cheat Sheet",
-          "url": "https://cc.storyfox.cz",
-          "score": 480,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-23T21:44:20+00:00"
-        },
-        {
           "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
           "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-          "score": 442,
+          "score": 530,
           "source": "hn",
           "severity": null,
           "date": "2026-03-24T09:36:29+00:00"
         },
         {
+          "title": "Claude Code Cheat Sheet",
+          "url": "https://cc.storyfox.cz",
+          "score": 517,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-23T21:44:20+00:00"
+        },
+        {
           "title": "Autoresearch on an old research idea",
           "url": "https://ykumar.me/blog/eclip-autoresearch/",
-          "score": 382,
+          "score": 391,
           "source": "hn",
           "severity": null,
           "date": "2026-03-23T18:40:58+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "FCC updates covered list to include foreign-made consumer routers",
           "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-          "score": 364,
+          "score": 384,
           "source": "hn",
           "severity": "medium",
           "date": "2026-03-23T21:28:02+00:00"
@@ -53,8 +53,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 9,
       "top_items": [
+        {
+          "title": "Windows でしか動かない描画処理をブラウザで動かす OSS を公開した",
+          "url": "https://qiita.com/LostMyCode/items/c38c831b8e1cb6dafa70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-24T22:41:49+09:00"
+        },
         {
           "title": "「何からやれば...」を卒業する。実務の解像度を劇的に高める3ステップ",
           "url": "https://qiita.com/masa20057/items/c841d47f35e9c04c6bee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-24T10:35:33+09:00"
-        },
-        {
-          "title": "最近CLIツールが好んで設定を書き込む ~/.config ディレクトリとは何か？",
-          "url": "https://qiita.com/ssc-ksaitou/items/328e11737f12de366b7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-24T10:35:29+09:00"
         }
       ]
     }
