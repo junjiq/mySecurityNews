@@ -1,7 +1,7 @@
 {
   "date": "2026-03-25",
-  "generated_at": "2026-03-25T08:16:32.233610+00:00",
-  "total_articles": 69,
+  "generated_at": "2026-03-25T08:47:23.693960+00:00",
+  "total_articles": 70,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 57,
       "top_items": [
         {
           "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
           "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-          "score": 880,
+          "score": 900,
           "source": "hn",
           "severity": null,
           "date": "2026-03-24T18:34:52+00:00"
@@ -48,6 +48,14 @@
           "date": "2026-03-24T09:36:29+00:00"
         },
         {
+          "title": "Goodbye to Sora",
+          "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+          "score": 683,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-24T20:01:05+00:00"
+        },
+        {
           "title": "LiteLLM Python package compromised by supply-chain attack",
           "url": "https://github.com/BerriAI/litellm/issues/24512",
           "score": 676,
@@ -56,17 +64,9 @@
           "date": "2026-03-24T12:36:20+00:00"
         },
         {
-          "title": "Goodbye to Sora",
-          "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-          "score": 658,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-24T20:01:05+00:00"
-        },
-        {
           "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
           "url": "https://github.com/BerriAI/litellm/issues/24512",
-          "score": 636,
+          "score": 649,
           "source": "hn",
           "severity": null,
           "date": "2026-03-24T12:06:29+00:00"
