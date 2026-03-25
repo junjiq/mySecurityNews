@@ -1,7 +1,7 @@
 {
   "date": "2026-03-25",
-  "generated_at": "2026-03-25T21:12:52.633397+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-03-25T21:45:48.251239+00:00",
+  "total_articles": 58,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,8 +36,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 47,
       "top_items": [
+        {
+          "title": "Thoughts on slowing the fuck down",
+          "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+          "score": 527,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-25T14:07:14+00:00"
+        },
         {
           "title": "Flighty Airports",
           "url": "https://flighty.com/airports",
@@ -47,28 +55,12 @@
           "date": "2026-03-25T00:29:45+00:00"
         },
         {
-          "title": "Thoughts on slowing the fuck down",
-          "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-          "score": 491,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-25T14:07:14+00:00"
-        },
-        {
           "title": "TurboQuant: Redefining AI efficiency with extreme compression",
           "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-          "score": 444,
+          "score": 451,
           "source": "hn",
           "severity": null,
           "date": "2026-03-25T05:00:54+00:00"
-        },
-        {
-          "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-          "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
-          "score": 391,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-24T21:24:33+00:00"
         },
         {
           "title": "Meta told to pay $375M for misleading users over child safety",
@@ -77,12 +69,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-25T08:52:50+00:00"
+        },
+        {
+          "title": "Apple Just Lost Me",
+          "url": "https://andregarzia.com/2026/03/apple-just-lost-me.html",
+          "score": 347,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-25T14:20:24+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "【図解】2層構造→MVC→レイヤード→ヘキサゴナル→クリーンアーキテクチャ：設計思想の進化を一気に理解する",
