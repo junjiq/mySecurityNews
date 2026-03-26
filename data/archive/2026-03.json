@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-26T01:00:45.340257+00:00",
+  "generated_at": "2026-03-26T02:17:47.888117+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 348,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 4,
-    "critical": 10,
+    "critical": 9,
     "high": 3
   },
   "top_articles": [
@@ -77,6 +77,13 @@
       "date": "2026-03-20T04:24:11+00:00"
     },
     {
+      "title": "The EU still wants to scan  your private messages and photos",
+      "url": "https://fightchatcontrol.eu/?foo=bar",
+      "score": 728,
+      "source": "hn",
+      "date": "2026-03-25T20:27:03+00:00"
+    },
+    {
       "title": "Do Not Turn Child Protection into Internet Access Control",
       "url": "https://news.dyne.org/child-protection-is-not-access-control/",
       "score": 726,
@@ -91,6 +98,13 @@
       "date": "2026-03-24T15:29:41+00:00"
     },
     {
+      "title": "My astrophotography in the movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
+      "score": 710,
+      "source": "hn",
+      "date": "2026-03-22T14:28:06+00:00"
+    },
+    {
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
       "score": 684,
@@ -98,11 +112,11 @@
       "date": "2026-03-23T14:30:10+00:00"
     },
     {
-      "title": "My astrophotography in the movie Project Hail Mary",
-      "url": "https://rpastro.square.site/s/stories/phm",
-      "score": 677,
+      "title": "Thoughts on slowing the fuck down",
+      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "score": 683,
       "source": "hn",
-      "date": "2026-03-22T14:28:06+00:00"
+      "date": "2026-03-25T14:07:14+00:00"
     },
     {
       "title": "LiteLLM Python package compromised by supply-chain attack",
@@ -110,20 +124,6 @@
       "score": 676,
       "source": "hn",
       "date": "2026-03-24T12:36:20+00:00"
-    },
-    {
-      "title": "The EU still wants to scan  your private messages and photos",
-      "url": "https://fightchatcontrol.eu/?foo=bar",
-      "score": 656,
-      "source": "hn",
-      "date": "2026-03-25T20:27:03+00:00"
-    },
-    {
-      "title": "Thoughts on slowing the fuck down",
-      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-      "score": 651,
-      "source": "hn",
-      "date": "2026-03-25T14:07:14+00:00"
     },
     {
       "title": "Chuck Norris has died",
@@ -238,13 +238,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-03-20T01:09:45+00:00"
-    },
-    {
-      "title": "Minecraft Source Code Is Interesting",
-      "url": "https://www.karanjanthe.me/posts/minecraft-source/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-19T22:33:08+00:00"
     }
   ]
 }
