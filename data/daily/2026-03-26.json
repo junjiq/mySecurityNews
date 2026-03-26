@@ -1,9 +1,16 @@
 {
   "date": "2026-03-26",
-  "generated_at": "2026-03-26T10:21:37.680044+00:00",
-  "total_articles": 54,
-  "urgent_count": 2,
+  "generated_at": "2026-03-26T10:47:45.655824+00:00",
+  "total_articles": 53,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Show HN: Relay – The open-source Claude Cowork for OpenClaw",
+      "url": "https://github.com/SeventeenLabs/relay",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-26T10:23:12+00:00"
+    },
     {
       "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
       "url": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 45,
       "top_items": [
         {
           "title": "The EU still wants to scan  your private messages and photos",
           "url": "https://fightchatcontrol.eu/?foo=bar",
-          "score": 1177,
+          "score": 1196,
           "source": "hn",
           "severity": null,
           "date": "2026-03-25T20:27:03+00:00"
@@ -43,7 +50,7 @@
         {
           "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
           "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-          "score": 634,
+          "score": 644,
           "source": "hn",
           "severity": null,
           "date": "2026-03-25T21:11:57+00:00"
@@ -51,7 +58,7 @@
         {
           "title": "ARC-AGI-3",
           "url": "https://arcprize.org/arc-agi/3",
-          "score": 401,
+          "score": 406,
           "source": "hn",
           "severity": null,
           "date": "2026-03-25T18:16:03+00:00"
