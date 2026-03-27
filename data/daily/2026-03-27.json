@@ -1,7 +1,7 @@
 {
   "date": "2026-03-27",
-  "generated_at": "2026-03-27T23:10:53.319995+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-03-27T23:43:25.507368+00:00",
+  "total_articles": 57,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,15 +22,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
         {
           "title": "Hold on to Your Hardware",
           "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-          "score": 546,
+          "score": 552,
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T10:10:41+00:00"
+        },
+        {
+          "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
+          "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
+          "score": 472,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-27T13:54:35+00:00"
         },
         {
           "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
@@ -39,14 +47,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T12:46:49+00:00"
-        },
-        {
-          "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
-          "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-          "score": 456,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-27T13:54:35+00:00"
         },
         {
           "title": "A Faster Alternative to Jq",
@@ -59,7 +59,7 @@
         {
           "title": "Anatomy of the .claude/ folder",
           "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-          "score": 336,
+          "score": 341,
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T14:35:45+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "手軽に始める 360° 画像を用いた Gaussian Splatting（基本手順編）",
