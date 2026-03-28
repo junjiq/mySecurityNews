@@ -1,7 +1,7 @@
 {
   "date": "2026-03-28",
-  "generated_at": "2026-03-28T14:43:49.271308+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-03-28T15:09:17.931052+00:00",
+  "total_articles": 46,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,8 +29,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 41,
       "top_items": [
+        {
+          "title": "Go hard on agents, not on your filesystem",
+          "url": "https://jai.scs.stanford.edu/",
+          "score": 466,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-28T00:39:54+00:00"
+        },
         {
           "title": "Make macOS consistently bad unironically",
           "url": "https://lr0.org/blog/p/macos/",
@@ -40,12 +48,12 @@
           "date": "2026-03-27T19:15:19+00:00"
         },
         {
-          "title": "Go hard on agents, not on your filesystem",
-          "url": "https://jai.scs.stanford.edu/",
-          "score": 452,
+          "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
+          "url": "https://github.com/EnriqueLop/legalize-es",
+          "score": 361,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-28T00:39:54+00:00"
+          "date": "2026-03-28T12:01:27+00:00"
         },
         {
           "title": "Desk for people who work at home with a cat",
@@ -54,14 +62,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T15:31:20+00:00"
-        },
-        {
-          "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
-          "url": "https://github.com/EnriqueLop/legalize-es",
-          "score": 318,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-28T12:01:27+00:00"
         },
         {
           "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
         {
           "title": "Google TurboQuant入門 — KVキャッシュ3ビット圧縮でLLM推論を8倍高速化",
