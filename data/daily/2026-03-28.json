@@ -1,9 +1,16 @@
 {
   "date": "2026-03-28",
-  "generated_at": "2026-03-28T14:12:11.712976+00:00",
-  "total_articles": 53,
-  "urgent_count": 2,
+  "generated_at": "2026-03-28T14:43:49.271308+00:00",
+  "total_articles": 48,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-28T14:08:33+00:00"
+    },
     {
       "title": "Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents",
       "url": "https://github.com/outworked/outworked/releases/tag/v0.3.0",
@@ -22,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 42,
       "top_items": [
-        {
-          "title": "Anatomy of the .claude/ folder",
-          "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-          "score": 529,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-27T14:35:45+00:00"
-        },
         {
           "title": "Make macOS consistently bad unironically",
           "url": "https://lr0.org/blog/p/macos/",
-          "score": 458,
+          "score": 462,
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T19:15:19+00:00"
@@ -43,7 +42,7 @@
         {
           "title": "Go hard on agents, not on your filesystem",
           "url": "https://jai.scs.stanford.edu/",
-          "score": 440,
+          "score": 452,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T00:39:54+00:00"
@@ -57,12 +56,20 @@
           "date": "2026-03-27T15:31:20+00:00"
         },
         {
-          "title": "Iran-linked hackers breach FBI director's personal email",
-          "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-          "score": 314,
+          "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
+          "url": "https://github.com/EnriqueLop/legalize-es",
+          "score": 318,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-27T14:38:28+00:00"
+          "date": "2026-03-28T12:01:27+00:00"
+        },
+        {
+          "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
+          "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+          "score": 245,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-27T21:41:41+00:00"
         }
       ]
     },
