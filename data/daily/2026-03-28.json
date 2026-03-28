@@ -1,7 +1,7 @@
 {
   "date": "2026-03-28",
-  "generated_at": "2026-03-28T23:09:15.885490+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-03-28T23:43:08.264895+00:00",
+  "total_articles": 48,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,15 +15,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 40,
       "top_items": [
         {
           "title": "Spanish legislation as a Git repo",
           "url": "https://github.com/EnriqueLop/legalize-es",
-          "score": 676,
+          "score": 683,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T12:01:27+00:00"
+        },
+        {
+          "title": "Founder of GitLab battles cancer by founding companies",
+          "url": "https://sytse.com/cancer/",
+          "score": 609,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-28T17:39:49+00:00"
         },
         {
           "title": "Go hard on agents, not on your filesystem",
@@ -34,28 +42,20 @@
           "date": "2026-03-28T00:39:54+00:00"
         },
         {
-          "title": "Founder of GitLab battles cancer by founding companies",
-          "url": "https://sytse.com/cancer/",
-          "score": 560,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-28T17:39:49+00:00"
-        },
-        {
           "title": "AI overly affirms users asking for personal advice",
           "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-          "score": 481,
+          "score": 493,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T14:08:33+00:00"
         },
         {
-          "title": "Britain today generating 90%+ of electricity from renewables",
-          "url": "https://grid.iamkate.com/",
-          "score": 332,
+          "title": "I decompiled the White House's new app",
+          "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+          "score": 336,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-28T11:06:44+00:00"
+          "date": "2026-03-28T15:37:17+00:00"
         }
       ]
     },
