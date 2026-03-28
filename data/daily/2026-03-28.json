@@ -1,40 +1,34 @@
 {
   "date": "2026-03-28",
-  "generated_at": "2026-03-28T16:08:57.174946+00:00",
-  "total_articles": 48,
-  "urgent_count": 3,
+  "generated_at": "2026-03-28T16:45:14.470845+00:00",
+  "total_articles": 44,
+  "urgent_count": 1,
   "urgent_items": [
-    {
-      "title": "AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds",
-      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-28T14:08:33+00:00"
-    },
     {
       "title": "Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents",
       "url": "https://github.com/outworked/outworked/releases/tag/v0.3.0",
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-27T17:25:05+00:00"
-    },
-    {
-      "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
-      "url": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-27T16:25:50+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 39,
       "top_items": [
+        {
+          "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
+          "url": "https://github.com/EnriqueLop/legalize-es",
+          "score": 524,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-28T12:01:27+00:00"
+        },
         {
           "title": "Go hard on agents, not on your filesystem",
           "url": "https://jai.scs.stanford.edu/",
-          "score": 484,
+          "score": 499,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T00:39:54+00:00"
@@ -42,23 +36,15 @@
         {
           "title": "Make macOS consistently bad unironically",
           "url": "https://lr0.org/blog/p/macos/",
-          "score": 470,
+          "score": 474,
           "source": "hn",
           "severity": null,
           "date": "2026-03-27T19:15:19+00:00"
         },
         {
-          "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
-          "url": "https://github.com/EnriqueLop/legalize-es",
-          "score": 465,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-28T12:01:27+00:00"
-        },
-        {
           "title": "Britain today generating 90%+ of electricity from renewables",
           "url": "https://grid.iamkate.com/",
-          "score": 295,
+          "score": 332,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T11:06:44+00:00"
@@ -83,7 +69,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-28T22:48:06+09:00"
+          "date": "2026-03-29T01:27:46+09:00"
         },
         {
           "title": "研究効率を爆上げするAIツールまとめ（論文調査〜執筆まで）",
