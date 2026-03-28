@@ -1,9 +1,17 @@
 {
   "date": "2026-03-28",
-  "generated_at": "2026-03-28T20:44:02.317255+00:00",
+  "generated_at": "2026-03-28T21:08:59.421263+00:00",
   "total_articles": 46,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "OpenCiv1 – open-source rewrite of Civ1",
+      "url": "https://github.com/rajko-horvat/OpenCiv1",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-28T18:22:45+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
@@ -12,7 +20,7 @@
         {
           "title": "Spanish legislation as a Git repo",
           "url": "https://github.com/EnriqueLop/legalize-es",
-          "score": 645,
+          "score": 653,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T12:01:27+00:00"
@@ -20,7 +28,7 @@
         {
           "title": "Go hard on agents, not on your filesystem",
           "url": "https://jai.scs.stanford.edu/",
-          "score": 548,
+          "score": 556,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T00:39:54+00:00"
@@ -28,7 +36,7 @@
         {
           "title": "AI overly affirms users asking for personal advice",
           "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-          "score": 424,
+          "score": 438,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T14:08:33+00:00"
@@ -36,7 +44,7 @@
         {
           "title": "Founder of GitLab battles cancer by founding companies",
           "url": "https://sytse.com/cancer/",
-          "score": 357,
+          "score": 386,
           "source": "hn",
           "severity": null,
           "date": "2026-03-28T17:39:49+00:00"

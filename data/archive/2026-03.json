@@ -1,15 +1,15 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-28T20:44:02.356583+00:00",
+  "generated_at": "2026-03-28T21:08:59.461844+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 350,
-    "zennqiita": 100,
+    "hn": 351,
+    "zennqiita": 99,
     "project": 1
   },
   "severity_counts": {
+    "critical": 6,
     "medium": 4,
-    "critical": 5,
     "high": 2
   },
   "top_articles": [
@@ -112,18 +112,18 @@
       "date": "2026-03-24T12:36:20+00:00"
     },
     {
+      "title": "Spanish legislation as a Git repo",
+      "url": "https://github.com/EnriqueLop/legalize-es",
+      "score": 653,
+      "source": "hn",
+      "date": "2026-03-28T12:01:27+00:00"
+    },
+    {
       "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
       "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
       "score": 646,
       "source": "hn",
       "date": "2026-03-27T13:54:35+00:00"
-    },
-    {
-      "title": "Spanish legislation as a Git repo",
-      "url": "https://github.com/EnriqueLop/legalize-es",
-      "score": 645,
-      "source": "hn",
-      "date": "2026-03-28T12:01:27+00:00"
     },
     {
       "title": "Apple discontinues the Mac Pro",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "OpenCiv1 – open-source rewrite of Civ1",
+      "url": "https://github.com/rajko-horvat/OpenCiv1",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-28T18:22:45+00:00"
+    },
     {
       "title": "Show HN: Open-Source Animal Crossing–Style UI for Claude Code Agents",
       "url": "https://github.com/outworked/outworked/releases/tag/v0.3.0",
