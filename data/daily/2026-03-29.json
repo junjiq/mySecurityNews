@@ -1,8 +1,8 @@
 {
   "date": "2026-03-29",
-  "generated_at": "2026-03-29T18:10:35.583679+00:00",
-  "total_articles": 54,
-  "urgent_count": 3,
+  "generated_at": "2026-03-29T18:46:18.540715+00:00",
+  "total_articles": 52,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis",
@@ -17,19 +17,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-29T04:26:13+00:00"
-    },
-    {
-      "title": "OpenCiv1 – open-source rewrite of Civ1",
-      "url": "https://github.com/rajko-horvat/OpenCiv1",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-28T18:22:45+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 46,
       "top_items": [
         {
           "title": "CSS is DOOMed",
@@ -50,7 +43,7 @@
         {
           "title": "Nitrile and latex gloves may cause overestimation of microplastics",
           "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-          "score": 405,
+          "score": 418,
           "source": "hn",
           "severity": null,
           "date": "2026-03-29T09:46:58+00:00"
@@ -64,12 +57,12 @@
           "date": "2026-03-28T23:29:04+00:00"
         },
         {
-          "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-          "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-          "score": 238,
+          "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+          "url": "https://github.com/austin-weeks/miasma",
+          "score": 218,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-28T18:38:59+00:00"
+          "date": "2026-03-29T10:10:12+00:00"
         }
       ]
     },
