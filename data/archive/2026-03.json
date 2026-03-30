@@ -1,16 +1,16 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-30T19:48:40.063875+00:00",
+  "generated_at": "2026-03-30T20:14:54.092852+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 98,
+    "hn": 347,
+    "zennqiita": 103,
     "project": 2
   },
   "severity_counts": {
+    "high": 1,
     "critical": 12,
-    "medium": 5,
-    "high": 1
+    "medium": 5
   },
   "top_articles": [
     {
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "Vulnerability Research Is Cooked",
+      "url": "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-03-30T18:43:38+00:00"
+    },
+    {
       "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
       "url": "https://dani2442.github.io/posts/continuous-rl/",
       "severity": "critical",
@@ -238,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-25T11:59:36+00:00"
-    },
-    {
-      "title": "Meta ordered to pay $375M in New Mexico trial over child exploitation",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-03-25T04:04:09+00:00"
     }
   ]
 }

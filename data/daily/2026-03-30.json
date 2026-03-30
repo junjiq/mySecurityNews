@@ -1,8 +1,8 @@
 {
   "date": "2026-03-30",
-  "generated_at": "2026-03-30T19:48:40.027977+00:00",
-  "total_articles": 68,
-  "urgent_count": 2,
+  "generated_at": "2026-03-30T20:14:54.050328+00:00",
+  "total_articles": 76,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
@@ -17,12 +17,19 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-30T00:52:06+00:00"
+    },
+    {
+      "title": "Vulnerability Research Is Cooked",
+      "url": "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-03-30T18:43:38+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 55,
       "top_items": [
         {
           "title": "Copilot edited an ad into my PR",
@@ -43,7 +50,7 @@
         {
           "title": "How to turn anything into a router",
           "url": "https://nbailey.ca/post/router/",
-          "score": 452,
+          "score": 469,
           "source": "hn",
           "severity": null,
           "date": "2026-03-30T13:28:54+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "The curious case of retro demo scene graphics",
           "url": "https://www.datagubbe.se/aipixels/",
-          "score": 319,
+          "score": 323,
           "source": "hn",
           "severity": null,
           "date": "2026-03-30T05:27:18+00:00"
@@ -68,8 +75,32 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 21,
       "top_items": [
+        {
+          "title": "新卒、焦らなくていいよ。不出来と思われたくなくて空回りした私より。",
+          "url": "https://qiita.com/kimuchi_a/items/2e018c98e35752dae179?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-30T19:16:12+09:00"
+        },
+        {
+          "title": "Pythonで実装して理解する RDBパフォーマンスチューニング入門 ─ フルスキャンとインデックスの仕組み",
+          "url": "https://qiita.com/take-yoda/items/ecc6e9b174b2e5e97406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-30T17:00:48+09:00"
+        },
+        {
+          "title": "これからのスキルについて",
+          "url": "https://qiita.com/185shingeki/items/6207ad9caa6062d21f7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-30T15:40:19+09:00"
+        },
         {
           "title": "AgentCore 上の Claude Code の出力を AppSync Event API でリアルタイムにブラウザへ流す",
           "url": "https://qiita.com/Kota__Sasaki/items/a5008e550de8fa01dc61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,36 +110,12 @@
           "date": "2026-03-30T14:20:05+09:00"
         },
         {
-          "title": "未経験から3年で感じたこれからのキャリアを築くための行動3選",
-          "url": "https://qiita.com/masa20057/items/ac1e447ba9996b5543da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude Code「AI秘書」誰でもすぐ使えるテンプレートを公開します ー 設定3分で完了",
+          "url": "https://qiita.com/nogataka/items/69db2b0e2448b9197937?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-30T13:25:43+09:00"
-        },
-        {
-          "title": "GitAgent入門 — AIエージェントをフレームワーク非依存で定義・運用する",
-          "url": "https://qiita.com/nogataka/items/8f6c6899a3474a736e87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-30T13:11:17+09:00"
-        },
-        {
-          "title": "IETF125 HackathonにGatherTownからリモート参加してみた",
-          "url": "https://qiita.com/yumi-sakemi/items/ee4e7e801ccc82ba1878?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-30T12:08:03+09:00"
-        },
-        {
-          "title": "ADBとPythonでお手軽AIエージェントアプリ構築 (SELECT AI for Python＋Streamlit)",
-          "url": "https://qiita.com/ssfujita/items/83fc90d846f941ee6f4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-30T12:04:11+09:00"
+          "date": "2026-03-30T14:15:06+09:00"
         }
       ]
     }
