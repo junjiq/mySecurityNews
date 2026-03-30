@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-30T06:39:46.902885+00:00",
+  "generated_at": "2026-03-30T07:34:33.386227+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 360,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 11,
     "medium": 5,
     "high": 2
   },
@@ -147,11 +147,11 @@
       "date": "2026-03-27T10:10:41+00:00"
     },
     {
-      "title": "Anatomy of the .claude/ folder",
-      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 554,
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "score": 556,
       "source": "hn",
-      "date": "2026-03-27T14:35:45+00:00"
+      "date": "2026-03-29T20:21:05+00:00"
     }
   ],
   "security_highlights": [
@@ -217,6 +217,13 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-03-26T15:54:48+09:00"
+    },
+    {
+      "title": "Douglas Lenat's Automated Mathematician Source Code",
+      "url": "https://github.com/white-flame/am",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-25T16:31:11+00:00"
     },
     {
       "title": "Open source isn't a tip jar – it's time to charge for access",
