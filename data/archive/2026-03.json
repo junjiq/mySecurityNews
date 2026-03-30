@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-30T07:34:33.386227+00:00",
+  "generated_at": "2026-03-30T08:34:09.154018+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 360,
-    "zennqiita": 90,
+    "hn": 345,
+    "zennqiita": 105,
     "project": 2
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "medium": 5,
     "high": 2
   },
@@ -91,13 +91,6 @@
       "date": "2026-03-28T14:08:33+00:00"
     },
     {
-      "title": "Apple Business",
-      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 710,
-      "source": "hn",
-      "date": "2026-03-24T15:29:41+00:00"
-    },
-    {
       "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
       "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
       "score": 646,
@@ -110,6 +103,13 @@
       "score": 608,
       "source": "hn",
       "date": "2026-03-26T21:04:50+00:00"
+    },
+    {
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "score": 601,
+      "source": "hn",
+      "date": "2026-03-29T20:21:05+00:00"
     },
     {
       "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
@@ -147,14 +147,21 @@
       "date": "2026-03-27T10:10:41+00:00"
     },
     {
-      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 556,
+      "title": "Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "score": 554,
       "source": "hn",
-      "date": "2026-03-29T20:21:05+00:00"
+      "date": "2026-03-27T14:35:45+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "url": "https://dani2442.github.io/posts/continuous-rl/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-30T07:34:04+00:00"
+    },
     {
       "title": "DoesItAgeVerify: The age verification status of Open Source Operating Systems",
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",

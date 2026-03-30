@@ -1,9 +1,16 @@
 {
   "date": "2026-03-30",
-  "generated_at": "2026-03-30T07:34:33.344481+00:00",
-  "total_articles": 63,
-  "urgent_count": 2,
+  "generated_at": "2026-03-30T08:34:09.117512+00:00",
+  "total_articles": 78,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+      "url": "https://dani2442.github.io/posts/continuous-rl/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-30T07:34:04+00:00"
+    },
     {
       "title": "DoesItAgeVerify: The age verification status of Open Source Operating Systems",
       "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 57,
       "top_items": [
         {
           "title": "ChatGPT won't let you type until Cloudflare reads your React state",
           "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-          "score": 556,
+          "score": 601,
           "source": "hn",
           "severity": null,
           "date": "2026-03-29T20:21:05+00:00"
@@ -35,7 +42,7 @@
         {
           "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
           "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-          "score": 504,
+          "score": 516,
           "source": "hn",
           "severity": null,
           "date": "2026-03-29T16:12:22+00:00"
@@ -49,66 +56,66 @@
           "date": "2026-03-29T09:46:58+00:00"
         },
         {
+          "title": "Copilot edited an ad into my PR",
+          "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+          "score": 454,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-30T04:04:31+00:00"
+        },
+        {
           "title": "Say No to Palantir in Europe",
           "url": "https://action.wemove.eu/sign/2026-03-palantir-petition-EN",
           "score": 433,
           "source": "hn",
           "severity": null,
           "date": "2026-03-29T14:51:20+00:00"
-        },
-        {
-          "title": "The Cognitive Dark Forest",
-          "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-          "score": 402,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-29T19:36:21+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 21,
       "top_items": [
         {
-          "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",
-          "url": "https://qiita.com/N_H_tennis/items/48f13332305338720524?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AgentCore 上の Claude Code の出力を AppSync Event API でリアルタイムにブラウザへ流す",
+          "url": "https://qiita.com/Kota__Sasaki/items/a5008e550de8fa01dc61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-30T11:55:29+09:00"
+          "date": "2026-03-30T14:20:05+09:00"
         },
         {
-          "title": "手軽に始める 360° 画像を用いた Gaussian Splatting（クオリティ向上編）",
-          "url": "https://qiita.com/Tks_Yoshinaga/items/1644417ac8aadb130e79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "未経験から3年で感じたこれからのキャリアを築くための行動3選",
+          "url": "https://qiita.com/masa20057/items/ac1e447ba9996b5543da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-30T01:43:45+09:00"
+          "date": "2026-03-30T13:25:43+09:00"
         },
         {
-          "title": "Google TurboQuant入門 — KVキャッシュ3ビット圧縮でLLM推論を8倍高速化",
-          "url": "https://qiita.com/kai_kou/items/a411215806322af68a73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "GitAgent入門 — AIエージェントをフレームワーク非依存で定義・運用する",
+          "url": "https://qiita.com/nogataka/items/8f6c6899a3474a736e87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-30T01:29:53+09:00"
+          "date": "2026-03-30T13:11:17+09:00"
         },
         {
-          "title": "【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話",
-          "url": "https://qiita.com/yuyanz/items/5d2087dd5500d0689d7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "IETF125 HackathonにGatherTownからリモート参加してみた",
+          "url": "https://qiita.com/yumi-sakemi/items/ee4e7e801ccc82ba1878?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-29T23:45:48+09:00"
+          "date": "2026-03-30T12:08:03+09:00"
         },
         {
-          "title": "AIネイティブな時代への準備",
-          "url": "https://qiita.com/jw-automation/items/c24b6e3d879176b27dff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "ADBとPythonでお手軽AIエージェントアプリ構築 (SELECT AI for Python＋Streamlit)",
+          "url": "https://qiita.com/ssfujita/items/83fc90d846f941ee6f4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-29T22:38:32+09:00"
+          "date": "2026-03-30T12:04:11+09:00"
         }
       ]
     }
