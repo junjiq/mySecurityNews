@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-31T20:46:17.011975+00:00",
+  "generated_at": "2026-03-31T21:14:12.517694+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 350,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 15,
     "high": 1,
     "medium": 3
   },
@@ -16,14 +16,14 @@
     {
       "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
       "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1717,
+      "score": 1760,
       "source": "hn",
       "date": "2026-03-31T09:00:40+00:00"
     },
     {
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1712,
+      "score": 1719,
       "source": "hn",
       "date": "2026-03-31T02:54:17+00:00"
     },
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-27T16:25:50+00:00"
-    },
-    {
-      "title": "Show HN: Relay – The open-source Claude Cowork for OpenClaw",
-      "url": "https://github.com/SeventeenLabs/relay",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-26T10:23:12+00:00"
     }
   ]
 }
