@@ -1,8 +1,8 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T07:32:59.964092+00:00",
-  "total_articles": 61,
-  "urgent_count": 3,
+  "generated_at": "2026-03-31T08:25:10.961602+00:00",
+  "total_articles": 69,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Show HN: Raincast – Describe an app, get a native desktop app (open source)",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-31T05:39:41+00:00"
-    },
-    {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "url": "https://dani2442.github.io/posts/continuous-rl/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-30T07:34:04+00:00"
     },
     {
       "title": "Vulnerability research is cooked",
@@ -29,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 60,
       "top_items": [
         {
           "title": "How to turn anything into a router",
           "url": "https://nbailey.ca/post/router/",
-          "score": 659,
+          "score": 664,
           "source": "hn",
           "severity": null,
           "date": "2026-03-30T13:28:54+00:00"
@@ -42,7 +35,7 @@
         {
           "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
           "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-          "score": 558,
+          "score": 659,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T02:54:17+00:00"
@@ -50,7 +43,7 @@
         {
           "title": "Fedware: Government apps that spy harder than the apps they ban",
           "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-          "score": 539,
+          "score": 552,
           "source": "hn",
           "severity": null,
           "date": "2026-03-30T18:16:00+00:00"
@@ -58,7 +51,7 @@
         {
           "title": "Do your own writing",
           "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-          "score": 487,
+          "score": 508,
           "source": "hn",
           "severity": null,
           "date": "2026-03-30T12:39:56+00:00"
@@ -66,7 +59,7 @@
         {
           "title": "CodingFont: A game to help you pick a coding font",
           "url": "https://www.codingfont.com/",
-          "score": 392,
+          "score": 404,
           "source": "hn",
           "severity": null,
           "date": "2026-03-30T15:16:35+00:00"
@@ -75,23 +68,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 2,
+      "count": 9,
       "top_items": [
         {
-          "title": "新卒、焦らなくていいよ。不出来と思われたくなくて空回りした私より。",
-          "url": "https://qiita.com/kimuchi_a/items/2e018c98e35752dae179?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "未経験からITエンジニアを目指しているけど、内定先を決めきれない人へ。後悔しにくい考え方を整理してみる",
+          "url": "https://qiita.com/prum_iha/items/1592158be6ca86837429?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-30T19:16:12+09:00"
+          "date": "2026-03-31T16:34:07+09:00"
         },
         {
-          "title": "Pythonで実装して理解する RDBパフォーマンスチューニング入門 ─ フルスキャンとインデックスの仕組み",
-          "url": "https://qiita.com/take-yoda/items/ecc6e9b174b2e5e97406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化",
+          "url": "https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-30T17:00:48+09:00"
+          "date": "2026-03-31T13:48:28+09:00"
+        },
+        {
+          "title": "【35歳未経験でも理解できた】破綻しないCSS設計の基本",
+          "url": "https://qiita.com/wata-sho/items/81ddcadc785a6498d10f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-31T12:23:57+09:00"
+        },
+        {
+          "title": "Geminiで学会発表レベルの綺麗なスライド資料を作ろう",
+          "url": "https://qiita.com/zakuro/items/6bb67ea89fb6e2074203?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-31T10:27:52+09:00"
+        },
+        {
+          "title": "Oracle Exadata AI Database@Azure:  Active Data Guard で DR 構成をしてみてみた",
+          "url": "https://qiita.com/shirok/items/4bb54995083b56d81a70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-03-31T10:00:52+09:00"
         }
       ]
     }
