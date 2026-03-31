@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-31T05:35:13.787115+00:00",
+  "generated_at": "2026-03-31T06:30:49.713952+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 355,
@@ -8,8 +8,8 @@
     "project": 2
   },
   "severity_counts": {
+    "critical": 12,
     "high": 1,
-    "critical": 11,
     "medium": 5
   },
   "top_articles": [
@@ -91,18 +91,18 @@
       "date": "2026-03-29T16:12:22+00:00"
     },
     {
+      "title": "How to turn anything into a router",
+      "url": "https://nbailey.ca/post/router/",
+      "score": 649,
+      "source": "hn",
+      "date": "2026-03-30T13:28:54+00:00"
+    },
+    {
       "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
       "url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
       "score": 646,
       "source": "hn",
       "date": "2026-03-27T13:54:35+00:00"
-    },
-    {
-      "title": "How to turn anything into a router",
-      "url": "https://nbailey.ca/post/router/",
-      "score": 640,
-      "source": "hn",
-      "date": "2026-03-30T13:28:54+00:00"
     },
     {
       "title": "Apple discontinues the Mac Pro",
@@ -149,12 +149,19 @@
     {
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 504,
+      "score": 519,
       "source": "hn",
       "date": "2026-03-30T18:16:00+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Raincast – Describe an app, get a native desktop app (open source)",
+      "url": "https://github.com/tihiera/raincast",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-31T05:39:41+00:00"
+    },
     {
       "title": "Vulnerability research is cooked",
       "url": "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/",
