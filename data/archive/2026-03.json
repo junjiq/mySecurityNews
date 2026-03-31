@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-31T17:48:43.559766+00:00",
+  "generated_at": "2026-03-31T18:21:12.371992+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 351,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 16,
     "high": 1,
     "medium": 3
   },
@@ -16,9 +16,16 @@
     {
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1611,
+      "score": 1647,
       "source": "hn",
       "date": "2026-03-31T02:54:17+00:00"
+    },
+    {
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 1369,
+      "source": "hn",
+      "date": "2026-03-31T09:00:40+00:00"
     },
     {
       "title": "Copilot edited an ad into my PR",
@@ -33,13 +40,6 @@
       "score": 1285,
       "source": "hn",
       "date": "2026-03-28T17:39:49+00:00"
-    },
-    {
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1234,
-      "source": "hn",
-      "date": "2026-03-31T09:00:40+00:00"
     },
     {
       "title": "ChatGPT won't let you type until Cloudflare reads your React state",
@@ -105,6 +105,13 @@
       "date": "2026-03-27T13:54:35+00:00"
     },
     {
+      "title": "Oracle slashes 30k jobs",
+      "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
+      "score": 645,
+      "source": "hn",
+      "date": "2026-03-31T14:30:48+00:00"
+    },
+    {
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
       "score": 645,
@@ -117,13 +124,6 @@
       "score": 608,
       "source": "hn",
       "date": "2026-03-26T21:04:50+00:00"
-    },
-    {
-      "title": "Oracle slashes 30k jobs",
-      "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-      "score": 599,
-      "source": "hn",
-      "date": "2026-03-31T14:30:48+00:00"
     },
     {
       "title": "I decompiled the White House's new app",
@@ -140,21 +140,28 @@
       "date": "2026-03-28T00:39:54+00:00"
     },
     {
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "score": 564,
+      "source": "hn",
+      "date": "2026-03-31T03:40:45+00:00"
+    },
+    {
       "title": "Moving from GitHub to Codeberg, for lazy people",
       "url": "https://unterwaditzer.net/2025/codeberg.html",
       "score": 564,
       "source": "hn",
       "date": "2026-03-26T13:38:25+00:00"
-    },
-    {
-      "title": "Hold on to Your Hardware",
-      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "score": 562,
-      "source": "hn",
-      "date": "2026-03-27T10:10:41+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-31T13:04:30+00:00"
+    },
     {
       "title": "Open source CAD in the browser (Solvespace)",
       "url": "https://solvespace.com/webver.pl",

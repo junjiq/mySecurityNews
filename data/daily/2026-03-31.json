@@ -1,9 +1,16 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T17:48:43.520503+00:00",
-  "total_articles": 62,
-  "urgent_count": 6,
+  "generated_at": "2026-03-31T18:21:12.329688+00:00",
+  "total_articles": 61,
+  "urgent_count": 7,
   "urgent_items": [
+    {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-31T13:04:30+00:00"
+    },
     {
       "title": "Open source CAD in the browser (Solvespace)",
       "url": "https://solvespace.com/webver.pl",
@@ -50,12 +57,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 55,
       "top_items": [
         {
           "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
           "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-          "score": 1611,
+          "score": 1647,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T02:54:17+00:00"
@@ -63,7 +70,7 @@
         {
           "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
           "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-          "score": 1234,
+          "score": 1369,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-31T09:00:40+00:00"
@@ -77,20 +84,20 @@
           "date": "2026-03-31T02:23:50+00:00"
         },
         {
-          "title": "Fedware: Government apps that spy harder than the apps they ban",
-          "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+          "title": "Oracle slashes 30k jobs",
+          "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
           "score": 645,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-30T18:16:00+00:00"
+          "date": "2026-03-31T14:30:48+00:00"
         },
         {
-          "title": "Oracle slashes 30k jobs",
-          "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-          "score": 599,
+          "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+          "url": "https://ollama.com/blog/mlx",
+          "score": 564,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-31T14:30:48+00:00"
+          "date": "2026-03-31T03:40:45+00:00"
         }
       ]
     },
