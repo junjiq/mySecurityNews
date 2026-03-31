@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-03-31T19:48:39.784710+00:00",
+  "updated_at": "2026-03-31T20:14:38.678757+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47592755",
+      "source": "hn",
+      "title": "Accelerating the Next Phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "score": 4,
+      "comments": 1,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-03-31T20:07:30+00:00"
+    },
+    {
+      "id": "hn-47592183",
+      "source": "hn",
+      "title": "Show HN: Cerno – CAPTCHA that targets LLM reasoning, not human biology",
+      "url": "https://cerno.sh",
+      "score": 6,
+      "comments": 6,
+      "author": "plawlost",
+      "tags": [],
+      "date": "2026-03-31T19:22:58+00:00"
+    },
     {
       "id": "hn-47591928",
       "source": "hn",
       "title": "GitHub's Historic Uptime",
       "url": "https://damrnelson.github.io/github-historical-uptime/",
-      "score": 77,
-      "comments": 23,
+      "score": 166,
+      "comments": 41,
       "author": "todsacerdoti",
       "tags": [],
       "date": "2026-03-31T19:01:29+00:00"
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
       "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
-      "score": 90,
-      "comments": 23,
+      "score": 120,
+      "comments": 28,
       "author": "whiteboardr",
       "tags": [],
       "date": "2026-03-31T17:55:04+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Show HN: How This Graybeard Built the Fastest and Freest Postgres BM25 Search",
       "url": "https://github.com/timescale/pg_textsearch",
-      "score": 12,
-      "comments": 1,
+      "score": 30,
+      "comments": 3,
       "author": "tjgreen",
       "tags": [],
       "date": "2026-03-31T16:29:52+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "Cohere Transcribe: Speech Recognition",
       "url": "https://cohere.com/blog/transcribe",
-      "score": 103,
-      "comments": 38,
+      "score": 110,
+      "comments": 41,
       "author": "gmays",
       "tags": [],
       "date": "2026-03-31T16:27:02+00:00"
@@ -73,8 +95,8 @@
       "source": "hn",
       "title": "Scotty: A beautiful SSH task runner",
       "url": "https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner",
-      "score": 22,
-      "comments": 7,
+      "score": 28,
+      "comments": 14,
       "author": "speckx",
       "tags": [],
       "date": "2026-03-31T16:12:29+00:00"
@@ -95,7 +117,7 @@
       "source": "hn",
       "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
       "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
-      "score": 27,
+      "score": 33,
       "comments": 16,
       "author": "jandrewrogers",
       "tags": [],
@@ -128,7 +150,7 @@
       "source": "hn",
       "title": "GitHub Monaspace Case Study",
       "url": "https://lettermatic.com/custom/monaspace-case-study",
-      "score": 83,
+      "score": 86,
       "comments": 24,
       "author": "homebrewer",
       "tags": [],
@@ -152,8 +174,8 @@
       "source": "hn",
       "title": "Slop is not necessarily the future",
       "url": "https://www.greptile.com/blog/ai-slopware-future",
-      "score": 80,
-      "comments": 127,
+      "score": 91,
+      "comments": 162,
       "author": "dakshgupta",
       "tags": [],
       "date": "2026-03-31T14:32:26+00:00"
@@ -163,8 +185,8 @@
       "source": "hn",
       "title": "Oracle slashes 30k jobs",
       "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-      "score": 721,
-      "comments": 598,
+      "score": 744,
+      "comments": 632,
       "author": "pje",
       "tags": [],
       "date": "2026-03-31T14:30:48+00:00"
@@ -179,6 +201,19 @@
       "author": "schneems",
       "tags": [],
       "date": "2026-03-31T14:08:37+00:00"
+    },
+    {
+      "id": "qiita-71a768f202",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "CopilotKit を使って Generative UIに触れてみる",
+      "url": "https://qiita.com/Takenoko4594/items/ebc481bfdc89c42947ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Takenoko4594",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-31T22:28:48+09:00"
     },
     {
       "id": "hn-47586814",
@@ -196,8 +231,8 @@
       "source": "hn",
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 202,
-      "comments": 81,
+      "score": 258,
+      "comments": 113,
       "author": "alex000kim",
       "tags": [],
       "date": "2026-03-31T13:04:30+00:00",
@@ -208,8 +243,8 @@
       "source": "hn",
       "title": "Open source CAD in the browser (Solvespace)",
       "url": "https://solvespace.com/webver.pl",
-      "score": 219,
-      "comments": 66,
+      "score": 227,
+      "comments": 70,
       "author": "phkahler",
       "tags": [],
       "date": "2026-03-31T12:50:23+00:00",
@@ -231,7 +266,7 @@
       "source": "hn",
       "title": "Combinators",
       "url": "https://tinyapl.rubenverg.com/docs/info/combinators",
-      "score": 112,
+      "score": 114,
       "comments": 34,
       "author": "tosh",
       "tags": [],
@@ -287,8 +322,8 @@
       "source": "hn",
       "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
       "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1635,
-      "comments": 816,
+      "score": 1671,
+      "comments": 836,
       "author": "treexs",
       "tags": [],
       "date": "2026-03-31T09:00:40+00:00",
@@ -307,6 +342,19 @@
       "severity": "critical"
     },
     {
+      "id": "qiita-27f238721f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【備忘録】分類モデルの基本的な評価指標（Accuracy / Recall / Precision / F1スコア）まとめ",
+      "url": "https://qiita.com/ssc-nsakamoto/items/84c87ec78fb64960012c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ssc-nsakamoto",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-31T17:19:14+09:00"
+    },
+    {
       "id": "hn-47584009",
       "source": "hn",
       "title": "Show HN: Free AI Coding Skills for Rails",
@@ -322,8 +370,8 @@
       "source": "hn",
       "title": "Accidentally created my first fork bomb with Claude Code",
       "url": "https://www.droppedasbaby.com/posts/2602-01/",
-      "score": 28,
-      "comments": 3,
+      "score": 32,
+      "comments": 5,
       "author": "offbyone42",
       "tags": [],
       "date": "2026-03-31T07:40:18+00:00"
@@ -340,6 +388,20 @@
         "Qiita"
       ],
       "date": "2026-03-31T16:34:07+09:00"
+    },
+    {
+      "id": "qiita-6c1599778e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【緊急】axiosがサプライチェーン攻撃を受けました 今すぐ確認・対処してください（2026/03/31）",
+      "url": "https://qiita.com/kawabe0201/items/b51cd76daa2fec5029f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kawabe0201",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-31T16:13:55+09:00",
+      "severity": "critical"
     },
     {
       "id": "hn-47583712",
@@ -483,11 +545,24 @@
       "source": "hn",
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1690,
-      "comments": 670,
+      "score": 1701,
+      "comments": 679,
       "author": "mtud",
       "tags": [],
       "date": "2026-03-31T02:54:17+00:00"
+    },
+    {
+      "id": "qiita-453bfd6cd8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【2026年3月末・最新】NotebookLM 徹底検証：「三匹の子豚」をインフラ構成案に見立ててみた",
+      "url": "https://qiita.com/tomokoro/items/e8bdb326db4d1743f551?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tomokoro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-31T11:33:28+09:00"
     },
     {
       "id": "hn-47582056",
@@ -510,6 +585,19 @@
       "author": "idlewords",
       "tags": [],
       "date": "2026-03-31T02:23:50+00:00"
+    },
+    {
+      "id": "qiita-4028226e4a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code Agent Teamsで複数AIが同時に動く - 導入から実践まで完全ガイド",
+      "url": "https://qiita.com/nogataka/items/d18bd9ee62e72f24395d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-31T10:58:22+09:00"
     },
     {
       "id": "hn-47581721",
@@ -558,6 +646,19 @@
         "Qiita"
       ],
       "date": "2026-03-31T09:27:08+09:00"
+    },
+    {
+      "id": "qiita-66771e0c6d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ClaudeCodeはショートカットが設定できるよ！などなど",
+      "url": "https://qiita.com/PDC-Kurashinak/items/c6ad3537f92d59830910?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "PDC-Kurashinak",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-31T08:53:54+09:00"
     },
     {
       "id": "hn-47580910",
@@ -834,6 +935,19 @@
       "author": "toomuchtodo",
       "tags": [],
       "date": "2026-03-30T17:01:35+00:00"
+    },
+    {
+      "id": "qiita-9717da208d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "CRYPTREC暗号リストが改定 — PQCリスト新設でML-KEMが電子政府推奨暗号に",
+      "url": "https://qiita.com/satokan3/items/4006c178b7b808cef24f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "satokan3",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-31T01:53:22+09:00"
     },
     {
       "id": "hn-47576317",
@@ -1119,6 +1233,19 @@
         "Qiita"
       ],
       "date": "2026-03-30T17:00:48+09:00"
+    },
+    {
+      "id": "qiita-6f5085e9aa",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【初心者・非エンジニア向け】Google Workspace x Gemini で社内ツールを作成 & 社内向け公開する方法",
+      "url": "https://qiita.com/Ryo-Nakano/items/19f9ccafa4008aec8340?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Ryo-Nakano",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-03-30T16:58:01+09:00"
     },
     {
       "id": "hn-47571495",
@@ -2444,8 +2571,8 @@
       "source": "hn",
       "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
       "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-      "score": 37,
-      "comments": 3,
+      "score": 39,
+      "comments": 5,
       "author": "future-shock-ai",
       "tags": [],
       "date": "2026-03-28T22:42:23+00:00"
@@ -2829,8 +2956,8 @@
       "source": "hn",
       "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
       "url": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
-      "score": 165,
-      "comments": 96,
+      "score": 173,
+      "comments": 102,
       "author": "lentoutcry",
       "tags": [],
       "date": "2026-03-28T15:08:22+00:00"
@@ -3176,8 +3303,8 @@
       "source": "hn",
       "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
       "url": "https://github.com/ericlewis/libpo32",
-      "score": 13,
-      "comments": 1,
+      "score": 23,
+      "comments": 2,
       "author": "ericlewis",
       "tags": [],
       "date": "2026-03-28T01:04:56+00:00"
@@ -3764,6 +3891,17 @@
       "date": "2026-03-27T13:49:42+00:00"
     },
     {
+      "id": "hn-47542545",
+      "source": "hn",
+      "title": "Nematophagous Fungus",
+      "url": "https://en.wikipedia.org/wiki/Nematophagous_fungus",
+      "score": 4,
+      "comments": 0,
+      "author": "lordgilman",
+      "tags": [],
+      "date": "2026-03-27T13:41:22+00:00"
+    },
+    {
       "id": "qiita-e0f33ce074",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3827,7 +3965,7 @@
       "source": "hn",
       "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
       "url": "https://github.com/jkool702/forkrun",
-      "score": 51,
+      "score": 61,
       "comments": 9,
       "author": "jkool702",
       "tags": [],
@@ -4215,8 +4353,8 @@
       "source": "hn",
       "title": "A Primer on Long-Duration Life Support",
       "url": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support",
-      "score": 22,
-      "comments": 1,
+      "score": 28,
+      "comments": 5,
       "author": "zdw",
       "tags": [],
       "date": "2026-03-27T01:00:49+00:00"
@@ -5047,136 +5185,6 @@
       "author": "isaacfrond",
       "tags": [],
       "date": "2026-03-26T09:41:44+00:00"
-    },
-    {
-      "id": "hn-47527723",
-      "source": "hn",
-      "title": "Gerard of Cremona",
-      "url": "https://en.wikipedia.org/wiki/Gerard_of_Cremona",
-      "score": 22,
-      "comments": 11,
-      "author": "teleforce",
-      "tags": [],
-      "date": "2026-03-26T07:52:39+00:00"
-    },
-    {
-      "id": "hn-47527590",
-      "source": "hn",
-      "title": "Swift 6.3",
-      "url": "https://www.swift.org/blog/swift-6.3-released/",
-      "score": 281,
-      "comments": 181,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-03-26T07:27:11+00:00"
-    },
-    {
-      "id": "hn-47527399",
-      "source": "hn",
-      "title": "Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions",
-      "url": "https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn",
-      "score": 1,
-      "comments": 0,
-      "author": "abhikp",
-      "tags": [],
-      "date": "2026-03-26T07:00:28+00:00"
-    },
-    {
-      "id": "qiita-0430a11b9a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【緊急】月間9500万DLのLiteLLMが乗っ取られた。インストールしただけでSSH鍵・AWS認証・仮想通貨が全部盗まれる",
-      "url": "https://qiita.com/emi_ndk/items/2332ff5c93e63ab736ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "emi_ndk",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-26T15:54:48+09:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-6e711b6823",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "VSCodeを更新したら配色がおかしくなった原因と対処",
-      "url": "https://qiita.com/mihasi0818/items/9f521c853695466da76d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mihasi0818",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-26T15:36:43+09:00"
-    },
-    {
-      "id": "qiita-9a3f97942a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "IBM Bob 無料トライアルの始め方",
-      "url": "https://qiita.com/Asuka_Saito/items/c0c4b83a485351bd3412?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Asuka_Saito",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-26T15:22:39+09:00"
-    },
-    {
-      "id": "hn-47527130",
-      "source": "hn",
-      "title": "Government agencies buy commercial data about Americans in bulk",
-      "url": "https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic",
-      "score": 143,
-      "comments": 53,
-      "author": "nuke-web3",
-      "tags": [],
-      "date": "2026-03-26T06:11:01+00:00"
-    },
-    {
-      "id": "qiita-e7f5ddc8a7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ブラウザ上で動作する運転免許証OCRデモを作ってみた",
-      "url": "https://qiita.com/nogataka/items/5118da3ab41b47dbc8ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nogataka",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-26T14:26:20+09:00"
-    },
-    {
-      "id": "hn-47526828",
-      "source": "hn",
-      "title": "The coming PLG to SLG apocalypse",
-      "url": "https://www.withsahel.com/blog/plg-to-enterprise-timeline-compression",
-      "score": 15,
-      "comments": 6,
-      "author": "iajiboye",
-      "tags": [],
-      "date": "2026-03-26T05:11:22+00:00"
-    },
-    {
-      "id": "hn-47526813",
-      "source": "hn",
-      "title": "Show HN: Orloj – agent infrastructure as code (YAML and GitOps)",
-      "url": "https://github.com/OrlojHQ/orloj",
-      "score": 10,
-      "comments": 5,
-      "author": "An0n_Jon",
-      "tags": [],
-      "date": "2026-03-26T05:07:51+00:00"
-    },
-    {
-      "id": "hn-47521813",
-      "source": "hn",
-      "title": "A Love Letter to 'Girl Games'",
-      "url": "https://aftermath.site/a-love-letter-to-girl-games/",
-      "score": 110,
-      "comments": 103,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-03-25T19:10:26+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-293442537",
