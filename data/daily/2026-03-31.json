@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T15:28:35.235988+00:00",
-  "total_articles": 63,
+  "generated_at": "2026-03-31T15:54:55.291692+00:00",
+  "total_articles": 62,
   "urgent_count": 6,
   "urgent_items": [
     {
@@ -50,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 56,
       "top_items": [
         {
           "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
           "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-          "score": 1398,
+          "score": 1441,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T02:54:17+00:00"
@@ -63,31 +63,31 @@
         {
           "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
           "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-          "score": 929,
+          "score": 1006,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-31T09:00:40+00:00"
         },
         {
-          "title": "Fedware: Government apps that spy harder than the apps they ban",
-          "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-          "score": 628,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-30T18:16:00+00:00"
-        },
-        {
           "title": "Artemis II is not safe to fly",
           "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-          "score": 608,
+          "score": 641,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T02:23:50+00:00"
         },
         {
+          "title": "Fedware: Government apps that spy harder than the apps they ban",
+          "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+          "score": 631,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-30T18:16:00+00:00"
+        },
+        {
           "title": "Ollama is now powered by MLX on Apple Silicon in preview",
           "url": "https://ollama.com/blog/mlx",
-          "score": 478,
+          "score": 496,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T03:40:45+00:00"
