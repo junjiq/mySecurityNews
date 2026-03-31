@@ -1,9 +1,23 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T08:48:26.866264+00:00",
+  "generated_at": "2026-03-31T09:26:02.126666+00:00",
   "total_articles": 69,
-  "urgent_count": 2,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-31T09:00:40+00:00"
+    },
+    {
+      "title": "Closed Source AI = Neofeudalism",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-31T08:29:24+00:00"
+    },
     {
       "title": "Show HN: Raincast – Describe an app, get a native desktop app (open source)",
       "url": "https://github.com/tihiera/raincast",
@@ -27,7 +41,7 @@
         {
           "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
           "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-          "score": 703,
+          "score": 744,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T02:54:17+00:00"
@@ -35,7 +49,7 @@
         {
           "title": "How to turn anything into a router",
           "url": "https://nbailey.ca/post/router/",
-          "score": 670,
+          "score": 678,
           "source": "hn",
           "severity": null,
           "date": "2026-03-30T13:28:54+00:00"
@@ -43,7 +57,7 @@
         {
           "title": "Fedware: Government apps that spy harder than the apps they ban",
           "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-          "score": 557,
+          "score": 562,
           "source": "hn",
           "severity": null,
           "date": "2026-03-30T18:16:00+00:00"
@@ -51,7 +65,7 @@
         {
           "title": "Do your own writing",
           "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-          "score": 522,
+          "score": 538,
           "source": "hn",
           "severity": null,
           "date": "2026-03-30T12:39:56+00:00"
@@ -59,7 +73,7 @@
         {
           "title": "CodingFont: A game to help you pick a coding font",
           "url": "https://www.codingfont.com/",
-          "score": 407,
+          "score": 414,
           "source": "hn",
           "severity": null,
           "date": "2026-03-30T15:16:35+00:00"
