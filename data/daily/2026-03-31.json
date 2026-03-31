@@ -1,7 +1,7 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T12:20:44.245945+00:00",
-  "total_articles": 66,
+  "generated_at": "2026-03-31T13:34:08.184312+00:00",
+  "total_articles": 65,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,36 +43,28 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 58,
       "top_items": [
         {
           "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
           "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-          "score": 1010,
+          "score": 1178,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T02:54:17+00:00"
         },
         {
-          "title": "How to turn anything into a router",
-          "url": "https://nbailey.ca/post/router/",
-          "score": 698,
+          "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+          "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+          "score": 603,
           "source": "hn",
-          "severity": null,
-          "date": "2026-03-30T13:28:54+00:00"
-        },
-        {
-          "title": "Do your own writing",
-          "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-          "score": 601,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-30T12:39:56+00:00"
+          "severity": "critical",
+          "date": "2026-03-31T09:00:40+00:00"
         },
         {
           "title": "Fedware: Government apps that spy harder than the apps they ban",
           "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-          "score": 585,
+          "score": 600,
           "source": "hn",
           "severity": null,
           "date": "2026-03-30T18:16:00+00:00"
@@ -80,10 +72,18 @@
         {
           "title": "Artemis II is not safe to fly",
           "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-          "score": 428,
+          "score": 493,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T02:23:50+00:00"
+        },
+        {
+          "title": "CodingFont: A game to help you pick a coding font",
+          "url": "https://www.codingfont.com/",
+          "score": 414,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-30T15:16:35+00:00"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-31T12:20:44.282743+00:00",
+  "generated_at": "2026-03-31T13:34:08.224460+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 346,
@@ -10,16 +10,9 @@
   "severity_counts": {
     "critical": 14,
     "high": 1,
-    "medium": 4
+    "medium": 3
   },
   "top_articles": [
-    {
-      "title": "The EU still wants to scan  your private messages and photos",
-      "url": "https://fightchatcontrol.eu/?foo=bar",
-      "score": 1350,
-      "source": "hn",
-      "date": "2026-03-25T20:27:03+00:00"
-    },
     {
       "title": "Copilot edited an ad into my PR",
       "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
@@ -37,7 +30,7 @@
     {
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1010,
+      "score": 1178,
       "source": "hn",
       "date": "2026-03-31T02:54:17+00:00"
     },
@@ -79,7 +72,7 @@
     {
       "title": "How to turn anything into a router",
       "url": "https://nbailey.ca/post/router/",
-      "score": 698,
+      "score": 711,
       "source": "hn",
       "date": "2026-03-30T13:28:54+00:00"
     },
@@ -98,6 +91,13 @@
       "date": "2026-03-27T13:54:35+00:00"
     },
     {
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "score": 617,
+      "source": "hn",
+      "date": "2026-03-30T12:39:56+00:00"
+    },
+    {
       "title": "Apple discontinues the Mac Pro",
       "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
       "score": 608,
@@ -105,11 +105,18 @@
       "date": "2026-03-26T21:04:50+00:00"
     },
     {
-      "title": "Do your own writing",
-      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 601,
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 603,
       "source": "hn",
-      "date": "2026-03-30T12:39:56+00:00"
+      "date": "2026-03-31T09:00:40+00:00"
+    },
+    {
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "score": 600,
+      "source": "hn",
+      "date": "2026-03-30T18:16:00+00:00"
     },
     {
       "title": "I decompiled the White House's new app",
@@ -117,13 +124,6 @@
       "score": 594,
       "source": "hn",
       "date": "2026-03-28T15:37:17+00:00"
-    },
-    {
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 585,
-      "source": "hn",
-      "date": "2026-03-30T18:16:00+00:00"
     },
     {
       "title": "Go hard on agents, not on your filesystem",
