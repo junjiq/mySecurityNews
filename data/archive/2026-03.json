@@ -1,18 +1,25 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-31T13:34:08.224460+00:00",
+  "generated_at": "2026-03-31T15:28:35.277717+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 346,
-    "zennqiita": 104,
+    "hn": 347,
+    "zennqiita": 103,
     "project": 2
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "high": 1,
     "medium": 3
   },
   "top_articles": [
+    {
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "score": 1398,
+      "source": "hn",
+      "date": "2026-03-31T02:54:17+00:00"
+    },
     {
       "title": "Copilot edited an ad into my PR",
       "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
@@ -28,11 +35,11 @@
       "date": "2026-03-28T17:39:49+00:00"
     },
     {
-      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1178,
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 929,
       "source": "hn",
-      "date": "2026-03-31T02:54:17+00:00"
+      "date": "2026-03-31T09:00:40+00:00"
     },
     {
       "title": "ChatGPT won't let you type until Cloudflare reads your React state",
@@ -40,13 +47,6 @@
       "score": 922,
       "source": "hn",
       "date": "2026-03-29T20:21:05+00:00"
-    },
-    {
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 916,
-      "source": "hn",
-      "date": "2026-03-25T21:11:57+00:00"
     },
     {
       "title": "We haven't seen the worst of what gambling and prediction markets will do",
@@ -72,9 +72,16 @@
     {
       "title": "How to turn anything into a router",
       "url": "https://nbailey.ca/post/router/",
-      "score": 711,
+      "score": 726,
       "source": "hn",
       "date": "2026-03-30T13:28:54+00:00"
+    },
+    {
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "score": 662,
+      "source": "hn",
+      "date": "2026-03-30T12:39:56+00:00"
     },
     {
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
@@ -91,11 +98,18 @@
       "date": "2026-03-27T13:54:35+00:00"
     },
     {
-      "title": "Do your own writing",
-      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 617,
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "score": 628,
       "source": "hn",
-      "date": "2026-03-30T12:39:56+00:00"
+      "date": "2026-03-30T18:16:00+00:00"
+    },
+    {
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 608,
+      "source": "hn",
+      "date": "2026-03-31T02:23:50+00:00"
     },
     {
       "title": "Apple discontinues the Mac Pro",
@@ -103,20 +117,6 @@
       "score": 608,
       "source": "hn",
       "date": "2026-03-26T21:04:50+00:00"
-    },
-    {
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 603,
-      "source": "hn",
-      "date": "2026-03-31T09:00:40+00:00"
-    },
-    {
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 600,
-      "source": "hn",
-      "date": "2026-03-30T18:16:00+00:00"
     },
     {
       "title": "I decompiled the White House's new app",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Open source CAD in the browser (Solvespace)",
+      "url": "https://solvespace.com/webver.pl",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-31T12:50:23+00:00"
+    },
     {
       "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
       "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
