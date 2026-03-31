@@ -1,8 +1,8 @@
 {
   "date": "2026-03-31",
-  "generated_at": "2026-03-31T18:21:12.329688+00:00",
-  "total_articles": 61,
-  "urgent_count": 7,
+  "generated_at": "2026-03-31T18:48:33.517507+00:00",
+  "total_articles": 59,
+  "urgent_count": 6,
   "urgent_items": [
     {
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
@@ -45,24 +45,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-31T05:39:41+00:00"
-    },
-    {
-      "title": "Vulnerability research is cooked",
-      "url": "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-03-30T18:43:38+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 53,
       "top_items": [
         {
           "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
           "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-          "score": 1647,
+          "score": 1670,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T02:54:17+00:00"
@@ -70,7 +63,7 @@
         {
           "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
           "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-          "score": 1369,
+          "score": 1474,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-31T09:00:40+00:00"
@@ -86,7 +79,7 @@
         {
           "title": "Oracle slashes 30k jobs",
           "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-          "score": 645,
+          "score": 667,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T14:30:48+00:00"
@@ -94,7 +87,7 @@
         {
           "title": "Ollama is now powered by MLX on Apple Silicon in preview",
           "url": "https://ollama.com/blog/mlx",
-          "score": 564,
+          "score": 574,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T03:40:45+00:00"
