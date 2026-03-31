@@ -1,10 +1,10 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-31T22:44:58.911921+00:00",
+  "generated_at": "2026-03-31T23:10:44.580081+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 98,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 2
   },
   "severity_counts": {
@@ -16,14 +16,14 @@
     {
       "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
       "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1828,
+      "score": 1844,
       "source": "hn",
       "date": "2026-03-31T09:00:40+00:00"
     },
     {
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1746,
+      "score": 1748,
       "source": "hn",
       "date": "2026-03-31T02:54:17+00:00"
     },
@@ -140,18 +140,18 @@
       "date": "2026-03-31T03:40:45+00:00"
     },
     {
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 580,
+      "source": "hn",
+      "date": "2026-03-31T13:04:30+00:00"
+    },
+    {
       "title": "Go hard on agents, not on your filesystem",
       "url": "https://jai.scs.stanford.edu/",
       "score": 567,
       "source": "hn",
       "date": "2026-03-28T00:39:54+00:00"
-    },
-    {
-      "title": "Moving from GitHub to Codeberg, for lazy people",
-      "url": "https://unterwaditzer.net/2025/codeberg.html",
-      "score": 564,
-      "source": "hn",
-      "date": "2026-03-26T13:38:25+00:00"
     }
   ],
   "security_highlights": [
