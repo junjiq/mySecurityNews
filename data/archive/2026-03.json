@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-03-31T10:23:04.682922+00:00",
+  "generated_at": "2026-03-31T10:47:56.122662+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 346,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 14,
     "high": 1,
     "medium": 4
   },
@@ -51,7 +51,7 @@
     {
       "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 829,
+      "score": 858,
       "source": "hn",
       "date": "2026-03-31T02:54:17+00:00"
     },
@@ -86,7 +86,7 @@
     {
       "title": "How to turn anything into a router",
       "url": "https://nbailey.ca/post/router/",
-      "score": 687,
+      "score": 689,
       "source": "hn",
       "date": "2026-03-30T13:28:54+00:00"
     },
@@ -119,6 +119,13 @@
       "date": "2026-03-28T15:37:17+00:00"
     },
     {
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "score": 570,
+      "source": "hn",
+      "date": "2026-03-30T18:16:00+00:00"
+    },
+    {
       "title": "Go hard on agents, not on your filesystem",
       "url": "https://jai.scs.stanford.edu/",
       "score": 567,
@@ -126,11 +133,11 @@
       "date": "2026-03-28T00:39:54+00:00"
     },
     {
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 566,
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "score": 565,
       "source": "hn",
-      "date": "2026-03-30T18:16:00+00:00"
+      "date": "2026-03-30T12:39:56+00:00"
     },
     {
       "title": "Moving from GitHub to Codeberg, for lazy people",
@@ -145,16 +152,16 @@
       "score": 562,
       "source": "hn",
       "date": "2026-03-27T10:10:41+00:00"
-    },
-    {
-      "title": "Do your own writing",
-      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 561,
-      "source": "hn",
-      "date": "2026-03-30T12:39:56+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
+      "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-03-31T10:02:34+00:00"
+    },
     {
       "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
       "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
