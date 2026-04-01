@@ -1,8 +1,8 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T06:36:43.039043+00:00",
-  "total_articles": 54,
-  "urgent_count": 7,
+  "generated_at": "2026-04-01T07:33:51.847390+00:00",
+  "total_articles": 51,
+  "urgent_count": 6,
   "urgent_items": [
     {
       "title": "We intercepted the White House app's network traffic",
@@ -45,19 +45,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-31T08:29:24+00:00"
-    },
-    {
-      "title": "【緊急】axiosがサプライチェーン攻撃を受けました 今すぐ確認・対処してください（2026/03/31）",
-      "url": "https://qiita.com/kawabe0201/items/b51cd76daa2fec5029f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-03-31T16:13:55+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 46,
       "top_items": [
         {
           "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
@@ -70,7 +63,7 @@
         {
           "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
           "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "score": 1080,
+          "score": 1112,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-31T13:04:30+00:00"
@@ -94,7 +87,7 @@
         {
           "title": "OpenAI closes funding round at an $852B valuation",
           "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "score": 407,
+          "score": 421,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T20:07:30+00:00"
@@ -103,7 +96,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
         {
           "title": "100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化",
