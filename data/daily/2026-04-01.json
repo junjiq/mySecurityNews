@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T10:24:00.848807+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-04-01T10:48:20.168637+00:00",
+  "total_articles": 57,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
           "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "score": 1185,
+          "score": 1195,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-31T13:04:30+00:00"
@@ -57,10 +57,18 @@
         {
           "title": "OpenAI closes funding round at an $852B valuation",
           "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "score": 451,
+          "score": 454,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T20:07:30+00:00"
+        },
+        {
+          "title": "Claude Code Unpacked : A visual guide",
+          "url": "https://ccunpacked.dev/",
+          "score": 442,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-01T05:15:37+00:00"
         },
         {
           "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
@@ -69,14 +77,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T17:55:04+00:00"
-        },
-        {
-          "title": "Claude Code Unpacked : A visual guide",
-          "url": "https://ccunpacked.dev/",
-          "score": 420,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-01T05:15:37+00:00"
         }
       ]
     },
