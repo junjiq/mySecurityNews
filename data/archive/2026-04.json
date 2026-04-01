@@ -1,36 +1,43 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-01T14:33:53.749113+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-04-01T15:31:04.873938+00:00",
+  "total_articles": 33,
   "source_counts": {
-    "hn": 21,
+    "hn": 24,
     "zennqiita": 9
   },
   "severity_counts": {
-    "medium": 1,
-    "critical": 2
+    "critical": 3,
+    "medium": 1
   },
   "top_articles": [
     {
       "title": "Claude Code Unpacked : A visual guide",
       "url": "https://ccunpacked.dev/",
-      "score": 751,
+      "score": 826,
       "source": "hn",
       "date": "2026-04-01T05:15:37+00:00"
     },
     {
+      "title": "I Quit. The Clankers Won",
+      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+      "score": 289,
+      "source": "hn",
+      "date": "2026-04-01T09:00:34+00:00"
+    },
+    {
       "title": "CERN levels up with new superconducting karts",
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 248,
+      "score": 278,
       "source": "hn",
       "date": "2026-04-01T07:27:13+00:00"
     },
     {
-      "title": "I Quit. The Clankers Won",
-      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "score": 234,
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "score": 205,
       "source": "hn",
-      "date": "2026-04-01T09:00:34+00:00"
+      "date": "2026-04-01T01:12:12+00:00"
     },
     {
       "title": "We intercepted the White House app's network traffic",
@@ -38,13 +45,6 @@
       "score": 197,
       "source": "hn",
       "date": "2026-04-01T01:58:45+00:00"
-    },
-    {
-      "title": "Neanderthals survived on a knife's edge for 350k years",
-      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "score": 190,
-      "source": "hn",
-      "date": "2026-04-01T01:12:12+00:00"
     },
     {
       "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
@@ -56,9 +56,16 @@
     {
       "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
       "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "score": 126,
+      "score": 148,
       "source": "hn",
       "date": "2026-04-01T05:21:48+00:00"
+    },
+    {
+      "title": "Is BGP Safe Yet? No. Test Your ISP",
+      "url": "https://isbgpsafeyet.com/",
+      "score": 111,
+      "source": "hn",
+      "date": "2026-04-01T13:10:29+00:00"
     },
     {
       "title": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
@@ -68,25 +75,25 @@
       "date": "2026-04-01T02:14:42+00:00"
     },
     {
-      "title": "Is BGP Safe Yet? No. Test Your ISP",
-      "url": "https://isbgpsafeyet.com/",
-      "score": 69,
+      "title": "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
+      "url": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
+      "score": 57,
       "source": "hn",
-      "date": "2026-04-01T13:10:29+00:00"
+      "date": "2026-04-01T13:15:33+00:00"
     },
     {
       "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
       "url": "https://sycamore.dev",
-      "score": 43,
+      "score": 57,
       "source": "hn",
       "date": "2026-04-01T12:30:18+00:00"
     },
     {
-      "title": "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
-      "url": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
-      "score": 37,
+      "title": "Show HN: Baton – A desktop app for developing with AI agents",
+      "url": "https://getbaton.dev/",
+      "score": 47,
       "source": "hn",
-      "date": "2026-04-01T13:15:33+00:00"
+      "date": "2026-04-01T12:11:30+00:00"
     },
     {
       "title": "Analyzing Geekbench 6 under Intel's BOT",
@@ -103,11 +110,18 @@
       "date": "2026-04-01T06:05:57+00:00"
     },
     {
-      "title": "Show HN: Baton – A desktop app for developing with AI agents",
-      "url": "https://getbaton.dev/",
-      "score": 27,
+      "title": "OnlyOffice kills Nextcloud partnership for forking its project without approval",
+      "url": "https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/",
+      "score": 19,
       "source": "hn",
-      "date": "2026-04-01T12:11:30+00:00"
+      "date": "2026-04-01T14:11:58+00:00"
+    },
+    {
+      "title": "AI has suddenly become more useful to open-source developers",
+      "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
+      "score": 16,
+      "source": "hn",
+      "date": "2026-04-01T14:07:50+00:00"
     },
     {
       "title": "Solar panels at Lidl? Plug-in versions set to appear in shops",
@@ -136,23 +150,16 @@
       "score": 10,
       "source": "hn",
       "date": "2026-04-01T11:40:15+00:00"
-    },
-    {
-      "title": "Remembering Magnetic Memories and the Apollo AGC",
-      "url": "https://2earth.github.io/website/20260304.html",
-      "score": 10,
-      "source": "hn",
-      "date": "2026-04-01T07:22:41+00:00"
-    },
-    {
-      "title": "What the Claude Code Leak Means for Regulated Industries",
-      "url": "https://systima.ai/blog/claude-code-leak-compliance-implications",
-      "score": 6,
-      "source": "hn",
-      "date": "2026-04-01T09:49:42+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "AI has suddenly become more useful to open-source developers",
+      "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-01T14:07:50+00:00"
+    },
     {
       "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
       "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
