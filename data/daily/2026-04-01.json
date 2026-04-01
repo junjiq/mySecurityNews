@@ -1,8 +1,8 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T07:33:51.847390+00:00",
-  "total_articles": 51,
-  "urgent_count": 6,
+  "generated_at": "2026-04-01T08:29:43.558891+00:00",
+  "total_articles": 59,
+  "urgent_count": 5,
   "urgent_items": [
     {
       "title": "We intercepted the White House app's network traffic",
@@ -38,19 +38,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-31T09:00:40+00:00"
-    },
-    {
-      "title": "Closed Source AI = Neofeudalism",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-31T08:29:24+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 45,
       "top_items": [
         {
           "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
@@ -63,7 +56,7 @@
         {
           "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
           "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "score": 1112,
+          "score": 1144,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-31T13:04:30+00:00"
@@ -77,27 +70,51 @@
           "date": "2026-03-31T14:30:48+00:00"
         },
         {
+          "title": "OpenAI closes funding round at an $852B valuation",
+          "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+          "score": 431,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-31T20:07:30+00:00"
+        },
+        {
           "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
           "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
           "score": 430,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T17:55:04+00:00"
-        },
-        {
-          "title": "OpenAI closes funding round at an $852B valuation",
-          "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "score": 421,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-31T20:07:30+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 14,
       "top_items": [
+        {
+          "title": ".NET 10 + C# 14 の新機能を触ってみた実装メモ",
+          "url": "https://qiita.com/hiroki_notes/items/acaf965dfa90584b273a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T16:12:18+09:00"
+        },
+        {
+          "title": "REST API と GraphQL の違いをフロントエンド目線で整理する",
+          "url": "https://qiita.com/ryo_sh/items/18a4ddd39ada54c58b12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T15:43:53+09:00"
+        },
+        {
+          "title": "【前編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴",
+          "url": "https://qiita.com/hitomin_poke/items/094edffe1d7961bb6395?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T13:18:18+09:00"
+        },
         {
           "title": "100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化",
           "url": "https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -107,36 +124,12 @@
           "date": "2026-04-01T12:06:54+09:00"
         },
         {
-          "title": "Oracle Exadata AI Database@Azure:  Active Data Guard で DR 構成をしてみてみた",
-          "url": "https://qiita.com/shirok/items/4bb54995083b56d81a70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "New Relic Workflow Automationでアラート通知を動的に制御してみる",
+          "url": "https://qiita.com/nr-mito/items/ce232585f13e8f26d26b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-03-31T23:46:26+09:00"
-        },
-        {
-          "title": "CopilotKit を使って Generative UIに触れてみる",
-          "url": "https://qiita.com/Takenoko4594/items/ebc481bfdc89c42947ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-31T22:28:48+09:00"
-        },
-        {
-          "title": "【備忘録】分類モデルの基本的な評価指標（Accuracy / Recall / Precision / F1スコア）まとめ",
-          "url": "https://qiita.com/ssc-nsakamoto/items/84c87ec78fb64960012c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-31T17:19:14+09:00"
-        },
-        {
-          "title": "未経験からITエンジニアを目指しているけど、内定先を決めきれない人へ。後悔しにくい考え方を整理してみる",
-          "url": "https://qiita.com/prum_iha/items/1592158be6ca86837429?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-03-31T16:34:07+09:00"
+          "date": "2026-04-01T11:41:57+09:00"
         }
       ]
     }
