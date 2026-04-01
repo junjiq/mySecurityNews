@@ -1,9 +1,9 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-01T18:20:14.716134+00:00",
-  "total_articles": 45,
+  "generated_at": "2026-04-01T18:48:34.324605+00:00",
+  "total_articles": 48,
   "source_counts": {
-    "hn": 36,
+    "hn": 39,
     "zennqiita": 9
   },
   "severity_counts": {
@@ -21,7 +21,7 @@
     {
       "title": "CERN levels up with new superconducting karts",
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 339,
+      "score": 343,
       "source": "hn",
       "date": "2026-04-01T07:27:13+00:00"
     },
@@ -33,18 +33,18 @@
       "date": "2026-04-01T09:00:34+00:00"
     },
     {
+      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "score": 230,
+      "source": "hn",
+      "date": "2026-04-01T16:14:38+00:00"
+    },
+    {
       "title": "Neanderthals survived on a knife's edge for 350k years",
       "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
       "score": 205,
       "source": "hn",
       "date": "2026-04-01T01:12:12+00:00"
-    },
-    {
-      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
-      "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 198,
-      "source": "hn",
-      "date": "2026-04-01T16:14:38+00:00"
     },
     {
       "title": "We intercepted the White House app's network traffic",
@@ -56,14 +56,14 @@
     {
       "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
       "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "score": 194,
+      "score": 196,
       "source": "hn",
       "date": "2026-04-01T05:21:48+00:00"
     },
     {
       "title": "Is BGP safe yet?",
       "url": "https://isbgpsafeyet.com/",
-      "score": 190,
+      "score": 194,
       "source": "hn",
       "date": "2026-04-01T13:10:29+00:00"
     },
@@ -77,7 +77,7 @@
     {
       "title": "NASA Artemis II moon mission live launch broadcast",
       "url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
-      "score": 94,
+      "score": 122,
       "source": "hn",
       "date": "2026-04-01T17:11:31+00:00"
     },
@@ -89,6 +89,13 @@
       "date": "2026-04-01T02:14:42+00:00"
     },
     {
+      "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
+      "url": "https://sycamore.dev",
+      "score": 88,
+      "source": "hn",
+      "date": "2026-04-01T12:30:18+00:00"
+    },
+    {
       "title": "New patches allow building Linux IPv6-only",
       "url": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
       "score": 87,
@@ -96,32 +103,39 @@
       "date": "2026-04-01T13:15:33+00:00"
     },
     {
-      "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
-      "url": "https://sycamore.dev",
-      "score": 84,
-      "source": "hn",
-      "date": "2026-04-01T12:30:18+00:00"
-    },
-    {
-      "title": "Random numbers, Persian code: A mysterious signal transfixes radio sleuths",
-      "url": "https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html",
-      "score": 69,
-      "source": "hn",
-      "date": "2026-04-01T11:39:04+00:00"
-    },
-    {
       "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
       "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-      "score": 65,
+      "score": 76,
       "source": "hn",
       "date": "2026-04-01T16:17:35+00:00"
     },
     {
+      "title": "Random numbers, Persian code: A mysterious signal transfixes radio sleuths",
+      "url": "https://www.rferl.org/a/mystery-numbers-station-persian-signal-iran-war/33700659.html",
+      "score": 72,
+      "source": "hn",
+      "date": "2026-04-01T11:39:04+00:00"
+    },
+    {
       "title": "The Document Foundation ejects its core developers",
       "url": "https://www.collaboraonline.com/blog/tdf-ejects-its-core-developers/",
-      "score": 58,
+      "score": 63,
       "source": "hn",
       "date": "2026-04-01T11:09:11+00:00"
+    },
+    {
+      "title": "What Is Copilot Exactly?",
+      "url": "https://idiallo.com/blog/what-is-copilot-exactly",
+      "score": 54,
+      "source": "hn",
+      "date": "2026-04-01T16:39:46+00:00"
+    },
+    {
+      "title": "AI for American-Produced Cement and Concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "score": 53,
+      "source": "hn",
+      "date": "2026-04-01T17:17:24+00:00"
     },
     {
       "title": "Show HN: Baton – A desktop app for developing with AI agents",
@@ -131,25 +145,11 @@
       "date": "2026-04-01T12:11:30+00:00"
     },
     {
-      "title": "What Is Copilot Exactly?",
-      "url": "https://idiallo.com/blog/what-is-copilot-exactly",
-      "score": 45,
+      "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "url": "https://github.com/simple10/agents-observe",
+      "score": 43,
       "source": "hn",
-      "date": "2026-04-01T16:39:46+00:00"
-    },
-    {
-      "title": "AI for American-Produced Cement and Concrete",
-      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-      "score": 44,
-      "source": "hn",
-      "date": "2026-04-01T17:17:24+00:00"
-    },
-    {
-      "title": "Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",
-      "url": "https://www.euronews.com/2026/03/31/iran-war-sparks-renewables-boom-as-europeans-rush-to-buy-solar-heat-pumps-and-evs",
-      "score": 40,
-      "source": "hn",
-      "date": "2026-04-01T14:19:25+00:00"
+      "date": "2026-04-01T16:24:28+00:00"
     }
   ],
   "security_highlights": [
