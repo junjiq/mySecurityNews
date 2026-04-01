@@ -1,9 +1,16 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T09:28:02.693194+00:00",
-  "total_articles": 57,
-  "urgent_count": 4,
+  "generated_at": "2026-04-01T09:54:37.101963+00:00",
+  "total_articles": 58,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-01T05:21:48+00:00"
+    },
     {
       "title": "We intercepted the White House app's network traffic",
       "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
@@ -41,7 +48,7 @@
         {
           "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
           "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "score": 1163,
+          "score": 1176,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-31T13:04:30+00:00"
@@ -57,7 +64,7 @@
         {
           "title": "OpenAI closes funding round at an $852B valuation",
           "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "score": 444,
+          "score": 446,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T20:07:30+00:00"
@@ -82,8 +89,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 14,
       "top_items": [
+        {
+          "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第2章/7章) 出力例付き",
+          "url": "https://qiita.com/chomado/items/7ac245bde821ec80a1b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T18:37:11+09:00"
+        },
         {
           "title": ".NET 10 + C# 14 の新機能を触ってみた実装メモ",
           "url": "https://qiita.com/hiroki_notes/items/acaf965dfa90584b273a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -115,14 +130,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-01T12:06:54+09:00"
-        },
-        {
-          "title": "New Relic Workflow Automationでアラート通知を動的に制御してみる",
-          "url": "https://qiita.com/nr-mito/items/ce232585f13e8f26d26b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-01T11:41:57+09:00"
         }
       ]
     }
