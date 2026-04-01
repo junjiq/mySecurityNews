@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T01:08:07.717528+00:00",
-  "total_articles": 63,
+  "generated_at": "2026-04-01T02:18:46.371533+00:00",
+  "total_articles": 60,
   "urgent_count": 7,
   "urgent_items": [
     {
@@ -57,7 +57,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 52,
       "top_items": [
         {
           "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
@@ -70,10 +70,18 @@
         {
           "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
           "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-          "score": 1775,
+          "score": 1781,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T02:54:17+00:00"
+        },
+        {
+          "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+          "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+          "score": 811,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-03-31T13:04:30+00:00"
         },
         {
           "title": "Oracle slashes 30k jobs",
@@ -90,20 +98,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T02:23:50+00:00"
-        },
-        {
-          "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-          "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "score": 718,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-03-31T13:04:30+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 8,
       "top_items": [
         {
           "title": "Oracle Exadata AI Database@Azure:  Active Data Guard で DR 構成をしてみてみた",
