@@ -1,8 +1,8 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T04:59:27.019290+00:00",
-  "total_articles": 56,
-  "urgent_count": 8,
+  "generated_at": "2026-04-01T05:46:37.890483+00:00",
+  "total_articles": 53,
+  "urgent_count": 7,
   "urgent_items": [
     {
       "title": "We intercepted the White House app's network traffic",
@@ -52,19 +52,12 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-03-31T16:13:55+09:00"
-    },
-    {
-      "title": "Show HN: Raincast – Describe an app, get a native desktop app (open source)",
-      "url": "https://github.com/tihiera/raincast",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-31T05:39:41+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 47,
       "top_items": [
         {
           "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
@@ -77,7 +70,7 @@
         {
           "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
           "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "score": 1001,
+          "score": 1046,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-31T13:04:30+00:00"
@@ -91,20 +84,20 @@
           "date": "2026-03-31T14:30:48+00:00"
         },
         {
-          "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-          "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-          "score": 483,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-31T05:11:24+00:00"
-        },
-        {
           "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
           "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
           "score": 430,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T17:55:04+00:00"
+        },
+        {
+          "title": "GitHub's Historic Uptime",
+          "url": "https://damrnelson.github.io/github-historical-uptime/",
+          "score": 406,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-31T19:01:29+00:00"
         }
       ]
     },
