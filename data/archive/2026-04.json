@@ -1,28 +1,36 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-01T13:33:48.793813+00:00",
-  "total_articles": 28,
+  "generated_at": "2026-04-01T14:33:53.749113+00:00",
+  "total_articles": 30,
   "source_counts": {
-    "hn": 20,
-    "zennqiita": 8
+    "hn": 21,
+    "zennqiita": 9
   },
   "severity_counts": {
+    "medium": 1,
     "critical": 2
   },
   "top_articles": [
     {
       "title": "Claude Code Unpacked : A visual guide",
       "url": "https://ccunpacked.dev/",
-      "score": 679,
+      "score": 751,
       "source": "hn",
       "date": "2026-04-01T05:15:37+00:00"
     },
     {
       "title": "CERN levels up with new superconducting karts",
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "score": 218,
+      "score": 248,
       "source": "hn",
       "date": "2026-04-01T07:27:13+00:00"
+    },
+    {
+      "title": "I Quit. The Clankers Won",
+      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+      "score": 234,
+      "source": "hn",
+      "date": "2026-04-01T09:00:34+00:00"
     },
     {
       "title": "We intercepted the White House app's network traffic",
@@ -34,7 +42,7 @@
     {
       "title": "Neanderthals survived on a knife's edge for 350k years",
       "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "score": 182,
+      "score": 190,
       "source": "hn",
       "date": "2026-04-01T01:12:12+00:00"
     },
@@ -46,16 +54,9 @@
       "date": "2026-04-01T01:18:51+00:00"
     },
     {
-      "title": "I Quit. The Clankers Won",
-      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "score": 168,
-      "source": "hn",
-      "date": "2026-04-01T09:00:34+00:00"
-    },
-    {
       "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
       "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "score": 98,
+      "score": 126,
       "source": "hn",
       "date": "2026-04-01T05:21:48+00:00"
     },
@@ -65,6 +66,27 @@
       "score": 94,
       "source": "hn",
       "date": "2026-04-01T02:14:42+00:00"
+    },
+    {
+      "title": "Is BGP Safe Yet? No. Test Your ISP",
+      "url": "https://isbgpsafeyet.com/",
+      "score": 69,
+      "source": "hn",
+      "date": "2026-04-01T13:10:29+00:00"
+    },
+    {
+      "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
+      "url": "https://sycamore.dev",
+      "score": 43,
+      "source": "hn",
+      "date": "2026-04-01T12:30:18+00:00"
+    },
+    {
+      "title": "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
+      "url": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
+      "score": 37,
+      "source": "hn",
+      "date": "2026-04-01T13:15:33+00:00"
     },
     {
       "title": "Analyzing Geekbench 6 under Intel's BOT",
@@ -81,11 +103,11 @@
       "date": "2026-04-01T06:05:57+00:00"
     },
     {
-      "title": "Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity",
-      "url": "https://sycamore.dev",
-      "score": 23,
+      "title": "Show HN: Baton – A desktop app for developing with AI agents",
+      "url": "https://getbaton.dev/",
+      "score": 27,
       "source": "hn",
-      "date": "2026-04-01T12:30:18+00:00"
+      "date": "2026-04-01T12:11:30+00:00"
     },
     {
       "title": "Solar panels at Lidl? Plug-in versions set to appear in shops",
@@ -100,13 +122,6 @@
       "score": 11,
       "source": "hn",
       "date": "2026-04-01T04:00:51+00:00"
-    },
-    {
-      "title": "Is BGP Safe Yet? No. Test Your ISP",
-      "url": "https://isbgpsafeyet.com/",
-      "score": 10,
-      "source": "hn",
-      "date": "2026-04-01T13:10:29+00:00"
     },
     {
       "title": "CEO of largest public hospital says he's ready to replace radiologists with AI",
@@ -135,20 +150,6 @@
       "score": 6,
       "source": "hn",
       "date": "2026-04-01T09:49:42+00:00"
-    },
-    {
-      "title": "Show HN: Baton – A desktop app for developing with AI agents",
-      "url": "https://getbaton.dev/",
-      "score": 4,
-      "source": "hn",
-      "date": "2026-04-01T12:11:30+00:00"
-    },
-    {
-      "title": "Wasmer (YC S19) Is Hiring – Rust and DevRel Positions",
-      "url": "https://www.workatastartup.com/companies/wasmer",
-      "score": 1,
-      "source": "hn",
-      "date": "2026-04-01T12:00:17+00:00"
     }
   ],
   "security_highlights": [

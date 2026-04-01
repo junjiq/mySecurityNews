@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T13:33:48.751188+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-04-01T14:33:53.711907+00:00",
+  "total_articles": 55,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,20 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 43,
       "top_items": [
-        {
-          "title": "Oracle slashes 30k jobs",
-          "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-          "score": 744,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-31T14:30:48+00:00"
-        },
         {
           "title": "Claude Code Unpacked : A visual guide",
           "url": "https://ccunpacked.dev/",
-          "score": 679,
+          "score": 751,
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T05:15:37+00:00"
@@ -43,7 +35,7 @@
         {
           "title": "OpenAI closes funding round at an $852B valuation",
           "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "score": 474,
+          "score": 486,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T20:07:30+00:00"
@@ -55,6 +47,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T17:55:04+00:00"
+        },
+        {
+          "title": "A dot a day keeps the clutter away",
+          "url": "https://scottlawsonbc.com/post/dot-system",
+          "score": 425,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-31T21:15:01+00:00"
         },
         {
           "title": "GitHub's Historic Uptime",
@@ -70,6 +70,14 @@
       "category": "日本語技術記事",
       "count": 12,
       "top_items": [
+        {
+          "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
+          "url": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T23:30:47+09:00"
+        },
         {
           "title": "Oracle AI Database 26ai: Automatic In-Memory (AIM) をためしてみてみた",
           "url": "https://qiita.com/shirok/items/c38985bbf0ec13bf91b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-01T15:43:53+09:00"
-        },
-        {
-          "title": "【前編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴",
-          "url": "https://qiita.com/hitomin_poke/items/094edffe1d7961bb6395?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-01T13:18:18+09:00"
         }
       ]
     }
