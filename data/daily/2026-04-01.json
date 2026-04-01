@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T17:47:34.629034+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-04-01T18:20:14.662620+00:00",
+  "total_articles": 57,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,15 +29,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 47,
       "top_items": [
         {
           "title": "Claude Code Unpacked : A visual guide",
           "url": "https://ccunpacked.dev/",
-          "score": 921,
+          "score": 928,
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T05:15:37+00:00"
+        },
+        {
+          "title": "A dot a day keeps the clutter away",
+          "url": "https://scottlawsonbc.com/post/dot-system",
+          "score": 494,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-31T21:15:01+00:00"
         },
         {
           "title": "OpenAI closes funding round at an $852B valuation",
@@ -48,28 +56,20 @@
           "date": "2026-03-31T20:07:30+00:00"
         },
         {
-          "title": "A dot a day keeps the clutter away",
-          "url": "https://scottlawsonbc.com/post/dot-system",
-          "score": 473,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-31T21:15:01+00:00"
-        },
-        {
-          "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
-          "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
-          "score": 430,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-31T17:55:04+00:00"
-        },
-        {
           "title": "GitHub's Historic Uptime",
           "url": "https://damrnelson.github.io/github-historical-uptime/",
           "score": 406,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T19:01:29+00:00"
+        },
+        {
+          "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+          "url": "https://prismml.com/",
+          "score": 355,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-31T21:01:18+00:00"
         }
       ]
     },
