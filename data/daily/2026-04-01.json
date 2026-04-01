@@ -1,6 +1,6 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T20:15:24.861348+00:00",
+  "generated_at": "2026-04-01T20:46:40.241796+00:00",
   "total_articles": 63,
   "urgent_count": 3,
   "urgent_items": [
@@ -12,7 +12,7 @@
       "date": "2026-04-01T14:07:50+00:00"
     },
     {
-      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
       "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
       "severity": "critical",
       "source": "hn",
@@ -50,10 +50,18 @@
         {
           "title": "CERN levels up with new superconducting karts",
           "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-          "score": 361,
+          "score": 365,
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T07:27:13+00:00"
+        },
+        {
+          "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
+          "url": "https://blog.cloudflare.com/emdash-wordpress/",
+          "score": 356,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-01T16:14:38+00:00"
         },
         {
           "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
@@ -62,14 +70,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T21:01:18+00:00"
-        },
-        {
-          "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
-          "url": "https://blog.cloudflare.com/emdash-wordpress/",
-          "score": 327,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-01T16:14:38+00:00"
         }
       ]
     },
