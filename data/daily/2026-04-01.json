@@ -1,8 +1,8 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T08:54:47.351471+00:00",
-  "total_articles": 58,
-  "urgent_count": 5,
+  "generated_at": "2026-04-01T09:28:02.693194+00:00",
+  "total_articles": 57,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "We intercepted the White House app's network traffic",
@@ -31,32 +31,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-31T10:02:34+00:00"
-    },
-    {
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-31T09:00:40+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 44,
       "top_items": [
-        {
-          "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-          "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-          "score": 1855,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-03-31T09:00:40+00:00"
-        },
         {
           "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
           "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "score": 1154,
+          "score": 1163,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-31T13:04:30+00:00"
@@ -72,7 +57,7 @@
         {
           "title": "OpenAI closes funding round at an $852B valuation",
           "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "score": 438,
+          "score": 444,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T20:07:30+00:00"
@@ -84,6 +69,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T17:55:04+00:00"
+        },
+        {
+          "title": "GitHub's Historic Uptime",
+          "url": "https://damrnelson.github.io/github-historical-uptime/",
+          "score": 406,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-31T19:01:29+00:00"
         }
       ]
     },
