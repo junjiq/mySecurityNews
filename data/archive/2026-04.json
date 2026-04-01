@@ -1,19 +1,51 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-01T02:18:46.411998+00:00",
-  "total_articles": 1,
+  "generated_at": "2026-04-01T03:41:43.527976+00:00",
+  "total_articles": 5,
   "source_counts": {
-    "hn": 1
+    "hn": 4,
+    "zennqiita": 1
   },
-  "severity_counts": {},
+  "severity_counts": {
+    "critical": 1
+  },
   "top_articles": [
     {
       "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
       "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
-      "score": 74,
+      "score": 177,
       "source": "hn",
       "date": "2026-04-01T01:18:51+00:00"
+    },
+    {
+      "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "score": 129,
+      "source": "hn",
+      "date": "2026-04-01T01:58:45+00:00"
+    },
+    {
+      "title": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
+      "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/",
+      "score": 94,
+      "source": "hn",
+      "date": "2026-04-01T02:14:42+00:00"
+    },
+    {
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "score": 27,
+      "source": "hn",
+      "date": "2026-04-01T01:12:12+00:00"
     }
   ],
-  "security_highlights": []
+  "security_highlights": [
+    {
+      "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-01T01:58:45+00:00"
+    }
+  ]
 }

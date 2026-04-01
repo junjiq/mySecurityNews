@@ -1,9 +1,16 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T02:18:46.371533+00:00",
-  "total_articles": 60,
-  "urgent_count": 7,
+  "generated_at": "2026-04-01T03:41:43.486515+00:00",
+  "total_articles": 56,
+  "urgent_count": 8,
   "urgent_items": [
+    {
+      "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-01T01:58:45+00:00"
+    },
     {
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
@@ -57,7 +64,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 50,
       "top_items": [
         {
           "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
@@ -68,17 +75,9 @@
           "date": "2026-03-31T09:00:40+00:00"
         },
         {
-          "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-          "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-          "score": 1781,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-03-31T02:54:17+00:00"
-        },
-        {
           "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
           "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "score": 811,
+          "score": 914,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-31T13:04:30+00:00"
@@ -92,19 +91,35 @@
           "date": "2026-03-31T14:30:48+00:00"
         },
         {
-          "title": "Artemis II is not safe to fly",
-          "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-          "score": 740,
+          "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+          "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+          "score": 483,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-31T02:23:50+00:00"
+          "date": "2026-03-31T05:11:24+00:00"
+        },
+        {
+          "title": "GitHub's Historic Uptime",
+          "url": "https://damrnelson.github.io/github-historical-uptime/",
+          "score": 406,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-31T19:01:29+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 6,
       "top_items": [
+        {
+          "title": "100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化",
+          "url": "https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T12:06:54+09:00"
+        },
         {
           "title": "Oracle Exadata AI Database@Azure:  Active Data Guard で DR 構成をしてみてみた",
           "url": "https://qiita.com/shirok/items/4bb54995083b56d81a70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -136,14 +151,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-03-31T16:34:07+09:00"
-        },
-        {
-          "title": "【緊急】axiosがサプライチェーン攻撃を受けました 今すぐ確認・対処してください（2026/03/31）",
-          "url": "https://qiita.com/kawabe0201/items/b51cd76daa2fec5029f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "critical",
-          "date": "2026-03-31T16:13:55+09:00"
         }
       ]
     }
