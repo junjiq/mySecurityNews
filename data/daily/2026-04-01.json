@@ -1,8 +1,8 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T09:54:37.101963+00:00",
-  "total_articles": 58,
-  "urgent_count": 5,
+  "generated_at": "2026-04-01T10:24:00.848807+00:00",
+  "total_articles": 56,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
@@ -31,24 +31,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-31T12:50:23+00:00"
-    },
-    {
-      "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
-      "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-31T10:02:34+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 42,
       "top_items": [
         {
           "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
           "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "score": 1176,
+          "score": 1185,
           "source": "hn",
           "severity": "critical",
           "date": "2026-03-31T13:04:30+00:00"
@@ -64,7 +57,7 @@
         {
           "title": "OpenAI closes funding round at an $852B valuation",
           "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "score": 446,
+          "score": 451,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T20:07:30+00:00"
@@ -78,12 +71,12 @@
           "date": "2026-03-31T17:55:04+00:00"
         },
         {
-          "title": "GitHub's Historic Uptime",
-          "url": "https://damrnelson.github.io/github-historical-uptime/",
-          "score": 406,
+          "title": "Claude Code Unpacked : A visual guide",
+          "url": "https://ccunpacked.dev/",
+          "score": 420,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-31T19:01:29+00:00"
+          "date": "2026-04-01T05:15:37+00:00"
         }
       ]
     },
