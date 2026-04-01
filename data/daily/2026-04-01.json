@@ -1,8 +1,8 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T12:49:09.688222+00:00",
+  "generated_at": "2026-04-01T13:33:48.751188+00:00",
   "total_articles": 57,
-  "urgent_count": 4,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
@@ -17,35 +17,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-01T01:58:45+00:00"
-    },
-    {
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-31T13:04:30+00:00"
-    },
-    {
-      "title": "Open source CAD in the browser (Solvespace)",
-      "url": "https://solvespace.com/webver.pl",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-31T12:50:23+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 45,
       "top_items": [
-        {
-          "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-          "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "score": 1236,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-03-31T13:04:30+00:00"
-        },
         {
           "title": "Oracle slashes 30k jobs",
           "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
@@ -57,7 +35,7 @@
         {
           "title": "Claude Code Unpacked : A visual guide",
           "url": "https://ccunpacked.dev/",
-          "score": 609,
+          "score": 679,
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T05:15:37+00:00"
@@ -65,7 +43,7 @@
         {
           "title": "OpenAI closes funding round at an $852B valuation",
           "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "score": 470,
+          "score": 474,
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T20:07:30+00:00"
@@ -77,12 +55,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-03-31T17:55:04+00:00"
+        },
+        {
+          "title": "GitHub's Historic Uptime",
+          "url": "https://damrnelson.github.io/github-historical-uptime/",
+          "score": 406,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-03-31T19:01:29+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "Oracle AI Database 26ai: Automatic In-Memory (AIM) をためしてみてみた",
