@@ -1,7 +1,7 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T19:49:56.677702+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-04-01T20:15:24.861348+00:00",
+  "total_articles": 63,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -48,12 +48,12 @@
           "date": "2026-03-31T21:15:01+00:00"
         },
         {
-          "title": "OpenAI closes funding round at an $852B valuation",
-          "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "score": 486,
+          "title": "CERN levels up with new superconducting karts",
+          "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+          "score": 361,
           "source": "hn",
           "severity": null,
-          "date": "2026-03-31T20:07:30+00:00"
+          "date": "2026-04-01T07:27:13+00:00"
         },
         {
           "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
@@ -64,18 +64,18 @@
           "date": "2026-03-31T21:01:18+00:00"
         },
         {
-          "title": "CERN levels up with new superconducting karts",
-          "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-          "score": 354,
+          "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
+          "url": "https://blog.cloudflare.com/emdash-wordpress/",
+          "score": 327,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-01T07:27:13+00:00"
+          "date": "2026-04-01T16:14:38+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 15,
       "top_items": [
         {
           "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
@@ -94,28 +94,28 @@
           "date": "2026-04-01T21:02:29+09:00"
         },
         {
+          "title": "Claude Codeのコード流出から考える開発者の倫理",
+          "url": "https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T19:35:29+09:00"
+        },
+        {
+          "title": "Claude Codeのカスタムスキルを \"育てる\" 自動監査スキル \"/audit-skills\" を作成した",
+          "url": "https://qiita.com/k_izutani/items/3501b63f345f79246e4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T19:04:24+09:00"
+        },
+        {
           "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第2章/7章) 出力例付き",
           "url": "https://qiita.com/chomado/items/7ac245bde821ec80a1b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-01T18:37:11+09:00"
-        },
-        {
-          "title": ".NET 10 + C# 14 の新機能を触ってみた実装メモ",
-          "url": "https://qiita.com/hiroki_notes/items/acaf965dfa90584b273a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-01T16:12:18+09:00"
-        },
-        {
-          "title": "REST API と GraphQL の違いをフロントエンド目線で整理する",
-          "url": "https://qiita.com/ryo_sh/items/18a4ddd39ada54c58b12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-01T15:43:53+09:00"
         }
       ]
     }
