@@ -1,20 +1,20 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-02T12:20:19.697957+00:00",
-  "total_articles": 112,
+  "generated_at": "2026-04-02T12:48:45.756377+00:00",
+  "total_articles": 115,
   "source_counts": {
-    "hn": 84,
+    "hn": 87,
     "zennqiita": 28
   },
   "severity_counts": {
-    "critical": 4,
+    "critical": 5,
     "medium": 2
   },
   "top_articles": [
     {
       "title": "Artemis II Launch Day Updates",
       "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "score": 968,
+      "score": 973,
       "source": "hn",
       "date": "2026-04-01T17:11:31+00:00"
     },
@@ -28,21 +28,21 @@
     {
       "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
       "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 594,
+      "score": 600,
       "source": "hn",
       "date": "2026-04-01T16:14:38+00:00"
     },
     {
       "title": "DRAM pricing is killing the hobbyist SBC market",
       "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-      "score": 508,
+      "score": 521,
       "source": "hn",
       "date": "2026-04-01T21:36:41+00:00"
     },
     {
       "title": "Steam on Linux Use Skyrocketed Above 5% in March",
       "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "score": 468,
+      "score": 486,
       "source": "hn",
       "date": "2026-04-02T03:12:24+00:00"
     },
@@ -89,6 +89,13 @@
       "date": "2026-04-01T13:10:29+00:00"
     },
     {
+      "title": "Quantum computing bombshells that are not April Fools",
+      "url": "https://scottaaronson.blog/?p=9665",
+      "score": 205,
+      "source": "hn",
+      "date": "2026-04-02T00:24:43+00:00"
+    },
+    {
       "title": "Neanderthals survived on a knife's edge for 350k years",
       "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
       "score": 205,
@@ -96,11 +103,11 @@
       "date": "2026-04-01T01:12:12+00:00"
     },
     {
-      "title": "Quantum computing bombshells that are not April Fools",
-      "url": "https://scottaaronson.blog/?p=9665",
-      "score": 202,
+      "title": "A new C++ back end for ocamlc",
+      "url": "https://github.com/ocaml/ocaml/pull/14701",
+      "score": 201,
       "source": "hn",
-      "date": "2026-04-02T00:24:43+00:00"
+      "date": "2026-04-01T23:35:02+00:00"
     },
     {
       "title": "AI for American-produced cement and concrete",
@@ -108,13 +115,6 @@
       "score": 198,
       "source": "hn",
       "date": "2026-04-01T17:17:24+00:00"
-    },
-    {
-      "title": "A new C++ back end for ocamlc",
-      "url": "https://github.com/ocaml/ocaml/pull/14701",
-      "score": 197,
-      "source": "hn",
-      "date": "2026-04-01T23:35:02+00:00"
     },
     {
       "title": "We intercepted the White House app's network traffic",
@@ -126,14 +126,14 @@
     {
       "title": "Subscription bombing and how to mitigate it",
       "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
-      "score": 188,
+      "score": 196,
       "source": "hn",
       "date": "2026-04-02T04:08:05+00:00"
     },
     {
       "title": "Email obfuscation: What works in 2026?",
       "url": "https://spencermortensen.com/articles/email-obfuscation/",
-      "score": 181,
+      "score": 189,
       "source": "hn",
       "date": "2026-04-02T03:35:33+00:00"
     },
@@ -153,6 +153,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-02T11:04:51+00:00"
+    },
     {
       "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
       "url": "https://github.com/solvespace/solvespace/issues/1036",
