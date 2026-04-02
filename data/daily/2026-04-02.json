@@ -1,0 +1,123 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T00:25:27.038402+00:00",
+  "total_articles": 71,
+  "urgent_count": 3,
+  "urgent_items": [
+    {
+      "title": "AI has suddenly become more useful to open-source developers",
+      "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-01T14:07:50+00:00"
+    },
+    {
+      "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-01T05:21:48+00:00"
+    },
+    {
+      "title": "We intercepted the White House app's network traffic",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-01T01:58:45+00:00"
+    }
+  ],
+  "categories": [
+    {
+      "category": "テクノロジー",
+      "count": 57,
+      "top_items": [
+        {
+          "title": "Claude Code Unpacked : A visual guide",
+          "url": "https://ccunpacked.dev/",
+          "score": 928,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-01T05:15:37+00:00"
+        },
+        {
+          "title": "NASA’s Artemis II Crew Launches to the Moon",
+          "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+          "score": 489,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-01T17:11:31+00:00"
+        },
+        {
+          "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+          "url": "https://blog.cloudflare.com/emdash-wordpress/",
+          "score": 440,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-01T16:14:38+00:00"
+        },
+        {
+          "title": "CERN levels up with new superconducting karts",
+          "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+          "score": 377,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-01T07:27:13+00:00"
+        },
+        {
+          "title": "I Quit. The Clankers Won",
+          "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+          "score": 322,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-01T09:00:34+00:00"
+        }
+      ]
+    },
+    {
+      "category": "日本語技術記事",
+      "count": 14,
+      "top_items": [
+        {
+          "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
+          "url": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-02T00:02:13+09:00"
+        },
+        {
+          "title": "Oracle AI Database 26ai: Automatic In-Memory (AIM) をためしてみてみた",
+          "url": "https://qiita.com/shirok/items/c38985bbf0ec13bf91b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T21:02:29+09:00"
+        },
+        {
+          "title": "Claude Codeのコード流出から考える開発者の倫理",
+          "url": "https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T19:35:29+09:00"
+        },
+        {
+          "title": "Claude Codeのカスタムスキルを \"育てる\" 自動監査スキル \"/audit-skills\" を作成した",
+          "url": "https://qiita.com/k_izutani/items/3501b63f345f79246e4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T19:04:24+09:00"
+        },
+        {
+          "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第2章/7章) 出力例付き",
+          "url": "https://qiita.com/chomado/items/7ac245bde821ec80a1b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-01T18:37:11+09:00"
+        }
+      ]
+    }
+  ]
+}
