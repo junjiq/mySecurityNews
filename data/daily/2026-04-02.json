@@ -1,7 +1,7 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T21:12:34.701660+00:00",
-  "total_articles": 82,
+  "generated_at": "2026-04-02T21:45:37.659393+00:00",
+  "total_articles": 83,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 65,
+      "count": 66,
       "top_items": [
         {
           "title": "LinkedIn is searching your browser extensions",
           "url": "https://browsergate.eu/",
-          "score": 1436,
+          "score": 1462,
           "source": "hn",
           "severity": null,
           "date": "2026-04-02T13:09:09+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Google releases Gemma 4 open models",
           "url": "https://deepmind.google/models/gemma/gemma-4/",
-          "score": 840,
+          "score": 888,
           "source": "hn",
           "severity": null,
           "date": "2026-04-02T16:10:54+00:00"
@@ -64,12 +64,12 @@
           "date": "2026-04-02T03:12:24+00:00"
         },
         {
-          "title": "DRAM pricing is killing the hobbyist SBC market",
-          "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-          "score": 548,
+          "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+          "url": "https://lemonade-server.ai",
+          "score": 388,
           "source": "hn",
-          "severity": null,
-          "date": "2026-04-01T21:36:41+00:00"
+          "severity": "critical",
+          "date": "2026-04-02T11:04:51+00:00"
         }
       ]
     },
