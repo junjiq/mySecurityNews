@@ -1,8 +1,8 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T05:11:56.201191+00:00",
-  "total_articles": 70,
-  "urgent_count": 3,
+  "generated_at": "2026-04-02T05:59:17.858039+00:00",
+  "total_articles": 71,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
@@ -17,32 +17,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-01T14:07:50+00:00"
-    },
-    {
-      "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
-      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-01T05:21:48+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 61,
+      "count": 62,
       "top_items": [
-        {
-          "title": "Claude Code Unpacked : A visual guide",
-          "url": "https://ccunpacked.dev/",
-          "score": 928,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-01T05:15:37+00:00"
-        },
         {
           "title": "Live: Artemis II Launch Day Updates",
           "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-          "score": 768,
+          "score": 792,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-01T17:11:31+00:00"
@@ -50,7 +35,7 @@
         {
           "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
           "url": "https://blog.cloudflare.com/emdash-wordpress/",
-          "score": 517,
+          "score": 524,
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T16:14:38+00:00"
@@ -58,7 +43,7 @@
         {
           "title": "DRAM pricing is killing the hobbyist SBC market",
           "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-          "score": 381,
+          "score": 402,
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T21:36:41+00:00"
@@ -70,6 +55,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T07:27:13+00:00"
+        },
+        {
+          "title": "I Quit. The Clankers Won",
+          "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+          "score": 322,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-01T09:00:34+00:00"
         }
       ]
     },
