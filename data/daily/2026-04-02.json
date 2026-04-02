@@ -1,7 +1,7 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T14:53:18.532812+00:00",
-  "total_articles": 74,
+  "generated_at": "2026-04-02T15:24:24.175991+00:00",
+  "total_articles": 75,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,20 +22,28 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 63,
+      "count": 65,
       "top_items": [
         {
           "title": "Artemis II Launch Day Updates",
           "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-          "score": 1006,
+          "score": 1013,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-01T17:11:31+00:00"
         },
         {
+          "title": "LinkedIn Is Illegally Searching Your Computer",
+          "url": "https://browsergate.eu/",
+          "score": 647,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-02T13:09:09+00:00"
+        },
+        {
           "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
           "url": "https://blog.cloudflare.com/emdash-wordpress/",
-          "score": 628,
+          "score": 635,
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T16:14:38+00:00"
@@ -43,7 +51,7 @@
         {
           "title": "Steam on Linux Use Skyrocketed Above 5% in March",
           "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-          "score": 571,
+          "score": 586,
           "source": "hn",
           "severity": null,
           "date": "2026-04-02T03:12:24+00:00"
@@ -55,21 +63,21 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T21:36:41+00:00"
-        },
-        {
-          "title": "LinkedIn Is Illegally Searching Your Computer",
-          "url": "https://browsergate.eu/",
-          "score": 508,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-02T13:09:09+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
+        {
+          "title": "新卒、焦らなくていいよ。不出来と思われたくなくて空回りした私より。",
+          "url": "https://qiita.com/kimuchi_a/items/2e018c98e35752dae179?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-03T00:19:55+09:00"
+        },
         {
           "title": "Claude Codeのコード流出から考える開発者の倫理",
           "url": "https://qiita.com/mosaxiv/items/f6fa910cb0c7efe2defc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-02T12:50:42+09:00"
-        },
-        {
-          "title": "Database の中で AI Agent を動かしてみる",
-          "url": "https://qiita.com/nyasuhiro/items/e5d0358885bc0ad44848?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-02T12:44:59+09:00"
         }
       ]
     }
