@@ -1,9 +1,9 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-02T16:48:30.949191+00:00",
-  "total_articles": 127,
+  "generated_at": "2026-04-02T17:19:31.847525+00:00",
+  "total_articles": 130,
   "source_counts": {
-    "hn": 99,
+    "hn": 102,
     "zennqiita": 28
   },
   "severity_counts": {
@@ -12,18 +12,18 @@
   },
   "top_articles": [
     {
+      "title": "LinkedIn Is Illegally Searching Your Computer",
+      "url": "https://browsergate.eu/",
+      "score": 1043,
+      "source": "hn",
+      "date": "2026-04-02T13:09:09+00:00"
+    },
+    {
       "title": "Artemis II Launch Day Updates",
       "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
       "score": 1013,
       "source": "hn",
       "date": "2026-04-01T17:11:31+00:00"
-    },
-    {
-      "title": "LinkedIn Is Illegally Searching Your Computer",
-      "url": "https://browsergate.eu/",
-      "score": 957,
-      "source": "hn",
-      "date": "2026-04-02T13:09:09+00:00"
     },
     {
       "title": "Claude Code Unpacked : A visual guide",
@@ -56,7 +56,7 @@
     {
       "title": "Sweden goes back to basics, swapping screens for books in the classroom",
       "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-      "score": 508,
+      "score": 529,
       "source": "hn",
       "date": "2026-04-02T10:50:00+00:00"
     },
@@ -75,11 +75,25 @@
       "date": "2026-04-01T09:00:34+00:00"
     },
     {
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "score": 279,
+      "source": "hn",
+      "date": "2026-04-02T16:10:54+00:00"
+    },
+    {
       "title": "Email obfuscation: What works in 2026?",
       "url": "https://spencermortensen.com/articles/email-obfuscation/",
-      "score": 275,
+      "score": 279,
       "source": "hn",
       "date": "2026-04-02T03:35:33+00:00"
+    },
+    {
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
+      "score": 270,
+      "source": "hn",
+      "date": "2026-04-02T11:04:51+00:00"
     },
     {
       "title": "I Am Not A Number. In memory of the more than 72,000 Palestinians killed",
@@ -87,13 +101,6 @@
       "score": 263,
       "source": "hn",
       "date": "2026-04-02T09:32:13+00:00"
-    },
-    {
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "url": "https://lemonade-server.ai",
-      "score": 253,
-      "source": "hn",
-      "date": "2026-04-02T11:04:51+00:00"
     },
     {
       "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
@@ -124,6 +131,13 @@
       "date": "2026-04-01T22:38:25+00:00"
     },
     {
+      "title": "IBM Announces Strategic Collaboration with Arm",
+      "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
+      "score": 219,
+      "source": "hn",
+      "date": "2026-04-02T08:48:44+00:00"
+    },
+    {
       "title": "Is BGP safe yet?",
       "url": "https://isbgpsafeyet.com/",
       "score": 219,
@@ -131,25 +145,11 @@
       "date": "2026-04-01T13:10:29+00:00"
     },
     {
-      "title": "IBM Announces Strategic Collaboration with Arm",
-      "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-      "score": 217,
-      "source": "hn",
-      "date": "2026-04-02T08:48:44+00:00"
-    },
-    {
       "title": "A new C++ back end for ocamlc",
       "url": "https://github.com/ocaml/ocaml/pull/14701",
       "score": 217,
       "source": "hn",
       "date": "2026-04-01T23:35:02+00:00"
-    },
-    {
-      "title": "Neanderthals survived on a knife's edge for 350k years",
-      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
-      "score": 205,
-      "source": "hn",
-      "date": "2026-04-01T01:12:12+00:00"
     }
   ],
   "security_highlights": [
