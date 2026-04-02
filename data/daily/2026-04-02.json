@@ -1,9 +1,16 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T00:58:07.887639+00:00",
-  "total_articles": 71,
-  "urgent_count": 3,
+  "generated_at": "2026-04-02T01:42:54.479486+00:00",
+  "total_articles": 68,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
+      "url": "https://github.com/solvespace/solvespace/issues/1036",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-01T22:32:04+00:00"
+    },
     {
       "title": "AI has suddenly become more useful to open-source developers",
       "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
@@ -29,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 56,
       "top_items": [
         {
           "title": "Claude Code Unpacked : A visual guide",
@@ -42,7 +49,7 @@
         {
           "title": "NASA’s Artemis II Crew Launches to the Moon",
           "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-          "score": 543,
+          "score": 624,
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T17:11:31+00:00"
@@ -50,7 +57,7 @@
         {
           "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
           "url": "https://blog.cloudflare.com/emdash-wordpress/",
-          "score": 450,
+          "score": 460,
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T16:14:38+00:00"
@@ -75,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 12,
       "top_items": [
         {
           "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",

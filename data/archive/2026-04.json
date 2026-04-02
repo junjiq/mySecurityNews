@@ -1,13 +1,13 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-02T00:58:07.925262+00:00",
-  "total_articles": 71,
+  "generated_at": "2026-04-02T01:42:54.520600+00:00",
+  "total_articles": 72,
   "source_counts": {
-    "hn": 57,
+    "hn": 58,
     "zennqiita": 14
   },
   "severity_counts": {
-    "critical": 3,
+    "critical": 4,
     "medium": 1
   },
   "top_articles": [
@@ -21,14 +21,14 @@
     {
       "title": "NASA’s Artemis II Crew Launches to the Moon",
       "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "score": 543,
+      "score": 624,
       "source": "hn",
       "date": "2026-04-01T17:11:31+00:00"
     },
     {
       "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
       "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 450,
+      "score": 460,
       "source": "hn",
       "date": "2026-04-01T16:14:38+00:00"
     },
@@ -49,7 +49,7 @@
     {
       "title": "DRAM pricing is killing the hobbyist SBC market",
       "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-      "score": 262,
+      "score": 291,
       "source": "hn",
       "date": "2026-04-01T21:36:41+00:00"
     },
@@ -98,14 +98,14 @@
     {
       "title": "AI for American-produced cement and concrete",
       "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-      "score": 138,
+      "score": 148,
       "source": "hn",
       "date": "2026-04-01T17:17:24+00:00"
     },
     {
       "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
       "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-      "score": 136,
+      "score": 140,
       "source": "hn",
       "date": "2026-04-01T16:17:35+00:00"
     },
@@ -131,6 +131,13 @@
       "date": "2026-04-01T02:14:42+00:00"
     },
     {
+      "title": "Swappa.com for GrapheneOS compatible devices – Stay Away",
+      "url": "https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away",
+      "score": 89,
+      "source": "hn",
+      "date": "2026-04-01T21:59:14+00:00"
+    },
+    {
       "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
       "url": "https://sycamore.dev",
       "score": 88,
@@ -143,16 +150,16 @@
       "score": 87,
       "source": "hn",
       "date": "2026-04-01T13:15:33+00:00"
-    },
-    {
-      "title": "Swappa.com for GrapheneOS compatible devices – Stay Away",
-      "url": "https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away",
-      "score": 83,
-      "source": "hn",
-      "date": "2026-04-01T21:59:14+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
+      "url": "https://github.com/solvespace/solvespace/issues/1036",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-01T22:32:04+00:00"
+    },
     {
       "title": "AI has suddenly become more useful to open-source developers",
       "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
