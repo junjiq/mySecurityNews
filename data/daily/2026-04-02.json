@@ -1,8 +1,8 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T01:42:54.479486+00:00",
-  "total_articles": 68,
-  "urgent_count": 4,
+  "generated_at": "2026-04-02T03:05:26.805381+00:00",
+  "total_articles": 69,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
@@ -24,19 +24,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-01T05:21:48+00:00"
-    },
-    {
-      "title": "We intercepted the White House app's network traffic",
-      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-01T01:58:45+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 57,
       "top_items": [
         {
           "title": "Claude Code Unpacked : A visual guide",
@@ -47,17 +40,17 @@
           "date": "2026-04-01T05:15:37+00:00"
         },
         {
-          "title": "NASA’s Artemis II Crew Launches to the Moon",
+          "title": "Live: Artemis II Launch Day Updates",
           "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-          "score": 624,
+          "score": 695,
           "source": "hn",
-          "severity": null,
+          "severity": "medium",
           "date": "2026-04-01T17:11:31+00:00"
         },
         {
           "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
           "url": "https://blog.cloudflare.com/emdash-wordpress/",
-          "score": 460,
+          "score": 480,
           "source": "hn",
           "severity": null,
           "date": "2026-04-01T16:14:38+00:00"
@@ -71,12 +64,12 @@
           "date": "2026-04-01T07:27:13+00:00"
         },
         {
-          "title": "I Quit. The Clankers Won",
-          "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-          "score": 322,
+          "title": "DRAM pricing is killing the hobbyist SBC market",
+          "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+          "score": 325,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-01T09:00:34+00:00"
+          "date": "2026-04-01T21:36:41+00:00"
         }
       ]
     },
@@ -84,6 +77,14 @@
       "category": "日本語技術記事",
       "count": 12,
       "top_items": [
+        {
+          "title": "新卒、焦らなくていいよ。不出来と思われたくなくて空回りした私より。",
+          "url": "https://qiita.com/kimuchi_a/items/2e018c98e35752dae179?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-02T10:53:20+09:00"
+        },
         {
           "title": "Claude Code の流出したソースコードを GitHub に公開した人が著作権違反を回避した方法がヤバすぎ",
           "url": "https://qiita.com/LostMyCode/items/a867e1954b80e78cf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -115,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-01T19:04:24+09:00"
-        },
-        {
-          "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第2章/7章) 出力例付き",
-          "url": "https://qiita.com/chomado/items/7ac245bde821ec80a1b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-01T18:37:11+09:00"
         }
       ]
     }
