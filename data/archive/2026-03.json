@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-04-03T20:45:45.174956+00:00",
-  "total_articles": 229,
+  "generated_at": "2026-04-03T21:10:49.573681+00:00",
+  "total_articles": 226,
   "source_counts": {
-    "hn": 183,
+    "hn": 180,
     "zennqiita": 44,
     "project": 2
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 9,
     "high": 1
   },
   "top_articles": [
@@ -223,13 +223,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-30T00:52:06+00:00"
-    },
-    {
-      "title": "Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis",
-      "url": "https://point-wild.github.io/who-touched-my-packages/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-29T15:49:30+00:00"
     }
   ]
 }
