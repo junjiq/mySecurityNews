@@ -1,7 +1,7 @@
 {
   "date": "2026-04-03",
-  "generated_at": "2026-04-03T07:55:30.162747+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-04-03T08:19:42.908857+00:00",
+  "total_articles": 61,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 51,
       "top_items": [
         {
           "title": "LinkedIn is searching your browser extensions",
           "url": "https://browsergate.eu/",
-          "score": 1687,
+          "score": 1693,
           "source": "hn",
           "severity": null,
           "date": "2026-04-02T13:09:09+00:00"
@@ -35,10 +35,18 @@
         {
           "title": "Google releases Gemma 4 open models",
           "url": "https://deepmind.google/models/gemma/gemma-4/",
-          "score": 1392,
+          "score": 1418,
           "source": "hn",
           "severity": null,
           "date": "2026-04-02T16:10:54+00:00"
+        },
+        {
+          "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+          "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+          "score": 693,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-02T16:00:27+00:00"
         },
         {
           "title": "Sweden goes back to basics, swapping screens for books in the classroom",
@@ -49,17 +57,9 @@
           "date": "2026-04-02T10:50:00+00:00"
         },
         {
-          "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-          "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-          "score": 670,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-02T16:00:27+00:00"
-        },
-        {
           "title": "Qwen3.6-Plus: Towards real world agents",
           "url": "https://qwen.ai/blog?id=qwen3.6",
-          "score": 506,
+          "score": 511,
           "source": "hn",
           "severity": null,
           "date": "2026-04-02T14:28:52+00:00"
@@ -68,8 +68,32 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 10,
       "top_items": [
+        {
+          "title": "Struts1入門まとめ｜基本構造・つまずきポイント",
+          "url": "https://qiita.com/w_pechi/items/55647422c8ba22bbdab5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-03T15:38:27+09:00"
+        },
+        {
+          "title": "“作業者”で終わらないために｜未経験エンジニアが最初に変えるべき考え方",
+          "url": "https://qiita.com/prum_hitomi/items/406b35769eec8c0ce0f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-03T12:28:57+09:00"
+        },
+        {
+          "title": "【35歳未経験でも理解できた】WWWの基礎",
+          "url": "https://qiita.com/wata-sho/items/1c443b123080dcd994f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-03T10:21:16+09:00"
+        },
         {
           "title": "新卒、焦らなくていいよ。不出来と思われたくなくて空回りした私より。",
           "url": "https://qiita.com/kimuchi_a/items/2e018c98e35752dae179?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,28 +103,12 @@
           "date": "2026-04-03T00:19:55+09:00"
         },
         {
-          "title": "ハードコーディングからプロジェクトの共通処理や独自ライブラリに対する知識の重要性を学んだお話",
-          "url": "https://qiita.com/km23/items/751c75868893e7fa9ec2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Vibe Coding、最初は速い。でも後半で急にしんどくなる",
+          "url": "https://qiita.com/engchina/items/2b28f629ea2daab701cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-02T18:34:41+09:00"
-        },
-        {
-          "title": "「動くコード」と「読めるコード」の違いをBefore/Afterで見る",
-          "url": "https://qiita.com/S_kamon/items/06c50c5a2eed33b96a8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-02T18:18:29+09:00"
-        },
-        {
-          "title": "【Excel】よく使う便利な関数まとめ（初級編）",
-          "url": "https://qiita.com/yuto-vj/items/0a7546befe9091348d40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-02T18:04:39+09:00"
+          "date": "2026-04-02T23:57:33+09:00"
         }
       ]
     }
