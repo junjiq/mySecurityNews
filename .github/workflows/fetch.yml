@@ -8,19 +8,18 @@ name: Fetch SE News
 #  - GITHUB_TOKEN は最小権限 (contents: write のみ)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-on:
-  schedule:
-    - cron: '0,30 * * * *'   # 毎時0分・30分
-  workflow_dispatch:           # 手動実行
+name: Fetch SE News (manual only)
 
-# ── 最小権限 ──────────────────────────
+on:
+  workflow_dispatch
+
 permissions:
-  contents: write              # data/news.json のコミットのみ
+  contents: write
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 15        # 暴走防止
+    timeout-minutes: 15
 
     steps:
       - name: Checkout
@@ -34,13 +33,10 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests feedparser
-          # ネットワーク確認（デバッグ用）
           python -c "import requests; print('requests OK')"
 
       - name: Fetch news
         env:
-          # GITHUB_TOKEN は自動付与（Secretsに設定不要）
-          # 外部APIキーは一切使用しない
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/fetch_news.py
 
@@ -49,7 +45,6 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/news.json
-          # 変更がある場合のみコミット
           git diff --cached --quiet || \
             git commit -m "data: update news $(date -u '+%Y-%m-%d %H:%M') UTC"
           git push
