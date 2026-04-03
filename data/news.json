@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T12:48:05.292685+00:00",
+  "updated_at": "2026-04-03T13:29:51.052482+00:00",
   "count": 500,
   "items": [
     {
@@ -7,8 +7,8 @@
       "source": "hn",
       "title": "Show HN: I built a frontpage for personal blogs",
       "url": "https://text.blogosphere.app/",
-      "score": 12,
-      "comments": 3,
+      "score": 49,
+      "comments": 25,
       "author": "ramkarthikk",
       "tags": [],
       "date": "2026-04-03T12:33:45+00:00"
@@ -29,8 +29,8 @@
       "source": "hn",
       "title": "TDF ejects its core developers",
       "url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
-      "score": 7,
-      "comments": 0,
+      "score": 26,
+      "comments": 16,
       "author": "janvdberg",
       "tags": [],
       "date": "2026-04-03T11:53:32+00:00"
@@ -47,12 +47,23 @@
       "date": "2026-04-03T11:20:28+00:00"
     },
     {
+      "id": "hn-47625366",
+      "source": "hn",
+      "title": "United States Code (federal laws) in Git",
+      "url": "https://github.com/nickvido/us-code",
+      "score": 8,
+      "comments": 1,
+      "author": "nickvido",
+      "tags": [],
+      "date": "2026-04-03T11:18:10+00:00"
+    },
+    {
       "id": "hn-47625311",
       "source": "hn",
       "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
       "url": "https://github.com/oven-sh/bun/pull/28801",
-      "score": 4,
-      "comments": 0,
+      "score": 8,
+      "comments": 1,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-03T11:09:58+00:00"
@@ -60,10 +71,10 @@
     {
       "id": "hn-47625244",
       "source": "hn",
-      "title": "'Fatal decision': EU slammed for caving to US pressure on digital rules",
+      "title": "Critics say EU risks ceding control of its tech laws under U.S. pressure",
       "url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
-      "score": 67,
-      "comments": 36,
+      "score": 87,
+      "comments": 49,
       "author": "nickslaughter02",
       "tags": [],
       "date": "2026-04-03T10:58:51+00:00"
@@ -95,8 +106,8 @@
       "source": "hn",
       "title": "NHS staff refusing to use FDP over Palantir ethical concerns",
       "url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
-      "score": 123,
-      "comments": 29,
+      "score": 142,
+      "comments": 42,
       "author": "chrisjj",
       "tags": [],
       "date": "2026-04-03T09:36:33+00:00"
@@ -106,8 +117,8 @@
       "source": "hn",
       "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
       "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-      "score": 71,
-      "comments": 24,
+      "score": 101,
+      "comments": 31,
       "author": "greenstevester",
       "tags": [],
       "date": "2026-04-03T09:35:16+00:00"
@@ -117,8 +128,8 @@
       "source": "hn",
       "title": "Show HN: Apfel – The free AI already on your Mac",
       "url": "https://apfel.franzai.com",
-      "score": 205,
-      "comments": 30,
+      "score": 297,
+      "comments": 57,
       "author": "franze",
       "tags": [],
       "date": "2026-04-03T09:15:34+00:00"
@@ -139,8 +150,8 @@
       "source": "hn",
       "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
       "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
-      "score": 60,
-      "comments": 4,
+      "score": 77,
+      "comments": 5,
       "author": "01-_-",
       "tags": [],
       "date": "2026-04-03T08:15:12+00:00"
@@ -354,8 +365,8 @@
       "source": "hn",
       "title": "Tailscale's new macOS home",
       "url": "https://tailscale.com/blog/macos-notch-escape",
-      "score": 490,
-      "comments": 240,
+      "score": 494,
+      "comments": 245,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-02T18:22:03+00:00"
@@ -398,8 +409,8 @@
       "source": "hn",
       "title": "Cursor 3",
       "url": "https://cursor.com/blog/cursor-3",
-      "score": 453,
-      "comments": 340,
+      "score": 464,
+      "comments": 343,
       "author": "adamfeldman",
       "tags": [],
       "date": "2026-04-02T18:13:41+00:00"
@@ -409,8 +420,8 @@
       "source": "hn",
       "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
       "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-      "score": 285,
-      "comments": 131,
+      "score": 290,
+      "comments": 134,
       "author": "sedev",
       "tags": [],
       "date": "2026-04-02T17:29:03+00:00"
@@ -475,7 +486,7 @@
       "source": "hn",
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 1566,
+      "score": 1588,
       "comments": 423,
       "author": "jeffmcjunkin",
       "tags": [],
@@ -486,8 +497,8 @@
       "source": "hn",
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
       "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "score": 892,
-      "comments": 390,
+      "score": 925,
+      "comments": 409,
       "author": "axelriet",
       "tags": [],
       "date": "2026-04-02T16:00:27+00:00"
@@ -601,8 +612,8 @@
       "source": "hn",
       "title": "Qwen3.6-Plus: Towards real world agents",
       "url": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 552,
-      "comments": 188,
+      "score": 558,
+      "comments": 189,
       "author": "pretext",
       "tags": [],
       "date": "2026-04-02T14:28:52+00:00"
@@ -623,8 +634,8 @@
       "source": "hn",
       "title": "LinkedIn is searching your browser extensions",
       "url": "https://browsergate.eu/",
-      "score": 1777,
-      "comments": 722,
+      "score": 1796,
+      "comments": 728,
       "author": "digitalWestie",
       "tags": [],
       "date": "2026-04-02T13:09:09+00:00"
@@ -1105,8 +1116,8 @@
       "source": "hn",
       "title": "Artemis II's toilet is a moon mission milestone",
       "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
-      "score": 273,
-      "comments": 120,
+      "score": 283,
+      "comments": 125,
       "author": "1659447091",
       "tags": [],
       "date": "2026-04-02T02:37:12+00:00"
@@ -1848,7 +1859,7 @@
       "source": "hn",
       "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
       "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
-      "score": 147,
+      "score": 150,
       "comments": 48,
       "author": "gaigalas",
       "tags": [],
@@ -3551,8 +3562,8 @@
       "source": "hn",
       "title": "Intel Assured Supply Chain Product Brief",
       "url": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html",
-      "score": 11,
-      "comments": 1,
+      "score": 15,
+      "comments": 0,
       "author": "aw-engineer",
       "tags": [],
       "date": "2026-03-30T13:00:09+00:00"
@@ -4329,8 +4340,8 @@
       "source": "hn",
       "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
       "url": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
-      "score": 21,
-      "comments": 4,
+      "score": 43,
+      "comments": 10,
       "author": "chalmovsky",
       "tags": [],
       "date": "2026-03-29T20:55:46+00:00"
@@ -4884,8 +4895,8 @@
       "source": "hn",
       "title": "The True Shape of Io's Steeple Mountain",
       "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-      "score": 72,
-      "comments": 1,
+      "score": 79,
+      "comments": 2,
       "author": "carlosjobim",
       "tags": [],
       "date": "2026-03-29T12:07:24+00:00"
@@ -4972,10 +4983,10 @@
     {
       "id": "hn-47561678",
       "source": "hn",
-      "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
+      "title": "ESP32-S31: Dual-Core RISC-V SoC with Wi-Fi 6, Bluetooth 5.4, and Advanced HMI",
       "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
-      "score": 87,
-      "comments": 48,
+      "score": 100,
+      "comments": 55,
       "author": "topspin",
       "tags": [],
       "date": "2026-03-29T09:39:23+00:00"
@@ -5053,8 +5064,8 @@
       "source": "hn",
       "title": "What Category Theory Teaches Us About DataFrames",
       "url": "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/",
-      "score": 49,
-      "comments": 5,
+      "score": 59,
+      "comments": 8,
       "author": "mchav",
       "tags": [],
       "date": "2026-03-29T08:44:25+00:00"
@@ -5093,12 +5104,23 @@
       "date": "2026-03-29T07:00:48+00:00"
     },
     {
+      "id": "hn-47560967",
+      "source": "hn",
+      "title": "A Recipe for Steganogravy",
+      "url": "https://theo.lol/python/ai/steganography/seo/recipes/2026/03/27/a-recipe-for-steganogravy.html",
+      "score": 4,
+      "comments": 1,
+      "author": "tbrockman",
+      "tags": [],
+      "date": "2026-03-29T06:56:45+00:00"
+    },
+    {
       "id": "hn-47560959",
       "source": "hn",
       "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
       "url": "https://thottingal.in/blog/2026/03/29/home-maker/",
-      "score": 73,
-      "comments": 43,
+      "score": 76,
+      "comments": 45,
       "author": "sthottingal",
       "tags": [],
       "date": "2026-03-29T06:56:04+00:00"
@@ -5139,31 +5161,6 @@
         "Qiita"
       ],
       "date": "2026-03-29T13:27:36+09:00"
-    },
-    {
-      "id": "hn-47560380",
-      "source": "hn",
-      "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
-      "url": "https://github.com/openyak/desktop",
-      "score": 77,
-      "comments": 28,
-      "author": "wangzhangwu",
-      "tags": [],
-      "date": "2026-03-29T04:26:13+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-f7aac32a88",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "データアナリスト3年目が語る「教科書に載ってない」現場のリアル",
-      "url": "https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ktdatascience",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-29T12:48:59+09:00"
     },
     {
       "id": "ctf-3420191",
