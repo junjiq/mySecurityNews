@@ -1,8 +1,8 @@
 {
   "date": "2026-04-03",
-  "generated_at": "2026-04-03T10:46:39.438890+00:00",
-  "total_articles": 58,
-  "urgent_count": 2,
+  "generated_at": "2026-04-03T11:16:52.516799+00:00",
+  "total_articles": 54,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Delve allegedly forked an open-source tool and sold it as its own",
@@ -10,24 +10,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-02T15:03:08+00:00"
-    },
-    {
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "url": "https://lemonade-server.ai",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-02T11:04:51+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 48,
       "top_items": [
         {
           "title": "LinkedIn is searching your browser extensions",
           "url": "https://browsergate.eu/",
-          "score": 1758,
+          "score": 1762,
           "source": "hn",
           "severity": null,
           "date": "2026-04-02T13:09:09+00:00"
@@ -35,7 +28,7 @@
         {
           "title": "Google releases Gemma 4 open models",
           "url": "https://deepmind.google/models/gemma/gemma-4/",
-          "score": 1509,
+          "score": 1520,
           "source": "hn",
           "severity": null,
           "date": "2026-04-02T16:10:54+00:00"
@@ -43,32 +36,32 @@
         {
           "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
           "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-          "score": 801,
+          "score": 828,
           "source": "hn",
           "severity": null,
           "date": "2026-04-02T16:00:27+00:00"
         },
         {
-          "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-          "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-          "score": 691,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-02T10:50:00+00:00"
-        },
-        {
           "title": "Qwen3.6-Plus: Towards real world agents",
           "url": "https://qwen.ai/blog?id=qwen3.6",
-          "score": 535,
+          "score": 538,
           "source": "hn",
           "severity": null,
           "date": "2026-04-02T14:28:52+00:00"
+        },
+        {
+          "title": "Tailscale's new macOS home",
+          "url": "https://tailscale.com/blog/macos-notch-escape",
+          "score": 471,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-02T18:22:03+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "Struts1入門まとめ｜基本構造・つまずきポイント",
