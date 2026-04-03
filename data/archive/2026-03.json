@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-04-03T01:01:42.440568+00:00",
-  "total_articles": 293,
+  "generated_at": "2026-04-03T02:17:58.137118+00:00",
+  "total_articles": 291,
   "source_counts": {
-    "hn": 230,
+    "hn": 228,
     "zennqiita": 61,
     "project": 2
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 12,
     "high": 1,
     "medium": 1
   },
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-03-29T08:59:05+09:00"
-    },
-    {
-      "title": "OpenCiv1 – open-source rewrite of Civ1",
-      "url": "https://github.com/rajko-horvat/OpenCiv1",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-28T18:22:45+00:00"
     }
   ]
 }
