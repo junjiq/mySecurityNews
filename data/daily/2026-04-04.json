@@ -1,9 +1,17 @@
 {
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T00:55:54.034705+00:00",
-  "total_articles": 68,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-04-04T01:36:36.378497+00:00",
+  "total_articles": 67,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "OpenClaw privilege escalation vulnerability",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-03T16:21:32+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
@@ -12,7 +20,7 @@
         {
           "title": "Show HN: I built a frontpage for personal blogs",
           "url": "https://text.blogosphere.app/",
-          "score": 640,
+          "score": 650,
           "source": "hn",
           "severity": null,
           "date": "2026-04-03T12:33:45+00:00"
@@ -28,32 +36,32 @@
         {
           "title": "Artemis II crew take “spectacular” image of Earth",
           "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-          "score": 460,
+          "score": 485,
           "source": "hn",
           "severity": null,
           "date": "2026-04-03T19:35:02+00:00"
         },
         {
-          "title": "F-15E jet shot down over Iran",
-          "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-          "score": 354,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-03T16:00:44+00:00"
-        },
-        {
           "title": "Oracle Files H-1B Visa Petitions Amid Mass Layoffs",
           "url": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
-          "score": 349,
+          "score": 378,
           "source": "hn",
           "severity": null,
           "date": "2026-04-03T20:21:23+00:00"
+        },
+        {
+          "title": "F-15E jet shot down over Iran",
+          "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
+          "score": 369,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-03T16:00:44+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "Axiosサプライチェーン攻撃の手口をPostmortemで読んだら、まるでルパン三世だった",

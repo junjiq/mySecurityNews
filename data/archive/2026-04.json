@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-04T00:55:54.070912+00:00",
+  "generated_at": "2026-04-04T01:36:36.419980+00:00",
   "total_articles": 237,
   "source_counts": {
     "hn": 188,
@@ -8,6 +8,7 @@
   },
   "severity_counts": {
     "medium": 3,
+    "high": 1,
     "critical": 6
   },
   "top_articles": [
@@ -56,7 +57,7 @@
     {
       "title": "Show HN: I built a frontpage for personal blogs",
       "url": "https://text.blogosphere.app/",
-      "score": 640,
+      "score": 650,
       "source": "hn",
       "date": "2026-04-03T12:33:45+00:00"
     },
@@ -110,6 +111,13 @@
       "date": "2026-04-02T18:13:41+00:00"
     },
     {
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "score": 485,
+      "source": "hn",
+      "date": "2026-04-03T19:35:02+00:00"
+    },
+    {
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
       "url": "https://lemonade-server.ai",
       "score": 462,
@@ -117,18 +125,18 @@
       "date": "2026-04-02T11:04:51+00:00"
     },
     {
-      "title": "Artemis II crew take “spectacular” image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 460,
-      "source": "hn",
-      "date": "2026-04-03T19:35:02+00:00"
-    },
-    {
       "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
       "url": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
       "score": 403,
       "source": "hn",
       "date": "2026-04-02T15:08:45+00:00"
+    },
+    {
+      "title": "Oracle Files H-1B Visa Petitions Amid Mass Layoffs",
+      "url": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
+      "score": 378,
+      "source": "hn",
+      "date": "2026-04-03T20:21:23+00:00"
     },
     {
       "title": "CERN levels up with new superconducting karts",
@@ -140,19 +148,19 @@
     {
       "title": "F-15E jet shot down over Iran",
       "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-      "score": 354,
+      "score": 369,
       "source": "hn",
       "date": "2026-04-03T16:00:44+00:00"
-    },
-    {
-      "title": "Oracle Files H-1B Visa Petitions Amid Mass Layoffs",
-      "url": "https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/",
-      "score": 349,
-      "source": "hn",
-      "date": "2026-04-03T20:21:23+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "OpenClaw privilege escalation vulnerability",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-03T16:21:32+00:00"
+    },
     {
       "title": "Delve allegedly forked an open-source tool and sold it as its own",
       "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
