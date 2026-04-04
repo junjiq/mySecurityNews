@@ -1,16 +1,16 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-04T22:07:13.251817+00:00",
-  "total_articles": 303,
+  "generated_at": "2026-04-04T22:43:35.306162+00:00",
+  "total_articles": 304,
   "source_counts": {
-    "hn": 234,
+    "hn": 235,
     "zennqiita": 68,
     "project": 1
   },
   "severity_counts": {
+    "critical": 7,
     "high": 3,
-    "medium": 3,
-    "critical": 6
+    "medium": 3
   },
   "top_articles": [
     {
@@ -72,7 +72,7 @@
     {
       "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
       "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "score": 639,
+      "score": 675,
       "source": "hn",
       "date": "2026-04-04T14:48:26+00:00"
     },
@@ -140,21 +140,28 @@
       "date": "2026-04-03T17:22:20+00:00"
     },
     {
+      "title": "Embarrassingly simple self-distillation improves code generation",
+      "url": "https://arxiv.org/abs/2604.01193",
+      "score": 494,
+      "source": "hn",
+      "date": "2026-04-04T10:26:21+00:00"
+    },
+    {
       "title": "OpenClaw privilege escalation vulnerability",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
       "score": 485,
       "source": "hn",
       "date": "2026-04-03T16:21:32+00:00"
-    },
-    {
-      "title": "Embarrassingly simple self-distillation improves code generation",
-      "url": "https://arxiv.org/abs/2604.01193",
-      "score": 479,
-      "source": "hn",
-      "date": "2026-04-04T10:26:21+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-04T20:48:56+00:00"
+    },
     {
       "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
       "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",

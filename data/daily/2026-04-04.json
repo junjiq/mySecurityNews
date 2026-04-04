@@ -1,9 +1,16 @@
 {
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T22:07:13.208467+00:00",
-  "total_articles": 47,
-  "urgent_count": 1,
+  "generated_at": "2026-04-04T22:43:35.264511+00:00",
+  "total_articles": 45,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Microsoft to force updates to Windows 11 25H2 for PCs with older OS versions",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-forces-updates-to-windows-11-25h2-update-for-pcs-running-on-24h2",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-04T20:48:56+00:00"
+    },
     {
       "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
       "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 39,
       "top_items": [
         {
           "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
           "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-          "score": 639,
+          "score": 675,
           "source": "hn",
           "severity": null,
           "date": "2026-04-04T14:48:26+00:00"
@@ -28,10 +35,18 @@
         {
           "title": "Embarrassingly simple self-distillation improves code generation",
           "url": "https://arxiv.org/abs/2604.01193",
-          "score": 479,
+          "score": 494,
           "source": "hn",
           "severity": null,
           "date": "2026-04-04T10:26:21+00:00"
+        },
+        {
+          "title": "Show HN: A game where you build a GPU",
+          "url": "https://jaso1024.com/mvidia/",
+          "score": 389,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-04T16:45:54+00:00"
         },
         {
           "title": "Delve removed from Y Combinator",
@@ -48,14 +63,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-03T23:56:32+00:00"
-        },
-        {
-          "title": "Show HN: A game where you build a GPU",
-          "url": "https://jaso1024.com/mvidia/",
-          "score": 368,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-04T16:45:54+00:00"
         }
       ]
     },
