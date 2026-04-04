@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-04-04T11:41:34.538651+00:00",
-  "total_articles": 190,
+  "generated_at": "2026-04-04T12:11:45.080374+00:00",
+  "total_articles": 186,
   "source_counts": {
-    "hn": 152,
-    "zennqiita": 36,
+    "hn": 150,
+    "zennqiita": 34,
     "project": 2
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 8,
     "high": 1
   },
   "top_articles": [
@@ -216,13 +216,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-30T07:34:04+00:00"
-    },
-    {
-      "title": "DoesItAgeVerify: The age verification status of Open Source Operating Systems",
-      "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-30T00:52:06+00:00"
     }
   ]
 }
