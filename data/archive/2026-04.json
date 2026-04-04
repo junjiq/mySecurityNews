@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-04T23:09:04.475659+00:00",
-  "total_articles": 306,
+  "generated_at": "2026-04-04T23:42:55.351552+00:00",
+  "total_articles": 308,
   "source_counts": {
-    "hn": 237,
+    "hn": 239,
     "zennqiita": 68,
     "project": 1
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "high": 3,
     "medium": 3
   },
@@ -126,18 +126,18 @@
       "date": "2026-04-02T18:22:03+00:00"
     },
     {
+      "title": "Embarrassingly simple self-distillation improves code generation",
+      "url": "https://arxiv.org/abs/2604.01193",
+      "score": 516,
+      "source": "hn",
+      "date": "2026-04-04T10:26:21+00:00"
+    },
+    {
       "title": "Cursor 3",
       "url": "https://cursor.com/blog/cursor-3",
       "score": 506,
       "source": "hn",
       "date": "2026-04-02T18:13:41+00:00"
-    },
-    {
-      "title": "Embarrassingly simple self-distillation improves code generation",
-      "url": "https://arxiv.org/abs/2604.01193",
-      "score": 504,
-      "source": "hn",
-      "date": "2026-04-04T10:26:21+00:00"
     },
     {
       "title": "iNaturalist",
@@ -231,6 +231,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-01T01:58:45+00:00"
+    },
+    {
+      "title": "OpenScreen is an open-source alternative to Screen Studio",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-01T01:31:46+00:00"
     }
   ]
 }
