@@ -1,9 +1,16 @@
 {
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T10:10:44.499585+00:00",
-  "total_articles": 60,
-  "urgent_count": 1,
+  "generated_at": "2026-04-04T10:45:07.291534+00:00",
+  "total_articles": 61,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-03T23:46:51+00:00"
+    },
     {
       "title": "OpenClaw privilege escalation vulnerability",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 56,
       "top_items": [
         {
           "title": "Artemis II crew take “spectacular” image of Earth",
           "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-          "score": 771,
+          "score": 784,
           "source": "hn",
           "severity": null,
           "date": "2026-04-03T19:35:02+00:00"
@@ -36,7 +43,7 @@
         {
           "title": "F-15E jet shot down over Iran",
           "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-          "score": 489,
+          "score": 495,
           "source": "hn",
           "severity": null,
           "date": "2026-04-03T16:00:44+00:00"
@@ -52,7 +59,7 @@
         {
           "title": "iNaturalist",
           "url": "https://www.inaturalist.org/",
-          "score": 428,
+          "score": 435,
           "source": "hn",
           "severity": null,
           "date": "2026-04-03T17:22:20+00:00"

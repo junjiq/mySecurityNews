@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-04T10:10:44.623675+00:00",
-  "total_articles": 259,
+  "generated_at": "2026-04-04T10:45:07.332731+00:00",
+  "total_articles": 260,
   "source_counts": {
-    "hn": 200,
+    "hn": 201,
     "zennqiita": 59
   },
   "severity_counts": {
+    "high": 2,
     "medium": 3,
-    "high": 1,
     "critical": 6
   },
   "top_articles": [
@@ -50,7 +50,7 @@
     {
       "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 771,
+      "score": 784,
       "source": "hn",
       "date": "2026-04-03T19:35:02+00:00"
     },
@@ -120,7 +120,7 @@
     {
       "title": "F-15E jet shot down over Iran",
       "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-      "score": 489,
+      "score": 495,
       "source": "hn",
       "date": "2026-04-03T16:00:44+00:00"
     },
@@ -141,7 +141,7 @@
     {
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "score": 428,
+      "score": 435,
       "source": "hn",
       "date": "2026-04-03T17:22:20+00:00"
     },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-03T23:46:51+00:00"
+    },
     {
       "title": "OpenClaw privilege escalation vulnerability",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
