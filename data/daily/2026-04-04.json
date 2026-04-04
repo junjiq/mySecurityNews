@@ -1,8 +1,8 @@
 {
   "date": "2026-04-04",
-  "generated_at": "2026-04-04T16:09:42.177471+00:00",
-  "total_articles": 52,
-  "urgent_count": 2,
+  "generated_at": "2026-04-04T16:45:20.479347+00:00",
+  "total_articles": 53,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
@@ -10,24 +10,17 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-04-03T23:46:51+00:00"
-    },
-    {
-      "title": "OpenClaw privilege escalation vulnerability",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-04-03T16:21:32+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 50,
       "top_items": [
         {
           "title": "Artemis II crew take “spectacular” image of Earth",
           "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-          "score": 909,
+          "score": 915,
           "source": "hn",
           "severity": null,
           "date": "2026-04-03T19:35:02+00:00"
@@ -35,7 +28,7 @@
         {
           "title": "iNaturalist",
           "url": "https://www.inaturalist.org/",
-          "score": 491,
+          "score": 493,
           "source": "hn",
           "severity": null,
           "date": "2026-04-03T17:22:20+00:00"
@@ -49,20 +42,20 @@
           "date": "2026-04-03T20:21:23+00:00"
         },
         {
-          "title": "OpenClaw privilege escalation vulnerability",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-          "score": 469,
-          "source": "hn",
-          "severity": "high",
-          "date": "2026-04-03T16:21:32+00:00"
-        },
-        {
           "title": "Delve removed from Y Combinator",
           "url": "https://www.ycombinator.com/companies/delve",
           "score": 384,
           "source": "hn",
           "severity": null,
           "date": "2026-04-04T01:37:02+00:00"
+        },
+        {
+          "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
+          "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+          "score": 371,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-03T23:56:32+00:00"
         }
       ]
     },

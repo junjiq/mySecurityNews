@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-04-04T16:09:42.120209+00:00",
+  "updated_at": "2026-04-04T16:45:20.415098+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47640431",
+      "source": "hn",
+      "title": "What life looks like on the most remote inhabited island",
+      "url": "https://apps.npr.org/life-on-tristan-da-cunha/",
+      "score": 5,
+      "comments": 1,
+      "author": "brightbeige",
+      "tags": [],
+      "date": "2026-04-04T16:20:54+00:00"
+    },
     {
       "id": "ghrel-chroma-core_chroma-305297593",
       "source": "project",
@@ -21,19 +32,30 @@
       "source": "hn",
       "title": "German men 18-45 need military permit to leave country for longer than 3 months",
       "url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677",
-      "score": 15,
-      "comments": 2,
+      "score": 110,
+      "comments": 64,
       "author": "L_226",
       "tags": [],
       "date": "2026-04-04T15:39:10+00:00"
+    },
+    {
+      "id": "hn-47639779",
+      "source": "hn",
+      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "url": "https://sllm.cloud",
+      "score": 4,
+      "comments": 0,
+      "author": "jrandolf",
+      "tags": [],
+      "date": "2026-04-04T15:18:58+00:00"
     },
     {
       "id": "hn-47639567",
       "source": "hn",
       "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
       "url": "https://github.com/teamchong/turboquant-wasm",
-      "score": 11,
-      "comments": 0,
+      "score": 25,
+      "comments": 1,
       "author": "teamchong",
       "tags": [],
       "date": "2026-04-04T14:53:16+00:00"
@@ -43,8 +65,8 @@
       "source": "hn",
       "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
       "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "score": 179,
-      "comments": 95,
+      "score": 240,
+      "comments": 171,
       "author": "macleginn",
       "tags": [],
       "date": "2026-04-04T14:48:26+00:00"
@@ -54,8 +76,8 @@
       "source": "hn",
       "title": "The Indie Internet Index – submit your favorite sites",
       "url": "https://iii.social",
-      "score": 5,
-      "comments": 0,
+      "score": 12,
+      "comments": 1,
       "author": "freshman_dev",
       "tags": [],
       "date": "2026-04-04T14:18:06+00:00"
@@ -65,8 +87,8 @@
       "source": "hn",
       "title": "Components of a Coding Agent",
       "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-      "score": 26,
-      "comments": 2,
+      "score": 35,
+      "comments": 8,
       "author": "MindGods",
       "tags": [],
       "date": "2026-04-04T13:16:33+00:00"
@@ -109,8 +131,8 @@
       "source": "hn",
       "title": "Simple self-distillation improves code generation",
       "url": "https://arxiv.org/abs/2604.01193",
-      "score": 301,
-      "comments": 90,
+      "score": 323,
+      "comments": 97,
       "author": "Anon84",
       "tags": [],
       "date": "2026-04-04T10:26:21+00:00"
@@ -120,8 +142,8 @@
       "source": "hn",
       "title": "Some Unusual Trees",
       "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-      "score": 139,
-      "comments": 40,
+      "score": 149,
+      "comments": 45,
       "author": "simplegeek",
       "tags": [],
       "date": "2026-04-04T09:04:19+00:00"
@@ -243,8 +265,8 @@
       "source": "hn",
       "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
       "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-      "score": 200,
-      "comments": 121,
+      "score": 211,
+      "comments": 130,
       "author": "eichin",
       "tags": [],
       "date": "2026-04-03T23:46:51+00:00",
@@ -288,8 +310,8 @@
       "source": "hn",
       "title": "Run Linux containers on Android, no root required",
       "url": "https://github.com/ExTV/Podroid",
-      "score": 185,
-      "comments": 62,
+      "score": 187,
+      "comments": 67,
       "author": "politelemon",
       "tags": [],
       "date": "2026-04-03T22:23:55+00:00"
@@ -411,8 +433,8 @@
       "source": "hn",
       "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 909,
-      "comments": 312,
+      "score": 915,
+      "comments": 318,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-04-03T19:35:02+00:00"
@@ -533,8 +555,8 @@
       "source": "hn",
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "score": 491,
-      "comments": 115,
+      "score": 493,
+      "comments": 117,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-04-03T17:22:20+00:00"
@@ -577,7 +599,7 @@
       "source": "hn",
       "title": "OpenClaw privilege escalation vulnerability",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-      "score": 469,
+      "score": 476,
       "comments": 220,
       "author": "kykeonaut",
       "tags": [],
@@ -1044,8 +1066,8 @@
       "source": "hn",
       "title": "The Technocracy Movement of the 1930s",
       "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
-      "score": 148,
-      "comments": 114,
+      "score": 149,
+      "comments": 116,
       "author": "lazydogbrownfox",
       "tags": [],
       "date": "2026-04-03T02:29:22+00:00"
@@ -1237,7 +1259,7 @@
       "source": "hn",
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
       "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "score": 362,
+      "score": 366,
       "comments": 141,
       "author": "denssumesh",
       "tags": [],
@@ -2117,8 +2139,8 @@
       "source": "hn",
       "title": "Why LLM-Generated Passwords Are Dangerously Insecure",
       "url": "https://www.irregular.com/publications/vibe-password-generation",
-      "score": 5,
-      "comments": 0,
+      "score": 12,
+      "comments": 6,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-02T00:39:53+00:00"
@@ -2541,7 +2563,7 @@
       "source": "hn",
       "title": "The smallest ELF executable (2021)",
       "url": "https://nathanotterness.com/2021/10/tiny_elf_modernized.html",
-      "score": 19,
+      "score": 22,
       "comments": 0,
       "author": "michelangelo",
       "tags": [],
@@ -2587,8 +2609,8 @@
       "source": "hn",
       "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
       "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
-      "score": 84,
-      "comments": 31,
+      "score": 94,
+      "comments": 33,
       "author": "dbreunig",
       "tags": [],
       "date": "2026-04-01T14:13:34+00:00"
@@ -2939,8 +2961,8 @@
       "source": "hn",
       "title": "The most-disliked people in the publishing industry",
       "url": "https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing",
-      "score": 57,
-      "comments": 20,
+      "score": 62,
+      "comments": 22,
       "author": "Caiero",
       "tags": [],
       "date": "2026-04-01T06:04:12+00:00"
@@ -2950,8 +2972,8 @@
       "source": "hn",
       "title": "Improving my focus by giving up my big monitor",
       "url": "https://ounapuu.ee/posts/2026/04/01/focus/",
-      "score": 148,
-      "comments": 155,
+      "score": 153,
+      "comments": 158,
       "author": "Fudgel",
       "tags": [],
       "date": "2026-04-01T05:28:59+00:00"
@@ -3660,7 +3682,7 @@
       "source": "hn",
       "title": "Herbie: Automatically improve imprecise floating point formulas",
       "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
-      "score": 172,
+      "score": 175,
       "comments": 33,
       "author": "summarity",
       "tags": [],
@@ -5141,32 +5163,6 @@
         "Qiita"
       ],
       "date": "2026-03-30T12:04:11+09:00"
-    },
-    {
-      "id": "qiita-11fd96cb70",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIロックマンエグゼに相棒度テストをふっかけてみた",
-      "url": "https://qiita.com/N_H_tennis/items/9256b6e2acc0155aa944?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "N_H_tennis",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-30T11:55:31+09:00"
-    },
-    {
-      "id": "qiita-13833b8fe1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIにロックマンエグゼになり切ってもらい一緒に開発してる話",
-      "url": "https://qiita.com/N_H_tennis/items/48f13332305338720524?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "N_H_tennis",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-03-30T11:55:29+09:00"
     },
     {
       "id": "ctf-3420191",
