@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-04T20:07:29.999136+00:00",
-  "total_articles": 290,
+  "generated_at": "2026-04-04T20:44:49.162533+00:00",
+  "total_articles": 301,
   "source_counts": {
-    "hn": 230,
-    "zennqiita": 59,
+    "hn": 232,
+    "zennqiita": 68,
     "project": 1
   },
   "severity_counts": {
-    "high": 2,
+    "high": 3,
     "medium": 3,
     "critical": 6
   },
@@ -98,6 +98,13 @@
       "date": "2026-04-02T14:28:52+00:00"
     },
     {
+      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "score": 559,
+      "source": "hn",
+      "date": "2026-04-04T14:48:26+00:00"
+    },
+    {
       "title": "F-15E jet shot down over Iran",
       "url": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
       "score": 554,
@@ -117,13 +124,6 @@
       "score": 529,
       "source": "hn",
       "date": "2026-04-02T18:22:03+00:00"
-    },
-    {
-      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "score": 523,
-      "source": "hn",
-      "date": "2026-04-04T14:48:26+00:00"
     },
     {
       "title": "Cursor 3",
@@ -189,6 +189,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-01T22:32:04+00:00"
+    },
+    {
+      "title": "Csp-toolkit – Python library to parse, analyze, and find bypasses in CSP headers",
+      "url": "https://chs.us/2026/03/csp-toolkit/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-01T14:37:50+00:00"
     },
     {
       "title": "AI has suddenly become more useful to open-source developers",

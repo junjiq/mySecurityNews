@@ -1,14 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-04-04T20:07:29.999136+00:00",
-  "total_articles": 163,
+  "generated_at": "2026-04-04T20:44:49.162533+00:00",
+  "total_articles": 152,
   "source_counts": {
-    "hn": 139,
-    "zennqiita": 22,
+    "hn": 132,
+    "zennqiita": 18,
     "project": 2
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 7,
     "high": 1
   },
   "top_articles": [
@@ -209,13 +209,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-03-30T18:43:38+00:00"
-    },
-    {
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "url": "https://dani2442.github.io/posts/continuous-rl/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-30T07:34:04+00:00"
     }
   ]
 }
