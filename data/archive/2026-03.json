@@ -1,23 +1,16 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-04-05T20:07:58.883182+00:00",
-  "total_articles": 63,
+  "generated_at": "2026-04-05T20:45:05.133150+00:00",
+  "total_articles": 55,
   "source_counts": {
-    "hn": 52,
-    "zennqiita": 9,
+    "hn": 48,
+    "zennqiita": 5,
     "project": 2
   },
   "severity_counts": {
-    "critical": 6
+    "critical": 3
   },
   "top_articles": [
-    {
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1855,
-      "source": "hn",
-      "date": "2026-03-31T09:00:40+00:00"
-    },
     {
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
@@ -110,13 +103,6 @@
       "date": "2026-03-31T12:11:29+00:00"
     },
     {
-      "title": "Fast and Gorgeous Erosion Filter",
-      "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
-      "score": 193,
-      "source": "hn",
-      "date": "2026-03-31T08:41:24+00:00"
-    },
-    {
       "title": "Cohere Transcribe: Speech Recognition",
       "url": "https://cohere.com/blog/transcribe",
       "score": 187,
@@ -150,6 +136,20 @@
       "score": 103,
       "source": "hn",
       "date": "2026-03-31T19:46:43+00:00"
+    },
+    {
+      "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+      "url": "https://github.com/timescale/pg_textsearch",
+      "score": 101,
+      "source": "hn",
+      "date": "2026-03-31T16:29:52+00:00"
+    },
+    {
+      "title": "Italy blocks US use of Sicily air base for Middle East war",
+      "url": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/",
+      "score": 100,
+      "source": "hn",
+      "date": "2026-03-31T15:39:45+00:00"
     }
   ],
   "security_highlights": [
@@ -173,27 +173,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-31T10:02:34+00:00"
-    },
-    {
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-31T09:00:40+00:00"
-    },
-    {
-      "title": "Closed Source AI = Neofeudalism",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-31T08:29:24+00:00"
-    },
-    {
-      "title": "【緊急】axiosがサプライチェーン攻撃を受けました 今すぐ確認・対処してください（2026/03/31）",
-      "url": "https://qiita.com/kawabe0201/items/b51cd76daa2fec5029f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-03-31T16:13:55+09:00"
     }
   ]
 }
