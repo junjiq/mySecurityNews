@@ -1,7 +1,7 @@
 {
   "date": "2026-04-05",
-  "generated_at": "2026-04-05T07:50:26.956530+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-04-05T08:13:29.021898+00:00",
+  "total_articles": 58,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 48,
       "top_items": [
         {
           "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
@@ -35,31 +35,31 @@
         {
           "title": "Show HN: A game where you build a GPU",
           "url": "https://jaso1024.com/mvidia/",
-          "score": 663,
+          "score": 678,
           "source": "hn",
           "severity": null,
           "date": "2026-04-04T16:45:54+00:00"
         },
         {
-          "title": "Embarrassingly simple self-distillation improves code generation",
-          "url": "https://arxiv.org/abs/2604.01193",
-          "score": 585,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-04T10:26:21+00:00"
-        },
-        {
           "title": "How many products does Microsoft have named 'Copilot'?",
           "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-          "score": 579,
+          "score": 597,
           "source": "hn",
           "severity": null,
           "date": "2026-04-04T19:39:43+00:00"
         },
         {
+          "title": "Embarrassingly simple self-distillation improves code generation",
+          "url": "https://arxiv.org/abs/2604.01193",
+          "score": 587,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-04T10:26:21+00:00"
+        },
+        {
           "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
           "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-          "score": 417,
+          "score": 420,
           "source": "hn",
           "severity": null,
           "date": "2026-04-04T16:16:10+00:00"
@@ -68,8 +68,40 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 9,
       "top_items": [
+        {
+          "title": "FPGAの入出力タイミング制約を可視化するシミュレータを作った",
+          "url": "https://qiita.com/MameMame777/items/9d6e19d36a3f49dc0dae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-05T16:06:35+09:00"
+        },
+        {
+          "title": "新登場の OCI Enterprise AI Agents で MCPを使ったエージェントを作ろう！",
+          "url": "https://qiita.com/yuji-arakawa/items/d97ded3a9321aaeeb042?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-05T14:42:03+09:00"
+        },
+        {
+          "title": "画像AI大全　1-1　AIの全体像",
+          "url": "https://qiita.com/c60evaporator/items/a606c4c3fde199689afc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-05T13:48:34+09:00"
+        },
+        {
+          "title": "「このボタンどこ？」をAIが解決する。AIリアルタイム操作ナビゲーション「Waylume」をリリース",
+          "url": "https://qiita.com/yoshikim1467/items/382bd11e374df6774ec4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-05T13:12:19+09:00"
+        },
         {
           "title": "Vibe Coding、最初は速い。でも後半で急にしんどくなる",
           "url": "https://qiita.com/engchina/items/2b28f629ea2daab701cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -77,22 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-05T08:25:53+09:00"
-        },
-        {
-          "title": "制度の穴が社会を揺らすとき ― 少数の影響が拡大する構造と持続可能な再設計 : Pythonで学ぶ マクロ経済学入門 (68)",
-          "url": "https://qiita.com/maskot1977/items/cb014c2be65c739b645f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-05T00:14:25+09:00"
-        },
-        {
-          "title": "Googleが提唱したDESIGN.mdとは？Claude CodeとDESIGN.mdでデモサイトをいくつか作ってみた",
-          "url": "https://qiita.com/miruky/items/a6312c14e6352376ec00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-04T22:04:01+09:00"
         }
       ]
     },
