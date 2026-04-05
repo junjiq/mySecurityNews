@@ -1,7 +1,7 @@
 {
   "date": "2026-04-05",
-  "generated_at": "2026-04-05T12:11:32.264023+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-04-05T12:47:22.475090+00:00",
+  "total_articles": 62,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,15 +36,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 52,
       "top_items": [
         {
           "title": "Show HN: A game where you build a GPU",
           "url": "https://jaso1024.com/mvidia/",
-          "score": 795,
+          "score": 808,
           "source": "hn",
           "severity": null,
           "date": "2026-04-04T16:45:54+00:00"
+        },
+        {
+          "title": "How many products does Microsoft have named 'Copilot'?",
+          "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+          "score": 694,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-04T19:39:43+00:00"
         },
         {
           "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
@@ -53,14 +61,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-04T14:48:26+00:00"
-        },
-        {
-          "title": "How many products does Microsoft have named 'Copilot'?",
-          "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-          "score": 685,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-04T19:39:43+00:00"
         },
         {
           "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
@@ -73,7 +73,7 @@
         {
           "title": "German implementation of eIDAS will require an Apple/Google account to function",
           "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-          "score": 344,
+          "score": 363,
           "source": "hn",
           "severity": null,
           "date": "2026-04-04T22:57:44+00:00"
