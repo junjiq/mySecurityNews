@@ -1,7 +1,7 @@
 {
   "date": "2026-04-05",
-  "generated_at": "2026-04-05T19:15:17.448765+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-04-05T19:43:35.521681+00:00",
+  "total_articles": 61,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 56,
       "top_items": [
-        {
-          "title": "How many products does Microsoft have named 'Copilot'?",
-          "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-          "score": 731,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-04T19:39:43+00:00"
-        },
         {
           "title": "The threat is comfortable drift toward not understanding what you're doing",
           "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-          "score": 672,
+          "score": 688,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-05T09:57:25+00:00"
@@ -50,7 +42,7 @@
         {
           "title": "Caveman: Why use many token when few token do trick",
           "url": "https://github.com/JuliusBrussee/caveman",
-          "score": 519,
+          "score": 535,
           "source": "hn",
           "severity": null,
           "date": "2026-04-05T08:56:18+00:00"
@@ -66,10 +58,18 @@
         {
           "title": "Eight years of wanting, three months of building with AI",
           "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-          "score": 363,
+          "score": 391,
           "source": "hn",
           "severity": null,
           "date": "2026-04-05T12:43:47+00:00"
+        },
+        {
+          "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+          "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+          "score": 347,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-05T00:13:55+00:00"
         }
       ]
     },
