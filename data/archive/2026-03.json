@@ -1,23 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-04-05T23:10:14.973204+00:00",
-  "total_articles": 47,
+  "generated_at": "2026-04-05T23:44:36.304766+00:00",
+  "total_articles": 43,
   "source_counts": {
-    "hn": 41,
+    "hn": 37,
     "zennqiita": 4,
     "project": 2
   },
-  "severity_counts": {
-    "critical": 2
-  },
+  "severity_counts": {},
   "top_articles": [
-    {
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 1297,
-      "source": "hn",
-      "date": "2026-03-31T13:04:30+00:00"
-    },
     {
       "title": "Oracle slashes 30k jobs",
       "url": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
@@ -61,13 +52,6 @@
       "date": "2026-03-31T21:01:18+00:00"
     },
     {
-      "title": "Open source CAD in the browser (Solvespace)",
-      "url": "https://solvespace.com/webver.pl",
-      "score": 353,
-      "source": "hn",
-      "date": "2026-03-31T12:50:23+00:00"
-    },
-    {
       "title": "MiniStack (replacement for LocalStack)",
       "url": "https://ministack.org/",
       "score": 283,
@@ -80,13 +64,6 @@
       "score": 275,
       "source": "hn",
       "date": "2026-03-31T14:32:26+00:00"
-    },
-    {
-      "title": "What changes when you turn a Linux box into a router",
-      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-      "score": 200,
-      "source": "hn",
-      "date": "2026-03-31T13:13:20+00:00"
     },
     {
       "title": "Cohere Transcribe: Speech Recognition",
@@ -150,22 +127,28 @@
       "score": 61,
       "source": "hn",
       "date": "2026-03-31T14:08:37+00:00"
-    }
-  ],
-  "security_highlights": [
-    {
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-03-31T13:04:30+00:00"
     },
     {
-      "title": "Open source CAD in the browser (Solvespace)",
-      "url": "https://solvespace.com/webver.pl",
-      "severity": "critical",
+      "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
+      "url": "https://zml.ai/posts/zml-smi/",
+      "score": 61,
       "source": "hn",
-      "date": "2026-03-31T12:50:23+00:00"
+      "date": "2026-03-31T13:29:53+00:00"
+    },
+    {
+      "title": "GitHub has DMCA'd nearly all forks of the official Claude-code repo",
+      "url": "https://github.com/anthropics/claude-code/forks",
+      "score": 39,
+      "source": "hn",
+      "date": "2026-03-31T23:41:42+00:00"
+    },
+    {
+      "title": "Breaking Enigma with Index of Coincidence on a Commodore 64",
+      "url": "https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/",
+      "score": 39,
+      "source": "hn",
+      "date": "2026-03-31T18:16:17+00:00"
     }
-  ]
+  ],
+  "security_highlights": []
 }
