@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-05T13:25:28.378345+00:00",
-  "total_articles": 356,
+  "generated_at": "2026-04-05T13:48:20.881999+00:00",
+  "total_articles": 360,
   "source_counts": {
-    "hn": 277,
+    "hn": 281,
     "zennqiita": 78,
     "project": 1
   },
   "severity_counts": {
+    "critical": 12,
     "medium": 4,
-    "critical": 11,
     "high": 3
   },
   "top_articles": [
@@ -58,14 +58,14 @@
     {
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
-      "score": 821,
+      "score": 825,
       "source": "hn",
       "date": "2026-04-04T16:45:54+00:00"
     },
     {
       "title": "How many products does Microsoft have named 'Copilot'?",
       "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "score": 707,
+      "score": 710,
       "source": "hn",
       "date": "2026-04-04T19:39:43+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Iguanaworks has closed down. USB Infrared hardware open source maker",
+      "url": "http://iguanaworks.net/products/usb-ir-transceiver.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-05T13:18:05+00:00"
+    },
     {
       "title": "Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media",
       "url": "https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/",
