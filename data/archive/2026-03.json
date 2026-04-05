@@ -1,15 +1,14 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-04-05T09:46:04.079932+00:00",
-  "total_articles": 106,
+  "generated_at": "2026-04-05T10:11:12.624257+00:00",
+  "total_articles": 104,
   "source_counts": {
-    "hn": 89,
+    "hn": 87,
     "zennqiita": 15,
     "project": 2
   },
   "severity_counts": {
-    "critical": 7,
-    "high": 1
+    "critical": 7
   },
   "top_articles": [
     {
@@ -202,13 +201,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-03-31T05:39:41+00:00"
-    },
-    {
-      "title": "Vulnerability research is cooked",
-      "url": "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-03-30T18:43:38+00:00"
     }
   ]
 }
