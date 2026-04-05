@@ -1,23 +1,16 @@
 {
   "month": "2026-03",
-  "generated_at": "2026-04-05T16:09:37.166317+00:00",
-  "total_articles": 80,
+  "generated_at": "2026-04-05T16:45:17.636299+00:00",
+  "total_articles": 76,
   "source_counts": {
-    "hn": 67,
-    "zennqiita": 11,
+    "hn": 65,
+    "zennqiita": 9,
     "project": 2
   },
   "severity_counts": {
     "critical": 7
   },
   "top_articles": [
-    {
-      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1863,
-      "source": "hn",
-      "date": "2026-03-31T02:54:17+00:00"
-    },
     {
       "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
       "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
@@ -150,6 +143,13 @@
       "score": 187,
       "source": "hn",
       "date": "2026-03-31T16:27:02+00:00"
+    },
+    {
+      "title": "Herbie: Automatically improve imprecise floating point formulas",
+      "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
+      "score": 183,
+      "source": "hn",
+      "date": "2026-03-31T10:53:52+00:00"
     }
   ],
   "security_highlights": [
