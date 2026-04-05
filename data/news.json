@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T08:13:28.960176+00:00",
+  "updated_at": "2026-04-05T08:46:25.616593+00:00",
   "count": 500,
   "items": [
     {
@@ -20,8 +20,8 @@
       "source": "hn",
       "title": "Lisette a little language inspired by Rust that compiles to Go",
       "url": "https://lisette.run/",
-      "score": 8,
-      "comments": 2,
+      "score": 14,
+      "comments": 7,
       "author": "jspdown",
       "tags": [],
       "date": "2026-04-05T06:57:19+00:00"
@@ -36,6 +36,18 @@
       "author": "S3kshun8",
       "tags": [],
       "date": "2026-04-05T06:29:54+00:00"
+    },
+    {
+      "id": "hn-47646472",
+      "source": "hn",
+      "title": "Aegis – open-source FPGA silicon",
+      "url": "https://github.com/MidstallSoftware/aegis",
+      "score": 8,
+      "comments": 0,
+      "author": "rosscomputerguy",
+      "tags": [],
+      "date": "2026-04-05T05:50:04+00:00",
+      "severity": "critical"
     },
     {
       "id": "qiita-67ce6328bf",
@@ -55,8 +67,8 @@
       "source": "hn",
       "title": "Modern Generic SVGA driver for Windows 3.1",
       "url": "https://github.com/PluMGMK/vbesvga.drv",
-      "score": 24,
-      "comments": 2,
+      "score": 29,
+      "comments": 5,
       "author": "userbinator",
       "tags": [],
       "date": "2026-04-05T05:28:41+00:00"
@@ -147,8 +159,8 @@
       "source": "hn",
       "title": "Introduction to Computer Music (2009) [pdf]",
       "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "score": 132,
-      "comments": 41,
+      "score": 138,
+      "comments": 45,
       "author": "luu",
       "tags": [],
       "date": "2026-04-05T01:54:29+00:00"
@@ -191,8 +203,8 @@
       "source": "hn",
       "title": "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",
       "url": "https://contrapunk.com/",
-      "score": 55,
-      "comments": 18,
+      "score": 61,
+      "comments": 21,
       "author": "waveywaves",
       "tags": [],
       "date": "2026-04-05T00:40:18+00:00"
@@ -202,8 +214,8 @@
       "source": "hn",
       "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
       "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
-      "score": 257,
-      "comments": 66,
+      "score": 268,
+      "comments": 70,
       "author": "crcastle",
       "tags": [],
       "date": "2026-04-05T00:13:55+00:00"
@@ -213,8 +225,8 @@
       "source": "hn",
       "title": "Nvim-treesitter (13K+ Stars) is Archived",
       "url": "https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627",
-      "score": 89,
-      "comments": 21,
+      "score": 107,
+      "comments": 27,
       "author": "RohanAdwankar",
       "tags": [],
       "date": "2026-04-04T23:39:44+00:00"
@@ -237,8 +249,8 @@
       "source": "hn",
       "title": "Advice to young people, the lies I tell myself (2024)",
       "url": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
-      "score": 94,
-      "comments": 25,
+      "score": 97,
+      "comments": 27,
       "author": "mooreds",
       "tags": [],
       "date": "2026-04-04T23:18:54+00:00"
@@ -248,8 +260,8 @@
       "source": "hn",
       "title": "German implementation of eIDAS will require an Apple/Google account to function",
       "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "score": 182,
-      "comments": 126,
+      "score": 214,
+      "comments": 140,
       "author": "DyslexicAtheist",
       "tags": [],
       "date": "2026-04-04T22:57:44+00:00"
@@ -271,7 +283,7 @@
       "source": "hn",
       "title": "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
       "url": "https://static.laszlokorte.de/escher/",
-      "score": 68,
+      "score": 72,
       "comments": 12,
       "author": "laszlokorte",
       "tags": [],
@@ -282,8 +294,8 @@
       "source": "hn",
       "title": "How many products does Microsoft have named 'Copilot'?",
       "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "score": 597,
-      "comments": 291,
+      "score": 614,
+      "comments": 298,
       "author": "gpi",
       "tags": [],
       "date": "2026-04-04T19:39:43+00:00"
@@ -394,8 +406,8 @@
       "source": "hn",
       "title": "LLM Wiki – example of an \"idea file\"",
       "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "score": 164,
-      "comments": 46,
+      "score": 174,
+      "comments": 48,
       "author": "tamnd",
       "tags": [],
       "date": "2026-04-04T16:57:45+00:00"
@@ -416,8 +428,8 @@
       "source": "hn",
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
-      "score": 678,
-      "comments": 149,
+      "score": 700,
+      "comments": 150,
       "author": "Jaso1024",
       "tags": [],
       "date": "2026-04-04T16:45:54+00:00"
@@ -485,8 +497,8 @@
       "source": "hn",
       "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
       "url": "https://sllm.cloud",
-      "score": 154,
-      "comments": 76,
+      "score": 155,
+      "comments": 77,
       "author": "jrandolf",
       "tags": [],
       "date": "2026-04-04T15:18:58+00:00"
@@ -555,8 +567,8 @@
       "source": "hn",
       "title": "Show HN: I made open source, zero power PCB hackathon badges",
       "url": "https://github.com/KaiPereira/Overglade-Badges",
-      "score": 93,
-      "comments": 9,
+      "score": 94,
+      "comments": 10,
       "author": "kaipereira",
       "tags": [],
       "date": "2026-04-04T14:20:21+00:00",
@@ -567,7 +579,7 @@
       "source": "hn",
       "title": "The Indie Internet Index – submit your favorite sites",
       "url": "https://iii.social",
-      "score": 137,
+      "score": 139,
       "comments": 27,
       "author": "freshman_dev",
       "tags": [],
@@ -578,8 +590,8 @@
       "source": "hn",
       "title": "Components of a Coding Agent",
       "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-      "score": 231,
-      "comments": 71,
+      "score": 232,
+      "comments": 72,
       "author": "MindGods",
       "tags": [],
       "date": "2026-04-04T13:16:33+00:00"
@@ -2082,8 +2094,8 @@
       "source": "hn",
       "title": "Software never had a soul",
       "url": "https://www.jmduke.com/posts/software-never-had-a-soul.html",
-      "score": 7,
-      "comments": 2,
+      "score": 12,
+      "comments": 5,
       "author": "firloop",
       "tags": [],
       "date": "2026-04-02T15:53:45+00:00"
@@ -2206,8 +2218,8 @@
       "source": "hn",
       "title": "Ruckus: Racket for iOS",
       "url": "https://ruckus.defn.io/",
-      "score": 120,
-      "comments": 9,
+      "score": 121,
+      "comments": 10,
       "author": "nsm",
       "tags": [],
       "date": "2026-04-02T13:54:12+00:00"
@@ -2287,7 +2299,7 @@
       "source": "hn",
       "title": "Show HN: I built a small app for FSI German Course",
       "url": "https://detawk.com/",
-      "score": 24,
+      "score": 26,
       "comments": 6,
       "author": "syedmsawaid",
       "tags": [],
@@ -2971,6 +2983,17 @@
       "date": "2026-04-01T22:38:25+00:00"
     },
     {
+      "id": "hn-47607408",
+      "source": "hn",
+      "title": "Scientists Figured Out How Eels Reproduce (2022)",
+      "url": "https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/",
+      "score": 10,
+      "comments": 0,
+      "author": "thunderbong",
+      "tags": [],
+      "date": "2026-04-01T22:33:54+00:00"
+    },
+    {
       "id": "hn-47607394",
       "source": "hn",
       "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
@@ -3538,8 +3561,8 @@
       "source": "hn",
       "title": "Rubysyn: Clarifying Ruby's Syntax and Semantics",
       "url": "https://github.com/squadette/rubysyn/blob/master/README.md",
-      "score": 32,
-      "comments": 0,
+      "score": 35,
+      "comments": 2,
       "author": "petalmind",
       "tags": [],
       "date": "2026-04-01T09:54:18+00:00"
@@ -3896,8 +3919,8 @@
       "source": "hn",
       "title": "OpenScreen is an open-source alternative to Screen Studio",
       "url": "https://github.com/siddharthvaddem/openscreen",
-      "score": 245,
-      "comments": 43,
+      "score": 257,
+      "comments": 47,
       "author": "jskopek",
       "tags": [],
       "date": "2026-04-01T01:31:46+00:00",
@@ -4345,7 +4368,7 @@
       "source": "hn",
       "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
       "url": "https://zml.ai/posts/zml-smi/",
-      "score": 34,
+      "score": 40,
       "comments": 6,
       "author": "steeve",
       "tags": [],
@@ -5154,28 +5177,6 @@
       "date": "2026-03-30T18:13:00+00:00"
     },
     {
-      "id": "hn-47577177",
-      "source": "hn",
-      "title": "Lime (bikes) is a data company",
-      "url": "https://ktoya.me/lime-data-company/",
-      "score": 9,
-      "comments": 2,
-      "author": "ktoyame",
-      "tags": [],
-      "date": "2026-03-30T17:26:10+00:00"
-    },
-    {
-      "id": "hn-47577142",
-      "source": "hn",
-      "title": "Spain shuts airspace for US planes involved in Iran war",
-      "url": "https://english.aawsat.com/world/5256772-spain-shuts-airspace-us-planes-involved-iran-war",
-      "score": 41,
-      "comments": 4,
-      "author": "vrganj",
-      "tags": [],
-      "date": "2026-03-30T17:23:36+00:00"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5398,6 +5399,19 @@
       "date": "Sat, 04 Apr 2026 10:52:04 GMT"
     },
     {
+      "id": "zenn-476cd76442",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Codeスラッシュコマンド、Tier別に全部解説するで｜S〜分析まで完全攻略",
+      "url": "https://zenn.dev/masayan1126/books/claude-code-slash-commands",
+      "score": null,
+      "author": "まさやん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 04 Apr 2026 05:52:06 GMT"
+    },
+    {
       "id": "zenn-2ad5bb9dce",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5617,19 +5631,6 @@
         "Zenn"
       ],
       "date": "Wed, 01 Apr 2026 11:51:41 GMT"
-    },
-    {
-      "id": "zenn-0d3b607028",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "npm をセキュアな挙動にするために .npmrc に記述する最小設定",
-      "url": "https://zenn.dev/cycloud_blog/articles/5ce66daf4bd0cb",
-      "score": null,
-      "author": "did0es",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 01 Apr 2026 07:30:48 GMT"
     },
     {
       "id": "edb-bed48c0760",
