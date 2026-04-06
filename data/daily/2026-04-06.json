@@ -1,7 +1,7 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T15:18:12.278167+00:00",
-  "total_articles": 72,
+  "generated_at": "2026-04-06T15:46:49.085909+00:00",
+  "total_articles": 70,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 60,
+      "count": 57,
       "top_items": [
         {
           "title": "Gemma 4 on iPhone",
           "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-          "score": 752,
+          "score": 760,
           "source": "hn",
           "severity": null,
           "date": "2026-04-05T18:45:53+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Show HN: I built a tiny LLM to demystify how language models work",
           "url": "https://github.com/arman-bd/guppylm",
-          "score": 708,
+          "score": 719,
           "source": "hn",
           "severity": null,
           "date": "2026-04-06T00:20:12+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
           "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-          "score": 662,
+          "score": 673,
           "source": "hn",
           "severity": null,
           "date": "2026-04-05T17:27:41+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "France pulls last gold held in US for $15B gain",
           "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-          "score": 409,
+          "score": 430,
           "source": "hn",
           "severity": null,
           "date": "2026-04-06T08:03:43+00:00"
@@ -75,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 13,
       "top_items": [
+        {
+          "title": "【今さら聞けない】OpenClawについて詳しくまとめてみた",
+          "url": "https://qiita.com/miruky/items/65eeae6512345ac74346?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-07T00:18:56+09:00"
+        },
         {
           "title": "【もうググらない】Git初心者向け｜開発でよく使うコマンドまとめ（コピペOK・用途別）",
           "url": "https://qiita.com/redwings_a/items/fce80534fb495f532c2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-06T14:03:04+09:00"
-        },
-        {
-          "title": "ランダムフォレスト → XGBoost → LightGBM：進化の流れで理解する機械学習モデル",
-          "url": "https://qiita.com/KanNishida/items/565941faee9c67b64e14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-06T11:51:10+09:00"
         }
       ]
     }
