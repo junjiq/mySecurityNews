@@ -1,9 +1,16 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T17:46:30.607227+00:00",
-  "total_articles": 75,
-  "urgent_count": 3,
+  "generated_at": "2026-04-06T18:20:45.970142+00:00",
+  "total_articles": 74,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+      "url": "https://www.wesnoth.org",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-06T17:37:38+00:00"
+    },
     {
       "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 63,
+      "count": 62,
       "top_items": [
         {
           "title": "Gemma 4 on iPhone",
           "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-          "score": 793,
+          "score": 799,
           "source": "hn",
           "severity": null,
           "date": "2026-04-05T18:45:53+00:00"
@@ -42,10 +49,18 @@
         {
           "title": "Show HN: I built a tiny LLM to demystify how language models work",
           "url": "https://github.com/arman-bd/guppylm",
-          "score": 769,
+          "score": 779,
           "source": "hn",
           "severity": null,
           "date": "2026-04-06T00:20:12+00:00"
+        },
+        {
+          "title": "I won't download your app. The web version is a-ok",
+          "url": "https://www.0xsid.com/blog/wont-download-your-app",
+          "score": 639,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-06T14:31:29+00:00"
         },
         {
           "title": "Why Switzerland has 25 Gbit internet and America doesn't",
@@ -56,17 +71,9 @@
           "date": "2026-04-05T18:29:47+00:00"
         },
         {
-          "title": "I won't download your app. The web version is a-ok",
-          "url": "https://www.0xsid.com/blog/wont-download-your-app",
-          "score": 589,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-06T14:31:29+00:00"
-        },
-        {
           "title": "France pulls last gold held in US for $15B gain",
           "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-          "score": 480,
+          "score": 487,
           "source": "hn",
           "severity": null,
           "date": "2026-04-06T08:03:43+00:00"
