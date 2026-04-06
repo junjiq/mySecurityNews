@@ -1,7 +1,7 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T07:34:29.365266+00:00",
-  "total_articles": 72,
+  "generated_at": "2026-04-06T08:34:14.085326+00:00",
+  "total_articles": 83,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 67,
+      "count": 70,
       "top_items": [
         {
           "title": "The threat is comfortable drift toward not understanding what you're doing",
@@ -51,7 +51,7 @@
         {
           "title": "Gemma 4 on iPhone",
           "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-          "score": 580,
+          "score": 604,
           "source": "hn",
           "severity": null,
           "date": "2026-04-05T18:45:53+00:00"
@@ -68,15 +68,31 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 13,
       "top_items": [
         {
-          "title": "【Webアプリ】「このボタンどこ？」をAIが解決する。AIリアルタイム操作ナビゲーション「Waylume」をリリース【Next.js✖️Chrome拡張機能】",
+          "title": "【もうググらない】Git初心者向け｜開発でよく使うコマンドまとめ（コピペOK・用途別）",
+          "url": "https://qiita.com/redwings_a/items/fce80534fb495f532c2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-06T17:22:06+09:00"
+        },
+        {
+          "title": "【優しいAI】「このボタンどこ？」をAIが解決する。AIリアルタイム操作ナビゲーション「Waylume」をリリース【Next.js✖️Chrome拡張機能】",
           "url": "https://qiita.com/yoshikim1467/items/382bd11e374df6774ec4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-06T16:32:31+09:00"
+          "date": "2026-04-06T17:08:32+09:00"
+        },
+        {
+          "title": "🎯 初めての C# 非同期処理：実務で使う async/await の基本と注意点",
+          "url": "https://qiita.com/hiroki_notes/items/9733cd3214355e0c3e4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-06T16:41:35+09:00"
         },
         {
           "title": "新登場の OCI Enterprise AI Agents で MCPを使ったエージェントを作ろう！",
@@ -87,28 +103,12 @@
           "date": "2026-04-06T14:03:04+09:00"
         },
         {
-          "title": "【初心者完全版】0からNext.js開発して2時間で基礎をマスターする最強チュートリアル【図解解説】",
-          "url": "https://qiita.com/Sicut_study/items/2c9df846e96a47900e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "ランダムフォレスト → XGBoost → LightGBM：進化の流れで理解する機械学習モデル",
+          "url": "https://qiita.com/KanNishida/items/565941faee9c67b64e14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-06T08:40:34+09:00"
-        },
-        {
-          "title": "FPGAの入出力タイミング制約を可視化するシミュレータを作った",
-          "url": "https://qiita.com/MameMame777/items/9d6e19d36a3f49dc0dae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-06T01:54:20+09:00"
-        },
-        {
-          "title": "【個人開発】泳げば泳ぐほどモテる。水泳×マッチングアプリ「スイモテ」を作りました【React × Supabase × Firebase】",
-          "url": "https://qiita.com/jota9613/items/73b1a59a513a5eee98c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-05T17:58:44+09:00"
+          "date": "2026-04-06T11:51:10+09:00"
         }
       ]
     }
