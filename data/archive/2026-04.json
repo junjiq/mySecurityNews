@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-06T21:13:36.555881+00:00",
+  "generated_at": "2026-04-06T21:45:23.920547+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 363,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 11,
     "medium": 5,
     "high": 3
   },
@@ -65,7 +65,7 @@
     {
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
       "url": "https://github.com/arman-bd/guppylm",
-      "score": 820,
+      "score": 827,
       "source": "hn",
       "date": "2026-04-06T00:20:12+00:00"
     },
@@ -252,13 +252,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-04-01T14:37:50+00:00"
-    },
-    {
-      "title": "AI has suddenly become more useful to open-source developers",
-      "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-01T14:07:50+00:00"
     }
   ]
 }
