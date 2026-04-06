@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-06T03:40:19.152041+00:00",
-  "total_articles": 426,
+  "generated_at": "2026-04-06T04:58:19.481543+00:00",
+  "total_articles": 432,
   "source_counts": {
-    "hn": 341,
+    "hn": 347,
     "zennqiita": 84,
     "project": 1
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "medium": 5,
     "high": 3
   },
@@ -84,6 +84,13 @@
       "date": "2026-04-05T08:56:18+00:00"
     },
     {
+      "title": "Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "score": 702,
+      "source": "hn",
+      "date": "2026-04-05T12:43:47+00:00"
+    },
+    {
       "title": "Sweden goes back to basics, swapping screens for books in the classroom",
       "url": "https://undark.org/2026/04/01/sweden-schools-books/",
       "score": 691,
@@ -103,13 +110,6 @@
       "score": 686,
       "source": "hn",
       "date": "2026-04-03T12:33:45+00:00"
-    },
-    {
-      "title": "Eight years of wanting, three months of building with AI",
-      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "score": 669,
-      "source": "hn",
-      "date": "2026-04-05T12:43:47+00:00"
     },
     {
       "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "An open-source 240-antenna array to bounce signals off the Moon",
+      "url": "https://moonrf.com/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-06T03:22:42+00:00"
+    },
     {
       "title": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
       "url": "https://github.com/mohshomis/modo",
