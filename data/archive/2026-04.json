@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-06T13:32:18.735762+00:00",
+  "generated_at": "2026-04-06T14:22:04.065026+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 357,
-    "zennqiita": 93,
+    "hn": 358,
+    "zennqiita": 92,
     "project": 1
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "medium": 5,
     "high": 3
   },
@@ -77,18 +77,18 @@
       "date": "2026-04-05T12:43:47+00:00"
     },
     {
+      "title": "Gemma 4 on iPhone",
+      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "score": 733,
+      "source": "hn",
+      "date": "2026-04-05T18:45:53+00:00"
+    },
+    {
       "title": "How many products does Microsoft have named 'Copilot'?",
       "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
       "score": 731,
       "source": "hn",
       "date": "2026-04-04T19:39:43+00:00"
-    },
-    {
-      "title": "Gemma 4 on iPhone",
-      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "score": 719,
-      "source": "hn",
-      "date": "2026-04-05T18:45:53+00:00"
     },
     {
       "title": "Caveman: Why use many token when few token do trick",
@@ -119,6 +119,13 @@
       "date": "2026-04-03T12:33:45+00:00"
     },
     {
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "url": "https://github.com/arman-bd/guppylm",
+      "score": 679,
+      "source": "hn",
+      "date": "2026-04-06T00:20:12+00:00"
+    },
+    {
       "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
       "url": "https://blog.cloudflare.com/emdash-wordpress/",
       "score": 639,
@@ -126,11 +133,18 @@
       "date": "2026-04-01T16:14:38+00:00"
     },
     {
-      "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "url": "https://github.com/arman-bd/guppylm",
-      "score": 638,
+      "title": "Why Switzerland has 25 Gbit internet and America doesn't",
+      "url": "https://sschueller.github.io/posts/the-free-market-lie/",
+      "score": 629,
       "source": "hn",
-      "date": "2026-04-06T00:20:12+00:00"
+      "date": "2026-04-05T18:29:47+00:00"
+    },
+    {
+      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "score": 629,
+      "source": "hn",
+      "date": "2026-04-05T17:27:41+00:00"
     },
     {
       "title": "Show HN: Apfel – The free AI already on your Mac",
@@ -138,23 +152,16 @@
       "score": 617,
       "source": "hn",
       "date": "2026-04-03T09:15:34+00:00"
-    },
-    {
-      "title": "Steam on Linux Use Skyrocketed Above 5% in March",
-      "url": "https://www.phoronix.com/news/Steam-On-Linux-Tops-5p",
-      "score": 601,
-      "source": "hn",
-      "date": "2026-04-02T03:12:24+00:00"
-    },
-    {
-      "title": "Why Switzerland has 25 Gbit internet and America doesn't",
-      "url": "https://sschueller.github.io/posts/the-free-market-lie/",
-      "score": 598,
-      "source": "hn",
-      "date": "2026-04-05T18:29:47+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-06T13:52:37+00:00"
+    },
     {
       "title": "An open-source 240-antenna array to bounce signals off the Moon",
       "url": "https://moonrf.com/",
