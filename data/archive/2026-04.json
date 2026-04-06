@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-06T01:04:25.829895+00:00",
-  "total_articles": 417,
+  "generated_at": "2026-04-06T02:18:29.799940+00:00",
+  "total_articles": 423,
   "source_counts": {
-    "hn": 332,
+    "hn": 338,
     "zennqiita": 84,
     "project": 1
   },
   "severity_counts": {
+    "critical": 12,
     "medium": 5,
-    "critical": 11,
     "high": 3
   },
   "top_articles": [
@@ -77,18 +77,18 @@
       "date": "2026-04-04T19:39:43+00:00"
     },
     {
+      "title": "Caveman: Why use many token when few token do trick",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 704,
+      "source": "hn",
+      "date": "2026-04-05T08:56:18+00:00"
+    },
+    {
       "title": "Sweden goes back to basics, swapping screens for books in the classroom",
       "url": "https://undark.org/2026/04/01/sweden-schools-books/",
       "score": 691,
       "source": "hn",
       "date": "2026-04-02T10:50:00+00:00"
-    },
-    {
-      "title": "Caveman: Why use many token when few token do trick",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 688,
-      "source": "hn",
-      "date": "2026-04-05T08:56:18+00:00"
     },
     {
       "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
@@ -112,6 +112,13 @@
       "date": "2026-04-01T16:14:38+00:00"
     },
     {
+      "title": "Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "score": 626,
+      "source": "hn",
+      "date": "2026-04-05T12:43:47+00:00"
+    },
+    {
       "title": "Show HN: Apfel – The free AI already on your Mac",
       "url": "https://apfel.franzai.com",
       "score": 617,
@@ -124,13 +131,6 @@
       "score": 601,
       "source": "hn",
       "date": "2026-04-02T03:12:24+00:00"
-    },
-    {
-      "title": "Eight years of wanting, three months of building with AI",
-      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "score": 596,
-      "source": "hn",
-      "date": "2026-04-05T12:43:47+00:00"
     },
     {
       "title": "Embarrassingly simple self-distillation improves code generation",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
+      "url": "https://github.com/mohshomis/modo",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-05T23:59:10+00:00"
+    },
     {
       "title": "Dynamics of (Not) Being Perceived: Grief and Relief After Leaving Social Media",
       "url": "https://networkcultures.org/thedigitalgutmensch/2026/04/02/dynamics-of-not-being-perceived-the-grief-relief-after-leaving-social-media/",
