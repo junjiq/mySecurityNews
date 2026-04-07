@@ -1,9 +1,16 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T17:48:59.040440+00:00",
-  "total_articles": 59,
-  "urgent_count": 1,
+  "generated_at": "2026-04-07T18:20:53.811998+00:00",
+  "total_articles": 58,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-07T18:09:34+00:00"
+    },
     {
       "title": "Google open-sources experimental agent orchestration testbed Scion",
       "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 51,
       "top_items": [
         {
           "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
           "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-          "score": 536,
+          "score": 563,
           "source": "hn",
           "severity": null,
           "date": "2026-04-07T11:07:44+00:00"
@@ -52,7 +59,7 @@
         {
           "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
           "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-          "score": 312,
+          "score": 320,
           "source": "hn",
           "severity": null,
           "date": "2026-04-07T10:25:12+00:00"

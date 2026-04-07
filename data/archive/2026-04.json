@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-07T17:48:59.084583+00:00",
+  "generated_at": "2026-04-07T18:20:53.852465+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 369,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "medium": 6,
     "high": 2
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-07T18:09:34+00:00"
+    },
     {
       "title": "Google open-sources experimental agent orchestration testbed Scion",
       "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
