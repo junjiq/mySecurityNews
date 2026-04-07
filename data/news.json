@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-07T21:46:11.509597+00:00",
+  "updated_at": "2026-04-07T22:13:51.201246+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47681361",
+      "source": "hn",
+      "title": "Move Detroit",
+      "url": "https://www.movedetroit.com/program",
+      "score": 17,
+      "comments": 9,
+      "author": "rmason",
+      "tags": [],
+      "date": "2026-04-07T21:04:53+00:00"
+    },
     {
       "id": "hn-47681274",
       "source": "hn",
       "title": "Bitcoin and Quantum Computing",
       "url": "https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html",
-      "score": 25,
-      "comments": 10,
+      "score": 42,
+      "comments": 17,
       "author": "nehan",
       "tags": [],
       "date": "2026-04-07T20:56:23+00:00"
@@ -25,12 +36,23 @@
       "date": "2026-04-07T20:53:59+00:00"
     },
     {
+      "id": "hn-47681112",
+      "source": "hn",
+      "title": "Show HN: An interactive map of Tolkien's Middle-earth",
+      "url": "https://middle-earth-interactive-map.web.app/",
+      "score": 20,
+      "comments": 1,
+      "author": "frasermarlow",
+      "tags": [],
+      "date": "2026-04-07T20:42:37+00:00"
+    },
+    {
       "id": "hn-47680532",
       "source": "hn",
       "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
       "url": "https://netbsd-cells.petermann-digital.de/",
-      "score": 17,
-      "comments": 4,
+      "score": 25,
+      "comments": 6,
       "author": "akagusu",
       "tags": [],
       "date": "2026-04-07T19:54:06+00:00",
@@ -41,8 +63,8 @@
       "source": "hn",
       "title": "S3 Files and the changing face of S3",
       "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
-      "score": 103,
-      "comments": 31,
+      "score": 115,
+      "comments": 32,
       "author": "werner",
       "tags": [],
       "date": "2026-04-07T19:44:01+00:00"
@@ -52,7 +74,7 @@
       "source": "hn",
       "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
       "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
-      "score": 69,
+      "score": 84,
       "comments": 7,
       "author": "MediaSquirrel",
       "tags": [],
@@ -97,8 +119,8 @@
       "source": "hn",
       "title": "System Card: Claude Mythos Preview [pdf]",
       "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 390,
-      "comments": 262,
+      "score": 427,
+      "comments": 292,
       "author": "be7a",
       "tags": [],
       "date": "2026-04-07T18:18:36+00:00"
@@ -108,8 +130,8 @@
       "source": "hn",
       "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
       "url": "https://red.anthropic.com/2026/mythos-preview/",
-      "score": 198,
-      "comments": 27,
+      "score": 213,
+      "comments": 28,
       "author": "sweis",
       "tags": [],
       "date": "2026-04-07T18:11:31+00:00"
@@ -119,8 +141,8 @@
       "source": "hn",
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 594,
-      "comments": 243,
+      "score": 649,
+      "comments": 279,
       "author": "Ryan5453",
       "tags": [],
       "date": "2026-04-07T18:09:34+00:00",
@@ -131,7 +153,7 @@
       "source": "hn",
       "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
       "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-      "score": 209,
+      "score": 216,
       "comments": 46,
       "author": "speckx",
       "tags": [],
@@ -155,8 +177,8 @@
       "source": "hn",
       "title": "Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP",
       "url": "https://printervention.app/details",
-      "score": 120,
-      "comments": 42,
+      "score": 128,
+      "comments": 46,
       "author": "gmac",
       "tags": [],
       "date": "2026-04-07T16:33:57+00:00"
@@ -166,8 +188,8 @@
       "source": "hn",
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
       "url": "https://z.ai/blog/glm-5.1",
-      "score": 339,
-      "comments": 100,
+      "score": 352,
+      "comments": 104,
       "author": "zixuanlimit",
       "tags": [],
       "date": "2026-04-07T16:32:15+00:00"
@@ -221,8 +243,8 @@
       "source": "hn",
       "title": "Lunar Flyby",
       "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "score": 40,
-      "comments": 2,
+      "score": 76,
+      "comments": 12,
       "author": "kipi",
       "tags": [],
       "date": "2026-04-07T15:03:18+00:00"
@@ -243,7 +265,7 @@
       "source": "hn",
       "title": "A blind man made it possible for others with low vision to build Lego sets",
       "url": "https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4",
-      "score": 25,
+      "score": 28,
       "comments": 5,
       "author": "speckx",
       "tags": [],
@@ -254,8 +276,8 @@
       "source": "hn",
       "title": "Cloudflare targets 2029 for full post-quantum security",
       "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
-      "score": 233,
-      "comments": 75,
+      "score": 240,
+      "comments": 79,
       "author": "ilreb",
       "tags": [],
       "date": "2026-04-07T14:07:34+00:00"
@@ -287,8 +309,8 @@
       "source": "hn",
       "title": "Google open-sources experimental agent orchestration testbed Scion",
       "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-      "score": 124,
-      "comments": 39,
+      "score": 131,
+      "comments": 41,
       "author": "timbilt",
       "tags": [],
       "date": "2026-04-07T13:39:15+00:00",
@@ -444,8 +466,8 @@
       "source": "hn",
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 662,
-      "comments": 204,
+      "score": 668,
+      "comments": 207,
       "author": "sam-bee",
       "tags": [],
       "date": "2026-04-07T11:07:44+00:00"
@@ -455,8 +477,8 @@
       "source": "hn",
       "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
       "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-      "score": 355,
-      "comments": 177,
+      "score": 362,
+      "comments": 179,
       "author": "henrygarner",
       "tags": [],
       "date": "2026-04-07T10:25:12+00:00"
@@ -584,8 +606,8 @@
       "source": "hn",
       "title": "John Coltrane Illustrates the Mathematics of Jazz",
       "url": "https://www.americanjazzmusicsociety.com/blog/john-coltrane-draws",
-      "score": 75,
-      "comments": 5,
+      "score": 87,
+      "comments": 7,
       "author": "luu",
       "tags": [],
       "date": "2026-04-07T05:58:01+00:00"
@@ -851,8 +873,8 @@
       "source": "hn",
       "title": "AI helps add 10k more photos to OldNYC",
       "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
-      "score": 92,
-      "comments": 34,
+      "score": 99,
+      "comments": 35,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-04-06T18:24:32+00:00"
@@ -1327,8 +1349,8 @@
       "source": "hn",
       "title": "The Image Boards of Hayao Miyazaki",
       "url": "https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki",
-      "score": 49,
-      "comments": 6,
+      "score": 59,
+      "comments": 7,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-04-06T07:56:34+00:00"
@@ -1375,8 +1397,8 @@
       "source": "hn",
       "title": "A truck driver spent 20 years making a scale model of every building in NYC",
       "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-      "score": 180,
-      "comments": 27,
+      "score": 193,
+      "comments": 30,
       "author": "1659447091",
       "tags": [],
       "date": "2026-04-06T05:22:24+00:00"
@@ -1759,8 +1781,8 @@
       "source": "hn",
       "title": "A whole boss fight in 256 bytes",
       "url": "https://hellmood.111mb.de//A_whole_boss_fight_in_256_bytes.html",
-      "score": 6,
-      "comments": 2,
+      "score": 19,
+      "comments": 4,
       "author": "HellMood",
       "tags": [],
       "date": "2026-04-05T22:32:12+00:00"
@@ -2014,8 +2036,8 @@
       "source": "hn",
       "title": "How to get better at guitar",
       "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
-      "score": 74,
-      "comments": 23,
+      "score": 96,
+      "comments": 36,
       "author": "jwworth",
       "tags": [],
       "date": "2026-04-05T16:14:12+00:00"
@@ -5117,28 +5139,6 @@
       "date": "2026-04-02T11:49:01+00:00"
     },
     {
-      "id": "hn-47613118",
-      "source": "hn",
-      "title": "Show HN: I built a small app for FSI German Course",
-      "url": "https://detawk.com/",
-      "score": 41,
-      "comments": 13,
-      "author": "syedmsawaid",
-      "tags": [],
-      "date": "2026-04-02T11:44:01+00:00"
-    },
-    {
-      "id": "hn-47613078",
-      "source": "hn",
-      "title": "Inside Nepal's Fake Rescue Racket",
-      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-      "score": 292,
-      "comments": 125,
-      "author": "lode",
-      "tags": [],
-      "date": "2026-04-02T11:40:41+00:00"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5349,6 +5349,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-c1681bb7bd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "こんなAI時代に、新しいCSS設計フレームワークを作る理由",
+      "url": "https://zenn.dev/ddryo_loos/articles/why-create-new-css-framework-in-ai-era",
+      "score": null,
+      "author": "了",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 07 Apr 2026 04:25:57 GMT"
+    },
+    {
+      "id": "zenn-cc7741dfc6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "共有スキルを2分類で管理する――AIスキル設計の理想と現実",
+      "url": "https://zenn.dev/uhyo/articles/ai-skill-modular",
+      "score": null,
+      "author": "uhyo",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 07 Apr 2026 03:37:22 GMT"
+    },
+    {
       "id": "zenn-0915b6af68",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5375,6 +5401,19 @@
       "date": "Tue, 07 Apr 2026 01:59:18 GMT"
     },
     {
+      "id": "zenn-9b6a667de0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "全PRの83%をAIレビューだけでマージできるようにした",
+      "url": "https://zenn.dev/kauche/articles/e051583461c181",
+      "score": null,
+      "author": "a-thug",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 07 Apr 2026 01:33:39 GMT"
+    },
+    {
       "id": "zenn-f36d2f9d85",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5388,17 +5427,17 @@
       "date": "Tue, 07 Apr 2026 00:28:29 GMT"
     },
     {
-      "id": "zenn-762791d2dc",
+      "id": "zenn-0c2f105cbf",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Bonsai-8B-mlx × Goose でフルローカルの AI エージェント環境を作る",
-      "url": "https://zenn.dev/geeknees/articles/52f2b7ca6b81e4",
+      "title": "1年で 1,000 GitHub Starまで育てた秘訣、全部書きました",
+      "url": "https://zenn.dev/yutasato/articles/0b0fbc69066f0a",
       "score": null,
-      "author": "geeknees",
+      "author": "Yuta Sato",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 06 Apr 2026 11:37:00 GMT"
+      "date": "Mon, 06 Apr 2026 22:59:46 GMT"
     },
     {
       "id": "zenn-a050a0dc55",
@@ -5492,19 +5531,6 @@
       "date": "Sun, 05 Apr 2026 23:06:48 GMT"
     },
     {
-      "id": "zenn-0160443720",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeのセキュリティ設定を本気で固めた話【2026年版】",
-      "url": "https://zenn.dev/momozaki/articles/10cf58b08de335",
-      "score": null,
-      "author": "もも",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 05 Apr 2026 19:52:17 GMT"
-    },
-    {
       "id": "zenn-dd2aa3822e",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5581,32 +5607,6 @@
         "Zenn"
       ],
       "date": "Sun, 05 Apr 2026 00:12:59 GMT"
-    },
-    {
-      "id": "zenn-fc2085e2d4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "RAGの最適化手法が多すぎて迷子になったので、整理したら全体像が見えた",
-      "url": "https://zenn.dev/nagi98/articles/260405-rag-optimization-overview",
-      "score": null,
-      "author": "nagi98",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 04 Apr 2026 15:36:06 GMT"
-    },
-    {
-      "id": "zenn-1a03326054",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "「ハーネスエンジニアリングやってます」と言いたくない理由",
-      "url": "https://zenn.dev/karamage/articles/4788b0b791ef2d",
-      "score": null,
-      "author": "karamage",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 04 Apr 2026 10:52:04 GMT"
     },
     {
       "id": "edb-710535e63d",
