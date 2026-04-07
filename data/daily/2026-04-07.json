@@ -1,7 +1,7 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T04:49:37.234692+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-04-07T05:36:03.279117+00:00",
+  "total_articles": 55,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -27,7 +27,7 @@
         {
           "title": "Sam Altman may control our future – can he be trusted?",
           "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-          "score": 1081,
+          "score": 1145,
           "source": "hn",
           "severity": null,
           "date": "2026-04-06T10:36:57+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
           "url": "https://github.com/anthropics/claude-code/issues/42796",
-          "score": 863,
+          "score": 902,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-06T13:50:35+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
+        {
+          "title": "【Git初心者向け】新人の頃に欲しかったGitコマンドまとめ（コピペOK・用途別）",
+          "url": "https://qiita.com/redwings_a/items/fce80534fb495f532c2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-07T13:57:41+09:00"
+        },
         {
           "title": "【今さら聞けない】OpenClawについて詳しくまとめてみた",
           "url": "https://qiita.com/miruky/items/65eeae6512345ac74346?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-06T19:03:02+09:00"
-        },
-        {
-          "title": "Reactで「useEffectを使わなくてよいパターン」をReact公式より整理する",
-          "url": "https://qiita.com/ryo_sh/items/537094e2ad68f9275710?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-06T18:38:43+09:00"
         }
       ]
     }

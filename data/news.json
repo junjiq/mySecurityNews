@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-07T04:49:37.172153+00:00",
+  "updated_at": "2026-04-07T05:36:03.210214+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-aff189ade7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Git初心者向け】新人の頃に欲しかったGitコマンドまとめ（コピペOK・用途別）",
+      "url": "https://qiita.com/redwings_a/items/fce80534fb495f532c2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "redwings_a",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-07T13:57:41+09:00"
+    },
     {
       "id": "hn-47669749",
       "source": "hn",
       "title": "Dear Heroku: Uhh What's Going On?",
       "url": "https://judoscale.com/blog/heroku-whats-going-on",
-      "score": 14,
-      "comments": 0,
+      "score": 39,
+      "comments": 6,
       "author": "crcastle",
       "tags": [],
       "date": "2026-04-07T01:42:40+00:00"
@@ -18,8 +31,8 @@
       "source": "hn",
       "title": "Solod – A Subset of Go That Translates to C",
       "url": "https://github.com/solod-dev/solod",
-      "score": 62,
-      "comments": 14,
+      "score": 74,
+      "comments": 16,
       "author": "TheWiggles",
       "tags": [],
       "date": "2026-04-07T00:48:01+00:00"
@@ -29,8 +42,8 @@
       "source": "hn",
       "title": "After 20 years I turned off Google Adsense for my websites (2025)",
       "url": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
-      "score": 145,
-      "comments": 100,
+      "score": 157,
+      "comments": 109,
       "author": "datadrivenangel",
       "tags": [],
       "date": "2026-04-06T23:23:28+00:00"
@@ -40,8 +53,8 @@
       "source": "hn",
       "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
       "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "score": 191,
-      "comments": 89,
+      "score": 204,
+      "comments": 91,
       "author": "l1n",
       "tags": [],
       "date": "2026-04-06T21:52:08+00:00"
@@ -51,8 +64,8 @@
       "source": "hn",
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
       "url": "https://github.com/kitfunso/hippo-memory",
-      "score": 67,
-      "comments": 15,
+      "score": 70,
+      "comments": 17,
       "author": "kitfunso",
       "tags": [],
       "date": "2026-04-06T21:49:34+00:00"
@@ -62,8 +75,8 @@
       "source": "hn",
       "title": "Peptides: where to begin?",
       "url": "https://www.science.org/content/blog-post/ah-peptides-where-begin",
-      "score": 80,
-      "comments": 117,
+      "score": 86,
+      "comments": 121,
       "author": "A_D_E_P_T",
       "tags": [],
       "date": "2026-04-06T21:22:03+00:00"
@@ -95,8 +108,8 @@
       "source": "hn",
       "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
       "url": "https://github.com/matthartman/ghost-pepper",
-      "score": 291,
-      "comments": 130,
+      "score": 317,
+      "comments": 137,
       "author": "MattHart88",
       "tags": [],
       "date": "2026-04-06T19:50:16+00:00"
@@ -228,8 +241,8 @@
       "source": "hn",
       "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
       "url": "https://www.freestyle.sh/",
-      "score": 233,
-      "comments": 126,
+      "score": 240,
+      "comments": 129,
       "author": "benswerd",
       "tags": [],
       "date": "2026-04-06T16:32:11+00:00"
@@ -239,8 +252,8 @@
       "source": "hn",
       "title": "Show HN: GovAuctions lets you browse government auctions at once",
       "url": "https://www.govauctions.app/",
-      "score": 250,
-      "comments": 71,
+      "score": 256,
+      "comments": 73,
       "author": "player_piano",
       "tags": [],
       "date": "2026-04-06T16:21:46+00:00"
@@ -283,8 +296,8 @@
       "source": "hn",
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
       "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-      "score": 125,
-      "comments": 187,
+      "score": 132,
+      "comments": 198,
       "author": "flinner",
       "tags": [],
       "date": "2026-04-06T15:57:07+00:00"
@@ -294,8 +307,8 @@
       "source": "hn",
       "title": "A cryptography engineer's perspective on quantum computing timelines",
       "url": "https://words.filippo.io/crqc-timeline/",
-      "score": 392,
-      "comments": 158,
+      "score": 408,
+      "comments": 165,
       "author": "thadt",
       "tags": [],
       "date": "2026-04-06T15:31:20+00:00"
@@ -305,7 +318,7 @@
       "source": "hn",
       "title": "Sky – an Elm-inspired language that compiles to Go",
       "url": "https://github.com/anzellai/sky",
-      "score": 145,
+      "score": 148,
       "comments": 53,
       "author": "whalesalad",
       "tags": [],
@@ -362,8 +375,8 @@
       "source": "hn",
       "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "score": 274,
-      "comments": 138,
+      "score": 279,
+      "comments": 139,
       "author": "Bender",
       "tags": [],
       "date": "2026-04-06T13:52:37+00:00",
@@ -374,8 +387,8 @@
       "source": "hn",
       "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
       "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "score": 863,
-      "comments": 508,
+      "score": 902,
+      "comments": 518,
       "author": "StanAngeloff",
       "tags": [],
       "date": "2026-04-06T13:50:35+00:00",
@@ -386,8 +399,8 @@
       "source": "hn",
       "title": "Book review: There Is No Antimemetics Division",
       "url": "https://www.stephendiehl.com/posts/no_antimimetics/",
-      "score": 220,
-      "comments": 164,
+      "score": 227,
+      "comments": 165,
       "author": "ibobev",
       "tags": [],
       "date": "2026-04-06T13:44:01+00:00"
@@ -397,7 +410,7 @@
       "source": "hn",
       "title": "What being ripped off taught me",
       "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
-      "score": 357,
+      "score": 368,
       "comments": 189,
       "author": "doctorhandshake",
       "tags": [],
@@ -441,8 +454,8 @@
       "source": "hn",
       "title": "Sam Altman may control our future – can he be trusted?",
       "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "score": 1081,
-      "comments": 431,
+      "score": 1145,
+      "comments": 439,
       "author": "adrianhon",
       "tags": [],
       "date": "2026-04-06T10:36:57+00:00"
@@ -544,19 +557,6 @@
       "author": "XzetaU8",
       "tags": [],
       "date": "2026-04-06T08:39:39+00:00"
-    },
-    {
-      "id": "qiita-aff189ade7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【もうググらない】Git初心者向け｜開発でよく使うコマンドまとめ（コピペOK・用途別）",
-      "url": "https://qiita.com/redwings_a/items/fce80534fb495f532c2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "redwings_a",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T17:22:06+09:00"
     },
     {
       "id": "qiita-5c33288f12",
@@ -1862,8 +1862,8 @@
       "source": "hn",
       "title": "Linux extreme performance H1 load generator",
       "url": "https://www.gcannon.org/",
-      "score": 4,
-      "comments": 1,
+      "score": 8,
+      "comments": 4,
       "author": "MDA2AV",
       "tags": [],
       "date": "2026-04-04T19:00:01+00:00"
@@ -1900,6 +1900,17 @@
       "author": "prmph",
       "tags": [],
       "date": "2026-04-04T18:01:11+00:00"
+    },
+    {
+      "id": "hn-47641528",
+      "source": "hn",
+      "title": "Apollo Guidance Computer Restoration Videos and Press Coverage",
+      "url": "https://www.curiousmarc.com/space/apollo-guidance-computer",
+      "score": 6,
+      "comments": 0,
+      "author": "mariuz",
+      "tags": [],
+      "date": "2026-04-04T17:58:55+00:00"
     },
     {
       "id": "hn-47641487",
@@ -2274,7 +2285,7 @@
       "source": "hn",
       "title": "Show HN: Tusk for macOS and Gnome",
       "url": "https://shapemachine.xyz/tusk/",
-      "score": 62,
+      "score": 68,
       "comments": 18,
       "author": "factorialboy",
       "tags": [],
@@ -2373,8 +2384,8 @@
       "source": "hn",
       "title": "The Last Quiet Thing",
       "url": "https://www.terrygodier.com/the-last-quiet-thing",
-      "score": 186,
-      "comments": 100,
+      "score": 191,
+      "comments": 105,
       "author": "coinfused",
       "tags": [],
       "date": "2026-04-04T08:14:53+00:00"
@@ -2406,8 +2417,8 @@
       "source": "hn",
       "title": "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
       "url": "https://github.com/roscopeco/anos",
-      "score": 37,
-      "comments": 9,
+      "score": 44,
+      "comments": 11,
       "author": "noone_youknow",
       "tags": [],
       "date": "2026-04-04T06:58:03+00:00"
@@ -2999,8 +3010,8 @@
       "source": "hn",
       "title": "VOID: Video Object and Interaction Deletion",
       "url": "https://github.com/Netflix/void-model",
-      "score": 111,
-      "comments": 35,
+      "score": 123,
+      "comments": 38,
       "author": "bobsoap",
       "tags": [],
       "date": "2026-04-03T15:38:53+00:00"
@@ -3071,7 +3082,7 @@
       "source": "hn",
       "title": "Graph-go – zero config, full visibility",
       "url": "https://github.com/guilherme-grimm/graph-go",
-      "score": 9,
+      "score": 11,
       "comments": 1,
       "author": "devGrimm",
       "tags": [],
@@ -5130,17 +5141,6 @@
       "author": "vfalbor",
       "tags": [],
       "date": "2026-04-01T17:34:28+00:00"
-    },
-    {
-      "id": "hn-47603966",
-      "source": "hn",
-      "title": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
-      "url": "https://flight-viz.com",
-      "score": 62,
-      "comments": 33,
-      "author": "coolwulf",
-      "tags": [],
-      "date": "2026-04-01T17:34:16+00:00"
     },
     {
       "id": "ctf-3420191",
