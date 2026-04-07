@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-07T08:28:29.671793+00:00",
+  "updated_at": "2026-04-07T08:53:06.963133+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47672295",
+      "source": "hn",
+      "title": "Every GPU That Mattered",
+      "url": "https://sheets.works/data-viz/every-gpu",
+      "score": 5,
+      "comments": 0,
+      "author": "jonbaer",
+      "tags": [],
+      "date": "2026-04-07T08:38:17+00:00"
+    },
     {
       "id": "hn-47671527",
       "source": "hn",
       "title": "Some iPhone Apps Receive Mysterious Update 'From Apple'",
       "url": "https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/",
-      "score": 24,
-      "comments": 4,
+      "score": 36,
+      "comments": 7,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-07T06:45:08+00:00",
@@ -32,7 +43,7 @@
       "source": "hn",
       "title": "Three hundred synths, 3 hardware projects, and one app",
       "url": "https://midi.guide/blog/three-hunded-synths-one-app/",
-      "score": 11,
+      "score": 16,
       "comments": 0,
       "author": "ductionist",
       "tags": [],
@@ -133,7 +144,7 @@
       "title": "Solod – A subset of Go that translates to C",
       "url": "https://github.com/solod-dev/solod",
       "score": 122,
-      "comments": 30,
+      "comments": 33,
       "author": "TheWiggles",
       "tags": [],
       "date": "2026-04-07T00:48:01+00:00"
@@ -154,8 +165,8 @@
       "source": "hn",
       "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
       "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "score": 237,
-      "comments": 102,
+      "score": 239,
+      "comments": 103,
       "author": "l1n",
       "tags": [],
       "date": "2026-04-06T21:52:08+00:00"
@@ -165,7 +176,7 @@
       "source": "hn",
       "title": "Show HN: Hippo, biologically inspired memory for AI agents",
       "url": "https://github.com/kitfunso/hippo-memory",
-      "score": 89,
+      "score": 90,
       "comments": 17,
       "author": "kitfunso",
       "tags": [],
@@ -176,8 +187,8 @@
       "source": "hn",
       "title": "Peptides: where to begin?",
       "url": "https://www.science.org/content/blog-post/ah-peptides-where-begin",
-      "score": 137,
-      "comments": 174,
+      "score": 140,
+      "comments": 178,
       "author": "A_D_E_P_T",
       "tags": [],
       "date": "2026-04-06T21:22:03+00:00"
@@ -209,8 +220,8 @@
       "source": "hn",
       "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
       "url": "https://github.com/matthartman/ghost-pepper",
-      "score": 358,
-      "comments": 165,
+      "score": 364,
+      "comments": 170,
       "author": "MattHart88",
       "tags": [],
       "date": "2026-04-06T19:50:16+00:00"
@@ -342,7 +353,7 @@
       "source": "hn",
       "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
       "url": "https://www.freestyle.sh/",
-      "score": 263,
+      "score": 265,
       "comments": 145,
       "author": "benswerd",
       "tags": [],
@@ -353,7 +364,7 @@
       "source": "hn",
       "title": "Show HN: GovAuctions lets you browse government auctions at once",
       "url": "https://www.govauctions.app/",
-      "score": 270,
+      "score": 272,
       "comments": 78,
       "author": "player_piano",
       "tags": [],
@@ -397,8 +408,8 @@
       "source": "hn",
       "title": "AI singer now occupies eleven spots on iTunes singles chart",
       "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-      "score": 162,
-      "comments": 252,
+      "score": 166,
+      "comments": 258,
       "author": "flinner",
       "tags": [],
       "date": "2026-04-06T15:57:07+00:00"
@@ -408,8 +419,8 @@
       "source": "hn",
       "title": "A cryptography engineer's perspective on quantum computing timelines",
       "url": "https://words.filippo.io/crqc-timeline/",
-      "score": 448,
-      "comments": 185,
+      "score": 457,
+      "comments": 186,
       "author": "thadt",
       "tags": [],
       "date": "2026-04-06T15:31:20+00:00"
@@ -419,7 +430,7 @@
       "source": "hn",
       "title": "Sky – an Elm-inspired language that compiles to Go",
       "url": "https://github.com/anzellai/sky",
-      "score": 163,
+      "score": 166,
       "comments": 58,
       "author": "whalesalad",
       "tags": [],
@@ -476,8 +487,8 @@
       "source": "hn",
       "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "score": 298,
-      "comments": 143,
+      "score": 300,
+      "comments": 146,
       "author": "Bender",
       "tags": [],
       "date": "2026-04-06T13:52:37+00:00",
@@ -488,8 +499,8 @@
       "source": "hn",
       "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
       "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "score": 1032,
-      "comments": 581,
+      "score": 1053,
+      "comments": 587,
       "author": "StanAngeloff",
       "tags": [],
       "date": "2026-04-06T13:50:35+00:00",
@@ -500,8 +511,8 @@
       "source": "hn",
       "title": "Book review: There Is No Antimemetics Division",
       "url": "https://www.stephendiehl.com/posts/no_antimimetics/",
-      "score": 245,
-      "comments": 172,
+      "score": 246,
+      "comments": 174,
       "author": "ibobev",
       "tags": [],
       "date": "2026-04-06T13:44:01+00:00"
@@ -511,8 +522,8 @@
       "source": "hn",
       "title": "What being ripped off taught me",
       "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
-      "score": 397,
-      "comments": 199,
+      "score": 399,
+      "comments": 201,
       "author": "doctorhandshake",
       "tags": [],
       "date": "2026-04-06T12:53:41+00:00"
@@ -555,8 +566,8 @@
       "source": "hn",
       "title": "Sam Altman may control our future – can he be trusted?",
       "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "score": 1327,
-      "comments": 520,
+      "score": 1346,
+      "comments": 543,
       "author": "adrianhon",
       "tags": [],
       "date": "2026-04-06T10:36:57+00:00"
@@ -1645,7 +1656,7 @@
       "title": "Build web apps for smart glasses",
       "url": "https://hub.evenrealities.com/docs/getting-started/overview",
       "score": 4,
-      "comments": 2,
+      "comments": 4,
       "author": "mozz100",
       "tags": [],
       "date": "2026-04-05T08:43:18+00:00"
@@ -2031,7 +2042,7 @@
       "source": "hn",
       "title": "Apollo Guidance Computer restoration videos",
       "url": "https://www.curiousmarc.com/space/apollo-guidance-computer",
-      "score": 50,
+      "score": 52,
       "comments": 8,
       "author": "mariuz",
       "tags": [],
@@ -2509,8 +2520,8 @@
       "source": "hn",
       "title": "The Last Quiet Thing",
       "url": "https://www.terrygodier.com/the-last-quiet-thing",
-      "score": 214,
-      "comments": 117,
+      "score": 219,
+      "comments": 121,
       "author": "coinfused",
       "tags": [],
       "date": "2026-04-04T08:14:53+00:00"
@@ -2542,7 +2553,7 @@
       "source": "hn",
       "title": "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
       "url": "https://github.com/roscopeco/anos",
-      "score": 68,
+      "score": 71,
       "comments": 22,
       "author": "noone_youknow",
       "tags": [],
@@ -3135,7 +3146,7 @@
       "source": "hn",
       "title": "VOID: Video Object and Interaction Deletion",
       "url": "https://github.com/Netflix/void-model",
-      "score": 155,
+      "score": 157,
       "comments": 47,
       "author": "bobsoap",
       "tags": [],
@@ -3334,7 +3345,7 @@
       "source": "hn",
       "title": "Second Revision of 6502 Laptop",
       "url": "https://codeberg.org/TechPaula/LT6502b",
-      "score": 11,
+      "score": 12,
       "comments": 0,
       "author": "uticus",
       "tags": [],
@@ -4227,8 +4238,8 @@
       "source": "hn",
       "title": "My Experience as a Rice Farmer",
       "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
-      "score": 106,
-      "comments": 32,
+      "score": 122,
+      "comments": 39,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-02T13:53:55+00:00"
@@ -5147,116 +5158,6 @@
       "date": "2026-04-01T21:00:06+00:00"
     },
     {
-      "id": "hn-47605677",
-      "source": "hn",
-      "title": "Signing data structures the wrong way",
-      "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
-      "score": 105,
-      "comments": 45,
-      "author": "malgorithms",
-      "tags": [],
-      "date": "2026-04-01T19:52:00+00:00"
-    },
-    {
-      "id": "hn-47605586",
-      "source": "hn",
-      "title": "Artemis II astronauts arrive at launch pad 39B in an astrovan",
-      "url": "https://techfixated.com/artemis-ii-astronauts-arrive-at-launch-pad-39b-in-an-astrovan/",
-      "score": 13,
-      "comments": 1,
-      "author": "benlarweh",
-      "tags": [],
-      "date": "2026-04-01T19:43:20+00:00"
-    },
-    {
-      "id": "hn-47605494",
-      "source": "hn",
-      "title": "Jax's true calling: Ray-Marching renderers on WebGL",
-      "url": "https://benoit.paris/posts/jax-ray-marcher/",
-      "score": 61,
-      "comments": 8,
-      "author": "BenoitP",
-      "tags": [],
-      "date": "2026-04-01T19:36:07+00:00"
-    },
-    {
-      "id": "hn-47605425",
-      "source": "hn",
-      "title": "Sequential Optimal Packing for PCB Placement",
-      "url": "https://blog.autorouting.com/p/sequential-optimal-packing-for-pcb",
-      "score": 13,
-      "comments": 5,
-      "author": "seveibar",
-      "tags": [],
-      "date": "2026-04-01T19:30:34+00:00"
-    },
-    {
-      "id": "hn-47605374",
-      "source": "hn",
-      "title": "Scientists crack a 20-year nuclear mystery behind the creation of gold",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260313002633.htm",
-      "score": 64,
-      "comments": 30,
-      "author": "prabal97",
-      "tags": [],
-      "date": "2026-04-01T19:26:12+00:00"
-    },
-    {
-      "id": "hn-47605270",
-      "source": "hn",
-      "title": "SpaceX confidentially files to go public at $1.75T, reports say",
-      "url": "https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market",
-      "score": 65,
-      "comments": 15,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-04-01T19:19:05+00:00"
-    },
-    {
-      "id": "hn-47604897",
-      "source": "hn",
-      "title": "Apple at 50",
-      "url": "https://www.apple.com/",
-      "score": 65,
-      "comments": 31,
-      "author": "janandonly",
-      "tags": [],
-      "date": "2026-04-01T18:48:30+00:00"
-    },
-    {
-      "id": "hn-47604698",
-      "source": "hn",
-      "title": "Functional programming accellerates agentic feature development",
-      "url": "https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai",
-      "score": 31,
-      "comments": 17,
-      "author": "cyrusradfar",
-      "tags": [],
-      "date": "2026-04-01T18:32:05+00:00"
-    },
-    {
-      "id": "hn-47604354",
-      "source": "hn",
-      "title": "TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS",
-      "url": "https://github.com/SharpAI/SwiftLM",
-      "score": 75,
-      "comments": 40,
-      "author": "aegis_camera",
-      "tags": [],
-      "date": "2026-04-01T18:06:00+00:00"
-    },
-    {
-      "id": "hn-47604253",
-      "source": "hn",
-      "title": "Unsubscribe from the Church of Graphs",
-      "url": "https://www.adorableandharmless.com/p/unsubscribe-from-the-church-of-graphs",
-      "score": 21,
-      "comments": 11,
-      "author": "devonnull",
-      "tags": [],
-      "date": "2026-04-01T17:58:11+00:00"
-    },
-    {
       "id": "ctf-3420191",
       "source": "project",
       "proj_category": "CTF",
@@ -5815,6 +5716,141 @@
       ],
       "severity": "high",
       "date": "Mon, 06 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-5a9e1c5ac4",
+      "source": "msf",
+      "title": "[webapps] Zhiyuan OA - arbitrary file upload leading",
+      "url": "https://www.exploit-db.com/exploits/52490",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-4d7281ce5a",
+      "source": "msf",
+      "title": "[webapps] WBCE CMS 1.6.4 - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52489",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-889e01a627",
+      "source": "msf",
+      "title": "[webapps] RiteCMS 3.1.0 - Authenticated Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52488",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-9aac150b4a",
+      "source": "msf",
+      "title": "[webapps] WordPress  Madara - Local File Inclusion",
+      "url": "https://www.exploit-db.com/exploits/52487",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-bed48c0760",
+      "source": "msf",
+      "title": "[webapps] WordPress Backup Migration 1.3.7 - Remote Command Execution",
+      "url": "https://www.exploit-db.com/exploits/52486",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 03 Mar 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-5b650fca83",
+      "source": "msf",
+      "title": "[webapps] mailcow 2025-01a - Host Header Password Reset Poisoning",
+      "url": "https://www.exploit-db.com/exploits/52485",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 03 Mar 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-d3f4555d09",
+      "source": "msf",
+      "title": "[webapps] Easy File Sharing Web Server v7.2 - Buffer Overflow",
+      "url": "https://www.exploit-db.com/exploits/52484",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 03 Mar 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f83e726dfe",
+      "source": "msf",
+      "title": "[webapps] WeGIA 3.5.0 - SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52483",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 03 Mar 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-650b6d8bfd",
+      "source": "msf",
+      "title": "[webapps] Boss Mini v1.4.0 - Local File Inclusion (LFI)",
+      "url": "https://www.exploit-db.com/exploits/52482",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 03 Mar 2026 00:00:00 +0000"
     }
   ]
 }
