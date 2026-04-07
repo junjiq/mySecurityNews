@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-07T15:31:26.042503+00:00",
+  "generated_at": "2026-04-07T16:24:38.349648+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 362,
-    "zennqiita": 87,
+    "hn": 366,
+    "zennqiita": 83,
     "project": 1
   },
   "severity_counts": {
+    "critical": 11,
     "medium": 6,
-    "critical": 10,
     "high": 2
   },
   "top_articles": [
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Google open-sources experimental agent orchestration testbed Scion",
+      "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-07T13:39:15+00:00"
+    },
     {
       "title": "Battle for Wesnoth: open-source, turn-based strategy game",
       "url": "https://www.wesnoth.org",
