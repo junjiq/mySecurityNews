@@ -1,9 +1,16 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T19:50:35.022347+00:00",
-  "total_articles": 57,
-  "urgent_count": 3,
+  "generated_at": "2026-04-07T20:14:01.889514+00:00",
+  "total_articles": 64,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
+      "url": "https://netbsd-cells.petermann-digital.de/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-07T19:54:06+00:00"
+    },
     {
       "title": "US Labor Force Participation Continues to Slide",
       "url": "https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/potential-workers-on-the-sidelines-labor-force-participation-continues-to-slide/",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 52,
       "top_items": [
         {
           "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
           "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-          "score": 613,
+          "score": 623,
           "source": "hn",
           "severity": null,
           "date": "2026-04-07T11:07:44+00:00"
@@ -48,9 +55,17 @@
           "date": "2026-04-07T09:57:39+00:00"
         },
         {
+          "title": "Project Glasswing: Securing critical software for the AI era",
+          "url": "https://www.anthropic.com/glasswing",
+          "score": 374,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-04-07T18:09:34+00:00"
+        },
+        {
           "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
           "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-          "score": 340,
+          "score": 344,
           "source": "hn",
           "severity": null,
           "date": "2026-04-07T10:25:12+00:00"
@@ -62,60 +77,52 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-07T13:23:05+00:00"
-        },
-        {
-          "title": "Project Glasswing: Securing critical software for the AI era",
-          "url": "https://www.anthropic.com/glasswing",
-          "score": 306,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-04-07T18:09:34+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 12,
       "top_items": [
         {
-          "title": "Claude Codeで無駄に時間を消耗してしまう7つのミス（とその改善方法）",
-          "url": "https://qiita.com/Takumi_Kenta/items/ba51ac72fd10ebcd0a91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "マルチベンダー開発でAPIの管理責任の所在が曖昧になってしまった話",
+          "url": "https://qiita.com/km23/items/f3deaf3a5c9f31b0e1f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-07T14:18:49+09:00"
+          "date": "2026-04-08T01:38:13+09:00"
         },
         {
-          "title": "【Git初心者向け】新人の頃に欲しかったGitコマンドまとめ（コピペOK・用途別）",
-          "url": "https://qiita.com/redwings_a/items/fce80534fb495f532c2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された",
+          "url": "https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-07T13:57:41+09:00"
+          "date": "2026-04-07T22:28:02+09:00"
         },
         {
-          "title": "【参加レポート】 Security Days Spring 2026 Tokyoに参加しました！",
-          "url": "https://qiita.com/skoda007/items/651d9dc904aefe4f411f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Java Stream APIをfor文と比較【初心者向け】",
+          "url": "https://qiita.com/w_pechi/items/27ca37ee66931f3a39b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-07T12:55:28+09:00"
+          "date": "2026-04-07T19:07:34+09:00"
         },
         {
-          "title": "仕様駆動開発は、ウォーターフォールへの回帰ではない。",
-          "url": "https://qiita.com/ju-kosaka/items/3674294dc301f5dcf453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "React の state とは何かを改めて整理した",
+          "url": "https://qiita.com/ryo_sh/items/ef1af33a71b1e4ead816?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-07T12:51:30+09:00"
+          "date": "2026-04-07T18:43:47+09:00"
         },
         {
-          "title": "エンジニア未経験でも一目置かれるポートフォリオ。ビジネス視点で顧客に価値を届ける。",
-          "url": "https://qiita.com/masa20057/items/3237a14437fbaad63f46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【Git】実務でよく使うGitコマンドまとめ",
+          "url": "https://qiita.com/yuto-vj/items/0752494aae131cc07359?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-07T11:50:12+09:00"
+          "date": "2026-04-07T18:35:04+09:00"
         }
       ]
     }
