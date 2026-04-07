@@ -1,7 +1,7 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T00:28:26.673479+00:00",
-  "total_articles": 70,
+  "generated_at": "2026-04-07T01:02:39.626357+00:00",
+  "total_articles": 67,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,8 +29,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 51,
       "top_items": [
+        {
+          "title": "Sam Altman may control our future – can he be trusted?",
+          "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+          "score": 773,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-06T10:36:57+00:00"
+        },
         {
           "title": "I won't download your app. The web version is a-ok",
           "url": "https://www.0xsid.com/blog/wont-download-your-app",
@@ -42,18 +50,10 @@
         {
           "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
           "url": "https://github.com/anthropics/claude-code/issues/42796",
-          "score": 718,
+          "score": 734,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-06T13:50:35+00:00"
-        },
-        {
-          "title": "Sam Altman may control our future – can he be trusted?",
-          "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-          "score": 702,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-06T10:36:57+00:00"
         },
         {
           "title": "France pulls last gold held in US for $15B gain",
@@ -66,7 +66,7 @@
         {
           "title": "The cult of vibe coding is dogfooding run amok",
           "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
-          "score": 451,
+          "score": 459,
           "source": "hn",
           "severity": null,
           "date": "2026-04-06T18:31:03+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 17,
+      "count": 16,
       "top_items": [
         {
           "title": "【今さら聞けない】OpenClawについて詳しくまとめてみた",
