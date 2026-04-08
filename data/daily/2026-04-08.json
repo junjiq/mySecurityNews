@@ -1,26 +1,18 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T19:31:58.077629+00:00",
-  "total_articles": 55,
-  "urgent_count": 1,
-  "urgent_items": [
-    {
-      "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
-      "url": "https://netbsd-cells.petermann-digital.de/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-07T19:54:06+00:00"
-    }
-  ],
+  "generated_at": "2026-04-08T20:14:41.909777+00:00",
+  "total_articles": 62,
+  "urgent_count": 0,
+  "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
         {
           "title": "Git commands I run before reading any code",
           "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-          "score": 1395,
+          "score": 1478,
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T08:53:42+00:00"
@@ -28,7 +20,7 @@
         {
           "title": "Veracrypt project update",
           "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-          "score": 963,
+          "score": 992,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-08T07:23:39+00:00"
@@ -36,7 +28,7 @@
         {
           "title": "I ported Mac OS X to the Nintendo Wii",
           "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-          "score": 671,
+          "score": 770,
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T15:40:00+00:00"
@@ -52,7 +44,7 @@
         {
           "title": "US cities are axing Flock Safety surveillance technology",
           "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
-          "score": 489,
+          "score": 519,
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T12:26:14+00:00"
@@ -61,47 +53,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 14,
       "top_items": [
         {
-          "title": "Exadata へ Oracle ACFS NAS Maximum Availability Extensions (ACFS NAS MAX)を設定してみてみた",
-          "url": "https://qiita.com/shirok/items/b05b23fb02ae1a9a7349?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "React で ref をどう扱うかを整理する",
+          "url": "https://qiita.com/ryo_sh/items/3271d742da296e6a4622?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-08T16:27:34+09:00"
+          "date": "2026-04-08T18:45:48+09:00"
         },
         {
-          "title": "【後編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴",
-          "url": "https://qiita.com/hitomin_poke/items/eb731b9d753ca7cda3c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【Git】実務でよくあるGitエラーと対処法まとめ",
+          "url": "https://qiita.com/yuto-vj/items/402d4a9c414354220ba3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-08T12:50:49+09:00"
+          "date": "2026-04-08T18:14:01+09:00"
         },
         {
-          "title": "前編：Claude Codeで便利だと感じた点（概要・考え方）",
-          "url": "https://qiita.com/aito1234/items/e79011def2d0437f30e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "JUnitでMockを使用した単体テストの書き方",
+          "url": "https://qiita.com/S_kamon/items/09dcce1e1c0f12bbfb6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-08T12:37:47+09:00"
+          "date": "2026-04-08T17:51:00+09:00"
         },
         {
-          "title": "Spring Bootのステレオタイプアノテーションを整理する",
-          "url": "https://qiita.com/S_kamon/items/5768fdeeaca34f1cb5b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "後編：Claude Codeで便利だと感じた点（使い方）",
+          "url": "https://qiita.com/aito1234/items/a9c6e8cf81d76b596ca7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-08T11:18:52+09:00"
+          "date": "2026-04-08T17:20:23+09:00"
         },
         {
-          "title": "SDD×マルチエージェントシステムによるAI駆動開発",
-          "url": "https://qiita.com/shuto_nakatsubo/items/5d3c83b65c40197ea33d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "C# / .NETで始める依存性注入（DI）",
+          "url": "https://qiita.com/hiroki_notes/items/c4ea49e23564ba9e9a97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-08T11:09:04+09:00"
+          "date": "2026-04-08T16:31:24+09:00"
         }
       ]
     },
