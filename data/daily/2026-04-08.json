@@ -1,8 +1,8 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T17:52:06.804405+00:00",
+  "generated_at": "2026-04-08T18:28:23.544763+00:00",
   "total_articles": 56,
-  "urgent_count": 3,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
@@ -17,13 +17,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-07T19:12:16+00:00"
-    },
-    {
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "url": "https://www.anthropic.com/glasswing",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-07T18:09:34+00:00"
     }
   ],
   "categories": [
@@ -32,17 +25,9 @@
       "count": 48,
       "top_items": [
         {
-          "title": "Project Glasswing: Securing critical software for the AI era",
-          "url": "https://www.anthropic.com/glasswing",
-          "score": 1447,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-04-07T18:09:34+00:00"
-        },
-        {
           "title": "Git commands I run before reading any code",
           "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-          "score": 1210,
+          "score": 1283,
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T08:53:42+00:00"
@@ -50,18 +35,10 @@
         {
           "title": "Veracrypt project update",
           "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-          "score": 879,
+          "score": 918,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-08T07:23:39+00:00"
-        },
-        {
-          "title": "System Card: Claude Mythos Preview [pdf]",
-          "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-          "score": 789,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-07T18:18:36+00:00"
         },
         {
           "title": "US and Iran agree to provisional ceasefire",
@@ -70,6 +47,22 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-07T22:41:02+00:00"
+        },
+        {
+          "title": "I Ported Mac OS X to the Nintendo Wii",
+          "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+          "score": 503,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-08T15:40:00+00:00"
+        },
+        {
+          "title": "US cities are axing Flock Safety surveillance technology",
+          "url": "https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/",
+          "score": 449,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-08T12:26:14+00:00"
         }
       ]
     },
