@@ -1,10 +1,10 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-07T23:45:25.350418+00:00",
+  "generated_at": "2026-04-08T00:28:55.217010+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 369,
-    "zennqiita": 80,
+    "hn": 370,
+    "zennqiita": 79,
     "project": 1
   },
   "severity_counts": {
@@ -13,13 +13,6 @@
     "high": 2
   },
   "top_articles": [
-    {
-      "title": "LinkedIn is searching your browser extensions",
-      "url": "https://browsergate.eu/",
-      "score": 1806,
-      "source": "hn",
-      "date": "2026-04-02T13:09:09+00:00"
-    },
     {
       "title": "Sam Altman may control our future – can he be trusted?",
       "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
@@ -70,6 +63,13 @@
       "date": "2026-04-05T18:45:53+00:00"
     },
     {
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "score": 828,
+      "source": "hn",
+      "date": "2026-04-07T18:09:34+00:00"
+    },
+    {
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
       "url": "https://github.com/arman-bd/guppylm",
       "score": 827,
@@ -89,13 +89,6 @@
       "score": 789,
       "source": "hn",
       "date": "2026-04-05T12:43:47+00:00"
-    },
-    {
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "url": "https://www.anthropic.com/glasswing",
-      "score": 785,
-      "source": "hn",
-      "date": "2026-04-07T18:09:34+00:00"
     },
     {
       "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
@@ -126,6 +119,13 @@
       "date": "2026-04-05T08:56:18+00:00"
     },
     {
+      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+      "score": 689,
+      "source": "hn",
+      "date": "2026-04-07T11:07:44+00:00"
+    },
+    {
       "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
       "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
       "score": 686,
@@ -140,18 +140,18 @@
       "date": "2026-04-03T12:33:45+00:00"
     },
     {
-      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
-      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 681,
-      "source": "hn",
-      "date": "2026-04-07T11:07:44+00:00"
-    },
-    {
       "title": "Why Switzerland has 25 Gbit internet and America doesn't",
       "url": "https://sschueller.github.io/posts/the-free-market-lie/",
       "score": 629,
       "source": "hn",
       "date": "2026-04-05T18:29:47+00:00"
+    },
+    {
+      "title": "Show HN: Apfel – The free AI already on your Mac",
+      "url": "https://apfel.franzai.com",
+      "score": 617,
+      "source": "hn",
+      "date": "2026-04-03T09:15:34+00:00"
     }
   ],
   "security_highlights": [
