@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-08T03:35:52.028109+00:00",
-  "total_articles": 450,
+  "generated_at": "2026-04-08T04:51:50.982011+00:00",
+  "total_articles": 451,
   "source_counts": {
     "hn": 370,
     "zennqiita": 79,
-    "project": 1
+    "project": 2
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 12,
     "medium": 6,
     "high": 2
   },
@@ -42,18 +42,18 @@
       "date": "2026-04-02T16:00:27+00:00"
     },
     {
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "score": 1040,
+      "source": "hn",
+      "date": "2026-04-07T18:09:34+00:00"
+    },
+    {
       "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "score": 987,
       "source": "hn",
       "date": "2026-04-03T19:35:02+00:00"
-    },
-    {
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "url": "https://www.anthropic.com/glasswing",
-      "score": 983,
-      "source": "hn",
-      "date": "2026-04-07T18:09:34+00:00"
     },
     {
       "title": "Show HN: A game where you build a GPU",
@@ -114,7 +114,7 @@
     {
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 712,
+      "score": 721,
       "source": "hn",
       "date": "2026-04-07T11:07:44+00:00"
     },
@@ -252,13 +252,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-04-03T16:21:32+00:00"
-    },
-    {
-      "title": "Delve allegedly forked an open-source tool and sold it as its own",
-      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-02T15:03:08+00:00"
     }
   ]
 }
