@@ -1,7 +1,7 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T12:49:13.159930+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-04-08T13:34:26.736170+00:00",
+  "total_articles": 59,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 50,
       "top_items": [
         {
           "title": "Project Glasswing: Securing critical software for the AI era",
           "url": "https://www.anthropic.com/glasswing",
-          "score": 1348,
+          "score": 1368,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-07T18:09:34+00:00"
@@ -49,7 +49,7 @@
         {
           "title": "Lunar Flyby",
           "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-          "score": 792,
+          "score": 816,
           "source": "hn",
           "severity": null,
           "date": "2026-04-07T15:03:18+00:00"
@@ -57,7 +57,7 @@
         {
           "title": "System Card: Claude Mythos Preview [pdf]",
           "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-          "score": 741,
+          "score": 754,
           "source": "hn",
           "severity": null,
           "date": "2026-04-07T18:18:36+00:00"
@@ -65,24 +65,24 @@
         {
           "title": "GLM-5.1: Towards Long-Horizon Tasks",
           "url": "https://z.ai/blog/glm-5.1",
-          "score": 557,
+          "score": 566,
           "source": "hn",
           "severity": null,
           "date": "2026-04-07T16:32:15+00:00"
         },
         {
-          "title": "US and Iran agree to provisional ceasefire",
-          "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-          "score": 520,
+          "title": "Veracrypt project update",
+          "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+          "score": 559,
           "source": "hn",
-          "severity": null,
-          "date": "2026-04-07T22:41:02+00:00"
+          "severity": "medium",
+          "date": "2026-04-08T07:23:39+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
         {
           "title": "Exadata へ Oracle ACFS NAS Maximum Availability Extensions (ACFS NAS MAX)を設定してみてみた",
