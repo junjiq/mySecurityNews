@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-08T07:33:59.700456+00:00",
-  "total_articles": 451,
+  "generated_at": "2026-04-08T08:29:33.361949+00:00",
+  "total_articles": 464,
   "source_counts": {
-    "hn": 371,
-    "zennqiita": 78,
-    "project": 2
+    "hn": 374,
+    "zennqiita": 87,
+    "project": 3
   },
   "severity_counts": {
+    "medium": 7,
     "critical": 12,
-    "medium": 6,
     "high": 2
   },
   "top_articles": [
@@ -30,7 +30,7 @@
     {
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 1204,
+      "score": 1241,
       "source": "hn",
       "date": "2026-04-07T18:09:34+00:00"
     },
@@ -140,18 +140,18 @@
       "date": "2026-04-03T12:33:45+00:00"
     },
     {
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 652,
-      "source": "hn",
-      "date": "2026-04-07T18:18:36+00:00"
-    },
-    {
       "title": "Lunar Flyby",
       "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "score": 641,
+      "score": 678,
       "source": "hn",
       "date": "2026-04-07T15:03:18+00:00"
+    },
+    {
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+      "score": 665,
+      "source": "hn",
+      "date": "2026-04-07T18:18:36+00:00"
     }
   ],
   "security_highlights": [

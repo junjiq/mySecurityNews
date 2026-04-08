@@ -1,7 +1,7 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T07:33:59.659122+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-04-08T08:29:33.320442+00:00",
+  "total_articles": 75,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 61,
       "top_items": [
         {
           "title": "Project Glasswing: Securing critical software for the AI era",
           "url": "https://www.anthropic.com/glasswing",
-          "score": 1204,
+          "score": 1241,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-07T18:09:34+00:00"
@@ -55,25 +55,25 @@
           "date": "2026-04-07T11:07:44+00:00"
         },
         {
-          "title": "System Card: Claude Mythos Preview [pdf]",
-          "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-          "score": 652,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-07T18:18:36+00:00"
-        },
-        {
           "title": "Lunar Flyby",
           "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-          "score": 641,
+          "score": 678,
           "source": "hn",
           "severity": null,
           "date": "2026-04-07T15:03:18+00:00"
         },
         {
+          "title": "System Card: Claude Mythos Preview [pdf]",
+          "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+          "score": 665,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-07T18:18:36+00:00"
+        },
+        {
           "title": "GLM-5.1: Towards Long-Horizon Tasks",
           "url": "https://z.ai/blog/glm-5.1",
-          "score": 506,
+          "score": 515,
           "source": "hn",
           "severity": null,
           "date": "2026-04-07T16:32:15+00:00"
@@ -82,54 +82,62 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 12,
       "top_items": [
         {
-          "title": "マルチベンダー開発でAPIの管理責任の所在が曖昧になってしまった話",
-          "url": "https://qiita.com/km23/items/f3deaf3a5c9f31b0e1f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Exadata へ Oracle ACFS NAS Maximum Availability Extensions (ACFS NAS MAX)を設定してみてみた",
+          "url": "https://qiita.com/shirok/items/b05b23fb02ae1a9a7349?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-08T01:38:13+09:00"
+          "date": "2026-04-08T16:27:34+09:00"
         },
         {
-          "title": "自作の短縮URLを社内Slackに貼ったら「フィッシングです」とセキュリティチームに通報された",
-          "url": "https://qiita.com/kojin_dev_hub/items/e8803a092dd192543fb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【後編】9割の新人エンジニアがやっている 「失礼しました」の落とし穴",
+          "url": "https://qiita.com/hitomin_poke/items/eb731b9d753ca7cda3c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-07T22:28:02+09:00"
+          "date": "2026-04-08T12:50:49+09:00"
         },
         {
-          "title": "Java Stream APIをfor文と比較【初心者向け】",
-          "url": "https://qiita.com/w_pechi/items/27ca37ee66931f3a39b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "前編：Claude Codeで便利だと感じた点（概要・考え方）",
+          "url": "https://qiita.com/aito1234/items/e79011def2d0437f30e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-07T19:07:34+09:00"
+          "date": "2026-04-08T12:37:47+09:00"
         },
         {
-          "title": "React の state とは何かを改めて整理した",
-          "url": "https://qiita.com/ryo_sh/items/ef1af33a71b1e4ead816?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Spring Bootのステレオタイプアノテーションを整理する",
+          "url": "https://qiita.com/S_kamon/items/5768fdeeaca34f1cb5b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-07T18:43:47+09:00"
+          "date": "2026-04-08T11:18:52+09:00"
         },
         {
-          "title": "【Git】実務でよく使うGitコマンドまとめ",
-          "url": "https://qiita.com/yuto-vj/items/0752494aae131cc07359?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "SDD×マルチエージェントシステムによるAI駆動開発",
+          "url": "https://qiita.com/shuto_nakatsubo/items/5d3c83b65c40197ea33d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-07T18:35:04+09:00"
+          "date": "2026-04-08T11:09:04+09:00"
         }
       ]
     },
     {
       "category": "注目リリース",
-      "count": 1,
+      "count": 2,
       "top_items": [
+        {
+          "title": "ChromaDB 1.5.7 — 1.5.7",
+          "url": "https://github.com/chroma-core/chroma/releases/tag/1.5.7",
+          "score": null,
+          "source": "project",
+          "severity": null,
+          "date": "2026-04-08T07:49:29Z"
+        },
         {
           "title": "ChromaDB cli-1.4.3 — cli-1.4.3",
           "url": "https://github.com/chroma-core/chroma/releases/tag/cli-1.4.3",
