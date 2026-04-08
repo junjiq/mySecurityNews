@@ -1,7 +1,7 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T14:35:46.496817+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-04-08T15:31:55.085982+00:00",
+  "total_articles": 56,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,47 +29,47 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 47,
       "top_items": [
         {
           "title": "Project Glasswing: Securing critical software for the AI era",
           "url": "https://www.anthropic.com/glasswing",
-          "score": 1399,
+          "score": 1419,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-07T18:09:34+00:00"
         },
         {
-          "title": "Lunar Flyby",
-          "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-          "score": 847,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-07T15:03:18+00:00"
-        },
-        {
-          "title": "System Card: Claude Mythos Preview [pdf]",
-          "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-          "score": 771,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-07T18:18:36+00:00"
-        },
-        {
           "title": "Git commands I run before reading any code",
           "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-          "score": 747,
+          "score": 910,
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T08:53:42+00:00"
         },
         {
+          "title": "System Card: Claude Mythos Preview [pdf]",
+          "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+          "score": 779,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-07T18:18:36+00:00"
+        },
+        {
           "title": "Veracrypt project update",
           "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-          "score": 638,
+          "score": 705,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-08T07:23:39+00:00"
+        },
+        {
+          "title": "GLM-5.1: Towards Long-Horizon Tasks",
+          "url": "https://z.ai/blog/glm-5.1",
+          "score": 580,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-07T16:32:15+00:00"
         }
       ]
     },
