@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T11:48:14.637381+00:00",
-  "total_articles": 43,
+  "generated_at": "2026-04-09T12:23:21.684881+00:00",
+  "total_articles": 44,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -20,7 +20,7 @@
         {
           "title": "I ported Mac OS X to the Nintendo Wii",
           "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-          "score": 1638,
+          "score": 1663,
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T15:40:00+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "LittleSnitch for Linux",
           "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-          "score": 838,
+          "score": 877,
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T00:26:08+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "ML promises to be profoundly weird",
           "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
-          "score": 516,
+          "score": 524,
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T13:06:33+00:00"
@@ -61,8 +61,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 6,
       "top_items": [
+        {
+          "title": "Exadata へ Oracle ACFS NAS Maximum Availability Extensions (ACFS NAS MAX)を設定してみてみた",
+          "url": "https://qiita.com/shirok/items/b05b23fb02ae1a9a7349?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-09T21:01:06+09:00"
+        },
         {
           "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第3章/7章) 開発ワークフロー編",
           "url": "https://qiita.com/chomado/items/74e0361cf92bc5335723?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-09T10:24:10+09:00"
-        },
-        {
-          "title": "ローカル環境のS3をlocalstackからRustFSへ",
-          "url": "https://qiita.com/michi-yzrh/items/66c01a87e57b148212b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-09T09:42:54+09:00"
         }
       ]
     }
