@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T19:54:53.778865+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-04-09T20:19:11.362294+00:00",
+  "total_articles": 54,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 45,
       "top_items": [
         {
           "title": "LittleSnitch for Linux",
@@ -42,7 +42,7 @@
         {
           "title": "EFF is leaving X",
           "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-          "score": 686,
+          "score": 750,
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T17:08:04+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "Meta removes ads for social media addiction litigation",
           "url": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
-          "score": 455,
+          "score": 462,
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T13:23:50+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 9,
       "top_items": [
         {
           "title": "Exadata へ Oracle ACFS NAS Maximum Availability Extensions (ACFS NAS MAX)を設定してみてみた",
@@ -86,6 +86,22 @@
           "date": "2026-04-09T21:01:06+09:00"
         },
         {
+          "title": "equals()とhashCode()をオーバーライドしないと何が起きるか",
+          "url": "https://qiita.com/S_kamon/items/e80c066455beca2e344e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-09T18:39:06+09:00"
+        },
+        {
+          "title": "AIエージェントの仕組みと振る舞いを整理してみた",
+          "url": "https://qiita.com/aito1234/items/d7003fc8f8941f886caf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-09T18:36:33+09:00"
+        },
+        {
           "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第3章/7章) 開発ワークフロー編",
           "url": "https://qiita.com/chomado/items/74e0361cf92bc5335723?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -94,28 +110,12 @@
           "date": "2026-04-09T16:38:22+09:00"
         },
         {
-          "title": "「なぜこの言語で開発するの？」と聞かれた時に、納得してもらう説明の方法",
-          "url": "https://qiita.com/ssaita/items/6dda0b4e6d018cc6aa14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "初心者こそ知っておきたい「単一責任の原則」",
+          "url": "https://qiita.com/hiroki_notes/items/76eb3df7fbc26059c03c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-09T12:30:45+09:00"
-        },
-        {
-          "title": "脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」",
-          "url": "https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-09T11:44:26+09:00"
-        },
-        {
-          "title": "【35歳未経験でも理解できた】SPAへの進化",
-          "url": "https://qiita.com/wata-sho/items/e38b3523685367108b68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-09T10:24:10+09:00"
+          "date": "2026-04-09T16:24:00+09:00"
         }
       ]
     }
