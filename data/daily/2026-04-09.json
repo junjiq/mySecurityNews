@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T07:41:44.295515+00:00",
-  "total_articles": 44,
+  "generated_at": "2026-04-09T08:33:50.769721+00:00",
+  "total_articles": 49,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -20,7 +20,7 @@
         {
           "title": "Git commands I run before reading any code",
           "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-          "score": 1981,
+          "score": 2011,
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T08:53:42+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "I ported Mac OS X to the Nintendo Wii",
           "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-          "score": 1495,
+          "score": 1528,
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T15:40:00+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "LittleSnitch for Linux",
           "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-          "score": 570,
+          "score": 643,
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T00:26:08+00:00"
@@ -61,53 +61,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 10,
       "top_items": [
         {
-          "title": "React で ref をどう扱うかを整理する",
-          "url": "https://qiita.com/ryo_sh/items/3271d742da296e6a4622?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第3章/7章) 開発ワークフロー編",
+          "url": "https://qiita.com/chomado/items/74e0361cf92bc5335723?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-08T18:45:48+09:00"
+          "date": "2026-04-09T16:38:22+09:00"
         },
         {
-          "title": "【Git】実務でよくあるGitエラーと対処法まとめ",
-          "url": "https://qiita.com/yuto-vj/items/402d4a9c414354220ba3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「なぜこの言語で開発するの？」と聞かれた時に、納得してもらう説明の方法",
+          "url": "https://qiita.com/ssaita/items/6dda0b4e6d018cc6aa14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-08T18:14:01+09:00"
+          "date": "2026-04-09T12:30:45+09:00"
         },
         {
-          "title": "JUnitでMockを使用した単体テストの書き方",
-          "url": "https://qiita.com/S_kamon/items/09dcce1e1c0f12bbfb6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "脱・セキュリティ初心者。現場の信頼を勝ち取るための「3つの原則」と「1つの習慣」",
+          "url": "https://qiita.com/masa20057/items/be5d46e82f7301747e86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-08T17:51:00+09:00"
+          "date": "2026-04-09T11:44:26+09:00"
         },
         {
-          "title": "後編：Claude Codeで便利だと感じた点（使い方）",
-          "url": "https://qiita.com/aito1234/items/a9c6e8cf81d76b596ca7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【35歳未経験でも理解できた】SPAへの進化",
+          "url": "https://qiita.com/wata-sho/items/e38b3523685367108b68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-08T17:20:23+09:00"
-        }
-      ]
-    },
-    {
-      "category": "注目リリース",
-      "count": 1,
-      "top_items": [
+          "date": "2026-04-09T10:24:10+09:00"
+        },
         {
-          "title": "ChromaDB 1.5.7 — 1.5.7",
-          "url": "https://github.com/chroma-core/chroma/releases/tag/1.5.7",
+          "title": "ローカル環境のS3をlocalstackからRustFSへ",
+          "url": "https://qiita.com/michi-yzrh/items/66c01a87e57b148212b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
-          "source": "project",
+          "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-08T07:49:29Z"
+          "date": "2026-04-09T09:42:54+09:00"
         }
       ]
     }
