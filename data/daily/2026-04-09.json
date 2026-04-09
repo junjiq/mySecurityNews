@@ -1,7 +1,7 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T14:38:27.582261+00:00",
-  "total_articles": 46,
+  "generated_at": "2026-04-09T15:33:37.614466+00:00",
+  "total_articles": 44,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 38,
       "top_items": [
         {
           "title": "I ported Mac OS X to the Nintendo Wii",
@@ -28,18 +28,10 @@
         {
           "title": "LittleSnitch for Linux",
           "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-          "score": 1023,
+          "score": 1083,
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T00:26:08+00:00"
-        },
-        {
-          "title": "Microsoft terminates VeraCrypt account, halting Windows updates",
-          "url": "https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/",
-          "score": 468,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-04-08T14:46:15+00:00"
         },
         {
           "title": "Understanding the Kalman filter with a simple radar example",
@@ -56,6 +48,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T21:33:06+00:00"
+        },
+        {
+          "title": "Muse Spark: Scaling towards personal superintelligence",
+          "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+          "score": 360,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-08T16:01:32+00:00"
         }
       ]
     },
