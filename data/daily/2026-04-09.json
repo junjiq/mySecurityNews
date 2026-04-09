@@ -1,18 +1,26 @@
 {
   "date": "2026-04-09",
-  "generated_at": "2026-04-09T04:19:54.690211+00:00",
+  "generated_at": "2026-04-09T05:16:01.010146+00:00",
   "total_articles": 49,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Open Source Security at Astral",
+      "url": "https://astral.sh/blog/open-source-security-at-astral",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-09T04:11:55+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 42,
       "top_items": [
         {
           "title": "Git commands I run before reading any code",
           "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-          "score": 1880,
+          "score": 1900,
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T08:53:42+00:00"
@@ -20,7 +28,7 @@
         {
           "title": "I ported Mac OS X to the Nintendo Wii",
           "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-          "score": 1354,
+          "score": 1398,
           "source": "hn",
           "severity": null,
           "date": "2026-04-08T15:40:00+00:00"
@@ -99,7 +107,7 @@
     },
     {
       "category": "注目リリース",
-      "count": 2,
+      "count": 1,
       "top_items": [
         {
           "title": "ChromaDB 1.5.7 — 1.5.7",
@@ -108,14 +116,6 @@
           "source": "project",
           "severity": null,
           "date": "2026-04-08T07:49:29Z"
-        },
-        {
-          "title": "ChromaDB cli-1.4.3 — cli-1.4.3",
-          "url": "https://github.com/chroma-core/chroma/releases/tag/cli-1.4.3",
-          "score": null,
-          "source": "project",
-          "severity": null,
-          "date": "2026-04-08T04:25:36Z"
         }
       ]
     }
