@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-09T19:29:02.550983+00:00",
+  "generated_at": "2026-04-09T19:54:53.818756+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 369,
@@ -9,8 +9,7 @@
   },
   "severity_counts": {
     "medium": 8,
-    "critical": 15,
-    "high": 1
+    "critical": 15
   },
   "top_articles": [
     {
@@ -147,11 +146,11 @@
       "date": "2026-04-05T08:56:18+00:00"
     },
     {
-      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "title": "EFF is leaving X",
+      "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
       "score": 686,
       "source": "hn",
-      "date": "2026-04-04T14:48:26+00:00"
+      "date": "2026-04-09T17:08:04+00:00"
     }
   ],
   "security_highlights": [
@@ -259,13 +258,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-04T14:20:21+00:00"
-    },
-    {
-      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-04-03T23:46:51+00:00"
     }
   ]
 }
