@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-09T15:33:37.654921+00:00",
-  "total_articles": 454,
+  "generated_at": "2026-04-09T16:31:55.022004+00:00",
+  "total_articles": 451,
   "source_counts": {
-    "hn": 371,
-    "zennqiita": 80,
+    "hn": 369,
+    "zennqiita": 79,
     "project": 3
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 14,
     "medium": 7,
     "high": 1
   },
@@ -49,25 +49,18 @@
       "date": "2026-04-06T13:50:35+00:00"
     },
     {
+      "title": "LittleSnitch for Linux",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "score": 1128,
+      "source": "hn",
+      "date": "2026-04-09T00:26:08+00:00"
+    },
+    {
       "title": "Veracrypt project update",
       "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
       "score": 1113,
       "source": "hn",
       "date": "2026-04-08T07:23:39+00:00"
-    },
-    {
-      "title": "LittleSnitch for Linux",
-      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "score": 1083,
-      "source": "hn",
-      "date": "2026-04-09T00:26:08+00:00"
-    },
-    {
-      "title": "Artemis II crew take “spectacular” image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 987,
-      "source": "hn",
-      "date": "2026-04-03T19:35:02+00:00"
     },
     {
       "title": "Lunar Flyby",
@@ -152,9 +145,23 @@
       "score": 704,
       "source": "hn",
       "date": "2026-04-05T08:56:18+00:00"
+    },
+    {
+      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "score": 686,
+      "source": "hn",
+      "date": "2026-04-04T14:48:26+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Vercel Claude Code plugin wants to read your prompt",
+      "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-09T15:17:27+00:00"
+    },
     {
       "title": "Open Source Security at Astral",
       "url": "https://astral.sh/blog/open-source-security-at-astral",
