@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "generated_at": "2026-04-10T07:34:27.379955+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-04-10T08:33:23.350990+00:00",
+  "total_articles": 73,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 58,
       "top_items": [
         {
           "title": "EFF is leaving X",
@@ -43,7 +43,7 @@
         {
           "title": "Native Instant Space Switching on macOS",
           "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-          "score": 455,
+          "score": 477,
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T19:48:26+00:00"
@@ -57,50 +57,58 @@
           "date": "2026-04-09T09:25:28+00:00"
         },
         {
-          "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
-          "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
-          "score": 311,
+          "title": "How NASA built Artemis II’s fault-tolerant computer",
+          "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+          "score": 336,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-09T08:55:18+00:00"
+          "date": "2026-04-09T15:12:40+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 15,
       "top_items": [
         {
-          "title": "Exadata へ Oracle ACFS NAS Maximum Availability Extensions (ACFS NAS MAX)を設定してみてみた",
-          "url": "https://qiita.com/shirok/items/b05b23fb02ae1a9a7349?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "“書けるだけ”じゃ足りない。今どきエンジニアに必要なスキルの話",
+          "url": "https://qiita.com/prum_hitomi/items/79f74ec8cd016172619b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-09T21:01:06+09:00"
+          "date": "2026-04-10T13:18:50+09:00"
         },
         {
-          "title": "equals()とhashCode()をオーバーライドしないと何が起きるか",
-          "url": "https://qiita.com/S_kamon/items/e80c066455beca2e344e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「QAって何？」の認識を揃えたら、PdMもデザイナーもコードを書くチームになった話",
+          "url": "https://qiita.com/hiroto_0411/items/0bef2cec758e25926e5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-09T18:39:06+09:00"
+          "date": "2026-04-10T12:43:40+09:00"
         },
         {
-          "title": "AIエージェントの仕組みと振る舞いを整理してみた",
-          "url": "https://qiita.com/aito1234/items/d7003fc8f8941f886caf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「自然言語からSQL」、精度100%の魔法はない。だから「運用」の話をしよう",
+          "url": "https://qiita.com/Dash3/items/55deea61622745a519eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-09T18:36:33+09:00"
+          "date": "2026-04-10T12:27:02+09:00"
         },
         {
-          "title": "GitHub Copilot CLI の公式ハンズオンざっくり和訳 (第3章/7章) 開発ワークフロー編",
-          "url": "https://qiita.com/chomado/items/74e0361cf92bc5335723?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【35歳未経験でも理解できた】Web API",
+          "url": "https://qiita.com/wata-sho/items/d3f222758833cb694672?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-09T16:38:22+09:00"
+          "date": "2026-04-10T10:22:05+09:00"
+        },
+        {
+          "title": "【保存版】組織は人ではなく仕組みで動く｜明日からできる「とにかく仕組み化」実践ガイド",
+          "url": "https://qiita.com/Nao52/items/373b6e612081ab00e05d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-10T09:58:39+09:00"
         }
       ]
     }
