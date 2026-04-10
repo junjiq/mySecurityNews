@@ -1,9 +1,16 @@
 {
   "date": "2026-04-10",
-  "generated_at": "2026-04-10T11:19:50.573118+00:00",
-  "total_articles": 68,
-  "urgent_count": 2,
+  "generated_at": "2026-04-10T11:46:58.209267+00:00",
+  "total_articles": 69,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Microsoft suspends dev accounts for high-profile open source projects",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-10T11:20:51+00:00"
+    },
     {
       "title": "Little Snitch comes to Linux, but the core logic is closed source",
       "url": "https://the.unknown-universe.co.uk/privacy-security/little-snitch-linux/",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 60,
       "top_items": [
         {
           "title": "EFF is leaving X",
@@ -35,7 +42,7 @@
         {
           "title": "Native Instant Space Switching on macOS",
           "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-          "score": 530,
+          "score": 537,
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T19:48:26+00:00"
@@ -51,18 +58,18 @@
         {
           "title": "How NASA built Artemis II’s fault-tolerant computer",
           "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-          "score": 420,
+          "score": 429,
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T15:12:40+00:00"
         },
         {
-          "title": "Old laptops in a colo as low cost servers",
-          "url": "https://colaptop.pages.dev/",
-          "score": 296,
+          "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+          "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+          "score": 313,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-09T18:22:39+00:00"
+          "date": "2026-04-10T10:37:33+00:00"
         }
       ]
     },
