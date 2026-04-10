@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-10T18:18:50.208713+00:00",
-  "total_articles": 453,
+  "generated_at": "2026-04-10T18:47:33.509652+00:00",
+  "total_articles": 450,
   "source_counts": {
-    "hn": 371,
-    "zennqiita": 80,
+    "hn": 369,
+    "zennqiita": 79,
     "project": 2
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 13,
     "medium": 9,
     "high": 1
   },
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-05T07:01:45+00:00"
-    },
-    {
-      "title": "Aegis – open-source FPGA silicon",
-      "url": "https://github.com/MidstallSoftware/aegis",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-05T05:50:04+00:00"
     }
   ]
 }
