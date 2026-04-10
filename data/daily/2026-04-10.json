@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "generated_at": "2026-04-10T06:38:44.154888+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-04-10T07:34:27.379955+00:00",
+  "total_articles": 60,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 56,
       "top_items": [
         {
           "title": "EFF is leaving X",
@@ -43,18 +43,10 @@
         {
           "title": "Native Instant Space Switching on macOS",
           "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-          "score": 436,
+          "score": 455,
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T19:48:26+00:00"
-        },
-        {
-          "title": "Help Keep Thunderbird Alive",
-          "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
-          "score": 426,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-09T07:27:25+00:00"
         },
         {
           "title": "Claude mixes up who said what",
@@ -63,12 +55,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T09:25:28+00:00"
+        },
+        {
+          "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+          "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+          "score": 311,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-09T08:55:18+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 4,
       "top_items": [
         {
           "title": "Exadata へ Oracle ACFS NAS Maximum Availability Extensions (ACFS NAS MAX)を設定してみてみた",
@@ -101,14 +101,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-09T16:38:22+09:00"
-        },
-        {
-          "title": "初心者こそ知っておきたい「単一責任の原則」",
-          "url": "https://qiita.com/hiroki_notes/items/76eb3df7fbc26059c03c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-09T16:24:00+09:00"
         }
       ]
     }
