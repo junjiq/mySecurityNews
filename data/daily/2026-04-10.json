@@ -1,8 +1,8 @@
 {
   "date": "2026-04-10",
-  "generated_at": "2026-04-10T16:19:56.999608+00:00",
-  "total_articles": 72,
-  "urgent_count": 2,
+  "generated_at": "2026-04-10T16:47:26.488514+00:00",
+  "total_articles": 71,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Microsoft suspends dev accounts for high-profile open source projects",
@@ -10,19 +10,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-10T11:20:51+00:00"
-    },
-    {
-      "title": "Little Snitch comes to Linux, but the core logic is closed source",
-      "url": "https://the.unknown-universe.co.uk/privacy-security/little-snitch-linux/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-09T16:36:56+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 63,
+      "count": 62,
       "top_items": [
         {
           "title": "EFF is leaving X",
@@ -43,26 +36,26 @@
         {
           "title": "Native Instant Space Switching on macOS",
           "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-          "score": 590,
+          "score": 594,
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T19:48:26+00:00"
         },
         {
+          "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+          "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+          "score": 374,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-10T11:29:04+00:00"
+        },
+        {
           "title": "I still prefer MCP over skills",
           "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
-          "score": 361,
+          "score": 370,
           "source": "hn",
           "severity": null,
           "date": "2026-04-10T02:01:48+00:00"
-        },
-        {
-          "title": "Old laptops in a colo as low cost servers",
-          "url": "https://colaptop.pages.dev/",
-          "score": 350,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-09T18:22:39+00:00"
         }
       ]
     },
