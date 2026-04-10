@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-10T02:18:35.371025+00:00",
+  "generated_at": "2026-04-10T03:40:21.471564+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 370,
@@ -8,8 +8,9 @@
     "project": 3
   },
   "severity_counts": {
-    "medium": 8,
-    "critical": 15
+    "medium": 9,
+    "critical": 15,
+    "high": 1
   },
   "top_articles": [
     {
@@ -181,6 +182,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-07T19:54:06+00:00"
+    },
+    {
+      "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
+      "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-07T19:14:32+00:00"
     },
     {
       "title": "US Labor Force Participation Continues to Slide",

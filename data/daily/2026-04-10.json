@@ -1,7 +1,7 @@
 {
   "date": "2026-04-10",
-  "generated_at": "2026-04-10T02:18:35.328497+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-04-10T03:40:21.429095+00:00",
+  "total_articles": 59,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 54,
       "top_items": [
         {
           "title": "EFF is leaving X",
@@ -56,26 +56,26 @@
           "date": "2026-04-09T07:27:25+00:00"
         },
         {
+          "title": "Native Instant Space Switching on macOS",
+          "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+          "score": 356,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-09T19:48:26+00:00"
+        },
+        {
           "title": "Claude mixes up who said what",
           "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
           "score": 356,
           "source": "hn",
           "severity": null,
           "date": "2026-04-09T09:25:28+00:00"
-        },
-        {
-          "title": "Open source security at Astral",
-          "url": "https://astral.sh/blog/open-source-security-at-astral",
-          "score": 336,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-04-09T04:11:55+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 5,
       "top_items": [
         {
           "title": "Exadata へ Oracle ACFS NAS Maximum Availability Extensions (ACFS NAS MAX)を設定してみてみた",
