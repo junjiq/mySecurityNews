@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-11T19:16:33.462053+00:00",
+  "generated_at": "2026-04-11T19:43:35.729518+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 362,
-    "zennqiita": 86,
+    "hn": 363,
+    "zennqiita": 85,
     "project": 3
   },
   "severity_counts": {
+    "critical": 13,
     "medium": 9,
-    "critical": 12,
     "high": 1
   },
   "top_articles": [
@@ -42,18 +42,18 @@
       "date": "2026-04-07T18:09:34+00:00"
     },
     {
+      "title": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
+      "score": 1222,
+      "source": "hn",
+      "date": "2026-04-10T22:16:40+00:00"
+    },
+    {
       "title": "LittleSnitch for Linux",
       "url": "https://obdev.at/products/littlesnitch-linux/index.html",
       "score": 1220,
       "source": "hn",
       "date": "2026-04-09T00:26:08+00:00"
-    },
-    {
-      "title": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
-      "score": 1212,
-      "source": "hn",
-      "date": "2026-04-10T22:16:40+00:00"
     },
     {
       "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
@@ -142,7 +142,7 @@
     {
       "title": "Installing every* Firefox extension",
       "url": "https://jack.cab/blog/every-firefox-extension",
-      "score": 586,
+      "score": 588,
       "source": "hn",
       "date": "2026-04-10T21:56:33+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "The APL Programming Language Source Code (2012)",
+      "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-11T17:34:10+00:00"
+    },
     {
       "title": "Microsoft suspends dev accounts for high-profile open source projects",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
