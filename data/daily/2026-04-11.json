@@ -1,7 +1,7 @@
 {
   "date": "2026-04-11",
-  "generated_at": "2026-04-11T03:04:15.383718+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-04-11T04:17:35.535364+00:00",
+  "total_articles": 58,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 55,
       "top_items": [
         {
           "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
@@ -28,10 +28,26 @@
         {
           "title": "1D Chess",
           "url": "https://rowan441.github.io/1dchess/chess.html",
-          "score": 683,
+          "score": 706,
           "source": "hn",
           "severity": null,
           "date": "2026-04-10T15:37:28+00:00"
+        },
+        {
+          "title": "Artemis II safely splashes down",
+          "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+          "score": 575,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-11T00:10:51+00:00"
+        },
+        {
+          "title": "Filing the corners off my MacBooks",
+          "url": "https://kentwalters.com/posts/corners/",
+          "score": 509,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-10T22:16:40+00:00"
         },
         {
           "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
@@ -40,28 +56,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-10T11:29:04+00:00"
-        },
-        {
-          "title": "Artemis II safely splashes down",
-          "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-          "score": 470,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-11T00:10:51+00:00"
-        },
-        {
-          "title": "Filing the corners off my MacBooks",
-          "url": "https://kentwalters.com/posts/corners/",
-          "score": 429,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-10T22:16:40+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 3,
       "top_items": [
         {
           "title": "日本発、LLMの推論を「桁違い」に効率化する新アーキテクチャ「PHOTON」の論文が面白かったのでまとめてみた",
@@ -86,22 +86,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-10T13:18:50+09:00"
-        },
-        {
-          "title": "「QAって何？」の認識を揃えたら、PdMもデザイナーもコードを書くチームになった話",
-          "url": "https://qiita.com/hiroto_0411/items/0bef2cec758e25926e5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-10T12:43:40+09:00"
-        },
-        {
-          "title": "「自然言語からSQL」、精度100%の魔法はない。だから「運用」の話をしよう",
-          "url": "https://qiita.com/Dash3/items/55deea61622745a519eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-10T12:27:02+09:00"
         }
       ]
     }
