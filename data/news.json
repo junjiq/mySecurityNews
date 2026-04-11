@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-11T20:08:29.904722+00:00",
+  "updated_at": "2026-04-11T20:45:16.228184+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47733521",
+      "source": "hn",
+      "title": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
+      "score": 4,
+      "comments": 0,
+      "author": "evo_9",
+      "tags": [],
+      "date": "2026-04-11T20:01:59+00:00"
+    },
     {
       "id": "hn-47733385",
       "source": "hn",
       "title": "Show HN: Editing 2000 photos made me build a macOS bulk photo editor",
       "url": "https://apps.apple.com/us/app/rapidphoto-batch-crop-edit/id6758485661?mt=12",
-      "score": 3,
-      "comments": 0,
+      "score": 8,
+      "comments": 9,
       "author": "om202",
       "tags": [],
       "date": "2026-04-11T19:41:46+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 31,
-      "comments": 10,
+      "score": 59,
+      "comments": 23,
       "author": "Anon84",
       "tags": [],
       "date": "2026-04-11T19:15:56+00:00"
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "How to build a `Git diff` driver",
       "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "score": 24,
-      "comments": 1,
+      "score": 32,
+      "comments": 3,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-11T18:07:49+00:00"
@@ -40,7 +51,7 @@
       "source": "hn",
       "title": "The APL programming language source code (2012)",
       "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
-      "score": 12,
+      "score": 17,
       "comments": 1,
       "author": "tosh",
       "tags": [],
@@ -52,8 +63,8 @@
       "source": "hn",
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 448,
-      "comments": 134,
+      "score": 505,
+      "comments": 151,
       "author": "dominicq",
       "tags": [],
       "date": "2026-04-11T16:47:28+00:00"
@@ -63,7 +74,7 @@
       "source": "hn",
       "title": "Phone Trips",
       "url": "http://www.wideweb.com/phonetrips/",
-      "score": 39,
+      "score": 48,
       "comments": 3,
       "author": "bookofjoe",
       "tags": [],
@@ -85,8 +96,8 @@
       "source": "hn",
       "title": "Keeping a Postgres Queue Healthy",
       "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
-      "score": 47,
-      "comments": 12,
+      "score": 55,
+      "comments": 15,
       "author": "tanelpoder",
       "tags": [],
       "date": "2026-04-11T16:24:08+00:00"
@@ -108,8 +119,8 @@
       "source": "hn",
       "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
       "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 124,
-      "comments": 29,
+      "score": 138,
+      "comments": 35,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-11T15:39:19+00:00"
@@ -119,8 +130,8 @@
       "source": "hn",
       "title": "The future of everything is lies, I guess – Part 5: Annoyances",
       "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
-      "score": 159,
-      "comments": 89,
+      "score": 166,
+      "comments": 97,
       "author": "aphyr",
       "tags": [],
       "date": "2026-04-11T14:32:39+00:00"
@@ -130,8 +141,8 @@
       "source": "hn",
       "title": "The Problem That Built an Industry",
       "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
-      "score": 71,
-      "comments": 32,
+      "score": 78,
+      "comments": 33,
       "author": "ShaggyHotDog",
       "tags": [],
       "date": "2026-04-11T14:03:03+00:00"
@@ -141,8 +152,8 @@
       "source": "hn",
       "title": "South Korea introduces universal basic mobile data access",
       "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
-      "score": 236,
-      "comments": 66,
+      "score": 250,
+      "comments": 71,
       "author": "saikatsg",
       "tags": [],
       "date": "2026-04-11T13:27:16+00:00"
@@ -185,8 +196,8 @@
       "source": "hn",
       "title": "Cirrus Labs to join OpenAI",
       "url": "https://cirruslabs.org/",
-      "score": 195,
-      "comments": 97,
+      "score": 200,
+      "comments": 103,
       "author": "seekdeep",
       "tags": [],
       "date": "2026-04-11T13:01:34+00:00"
@@ -212,6 +223,19 @@
       "author": "kupadapuku",
       "tags": [],
       "date": "2026-04-11T10:58:36+00:00"
+    },
+    {
+      "id": "qiita-1b70a4794f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【ズバッと解説】データメッシュとは？背景と考え方・4原則・関連ワードを整理",
+      "url": "https://qiita.com/yushibats/items/fa3789c26e832c80ada0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yushibats",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-11T19:39:11+09:00"
     },
     {
       "id": "hn-47729069",
@@ -340,6 +364,19 @@
       "date": "2026-04-11T04:25:31+00:00"
     },
     {
+      "id": "qiita-815295723c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "EDRは有効だが万能ではない : SOC運用の視点で整理する",
+      "url": "https://qiita.com/yasuo-dev/items/e071ed4fa444e12686da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yasuo-dev",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-11T12:36:11+09:00"
+    },
+    {
       "id": "hn-47727076",
       "source": "hn",
       "title": "Quien – A better WHOIS lookup tool",
@@ -373,6 +410,19 @@
       "date": "2026-04-10T23:48:07+00:00"
     },
     {
+      "id": "qiita-8152825fe6",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全70回 総復習",
+      "url": "https://qiita.com/maskot1977/items/36a9458ee2b8bbb62794?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-11T08:45:17+09:00"
+    },
+    {
       "id": "hn-47724957",
       "source": "hn",
       "title": "Has Mythos just broken the deal that kept the internet safe?",
@@ -399,8 +449,8 @@
       "source": "hn",
       "title": "Filing the corners off my MacBooks",
       "url": "https://kentwalters.com/posts/corners/",
-      "score": 1237,
-      "comments": 569,
+      "score": 1258,
+      "comments": 577,
       "author": "normanvalentine",
       "tags": [],
       "date": "2026-04-10T22:16:40+00:00"
@@ -410,7 +460,7 @@
       "source": "hn",
       "title": "Installing every* Firefox extension",
       "url": "https://jack.cab/blog/every-firefox-extension",
-      "score": 595,
+      "score": 601,
       "comments": 73,
       "author": "RohanAdwankar",
       "tags": [],
@@ -921,6 +971,19 @@
       "date": "2026-04-10T18:55:51+09:00"
     },
     {
+      "id": "qiita-893e3a1c13",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Git】実務で使うPull Request運用ルールまとめ",
+      "url": "https://qiita.com/yuto-vj/items/9631a596b5590e9ee7b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuto-vj",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-10T18:45:08+09:00"
+    },
+    {
       "id": "qiita-7153764c13",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1205,6 +1268,19 @@
       "date": "2026-04-10T01:09:06+00:00"
     },
     {
+      "id": "qiita-b5d40a73c2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Oracle DatabaseでエンジンBOMをProperty Graph化（基礎編）",
+      "url": "https://qiita.com/kanakani/items/6d8a1f87ecd51e9be4ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kanakani",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-10T10:02:19+09:00"
+    },
+    {
       "id": "qiita-e516ca844a",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1234,8 +1310,8 @@
       "source": "hn",
       "title": "Mexican surveillance company Grupo Seguritech watches the U.S. border",
       "url": "https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/",
-      "score": 27,
-      "comments": 3,
+      "score": 40,
+      "comments": 15,
       "author": "classichasclass",
       "tags": [],
       "date": "2026-04-10T00:36:21+00:00"
@@ -1849,6 +1925,19 @@
       "date": "2026-04-09T10:28:28+00:00"
     },
     {
+      "id": "qiita-bfe5b8bab7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "有名なプロジェクト管理ツールについてまとめてみた",
+      "url": "https://qiita.com/MetroOsamu/items/d7df93f2c70af788d9b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "MetroOsamu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T19:27:13+09:00"
+    },
+    {
       "id": "qiita-ca1430a243",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1971,6 +2060,19 @@
       "author": "fork-bomber",
       "tags": [],
       "date": "2026-04-09T09:17:25+00:00"
+    },
+    {
+      "id": "qiita-3073bac8f7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "GitをインストールしようとしたらHomebrewに出会ったお話【MacOS】",
+      "url": "https://qiita.com/inorin__62/items/67362a2d75c36d9632aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "inorin__62",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T18:15:44+09:00"
     },
     {
       "id": "hn-47701100",
@@ -2133,8 +2235,8 @@
       "source": "hn",
       "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
       "url": "https://playstarfling.com",
-      "score": 489,
-      "comments": 122,
+      "score": 498,
+      "comments": 124,
       "author": "iceberger2001",
       "tags": [],
       "date": "2026-04-09T01:52:47+00:00"
@@ -2151,6 +2253,19 @@
         "Qiita"
       ],
       "date": "2026-04-09T10:24:10+09:00"
+    },
+    {
+      "id": "qiita-7805e4a4bb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code vs Codex vs Cursor — 同一リファクタリングタスクを3ツールで検証した速度・精度・コスト比較",
+      "url": "https://qiita.com/hikariclaude01/items/d2efb6f12f4fdf360a3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hikariclaude01",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-09T10:01:39+09:00"
     },
     {
       "id": "hn-47698111",
@@ -2180,8 +2295,8 @@
       "source": "hn",
       "title": "Layoff Thinking",
       "url": "https://blogs.newardassociates.com/blog/2026/layoff-thinking.html",
-      "score": 15,
-      "comments": 5,
+      "score": 22,
+      "comments": 17,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-09T00:52:19+00:00"
@@ -2303,8 +2418,8 @@
       "source": "hn",
       "title": "Optimal Strategy for Connect 4",
       "url": "https://2swap.github.io/WeakC4/explanation/",
-      "score": 223,
-      "comments": 28,
+      "score": 227,
+      "comments": 29,
       "author": "marvinborner",
       "tags": [],
       "date": "2026-04-08T19:37:50+00:00"
@@ -2347,7 +2462,7 @@
       "source": "hn",
       "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
       "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
-      "score": 125,
+      "score": 144,
       "comments": 29,
       "author": "coolwulf",
       "tags": [],
@@ -2391,8 +2506,8 @@
       "source": "hn",
       "title": "Surelock: Deadlock-Free Mutexes for Rust",
       "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "score": 119,
-      "comments": 37,
+      "score": 123,
+      "comments": 41,
       "author": "codetheweb",
       "tags": [],
       "date": "2026-04-08T17:36:19+00:00"
@@ -2776,7 +2891,7 @@
       "source": "hn",
       "title": "Volunteers turn a fan's recordings of 10K concerts into an online treasure trove",
       "url": "https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62",
-      "score": 297,
+      "score": 302,
       "comments": 55,
       "author": "geox",
       "tags": [],
@@ -3771,6 +3886,17 @@
       "author": "bundie",
       "tags": [],
       "date": "2026-04-07T12:27:59+00:00"
+    },
+    {
+      "id": "hn-47674075",
+      "source": "hn",
+      "title": "What Is a Property?",
+      "url": "https://alperenkeles.com/posts/what-is-a-property/",
+      "score": 4,
+      "comments": 0,
+      "author": "alpaylan",
+      "tags": [],
+      "date": "2026-04-07T12:16:27+00:00"
     },
     {
       "id": "hn-47674027",
@@ -5047,121 +5173,6 @@
       "author": "stonecharioteer",
       "tags": [],
       "date": "2026-04-06T03:40:31+00:00"
-    },
-    {
-      "id": "hn-47656682",
-      "source": "hn",
-      "title": "Winners of the 2026 Kokuyo Design Awards",
-      "url": "https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/",
-      "score": 47,
-      "comments": 15,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-04-06T03:32:23+00:00"
-    },
-    {
-      "id": "hn-47656659",
-      "source": "hn",
-      "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
-      "url": "https://github.com/mikf/gallery-dl/discussions/9304",
-      "score": 143,
-      "comments": 46,
-      "author": "MoltenMonster",
-      "tags": [],
-      "date": "2026-04-06T03:28:04+00:00"
-    },
-    {
-      "id": "hn-47656622",
-      "source": "hn",
-      "title": "An open-source 240-antenna array to bounce signals off the Moon",
-      "url": "https://moonrf.com/",
-      "score": 241,
-      "comments": 51,
-      "author": "hillcrestenigma",
-      "tags": [],
-      "date": "2026-04-06T03:22:42+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47656518",
-      "source": "hn",
-      "title": "Your File System Is Already A Graph Database",
-      "url": "https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/",
-      "score": 133,
-      "comments": 62,
-      "author": "alxndr",
-      "tags": [],
-      "date": "2026-04-06T03:06:16+00:00"
-    },
-    {
-      "id": "hn-47656501",
-      "source": "hn",
-      "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
-      "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
-      "score": 244,
-      "comments": 161,
-      "author": "keepamovin",
-      "tags": [],
-      "date": "2026-04-06T03:03:22+00:00"
-    },
-    {
-      "id": "qiita-fa767d3919",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ランダムフォレスト → XGBoost → LightGBM：進化の流れで理解する機械学習モデル",
-      "url": "https://qiita.com/KanNishida/items/565941faee9c67b64e14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "KanNishida",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T11:51:10+09:00"
-    },
-    {
-      "id": "hn-47656335",
-      "source": "hn",
-      "title": "Does coding with LLMs mean more microservices?",
-      "url": "https://ben.page/microservices",
-      "score": 44,
-      "comments": 34,
-      "author": "jer0me",
-      "tags": [],
-      "date": "2026-04-06T02:33:21+00:00"
-    },
-    {
-      "id": "hn-47656303",
-      "source": "hn",
-      "title": "Case study: recovery of a corrupted 12 TB multi-device pool",
-      "url": "https://github.com/kdave/btrfs-progs/issues/1107",
-      "score": 103,
-      "comments": 47,
-      "author": "salt4034",
-      "tags": [],
-      "date": "2026-04-06T02:28:40+00:00"
-    },
-    {
-      "id": "qiita-7d562d2849",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI に「デザインの判断力」を与えるスキル `ui-ux-pro-max-skill` を徹底解説してみた — Codex CLI 実践編",
-      "url": "https://qiita.com/engchina/items/021eaec14a0970ee1c0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "engchina",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-06T11:08:54+09:00"
-    },
-    {
-      "id": "hn-47656114",
-      "source": "hn",
-      "title": "We replaced Node.js with Bun for 5x throughput",
-      "url": "https://trigger.dev/blog/firebun",
-      "score": 48,
-      "comments": 21,
-      "author": "pier25",
-      "tags": [],
-      "date": "2026-04-06T01:57:59+00:00"
     },
     {
       "id": "ctf-3420191",
