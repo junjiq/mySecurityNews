@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-11T16:09:27.702736+00:00",
+  "generated_at": "2026-04-11T16:45:44.936792+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 360,
-    "zennqiita": 88,
+    "hn": 361,
+    "zennqiita": 87,
     "project": 3
   },
   "severity_counts": {
     "medium": 8,
-    "critical": 13,
+    "critical": 12,
     "high": 1
   },
   "top_articles": [
@@ -56,6 +56,13 @@
       "date": "2026-04-06T13:50:35+00:00"
     },
     {
+      "title": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
+      "score": 1149,
+      "source": "hn",
+      "date": "2026-04-10T22:16:40+00:00"
+    },
+    {
       "title": "EFF is leaving X",
       "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
       "score": 1131,
@@ -63,11 +70,11 @@
       "date": "2026-04-09T17:08:04+00:00"
     },
     {
-      "title": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
-      "score": 1122,
+      "title": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "score": 1121,
       "source": "hn",
-      "date": "2026-04-10T22:16:40+00:00"
+      "date": "2026-04-11T00:10:51+00:00"
     },
     {
       "title": "Veracrypt project update",
@@ -77,11 +84,11 @@
       "date": "2026-04-08T07:23:39+00:00"
     },
     {
-      "title": "Artemis II safely splashes down",
-      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "score": 1102,
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "score": 915,
       "source": "hn",
-      "date": "2026-04-11T00:10:51+00:00"
+      "date": "2026-04-10T15:37:28+00:00"
     },
     {
       "title": "Lunar Flyby",
@@ -89,13 +96,6 @@
       "score": 909,
       "source": "hn",
       "date": "2026-04-07T15:03:18+00:00"
-    },
-    {
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 905,
-      "source": "hn",
-      "date": "2026-04-10T15:37:28+00:00"
     },
     {
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-06T03:22:42+00:00"
-    },
-    {
-      "title": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
-      "url": "https://github.com/mohshomis/modo",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-05T23:59:10+00:00"
     }
   ]
 }
