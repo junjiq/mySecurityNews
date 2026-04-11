@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-11T01:43:07.587122+00:00",
+  "generated_at": "2026-04-11T03:04:15.428654+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 368,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "medium": 8,
     "high": 1
   },
@@ -128,7 +128,7 @@
     {
       "title": "1D Chess",
       "url": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 652,
+      "score": 683,
       "source": "hn",
       "date": "2026-04-10T15:37:28+00:00"
     },
@@ -182,6 +182,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-09T04:11:55+00:00"
+    },
+    {
+      "title": "Bevy game development tutorials and in-depth resources",
+      "url": "https://taintedcoders.com/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-09T00:58:47+00:00"
     },
     {
       "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
