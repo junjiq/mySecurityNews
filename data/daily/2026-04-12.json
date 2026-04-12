@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "generated_at": "2026-04-12T17:12:20.750721+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-04-12T17:44:46.813500+00:00",
+  "total_articles": 51,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -12,53 +12,53 @@
       "date": "2026-04-12T10:07:33+00:00"
     },
     {
-      "title": "The APL programming language source code (2012)",
-      "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-11T17:34:10+00:00"
-    },
-    {
       "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する",
       "url": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-04-12T12:17:06+09:00"
+    },
+    {
+      "title": "Exploiting the most prominent AI agent benchmarks",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-11T19:15:56+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 43,
       "top_items": [
         {
           "title": "I run multiple $10K MRR companies on a $20/month tech stack",
           "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-          "score": 601,
+          "score": 632,
           "source": "hn",
           "severity": null,
           "date": "2026-04-12T06:00:00+00:00"
         },
         {
-          "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-          "score": 456,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-11T19:15:56+00:00"
-        },
-        {
           "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
           "url": "https://github.com/anthropics/claude-code/issues/45756",
-          "score": 444,
+          "score": 461,
           "source": "hn",
           "severity": null,
           "date": "2026-04-12T13:15:31+00:00"
         },
         {
+          "title": "Exploiting the most prominent AI agent benchmarks",
+          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+          "score": 461,
+          "source": "hn",
+          "severity": "high",
+          "date": "2026-04-11T19:15:56+00:00"
+        },
+        {
           "title": "Anthropic downgraded cache TTL on March 6th",
           "url": "https://github.com/anthropics/claude-code/issues/46829",
-          "score": 303,
+          "score": 323,
           "source": "hn",
           "severity": null,
           "date": "2026-04-12T05:45:52+00:00"
