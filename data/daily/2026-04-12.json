@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "generated_at": "2026-04-12T03:42:41.556439+00:00",
-  "total_articles": 41,
+  "generated_at": "2026-04-12T04:59:07.333375+00:00",
+  "total_articles": 43,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 40,
       "top_items": [
         {
           "title": "Small models also found the vulnerabilities that Mythos found",
           "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-          "score": 896,
+          "score": 932,
           "source": "hn",
           "severity": null,
           "date": "2026-04-11T16:47:28+00:00"
@@ -34,6 +34,14 @@
           "date": "2026-04-11T13:27:16+00:00"
         },
         {
+          "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+          "score": 290,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-11T19:15:56+00:00"
+        },
+        {
           "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
           "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
           "score": 290,
@@ -42,17 +50,9 @@
           "date": "2026-04-11T08:25:14+00:00"
         },
         {
-          "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-          "score": 263,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-11T19:15:56+00:00"
-        },
-        {
           "title": "Cirrus Labs to join OpenAI",
           "url": "https://cirruslabs.org/",
-          "score": 239,
+          "score": 247,
           "source": "hn",
           "severity": null,
           "date": "2026-04-11T13:01:34+00:00"
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 3,
       "top_items": [
         {
           "title": "バックエンドをLambdaにするかECS（Fargate）にするかの判断基準",
@@ -86,14 +86,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-11T16:52:03+09:00"
-        },
-        {
-          "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
-          "url": "https://qiita.com/miruky/items/fcab851c5351f79b481d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-11T13:53:43+09:00"
         }
       ]
     }
