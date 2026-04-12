@@ -1,8 +1,8 @@
 {
   "date": "2026-04-12",
-  "generated_at": "2026-04-12T07:31:22.844407+00:00",
-  "total_articles": 43,
-  "urgent_count": 1,
+  "generated_at": "2026-04-12T08:18:43.990012+00:00",
+  "total_articles": 51,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "The APL programming language source code (2012)",
@@ -10,17 +10,24 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-11T17:34:10+00:00"
+    },
+    {
+      "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する",
+      "url": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-04-12T12:17:06+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 41,
       "top_items": [
         {
           "title": "Small models also found the vulnerabilities that Mythos found",
           "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-          "score": 1009,
+          "score": 1042,
           "source": "hn",
           "severity": null,
           "date": "2026-04-11T16:47:28+00:00"
@@ -28,7 +35,7 @@
         {
           "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
           "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-          "score": 345,
+          "score": 357,
           "source": "hn",
           "severity": null,
           "date": "2026-04-11T19:15:56+00:00"
@@ -52,7 +59,7 @@
         {
           "title": "Cirrus Labs to join OpenAI",
           "url": "https://cirruslabs.org/",
-          "score": 260,
+          "score": 263,
           "source": "hn",
           "severity": null,
           "date": "2026-04-11T13:01:34+00:00"
@@ -61,8 +68,32 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 10,
       "top_items": [
+        {
+          "title": "AI駆動開発で開発期間90%短縮 — 未経験エンジニアが3週間で48,000行のアプリを作った全記録",
+          "url": "https://qiita.com/teppei19980914/items/4957e8545ecd21167189?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-12T16:10:29+09:00"
+        },
+        {
+          "title": "RubyのSPECテストカバレッジ率を可視化できるGem SimpleCov",
+          "url": "https://qiita.com/metappi/items/97b6061ebc086b59f126?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-12T14:36:58+09:00"
+        },
+        {
+          "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する",
+          "url": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": "high",
+          "date": "2026-04-12T12:17:06+09:00"
+        },
         {
           "title": "バックエンドをLambdaにするかECS（Fargate）にするかの判断基準",
           "url": "https://qiita.com/teshimaaaaa1101/items/61ab31dc9d43d533de38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -72,20 +103,12 @@
           "date": "2026-04-12T12:09:41+09:00"
         },
         {
-          "title": "【ズバッと解説】データメッシュとは？背景と考え方・4原則・関連ワードを整理",
-          "url": "https://qiita.com/yushibats/items/fa3789c26e832c80ada0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "2026/04/12 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+          "url": "https://qiita.com/ennagara128/items/c56aa243e1fef118cfe2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-11T19:39:11+09:00"
-        },
-        {
-          "title": "ローカル LLM で AI コーディング支援環境を構築する①",
-          "url": "https://qiita.com/koutaro_harada/items/d45e346f099af9b9a9c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-11T16:52:03+09:00"
+          "date": "2026-04-12T12:05:27+09:00"
         }
       ]
     }
