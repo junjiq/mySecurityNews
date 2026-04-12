@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "generated_at": "2026-04-12T12:47:45.504814+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-04-12T13:27:43.410851+00:00",
+  "total_articles": 53,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 45,
       "top_items": [
         {
           "title": "Small models also found the vulnerabilities that Mythos found",
           "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-          "score": 1140,
+          "score": 1147,
           "source": "hn",
           "severity": null,
           "date": "2026-04-11T16:47:28+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
           "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-          "score": 413,
+          "score": 422,
           "source": "hn",
           "severity": null,
           "date": "2026-04-11T19:15:56+00:00"
@@ -50,32 +50,32 @@
         {
           "title": "I run multiple $10K MRR companies on a $20/month tech stack",
           "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-          "score": 362,
+          "score": 397,
           "source": "hn",
           "severity": null,
           "date": "2026-04-12T06:00:00+00:00"
         },
         {
-          "title": "South Korea introduces universal basic mobile data access",
-          "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
-          "score": 315,
+          "title": "Apple update looks like Czech mate for locked-out iPhone user",
+          "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
+          "score": 252,
           "source": "hn",
-          "severity": null,
-          "date": "2026-04-11T13:27:16+00:00"
+          "severity": "medium",
+          "date": "2026-04-12T08:38:56+00:00"
         },
         {
-          "title": "Cirrus Labs to join OpenAI",
-          "url": "https://cirruslabs.org/",
-          "score": 270,
+          "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+          "url": "https://www.v68k.org/advanced-mac-substitute/",
+          "score": 249,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-11T13:01:34+00:00"
+          "date": "2026-04-11T15:39:19+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "【必須】GitHubとnpmで脆弱なパッケージを入れないための防御設定 8選",
