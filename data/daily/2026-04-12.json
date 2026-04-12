@@ -1,9 +1,16 @@
 {
   "date": "2026-04-12",
-  "generated_at": "2026-04-12T10:45:35.213337+00:00",
-  "total_articles": 52,
-  "urgent_count": 2,
+  "generated_at": "2026-04-12T11:13:52.977850+00:00",
+  "total_articles": 53,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "MiniMax M2.7 Is Now Open Source",
+      "url": "https://firethering.com/minimax-m2-7-agentic-model/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-12T10:07:33+00:00"
+    },
     {
       "title": "The APL programming language source code (2012)",
       "url": "https://computerhistory.org/blog/the-apl-programming-language-source-code/",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 44,
       "top_items": [
         {
           "title": "Small models also found the vulnerabilities that Mythos found",
           "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-          "score": 1117,
+          "score": 1121,
           "source": "hn",
           "severity": null,
           "date": "2026-04-11T16:47:28+00:00"
@@ -35,7 +42,7 @@
         {
           "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
           "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-          "score": 386,
+          "score": 393,
           "source": "hn",
           "severity": null,
           "date": "2026-04-11T19:15:56+00:00"
@@ -57,12 +64,12 @@
           "date": "2026-04-11T13:01:34+00:00"
         },
         {
-          "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-          "url": "https://www.v68k.org/advanced-mac-substitute/",
-          "score": 244,
+          "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+          "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+          "score": 255,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-11T15:39:19+00:00"
+          "date": "2026-04-12T06:00:00+00:00"
         }
       ]
     },
