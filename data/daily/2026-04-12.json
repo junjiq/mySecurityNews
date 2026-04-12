@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "generated_at": "2026-04-12T02:18:27.927113+00:00",
-  "total_articles": 39,
+  "generated_at": "2026-04-12T03:42:41.556439+00:00",
+  "total_articles": 41,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 37,
       "top_items": [
         {
           "title": "Small models also found the vulnerabilities that Mythos found",
           "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-          "score": 854,
+          "score": 896,
           "source": "hn",
           "severity": null,
           "date": "2026-04-11T16:47:28+00:00"
@@ -42,20 +42,20 @@
           "date": "2026-04-11T08:25:14+00:00"
         },
         {
-          "title": "Cirrus Labs to join OpenAI",
-          "url": "https://cirruslabs.org/",
-          "score": 235,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-11T13:01:34+00:00"
-        },
-        {
           "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
           "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-          "score": 228,
+          "score": 263,
           "source": "hn",
           "severity": null,
           "date": "2026-04-11T19:15:56+00:00"
+        },
+        {
+          "title": "Cirrus Labs to join OpenAI",
+          "url": "https://cirruslabs.org/",
+          "score": 239,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-11T13:01:34+00:00"
         }
       ]
     },
@@ -63,6 +63,14 @@
       "category": "日本語技術記事",
       "count": 4,
       "top_items": [
+        {
+          "title": "バックエンドをLambdaにするかECS（Fargate）にするかの判断基準",
+          "url": "https://qiita.com/teshimaaaaa1101/items/61ab31dc9d43d533de38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-12T12:09:41+09:00"
+        },
         {
           "title": "【ズバッと解説】データメッシュとは？背景と考え方・4原則・関連ワードを整理",
           "url": "https://qiita.com/yushibats/items/fa3789c26e832c80ada0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-11T13:53:43+09:00"
-        },
-        {
-          "title": "EDRは有効だが万能ではない : SOC運用の視点で整理する",
-          "url": "https://qiita.com/yasuo-dev/items/e071ed4fa444e12686da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-11T12:36:11+09:00"
         }
       ]
     }
