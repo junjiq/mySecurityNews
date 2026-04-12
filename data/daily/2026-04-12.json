@@ -1,8 +1,8 @@
 {
   "date": "2026-04-12",
-  "generated_at": "2026-04-12T18:47:02.299626+00:00",
-  "total_articles": 57,
-  "urgent_count": 3,
+  "generated_at": "2026-04-12T19:17:28.777898+00:00",
+  "total_articles": 56,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "MiniMax M2.7 Is Now Open Source",
@@ -17,35 +17,20 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-04-12T12:17:06+09:00"
-    },
-    {
-      "title": "Exploiting the most prominent AI agent benchmarks",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-04-11T19:15:56+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 47,
       "top_items": [
         {
           "title": "I run multiple $10K MRR companies on a $20/month tech stack",
           "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-          "score": 665,
+          "score": 681,
           "source": "hn",
           "severity": null,
           "date": "2026-04-12T06:00:00+00:00"
-        },
-        {
-          "title": "Exploiting the most prominent AI agent benchmarks",
-          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-          "score": 465,
-          "source": "hn",
-          "severity": "high",
-          "date": "2026-04-11T19:15:56+00:00"
         },
         {
           "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
@@ -58,7 +43,7 @@
         {
           "title": "Anthropic downgraded cache TTL on March 6th",
           "url": "https://github.com/anthropics/claude-code/issues/46829",
-          "score": 350,
+          "score": 370,
           "source": "hn",
           "severity": null,
           "date": "2026-04-12T05:45:52+00:00"
@@ -66,10 +51,18 @@
         {
           "title": "Seven countries now generate 100% of their electricity from renewable energy",
           "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-          "score": 324,
+          "score": 340,
           "source": "hn",
           "severity": null,
           "date": "2026-04-12T13:21:39+00:00"
+        },
+        {
+          "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+          "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+          "score": 285,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-12T09:16:35+00:00"
         }
       ]
     },
