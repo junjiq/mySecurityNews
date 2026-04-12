@@ -1,7 +1,7 @@
 {
   "date": "2026-04-12",
-  "generated_at": "2026-04-12T18:14:17.641989+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-04-12T18:47:02.299626+00:00",
+  "total_articles": 57,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 48,
       "top_items": [
         {
           "title": "I run multiple $10K MRR companies on a $20/month tech stack",
           "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-          "score": 650,
+          "score": 665,
           "source": "hn",
           "severity": null,
           "date": "2026-04-12T06:00:00+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Exploiting the most prominent AI agent benchmarks",
           "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-          "score": 463,
+          "score": 465,
           "source": "hn",
           "severity": "high",
           "date": "2026-04-11T19:15:56+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "Anthropic downgraded cache TTL on March 6th",
           "url": "https://github.com/anthropics/claude-code/issues/46829",
-          "score": 337,
+          "score": 350,
           "source": "hn",
           "severity": null,
           "date": "2026-04-12T05:45:52+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "Seven countries now generate 100% of their electricity from renewable energy",
           "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-          "score": 305,
+          "score": 324,
           "source": "hn",
           "severity": null,
           "date": "2026-04-12T13:21:39+00:00"
@@ -75,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 9,
       "top_items": [
+        {
+          "title": "AIで実装は速くなった。でもチーム開発が逆に難しくなった理由",
+          "url": "https://qiita.com/engchina/items/5a3fad5ec1c80a8be715?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-13T03:33:56+09:00"
+        },
         {
           "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
           "url": "https://qiita.com/nobuyuki86/items/a7c81557c1ccefe55215?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-12T14:36:58+09:00"
-        },
-        {
-          "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する",
-          "url": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "high",
-          "date": "2026-04-12T12:17:06+09:00"
         }
       ]
     }
