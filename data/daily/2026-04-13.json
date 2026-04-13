@@ -1,29 +1,21 @@
 {
   "date": "2026-04-13",
-  "generated_at": "2026-04-13T17:25:29.459401+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-04-13T17:49:15.987879+00:00",
+  "total_articles": 63,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 50,
       "top_items": [
         {
           "title": "All elementary functions from a single binary operator",
           "url": "https://arxiv.org/abs/2603.21852",
-          "score": 710,
+          "score": 716,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T01:49:32+00:00"
-        },
-        {
-          "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-          "url": "https://boringbar.app/",
-          "score": 461,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-12T17:25:44+00:00"
         },
         {
           "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
@@ -44,16 +36,24 @@
         {
           "title": "The economics of software teams: Why most engineering orgs are flying blind",
           "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-          "score": 346,
+          "score": 351,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T05:45:32+00:00"
+        },
+        {
+          "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+          "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+          "score": 286,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-13T02:53:10+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
