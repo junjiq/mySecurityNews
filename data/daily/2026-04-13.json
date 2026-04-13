@@ -1,8 +1,8 @@
 {
   "date": "2026-04-13",
-  "generated_at": "2026-04-13T03:06:43.578017+00:00",
-  "total_articles": 61,
-  "urgent_count": 2,
+  "generated_at": "2026-04-13T04:34:06.913414+00:00",
+  "total_articles": 60,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "MiniMax M2.7 Is Now Open Source",
@@ -10,19 +10,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-12T10:07:33+00:00"
-    },
-    {
-      "title": "【徳丸本まとめ】Webアプリの脆弱性と対策を一気に整理する",
-      "url": "https://qiita.com/nkngtic/items/6ac857cdbbd13a363f4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-04-12T12:17:06+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 50,
       "top_items": [
         {
           "title": "I run multiple $10K MRR companies on a $20/month tech stack",
@@ -33,6 +26,14 @@
           "date": "2026-04-12T06:00:00+00:00"
         },
         {
+          "title": "Seven countries now generate 100% of their electricity from renewable energy",
+          "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+          "score": 536,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-12T13:21:39+00:00"
+        },
+        {
           "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
           "url": "https://github.com/anthropics/claude-code/issues/45756",
           "score": 536,
@@ -41,17 +42,9 @@
           "date": "2026-04-12T13:15:31+00:00"
         },
         {
-          "title": "Seven countries now generate 100% of their electricity from renewable energy",
-          "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-          "score": 520,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-12T13:21:39+00:00"
-        },
-        {
           "title": "Bring Back Idiomatic Design (2023)",
           "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-          "score": 479,
+          "score": 500,
           "source": "hn",
           "severity": null,
           "date": "2026-04-12T12:21:26+00:00"
@@ -68,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 10,
       "top_items": [
         {
           "title": "エンジニア歴20年の私が、素人バイブコーディング勢に物申す",
