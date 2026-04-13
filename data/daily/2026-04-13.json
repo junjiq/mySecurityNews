@@ -1,59 +1,67 @@
 {
   "date": "2026-04-13",
-  "generated_at": "2026-04-13T19:31:00.266610+00:00",
-  "total_articles": 67,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-04-13T20:21:09.593129+00:00",
+  "total_articles": 71,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "【実例】DDoS攻撃でAWSの請求が200万円になった時の緊急対応マニュアル ─ 防御設定6選",
+      "url": "https://qiita.com/kawabe0201/items/546235a8b9a0e90ef095?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-04-13T10:40:48+09:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 53,
       "top_items": [
         {
           "title": "All elementary functions from a single binary operator",
           "url": "https://arxiv.org/abs/2603.21852",
-          "score": 744,
+          "score": 755,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T01:49:32+00:00"
         },
         {
-          "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-          "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-          "score": 460,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-12T19:53:08+00:00"
-        },
-        {
           "title": "The economics of software teams: Why most engineering orgs are flying blind",
           "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-          "score": 365,
+          "score": 371,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T05:45:32+00:00"
         },
         {
-          "title": "The peril of laziness lost",
-          "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
-          "score": 365,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-12T19:44:40+00:00"
-        },
-        {
           "title": "Servo is now available on crates.io",
           "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-          "score": 326,
+          "score": 342,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T12:12:22+00:00"
+        },
+        {
+          "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+          "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+          "score": 316,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-13T17:54:39+00:00"
+        },
+        {
+          "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+          "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+          "score": 286,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-13T02:53:10+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 18,
       "top_items": [
         {
           "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
@@ -64,36 +72,36 @@
           "date": "2026-04-13T22:17:43+09:00"
         },
         {
+          "title": "HTTPSの仕組み — TLSハンドシェイクを順番に追う",
+          "url": "https://qiita.com/S_kamon/items/f12b037d7adbe824ac0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-13T18:49:18+09:00"
+        },
+        {
+          "title": "n8nで「あとで読む/見る」をLINEで管理する仕組みを作ってみた",
+          "url": "https://qiita.com/wan-code/items/cc1620cf38e2363b4bde?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-13T18:43:52+09:00"
+        },
+        {
+          "title": "【Linuxコマンド】実務でよく使うLinuxコマンドまとめ",
+          "url": "https://qiita.com/yuto-vj/items/4face78fad72275d820f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-13T18:06:10+09:00"
+        },
+        {
           "title": "AtCoderで入茶しました！",
           "url": "https://qiita.com/WebP/items/fdd39cdb7a66a7ee1260?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-13T17:10:38+09:00"
-        },
-        {
-          "title": "C#で理解するデザインパターン入門：Strategy / Decorator / Adapter / Singleton",
-          "url": "https://qiita.com/hiroki_notes/items/50d81c7d7c3871b95d9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-13T16:40:45+09:00"
-        },
-        {
-          "title": "【アナロジー解説】Terraform超入門 〜インフラをコードで管理するということ〜",
-          "url": "https://qiita.com/i-inose/items/0bc75c1d4f1edc401c64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-13T16:28:28+09:00"
-        },
-        {
-          "title": "少人数で新機能を出し切る — エンジニア2人 × AI × チームの戦い方",
-          "url": "https://qiita.com/Katsu30/items/c7d5a7bafd343f8604d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-13T11:57:27+09:00"
         }
       ]
     }

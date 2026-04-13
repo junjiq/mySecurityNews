@@ -1,10 +1,10 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-13T19:31:00.308341+00:00",
+  "generated_at": "2026-04-13T20:21:09.635633+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 347,
-    "zennqiita": 101,
+    "hn": 340,
+    "zennqiita": 108,
     "project": 3
   },
   "severity_counts": {
@@ -86,7 +86,7 @@
     {
       "title": "All elementary functions from a single binary operator",
       "url": "https://arxiv.org/abs/2603.21852",
-      "score": 744,
+      "score": 755,
       "source": "hn",
       "date": "2026-04-13T01:49:32+00:00"
     },
@@ -107,7 +107,7 @@
     {
       "title": "DIY Soft Drinks",
       "url": "https://blinry.org/diy-soft-drinks/",
-      "score": 657,
+      "score": 665,
       "source": "hn",
       "date": "2026-04-12T16:38:43+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "【実例】DDoS攻撃でAWSの請求が200万円になった時の緊急対応マニュアル ─ 防御設定6選",
+      "url": "https://qiita.com/kawabe0201/items/546235a8b9a0e90ef095?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-04-13T10:40:48+09:00"
+    },
     {
       "title": "MiniMax M2.7 Is Now Open Source",
       "url": "https://firethering.com/minimax-m2-7-agentic-model/",
@@ -217,13 +224,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-09T00:58:47+00:00"
-    },
-    {
-      "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
-      "url": "https://netbsd-cells.petermann-digital.de/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-07T19:54:06+00:00"
     }
   ]
 }
