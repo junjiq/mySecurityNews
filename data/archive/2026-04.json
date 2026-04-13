@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-13T11:57:37.055239+00:00",
+  "generated_at": "2026-04-13T12:37:21.310260+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 346,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 10,
     "medium": 7,
     "high": 3
   },
@@ -142,7 +142,7 @@
     {
       "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
       "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "score": 596,
+      "score": 603,
       "source": "hn",
       "date": "2026-04-12T13:21:39+00:00"
     },
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-07T18:09:34+00:00"
-    },
-    {
-      "title": "Google open-sources experimental agent orchestration testbed Scion",
-      "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-07T13:39:15+00:00"
     }
   ]
 }
