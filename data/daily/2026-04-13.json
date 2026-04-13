@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
-  "generated_at": "2026-04-13T20:21:09.593129+00:00",
-  "total_articles": 71,
+  "generated_at": "2026-04-13T20:47:51.363300+00:00",
+  "total_articles": 69,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,15 +15,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 51,
       "top_items": [
         {
           "title": "All elementary functions from a single binary operator",
           "url": "https://arxiv.org/abs/2603.21852",
-          "score": 755,
+          "score": 757,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T01:49:32+00:00"
+        },
+        {
+          "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+          "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+          "score": 375,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-13T17:54:39+00:00"
         },
         {
           "title": "The economics of software teams: Why most engineering orgs are flying blind",
@@ -36,26 +44,18 @@
         {
           "title": "Servo is now available on crates.io",
           "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-          "score": 342,
+          "score": 351,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T12:12:22+00:00"
         },
         {
-          "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
-          "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-          "score": 316,
+          "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+          "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+          "score": 301,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-13T17:54:39+00:00"
-        },
-        {
-          "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-          "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-          "score": 286,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-13T02:53:10+00:00"
+          "date": "2026-04-13T15:31:06+00:00"
         }
       ]
     },
