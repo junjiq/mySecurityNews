@@ -1,14 +1,60 @@
 {
-  "updated_at": "2026-04-13T12:37:21.202459+00:00",
+  "updated_at": "2026-04-13T13:34:30.179369+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-08d83922c9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
+      "url": "https://qiita.com/nobuyuki86/items/a7c81557c1ccefe55215?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nobuyuki86",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-13T22:17:43+09:00"
+    },
+    {
+      "id": "hn-47751032",
+      "source": "hn",
+      "title": "AI could be the end of the digital wave, not the next big thing",
+      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "score": 56,
+      "comments": 27,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-04-13T12:29:39+00:00"
+    },
+    {
+      "id": "hn-47751029",
+      "source": "hn",
+      "title": "I went to America's worst national parks so you don't have to",
+      "url": "https://substack.com/home/post/p-193626949",
+      "score": 89,
+      "comments": 30,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-04-13T12:29:35+00:00"
+    },
+    {
+      "id": "hn-47750821",
+      "source": "hn",
+      "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+      "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+      "score": 32,
+      "comments": 17,
+      "author": "iamnothere",
+      "tags": [],
+      "date": "2026-04-13T12:05:35+00:00"
+    },
     {
       "id": "hn-47750669",
       "source": "hn",
       "title": "Android now stops you sharing your location in photos",
       "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "score": 34,
-      "comments": 4,
+      "score": 119,
+      "comments": 61,
       "author": "edent",
       "tags": [],
       "date": "2026-04-13T11:48:15+00:00"
@@ -25,12 +71,23 @@
       "date": "2026-04-13T11:27:12+00:00"
     },
     {
+      "id": "hn-47750259",
+      "source": "hn",
+      "title": "Point Cloud Allemansrätten",
+      "url": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/",
+      "score": 24,
+      "comments": 1,
+      "author": "ColinWright",
+      "tags": [],
+      "date": "2026-04-13T10:55:10+00:00"
+    },
+    {
       "id": "hn-47749674",
       "source": "hn",
       "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
       "url": "https://github.com/brightbeanxyz/brightbean-studio",
-      "score": 72,
-      "comments": 56,
+      "score": 99,
+      "comments": 72,
       "author": "JanSchu",
       "tags": [],
       "date": "2026-04-13T09:26:56+00:00"
@@ -101,8 +158,8 @@
       "source": "hn",
       "title": "The economics of software teams: Why most engineering orgs are flying blind",
       "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-      "score": 211,
-      "comments": 109,
+      "score": 246,
+      "comments": 125,
       "author": "kiyanwang",
       "tags": [],
       "date": "2026-04-13T05:45:32+00:00"
@@ -158,8 +215,8 @@
       "source": "hn",
       "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
       "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-      "score": 258,
-      "comments": 240,
+      "score": 286,
+      "comments": 265,
       "author": "walterbell",
       "tags": [],
       "date": "2026-04-13T02:53:10+00:00"
@@ -234,8 +291,8 @@
       "source": "hn",
       "title": "All elementary functions from a single binary operator",
       "url": "https://arxiv.org/abs/2603.21852",
-      "score": 542,
-      "comments": 136,
+      "score": 584,
+      "comments": 150,
       "author": "pizza",
       "tags": [],
       "date": "2026-04-13T01:49:32+00:00"
@@ -282,8 +339,8 @@
       "source": "hn",
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
       "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "score": 200,
-      "comments": 152,
+      "score": 211,
+      "comments": 161,
       "author": "mindcrime",
       "tags": [],
       "date": "2026-04-12T22:38:45+00:00"
@@ -315,8 +372,8 @@
       "source": "hn",
       "title": "A perfectable programming language",
       "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-      "score": 151,
-      "comments": 52,
+      "score": 163,
+      "comments": 65,
       "author": "yuppiemephisto",
       "tags": [],
       "date": "2026-04-12T21:11:24+00:00"
@@ -326,8 +383,8 @@
       "source": "hn",
       "title": "I ran Gemma 4 as a local model in Codex CLI",
       "url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
-      "score": 105,
-      "comments": 48,
+      "score": 114,
+      "comments": 56,
       "author": "dvaughan",
       "tags": [],
       "date": "2026-04-12T20:43:08+00:00"
@@ -473,8 +530,8 @@
       "source": "hn",
       "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
       "url": "https://boringbar.app/",
-      "score": 410,
-      "comments": 221,
+      "score": 420,
+      "comments": 235,
       "author": "a-ve",
       "tags": [],
       "date": "2026-04-12T17:25:44+00:00"
@@ -506,8 +563,8 @@
       "source": "hn",
       "title": "DIY Soft Drinks",
       "url": "https://blinry.org/diy-soft-drinks/",
-      "score": 523,
-      "comments": 158,
+      "score": 553,
+      "comments": 164,
       "author": "_Microft",
       "tags": [],
       "date": "2026-04-12T16:38:43+00:00"
@@ -539,8 +596,8 @@
       "source": "hn",
       "title": "How long-distance couples use digital games to facilitate intimacy (2025)",
       "url": "https://arxiv.org/abs/2505.09509",
-      "score": 104,
-      "comments": 34,
+      "score": 115,
+      "comments": 36,
       "author": "radeeyate",
       "tags": [],
       "date": "2026-04-12T16:17:59+00:00"
@@ -607,19 +664,6 @@
       "date": "2026-04-12T23:05:45+09:00"
     },
     {
-      "id": "qiita-08d83922c9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
-      "url": "https://qiita.com/nobuyuki86/items/a7c81557c1ccefe55215?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nobuyuki86",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-12T22:57:08+09:00"
-    },
-    {
       "id": "hn-47739313",
       "source": "hn",
       "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
@@ -646,8 +690,8 @@
       "source": "hn",
       "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
       "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-      "score": 204,
-      "comments": 56,
+      "score": 210,
+      "comments": 59,
       "author": "Rochus",
       "tags": [],
       "date": "2026-04-12T13:06:44+00:00"
@@ -657,8 +701,8 @@
       "source": "hn",
       "title": "We have a 99% email reputation, but Gmail disagrees",
       "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-      "score": 286,
-      "comments": 248,
+      "score": 294,
+      "comments": 257,
       "author": "em-bee",
       "tags": [],
       "date": "2026-04-12T12:42:25+00:00"
@@ -679,8 +723,8 @@
       "source": "hn",
       "title": "Bring Back Idiomatic Design (2023)",
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 583,
-      "comments": 335,
+      "score": 596,
+      "comments": 340,
       "author": "phil294",
       "tags": [],
       "date": "2026-04-12T12:21:26+00:00"
@@ -792,7 +836,7 @@
       "source": "hn",
       "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
       "url": "https://arxiv.org/abs/2604.07902",
-      "score": 94,
+      "score": 97,
       "comments": 12,
       "author": "mpweiher",
       "tags": [],
@@ -837,8 +881,8 @@
       "source": "hn",
       "title": "Is math big or small?",
       "url": "https://chessapig.github.io/talks/Big-Small",
-      "score": 55,
-      "comments": 18,
+      "score": 59,
+      "comments": 23,
       "author": "robinhouston",
       "tags": [],
       "date": "2026-04-12T08:25:03+00:00"
@@ -1212,7 +1256,7 @@
       "source": "hn",
       "title": "Exploiting the most prominent AI agent benchmarks",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 539,
+      "score": 542,
       "comments": 134,
       "author": "Anon84",
       "tags": [],
@@ -2069,7 +2113,7 @@
       "source": "hn",
       "title": "I gave every train in New York an instrument",
       "url": "https://www.trainjazz.com/",
-      "score": 311,
+      "score": 322,
       "comments": 63,
       "author": "joshuawolk",
       "tags": [],
@@ -3252,8 +3296,8 @@
       "source": "hn",
       "title": "Most people can't juggle one ball",
       "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-      "score": 400,
-      "comments": 135,
+      "score": 413,
+      "comments": 138,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-09T12:35:20+00:00"
@@ -5151,50 +5195,6 @@
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-07T13:55:14+00:00"
-    },
-    {
-      "id": "hn-47675444",
-      "source": "hn",
-      "title": "Happy Map",
-      "url": "https://pudding.cool/2026/02/happy-map/",
-      "score": 239,
-      "comments": 42,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-04-07T13:55:11+00:00"
-    },
-    {
-      "id": "hn-47675372",
-      "source": "hn",
-      "title": "Has electricity decoupled from gas prices in Germany?",
-      "url": "https://has-electricity-decoupled-yet.strommarktberatung.de",
-      "score": 21,
-      "comments": 12,
-      "author": "konschubert",
-      "tags": [],
-      "date": "2026-04-07T13:50:27+00:00"
-    },
-    {
-      "id": "hn-47675302",
-      "source": "hn",
-      "title": "9 Mothers (YC P26) Is Hiring – Lead Robotics and More",
-      "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-      "score": 1,
-      "comments": 0,
-      "author": "ukd1",
-      "tags": [],
-      "date": "2026-04-07T13:45:26+00:00"
-    },
-    {
-      "id": "hn-47675271",
-      "source": "hn",
-      "title": "A Digital Compute-in-Memory Architecture for NFA Evaluation",
-      "url": "https://dl.acm.org/doi/10.1145/3716368.3735157",
-      "score": 5,
-      "comments": 1,
-      "author": "blakepelton",
-      "tags": [],
-      "date": "2026-04-07T13:43:04+00:00"
     },
     {
       "id": "ctf-3420191",
