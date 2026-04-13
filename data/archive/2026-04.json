@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-13T18:54:28.316031+00:00",
+  "generated_at": "2026-04-13T19:31:00.308341+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 347,
@@ -8,9 +8,9 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 8,
     "medium": 7,
-    "high": 3
+    "high": 2
   },
   "top_articles": [
     {
@@ -84,18 +84,18 @@
       "date": "2026-04-12T06:00:00+00:00"
     },
     {
+      "title": "All elementary functions from a single binary operator",
+      "url": "https://arxiv.org/abs/2603.21852",
+      "score": 744,
+      "source": "hn",
+      "date": "2026-04-13T01:49:32+00:00"
+    },
+    {
       "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
       "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
       "score": 741,
       "source": "hn",
       "date": "2026-04-10T10:37:33+00:00"
-    },
-    {
-      "title": "All elementary functions from a single binary operator",
-      "url": "https://arxiv.org/abs/2603.21852",
-      "score": 735,
-      "source": "hn",
-      "date": "2026-04-13T01:49:32+00:00"
     },
     {
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
@@ -105,18 +105,18 @@
       "date": "2026-04-12T13:15:31+00:00"
     },
     {
-      "title": "Bring Back Idiomatic Design (2023)",
-      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 653,
-      "source": "hn",
-      "date": "2026-04-12T12:21:26+00:00"
-    },
-    {
       "title": "DIY Soft Drinks",
       "url": "https://blinry.org/diy-soft-drinks/",
-      "score": 648,
+      "score": 657,
       "source": "hn",
       "date": "2026-04-12T16:38:43+00:00"
+    },
+    {
+      "title": "Bring Back Idiomatic Design (2023)",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "score": 654,
+      "source": "hn",
+      "date": "2026-04-12T12:21:26+00:00"
     },
     {
       "title": "US cities are axing Flock Safety surveillance technology",
@@ -224,20 +224,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-07T19:54:06+00:00"
-    },
-    {
-      "title": "DRAM has a design flaw from 1966. I bypassed it [video]",
-      "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-04-07T19:14:32+00:00"
-    },
-    {
-      "title": "US Labor Force Participation Continues to Slide",
-      "url": "https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/potential-workers-on-the-sidelines-labor-force-participation-continues-to-slide/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-07T19:12:16+00:00"
     }
   ]
 }
