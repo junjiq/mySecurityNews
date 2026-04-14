@@ -1,8 +1,8 @@
 {
   "date": "2026-04-14",
-  "generated_at": "2026-04-14T18:52:31.735486+00:00",
-  "total_articles": 65,
-  "urgent_count": 3,
+  "generated_at": "2026-04-14T19:31:33.726214+00:00",
+  "total_articles": 63,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "The exponential curve behind open source backlogs",
@@ -17,19 +17,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-14T08:52:12+00:00"
-    },
-    {
-      "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-      "url": "https://amd-gaia.ai/docs",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-13T19:28:41+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 56,
       "top_items": [
         {
           "title": "DaVinci Resolve – Photo",
@@ -50,7 +43,7 @@
         {
           "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
           "url": "https://rareese.com/posts/backblaze/",
-          "score": 776,
+          "score": 798,
           "source": "hn",
           "severity": null,
           "date": "2026-04-14T08:30:27+00:00"
@@ -58,7 +51,7 @@
         {
           "title": "A new spam policy for “back button hijacking”",
           "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-          "score": 738,
+          "score": 755,
           "source": "hn",
           "severity": null,
           "date": "2026-04-14T03:06:27+00:00"
@@ -66,7 +59,7 @@
         {
           "title": "jj – the CLI for Jujutsu",
           "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
-          "score": 410,
+          "score": 421,
           "source": "hn",
           "severity": null,
           "date": "2026-04-14T10:33:39+00:00"
