@@ -1,7 +1,7 @@
 {
   "date": "2026-04-14",
-  "generated_at": "2026-04-14T03:05:56.541209+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-04-14T04:30:16.237192+00:00",
+  "total_articles": 66,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 58,
       "top_items": [
         {
           "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
           "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-          "score": 733,
+          "score": 785,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T17:54:39+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "GitHub Stacked PRs",
           "url": "https://github.github.com/gh-stack/",
-          "score": 471,
+          "score": 539,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T20:36:49+00:00"
@@ -36,10 +36,18 @@
         {
           "title": "Servo is now available on crates.io",
           "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-          "score": 430,
+          "score": 441,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T12:12:22+00:00"
+        },
+        {
+          "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+          "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+          "score": 374,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-13T15:31:06+00:00"
         },
         {
           "title": "The economics of software teams: Why most engineering orgs are flying blind",
@@ -48,21 +56,21 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T05:45:32+00:00"
-        },
-        {
-          "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-          "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-          "score": 367,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-13T15:31:06+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 8,
       "top_items": [
+        {
+          "title": "【AWS全冠】新卒1年目が半年でAWS認定資格を全冠して希望を叶えた話",
+          "url": "https://qiita.com/yucn_qiita/items/60510c583819fdaca92e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-14T13:13:27+09:00"
+        },
         {
           "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
           "url": "https://qiita.com/nobuyuki86/items/a7c81557c1ccefe55215?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-13T18:06:10+09:00"
-        },
-        {
-          "title": "AtCoderで入茶しました！",
-          "url": "https://qiita.com/WebP/items/fdd39cdb7a66a7ee1260?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-13T17:10:38+09:00"
         }
       ]
     }
