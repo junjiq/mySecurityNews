@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-14T12:51:02.950751+00:00",
+  "generated_at": "2026-04-14T13:35:03.520177+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 348,
@@ -8,18 +8,11 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "medium": 5,
     "high": 2
   },
   "top_articles": [
-    {
-      "title": "I ported Mac OS X to the Nintendo Wii",
-      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 1736,
-      "source": "hn",
-      "date": "2026-04-08T15:40:00+00:00"
-    },
     {
       "title": "Filing the corners off my MacBooks",
       "url": "https://kentwalters.com/posts/corners/",
@@ -58,7 +51,7 @@
     {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 1023,
+      "score": 1040,
       "source": "hn",
       "date": "2026-04-13T17:54:39+00:00"
     },
@@ -77,6 +70,13 @@
       "date": "2026-04-12T06:00:00+00:00"
     },
     {
+      "title": "GitHub Stacked PRs",
+      "url": "https://github.github.com/gh-stack/",
+      "score": 777,
+      "source": "hn",
+      "date": "2026-04-13T20:36:49+00:00"
+    },
+    {
       "title": "All elementary functions from a single binary operator",
       "url": "https://arxiv.org/abs/2603.21852",
       "score": 777,
@@ -84,11 +84,11 @@
       "date": "2026-04-13T01:49:32+00:00"
     },
     {
-      "title": "GitHub Stacked PRs",
-      "url": "https://github.github.com/gh-stack/",
-      "score": 764,
+      "title": "DaVinci Resolve – Photo",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "score": 742,
       "source": "hn",
-      "date": "2026-04-13T20:36:49+00:00"
+      "date": "2026-04-14T02:25:15+00:00"
     },
     {
       "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
@@ -96,13 +96,6 @@
       "score": 741,
       "source": "hn",
       "date": "2026-04-10T10:37:33+00:00"
-    },
-    {
-      "title": "DaVinci Resolve – Photo",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 712,
-      "source": "hn",
-      "date": "2026-04-14T02:25:15+00:00"
     },
     {
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
@@ -152,9 +145,23 @@
       "score": 572,
       "source": "hn",
       "date": "2026-04-09T15:12:40+00:00"
+    },
+    {
+      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "url": "https://playstarfling.com",
+      "score": 558,
+      "source": "hn",
+      "date": "2026-04-09T01:52:47+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "The exponential curve behind open source backlogs",
+      "url": "https://armanckeser.com/writing/jellyfin-flow",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-14T11:37:56+00:00"
+    },
     {
       "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
       "url": "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025",
