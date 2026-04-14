@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-14T10:38:00.241277+00:00",
+  "generated_at": "2026-04-14T11:25:20.240203+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 348,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 11,
     "medium": 5,
     "high": 2
   },
@@ -58,7 +58,7 @@
     {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 962,
+      "score": 981,
       "source": "hn",
       "date": "2026-04-13T17:54:39+00:00"
     },
@@ -93,7 +93,7 @@
     {
       "title": "GitHub Stacked PRs",
       "url": "https://github.github.com/gh-stack/",
-      "score": 721,
+      "score": 733,
       "source": "hn",
       "date": "2026-04-13T20:36:49+00:00"
     },
@@ -119,6 +119,13 @@
       "date": "2026-04-12T12:21:26+00:00"
     },
     {
+      "title": "DaVinci Resolve – Photo",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "score": 646,
+      "source": "hn",
+      "date": "2026-04-14T02:25:15+00:00"
+    },
+    {
       "title": "Installing every* Firefox extension",
       "url": "https://jack.cab/blog/every-firefox-extension",
       "score": 625,
@@ -138,13 +145,6 @@
       "score": 603,
       "source": "hn",
       "date": "2026-04-12T13:21:39+00:00"
-    },
-    {
-      "title": "DaVinci Resolve – Photo",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 597,
-      "source": "hn",
-      "date": "2026-04-14T02:25:15+00:00"
     },
     {
       "title": "How NASA built Artemis II’s fault-tolerant computer",
@@ -224,6 +224,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-09T15:17:27+00:00"
+    },
+    {
+      "title": "The M×N problem of tool calling and open-source models",
+      "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-09T15:07:13+00:00"
     },
     {
       "title": "Open source security at Astral",
