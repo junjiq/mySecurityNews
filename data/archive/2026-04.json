@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-14T09:01:49.885415+00:00",
+  "generated_at": "2026-04-14T09:58:41.446442+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 348,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 10,
     "medium": 6,
     "high": 2
   },
@@ -56,18 +56,18 @@
       "date": "2026-04-09T17:08:04+00:00"
     },
     {
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "score": 946,
+      "source": "hn",
+      "date": "2026-04-13T17:54:39+00:00"
+    },
+    {
       "title": "1D Chess",
       "url": "https://rowan441.github.io/1dchess/chess.html",
       "score": 941,
       "source": "hn",
       "date": "2026-04-10T15:37:28+00:00"
-    },
-    {
-      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 926,
-      "source": "hn",
-      "date": "2026-04-13T17:54:39+00:00"
     },
     {
       "title": "I run multiple $10K MRR companies on a $20/month tech stack",
@@ -93,7 +93,7 @@
     {
       "title": "GitHub Stacked PRs",
       "url": "https://github.github.com/gh-stack/",
-      "score": 702,
+      "score": 711,
       "source": "hn",
       "date": "2026-04-13T20:36:49+00:00"
     },
@@ -147,14 +147,21 @@
       "date": "2026-04-09T15:12:40+00:00"
     },
     {
-      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-      "url": "https://playstarfling.com",
-      "score": 558,
+      "title": "DaVinci Resolve – Photo",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "score": 563,
       "source": "hn",
-      "date": "2026-04-09T01:52:47+00:00"
+      "date": "2026-04-14T02:25:15+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
+      "url": "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-14T08:52:12+00:00"
+    },
     {
       "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
       "url": "https://amd-gaia.ai/docs",
