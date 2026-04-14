@@ -1,53 +1,45 @@
 {
   "date": "2026-04-14",
-  "generated_at": "2026-04-14T01:35:58.940892+00:00",
-  "total_articles": 76,
+  "generated_at": "2026-04-14T03:05:56.541209+00:00",
+  "total_articles": 64,
   "urgent_count": 1,
   "urgent_items": [
     {
-      "title": "【実例】DDoS攻撃でAWSの請求が200万円になった時の緊急対応マニュアル ─ 防御設定6選",
-      "url": "https://qiita.com/kawabe0201/items/546235a8b9a0e90ef095?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
+      "url": "https://amd-gaia.ai/docs",
       "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-04-13T10:40:48+09:00"
+      "source": "hn",
+      "date": "2026-04-13T19:28:41+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 57,
       "top_items": [
-        {
-          "title": "All elementary functions from a single binary operator",
-          "url": "https://arxiv.org/abs/2603.21852",
-          "score": 777,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-13T01:49:32+00:00"
-        },
         {
           "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
           "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-          "score": 679,
+          "score": 733,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T17:54:39+00:00"
         },
         {
-          "title": "Servo is now available on crates.io",
-          "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-          "score": 421,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-13T12:12:22+00:00"
-        },
-        {
           "title": "GitHub Stacked PRs",
           "url": "https://github.github.com/gh-stack/",
-          "score": 408,
+          "score": 471,
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T20:36:49+00:00"
+        },
+        {
+          "title": "Servo is now available on crates.io",
+          "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+          "score": 430,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-13T12:12:22+00:00"
         },
         {
           "title": "The economics of software teams: Why most engineering orgs are flying blind",
@@ -56,12 +48,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-13T05:45:32+00:00"
+        },
+        {
+          "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+          "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+          "score": 367,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-13T15:31:06+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 17,
+      "count": 7,
       "top_items": [
         {
           "title": "AIコーディング時代にvimへ戻れなかった話。結局Emacsに残った理由",
