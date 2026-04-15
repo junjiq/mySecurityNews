@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-15T09:02:19.980869+00:00",
-  "total_articles": 464,
+  "generated_at": "2026-04-15T09:59:42.600993+00:00",
+  "total_articles": 451,
   "source_counts": {
-    "hn": 363,
+    "hn": 350,
     "zennqiita": 100,
     "project": 1
   },
   "severity_counts": {
     "medium": 6,
-    "critical": 10,
+    "critical": 8,
     "high": 2
   },
   "top_articles": [
@@ -119,6 +119,13 @@
       "date": "2026-04-12T16:38:43+00:00"
     },
     {
+      "title": "Stop Flock",
+      "url": "https://stopflock.com",
+      "score": 669,
+      "source": "hn",
+      "date": "2026-04-14T21:56:05+00:00"
+    },
+    {
       "title": "Bring Back Idiomatic Design (2023)",
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
       "score": 654,
@@ -126,16 +133,9 @@
       "date": "2026-04-12T12:21:26+00:00"
     },
     {
-      "title": "Stop Flock",
-      "url": "https://stopflock.com",
-      "score": 643,
-      "source": "hn",
-      "date": "2026-04-14T21:56:05+00:00"
-    },
-    {
       "title": "Rare concert recordings are landing on the Internet Archive",
       "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "score": 639,
+      "score": 646,
       "source": "hn",
       "date": "2026-04-14T13:46:31+00:00"
     },
@@ -147,11 +147,11 @@
       "date": "2026-04-10T21:56:33+00:00"
     },
     {
-      "title": "Native Instant Space Switching on macOS",
-      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 609,
+      "title": "Claude Code Routines",
+      "url": "https://code.claude.com/docs/en/routines",
+      "score": 611,
       "source": "hn",
-      "date": "2026-04-09T19:48:26+00:00"
+      "date": "2026-04-14T16:54:33+00:00"
     }
   ],
   "security_highlights": [
@@ -224,20 +224,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-09T16:36:56+00:00"
-    },
-    {
-      "title": "The Vercel plugin on Claude Code wants to read your prompts",
-      "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-09T15:17:27+00:00"
-    },
-    {
-      "title": "The M×N problem of tool calling and open-source models",
-      "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-09T15:07:13+00:00"
     }
   ]
 }

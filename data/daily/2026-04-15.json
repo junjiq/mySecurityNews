@@ -1,6 +1,6 @@
 {
   "date": "2026-04-15",
-  "generated_at": "2026-04-15T09:02:19.940430+00:00",
+  "generated_at": "2026-04-15T09:59:42.560535+00:00",
   "total_articles": 57,
   "urgent_count": 1,
   "urgent_items": [
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 48,
       "top_items": [
         {
           "title": "Stop Flock",
           "url": "https://stopflock.com",
-          "score": 643,
+          "score": 669,
           "source": "hn",
           "severity": null,
           "date": "2026-04-14T21:56:05+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Rare concert recordings are landing on the Internet Archive",
           "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-          "score": 639,
+          "score": 646,
           "source": "hn",
           "severity": null,
           "date": "2026-04-14T13:46:31+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "Claude Code Routines",
           "url": "https://code.claude.com/docs/en/routines",
-          "score": 599,
+          "score": 611,
           "source": "hn",
           "severity": null,
           "date": "2026-04-14T16:54:33+00:00"
@@ -61,8 +61,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 9,
       "top_items": [
+        {
+          "title": "OCI Enterprise AI で作る RAG アプリ入門  〜 Object Storage / Vector Store / file search を試してみてみた",
+          "url": "https://qiita.com/shirok/items/42817c3ca57404911d2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-15T18:47:54+09:00"
+        },
+        {
+          "title": "Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説",
+          "url": "https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-15T18:16:53+09:00"
+        },
         {
           "title": "AIコーディング時代に必要なプログラミングスキル",
           "url": "https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,22 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-15T12:19:25+09:00"
-        },
-        {
-          "title": "Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説",
-          "url": "https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-15T11:34:47+09:00"
-        },
-        {
-          "title": "OCI Enterprise AI で作る RAG アプリ入門  〜 Object Storage / Vector Store / file search を試してみてみた",
-          "url": "https://qiita.com/shirok/items/42817c3ca57404911d2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-15T10:59:19+09:00"
         }
       ]
     }
