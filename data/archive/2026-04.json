@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-15T09:59:42.600993+00:00",
+  "generated_at": "2026-04-15T10:36:22.317982+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 350,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 6,
-    "critical": 8,
+    "critical": 7,
     "high": 2
   },
   "top_articles": [
@@ -105,6 +105,13 @@
       "date": "2026-04-10T10:37:33+00:00"
     },
     {
+      "title": "Stop Flock",
+      "url": "https://stopflock.com",
+      "score": 690,
+      "source": "hn",
+      "date": "2026-04-14T21:56:05+00:00"
+    },
+    {
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
       "url": "https://github.com/anthropics/claude-code/issues/45756",
       "score": 679,
@@ -119,13 +126,6 @@
       "date": "2026-04-12T16:38:43+00:00"
     },
     {
-      "title": "Stop Flock",
-      "url": "https://stopflock.com",
-      "score": 669,
-      "source": "hn",
-      "date": "2026-04-14T21:56:05+00:00"
-    },
-    {
       "title": "Bring Back Idiomatic Design (2023)",
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
       "score": 654,
@@ -135,7 +135,7 @@
     {
       "title": "Rare concert recordings are landing on the Internet Archive",
       "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "score": 646,
+      "score": 652,
       "source": "hn",
       "date": "2026-04-14T13:46:31+00:00"
     },
@@ -149,7 +149,7 @@
     {
       "title": "Claude Code Routines",
       "url": "https://code.claude.com/docs/en/routines",
-      "score": 611,
+      "score": 620,
       "source": "hn",
       "date": "2026-04-14T16:54:33+00:00"
     }
@@ -217,13 +217,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-10T11:20:51+00:00"
-    },
-    {
-      "title": "Little Snitch comes to Linux, but the core logic is closed source",
-      "url": "https://the.unknown-universe.co.uk/privacy-security/little-snitch-linux/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-09T16:36:56+00:00"
     }
   ]
 }
