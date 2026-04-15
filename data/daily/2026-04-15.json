@@ -1,13 +1,21 @@
 {
   "date": "2026-04-15",
-  "generated_at": "2026-04-15T15:29:53.599025+00:00",
-  "total_articles": 68,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-04-15T15:55:53.965146+00:00",
+  "total_articles": 65,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Cal.com is going closed source",
+      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-15T15:26:46+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 60,
+      "count": 57,
       "top_items": [
         {
           "title": "Stop Flock",
@@ -44,7 +52,7 @@
         {
           "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
           "url": "https://prog21.dadgum.com/30.html",
-          "score": 287,
+          "score": 303,
           "source": "hn",
           "severity": null,
           "date": "2026-04-15T09:41:19+00:00"

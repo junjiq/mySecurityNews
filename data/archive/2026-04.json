@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-15T15:29:53.642602+00:00",
+  "generated_at": "2026-04-15T15:55:54.002075+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 350,
-    "zennqiita": 100,
+    "hn": 351,
+    "zennqiita": 99,
     "project": 1
   },
   "severity_counts": {
-    "medium": 7,
-    "critical": 7,
+    "critical": 8,
+    "medium": 6,
     "high": 2
   },
   "top_articles": [
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Cal.com is going closed source",
+      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-15T15:26:46+00:00"
+    },
     {
       "title": "The exponential curve behind open source backlogs",
       "url": "https://armanckeser.com/writing/jellyfin-flow",
