@@ -1,9 +1,16 @@
 {
   "date": "2026-04-15",
-  "generated_at": "2026-04-15T15:55:53.965146+00:00",
-  "total_articles": 65,
-  "urgent_count": 1,
+  "generated_at": "2026-04-15T16:25:27.815437+00:00",
+  "total_articles": 64,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
+      "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-15T15:43:37+00:00"
+    },
     {
       "title": "Cal.com is going closed source",
       "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
@@ -15,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 56,
       "top_items": [
         {
           "title": "Stop Flock",
@@ -52,7 +59,7 @@
         {
           "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
           "url": "https://prog21.dadgum.com/30.html",
-          "score": 303,
+          "score": 323,
           "source": "hn",
           "severity": null,
           "date": "2026-04-15T09:41:19+00:00"
