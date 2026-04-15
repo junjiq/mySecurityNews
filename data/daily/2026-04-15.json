@@ -1,7 +1,7 @@
 {
   "date": "2026-04-15",
-  "generated_at": "2026-04-15T19:32:30.288974+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-04-15T20:19:27.568466+00:00",
+  "total_articles": 69,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 57,
       "top_items": [
         {
           "title": "Stop Flock",
@@ -35,7 +35,7 @@
         {
           "title": "Google Broke Its Promise to Me. Now ICE Has My Data",
           "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-          "score": 407,
+          "score": 579,
           "source": "hn",
           "severity": null,
           "date": "2026-04-15T17:44:26+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
           "url": "https://prog21.dadgum.com/30.html",
-          "score": 388,
+          "score": 399,
           "source": "hn",
           "severity": null,
           "date": "2026-04-15T09:41:19+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "God Sleeps in the Minerals",
           "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-          "score": 352,
+          "score": 371,
           "source": "hn",
           "severity": null,
           "date": "2026-04-15T13:08:10+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "Good Sleep, Good Learning (2012)",
           "url": "https://super-memory.com/articles/sleep.htm",
-          "score": 300,
+          "score": 309,
           "source": "hn",
           "severity": null,
           "date": "2026-04-15T09:11:18+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 12,
       "top_items": [
+        {
+          "title": "冷蔵庫の食材リストから自動でレシピ提案するLINE Botを作った（n8n × LLM）",
+          "url": "https://qiita.com/wan-code/items/45c3cde50a17791a7a5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-15T18:52:20+09:00"
+        },
         {
           "title": "OCI Enterprise AI で作る RAG アプリ入門  〜 Object Storage / Vector Store / file search を試してみてみた",
           "url": "https://qiita.com/shirok/items/42817c3ca57404911d2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -87,28 +95,20 @@
           "date": "2026-04-15T18:16:53+09:00"
         },
         {
-          "title": "AIコーディング時代に必要なプログラミングスキル",
-          "url": "https://qiita.com/hokutoh/items/cd68b09eccb18c1f7f3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "JavaのListとMapの種類を整理する",
+          "url": "https://qiita.com/S_kamon/items/88a5c930ecdf63bd2248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-15T16:20:45+09:00"
+          "date": "2026-04-15T17:07:50+09:00"
         },
         {
-          "title": "【時間感覚論 #1】新人エンジニアの「明日中に終わります」って、結局いつやねん！！問題",
-          "url": "https://qiita.com/hitomin_poke/items/b2bb7163d278ee8cae42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "C#で理解するSOLID原則まとめ：実務で使える設計の考え方とコード例",
+          "url": "https://qiita.com/hiroki_notes/items/3a04f05a186b29da9a20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-15T12:49:58+09:00"
-        },
-        {
-          "title": "【学生・初学者向け】無料で学び、スキルを証明できるIT・サイバーセキュリティ講座カタログ",
-          "url": "https://qiita.com/v_avenger/items/cfc6c78fba2c8595b0b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-15T12:19:25+09:00"
+          "date": "2026-04-15T16:56:38+09:00"
         }
       ]
     }
