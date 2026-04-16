@@ -1,7 +1,7 @@
 {
   "date": "2026-04-16",
-  "generated_at": "2026-04-16T07:34:48.889254+00:00",
-  "total_articles": 74,
+  "generated_at": "2026-04-16T08:36:13.000253+00:00",
+  "total_articles": 78,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 69,
+      "count": 68,
       "top_items": [
         {
           "title": "Google broke its promise to me – now ICE has my data",
           "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-          "score": 1382,
+          "score": 1429,
           "source": "hn",
           "severity": null,
           "date": "2026-04-15T17:44:26+00:00"
@@ -56,27 +56,35 @@
           "date": "2026-04-15T09:41:19+00:00"
         },
         {
-          "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
-          "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
-          "score": 388,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-15T08:05:18+00:00"
-        },
-        {
           "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
           "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
-          "score": 377,
+          "score": 403,
           "source": "hn",
           "severity": null,
           "date": "2026-04-15T21:48:18+00:00"
+        },
+        {
+          "title": "Stop Using Ollama",
+          "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+          "score": 384,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-16T03:35:11+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 10,
       "top_items": [
+        {
+          "title": "【新人・未経験】凡ミスを減らして開発を楽しく。実務で1年間使って本当に役立ったVS Code拡張機能７選",
+          "url": "https://qiita.com/keishin_nishiura/items/a8247fa7f74bd60b65d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-16T14:51:04+09:00"
+        },
         {
           "title": "Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説",
           "url": "https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,36 +94,28 @@
           "date": "2026-04-16T14:15:34+09:00"
         },
         {
-          "title": "冷蔵庫の食材リストから自動でレシピ提案するLINE Botを作った（n8n × LLM）",
-          "url": "https://qiita.com/wan-code/items/45c3cde50a17791a7a5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【35歳未経験でも理解できた】SQL 基礎コマンド",
+          "url": "https://qiita.com/wata-sho/items/7c402f4e085fae433cf5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-15T18:52:20+09:00"
+          "date": "2026-04-16T11:33:01+09:00"
         },
         {
-          "title": "OCI Enterprise AI で作る RAG アプリ入門  〜 Object Storage / Vector Store / file search を試してみてみた",
-          "url": "https://qiita.com/shirok/items/42817c3ca57404911d2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "プログラミング初学者の方が見落としがちなプロダクトを見る視点",
+          "url": "https://qiita.com/masa20057/items/73bd88b401ecab0cc4c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-15T18:47:54+09:00"
+          "date": "2026-04-16T11:15:55+09:00"
         },
         {
-          "title": "JavaのListとMapの種類を整理する",
-          "url": "https://qiita.com/S_kamon/items/88a5c930ecdf63bd2248?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "ふりかえりカンファレンス2026 参加レポート",
+          "url": "https://qiita.com/nk11281855/items/532eeab773c215752a5e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-15T17:07:50+09:00"
-        },
-        {
-          "title": "C#で理解するSOLID原則まとめ：実務で使える設計の考え方とコード例",
-          "url": "https://qiita.com/hiroki_notes/items/3a04f05a186b29da9a20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-15T16:56:38+09:00"
+          "date": "2026-04-16T10:30:28+09:00"
         }
       ]
     }
