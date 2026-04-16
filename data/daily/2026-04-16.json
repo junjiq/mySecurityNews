@@ -1,7 +1,7 @@
 {
   "date": "2026-04-16",
-  "generated_at": "2026-04-16T12:53:37.936422+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-04-16T13:35:28.303761+00:00",
+  "total_articles": 61,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,23 +29,15 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 55,
       "top_items": [
         {
           "title": "Google broke its promise to me – now ICE has my data",
           "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-          "score": 1556,
+          "score": 1577,
           "source": "hn",
           "severity": null,
           "date": "2026-04-15T17:44:26+00:00"
-        },
-        {
-          "title": "God sleeps in the minerals",
-          "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-          "score": 491,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-15T13:08:10+00:00"
         },
         {
           "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
@@ -66,16 +58,24 @@
         {
           "title": "Cal.com is going closed source",
           "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-          "score": 335,
+          "score": 346,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-15T15:26:46+00:00"
+        },
+        {
+          "title": "Darkbloom – Private inference on idle Macs",
+          "url": "https://darkbloom.dev",
+          "score": 337,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-16T04:06:39+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説",
