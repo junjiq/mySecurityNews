@@ -1,9 +1,16 @@
 {
   "date": "2026-04-16",
-  "generated_at": "2026-04-16T20:47:08.351028+00:00",
+  "generated_at": "2026-04-16T21:17:12.886692+00:00",
   "total_articles": 62,
-  "urgent_count": 1,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "European civil servants are being forced off WhatsApp",
+      "url": "https://www.politico.eu/article/european-civil-servants-new-messaging-services/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-16T19:40:14+00:00"
+    },
     {
       "title": "Stealth signals are bypassing Iran’s internet blackout",
       "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
@@ -20,7 +27,7 @@
         {
           "title": "Claude Opus 4.7",
           "url": "https://www.anthropic.com/news/claude-opus-4-7",
-          "score": 1167,
+          "score": 1208,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T14:23:50+00:00"
@@ -28,26 +35,26 @@
         {
           "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
           "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-          "score": 741,
+          "score": 770,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T13:36:27+00:00"
         },
         {
-          "title": "Darkbloom – Private inference on idle Macs",
-          "url": "https://darkbloom.dev",
-          "score": 458,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-16T04:06:39+00:00"
-        },
-        {
           "title": "Codex for almost everything",
           "url": "https://openai.com/index/codex-for-almost-everything/",
-          "score": 457,
+          "score": 500,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T17:12:19+00:00"
+        },
+        {
+          "title": "Darkbloom – Private inference on idle Macs",
+          "url": "https://darkbloom.dev",
+          "score": 463,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-16T04:06:39+00:00"
         },
         {
           "title": "The buns in McDonald's Japan's burger photos are all slightly askew",

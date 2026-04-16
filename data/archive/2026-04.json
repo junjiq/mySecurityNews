@@ -1,16 +1,16 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-16T20:47:08.388343+00:00",
+  "generated_at": "2026-04-16T21:17:12.926612+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 355,
-    "zennqiita": 95,
+    "hn": 356,
+    "zennqiita": 94,
     "project": 1
   },
   "severity_counts": {
+    "critical": 9,
     "medium": 6,
-    "high": 3,
-    "critical": 8
+    "high": 3
   },
   "top_articles": [
     {
@@ -21,18 +21,18 @@
       "date": "2026-04-15T17:44:26+00:00"
     },
     {
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "score": 1208,
+      "source": "hn",
+      "date": "2026-04-16T14:23:50+00:00"
+    },
+    {
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
       "score": 1204,
       "source": "hn",
       "date": "2026-04-11T16:47:28+00:00"
-    },
-    {
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1167,
-      "source": "hn",
-      "date": "2026-04-16T14:23:50+00:00"
     },
     {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
@@ -93,14 +93,14 @@
     {
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 741,
+      "score": 770,
       "source": "hn",
       "date": "2026-04-16T13:36:27+00:00"
     },
     {
       "title": "IPv6 traffic crosses the 50% mark",
       "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "score": 730,
+      "score": 742,
       "source": "hn",
       "date": "2026-04-15T11:59:49+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "European civil servants are being forced off WhatsApp",
+      "url": "https://www.politico.eu/article/european-civil-servants-new-messaging-services/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-16T19:40:14+00:00"
+    },
     {
       "title": "Stealth signals are bypassing Iran’s internet blackout",
       "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
