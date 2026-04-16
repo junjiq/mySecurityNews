@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-16T03:06:19.354871+00:00",
+  "generated_at": "2026-04-16T04:32:18.767096+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 366,
@@ -8,9 +8,9 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 9,
-    "medium": 5,
-    "high": 2
+    "high": 3,
+    "critical": 8,
+    "medium": 5
   },
   "top_articles": [
     {
@@ -21,18 +21,18 @@
       "date": "2026-04-10T22:16:40+00:00"
     },
     {
+      "title": "Google broke its promise to me – now ICE has my data",
+      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "score": 1262,
+      "source": "hn",
+      "date": "2026-04-15T17:44:26+00:00"
+    },
+    {
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
       "score": 1204,
       "source": "hn",
       "date": "2026-04-11T16:47:28+00:00"
-    },
-    {
-      "title": "Google broke its promise to me – now ICE has my data",
-      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "score": 1175,
-      "source": "hn",
-      "date": "2026-04-15T17:44:26+00:00"
     },
     {
       "title": "Artemis II safely splashes down",
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "Stealth signals are bypassing Iran’s internet blackout",
+      "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-16T02:16:50+00:00"
+    },
+    {
       "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
       "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
       "severity": "critical",
@@ -224,13 +231,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-11T17:34:10+00:00"
-    },
-    {
-      "title": "Microsoft suspends dev accounts for high-profile open source projects",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-10T11:20:51+00:00"
     }
   ]
 }
