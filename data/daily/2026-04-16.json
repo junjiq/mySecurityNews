@@ -1,16 +1,9 @@
 {
   "date": "2026-04-16",
-  "generated_at": "2026-04-16T15:34:40.264336+00:00",
-  "total_articles": 66,
-  "urgent_count": 2,
+  "generated_at": "2026-04-16T16:34:25.459746+00:00",
+  "total_articles": 63,
+  "urgent_count": 1,
   "urgent_items": [
-    {
-      "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
-      "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-15T15:43:37+00:00"
-    },
     {
       "title": "Stealth signals are bypassing Iran’s internet blackout",
       "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
@@ -22,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 56,
       "top_items": [
         {
           "title": "Google broke its promise to me – now ICE has my data",
@@ -33,6 +26,14 @@
           "date": "2026-04-15T17:44:26+00:00"
         },
         {
+          "title": "Claude Opus 4.7",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "score": 590,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-16T14:23:50+00:00"
+        },
+        {
           "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
           "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
           "score": 456,
@@ -41,28 +42,20 @@
           "date": "2026-04-15T21:48:18+00:00"
         },
         {
+          "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
+          "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+          "score": 426,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-16T13:36:27+00:00"
+        },
+        {
           "title": "Darkbloom – Private inference on idle Macs",
           "url": "https://darkbloom.dev",
-          "score": 387,
+          "score": 403,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T04:06:39+00:00"
-        },
-        {
-          "title": "Stop Using Ollama",
-          "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-          "score": 384,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-16T03:35:11+00:00"
-        },
-        {
-          "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-          "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
-          "score": 311,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-16T12:13:30+00:00"
         }
       ]
     },
