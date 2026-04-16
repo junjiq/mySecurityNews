@@ -1,7 +1,7 @@
 {
   "date": "2026-04-16",
-  "generated_at": "2026-04-16T11:49:26.455740+00:00",
-  "total_articles": 72,
+  "generated_at": "2026-04-16T12:24:53.761482+00:00",
+  "total_articles": 67,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 65,
+      "count": 60,
       "top_items": [
         {
           "title": "Google broke its promise to me – now ICE has my data",
           "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-          "score": 1524,
+          "score": 1539,
           "source": "hn",
           "severity": null,
           "date": "2026-04-15T17:44:26+00:00"
@@ -64,12 +64,12 @@
           "date": "2026-04-16T03:35:11+00:00"
         },
         {
-          "title": "IPv6 traffic crosses the 50% mark",
-          "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-          "score": 379,
+          "title": "Cal.com is going closed source",
+          "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+          "score": 330,
           "source": "hn",
-          "severity": null,
-          "date": "2026-04-15T11:59:49+00:00"
+          "severity": "critical",
+          "date": "2026-04-15T15:26:46+00:00"
         }
       ]
     },
