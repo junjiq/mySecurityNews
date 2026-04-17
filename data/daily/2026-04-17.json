@@ -1,9 +1,16 @@
 {
   "date": "2026-04-17",
-  "generated_at": "2026-04-17T16:21:31.085274+00:00",
-  "total_articles": 53,
-  "urgent_count": 5,
+  "generated_at": "2026-04-17T16:50:14.242443+00:00",
+  "total_articles": 55,
+  "urgent_count": 6,
   "urgent_items": [
+    {
+      "title": "NASA Force",
+      "url": "https://nasaforce.gov/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-17T15:47:41+00:00"
+    },
     {
       "title": "PROBoter – Open-source platform for automated PCB analysis",
       "url": "https://www.schutzwerk.com/en/blog/proboter-01/",
@@ -43,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 45,
       "top_items": [
         {
           "title": "Codex for almost everything",
           "url": "https://openai.com/index/codex-for-almost-everything/",
-          "score": 956,
+          "score": 959,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T17:12:19+00:00"
@@ -56,7 +63,7 @@
         {
           "title": "Isaac Asimov: The Last Question (1956)",
           "url": "https://hex.ooo/library/last_question.html",
-          "score": 385,
+          "score": 403,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T12:01:19+00:00"
@@ -70,26 +77,26 @@
           "date": "2026-04-16T17:37:20+00:00"
         },
         {
+          "title": "Claude Design",
+          "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+          "score": 298,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-17T15:04:09+00:00"
+        },
+        {
           "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
           "url": "https://clojure.org/about/documentary",
-          "score": 294,
+          "score": 298,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T19:32:18+00:00"
-        },
-        {
-          "title": "Android CLI: Build Android apps 3x faster using any agent",
-          "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-          "score": 285,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-16T18:39:59+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
         {
           "title": "AIエンジニアリングの進化：プロンプトからコンテキスト、そしてハーネスへ（2022 - 2026）",
