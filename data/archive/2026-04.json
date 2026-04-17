@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-17T19:50:00.744691+00:00",
+  "generated_at": "2026-04-17T20:16:00.478495+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 88,
+    "hn": 358,
+    "zennqiita": 91,
     "project": 2
   },
   "severity_counts": {
     "critical": 15,
-    "high": 3,
+    "high": 4,
     "medium": 4
   },
   "top_articles": [
@@ -84,13 +84,6 @@
       "date": "2026-04-14T21:56:05+00:00"
     },
     {
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "score": 793,
-      "source": "hn",
-      "date": "2026-04-12T06:00:00+00:00"
-    },
-    {
       "title": "All elementary functions from a single binary operator",
       "url": "https://arxiv.org/abs/2603.21852",
       "score": 777,
@@ -147,6 +140,13 @@
       "date": "2026-04-16T13:32:13+00:00"
     },
     {
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "score": 614,
+      "source": "hn",
+      "date": "2026-04-17T15:04:09+00:00"
+    },
+    {
       "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
       "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
       "score": 603,
@@ -175,6 +175,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-04-17T11:22:05+00:00"
+    },
+    {
+      "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
+      "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-04-17T19:29:09+09:00"
     },
     {
       "title": "PROBoter – Open-source platform for automated PCB analysis",
