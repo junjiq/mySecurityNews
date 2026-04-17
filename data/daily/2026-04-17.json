@@ -1,7 +1,7 @@
 {
   "date": "2026-04-17",
-  "generated_at": "2026-04-17T16:50:14.242443+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-04-17T17:19:11.611476+00:00",
+  "total_articles": 54,
   "urgent_count": 6,
   "urgent_items": [
     {
@@ -50,23 +50,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 44,
       "top_items": [
-        {
-          "title": "Codex for almost everything",
-          "url": "https://openai.com/index/codex-for-almost-everything/",
-          "score": 959,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-16T17:12:19+00:00"
-        },
         {
           "title": "Isaac Asimov: The Last Question (1956)",
           "url": "https://hex.ooo/library/last_question.html",
-          "score": 403,
+          "score": 428,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T12:01:19+00:00"
+        },
+        {
+          "title": "Claude Design",
+          "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+          "score": 362,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-17T15:04:09+00:00"
         },
         {
           "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
@@ -77,20 +77,20 @@
           "date": "2026-04-16T17:37:20+00:00"
         },
         {
-          "title": "Claude Design",
-          "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-          "score": 298,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-17T15:04:09+00:00"
-        },
-        {
           "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
           "url": "https://clojure.org/about/documentary",
           "score": 298,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T19:32:18+00:00"
+        },
+        {
+          "title": "It Is Time to Ban the Sale of Precise Geolocation",
+          "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
+          "score": 287,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-17T14:25:46+00:00"
         }
       ]
     },
