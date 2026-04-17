@@ -1,8 +1,8 @@
 {
   "date": "2026-04-17",
-  "generated_at": "2026-04-17T15:24:57.892672+00:00",
-  "total_articles": 51,
-  "urgent_count": 4,
+  "generated_at": "2026-04-17T15:48:46.695243+00:00",
+  "total_articles": 53,
+  "urgent_count": 5,
   "urgent_items": [
     {
       "title": "PROBoter – Open-source platform for automated PCB analysis",
@@ -26,6 +26,13 @@
       "date": "2026-04-16T19:40:14+00:00"
     },
     {
+      "title": "NIST gives up enriching most CVEs",
+      "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-17T15:09:14+00:00"
+    },
+    {
       "title": "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
       "url": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
       "severity": "high",
@@ -36,12 +43,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 42,
       "top_items": [
         {
           "title": "Codex for almost everything",
           "url": "https://openai.com/index/codex-for-almost-everything/",
-          "score": 947,
+          "score": 949,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T17:12:19+00:00"
@@ -57,7 +64,7 @@
         {
           "title": "Isaac Asimov: The Last Question (1956)",
           "url": "https://hex.ooo/library/last_question.html",
-          "score": 321,
+          "score": 351,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T12:01:19+00:00"
@@ -65,7 +72,7 @@
         {
           "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
           "url": "https://clojure.org/about/documentary",
-          "score": 284,
+          "score": 288,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T19:32:18+00:00"
@@ -73,7 +80,7 @@
         {
           "title": "Android CLI: Build Android apps 3x faster using any agent",
           "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-          "score": 281,
+          "score": 284,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T18:39:59+00:00"
