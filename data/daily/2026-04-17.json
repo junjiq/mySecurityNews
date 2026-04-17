@@ -1,9 +1,16 @@
 {
   "date": "2026-04-17",
-  "generated_at": "2026-04-17T03:06:16.815541+00:00",
-  "total_articles": 57,
-  "urgent_count": 1,
+  "generated_at": "2026-04-17T04:31:35.459562+00:00",
+  "total_articles": 53,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Discourse Is Not Going Closed Source",
+      "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-17T03:36:26+00:00"
+    },
     {
       "title": "European civil servants are being forced off WhatsApp",
       "url": "https://www.politico.eu/article/european-civil-servants-new-messaging-services/",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 44,
       "top_items": [
         {
           "title": "Claude Opus 4.7",
           "url": "https://www.anthropic.com/news/claude-opus-4-7",
-          "score": 1524,
+          "score": 1568,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T14:23:50+00:00"
@@ -28,7 +35,7 @@
         {
           "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
           "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-          "score": 940,
+          "score": 967,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T13:36:27+00:00"
@@ -36,7 +43,7 @@
         {
           "title": "Codex for almost everything",
           "url": "https://openai.com/index/codex-for-almost-everything/",
-          "score": 713,
+          "score": 756,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T17:12:19+00:00"
@@ -44,18 +51,18 @@
         {
           "title": "The future of everything is lies, I guess: Where do we go from here?",
           "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
-          "score": 522,
+          "score": 543,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T13:32:13+00:00"
         },
         {
-          "title": "Darkbloom – Private inference on idle Macs",
-          "url": "https://darkbloom.dev",
-          "score": 463,
+          "title": "Cloudflare Email Service",
+          "url": "https://blog.cloudflare.com/email-for-agents/",
+          "score": 391,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-16T04:06:39+00:00"
+          "date": "2026-04-16T13:21:53+00:00"
         }
       ]
     },

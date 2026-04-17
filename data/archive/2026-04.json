@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-17T03:06:16.850390+00:00",
+  "generated_at": "2026-04-17T04:31:35.502388+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 360,
-    "zennqiita": 90,
+    "hn": 361,
+    "zennqiita": 89,
     "project": 2
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "medium": 5,
     "high": 3
   },
@@ -23,7 +23,7 @@
     {
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1524,
+      "score": 1568,
       "source": "hn",
       "date": "2026-04-16T14:23:50+00:00"
     },
@@ -58,7 +58,7 @@
     {
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 940,
+      "score": 967,
       "source": "hn",
       "date": "2026-04-16T13:36:27+00:00"
     },
@@ -107,7 +107,7 @@
     {
       "title": "Codex for almost everything",
       "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 713,
+      "score": 756,
       "source": "hn",
       "date": "2026-04-16T17:12:19+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Discourse Is Not Going Closed Source",
+      "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-17T03:36:26+00:00"
+    },
     {
       "title": "European civil servants are being forced off WhatsApp",
       "url": "https://www.politico.eu/article/european-civil-servants-new-messaging-services/",
