@@ -1,10 +1,10 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-17T04:31:35.502388+00:00",
+  "generated_at": "2026-04-17T05:44:58.657825+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 89,
+    "hn": 362,
+    "zennqiita": 88,
     "project": 2
   },
   "severity_counts": {
@@ -14,18 +14,18 @@
   },
   "top_articles": [
     {
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "score": 1613,
+      "source": "hn",
+      "date": "2026-04-16T14:23:50+00:00"
+    },
+    {
       "title": "Google broke its promise to me – now ICE has my data",
       "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
       "score": 1577,
       "source": "hn",
       "date": "2026-04-15T17:44:26+00:00"
-    },
-    {
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1568,
-      "source": "hn",
-      "date": "2026-04-16T14:23:50+00:00"
     },
     {
       "title": "Small models also found the vulnerabilities that Mythos found",
@@ -58,7 +58,7 @@
     {
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 967,
+      "score": 1003,
       "source": "hn",
       "date": "2026-04-16T13:36:27+00:00"
     },
@@ -91,6 +91,13 @@
       "date": "2026-04-12T06:00:00+00:00"
     },
     {
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 783,
+      "source": "hn",
+      "date": "2026-04-16T17:12:19+00:00"
+    },
+    {
       "title": "All elementary functions from a single binary operator",
       "url": "https://arxiv.org/abs/2603.21852",
       "score": 777,
@@ -103,13 +110,6 @@
       "score": 759,
       "source": "hn",
       "date": "2026-04-15T11:59:49+00:00"
-    },
-    {
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 756,
-      "source": "hn",
-      "date": "2026-04-16T17:12:19+00:00"
     },
     {
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
