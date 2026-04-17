@@ -1,9 +1,16 @@
 {
   "date": "2026-04-17",
-  "generated_at": "2026-04-17T08:36:00.610002+00:00",
-  "total_articles": 60,
-  "urgent_count": 2,
+  "generated_at": "2026-04-17T09:33:27.677857+00:00",
+  "total_articles": 61,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "PROBoter – Open-source platform for automated PCB analysis",
+      "url": "https://www.schutzwerk.com/en/blog/proboter-01/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-17T06:19:45+00:00"
+    },
     {
       "title": "Discourse Is Not Going Closed Source",
       "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 46,
       "top_items": [
         {
           "title": "Claude Opus 4.7",
           "url": "https://www.anthropic.com/news/claude-opus-4-7",
-          "score": 1717,
+          "score": 1744,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T14:23:50+00:00"
@@ -35,7 +42,7 @@
         {
           "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
           "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-          "score": 1061,
+          "score": 1090,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T13:36:27+00:00"
@@ -43,7 +50,7 @@
         {
           "title": "Codex for almost everything",
           "url": "https://openai.com/index/codex-for-almost-everything/",
-          "score": 848,
+          "score": 870,
           "source": "hn",
           "severity": null,
           "date": "2026-04-16T17:12:19+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 14,
       "top_items": [
         {
           "title": "AIエンジニアリングの進化：プロンプトからコンテキスト、そしてハーネスへ（2022 - 2026）",
