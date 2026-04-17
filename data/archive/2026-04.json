@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-17T00:31:57.313449+00:00",
+  "generated_at": "2026-04-17T01:35:57.172688+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 359,
@@ -8,8 +8,8 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 9,
-    "medium": 6,
+    "critical": 10,
+    "medium": 5,
     "high": 3
   },
   "top_articles": [
@@ -23,7 +23,7 @@
     {
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1402,
+      "score": 1460,
       "source": "hn",
       "date": "2026-04-16T14:23:50+00:00"
     },
@@ -58,7 +58,7 @@
     {
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 876,
+      "score": 900,
       "source": "hn",
       "date": "2026-04-16T13:36:27+00:00"
     },
@@ -126,6 +126,13 @@
       "date": "2026-04-12T16:38:43+00:00"
     },
     {
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 666,
+      "source": "hn",
+      "date": "2026-04-16T17:12:19+00:00"
+    },
+    {
       "title": "Rare concert recordings are landing on the Internet Archive",
       "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
       "score": 664,
@@ -138,13 +145,6 @@
       "score": 654,
       "source": "hn",
       "date": "2026-04-12T12:21:26+00:00"
-    },
-    {
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 640,
-      "source": "hn",
-      "date": "2026-04-16T17:12:19+00:00"
     },
     {
       "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
@@ -182,6 +182,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-15T15:26:46+00:00"
+    },
+    {
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "url": "https://cadquery.github.io/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-14T23:20:39+00:00"
     },
     {
       "title": "The exponential curve behind open source backlogs",
