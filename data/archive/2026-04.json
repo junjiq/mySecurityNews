@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-17T11:47:35.491106+00:00",
+  "generated_at": "2026-04-17T12:21:51.648661+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 354,
@@ -8,15 +8,15 @@
     "project": 2
   },
   "severity_counts": {
+    "high": 4,
     "critical": 14,
-    "medium": 4,
-    "high": 3
+    "medium": 4
   },
   "top_articles": [
     {
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1797,
+      "score": 1813,
       "source": "hn",
       "date": "2026-04-16T14:23:50+00:00"
     },
@@ -30,7 +30,7 @@
     {
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 1129,
+      "score": 1141,
       "source": "hn",
       "date": "2026-04-16T13:36:27+00:00"
     },
@@ -58,7 +58,7 @@
     {
       "title": "Codex for almost everything",
       "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 906,
+      "score": 910,
       "source": "hn",
       "date": "2026-04-16T17:12:19+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
+      "url": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-17T11:22:05+00:00"
+    },
     {
       "title": "PROBoter – Open-source platform for automated PCB analysis",
       "url": "https://www.schutzwerk.com/en/blog/proboter-01/",
