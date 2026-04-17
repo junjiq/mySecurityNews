@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-17T01:35:57.172688+00:00",
+  "generated_at": "2026-04-17T03:06:16.850390+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 359,
-    "zennqiita": 91,
+    "hn": 360,
+    "zennqiita": 90,
     "project": 2
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 12,
     "medium": 5,
     "high": 3
   },
@@ -23,7 +23,7 @@
     {
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1460,
+      "score": 1524,
       "source": "hn",
       "date": "2026-04-16T14:23:50+00:00"
     },
@@ -58,7 +58,7 @@
     {
       "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
       "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 900,
+      "score": 940,
       "source": "hn",
       "date": "2026-04-16T13:36:27+00:00"
     },
@@ -105,6 +105,13 @@
       "date": "2026-04-15T11:59:49+00:00"
     },
     {
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 713,
+      "source": "hn",
+      "date": "2026-04-16T17:12:19+00:00"
+    },
+    {
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
       "url": "https://github.com/anthropics/claude-code/issues/45756",
       "score": 679,
@@ -124,13 +131,6 @@
       "score": 677,
       "source": "hn",
       "date": "2026-04-12T16:38:43+00:00"
-    },
-    {
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 666,
-      "source": "hn",
-      "date": "2026-04-16T17:12:19+00:00"
     },
     {
       "title": "Rare concert recordings are landing on the Internet Archive",
@@ -210,6 +210,20 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-13T19:28:41+00:00"
+    },
+    {
+      "title": "288,493 Requests – How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio",
+      "url": "https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-13T13:22:52+00:00"
+    },
+    {
+      "title": "ReBot-DevArm: open-source Robotic Arm",
+      "url": "https://github.com/Seeed-Projects/reBot-DevArm",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-13T11:39:12+00:00"
     },
     {
       "title": "【実例】DDoS攻撃でAWSの請求が200万円になった時の緊急対応マニュアル ─ 防御設定6選",
