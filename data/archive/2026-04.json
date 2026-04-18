@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-18T20:11:04.474819+00:00",
+  "generated_at": "2026-04-18T20:45:23.978247+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 360,
-    "zennqiita": 89,
+    "hn": 357,
+    "zennqiita": 92,
     "project": 3
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 14,
     "high": 4,
     "medium": 3
   },
@@ -140,18 +140,18 @@
       "date": "2026-04-17T14:25:46+00:00"
     },
     {
+      "title": "Migrating from DigitalOcean to Hetzner",
+      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+      "score": 581,
+      "source": "hn",
+      "date": "2026-04-18T13:29:04+00:00"
+    },
+    {
       "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
       "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
       "score": 572,
       "source": "hn",
       "date": "2026-04-14T17:47:00+00:00"
-    },
-    {
-      "title": "Migrating from DigitalOcean to Hetzner",
-      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 548,
-      "source": "hn",
-      "date": "2026-04-18T13:29:04+00:00"
     }
   ],
   "security_highlights": [
@@ -203,6 +203,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-16T19:40:14+00:00"
+    },
+    {
+      "title": "【備忘録】Salesforce TDX 2026 ― イベント後の公式情報をキャッチアップするための全体像整理",
+      "url": "https://qiita.com/Tadataka_Takahashi/items/4c33ed9cc728094d8bd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-04-17T00:46:01+09:00"
     },
     {
       "title": "Stealth signals are bypassing Iran’s internet blackout",
