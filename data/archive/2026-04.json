@@ -1,10 +1,10 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-18T07:52:45.314037+00:00",
+  "generated_at": "2026-04-18T08:16:07.573898+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 88,
+    "hn": 353,
+    "zennqiita": 96,
     "project": 3
   },
   "severity_counts": {
@@ -58,7 +58,7 @@
     {
       "title": "Claude Design",
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 1007,
+      "score": 1012,
       "source": "hn",
       "date": "2026-04-17T15:04:09+00:00"
     },
@@ -112,13 +112,6 @@
       "date": "2026-04-17T12:01:19+00:00"
     },
     {
-      "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-      "url": "https://github.com/anthropics/claude-code/issues/45756",
-      "score": 679,
-      "source": "hn",
-      "date": "2026-04-12T13:15:31+00:00"
-    },
-    {
       "title": "Claude Code Routines",
       "url": "https://code.claude.com/docs/en/routines",
       "score": 678,
@@ -152,6 +145,13 @@
       "score": 628,
       "source": "hn",
       "date": "2026-04-17T14:25:46+00:00"
+    },
+    {
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "score": 597,
+      "source": "hn",
+      "date": "2026-04-17T15:29:36+00:00"
     }
   ],
   "security_highlights": [
