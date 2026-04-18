@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "generated_at": "2026-04-18T12:47:47.398028+00:00",
-  "total_articles": 45,
+  "generated_at": "2026-04-18T13:28:25.829096+00:00",
+  "total_articles": 48,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,15 +22,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 41,
       "top_items": [
         {
           "title": "Claude Design",
           "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-          "score": 1083,
+          "score": 1090,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T15:04:09+00:00"
+        },
+        {
+          "title": "Measuring Claude 4.7's tokenizer costs",
+          "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+          "score": 629,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-17T15:29:36+00:00"
         },
         {
           "title": "Ban the sale of precise geolocation",
@@ -41,28 +49,20 @@
           "date": "2026-04-17T14:25:46+00:00"
         },
         {
-          "title": "Measuring Claude 4.7's tokenizer costs",
-          "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-          "score": 627,
+          "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+          "url": "https://github.com/smol-machines/smolvm",
+          "score": 367,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-17T15:29:36+00:00"
+          "date": "2026-04-17T17:18:58+00:00"
         },
         {
           "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
           "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-          "score": 358,
+          "score": 366,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T18:17:01+00:00"
-        },
-        {
-          "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-          "url": "https://github.com/smol-machines/smolvm",
-          "score": 355,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-17T17:18:58+00:00"
         }
       ]
     },
