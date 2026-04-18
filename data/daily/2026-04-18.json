@@ -1,7 +1,7 @@
 {
   "date": "2026-04-18",
-  "generated_at": "2026-04-18T01:01:55.394190+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-04-18T02:18:01.059225+00:00",
+  "total_articles": 54,
   "urgent_count": 6,
   "urgent_items": [
     {
@@ -55,7 +55,7 @@
         {
           "title": "Claude Design",
           "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-          "score": 820,
+          "score": 853,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T15:04:09+00:00"
@@ -63,7 +63,7 @@
         {
           "title": "Isaac Asimov: The Last Question (1956)",
           "url": "https://hex.ooo/library/last_question.html",
-          "score": 612,
+          "score": 627,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T12:01:19+00:00"
@@ -71,7 +71,7 @@
         {
           "title": "Ban the sale of precise geolocation",
           "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-          "score": 585,
+          "score": 608,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T14:25:46+00:00"
@@ -79,7 +79,7 @@
         {
           "title": "Measuring Claude 4.7's tokenizer costs",
           "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-          "score": 535,
+          "score": 544,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T15:29:36+00:00"
@@ -137,6 +137,20 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-17T16:18:52+09:00"
+        }
+      ]
+    },
+    {
+      "category": "注目リリース",
+      "count": 1,
+      "top_items": [
+        {
+          "title": "Nuclei v3.8.0 — v3.8.0",
+          "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.8.0",
+          "score": null,
+          "source": "project",
+          "severity": null,
+          "date": "2026-04-18T01:47:59Z"
         }
       ]
     }
