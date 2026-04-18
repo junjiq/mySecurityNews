@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-17T23:45:32.672311+00:00",
+  "generated_at": "2026-04-18T00:29:02.521800+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 360,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 14,
     "high": 4,
     "medium": 3
   },
@@ -77,18 +77,18 @@
       "date": "2026-04-13T20:36:49+00:00"
     },
     {
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "score": 807,
+      "source": "hn",
+      "date": "2026-04-17T15:04:09+00:00"
+    },
+    {
       "title": "Stop Flock",
       "url": "https://stopflock.com",
       "score": 804,
       "source": "hn",
       "date": "2026-04-14T21:56:05+00:00"
-    },
-    {
-      "title": "Claude Design",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 780,
-      "source": "hn",
-      "date": "2026-04-17T15:04:09+00:00"
     },
     {
       "title": "All elementary functions from a single binary operator",
@@ -147,11 +147,11 @@
       "date": "2026-04-16T13:32:13+00:00"
     },
     {
-      "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
-      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "score": 603,
+      "title": "Isaac Asimov: The Last Question (1956)",
+      "url": "https://hex.ooo/library/last_question.html",
+      "score": 611,
       "source": "hn",
-      "date": "2026-04-12T13:21:39+00:00"
+      "date": "2026-04-17T12:01:19+00:00"
     }
   ],
   "security_highlights": [
@@ -280,13 +280,6 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-04-13T10:40:48+09:00"
-    },
-    {
-      "title": "MiniMax M2.7 Is Now Open Source",
-      "url": "https://firethering.com/minimax-m2-7-agentic-model/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-12T10:07:33+00:00"
     }
   ]
 }
