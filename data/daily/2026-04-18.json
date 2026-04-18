@@ -1,8 +1,8 @@
 {
   "date": "2026-04-18",
-  "generated_at": "2026-04-18T05:34:05.785659+00:00",
-  "total_articles": 49,
-  "urgent_count": 5,
+  "generated_at": "2026-04-18T06:27:54.402205+00:00",
+  "total_articles": 45,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "NASA Force",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-17T15:47:41+00:00"
-    },
-    {
-      "title": "PROBoter – Open-source platform for automated PCB analysis",
-      "url": "https://www.schutzwerk.com/en/blog/proboter-01/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-17T06:19:45+00:00"
     },
     {
       "title": "NIST gives up enriching most CVEs",
@@ -43,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 36,
       "top_items": [
         {
           "title": "Claude Design",
           "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-          "score": 943,
+          "score": 970,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T15:04:09+00:00"
@@ -56,7 +49,7 @@
         {
           "title": "Isaac Asimov: The Last Question (1956)",
           "url": "https://hex.ooo/library/last_question.html",
-          "score": 682,
+          "score": 691,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T12:01:19+00:00"
@@ -72,24 +65,24 @@
         {
           "title": "Measuring Claude 4.7's tokenizer costs",
           "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-          "score": 572,
+          "score": 577,
           "source": "hn",
           "severity": null,
           "date": "2026-04-17T15:29:36+00:00"
         },
         {
-          "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-          "score": 288,
+          "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+          "url": "https://github.com/smol-machines/smolvm",
+          "score": 299,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-17T18:17:01+00:00"
+          "date": "2026-04-17T17:18:58+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 8,
       "top_items": [
         {
           "title": "XServer APIを使ってみた",
@@ -97,7 +90,15 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-18T13:22:34+09:00"
+          "date": "2026-04-18T14:57:46+09:00"
+        },
+        {
+          "title": "Claude Codeでラッコツールズ風ツールを6機能実装して分かったこと",
+          "url": "https://qiita.com/aito1234/items/9650afd183ce0ea09e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-18T14:43:06+09:00"
         },
         {
           "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
@@ -122,14 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-17T17:29:16+09:00"
-        },
-        {
-          "title": "C#で理解するオブジェクト指向 ― 概念から実装までを一気に整理する",
-          "url": "https://qiita.com/hiroki_notes/items/badced4338f3f8739372?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-17T16:46:59+09:00"
         }
       ]
     },
