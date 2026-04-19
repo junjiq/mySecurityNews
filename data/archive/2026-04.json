@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-19T07:32:20.768966+00:00",
+  "generated_at": "2026-04-19T08:21:52.208240+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 363,
-    "zennqiita": 86,
+    "hn": 357,
+    "zennqiita": 92,
     "project": 3
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 13,
     "high": 5,
     "medium": 3
   },
@@ -100,7 +100,7 @@
     {
       "title": "Migrating from DigitalOcean to Hetzner",
       "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 749,
+      "score": 755,
       "source": "hn",
       "date": "2026-04-18T13:29:04+00:00"
     },
@@ -280,13 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-13T13:22:52+00:00"
-    },
-    {
-      "title": "ReBot-DevArm: open-source Robotic Arm",
-      "url": "https://github.com/Seeed-Projects/reBot-DevArm",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-13T11:39:12+00:00"
     }
   ]
 }

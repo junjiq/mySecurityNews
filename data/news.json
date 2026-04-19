@@ -1,47 +1,97 @@
 {
-  "updated_at": "2026-04-19T07:32:20.681624+00:00",
+  "updated_at": "2026-04-19T08:21:52.101260+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47822414",
+      "source": "hn",
+      "title": "The RAM shortage could last years",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "score": 13,
+      "comments": 6,
+      "author": "omer_k",
+      "tags": [],
+      "date": "2026-04-19T07:18:44+00:00"
+    },
     {
       "id": "hn-47822356",
       "source": "hn",
       "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
       "url": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
-      "score": 6,
-      "comments": 0,
+      "score": 29,
+      "comments": 3,
       "author": "nobody9999",
       "tags": [],
       "date": "2026-04-19T07:05:17+00:00"
+    },
+    {
+      "id": "qiita-ad910fd8e4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "閉域の AWS 環境からさくらのクラウドのオブジェクトストレージにアクセスする",
+      "url": "https://qiita.com/takeda_h/items/c67eee08b705ec0bdf60?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takeda_h",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-19T13:32:49+09:00"
     },
     {
       "id": "hn-47821429",
       "source": "hn",
       "title": "The world in which IPv6 was a good design",
       "url": "https://apenwarr.ca/log/20170810",
-      "score": 10,
-      "comments": 0,
+      "score": 26,
+      "comments": 5,
       "author": "signa11",
       "tags": [],
       "date": "2026-04-19T02:50:43+00:00"
+    },
+    {
+      "id": "qiita-b1aded946c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "個人開発プロダクトの技術的負債を1セッションで返済した話 ── Claude Code × 7フェーズ改善スプリント",
+      "url": "https://qiita.com/Enegent/items/4c77d460d758796786c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Enegent",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-19T10:40:22+09:00"
     },
     {
       "id": "hn-47820531",
       "source": "hn",
       "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
       "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
-      "score": 151,
-      "comments": 69,
+      "score": 159,
+      "comments": 74,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-04-18T23:47:45+00:00"
+    },
+    {
+      "id": "qiita-e85326a825",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS】CDK初心者がAgentCoreをデプロイするまで",
+      "url": "https://qiita.com/yakumo_09/items/f5e0e9424b557743678a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yakumo_09",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-19T08:23:08+09:00"
     },
     {
       "id": "hn-47820195",
       "source": "hn",
       "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
       "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
-      "score": 65,
-      "comments": 25,
+      "score": 70,
+      "comments": 27,
       "author": "agambrahma",
       "tags": [],
       "date": "2026-04-18T22:46:13+00:00"
@@ -62,7 +112,7 @@
       "source": "hn",
       "title": "My first impressions on ROCm and Strix Halo",
       "url": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
-      "score": 36,
+      "score": 37,
       "comments": 30,
       "author": "random_",
       "tags": [],
@@ -73,8 +123,8 @@
       "source": "hn",
       "title": "NIST scientists create 'any wavelength' lasers",
       "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "score": 281,
-      "comments": 125,
+      "score": 288,
+      "comments": 132,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-04-18T20:54:17+00:00"
@@ -84,8 +134,8 @@
       "source": "hn",
       "title": "Optimizing Ruby Path Methods",
       "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-      "score": 88,
-      "comments": 30,
+      "score": 93,
+      "comments": 35,
       "author": "weaksauce",
       "tags": [],
       "date": "2026-04-18T20:42:29+00:00"
@@ -117,7 +167,7 @@
       "source": "hn",
       "title": "Thoughts and feelings around Claude Design",
       "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "score": 287,
+      "score": 295,
       "comments": 192,
       "author": "cdrnsf",
       "tags": [],
@@ -128,8 +178,8 @@
       "source": "hn",
       "title": "College instructor turns to typewriters to curb AI-written work",
       "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "score": 248,
-      "comments": 216,
+      "score": 258,
+      "comments": 241,
       "author": "gnabgib",
       "tags": [],
       "date": "2026-04-18T19:00:00+00:00"
@@ -227,7 +277,7 @@
       "source": "hn",
       "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
       "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "score": 313,
+      "score": 321,
       "comments": 89,
       "author": "NelsonMinar",
       "tags": [],
@@ -238,8 +288,8 @@
       "source": "hn",
       "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "url": "https://tokens.billchambers.me/leaderboard",
-      "score": 498,
-      "comments": 496,
+      "score": 508,
+      "comments": 498,
       "author": "anabranch",
       "tags": [],
       "date": "2026-04-18T16:05:43+00:00"
@@ -267,11 +317,24 @@
       "date": "2026-04-18T15:54:37+00:00"
     },
     {
+      "id": "qiita-47ce9d8d10",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【切り抜き動画作成？！】mlx-whisper × Remotion × Claude Codeで会議録画から 60 秒ハイライト動画を自動生成してみた",
+      "url": "https://qiita.com/takatein/items/c7cbec541a00c568e345?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "takatein",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-19T00:38:27+09:00"
+    },
+    {
       "id": "hn-47816629",
       "source": "hn",
       "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
       "url": "https://github.com/drasimwagan/mdv",
-      "score": 108,
+      "score": 111,
       "comments": 41,
       "author": "drasim",
       "tags": [],
@@ -304,8 +367,8 @@
       "source": "hn",
       "title": "Migrating from DigitalOcean to Hetzner",
       "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 749,
-      "comments": 376,
+      "score": 755,
+      "comments": 383,
       "author": "yusufusta",
       "tags": [],
       "date": "2026-04-18T13:29:04+00:00"
@@ -328,11 +391,24 @@
       "source": "hn",
       "title": "Why Japan has such good railways",
       "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "score": 377,
-      "comments": 358,
+      "score": 390,
+      "comments": 361,
       "author": "RickJWagner",
       "tags": [],
       "date": "2026-04-18T12:29:06+00:00"
+    },
+    {
+      "id": "qiita-a5777d3021",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "DGX Spark で Qwen 3.6 vs 3.5 実測比較",
+      "url": "https://qiita.com/nabe2030/items/f61bc3627bb92a0388e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nabe2030",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-18T21:26:58+09:00"
     },
     {
       "id": "hn-47815269",
@@ -361,8 +437,8 @@
       "source": "hn",
       "title": "State of Kdenlive",
       "url": "https://kdenlive.org/news/2026/state-2026/",
-      "score": 378,
-      "comments": 119,
+      "score": 388,
+      "comments": 122,
       "author": "f_r_d",
       "tags": [],
       "date": "2026-04-18T11:42:37+00:00"
@@ -390,6 +466,19 @@
       "author": "mefengl",
       "tags": [],
       "date": "2026-04-18T07:56:18+00:00"
+    },
+    {
+      "id": "qiita-53767062ca",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Chrome DevTools MCP の全ツールをまとめて理解する",
+      "url": "https://qiita.com/softbase/items/fe445a318846fd6a364d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "softbase",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-18T15:59:33+09:00"
     },
     {
       "id": "hn-47813668",
@@ -436,6 +525,19 @@
         "Qiita"
       ],
       "date": "2026-04-18T15:10:23+09:00"
+    },
+    {
+      "id": "qiita-6e1d6855d6",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "TypeScriptコンパイル時のオプションについて",
+      "url": "https://qiita.com/masayoshi0226/items/5b41b4c25ad67c18303c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "masayoshi0226",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-18T15:10:06+09:00"
     },
     {
       "id": "qiita-4f127e8eba",
@@ -899,8 +1001,8 @@
       "source": "hn",
       "title": "What are skiplists good for?",
       "url": "https://antithesis.com/blog/2026/skiptrees/",
-      "score": 40,
-      "comments": 10,
+      "score": 53,
+      "comments": 12,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-04-17T13:57:27+00:00"
@@ -1656,8 +1758,8 @@
       "source": "hn",
       "title": "Bypassing the kernel for 56ns cross-language IPC",
       "url": "https://github.com/riyaneel/Tachyon/tree/main/docs/adr",
-      "score": 32,
-      "comments": 15,
+      "score": 38,
+      "comments": 16,
       "author": "riyaneel",
       "tags": [],
       "date": "2026-04-16T17:13:50+00:00",
@@ -1785,8 +1887,8 @@
       "source": "hn",
       "title": "Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
       "url": "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/",
-      "score": 19,
-      "comments": 7,
+      "score": 22,
+      "comments": 8,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-04-16T15:08:33+00:00"
@@ -1829,8 +1931,8 @@
       "source": "hn",
       "title": "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
       "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "score": 20,
-      "comments": 3,
+      "score": 51,
+      "comments": 28,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-16T14:05:10+00:00"
@@ -1939,8 +2041,8 @@
       "source": "hn",
       "title": "Updating Gun Rocket through 10 years of Unity Engine",
       "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
-      "score": 68,
-      "comments": 26,
+      "score": 69,
+      "comments": 28,
       "author": "tyleo",
       "tags": [],
       "date": "2026-04-16T12:00:00+00:00"
@@ -2018,10 +2120,10 @@
     {
       "id": "hn-47790337",
       "source": "hn",
-      "title": "The becquerel as an SI unit for request rate",
+      "title": "SI Units for Request Rate (2024)",
       "url": "https://entropicthoughts.com/si-units-for-request-rate",
-      "score": 47,
-      "comments": 15,
+      "score": 56,
+      "comments": 28,
       "author": "fanf2",
       "tags": [],
       "date": "2026-04-16T08:42:05+00:00"
@@ -2471,8 +2573,8 @@
       "source": "hn",
       "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
       "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
-      "score": 205,
-      "comments": 8,
+      "score": 208,
+      "comments": 10,
       "author": "Lwrless",
       "tags": [],
       "date": "2026-04-15T19:56:31+00:00"
@@ -2537,8 +2639,8 @@
       "source": "hn",
       "title": "Metatextual Literacy",
       "url": "https://www.jenn.site/metatextual-literacy/",
-      "score": 21,
-      "comments": 3,
+      "score": 22,
+      "comments": 4,
       "author": "dado3212",
       "tags": [],
       "date": "2026-04-15T19:18:38+00:00"
@@ -2748,8 +2850,8 @@
       "source": "hn",
       "title": "Modern Common Lisp with FSet",
       "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
-      "score": 135,
-      "comments": 17,
+      "score": 142,
+      "comments": 18,
       "author": "larve",
       "tags": [],
       "date": "2026-04-15T14:38:38+00:00"
@@ -5071,97 +5173,6 @@
       "author": "1vuio0pswjnm7",
       "tags": [],
       "date": "2026-04-13T12:19:49+00:00"
-    },
-    {
-      "id": "qiita-79b33e6972",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Webクローラーのベストプラクティスを定めるI-D「Crawler best practices」(draft-illyes-aipref-cbcp-03) を精読してみた",
-      "url": "https://qiita.com/satokan3/items/9d1f08d68ebc8cd397f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "satokan3",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-13T21:18:01+09:00"
-    },
-    {
-      "id": "hn-47750872",
-      "source": "hn",
-      "title": "Servo is now available on crates.io",
-      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "score": 441,
-      "comments": 140,
-      "author": "ffin",
-      "tags": [],
-      "date": "2026-04-13T12:12:22+00:00"
-    },
-    {
-      "id": "hn-47750821",
-      "source": "hn",
-      "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
-      "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
-      "score": 188,
-      "comments": 101,
-      "author": "iamnothere",
-      "tags": [],
-      "date": "2026-04-13T12:05:35+00:00"
-    },
-    {
-      "id": "hn-47750669",
-      "source": "hn",
-      "title": "Android now stops you sharing your location in photos",
-      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "score": 338,
-      "comments": 290,
-      "author": "edent",
-      "tags": [],
-      "date": "2026-04-13T11:48:15+00:00"
-    },
-    {
-      "id": "hn-47750600",
-      "source": "hn",
-      "title": "ReBot-DevArm: open-source Robotic Arm",
-      "url": "https://github.com/Seeed-Projects/reBot-DevArm",
-      "score": 83,
-      "comments": 20,
-      "author": "rickcarlino",
-      "tags": [],
-      "date": "2026-04-13T11:39:12+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47750519",
-      "source": "hn",
-      "title": "Galactic Algorithm",
-      "url": "https://en.wikipedia.org/wiki/Galactic_algorithm",
-      "score": 6,
-      "comments": 0,
-      "author": "tmtvl",
-      "tags": [],
-      "date": "2026-04-13T11:27:12+00:00"
-    },
-    {
-      "id": "hn-47750486",
-      "source": "hn",
-      "title": "Too much discussion of the XOR swap trick",
-      "url": "https://heather.cafe/posts/too_much_xor_swap_trick/",
-      "score": 107,
-      "comments": 62,
-      "author": "CJefferson",
-      "tags": [],
-      "date": "2026-04-13T11:22:22+00:00"
-    },
-    {
-      "id": "hn-47750364",
-      "source": "hn",
-      "title": "Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth (2006)",
-      "url": "https://ieeexplore.ieee.org/document/1715264",
-      "score": 35,
-      "comments": 11,
-      "author": "teleforce",
-      "tags": [],
-      "date": "2026-04-13T11:09:09+00:00"
     },
     {
       "id": "ctf-3477546",
