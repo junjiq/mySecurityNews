@@ -1,7 +1,7 @@
 {
   "date": "2026-04-19",
-  "generated_at": "2026-04-19T20:11:23.561295+00:00",
-  "total_articles": 38,
+  "generated_at": "2026-04-19T20:45:33.638809+00:00",
+  "total_articles": 44,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 36,
       "top_items": [
         {
           "title": "NIST scientists create 'any wavelength' lasers",
           "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-          "score": 400,
+          "score": 401,
           "source": "hn",
           "severity": null,
           "date": "2026-04-18T20:54:17+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "Vercel April 2026 security incident",
           "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-          "score": 280,
+          "score": 320,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-19T14:14:38+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "Notion leaks email addresses of all editors of any public page",
           "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
-          "score": 229,
+          "score": 249,
           "source": "hn",
           "severity": null,
           "date": "2026-04-19T15:20:01+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "The seven programming ur-languages (2022)",
           "url": "https://madhadron.com/programming/seven_ur_languages.html",
-          "score": 221,
+          "score": 230,
           "source": "hn",
           "severity": null,
           "date": "2026-04-19T07:38:08+00:00"
@@ -75,8 +75,40 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 8,
       "top_items": [
+        {
+          "title": "移民で解決できるのか？ ― 欧州データが示す“低賃金構造”の限界と日本の選択 : Pythonで学ぶ マクロ経済学入門 (73)",
+          "url": "https://qiita.com/maskot1977/items/7ed27bd20761d144f33c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-20T00:03:48+09:00"
+        },
+        {
+          "title": "C# 15：Union Types 完全ガイド",
+          "url": "https://qiita.com/hez2010/items/b656c867f9e5f57cc1cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-19T20:27:01+09:00"
+        },
+        {
+          "title": "個人開発者がClaude Codeで気をつけたい3つのセキュリティ事故 — CLAUDE.mdで防ぐ実践パターン",
+          "url": "https://qiita.com/ennagara128/items/835b1870f8d1d5fe0b14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-19T20:09:30+09:00"
+        },
+        {
+          "title": "AWS〜さくらのクラウド オブジェクトストレージ間の接続（簡易検証版）",
+          "url": "https://qiita.com/infra365/items/a5159c4a13ffeb268104?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-19T14:18:31+09:00"
+        },
         {
           "title": "閉域の AWS 環境からさくらのクラウドのオブジェクトストレージにアクセスする",
           "url": "https://qiita.com/takeda_h/items/c67eee08b705ec0bdf60?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -84,22 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-19T13:32:49+09:00"
-        },
-        {
-          "title": "個人開発プロダクトの技術的負債を1セッションで返済した話 ── Claude Code × 7フェーズ改善スプリント",
-          "url": "https://qiita.com/Enegent/items/4c77d460d758796786c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-19T10:40:22+09:00"
-        },
-        {
-          "title": "【AWS】CDK初心者がAgentCoreをデプロイするまで",
-          "url": "https://qiita.com/yakumo_09/items/f5e0e9424b557743678a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-19T08:23:08+09:00"
         }
       ]
     }
