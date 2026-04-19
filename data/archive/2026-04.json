@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-19T14:16:12.527187+00:00",
+  "generated_at": "2026-04-19T14:45:56.919453+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 360,
@@ -70,18 +70,18 @@
       "date": "2026-04-16T17:12:19+00:00"
     },
     {
+      "title": "Migrating from DigitalOcean to Hetzner",
+      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+      "score": 832,
+      "source": "hn",
+      "date": "2026-04-18T13:29:04+00:00"
+    },
+    {
       "title": "A new spam policy for “back button hijacking”",
       "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
       "score": 824,
       "source": "hn",
       "date": "2026-04-14T03:06:27+00:00"
-    },
-    {
-      "title": "Migrating from DigitalOcean to Hetzner",
-      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 823,
-      "source": "hn",
-      "date": "2026-04-18T13:29:04+00:00"
     },
     {
       "title": "GitHub Stacked PRs",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Vercel April 2026 security incident",
+      "url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-19T14:14:38+00:00"
+    },
     {
       "title": "NASA Force",
       "url": "https://nasaforce.gov/",
@@ -266,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-13T19:28:41+00:00"
-    },
-    {
-      "title": "Precision over perception: Why architecture matters in benchmarking",
-      "url": "https://www.redhat.com/en/blog/precision-over-perception-why-architecture-matters-benchmarking",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-13T14:36:57+00:00"
     }
   ]
 }

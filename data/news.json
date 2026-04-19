@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-04-19T14:16:12.424625+00:00",
+  "updated_at": "2026-04-19T14:45:56.425758+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47824463",
+      "source": "hn",
+      "title": "Vercel April 2026 security incident",
+      "url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
+      "score": 25,
+      "comments": 3,
+      "author": "colesantiago",
+      "tags": [],
+      "date": "2026-04-19T14:14:38+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-47824403",
+      "source": "hn",
+      "title": "The creative software industry has declared war on Adobe",
+      "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+      "score": 8,
+      "comments": 1,
+      "author": "tambourine_man",
+      "tags": [],
+      "date": "2026-04-19T14:05:49+00:00"
+    },
     {
       "id": "hn-47824068",
       "source": "hn",
       "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
       "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
-      "score": 41,
-      "comments": 18,
+      "score": 77,
+      "comments": 41,
       "author": "aa_is_op",
       "tags": [],
       "date": "2026-04-19T13:13:09+00:00"
@@ -29,8 +52,8 @@
       "source": "hn",
       "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
       "url": "https://teamchong.github.io/turboquant-wasm/draw.html",
-      "score": 11,
-      "comments": 7,
+      "score": 16,
+      "comments": 9,
       "author": "teamchong",
       "tags": [],
       "date": "2026-04-19T11:17:27+00:00"
@@ -62,8 +85,8 @@
       "source": "hn",
       "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
       "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-      "score": 96,
-      "comments": 44,
+      "score": 100,
+      "comments": 47,
       "author": "Eridanus2",
       "tags": [],
       "date": "2026-04-19T08:45:48+00:00"
@@ -73,7 +96,7 @@
       "source": "hn",
       "title": "Binary GCD",
       "url": "https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd",
-      "score": 18,
+      "score": 25,
       "comments": 0,
       "author": "tosh",
       "tags": [],
@@ -84,8 +107,8 @@
       "source": "hn",
       "title": "The seven programming ur-languages (2022)",
       "url": "https://madhadron.com/programming/seven_ur_languages.html",
-      "score": 90,
-      "comments": 33,
+      "score": 103,
+      "comments": 43,
       "author": "helloplanets",
       "tags": [],
       "date": "2026-04-19T07:38:08+00:00"
@@ -128,10 +151,10 @@
     {
       "id": "hn-47821429",
       "source": "hn",
-      "title": "The world in which IPv6 was a good design",
+      "title": "The world in which IPv6 was a good design (2017)",
       "url": "https://apenwarr.ca/log/20170810",
-      "score": 112,
-      "comments": 33,
+      "score": 119,
+      "comments": 40,
       "author": "signa11",
       "tags": [],
       "date": "2026-04-19T02:50:43+00:00"
@@ -211,8 +234,8 @@
       "source": "hn",
       "title": "NIST scientists create 'any wavelength' lasers",
       "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "score": 355,
-      "comments": 153,
+      "score": 359,
+      "comments": 157,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-04-18T20:54:17+00:00"
@@ -266,8 +289,8 @@
       "source": "hn",
       "title": "College instructor turns to typewriters to curb AI-written work",
       "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "score": 340,
-      "comments": 333,
+      "score": 350,
+      "comments": 343,
       "author": "gnabgib",
       "tags": [],
       "date": "2026-04-18T19:00:00+00:00"
@@ -365,8 +388,8 @@
       "source": "hn",
       "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
       "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "score": 370,
-      "comments": 96,
+      "score": 373,
+      "comments": 97,
       "author": "NelsonMinar",
       "tags": [],
       "date": "2026-04-18T16:26:47+00:00"
@@ -376,8 +399,8 @@
       "source": "hn",
       "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "url": "https://tokens.billchambers.me/leaderboard",
-      "score": 560,
-      "comments": 540,
+      "score": 566,
+      "comments": 541,
       "author": "anabranch",
       "tags": [],
       "date": "2026-04-18T16:05:43+00:00"
@@ -455,8 +478,8 @@
       "source": "hn",
       "title": "Migrating from DigitalOcean to Hetzner",
       "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 823,
-      "comments": 410,
+      "score": 832,
+      "comments": 411,
       "author": "yusufusta",
       "tags": [],
       "date": "2026-04-18T13:29:04+00:00"
@@ -479,8 +502,8 @@
       "source": "hn",
       "title": "Why Japan has such good railways",
       "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "score": 456,
-      "comments": 429,
+      "score": 463,
+      "comments": 434,
       "author": "RickJWagner",
       "tags": [],
       "date": "2026-04-18T12:29:06+00:00"
@@ -525,8 +548,8 @@
       "source": "hn",
       "title": "State of Kdenlive",
       "url": "https://kdenlive.org/news/2026/state-2026/",
-      "score": 425,
-      "comments": 130,
+      "score": 428,
+      "comments": 131,
       "author": "f_r_d",
       "tags": [],
       "date": "2026-04-18T11:42:37+00:00"
@@ -1076,8 +1099,8 @@
       "source": "hn",
       "title": "Archive of Byte magazine, starting with issue #1 in 1975",
       "url": "https://archive.org/details/byte-magazine-1975-09",
-      "score": 221,
-      "comments": 49,
+      "score": 251,
+      "comments": 60,
       "author": "DamnInteresting",
       "tags": [],
       "date": "2026-04-17T14:07:28+00:00"
@@ -1100,8 +1123,8 @@
       "source": "hn",
       "title": "What are skiplists good for?",
       "url": "https://antithesis.com/blog/2026/skiptrees/",
-      "score": 162,
-      "comments": 34,
+      "score": 169,
+      "comments": 35,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-04-17T13:57:27+00:00"
@@ -1824,8 +1847,8 @@
       "source": "hn",
       "title": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
       "url": "https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/",
-      "score": 43,
-      "comments": 5,
+      "score": 45,
+      "comments": 7,
       "author": "PaulHoule",
       "tags": [],
       "date": "2026-04-16T19:05:20+00:00"
@@ -1877,10 +1900,10 @@
     {
       "id": "hn-47796759",
       "source": "hn",
-      "title": "Shader Lab, like Photoshop but for shaders",
+      "title": "Show HN: Shader Lab, like Photoshop but for shaders",
       "url": "https://eng.basement.studio/tools/shader-lab",
-      "score": 32,
-      "comments": 4,
+      "score": 43,
+      "comments": 6,
       "author": "ragojose",
       "tags": [],
       "date": "2026-04-16T17:32:33+00:00"
@@ -2063,8 +2086,8 @@
       "source": "hn",
       "title": "Game devs explain the tricks involved with letting you pause a game",
       "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "score": 224,
-      "comments": 133,
+      "score": 240,
+      "comments": 140,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-16T14:05:10+00:00"
@@ -2173,8 +2196,8 @@
       "source": "hn",
       "title": "Updating Gun Rocket through 10 years of Unity Engine",
       "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
-      "score": 95,
-      "comments": 43,
+      "score": 97,
+      "comments": 45,
       "author": "tyleo",
       "tags": [],
       "date": "2026-04-16T12:00:00+00:00"
@@ -2932,6 +2955,17 @@
       "date": "2026-04-15T16:19:48+00:00"
     },
     {
+      "id": "hn-47781191",
+      "source": "hn",
+      "title": "Minimal Viable Programs (2014)",
+      "url": "https://joearms.github.io/published/2014-06-25-minimal-viable-program.html",
+      "score": 4,
+      "comments": 2,
+      "author": "bachmeier",
+      "tags": [],
+      "date": "2026-04-15T16:13:10+00:00"
+    },
+    {
       "id": "hn-47780971",
       "source": "hn",
       "title": "Show HN: Libretto – Making AI browser automations deterministic",
@@ -2993,8 +3027,8 @@
       "source": "hn",
       "title": "It's cool to care (2025)",
       "url": "https://alexwlchan.net/2025/cool-to-care/",
-      "score": 38,
-      "comments": 23,
+      "score": 45,
+      "comments": 25,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-04-15T14:20:42+00:00"
@@ -3271,8 +3305,8 @@
       "source": "hn",
       "title": "Nanopass Framework: Clean Compiler Creation Language",
       "url": "https://nanopass.org/",
-      "score": 16,
-      "comments": 0,
+      "score": 23,
+      "comments": 1,
       "author": "NordStreamYacht",
       "tags": [],
       "date": "2026-04-15T11:38:22+00:00"
@@ -5132,40 +5166,6 @@
       "author": "laurex",
       "tags": [],
       "date": "2026-04-13T14:53:05+00:00"
-    },
-    {
-      "id": "hn-47752819",
-      "source": "hn",
-      "title": "Make tmux pretty and usable (2024)",
-      "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "score": 391,
-      "comments": 242,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-04-13T14:48:55+00:00"
-    },
-    {
-      "id": "hn-47752639",
-      "source": "hn",
-      "title": "Precision over perception: Why architecture matters in benchmarking",
-      "url": "https://www.redhat.com/en/blog/precision-over-perception-why-architecture-matters-benchmarking",
-      "score": 11,
-      "comments": 0,
-      "author": "salkahfi",
-      "tags": [],
-      "date": "2026-04-13T14:36:57+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47752466",
-      "source": "hn",
-      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
-      "url": "https://spectrum.ieee.org/mems-photonics",
-      "score": 74,
-      "comments": 33,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-04-13T14:26:02+00:00"
     },
     {
       "id": "ctf-3477546",
