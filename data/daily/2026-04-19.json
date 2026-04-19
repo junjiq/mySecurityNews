@@ -1,8 +1,8 @@
 {
   "date": "2026-04-19",
-  "generated_at": "2026-04-19T17:13:27.119948+00:00",
+  "generated_at": "2026-04-19T17:45:05.310293+00:00",
   "total_articles": 37,
-  "urgent_count": 2,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Vercel Says Internal Systems Hit in Breach",
@@ -17,6 +17,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-19T14:14:38+00:00"
+    },
+    {
+      "title": "Discord Read Receipts Exploit: When, How Often, How Long",
+      "url": "https://paul.koeck.dev/writeups/discord-read-receipts",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-19T15:04:45+00:00"
     }
   ],
   "categories": [
@@ -27,7 +34,7 @@
         {
           "title": "College instructor turns to typewriters to curb AI-written work",
           "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-          "score": 390,
+          "score": 398,
           "source": "hn",
           "severity": null,
           "date": "2026-04-18T19:00:00+00:00"
@@ -35,7 +42,7 @@
         {
           "title": "NIST scientists create 'any wavelength' lasers",
           "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-          "score": 381,
+          "score": 385,
           "source": "hn",
           "severity": null,
           "date": "2026-04-18T20:54:17+00:00"
@@ -57,12 +64,12 @@
           "date": "2026-04-18T18:36:07+00:00"
         },
         {
-          "title": "Vercel April 2026 security incident",
-          "url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
-          "score": 175,
+          "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
+          "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
+          "score": 185,
           "source": "hn",
-          "severity": "critical",
-          "date": "2026-04-19T14:14:38+00:00"
+          "severity": null,
+          "date": "2026-04-19T13:13:09+00:00"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-19T17:13:27.162815+00:00",
+  "generated_at": "2026-04-19T17:45:05.356886+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 360,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "critical": 13,
-    "high": 5,
+    "high": 6,
     "medium": 3
   },
   "top_articles": [
@@ -149,7 +149,7 @@
     {
       "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "url": "https://tokens.billchambers.me/leaderboard",
-      "score": 582,
+      "score": 585,
       "source": "hn",
       "date": "2026-04-18T16:05:43+00:00"
     }
@@ -161,6 +161,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-19T15:23:39+00:00"
+    },
+    {
+      "title": "Discord Read Receipts Exploit: When, How Often, How Long",
+      "url": "https://paul.koeck.dev/writeups/discord-read-receipts",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-19T15:04:45+00:00"
     },
     {
       "title": "Vercel April 2026 security incident",
