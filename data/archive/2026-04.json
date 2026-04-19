@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-19T15:15:04.233966+00:00",
+  "generated_at": "2026-04-19T15:45:18.636791+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 360,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "high": 5,
     "medium": 3
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Vercel Says Internal Systems Hit in Breach",
+      "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-19T15:23:39+00:00"
+    },
     {
       "title": "Vercel April 2026 security incident",
       "url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
