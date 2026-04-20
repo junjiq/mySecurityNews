@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-20T19:50:40.295674+00:00",
+  "generated_at": "2026-04-20T20:16:24.969227+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 356,
-    "zennqiita": 93,
+    "hn": 353,
+    "zennqiita": 96,
     "project": 3
   },
   "severity_counts": {
-    "medium": 4,
-    "critical": 13,
+    "medium": 3,
+    "critical": 12,
     "high": 6
   },
   "top_articles": [
@@ -63,13 +63,6 @@
       "date": "2026-04-19T14:14:38+00:00"
     },
     {
-      "title": "Stop Flock",
-      "url": "https://stopflock.com",
-      "score": 804,
-      "source": "hn",
-      "date": "2026-04-14T21:56:05+00:00"
-    },
-    {
       "title": "IPv6 traffic crosses the 50% mark",
       "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
       "score": 759,
@@ -105,18 +98,18 @@
       "date": "2026-04-16T13:32:13+00:00"
     },
     {
+      "title": "GitHub's Fake Star Economy",
+      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "score": 634,
+      "source": "hn",
+      "date": "2026-04-20T08:26:52+00:00"
+    },
+    {
       "title": "Ban the sale of precise geolocation",
       "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
       "score": 628,
       "source": "hn",
       "date": "2026-04-17T14:25:46+00:00"
-    },
-    {
-      "title": "GitHub's Fake Star Economy",
-      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "score": 604,
-      "source": "hn",
-      "date": "2026-04-20T08:26:52+00:00"
     },
     {
       "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
@@ -152,6 +145,13 @@
       "score": 463,
       "source": "hn",
       "date": "2026-04-16T04:06:39+00:00"
+    },
+    {
+      "title": "Want to write a compiler? Just read these two papers (2008)",
+      "url": "https://prog21.dadgum.com/30.html",
+      "score": 458,
+      "source": "hn",
+      "date": "2026-04-15T09:41:19+00:00"
     }
   ],
   "security_highlights": [
@@ -280,13 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-15T15:26:46+00:00"
-    },
-    {
-      "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "url": "https://cadquery.github.io/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-14T23:20:39+00:00"
     }
   ]
 }
