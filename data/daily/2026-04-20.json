@@ -1,8 +1,8 @@
 {
   "date": "2026-04-20",
-  "generated_at": "2026-04-20T14:36:14.138872+00:00",
-  "total_articles": 64,
-  "urgent_count": 3,
+  "generated_at": "2026-04-20T15:31:33.694512+00:00",
+  "total_articles": 59,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "IEA: Solar overtakes all energy sources in a major global first",
@@ -10,58 +10,44 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-20T07:19:27+00:00"
-    },
-    {
-      "title": "Vercel says internal systems hit in breach",
-      "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-19T15:23:39+00:00"
-    },
-    {
-      "title": "Discord Read Receipts Exploit: When, How Often, How Long",
-      "url": "https://paul.koeck.dev/writeups/discord-read-receipts",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-04-19T15:04:45+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 49,
       "top_items": [
         {
           "title": "GitHub's Fake Star Economy",
           "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-          "score": 394,
+          "score": 427,
           "source": "hn",
           "severity": null,
           "date": "2026-04-20T08:26:52+00:00"
         },
         {
-          "title": "Vercel says internal systems hit in breach",
-          "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
-          "score": 340,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-04-19T15:23:39+00:00"
-        },
-        {
           "title": "Stop trying to engineer your way out of listening to people",
           "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-          "score": 328,
+          "score": 342,
           "source": "hn",
           "severity": null,
           "date": "2026-04-19T20:09:09+00:00"
         },
         {
-          "title": "Notion leaks email addresses of all editors of any public page",
-          "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+          "title": "All phones sold in the EU to have replaceable batteries from 2027",
+          "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
           "score": 323,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-19T15:20:01+00:00"
+          "date": "2026-04-20T13:41:25+00:00"
+        },
+        {
+          "title": "NSA is using Anthropic's Mythos despite blacklist",
+          "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
+          "score": 275,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-20T10:00:35+00:00"
         },
         {
           "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
@@ -75,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
         {
           "title": "AI学習を頑張れば頑張るほど高校生に戻りたくなる問題解消法",
@@ -83,7 +69,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-20T18:45:52+09:00"
+          "date": "2026-04-20T23:53:10+09:00"
         },
         {
           "title": "Claude Code × MagicPod MCPでテストケースメンテナンスレビューを自動化してみた",
