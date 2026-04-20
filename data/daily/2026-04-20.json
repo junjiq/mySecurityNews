@@ -1,9 +1,23 @@
 {
   "date": "2026-04-20",
-  "generated_at": "2026-04-20T15:31:33.694512+00:00",
-  "total_articles": 59,
-  "urgent_count": 1,
+  "generated_at": "2026-04-20T16:27:34.862393+00:00",
+  "total_articles": 58,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Kimi K2.6: Advancing Open-Source Coding",
+      "url": "https://twitter.com/Kimi_Moonshot/status/2046249571882500354",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-20T15:36:05+00:00"
+    },
+    {
+      "title": "Kimi K2.6: Advancing Open-Source Coding",
+      "url": "https://www.kimi.com/blog/kimi-k2-6",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-20T15:28:13+00:00"
+    },
     {
       "title": "IEA: Solar overtakes all energy sources in a major global first",
       "url": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
@@ -20,10 +34,18 @@
         {
           "title": "GitHub's Fake Star Economy",
           "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-          "score": 427,
+          "score": 464,
           "source": "hn",
           "severity": null,
           "date": "2026-04-20T08:26:52+00:00"
+        },
+        {
+          "title": "All phones sold in the EU to have replaceable batteries from 2027",
+          "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+          "score": 455,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-20T13:41:25+00:00"
         },
         {
           "title": "Stop trying to engineer your way out of listening to people",
@@ -34,34 +56,26 @@
           "date": "2026-04-19T20:09:09+00:00"
         },
         {
-          "title": "All phones sold in the EU to have replaceable batteries from 2027",
-          "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-          "score": 323,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-20T13:41:25+00:00"
-        },
-        {
           "title": "NSA is using Anthropic's Mythos despite blacklist",
           "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
-          "score": 275,
+          "score": 321,
           "source": "hn",
           "severity": null,
           "date": "2026-04-20T10:00:35+00:00"
         },
         {
-          "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
-          "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-          "score": 267,
+          "title": "Atlassian Enables Default Data Collection to Train AI",
+          "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+          "score": 228,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-19T15:48:40+00:00"
+          "date": "2026-04-20T12:23:39+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
         {
           "title": "AI学習を頑張れば頑張るほど高校生に戻りたくなる問題解消法",

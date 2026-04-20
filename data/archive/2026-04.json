@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-20T15:31:33.734361+00:00",
+  "generated_at": "2026-04-20T16:27:34.902967+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 356,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 13,
     "high": 6,
     "medium": 3
   },
@@ -84,13 +84,6 @@
       "date": "2026-04-17T12:01:19+00:00"
     },
     {
-      "title": "Claude Code Routines",
-      "url": "https://code.claude.com/docs/en/routines",
-      "score": 678,
-      "source": "hn",
-      "date": "2026-04-14T16:54:33+00:00"
-    },
-    {
       "title": "Measuring Claude 4.7's tokenizer costs",
       "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
       "score": 677,
@@ -152,9 +145,30 @@
       "score": 491,
       "source": "hn",
       "date": "2026-04-15T13:08:10+00:00"
+    },
+    {
+      "title": "GitHub's Fake Star Economy",
+      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "score": 464,
+      "source": "hn",
+      "date": "2026-04-20T08:26:52+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Kimi K2.6: Advancing Open-Source Coding",
+      "url": "https://twitter.com/Kimi_Moonshot/status/2046249571882500354",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-20T15:36:05+00:00"
+    },
+    {
+      "title": "Kimi K2.6: Advancing Open-Source Coding",
+      "url": "https://www.kimi.com/blog/kimi-k2-6",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-20T15:28:13+00:00"
+    },
     {
       "title": "IEA: Solar overtakes all energy sources in a major global first",
       "url": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
