@@ -1,7 +1,7 @@
 {
   "date": "2026-04-20",
-  "generated_at": "2026-04-20T07:37:40.867104+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-04-20T08:48:06.603521+00:00",
+  "total_articles": 56,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 44,
       "top_items": [
         {
           "title": "Vercel April 2026 security incident",
           "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-          "score": 706,
+          "score": 727,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-19T14:14:38+00:00"
@@ -56,50 +56,66 @@
           "date": "2026-04-19T15:20:01+00:00"
         },
         {
-          "title": "The seven programming ur-languages (2022)",
-          "url": "https://madhadron.com/programming/seven_ur_languages.html",
-          "score": 312,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-19T07:38:08+00:00"
-        },
-        {
           "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
           "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-          "score": 294,
+          "score": 310,
           "source": "hn",
           "severity": null,
           "date": "2026-04-19T10:36:29+00:00"
+        },
+        {
+          "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+          "score": 222,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-19T15:48:40+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 12,
       "top_items": [
         {
-          "title": "移民で解決できるのか？ ― 欧州データが示す“低賃金構造”の限界と日本の選択 : Pythonで学ぶ マクロ経済学入門 (73)",
-          "url": "https://qiita.com/maskot1977/items/7ed27bd20761d144f33c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude Code × MagicPod MCPでテストケースメンテナンスレビューを自動化してみた",
+          "url": "https://qiita.com/s-yoshina/items/321a031ece6bc9c3b460?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-20T00:03:48+09:00"
+          "date": "2026-04-20T14:48:01+09:00"
         },
         {
-          "title": "C# 15：Union Types 完全ガイド",
-          "url": "https://qiita.com/hez2010/items/b656c867f9e5f57cc1cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "一人で悩み続けてしまう新人エンジニアへ。その時間、無駄かもしれません。",
+          "url": "https://qiita.com/hitomin_poke/items/9d91ff5ad51001237a02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-19T20:27:01+09:00"
+          "date": "2026-04-20T14:28:12+09:00"
         },
         {
-          "title": "個人開発者がClaude Codeで気をつけたい3つのセキュリティ事故 — CLAUDE.mdで防ぐ実践パターン",
-          "url": "https://qiita.com/ennagara128/items/835b1870f8d1d5fe0b14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "[TypeScriptシリーズ - Part 2] Mapped Types",
+          "url": "https://qiita.com/TOMOSIA-HieuNT/items/4a1f4897893985b669c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-19T20:09:30+09:00"
+          "date": "2026-04-20T13:48:05+09:00"
+        },
+        {
+          "title": "[TypeScriptシリーズ - Part 1] Conditional Types & infer",
+          "url": "https://qiita.com/TOMOSIA-HieuNT/items/c4553f452d8457f86060?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-20T13:40:52+09:00"
+        },
+        {
+          "title": "[TypeScriptシリーズ] シニアエンジニアのためのTypeScript入門",
+          "url": "https://qiita.com/TOMOSIA-HieuNT/items/e310461c8a2e13bf64b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-20T13:07:39+09:00"
         }
       ]
     }
