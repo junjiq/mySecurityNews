@@ -1,6 +1,6 @@
 {
   "date": "2026-04-20",
-  "generated_at": "2026-04-20T04:34:31.183072+00:00",
+  "generated_at": "2026-04-20T05:54:15.842079+00:00",
   "total_articles": 50,
   "urgent_count": 3,
   "urgent_items": [
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 47,
       "top_items": [
         {
           "title": "Vercel April 2026 security incident",
           "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-          "score": 609,
+          "score": 652,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-19T14:14:38+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
           "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-          "score": 251,
+          "score": 264,
           "source": "hn",
           "severity": null,
           "date": "2026-04-19T10:36:29+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 3,
       "top_items": [
         {
           "title": "移民で解決できるのか？ ― 欧州データが示す“低賃金構造”の限界と日本の選択 : Pythonで学ぶ マクロ経済学入門 (73)",
@@ -100,14 +100,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-19T20:09:30+09:00"
-        },
-        {
-          "title": "AWS〜さくらのクラウド オブジェクトストレージ間の接続（簡易検証版）",
-          "url": "https://qiita.com/infra365/items/a5159c4a13ffeb268104?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-19T14:18:31+09:00"
         }
       ]
     }
