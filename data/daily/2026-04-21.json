@@ -1,8 +1,8 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T15:30:44.568614+00:00",
+  "generated_at": "2026-04-21T16:26:39.553588+00:00",
   "total_articles": 60,
-  "urgent_count": 4,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
@@ -24,13 +24,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-21T04:12:12+00:00"
-    },
-    {
-      "title": "Kimi K2.6: Advancing Open-Source Coding",
-      "url": "https://twitter.com/Kimi_Moonshot/status/2046249571882500354",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-20T15:36:05+00:00"
     }
   ],
   "categories": [
@@ -41,10 +34,18 @@
         {
           "title": "John Ternus to become Apple CEO",
           "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-          "score": 2071,
+          "score": 2099,
           "source": "hn",
           "severity": null,
           "date": "2026-04-20T20:39:32+00:00"
+        },
+        {
+          "title": "Laws of Software Engineering",
+          "url": "https://lawsofsoftwareengineering.com",
+          "score": 462,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-21T11:04:56+00:00"
         },
         {
           "title": "At long last, InfoWars is ours",
@@ -55,28 +56,20 @@
           "date": "2026-04-20T17:23:58+00:00"
         },
         {
-          "title": "Laws of Software Engineering",
-          "url": "https://lawsofsoftwareengineering.com",
-          "score": 386,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-21T11:04:56+00:00"
-        },
-        {
           "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
           "url": "https://docs.openclaw.ai/providers/anthropic",
-          "score": 348,
+          "score": 375,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T03:43:03+00:00"
         },
         {
-          "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-          "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-          "score": 324,
+          "title": "Kimi vendor verifier – verify accuracy of inference providers",
+          "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+          "score": 287,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-20T15:41:02+00:00"
+          "date": "2026-04-20T18:39:53+00:00"
         }
       ]
     },
