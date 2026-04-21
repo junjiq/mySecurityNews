@@ -1,7 +1,7 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T19:55:34.304515+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-04-21T20:20:00.874053+00:00",
+  "total_articles": 60,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,7 +43,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 46,
       "top_items": [
         {
           "title": "John Ternus to become Apple CEO",
@@ -56,7 +56,7 @@
         {
           "title": "Laws of Software Engineering",
           "url": "https://lawsofsoftwareengineering.com",
-          "score": 692,
+          "score": 705,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T11:04:56+00:00"
@@ -64,7 +64,7 @@
         {
           "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
           "url": "https://docs.openclaw.ai/providers/anthropic",
-          "score": 436,
+          "score": 446,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T03:43:03+00:00"
@@ -72,25 +72,49 @@
         {
           "title": "Framework Laptop 13 Pro",
           "url": "https://frame.work/laptop13pro",
-          "score": 371,
+          "score": 439,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T18:00:34+00:00"
         },
         {
-          "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
-          "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
-          "score": 283,
+          "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+          "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+          "score": 266,
           "source": "hn",
-          "severity": null,
-          "date": "2026-04-20T20:19:13+00:00"
+          "severity": "critical",
+          "date": "2026-04-21T04:12:12+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 14,
       "top_items": [
+        {
+          "title": "n8nでBBCニュースを自動翻訳・要約してDiscordに通知する仕組みを作ってみた",
+          "url": "https://qiita.com/wan-code/items/7138654568f8ef43785b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-21T18:55:44+09:00"
+        },
+        {
+          "title": "React Hook Form 入門 Part 1 — 仕組みを理解してから使う",
+          "url": "https://qiita.com/nhatcaofedev/items/57a054312191c30e807b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-21T17:51:05+09:00"
+        },
+        {
+          "title": "== と equals() の違いを完全に理解する — なぜStringの比較は equals() を使うのか",
+          "url": "https://qiita.com/S_kamon/items/8935a8d000920c12cf08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-21T17:49:43+09:00"
+        },
         {
           "title": "記憶を持たないLLMの記憶 ― コンテキスト/メモリー/ハーネスエンジニアリング入門の前に",
           "url": "https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -100,36 +124,12 @@
           "date": "2026-04-21T17:40:07+09:00"
         },
         {
-          "title": "[TypeScriptシリーズ - Part 6] Dependency Injection in TypeScript",
-          "url": "https://qiita.com/TOMOSIA-HieuNT/items/89178f80ed63ee6161dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "レイヤードアーキテクチャを図とコードでやさしく理解する（C# / ASP.NET Core）",
+          "url": "https://qiita.com/hiroki_notes/items/e83b2285948cc712ca67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-21T16:09:07+09:00"
-        },
-        {
-          "title": "Docker環境を1台のサーバーで共存させる：80/443ポート競合を解決する実践構成",
-          "url": "https://qiita.com/DuyLinhPhan/items/10c2fe5da615ae145471?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-21T15:53:02+09:00"
-        },
-        {
-          "title": "[TypeScriptシリーズ - Part 5] Branded Types",
-          "url": "https://qiita.com/TOMOSIA-HieuNT/items/7d0a6e666d7acc9f0edd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-21T15:45:53+09:00"
-        },
-        {
-          "title": "【初心者必見】今から追いつくClaude Code 入門・徹底解説",
-          "url": "https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-21T15:32:56+09:00"
+          "date": "2026-04-21T16:43:53+09:00"
         }
       ]
     }
