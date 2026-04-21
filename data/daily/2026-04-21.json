@@ -1,11 +1,18 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T16:49:59.369792+00:00",
-  "total_articles": 61,
-  "urgent_count": 3,
+  "generated_at": "2026-04-21T17:24:08.909024+00:00",
+  "total_articles": 59,
+  "urgent_count": 4,
   "urgent_items": [
     {
-      "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-21T17:14:35+00:00"
+    },
+    {
+      "title": "Show HN: GoModel – an open-source AI gateway in Go",
       "url": "https://github.com/ENTERPILOT/GOModel/",
       "severity": "critical",
       "source": "hn",
@@ -29,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 49,
       "top_items": [
         {
           "title": "John Ternus to become Apple CEO",
@@ -42,23 +49,15 @@
         {
           "title": "Laws of Software Engineering",
           "url": "https://lawsofsoftwareengineering.com",
-          "score": 489,
+          "score": 534,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T11:04:56+00:00"
         },
         {
-          "title": "At long last, InfoWars is ours",
-          "url": "https://theonion.com/at-long-last-infowars-is-ours/",
-          "score": 433,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-20T17:23:58+00:00"
-        },
-        {
           "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
           "url": "https://docs.openclaw.ai/providers/anthropic",
-          "score": 381,
+          "score": 392,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T03:43:03+00:00"
@@ -70,6 +69,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-20T18:39:53+00:00"
+        },
+        {
+          "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+          "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+          "score": 283,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-20T20:19:13+00:00"
         }
       ]
     },

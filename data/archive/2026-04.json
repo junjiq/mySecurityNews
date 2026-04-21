@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-21T16:49:59.413442+00:00",
+  "generated_at": "2026-04-21T17:24:08.959196+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 352,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 14,
     "medium": 2,
     "high": 6
   },
@@ -26,13 +26,6 @@
       "score": 1917,
       "source": "hn",
       "date": "2026-04-16T14:23:50+00:00"
-    },
-    {
-      "title": "Google broke its promise to me – now ICE has my data",
-      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "score": 1577,
-      "source": "hn",
-      "date": "2026-04-15T17:44:26+00:00"
     },
     {
       "title": "All phones sold in the EU to have replaceable batteries from 2027",
@@ -133,6 +126,13 @@
       "date": "2026-04-17T14:07:28+00:00"
     },
     {
+      "title": "Laws of Software Engineering",
+      "url": "https://lawsofsoftwareengineering.com",
+      "score": 534,
+      "source": "hn",
+      "date": "2026-04-21T11:04:56+00:00"
+    },
+    {
       "title": "Atlassian enables default data collection to train AI",
       "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
       "score": 530,
@@ -156,7 +156,14 @@
   ],
   "security_highlights": [
     {
-      "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-21T17:14:35+00:00"
+    },
+    {
+      "title": "Show HN: GoModel – an open-source AI gateway in Go",
       "url": "https://github.com/ENTERPILOT/GOModel/",
       "severity": "critical",
       "source": "hn",
