@@ -1,9 +1,23 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T04:31:13.187656+00:00",
-  "total_articles": 57,
-  "urgent_count": 3,
+  "generated_at": "2026-04-21T05:44:46.215099+00:00",
+  "total_articles": 59,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "Israeli soldiers using sexual assault to force Palestinians out of West Bank",
+      "url": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-21T05:15:23+00:00"
+    },
+    {
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-21T04:12:12+00:00"
+    },
     {
       "title": "Kimi K2.6: Advancing Open-Source Coding",
       "url": "https://twitter.com/Kimi_Moonshot/status/2046249571882500354",
@@ -29,12 +43,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 54,
       "top_items": [
         {
           "title": "John Ternus to become Apple CEO",
           "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-          "score": 1403,
+          "score": 1498,
           "source": "hn",
           "severity": null,
           "date": "2026-04-20T20:39:32+00:00"
@@ -42,7 +56,7 @@
         {
           "title": "All phones sold in the EU to have replaceable batteries from 2027",
           "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-          "score": 1060,
+          "score": 1107,
           "source": "hn",
           "severity": null,
           "date": "2026-04-20T13:41:25+00:00"
@@ -58,7 +72,7 @@
         {
           "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
           "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-          "score": 573,
+          "score": 584,
           "source": "hn",
           "severity": null,
           "date": "2026-04-20T14:05:34+00:00"
@@ -75,7 +89,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 5,
       "top_items": [
         {
           "title": "AI学習を頑張れば頑張るほど高校生に戻りたくなる問題解消法",
