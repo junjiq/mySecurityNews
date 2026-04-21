@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-21T18:24:31.424951+00:00",
+  "generated_at": "2026-04-21T18:50:30.869654+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 352,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "medium": 2,
     "high": 6
   },
@@ -98,6 +98,13 @@
       "date": "2026-04-20T14:05:34+00:00"
     },
     {
+      "title": "Laws of Software Engineering",
+      "url": "https://lawsofsoftwareengineering.com",
+      "score": 643,
+      "source": "hn",
+      "date": "2026-04-21T11:04:56+00:00"
+    },
+    {
       "title": "The future of everything is lies, I guess: Where do we go from here?",
       "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
       "score": 637,
@@ -110,13 +117,6 @@
       "score": 628,
       "source": "hn",
       "date": "2026-04-17T14:25:46+00:00"
-    },
-    {
-      "title": "Laws of Software Engineering",
-      "url": "https://lawsofsoftwareengineering.com",
-      "score": 618,
-      "source": "hn",
-      "date": "2026-04-21T11:04:56+00:00"
     },
     {
       "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Cal.diy: open-source community edition of cal.com",
+      "url": "https://github.com/calcom/cal.diy",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-21T17:58:21+00:00"
+    },
     {
       "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
       "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",

@@ -1,9 +1,16 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T18:24:31.389234+00:00",
-  "total_articles": 58,
-  "urgent_count": 4,
+  "generated_at": "2026-04-21T18:50:30.834794+00:00",
+  "total_articles": 59,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "Cal.diy: open-source community edition of cal.com",
+      "url": "https://github.com/calcom/cal.diy",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-21T17:58:21+00:00"
+    },
     {
       "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
       "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
@@ -36,7 +43,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 49,
       "top_items": [
         {
           "title": "John Ternus to become Apple CEO",
@@ -49,7 +56,7 @@
         {
           "title": "Laws of Software Engineering",
           "url": "https://lawsofsoftwareengineering.com",
-          "score": 618,
+          "score": 643,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T11:04:56+00:00"
@@ -57,18 +64,10 @@
         {
           "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
           "url": "https://docs.openclaw.ai/providers/anthropic",
-          "score": 413,
+          "score": 420,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T03:43:03+00:00"
-        },
-        {
-          "title": "Kimi vendor verifier – verify accuracy of inference providers",
-          "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
-          "score": 287,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-20T18:39:53+00:00"
         },
         {
           "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
@@ -77,6 +76,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-20T20:19:13+00:00"
+        },
+        {
+          "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+          "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+          "score": 266,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-04-21T04:12:12+00:00"
         }
       ]
     },
