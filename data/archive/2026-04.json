@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-21T14:36:46.517333+00:00",
+  "generated_at": "2026-04-21T15:30:44.609550+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 352,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 13,
     "medium": 2,
     "high": 6
   },
@@ -16,7 +16,7 @@
     {
       "title": "John Ternus to become Apple CEO",
       "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "score": 2034,
+      "score": 2071,
       "source": "hn",
       "date": "2026-04-20T20:39:32+00:00"
     },
@@ -100,7 +100,7 @@
     {
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "score": 660,
+      "score": 667,
       "source": "hn",
       "date": "2026-04-20T14:05:34+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
+      "url": "https://github.com/ENTERPILOT/GOModel/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-21T14:11:53+00:00"
+    },
     {
       "title": "Israeli soldiers using sexual assault to force Palestinians out of West Bank",
       "url": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
@@ -280,20 +287,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-04-16T02:16:50+00:00"
-    },
-    {
-      "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
-      "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-15T15:43:37+00:00"
-    },
-    {
-      "title": "Cal.com is going closed source",
-      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-15T15:26:46+00:00"
     }
   ]
 }

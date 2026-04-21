@@ -1,9 +1,16 @@
 {
   "date": "2026-04-21",
-  "generated_at": "2026-04-21T14:36:46.473738+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-04-21T15:30:44.568614+00:00",
+  "total_articles": 60,
   "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
+      "url": "https://github.com/ENTERPILOT/GOModel/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-21T14:11:53+00:00"
+    },
     {
       "title": "Israeli soldiers using sexual assault to force Palestinians out of West Bank",
       "url": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
@@ -24,13 +31,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-20T15:36:05+00:00"
-    },
-    {
-      "title": "Kimi K2.6: Advancing open-source coding",
-      "url": "https://www.kimi.com/blog/kimi-k2-6",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-20T15:28:13+00:00"
     }
   ],
   "categories": [
@@ -41,18 +41,10 @@
         {
           "title": "John Ternus to become Apple CEO",
           "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-          "score": 2034,
+          "score": 2071,
           "source": "hn",
           "severity": null,
           "date": "2026-04-20T20:39:32+00:00"
-        },
-        {
-          "title": "Kimi K2.6: Advancing open-source coding",
-          "url": "https://www.kimi.com/blog/kimi-k2-6",
-          "score": 501,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-04-20T15:28:13+00:00"
         },
         {
           "title": "At long last, InfoWars is ours",
@@ -63,9 +55,17 @@
           "date": "2026-04-20T17:23:58+00:00"
         },
         {
+          "title": "Laws of Software Engineering",
+          "url": "https://lawsofsoftwareengineering.com",
+          "score": 386,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-21T11:04:56+00:00"
+        },
+        {
           "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
           "url": "https://docs.openclaw.ai/providers/anthropic",
-          "score": 327,
+          "score": 348,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T03:43:03+00:00"
@@ -82,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
         {
           "title": "記憶を持たないLLMの記憶 ― コンテキスト/メモリー/ハーネスエンジニアリング入門の前に",
