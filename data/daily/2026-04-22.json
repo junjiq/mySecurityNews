@@ -1,8 +1,8 @@
 {
   "date": "2026-04-22",
-  "generated_at": "2026-04-22T16:33:04.026538+00:00",
+  "generated_at": "2026-04-22T17:22:58.104995+00:00",
   "total_articles": 43,
-  "urgent_count": 3,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Global growth in solar \"the largest ever observed for any source\"",
@@ -17,13 +17,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-21T17:58:21+00:00"
-    },
-    {
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-21T17:14:35+00:00"
     }
   ],
   "categories": [
@@ -42,7 +35,7 @@
         {
           "title": "ChatGPT Images 2.0",
           "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-          "score": 965,
+          "score": 977,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T18:50:00+00:00"
@@ -56,20 +49,20 @@
           "date": "2026-04-21T22:13:18+00:00"
         },
         {
+          "title": "Windows 9x Subsystem for Linux",
+          "url": "https://social.hails.org/@hailey/116446826733136456",
+          "score": 675,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-22T09:52:52+00:00"
+        },
+        {
           "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
           "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
           "score": 621,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T17:40:39+00:00"
-        },
-        {
-          "title": "Windows 9x Subsystem for Linux",
-          "url": "https://social.hails.org/@hailey/116446826733136456",
-          "score": 616,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-22T09:52:52+00:00"
         }
       ]
     },
