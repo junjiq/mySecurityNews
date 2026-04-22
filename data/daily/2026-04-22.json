@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
-  "generated_at": "2026-04-22T07:35:26.486470+00:00",
-  "total_articles": 44,
+  "generated_at": "2026-04-22T08:36:59.944858+00:00",
+  "total_articles": 49,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -41,7 +41,7 @@
         {
           "title": "Framework Laptop 13 Pro",
           "url": "https://frame.work/laptop13pro",
-          "score": 1181,
+          "score": 1222,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T18:00:34+00:00"
@@ -49,7 +49,7 @@
         {
           "title": "Laws of Software Engineering",
           "url": "https://lawsofsoftwareengineering.com",
-          "score": 947,
+          "score": 975,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T11:04:56+00:00"
@@ -57,7 +57,7 @@
         {
           "title": "ChatGPT Images 2.0",
           "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-          "score": 737,
+          "score": 769,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T18:50:00+00:00"
@@ -65,7 +65,7 @@
         {
           "title": "SpaceX says it has agreement to acquire Cursor for $60B",
           "url": "https://twitter.com/spacex/status/2046713419978453374",
-          "score": 531,
+          "score": 563,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T22:13:18+00:00"
@@ -73,7 +73,7 @@
         {
           "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
           "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-          "score": 491,
+          "score": 525,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T17:40:39+00:00"
@@ -82,47 +82,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 10,
       "top_items": [
         {
-          "title": "n8nでBBCニュースを自動翻訳・要約してDiscordに通知する仕組みを作ってみた",
-          "url": "https://qiita.com/wan-code/items/7138654568f8ef43785b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "[TypeScriptシリーズ - Part 8] Structural vs Nominal Typing",
+          "url": "https://qiita.com/TOMOSIA-HieuNT/items/f2dbf76bd0fe590f9d40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-21T18:55:44+09:00"
+          "date": "2026-04-22T16:06:15+09:00"
         },
         {
-          "title": "React Hook Form 入門 Part 1 — 仕組みを理解してから使う",
-          "url": "https://qiita.com/nhatcaofedev/items/57a054312191c30e807b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "[TypeScriptシリーズ - Part 7] Declaration Merging",
+          "url": "https://qiita.com/TOMOSIA-HieuNT/items/85ed0cfd4ddd5eb0119d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-21T17:51:05+09:00"
+          "date": "2026-04-22T13:27:59+09:00"
         },
         {
-          "title": "== と equals() の違いを完全に理解する — なぜStringの比較は equals() を使うのか",
-          "url": "https://qiita.com/S_kamon/items/8935a8d000920c12cf08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【前編】9割の新人エンジニアがやっている 「承知しました」の落とし穴",
+          "url": "https://qiita.com/hitomin_poke/items/befed7f99c8d90b649b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-21T17:49:43+09:00"
+          "date": "2026-04-22T13:09:40+09:00"
         },
         {
-          "title": "記憶を持たないLLMの記憶 ― コンテキスト/メモリー/ハーネスエンジニアリング入門の前に",
-          "url": "https://qiita.com/yuji-arakawa/items/da4d5eec968b92ebc26d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Oracle AI Database@AWS で Exadata を作成してみてみた",
+          "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-21T17:40:07+09:00"
+          "date": "2026-04-22T12:29:14+09:00"
         },
         {
-          "title": "レイヤードアーキテクチャを図とコードでやさしく理解する（C# / ASP.NET Core）",
-          "url": "https://qiita.com/hiroki_notes/items/e83b2285948cc712ca67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【便利ツール紹介】Googleも推奨！シェルスクリプトを書くなら必ず導入したい静的解析ツール",
+          "url": "https://qiita.com/tomo-2525/items/848cbd21f769de6ed15c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-21T16:43:53+09:00"
+          "date": "2026-04-22T10:40:43+09:00"
         }
       ]
     }
