@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-22T17:49:16.418682+00:00",
+  "generated_at": "2026-04-22T18:24:48.796739+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 351,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "high": 6,
+    "high": 5,
     "critical": 15,
     "medium": 1
   },
@@ -56,13 +56,6 @@
       "date": "2026-04-21T18:50:00+00:00"
     },
     {
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 966,
-      "source": "hn",
-      "date": "2026-04-16T17:12:19+00:00"
-    },
-    {
       "title": "Migrating from DigitalOcean to Hetzner",
       "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
       "score": 832,
@@ -84,18 +77,18 @@
       "date": "2026-04-20T08:26:52+00:00"
     },
     {
+      "title": "Windows 9x Subsystem for Linux",
+      "url": "https://social.hails.org/@hailey/116446826733136456",
+      "score": 718,
+      "source": "hn",
+      "date": "2026-04-22T09:52:52+00:00"
+    },
+    {
       "title": "Isaac Asimov: The Last Question (1956)",
       "url": "https://hex.ooo/library/last_question.html",
       "score": 706,
       "source": "hn",
       "date": "2026-04-17T12:01:19+00:00"
-    },
-    {
-      "title": "Windows 9x Subsystem for Linux",
-      "url": "https://social.hails.org/@hailey/116446826733136456",
-      "score": 694,
-      "source": "hn",
-      "date": "2026-04-22T09:52:52+00:00"
     },
     {
       "title": "SpaceX says it has agreement to acquire Cursor for $60B",
@@ -140,6 +133,13 @@
       "date": "2026-04-18T16:05:43+00:00"
     },
     {
+      "title": "Making RAM at Home [video]",
+      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+      "score": 552,
+      "source": "hn",
+      "date": "2026-04-20T23:35:06+00:00"
+    },
+    {
       "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
       "url": "https://archive.org/details/byte-magazine-1975-09",
       "score": 551,
@@ -147,11 +147,11 @@
       "date": "2026-04-17T14:07:28+00:00"
     },
     {
-      "title": "Making RAM at Home [video]",
-      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "score": 543,
+      "title": "Atlassian enables default data collection to train AI",
+      "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+      "score": 530,
       "source": "hn",
-      "date": "2026-04-20T23:35:06+00:00"
+      "date": "2026-04-20T12:23:39+00:00"
     }
   ],
   "security_highlights": [
@@ -294,13 +294,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-16T19:40:14+00:00"
-    },
-    {
-      "title": "Bypassing the kernel for 56ns cross-language IPC",
-      "url": "https://github.com/riyaneel/Tachyon/tree/main/docs/adr",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-04-16T17:13:50+00:00"
     }
   ]
 }
