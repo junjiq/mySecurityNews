@@ -1,7 +1,7 @@
 {
   "date": "2026-04-22",
-  "generated_at": "2026-04-22T10:31:44.214417+00:00",
-  "total_articles": 47,
+  "generated_at": "2026-04-22T11:26:13.467674+00:00",
+  "total_articles": 44,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,28 +36,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 38,
       "top_items": [
         {
           "title": "Framework Laptop 13 Pro",
           "url": "https://frame.work/laptop13pro",
-          "score": 1279,
+          "score": 1306,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T18:00:34+00:00"
         },
         {
-          "title": "Laws of Software Engineering",
-          "url": "https://lawsofsoftwareengineering.com",
-          "score": 1023,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-21T11:04:56+00:00"
-        },
-        {
           "title": "ChatGPT Images 2.0",
           "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-          "score": 834,
+          "score": 858,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T18:50:00+00:00"
@@ -65,7 +57,7 @@
         {
           "title": "SpaceX says it has agreement to acquire Cursor for $60B",
           "url": "https://twitter.com/spacex/status/2046713419978453374",
-          "score": 603,
+          "score": 626,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T22:13:18+00:00"
@@ -73,10 +65,18 @@
         {
           "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
           "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-          "score": 569,
+          "score": 588,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T17:40:39+00:00"
+        },
+        {
+          "title": "Claude Code to be removed from Anthropic's Pro plan?",
+          "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+          "score": 467,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-21T21:03:04+00:00"
         }
       ]
     },
@@ -84,6 +84,14 @@
       "category": "日本語技術記事",
       "count": 6,
       "top_items": [
+        {
+          "title": "Oracle AI Database@AWS で Exadata を作成してみてみた",
+          "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-22T20:16:36+09:00"
+        },
         {
           "title": "【Claude Design】見せてもらおうか Claude Designの性能とやらを",
           "url": "https://qiita.com/ryu-ki/items/bca0ee8f15a13dfd8cfa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -115,14 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-22T13:09:40+09:00"
-        },
-        {
-          "title": "Oracle AI Database@AWS で Exadata を作成してみてみた",
-          "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-22T12:29:14+09:00"
         }
       ]
     }
