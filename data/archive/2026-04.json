@@ -1,16 +1,16 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-22T17:22:58.144648+00:00",
+  "generated_at": "2026-04-22T17:49:16.418682+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 349,
-    "zennqiita": 100,
+    "hn": 351,
+    "zennqiita": 98,
     "project": 3
   },
   "severity_counts": {
-    "critical": 16,
-    "medium": 1,
-    "high": 5
+    "high": 6,
+    "critical": 15,
+    "medium": 1
   },
   "top_articles": [
     {
@@ -91,6 +91,13 @@
       "date": "2026-04-17T12:01:19+00:00"
     },
     {
+      "title": "Windows 9x Subsystem for Linux",
+      "url": "https://social.hails.org/@hailey/116446826733136456",
+      "score": 694,
+      "source": "hn",
+      "date": "2026-04-22T09:52:52+00:00"
+    },
+    {
       "title": "SpaceX says it has agreement to acquire Cursor for $60B",
       "url": "https://twitter.com/spacex/status/2046713419978453374",
       "score": 682,
@@ -103,13 +110,6 @@
       "score": 677,
       "source": "hn",
       "date": "2026-04-17T15:29:36+00:00"
-    },
-    {
-      "title": "Windows 9x Subsystem for Linux",
-      "url": "https://social.hails.org/@hailey/116446826733136456",
-      "score": 675,
-      "source": "hn",
-      "date": "2026-04-22T09:52:52+00:00"
     },
     {
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
@@ -149,12 +149,19 @@
     {
       "title": "Making RAM at Home [video]",
       "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "score": 538,
+      "score": 543,
       "source": "hn",
       "date": "2026-04-20T23:35:06+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Surveillance Pricing: Exploiting Information Asymmetries",
+      "url": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-22T17:13:19+00:00"
+    },
     {
       "title": "Global growth in solar \"the largest ever observed for any source\"",
       "url": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
@@ -294,13 +301,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-04-16T17:13:50+00:00"
-    },
-    {
-      "title": "【備忘録】Salesforce TDX 2026 ― イベント後の公式情報をキャッチアップするための全体像整理",
-      "url": "https://qiita.com/Tadataka_Takahashi/items/4c33ed9cc728094d8bd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-04-17T00:46:01+09:00"
     }
   ]
 }
