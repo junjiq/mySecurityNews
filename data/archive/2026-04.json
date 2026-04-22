@@ -1,16 +1,16 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-22T02:18:40.221911+00:00",
+  "generated_at": "2026-04-22T03:40:49.575535+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 98,
+    "hn": 353,
+    "zennqiita": 96,
     "project": 3
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 16,
     "medium": 2,
-    "high": 6
+    "high": 5
   },
   "top_articles": [
     {
@@ -49,6 +49,13 @@
       "date": "2026-04-17T15:04:09+00:00"
     },
     {
+      "title": "Framework Laptop 13 Pro",
+      "url": "https://frame.work/laptop13pro",
+      "score": 1008,
+      "source": "hn",
+      "date": "2026-04-21T18:00:34+00:00"
+    },
+    {
       "title": "Codex for almost everything",
       "url": "https://openai.com/index/codex-for-almost-everything/",
       "score": 966,
@@ -56,16 +63,9 @@
       "date": "2026-04-16T17:12:19+00:00"
     },
     {
-      "title": "Framework Laptop 13 Pro",
-      "url": "https://frame.work/laptop13pro",
-      "score": 946,
-      "source": "hn",
-      "date": "2026-04-21T18:00:34+00:00"
-    },
-    {
       "title": "Laws of Software Engineering",
       "url": "https://lawsofsoftwareengineering.com",
-      "score": 839,
+      "score": 864,
       "source": "hn",
       "date": "2026-04-21T11:04:56+00:00"
     },
@@ -140,21 +140,28 @@
       "date": "2026-04-17T14:07:28+00:00"
     },
     {
+      "title": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "score": 540,
+      "source": "hn",
+      "date": "2026-04-21T18:50:00+00:00"
+    },
+    {
       "title": "Atlassian enables default data collection to train AI",
       "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
       "score": 530,
       "source": "hn",
       "date": "2026-04-20T12:23:39+00:00"
-    },
-    {
-      "title": "Why Japan has such good railways",
-      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "score": 525,
-      "source": "hn",
-      "date": "2026-04-18T12:29:06+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Global growth in solar \"the largest ever observed for any source\"",
+      "url": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-22T01:25:04+00:00"
+    },
     {
       "title": "Cal.diy: open-source community edition of cal.com",
       "url": "https://github.com/calcom/cal.diy",
@@ -294,13 +301,6 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-04-17T00:46:01+09:00"
-    },
-    {
-      "title": "Stealth signals are bypassing Iran’s internet blackout",
-      "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-04-16T02:16:50+00:00"
     }
   ]
 }

@@ -1,9 +1,16 @@
 {
   "date": "2026-04-22",
-  "generated_at": "2026-04-22T02:18:40.186976+00:00",
-  "total_articles": 58,
-  "urgent_count": 5,
+  "generated_at": "2026-04-22T03:40:49.534317+00:00",
+  "total_articles": 61,
+  "urgent_count": 6,
   "urgent_items": [
+    {
+      "title": "Global growth in solar \"the largest ever observed for any source\"",
+      "url": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-22T01:25:04+00:00"
+    },
     {
       "title": "Cal.diy: open-source community edition of cal.com",
       "url": "https://github.com/calcom/cal.diy",
@@ -43,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 48,
       "top_items": [
         {
           "title": "Framework Laptop 13 Pro",
           "url": "https://frame.work/laptop13pro",
-          "score": 946,
+          "score": 1008,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T18:00:34+00:00"
@@ -56,10 +63,18 @@
         {
           "title": "Laws of Software Engineering",
           "url": "https://lawsofsoftwareengineering.com",
-          "score": 839,
+          "score": 864,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T11:04:56+00:00"
+        },
+        {
+          "title": "ChatGPT Images 2.0",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+          "score": 540,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-21T18:50:00+00:00"
         },
         {
           "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
@@ -70,20 +85,12 @@
           "date": "2026-04-21T03:43:03+00:00"
         },
         {
-          "title": "ChatGPT Images 2.0",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-          "score": 456,
+          "title": "Claude Code to be removed from Anthropic's Pro plan?",
+          "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+          "score": 392,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-21T18:50:00+00:00"
-        },
-        {
-          "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-          "score": 345,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-21T17:40:39+00:00"
+          "date": "2026-04-21T21:03:04+00:00"
         }
       ]
     },
