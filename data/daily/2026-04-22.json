@@ -1,8 +1,8 @@
 {
   "date": "2026-04-22",
-  "generated_at": "2026-04-22T03:40:49.534317+00:00",
-  "total_articles": 61,
-  "urgent_count": 6,
+  "generated_at": "2026-04-22T04:59:15.845868+00:00",
+  "total_articles": 54,
+  "urgent_count": 5,
   "urgent_items": [
     {
       "title": "Global growth in solar \"the largest ever observed for any source\"",
@@ -38,24 +38,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-21T05:15:23+00:00"
-    },
-    {
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-21T04:12:12+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 45,
       "top_items": [
         {
           "title": "Framework Laptop 13 Pro",
           "url": "https://frame.work/laptop13pro",
-          "score": 1008,
+          "score": 1057,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T18:00:34+00:00"
@@ -63,7 +56,7 @@
         {
           "title": "Laws of Software Engineering",
           "url": "https://lawsofsoftwareengineering.com",
-          "score": 864,
+          "score": 886,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T11:04:56+00:00"
@@ -71,32 +64,32 @@
         {
           "title": "ChatGPT Images 2.0",
           "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-          "score": 540,
+          "score": 611,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T18:50:00+00:00"
         },
         {
-          "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-          "url": "https://docs.openclaw.ai/providers/anthropic",
-          "score": 465,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-21T03:43:03+00:00"
-        },
-        {
           "title": "Claude Code to be removed from Anthropic's Pro plan?",
           "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-          "score": 392,
+          "score": 446,
           "source": "hn",
           "severity": null,
           "date": "2026-04-21T21:03:04+00:00"
+        },
+        {
+          "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+          "url": "https://twitter.com/spacex/status/2046713419978453374",
+          "score": 425,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-21T22:13:18+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 9,
       "top_items": [
         {
           "title": "n8nでBBCニュースを自動翻訳・要約してDiscordに通知する仕組みを作ってみた",
