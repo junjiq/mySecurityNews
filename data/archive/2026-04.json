@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-23T07:36:00.844421+00:00",
+  "generated_at": "2026-04-23T08:38:14.058299+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 355,
-    "zennqiita": 95,
+    "hn": 354,
+    "zennqiita": 96,
     "project": 2
   },
   "severity_counts": {
     "high": 5,
-    "critical": 14,
+    "critical": 13,
     "medium": 1
   },
   "top_articles": [
@@ -23,7 +23,7 @@
     {
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1661,
+      "score": 1722,
       "source": "hn",
       "date": "2026-04-22T16:29:25+00:00"
     },
@@ -77,18 +77,18 @@
       "date": "2026-04-18T13:29:04+00:00"
     },
     {
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "score": 831,
+      "source": "hn",
+      "date": "2026-04-22T13:19:58+00:00"
+    },
+    {
       "title": "Vercel April 2026 security incident",
       "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
       "score": 814,
       "source": "hn",
       "date": "2026-04-19T14:14:38+00:00"
-    },
-    {
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "score": 813,
-      "source": "hn",
-      "date": "2026-04-22T13:19:58+00:00"
     },
     {
       "title": "GitHub's fake star economy",
@@ -119,18 +119,18 @@
       "date": "2026-04-17T15:29:36+00:00"
     },
     {
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "score": 672,
+      "source": "hn",
+      "date": "2026-04-22T17:35:03+00:00"
+    },
+    {
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
       "score": 667,
       "source": "hn",
       "date": "2026-04-20T14:05:34+00:00"
-    },
-    {
-      "title": "We found a stable Firefox identifier linking all your private Tor identities",
-      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 640,
-      "source": "hn",
-      "date": "2026-04-22T17:35:03+00:00"
     },
     {
       "title": "Ban the sale of precise geolocation",
@@ -280,13 +280,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-04-17T19:29:09+09:00"
-    },
-    {
-      "title": "PROBoter – Open-source platform for automated PCB analysis",
-      "url": "https://www.schutzwerk.com/en/blog/proboter-01/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-17T06:19:45+00:00"
     }
   ]
 }
