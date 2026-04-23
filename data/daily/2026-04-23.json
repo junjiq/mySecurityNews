@@ -1,7 +1,7 @@
 {
   "date": "2026-04-23",
-  "generated_at": "2026-04-23T23:18:19.124494+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-04-23T23:46:31.863235+00:00",
+  "total_articles": 55,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,28 +15,28 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
-        {
-          "title": "I am building a cloud",
-          "url": "https://crawshaw.io/blog/building-a-cloud",
-          "score": 955,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-23T04:44:19+00:00"
-        },
         {
           "title": "GPT-5.5",
           "url": "https://openai.com/index/introducing-gpt-5-5/",
-          "score": 954,
+          "score": 980,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T18:01:39+00:00"
         },
         {
+          "title": "I am building a cloud",
+          "url": "https://crawshaw.io/blog/building-a-cloud",
+          "score": 962,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-23T04:44:19+00:00"
+        },
+        {
           "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
           "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-          "score": 590,
+          "score": 605,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T14:17:08+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "An update on recent Claude Code quality reports",
           "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-          "score": 504,
+          "score": 518,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-23T17:48:38+00:00"
@@ -69,7 +69,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-24T01:09:02+09:00"
+          "date": "2026-04-24T08:32:37+09:00"
         },
         {
           "title": "n8nで「ランチ自動提案Bot」を作ってみた（Google Maps × Discord）",
