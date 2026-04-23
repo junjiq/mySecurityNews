@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-23T21:46:39.672774+00:00",
+  "generated_at": "2026-04-23T22:16:45.193786+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 358,
@@ -8,9 +8,9 @@
     "project": 2
   },
   "severity_counts": {
+    "critical": 14,
     "medium": 2,
-    "high": 2,
-    "critical": 13
+    "high": 2
   },
   "top_articles": [
     {
@@ -58,7 +58,7 @@
     {
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 928,
+      "score": 936,
       "source": "hn",
       "date": "2026-04-23T04:44:19+00:00"
     },
@@ -68,6 +68,13 @@
       "score": 885,
       "source": "hn",
       "date": "2026-04-22T17:35:03+00:00"
+    },
+    {
+      "title": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "score": 881,
+      "source": "hn",
+      "date": "2026-04-23T18:01:39+00:00"
     },
     {
       "title": "Windows 9x Subsystem for Linux",
@@ -84,11 +91,11 @@
       "date": "2026-04-22T13:19:58+00:00"
     },
     {
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 842,
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "score": 838,
       "source": "hn",
-      "date": "2026-04-23T18:01:39+00:00"
+      "date": "2026-04-22T20:27:31+00:00"
     },
     {
       "title": "Migrating from DigitalOcean to Hetzner",
@@ -96,13 +103,6 @@
       "score": 832,
       "source": "hn",
       "date": "2026-04-18T13:29:04+00:00"
-    },
-    {
-      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 831,
-      "source": "hn",
-      "date": "2026-04-22T20:27:31+00:00"
     },
     {
       "title": "Vercel April 2026 security incident",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-23T22:01:59+00:00"
+    },
     {
       "title": "Surveillance Pricing: Exploiting Information Asymmetries",
       "url": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
