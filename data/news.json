@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-23T06:40:14.059489+00:00",
+  "updated_at": "2026-04-23T07:36:00.737997+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-19925ce2d2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Oracle Exadata@AWS を作成してみてみた",
+      "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-23T15:41:00+09:00"
+    },
     {
       "id": "hn-47872452",
       "source": "hn",
       "title": "Ars Technica: Our newsroom AI policy",
       "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "score": 9,
-      "comments": 1,
+      "score": 24,
+      "comments": 9,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-23T05:14:05+00:00"
@@ -18,8 +31,8 @@
       "source": "hn",
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 124,
-      "comments": 30,
+      "score": 203,
+      "comments": 72,
       "author": "bumbledraven",
       "tags": [],
       "date": "2026-04-23T04:44:19+00:00"
@@ -40,8 +53,8 @@
       "source": "hn",
       "title": "Borrow-checking without type-checking",
       "url": "https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/",
-      "score": 42,
-      "comments": 6,
+      "score": 50,
+      "comments": 11,
       "author": "jamii",
       "tags": [],
       "date": "2026-04-23T02:55:17+00:00"
@@ -51,24 +64,11 @@
       "source": "hn",
       "title": "Flow Map Learning via Nongradient Vector Flow [pdf]",
       "url": "https://openreview.net/pdf?id=C1bkDPqvDW",
-      "score": 19,
+      "score": 22,
       "comments": 0,
       "author": "E-Reverance",
       "tags": [],
       "date": "2026-04-23T02:52:00+00:00"
-    },
-    {
-      "id": "qiita-19925ce2d2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Oracle Exadata@AWS を作成してみてみた",
-      "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-23T11:43:14+09:00"
     },
     {
       "id": "qiita-7745258f5e",
@@ -88,8 +88,8 @@
       "source": "hn",
       "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
       "url": "https://tempest.homemade.systems",
-      "score": 55,
-      "comments": 19,
+      "score": 62,
+      "comments": 22,
       "author": "mwenge",
       "tags": [],
       "date": "2026-04-23T01:02:32+00:00"
@@ -99,8 +99,8 @@
       "source": "hn",
       "title": "OpenAI's response to the Axios developer tool compromise",
       "url": "https://openai.com/index/axios-developer-tool-compromise/",
-      "score": 60,
-      "comments": 26,
+      "score": 64,
+      "comments": 30,
       "author": "shpat",
       "tags": [],
       "date": "2026-04-23T00:45:01+00:00"
@@ -132,8 +132,8 @@
       "source": "hn",
       "title": "Bring your own Agent to MS Teams",
       "url": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
-      "score": 51,
-      "comments": 29,
+      "score": 55,
+      "comments": 38,
       "author": "umangsehgal93",
       "tags": [],
       "date": "2026-04-22T22:25:28+00:00"
@@ -165,8 +165,8 @@
       "source": "hn",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 520,
-      "comments": 130,
+      "score": 542,
+      "comments": 134,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-04-22T20:27:31+00:00"
@@ -244,8 +244,8 @@
       "source": "hn",
       "title": "Website streamed live directly from a model",
       "url": "https://flipbook.page/",
-      "score": 234,
-      "comments": 67,
+      "score": 247,
+      "comments": 71,
       "author": "sethbannon",
       "tags": [],
       "date": "2026-04-22T18:01:18+00:00"
@@ -255,8 +255,8 @@
       "source": "hn",
       "title": "Over-editing refers to a model modifying code beyond what is necessary",
       "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "score": 339,
-      "comments": 190,
+      "score": 347,
+      "comments": 193,
       "author": "pella",
       "tags": [],
       "date": "2026-04-22T17:51:17+00:00"
@@ -277,8 +277,8 @@
       "source": "hn",
       "title": "Parallel agents in Zed",
       "url": "https://zed.dev/blog/parallel-agents",
-      "score": 209,
-      "comments": 116,
+      "score": 215,
+      "comments": 120,
       "author": "ajeetdsouza",
       "tags": [],
       "date": "2026-04-22T17:38:57+00:00"
@@ -288,8 +288,8 @@
       "source": "hn",
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 607,
-      "comments": 164,
+      "score": 640,
+      "comments": 174,
       "author": "danpinto",
       "tags": [],
       "date": "2026-04-22T17:35:03+00:00"
@@ -333,8 +333,8 @@
       "source": "hn",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1619,
-      "comments": 524,
+      "score": 1661,
+      "comments": 532,
       "author": "Kaibeezy",
       "tags": [],
       "date": "2026-04-22T16:29:25+00:00"
@@ -344,8 +344,8 @@
       "source": "hn",
       "title": "Technical, cognitive, and intent debt",
       "url": "https://martinfowler.com/fragments/2026-04-02.html",
-      "score": 248,
-      "comments": 62,
+      "score": 254,
+      "comments": 64,
       "author": "theorchid",
       "tags": [],
       "date": "2026-04-22T16:11:23+00:00"
@@ -388,8 +388,8 @@
       "source": "hn",
       "title": "Ping-pong robot beats top-level human players",
       "url": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
-      "score": 106,
-      "comments": 111,
+      "score": 112,
+      "comments": 122,
       "author": "wslh",
       "tags": [],
       "date": "2026-04-22T15:13:48+00:00"
@@ -410,8 +410,8 @@
       "source": "hn",
       "title": "Scoring Show HN submissions for AI design patterns",
       "url": "https://www.adriankrebs.ch/blog/design-slop/",
-      "score": 298,
-      "comments": 213,
+      "score": 304,
+      "comments": 214,
       "author": "hubraumhugo",
       "tags": [],
       "date": "2026-04-22T14:44:32+00:00"
@@ -432,7 +432,7 @@
       "source": "hn",
       "title": "Ultraviolet corona discharges on treetops during storms",
       "url": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
-      "score": 223,
+      "score": 227,
       "comments": 64,
       "author": "t-3",
       "tags": [],
@@ -443,8 +443,8 @@
       "source": "hn",
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "score": 800,
-      "comments": 375,
+      "score": 813,
+      "comments": 383,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-04-22T13:19:58+00:00"
@@ -1134,6 +1134,17 @@
       "date": "2026-04-21T11:04:56+00:00"
     },
     {
+      "id": "hn-47847153",
+      "source": "hn",
+      "title": "An amateur historian's favorite books about the Silk Road",
+      "url": "https://bookdna.com/best-books/silk-road",
+      "score": 6,
+      "comments": 1,
+      "author": "bwb",
+      "tags": [],
+      "date": "2026-04-21T11:01:37+00:00"
+    },
+    {
       "id": "hn-47847124",
       "source": "hn",
       "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
@@ -1171,8 +1182,8 @@
       "source": "hn",
       "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
       "url": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
-      "score": 39,
-      "comments": 4,
+      "score": 51,
+      "comments": 5,
       "author": "Prof_Sigmund",
       "tags": [],
       "date": "2026-04-21T09:55:49+00:00",
@@ -1637,8 +1648,8 @@
       "source": "hn",
       "title": "Verus is a tool for verifying the correctness of code written in Rust",
       "url": "https://verus-lang.github.io/verus/guide/",
-      "score": 43,
-      "comments": 7,
+      "score": 48,
+      "comments": 8,
       "author": "fanf2",
       "tags": [],
       "date": "2026-04-20T20:42:05+00:00"
@@ -2995,8 +3006,8 @@
       "source": "hn",
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
-      "score": 531,
-      "comments": 119,
+      "score": 561,
+      "comments": 121,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-19T15:19:28+00:00"
@@ -3166,8 +3177,8 @@
       "source": "hn",
       "title": "Plexus P/20 Emulator",
       "url": "https://spritetm.github.io/plexus_20_emu/",
-      "score": 8,
-      "comments": 0,
+      "score": 10,
+      "comments": 1,
       "author": "hggh",
       "tags": [],
       "date": "2026-04-19T11:53:32+00:00"
@@ -4288,8 +4299,8 @@
       "source": "hn",
       "title": "Bodega cats of New York",
       "url": "https://bodegacatsofnewyork.com",
-      "score": 152,
-      "comments": 57,
+      "score": 189,
+      "comments": 66,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-18T02:26:57+00:00"
@@ -5166,19 +5177,6 @@
       "date": "2026-04-17T15:06:49+09:00"
     },
     {
-      "id": "qiita-627e83dcd3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "会議が時間通りに始まらないのは、スキルじゃなくて“習慣”の問題です。",
-      "url": "https://qiita.com/hitomin_poke/items/24aa3a6728220a112716?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hitomin_poke",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T14:41:40+09:00"
-    },
-    {
       "id": "ctf-3477546",
       "source": "project",
       "proj_category": "CTF",
@@ -5375,6 +5373,58 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-3248df5206",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ハーネスエンジニアリングとは何で、何ではないのか 〜作る側のハーネス、使う側のハーネス〜",
+      "url": "https://zenn.dev/r_kaga/articles/329afdc151899f",
+      "score": null,
+      "author": "r.kagaya",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 22 Apr 2026 23:31:45 GMT"
+    },
+    {
+      "id": "zenn-71aa0fa562",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "PMP（Project Management Professional）を取ろうとしている人に読んでほしい、PMPの話",
+      "url": "https://zenn.dev/acntechjp/articles/8c99076b93d621",
+      "score": null,
+      "author": "karataro(shugo karatsu)",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 22 Apr 2026 16:39:07 GMT"
+    },
+    {
+      "id": "zenn-f932b8283a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Upcoming Features ざっくりまとめ @ Swift6.3",
+      "url": "https://zenn.dev/ryomm/articles/829f21a6e24e05",
+      "score": null,
+      "author": "Ryomm",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 22 Apr 2026 12:43:04 GMT"
+    },
+    {
+      "id": "zenn-6a5e9555d0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "優秀なAI専門チームと爆速で高品質に仕上げる要件定義 — PMのためのClaude Code × AIエージェント実践ガイド",
+      "url": "https://zenn.dev/medirom_tech/articles/c8d422b940fa6d",
+      "score": null,
+      "author": "てら",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 22 Apr 2026 10:00:43 GMT"
+    },
+    {
       "id": "zenn-70d4de67d4",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5386,6 +5436,32 @@
         "Zenn"
       ],
       "date": "Wed, 22 Apr 2026 09:23:01 GMT"
+    },
+    {
+      "id": "zenn-88579219cd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Next.js を SSG 化しようとして、最終的に React SPA に落ち着いた理由",
+      "url": "https://zenn.dev/ctag/articles/nextjs-ssg-to-react-spa-on-cloudflare",
+      "score": null,
+      "author": "ritsukei",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 22 Apr 2026 09:05:34 GMT"
+    },
+    {
+      "id": "zenn-094a557bbd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Codeが$20プランから一時撤退した件で、改めてプランを選び直した話",
+      "url": "https://zenn.dev/aiforall/articles/33534863994e45",
+      "score": null,
+      "author": "isa",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 22 Apr 2026 06:00:17 GMT"
     },
     {
       "id": "zenn-70fd6c98a4",
@@ -5518,32 +5594,6 @@
       "date": "Tue, 21 Apr 2026 01:26:39 GMT"
     },
     {
-      "id": "zenn-c7ce456851",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ながーーーーい地番を探せ！　登記所備付地図を覗いてみよう",
-      "url": "https://zenn.dev/estie/articles/9cba491ae6e44a",
-      "score": null,
-      "author": "yasuand",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 21 Apr 2026 00:29:46 GMT"
-    },
-    {
-      "id": "zenn-75e7ba2a28",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIスクラムチームは嘘をつく",
-      "url": "https://zenn.dev/microsoft/articles/2a952ed44e3873",
-      "score": null,
-      "author": "shuji yamaguchi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 20 Apr 2026 23:15:54 GMT"
-    },
-    {
       "id": "zenn-23d2b9b62c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5557,30 +5607,17 @@
       "date": "Mon, 20 Apr 2026 22:50:40 GMT"
     },
     {
-      "id": "zenn-cd9607d0fd",
+      "id": "zenn-992426d7f2",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "言語化に苦しむ全ての人(エンジニア？)へ。今日から変わるコミュニケーション術補遺",
-      "url": "https://zenn.dev/coconala/articles/9b1d05be257b90",
+      "title": "ObsidianとClaude Codeで「育つ知識ベース」を作った話",
+      "url": "https://zenn.dev/sochi/articles/1e851637841acc",
       "score": null,
-      "author": "株式会社ココナラ",
+      "author": "sochi",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 20 Apr 2026 02:20:02 GMT"
-    },
-    {
-      "id": "zenn-ceee547019",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "環境が汚れるのが嫌なのでPodmanコンテナの中でSteamを動かした",
-      "url": "https://zenn.dev/headwaters/articles/c4a62943ec50aa",
-      "score": null,
-      "author": "妹尾悠真",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 19 Apr 2026 23:40:05 GMT"
+      "date": "Mon, 20 Apr 2026 13:31:25 GMT"
     },
     {
       "id": "zenn-8664407b7a",
@@ -5594,45 +5631,6 @@
         "Zenn"
       ],
       "date": "Sun, 19 Apr 2026 23:00:07 GMT"
-    },
-    {
-      "id": "zenn-61ee7f7eb4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Cursorで爆速開発、でもセキュリティは爆速で崩壊していた",
-      "url": "https://zenn.dev/nekoai_lab/articles/6b876ab524de84",
-      "score": null,
-      "author": "月ねこAI｜Neko AI Lab",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 19 Apr 2026 22:29:56 GMT"
-    },
-    {
-      "id": "zenn-23ebdd16a4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する",
-      "url": "https://zenn.dev/mizchi/articles/empirical-prompt-tuning",
-      "score": null,
-      "author": "mizchi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 19 Apr 2026 08:04:42 GMT"
-    },
-    {
-      "id": "zenn-db96a2cc68",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AI時代にわざわざRuby on Railsを使う理由",
-      "url": "https://zenn.dev/higakijin/articles/730a734b6b9009",
-      "score": null,
-      "author": "ハルク",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 19 Apr 2026 02:03:46 GMT"
     },
     {
       "id": "edb-8bdc8c3b50",
