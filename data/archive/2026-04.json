@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-23T11:26:56.036507+00:00",
+  "generated_at": "2026-04-23T11:51:18.106229+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 357,
-    "zennqiita": 93,
+    "hn": 358,
+    "zennqiita": 92,
     "project": 2
   },
   "severity_counts": {
-    "high": 5,
+    "high": 4,
     "critical": 13,
     "medium": 1
   },
@@ -23,7 +23,7 @@
     {
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1821,
+      "score": 1834,
       "source": "hn",
       "date": "2026-04-22T16:29:25+00:00"
     },
@@ -72,7 +72,7 @@
     {
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
       "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "score": 867,
+      "score": 871,
       "source": "hn",
       "date": "2026-04-22T13:19:58+00:00"
     },
@@ -93,7 +93,7 @@
     {
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 739,
+      "score": 747,
       "source": "hn",
       "date": "2026-04-22T17:35:03+00:00"
     },
@@ -135,9 +135,16 @@
     {
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
-      "score": 656,
+      "score": 664,
       "source": "hn",
       "date": "2026-04-19T15:19:28+00:00"
+    },
+    {
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "score": 631,
+      "source": "hn",
+      "date": "2026-04-22T20:27:31+00:00"
     },
     {
       "title": "Ban the sale of precise geolocation",
@@ -145,13 +152,6 @@
       "score": 628,
       "source": "hn",
       "date": "2026-04-17T14:25:46+00:00"
-    },
-    {
-      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 625,
-      "source": "hn",
-      "date": "2026-04-22T20:27:31+00:00"
     }
   ],
   "security_highlights": [
@@ -273,13 +273,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-04-17T11:22:05+00:00"
-    },
-    {
-      "title": "【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策",
-      "url": "https://qiita.com/miruky/items/fde2d0747358cd7870d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-04-17T19:29:09+09:00"
     }
   ]
 }
