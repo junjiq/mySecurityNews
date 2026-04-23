@@ -1,18 +1,18 @@
 {
   "date": "2026-04-23",
-  "generated_at": "2026-04-23T19:31:09.849171+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-04-23T20:22:08.611169+00:00",
+  "total_articles": 54,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 45,
       "top_items": [
         {
           "title": "I am building a cloud",
           "url": "https://crawshaw.io/blog/building-a-cloud",
-          "score": 879,
+          "score": 904,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T04:44:19+00:00"
@@ -20,7 +20,7 @@
         {
           "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
           "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-          "score": 803,
+          "score": 809,
           "source": "hn",
           "severity": null,
           "date": "2026-04-22T20:27:31+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "GPT-5.5",
           "url": "https://openai.com/index/introducing-gpt-5-5/",
-          "score": 492,
+          "score": 669,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T18:01:39+00:00"
@@ -36,25 +36,49 @@
         {
           "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
           "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-          "score": 443,
+          "score": 477,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T14:17:08+00:00"
         },
         {
-          "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
-          "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-          "score": 346,
+          "title": "An update on recent Claude Code quality reports",
+          "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+          "score": 357,
           "source": "hn",
-          "severity": null,
-          "date": "2026-04-23T12:12:03+00:00"
+          "severity": "medium",
+          "date": "2026-04-23T17:48:38+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 9,
       "top_items": [
+        {
+          "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
+          "url": "https://qiita.com/ot12/items/06420caf41a34a910c53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-24T01:09:02+09:00"
+        },
+        {
+          "title": "n8nで「ランチ自動提案Bot」を作ってみた（Google Maps × Discord）",
+          "url": "https://qiita.com/wan-code/items/71b3c3188d19e2429ee0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-23T18:56:20+09:00"
+        },
+        {
+          "title": "[Frontend Performance - Part 6] メインスレッドとブロッキング：なぜUIは止まるのか",
+          "url": "https://qiita.com/tuanphan/items/20fe25fc0cda3137dba2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-23T18:38:37+09:00"
+        },
         {
           "title": "Oracle Exadata@AWS を作成してみてみた",
           "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -64,36 +88,12 @@
           "date": "2026-04-23T15:41:00+09:00"
         },
         {
-          "title": "[Frontend Performance - Part 5] なぜ UI は止まるのか？JavaScript の実行モデルと Event Loop を理解する",
-          "url": "https://qiita.com/tuanphan/items/8c4a7ad8271232ae9d30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【2026年4月最新】Google Cloud 認定「全冠」達成まとめ 〜今だけ15冠〜",
+          "url": "https://qiita.com/tomokoro/items/eebc8142a85c80873028?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-23T12:32:06+09:00"
-        },
-        {
-          "title": "【初心者エンジニア向け】開発業務の視野を広げる運用のはなし",
-          "url": "https://qiita.com/masa20057/items/5144c0d01539ccd6a881?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-23T12:31:49+09:00"
-        },
-        {
-          "title": "Google Antigravityを使ってみた：猫ミームGIFジェネレーターを半日で開発した記録",
-          "url": "https://qiita.com/sugumura/items/6d62cb34dd7f6dcab346?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-23T11:58:33+09:00"
-        },
-        {
-          "title": "[Frontend Performance - Part 4] 描画パフォーマンス最適化：ブラウザの仕事を減らす設計とは？",
-          "url": "https://qiita.com/tuanphan/items/f5e23af90951e53a78ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-23T10:46:59+09:00"
+          "date": "2026-04-23T13:03:39+09:00"
         }
       ]
     }
