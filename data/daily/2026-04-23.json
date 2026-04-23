@@ -1,34 +1,26 @@
 {
   "date": "2026-04-23",
-  "generated_at": "2026-04-23T20:22:08.611169+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-04-23T20:47:34.297168+00:00",
+  "total_articles": 52,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 43,
       "top_items": [
         {
           "title": "I am building a cloud",
           "url": "https://crawshaw.io/blog/building-a-cloud",
-          "score": 904,
+          "score": 913,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T04:44:19+00:00"
         },
         {
-          "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-          "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-          "score": 809,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-22T20:27:31+00:00"
-        },
-        {
           "title": "GPT-5.5",
           "url": "https://openai.com/index/introducing-gpt-5-5/",
-          "score": 669,
+          "score": 730,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T18:01:39+00:00"
@@ -36,7 +28,7 @@
         {
           "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
           "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-          "score": 477,
+          "score": 489,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T14:17:08+00:00"
@@ -44,10 +36,18 @@
         {
           "title": "An update on recent Claude Code quality reports",
           "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-          "score": 357,
+          "score": 383,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-23T17:48:38+00:00"
+        },
+        {
+          "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
+          "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+          "score": 346,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-23T12:12:03+00:00"
         }
       ]
     },
