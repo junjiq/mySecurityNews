@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-04-23T11:51:18.008567+00:00",
+  "updated_at": "2026-04-23T12:23:42.914933+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47874734",
+      "source": "hn",
+      "title": "Jiga (YC W21) Is Hiring",
+      "url": "https://jiga.io/about-us/",
+      "score": 1,
+      "comments": 0,
+      "author": "grmmph",
+      "tags": [],
+      "date": "2026-04-23T12:02:44+00:00"
+    },
+    {
+      "id": "hn-47874647",
+      "source": "hn",
+      "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+      "url": "https://github.com/russellromney/honker",
+      "score": 11,
+      "comments": 1,
+      "author": "russellthehippo",
+      "tags": [],
+      "date": "2026-04-23T11:53:11+00:00"
+    },
+    {
+      "id": "hn-47874631",
+      "source": "hn",
+      "title": "Sneaky spam in conversational replies to blog posts",
+      "url": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
+      "score": 8,
+      "comments": 0,
+      "author": "ColinWright",
+      "tags": [],
+      "date": "2026-04-23T11:50:25+00:00"
+    },
     {
       "id": "hn-47873796",
       "source": "hn",
@@ -18,8 +51,8 @@
       "source": "hn",
       "title": "Writing a C Compiler, in Zig",
       "url": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
-      "score": 16,
-      "comments": 4,
+      "score": 26,
+      "comments": 6,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-23T09:20:47+00:00"
@@ -29,8 +62,8 @@
       "source": "hn",
       "title": "Email could have been X.400 times better",
       "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "score": 6,
-      "comments": 0,
+      "score": 17,
+      "comments": 8,
       "author": "maguay",
       "tags": [],
       "date": "2026-04-23T08:10:09+00:00"
@@ -53,8 +86,8 @@
       "source": "hn",
       "title": "Our newsroom AI policy",
       "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "score": 75,
-      "comments": 50,
+      "score": 85,
+      "comments": 55,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-23T05:14:05+00:00"
@@ -64,8 +97,8 @@
       "source": "hn",
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 462,
-      "comments": 225,
+      "score": 502,
+      "comments": 245,
       "author": "bumbledraven",
       "tags": [],
       "date": "2026-04-23T04:44:19+00:00"
@@ -158,8 +191,8 @@
       "source": "hn",
       "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
       "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
-      "score": 88,
-      "comments": 29,
+      "score": 104,
+      "comments": 36,
       "author": "maxloh",
       "tags": [],
       "date": "2026-04-23T01:59:08+00:00"
@@ -193,7 +226,7 @@
       "source": "hn",
       "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
       "url": "https://tempest.homemade.systems",
-      "score": 83,
+      "score": 86,
       "comments": 27,
       "author": "mwenge",
       "tags": [],
@@ -270,8 +303,8 @@
       "source": "hn",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 631,
-      "comments": 158,
+      "score": 646,
+      "comments": 163,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-04-22T20:27:31+00:00"
@@ -349,8 +382,8 @@
       "source": "hn",
       "title": "Website streamed live directly from a model",
       "url": "https://flipbook.page/",
-      "score": 306,
-      "comments": 81,
+      "score": 313,
+      "comments": 84,
       "author": "sethbannon",
       "tags": [],
       "date": "2026-04-22T18:01:18+00:00"
@@ -360,8 +393,8 @@
       "source": "hn",
       "title": "Over-editing refers to a model modifying code beyond what is necessary",
       "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "score": 375,
-      "comments": 214,
+      "score": 379,
+      "comments": 219,
       "author": "pella",
       "tags": [],
       "date": "2026-04-22T17:51:17+00:00"
@@ -382,8 +415,8 @@
       "source": "hn",
       "title": "Parallel agents in Zed",
       "url": "https://zed.dev/blog/parallel-agents",
-      "score": 239,
-      "comments": 126,
+      "score": 242,
+      "comments": 128,
       "author": "ajeetdsouza",
       "tags": [],
       "date": "2026-04-22T17:38:57+00:00"
@@ -393,8 +426,8 @@
       "source": "hn",
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 747,
-      "comments": 218,
+      "score": 760,
+      "comments": 223,
       "author": "danpinto",
       "tags": [],
       "date": "2026-04-22T17:35:03+00:00"
@@ -438,8 +471,8 @@
       "source": "hn",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1834,
-      "comments": 600,
+      "score": 1853,
+      "comments": 606,
       "author": "Kaibeezy",
       "tags": [],
       "date": "2026-04-22T16:29:25+00:00"
@@ -449,8 +482,8 @@
       "source": "hn",
       "title": "Technical, cognitive, and intent debt",
       "url": "https://martinfowler.com/fragments/2026-04-02.html",
-      "score": 271,
-      "comments": 71,
+      "score": 276,
+      "comments": 72,
       "author": "theorchid",
       "tags": [],
       "date": "2026-04-22T16:11:23+00:00"
@@ -493,8 +526,8 @@
       "source": "hn",
       "title": "Ping-pong robot beats top-level human players",
       "url": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
-      "score": 125,
-      "comments": 167,
+      "score": 132,
+      "comments": 173,
       "author": "wslh",
       "tags": [],
       "date": "2026-04-22T15:13:48+00:00"
@@ -1107,6 +1140,17 @@
       "date": "2026-04-21T17:14:26+00:00"
     },
     {
+      "id": "hn-47851613",
+      "source": "hn",
+      "title": "Work with the Garage Door Up",
+      "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+      "score": 3,
+      "comments": 0,
+      "author": "jxmorris12",
+      "tags": [],
+      "date": "2026-04-21T17:13:29+00:00"
+    },
+    {
       "id": "hn-47851456",
       "source": "hn",
       "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
@@ -1332,8 +1376,8 @@
       "source": "hn",
       "title": "An amateur historian's favorite books about the Silk Road",
       "url": "https://bookdna.com/best-books/silk-road",
-      "score": 32,
-      "comments": 12,
+      "score": 33,
+      "comments": 14,
       "author": "bwb",
       "tags": [],
       "date": "2026-04-21T11:01:37+00:00"
@@ -1376,8 +1420,8 @@
       "source": "hn",
       "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
       "url": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
-      "score": 98,
-      "comments": 18,
+      "score": 106,
+      "comments": 20,
       "author": "Prof_Sigmund",
       "tags": [],
       "date": "2026-04-21T09:55:49+00:00",
@@ -1401,8 +1445,8 @@
       "source": "hn",
       "title": "Your hex editor should color-code bytes",
       "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "score": 144,
-      "comments": 39,
+      "score": 171,
+      "comments": 44,
       "author": "tobr",
       "tags": [],
       "date": "2026-04-21T09:52:09+00:00"
@@ -1866,8 +1910,8 @@
       "source": "hn",
       "title": "Isopods of the world",
       "url": "https://isopod.site/",
-      "score": 27,
-      "comments": 8,
+      "score": 30,
+      "comments": 9,
       "author": "debesyla",
       "tags": [],
       "date": "2026-04-20T20:56:02+00:00"
@@ -2020,8 +2064,8 @@
       "source": "hn",
       "title": "Highlights from Git 2.54",
       "url": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-      "score": 20,
-      "comments": 2,
+      "score": 35,
+      "comments": 9,
       "author": "ingve",
       "tags": [],
       "date": "2026-04-20T17:29:51+00:00"
@@ -3246,7 +3290,7 @@
       "source": "hn",
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
-      "score": 664,
+      "score": 674,
       "comments": 138,
       "author": "zdw",
       "tags": [],
@@ -5118,55 +5162,6 @@
       "author": "fxtentacle",
       "tags": [],
       "date": "2026-04-17T12:32:17+00:00"
-    },
-    {
-      "id": "hn-47804965",
-      "source": "hn",
-      "title": "Isaac Asimov: The Last Question (1956)",
-      "url": "https://hex.ooo/library/last_question.html",
-      "score": 706,
-      "comments": 281,
-      "author": "ColinWright",
-      "tags": [],
-      "date": "2026-04-17T12:01:19+00:00"
-    },
-    {
-      "id": "qiita-566a63ab26",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Jr. Champions Meetup - April/Final】LT・Feedback",
-      "url": "https://qiita.com/amixedcolor/items/81eba0aafc9edc27ce35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "amixedcolor",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T20:33:55+09:00"
-    },
-    {
-      "id": "qiita-dad0896414",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "日本語性能世界一の音声認識モデルを作った",
-      "url": "https://qiita.com/holotherapper/items/53190c4cd9825ad825b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "holotherapper",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T20:23:29+09:00"
-    },
-    {
-      "id": "hn-47804708",
-      "source": "hn",
-      "title": "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
-      "url": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
-      "score": 71,
-      "comments": 46,
-      "author": "ZunarJ5",
-      "tags": [],
-      "date": "2026-04-17T11:22:05+00:00",
-      "severity": "high"
     },
     {
       "id": "ctf-3477546",
