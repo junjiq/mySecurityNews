@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-23T01:36:03.632482+00:00",
+  "generated_at": "2026-04-23T03:06:22.678680+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 347,
-    "zennqiita": 103,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 2
   },
   "severity_counts": {
     "high": 5,
-    "critical": 14,
+    "critical": 13,
     "medium": 1
   },
   "top_articles": [
@@ -21,18 +21,18 @@
       "date": "2026-04-20T20:39:32+00:00"
     },
     {
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "score": 1400,
+      "source": "hn",
+      "date": "2026-04-22T16:29:25+00:00"
+    },
+    {
       "title": "Framework Laptop 13 Pro",
       "url": "https://frame.work/laptop13pro",
       "score": 1318,
       "source": "hn",
       "date": "2026-04-21T18:00:34+00:00"
-    },
-    {
-      "title": "Alberta startup sells no-tech tractors for half price",
-      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1298,
-      "source": "hn",
-      "date": "2026-04-22T16:29:25+00:00"
     },
     {
       "title": "All phones sold in the EU to have replaceable batteries from 2027",
@@ -84,6 +84,13 @@
       "date": "2026-04-19T14:14:38+00:00"
     },
     {
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "score": 729,
+      "source": "hn",
+      "date": "2026-04-22T13:19:58+00:00"
+    },
+    {
       "title": "GitHub's fake star economy",
       "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
       "score": 728,
@@ -96,13 +103,6 @@
       "score": 706,
       "source": "hn",
       "date": "2026-04-17T12:01:19+00:00"
-    },
-    {
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "score": 683,
-      "source": "hn",
-      "date": "2026-04-22T13:19:58+00:00"
     },
     {
       "title": "SpaceX says it has agreement to acquire Cursor for $60B",
@@ -280,13 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-17T06:19:45+00:00"
-    },
-    {
-      "title": "Discourse Is Not Going Closed Source",
-      "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-17T03:36:26+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-04-23",
-  "generated_at": "2026-04-23T01:36:03.588163+00:00",
+  "generated_at": "2026-04-23T03:06:22.627618+00:00",
   "total_articles": 54,
   "urgent_count": 1,
   "urgent_items": [
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 44,
       "top_items": [
         {
           "title": "Alberta startup sells no-tech tractors for half price",
           "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-          "score": 1298,
+          "score": 1400,
           "source": "hn",
           "severity": null,
           "date": "2026-04-22T16:29:25+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
           "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-          "score": 683,
+          "score": 729,
           "source": "hn",
           "severity": null,
           "date": "2026-04-22T13:19:58+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "We found a stable Firefox identifier linking all your private Tor identities",
           "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-          "score": 418,
+          "score": 474,
           "source": "hn",
           "severity": null,
           "date": "2026-04-22T17:35:03+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "Our eighth generation TPUs: two chips for the agentic era",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-          "score": 396,
+          "score": 412,
           "source": "hn",
           "severity": null,
           "date": "2026-04-22T12:15:29+00:00"
@@ -61,8 +61,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
+        {
+          "title": "Oracle Exadata@AWS を作成してみてみた",
+          "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-23T11:43:14+09:00"
+        },
+        {
+          "title": "[Frontend Performance - Part 4] 描画パフォーマンス最適化：ブラウザの仕事を減らす設計とは？",
+          "url": "https://qiita.com/tuanphan/items/f5e23af90951e53a78ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-23T10:46:59+09:00"
+        },
         {
           "title": "【全コード公開】まだ商談準備に1時間かけてる人はAI時代に置いてかれるからこのスキルを使って",
           "url": "https://qiita.com/ClaudeCode_UT/items/4e8be1c0fe4c3995c2fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,14 +86,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-23T04:50:30+09:00"
-        },
-        {
-          "title": "Oracle Exadata@AWS を作成してみてみた",
-          "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-22T23:21:59+09:00"
         },
         {
           "title": "【n8n】Google Driveに画像を置くだけで自動リサイズ（1280×720）するワークフロー",
@@ -94,14 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-22T17:47:00+09:00"
-        },
-        {
-          "title": "KotlinのNull安全をJavaのOptionalと比較して理解する",
-          "url": "https://qiita.com/S_kamon/items/a63e0a8ba2f1eeca8357?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-22T17:46:52+09:00"
         }
       ]
     }
