@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-04-23T13:34:43.737221+00:00",
+  "updated_at": "2026-04-23T14:47:33.316083+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47875629",
+      "source": "hn",
+      "title": "US Department of Justice has officially reclassified cannabis as less dangerous",
+      "url": "https://www.bbc.com/news/articles/cdxd0xxp0jko",
+      "score": 54,
+      "comments": 34,
+      "author": "kaycebasques",
+      "tags": [],
+      "date": "2026-04-23T13:37:48+00:00"
+    },
+    {
+      "id": "hn-47875420",
+      "source": "hn",
+      "title": "The End of Responsive Images",
+      "url": "https://piccalil.li/blog/the-end-of-responsive-images/",
+      "score": 3,
+      "comments": 1,
+      "author": "OuterVale",
+      "tags": [],
+      "date": "2026-04-23T13:17:55+00:00"
+    },
     {
       "id": "hn-47874854",
       "source": "hn",
       "title": "Raylib v6.0",
       "url": "https://github.com/raysan5/raylib/releases/tag/6.0",
-      "score": 13,
-      "comments": 0,
+      "score": 61,
+      "comments": 2,
       "author": "rydgel",
       "tags": [],
       "date": "2026-04-23T12:16:16+00:00"
@@ -16,10 +38,10 @@
     {
       "id": "hn-47874814",
       "source": "hn",
-      "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
+      "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
       "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-      "score": 115,
-      "comments": 30,
+      "score": 243,
+      "comments": 65,
       "author": "mentalgear",
       "tags": [],
       "date": "2026-04-23T12:12:03+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
       "url": "https://github.com/russellromney/honker",
-      "score": 57,
-      "comments": 9,
+      "score": 89,
+      "comments": 14,
       "author": "russellthehippo",
       "tags": [],
       "date": "2026-04-23T11:53:11+00:00"
@@ -49,10 +71,10 @@
     {
       "id": "hn-47874631",
       "source": "hn",
-      "title": "Sneaky spam in conversational replies to blog posts",
+      "title": "Spam in conversational replies to blog posts",
       "url": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
-      "score": 39,
-      "comments": 14,
+      "score": 68,
+      "comments": 48,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-04-23T11:50:25+00:00"
@@ -82,10 +104,10 @@
     {
       "id": "hn-47873694",
       "source": "hn",
-      "title": "Writing a C Compiler, in Zig",
+      "title": "Writing a C Compiler, in Zig (2025)",
       "url": "https://ar-ms.me/thoughts/c-compiler-1-zig/",
-      "score": 47,
-      "comments": 7,
+      "score": 58,
+      "comments": 17,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-23T09:20:47+00:00"
@@ -119,8 +141,8 @@
       "source": "hn",
       "title": "Our newsroom AI policy",
       "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "score": 100,
-      "comments": 71,
+      "score": 112,
+      "comments": 83,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-23T05:14:05+00:00"
@@ -130,8 +152,8 @@
       "source": "hn",
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 577,
-      "comments": 292,
+      "score": 659,
+      "comments": 333,
       "author": "bumbledraven",
       "tags": [],
       "date": "2026-04-23T04:44:19+00:00"
@@ -224,8 +246,8 @@
       "source": "hn",
       "title": "Arch Linux Now Has a Bit-for-Bit Reproducible Docker Image",
       "url": "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/",
-      "score": 130,
-      "comments": 51,
+      "score": 161,
+      "comments": 56,
       "author": "maxloh",
       "tags": [],
       "date": "2026-04-23T01:59:08+00:00"
@@ -336,8 +358,8 @@
       "source": "hn",
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 670,
-      "comments": 167,
+      "score": 706,
+      "comments": 172,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-04-22T20:27:31+00:00"
@@ -415,8 +437,8 @@
       "source": "hn",
       "title": "Website streamed live directly from a model",
       "url": "https://flipbook.page/",
-      "score": 334,
-      "comments": 89,
+      "score": 351,
+      "comments": 92,
       "author": "sethbannon",
       "tags": [],
       "date": "2026-04-22T18:01:18+00:00"
@@ -426,8 +448,8 @@
       "source": "hn",
       "title": "Over-editing refers to a model modifying code beyond what is necessary",
       "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "score": 385,
-      "comments": 222,
+      "score": 391,
+      "comments": 228,
       "author": "pella",
       "tags": [],
       "date": "2026-04-22T17:51:17+00:00"
@@ -459,8 +481,8 @@
       "source": "hn",
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
       "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-      "score": 783,
-      "comments": 232,
+      "score": 805,
+      "comments": 236,
       "author": "danpinto",
       "tags": [],
       "date": "2026-04-22T17:35:03+00:00"
@@ -504,8 +526,8 @@
       "source": "hn",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 1893,
-      "comments": 627,
+      "score": 1938,
+      "comments": 648,
       "author": "Kaibeezy",
       "tags": [],
       "date": "2026-04-22T16:29:25+00:00"
@@ -1175,10 +1197,10 @@
     {
       "id": "hn-47851613",
       "source": "hn",
-      "title": "Work with the Garage Door Up",
+      "title": "Work with the garage door up",
       "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
-      "score": 17,
-      "comments": 10,
+      "score": 40,
+      "comments": 30,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-04-21T17:13:29+00:00"
@@ -1354,8 +1376,8 @@
       "source": "hn",
       "title": "A Renaissance gambling dispute spawned probability theory",
       "url": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
-      "score": 9,
-      "comments": 0,
+      "score": 36,
+      "comments": 1,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-04-21T12:59:59+00:00"
@@ -1464,7 +1486,7 @@
       "source": "hn",
       "title": "A True Life Hack: What Physical 'Life Force' Turns Biology's Wheels?",
       "url": "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wheels-20260420/",
-      "score": 125,
+      "score": 139,
       "comments": 23,
       "author": "Prof_Sigmund",
       "tags": [],
@@ -1489,8 +1511,8 @@
       "source": "hn",
       "title": "Your hex editor should color-code bytes",
       "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-      "score": 219,
-      "comments": 63,
+      "score": 263,
+      "comments": 86,
       "author": "tobr",
       "tags": [],
       "date": "2026-04-21T09:52:09+00:00"
@@ -1954,8 +1976,8 @@
       "source": "hn",
       "title": "Isopods of the world",
       "url": "https://isopod.site/",
-      "score": 53,
-      "comments": 18,
+      "score": 66,
+      "comments": 29,
       "author": "debesyla",
       "tags": [],
       "date": "2026-04-20T20:56:02+00:00"
@@ -2108,8 +2130,8 @@
       "source": "hn",
       "title": "Highlights from Git 2.54",
       "url": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-      "score": 55,
-      "comments": 28,
+      "score": 73,
+      "comments": 38,
       "author": "ingve",
       "tags": [],
       "date": "2026-04-20T17:29:51+00:00"
@@ -2168,6 +2190,17 @@
       "author": "AFF87",
       "tags": [],
       "date": "2026-04-20T16:57:10+00:00"
+    },
+    {
+      "id": "hn-47836859",
+      "source": "hn",
+      "title": "Modern Board Games: and why you should play them (2022)",
+      "url": "https://boardgamegeek.com/blog/10755/blogpost/124992/modern-board-games-and-why-you-should-play-them",
+      "score": 28,
+      "comments": 12,
+      "author": "maayank",
+      "tags": [],
+      "date": "2026-04-20T16:41:19+00:00"
     },
     {
       "id": "hn-47836784",
@@ -3334,8 +3367,8 @@
       "source": "hn",
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
-      "score": 697,
-      "comments": 141,
+      "score": 716,
+      "comments": 146,
       "author": "zdw",
       "tags": [],
       "date": "2026-04-19T15:19:28+00:00"
@@ -5123,41 +5156,6 @@
       "author": "DamnInteresting",
       "tags": [],
       "date": "2026-04-17T14:07:28+00:00"
-    },
-    {
-      "id": "qiita-e3d67f61e4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "クオンツ実務の必須装備――Kelly・ATR・DD制御・HRPと、それぞれの「壊れ方」",
-      "url": "https://qiita.com/tikeda123/items/f5447e5b470ae6aedd2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tikeda123",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-17T23:03:21+09:00"
-    },
-    {
-      "id": "hn-47806021",
-      "source": "hn",
-      "title": "What are skiplists good for?",
-      "url": "https://antithesis.com/blog/2026/skiptrees/",
-      "score": 262,
-      "comments": 64,
-      "author": "mfiguiere",
-      "tags": [],
-      "date": "2026-04-17T13:57:27+00:00"
-    },
-    {
-      "id": "hn-47805998",
-      "source": "hn",
-      "title": "Scan your website to see how ready it is for AI agents",
-      "url": "https://isitagentready.com",
-      "score": 67,
-      "comments": 115,
-      "author": "WesSouza",
-      "tags": [],
-      "date": "2026-04-17T13:55:25+00:00"
     },
     {
       "id": "ctf-3477546",
