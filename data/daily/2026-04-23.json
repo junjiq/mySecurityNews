@@ -1,26 +1,18 @@
 {
   "date": "2026-04-23",
-  "generated_at": "2026-04-23T17:32:56.896433+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-04-23T18:26:15.104779+00:00",
+  "total_articles": 48,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 42,
       "top_items": [
-        {
-          "title": "We found a stable Firefox identifier linking all your private Tor identities",
-          "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
-          "score": 854,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-22T17:35:03+00:00"
-        },
         {
           "title": "I am building a cloud",
           "url": "https://crawshaw.io/blog/building-a-cloud",
-          "score": 823,
+          "score": 843,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T04:44:19+00:00"
@@ -28,26 +20,34 @@
         {
           "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
           "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-          "score": 781,
+          "score": 791,
           "source": "hn",
           "severity": null,
           "date": "2026-04-22T20:27:31+00:00"
         },
         {
-          "title": "Over-editing refers to a model modifying code beyond what is necessary",
-          "url": "https://nrehiew.github.io/blog/minimal_editing/",
-          "score": 396,
+          "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+          "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+          "score": 388,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-22T17:51:17+00:00"
+          "date": "2026-04-23T14:17:08+00:00"
         },
         {
-          "title": "Website streamed live directly from a model",
-          "url": "https://flipbook.page/",
-          "score": 363,
+          "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
+          "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+          "score": 333,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-22T18:01:18+00:00"
+          "date": "2026-04-23T12:12:03+00:00"
+        },
+        {
+          "title": "French government agency confirms breach as hacker offers to sell data",
+          "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+          "score": 276,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-23T15:59:55+00:00"
         }
       ]
     },
