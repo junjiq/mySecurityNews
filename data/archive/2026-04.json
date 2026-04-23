@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-23T20:47:34.339629+00:00",
+  "generated_at": "2026-04-23T21:17:54.728426+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 358,
@@ -10,7 +10,7 @@
   "severity_counts": {
     "medium": 2,
     "high": 2,
-    "critical": 12
+    "critical": 13
   },
   "top_articles": [
     {
@@ -58,7 +58,7 @@
     {
       "title": "I am building a cloud",
       "url": "https://crawshaw.io/blog/building-a-cloud",
-      "score": 913,
+      "score": 921,
       "source": "hn",
       "date": "2026-04-23T04:44:19+00:00"
     },
@@ -93,7 +93,7 @@
     {
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-      "score": 819,
+      "score": 824,
       "source": "hn",
       "date": "2026-04-22T20:27:31+00:00"
     },
@@ -105,18 +105,18 @@
       "date": "2026-04-19T14:14:38+00:00"
     },
     {
+      "title": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "score": 788,
+      "source": "hn",
+      "date": "2026-04-23T18:01:39+00:00"
+    },
+    {
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
       "score": 774,
       "source": "hn",
       "date": "2026-04-19T15:19:28+00:00"
-    },
-    {
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 730,
-      "source": "hn",
-      "date": "2026-04-23T18:01:39+00:00"
     },
     {
       "title": "GitHub's fake star economy",
@@ -161,6 +161,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-04-22T17:13:19+00:00"
+    },
+    {
+      "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
+      "url": "https://github.com/Infisical/agent-vault",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-22T16:25:28+00:00"
     },
     {
       "title": "Global growth in solar \"the largest ever observed for any source\"",
