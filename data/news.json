@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-04-24T19:47:48.162943+00:00",
+  "updated_at": "2026-04-24T20:17:00.444280+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47895080",
+      "source": "hn",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "score": 8,
+      "comments": 0,
+      "author": "elpakal",
+      "tags": [],
+      "date": "2026-04-24T20:00:30+00:00"
+    },
+    {
+      "id": "hn-47894747",
+      "source": "hn",
+      "title": "My audio interface has SSH enabled by default",
+      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "score": 14,
+      "comments": 2,
+      "author": "hhh",
+      "tags": [],
+      "date": "2026-04-24T19:30:46+00:00"
+    },
+    {
+      "id": "hn-47894734",
+      "source": "hn",
+      "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
+      "url": "https://gdm-tipsv2.github.io/",
+      "score": 3,
+      "comments": 0,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-04-24T19:28:32+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-47894690",
+      "source": "hn",
+      "title": "Could a Claude Code routine watch my finances?",
+      "url": "https://driggsby.com/blog/claude-code-routine-watch-my-finances",
+      "score": 3,
+      "comments": 0,
+      "author": "mbm",
+      "tags": [],
+      "date": "2026-04-24T19:25:15+00:00"
+    },
     {
       "id": "hn-47894435",
       "source": "hn",
       "title": "The Classic American Diner",
       "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "score": 12,
-      "comments": 5,
+      "score": 34,
+      "comments": 10,
       "author": "NaOH",
       "tags": [],
       "date": "2026-04-24T19:01:09+00:00"
@@ -18,8 +63,8 @@
       "source": "hn",
       "title": "SFO Quiet Airport (2025)",
       "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
-      "score": 43,
-      "comments": 24,
+      "score": 59,
+      "comments": 35,
       "author": "CaliforniaKarl",
       "tags": [],
       "date": "2026-04-24T18:29:53+00:00"
@@ -29,8 +74,8 @@
       "source": "hn",
       "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
       "url": "https://developers.openai.com/api/docs/changelog",
-      "score": 75,
-      "comments": 36,
+      "score": 111,
+      "comments": 56,
       "author": "arabicalories",
       "tags": [],
       "date": "2026-04-24T18:23:32+00:00"
@@ -47,11 +92,22 @@
       "date": "2026-04-24T18:12:15+00:00"
     },
     {
+      "id": "hn-47893779",
+      "source": "hn",
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "url": "https://arxiv.org/abs/2604.21691",
+      "score": 18,
+      "comments": 1,
+      "author": "jamie-simon",
+      "tags": [],
+      "date": "2026-04-24T18:06:05+00:00"
+    },
+    {
       "id": "hn-47893620",
       "source": "hn",
       "title": "CC-Canary: Detect early signs of regressions in Claude Code",
       "url": "https://github.com/delta-hq/cc-canary",
-      "score": 13,
+      "score": 16,
       "comments": 4,
       "author": "tejpalv",
       "tags": [],
@@ -62,8 +118,8 @@
       "source": "hn",
       "title": "CSS as a Query Language",
       "url": "https://evdc.me/blog/css-query",
-      "score": 24,
-      "comments": 11,
+      "score": 29,
+      "comments": 12,
       "author": "evnc",
       "tags": [],
       "date": "2026-04-24T17:39:37+00:00"
@@ -84,8 +140,8 @@
       "source": "hn",
       "title": "Redesigning the Recurse Center application to inspire curious programmers",
       "url": "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application",
-      "score": 35,
-      "comments": 4,
+      "score": 40,
+      "comments": 8,
       "author": "nicholasjbs",
       "tags": [],
       "date": "2026-04-24T16:45:10+00:00"
@@ -95,8 +151,8 @@
       "source": "hn",
       "title": "SDL Now Supports DOS",
       "url": "https://github.com/libsdl-org/SDL/pull/15377",
-      "score": 143,
-      "comments": 55,
+      "score": 162,
+      "comments": 56,
       "author": "Jayschwa",
       "tags": [],
       "date": "2026-04-24T16:20:15+00:00"
@@ -106,8 +162,8 @@
       "source": "hn",
       "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
       "url": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
-      "score": 34,
-      "comments": 10,
+      "score": 44,
+      "comments": 15,
       "author": "gslin",
       "tags": [],
       "date": "2026-04-24T16:16:49+00:00"
@@ -117,8 +173,8 @@
       "source": "hn",
       "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
       "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "score": 538,
-      "comments": 315,
+      "score": 574,
+      "comments": 341,
       "author": "y42",
       "tags": [],
       "date": "2026-04-24T15:59:19+00:00"
@@ -139,8 +195,8 @@
       "source": "hn",
       "title": "I'm done making desktop applications (2009)",
       "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "score": 106,
-      "comments": 109,
+      "score": 112,
+      "comments": 116,
       "author": "claxo",
       "tags": [],
       "date": "2026-04-24T15:44:03+00:00"
@@ -150,8 +206,8 @@
       "source": "hn",
       "title": "Different Language Models Learn Similar Number Representations",
       "url": "https://arxiv.org/abs/2604.20817",
-      "score": 72,
-      "comments": 29,
+      "score": 73,
+      "comments": 33,
       "author": "Anon84",
       "tags": [],
       "date": "2026-04-24T14:34:23+00:00"
@@ -161,8 +217,8 @@
       "source": "hn",
       "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
       "url": "https://github.com/browser-use/browser-harness",
-      "score": 45,
-      "comments": 21,
+      "score": 47,
+      "comments": 24,
       "author": "gregpr07",
       "tags": [],
       "date": "2026-04-24T14:31:38+00:00"
@@ -172,8 +228,8 @@
       "source": "hn",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 274,
-      "comments": 65,
+      "score": 284,
+      "comments": 67,
       "author": "alcazar",
       "tags": [],
       "date": "2026-04-24T14:28:52+00:00"
@@ -227,8 +283,8 @@
       "source": "hn",
       "title": "The operating cost of adult and gambling startups",
       "url": "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/",
-      "score": 83,
-      "comments": 124,
+      "score": 90,
+      "comments": 132,
       "author": "theorchid",
       "tags": [],
       "date": "2026-04-24T12:27:18+00:00"
@@ -282,8 +338,8 @@
       "source": "hn",
       "title": "Hear your agent suffer through your code",
       "url": "https://github.com/AndrewVos/endless-toil",
-      "score": 159,
-      "comments": 76,
+      "score": 160,
+      "comments": 77,
       "author": "AndrewVos",
       "tags": [],
       "date": "2026-04-24T10:58:45+00:00"
@@ -293,8 +349,8 @@
       "source": "hn",
       "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
       "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "score": 229,
-      "comments": 230,
+      "score": 236,
+      "comments": 242,
       "author": "calcifer",
       "tags": [],
       "date": "2026-04-24T10:48:14+00:00"
@@ -322,6 +378,19 @@
       "date": "2026-04-24T10:13:26+00:00"
     },
     {
+      "id": "qiita-32d42c5db3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "n8n × MacroDroid × LINEで「今から帰る」をワンタップ通知する仕組みを作った",
+      "url": "https://qiita.com/wan-code/items/e83414089713891df1a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "wan-code",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T18:58:09+09:00"
+    },
+    {
       "id": "hn-47887683",
       "source": "hn",
       "title": "South Korea police arrest man for posting AI photo of runaway wolf",
@@ -337,11 +406,24 @@
       "source": "hn",
       "title": "Spinel: Ruby AOT Native Compiler",
       "url": "https://github.com/matz/spinel",
-      "score": 266,
-      "comments": 77,
+      "score": 271,
+      "comments": 78,
       "author": "dluan",
       "tags": [],
       "date": "2026-04-24T08:28:47+00:00"
+    },
+    {
+      "id": "qiita-8ecad66f94",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "プッシュ通知の許可フロー設計 ― ブラウザやデバイスごとの違いと実装パターン",
+      "url": "https://qiita.com/Katsushi21/items/9c5fff6f00bcd03b3370?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Katsushi21",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T17:26:57+09:00"
     },
     {
       "id": "hn-47886773",
@@ -366,6 +448,19 @@
       "date": "2026-04-24T06:48:53+00:00"
     },
     {
+      "id": "qiita-379386a804",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "LLMなしで“信頼できる検索”を作る：Oracle Trusted Answer Searchを試してみた",
+      "url": "https://qiita.com/ssfujita/items/2f4f88810e223329921a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ssfujita",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T15:42:18+09:00"
+    },
+    {
       "id": "hn-47886272",
       "source": "hn",
       "title": "Show HN: Gova – The declarative GUI framework for Go",
@@ -375,6 +470,19 @@
       "author": "aliezsid",
       "tags": [],
       "date": "2026-04-24T06:16:47+00:00"
+    },
+    {
+      "id": "qiita-7ea8ae41e8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Oracle】Pre-Built AI Agents の「Select AI Inspect」で自然言語でデータベースの中身を調査してみた",
+      "url": "https://qiita.com/yushibats/items/504dfd592ec24677ab3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yushibats",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T15:10:29+09:00"
     },
     {
       "id": "qiita-19925ce2d2",
@@ -499,8 +607,8 @@
       "source": "hn",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/",
-      "score": 1688,
-      "comments": 1311,
+      "score": 1709,
+      "comments": 1323,
       "author": "impact_sy",
       "tags": [],
       "date": "2026-04-24T03:01:21+00:00"
@@ -517,6 +625,19 @@
         "Qiita"
       ],
       "date": "2026-04-24T11:46:40+09:00"
+    },
+    {
+      "id": "qiita-d3d1fa3ffb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Opus 4.7 の新トークナイザーで請求が1.35倍に跳ねた話 — 価格据え置きでも実コストが上がる仕組みと対策",
+      "url": "https://qiita.com/nogataka/items/7dec7a26e49f39e7d471?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T11:39:46+09:00"
     },
     {
       "id": "hn-47884768",
@@ -560,7 +681,7 @@
       "source": "hn",
       "title": "Physicists revive 1990s laser concept to propose a next-generation atomic clock",
       "url": "https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html",
-      "score": 40,
+      "score": 41,
       "comments": 5,
       "author": "wglb",
       "tags": [],
@@ -620,8 +741,8 @@
       "source": "hn",
       "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
       "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-      "score": 606,
-      "comments": 653,
+      "score": 614,
+      "comments": 659,
       "author": "nkrisc",
       "tags": [],
       "date": "2026-04-23T21:56:15+00:00",
@@ -5030,118 +5151,6 @@
       "author": "tcp_handshaker",
       "tags": [],
       "date": "2026-04-18T20:34:31+00:00"
-    },
-    {
-      "id": "qiita-bf93237441",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "13時間で900万円請求事件の裏側 - AI生成コードが招くAPIキー漏洩を静的解析で止める",
-      "url": "https://qiita.com/pythonista0328/items/f9eb8b7fb6a14087df35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "pythonista0328",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-19T04:52:43+09:00"
-    },
-    {
-      "id": "hn-47818704",
-      "source": "hn",
-      "title": "Young sons of U.S. marshal ride horseback from Oklahoma to New York (2018)",
-      "url": "https://texascooppower.com/the-astonishing-ride-of-the-abernathy-boys/",
-      "score": 37,
-      "comments": 11,
-      "author": "mhb",
-      "tags": [],
-      "date": "2026-04-18T19:19:50+00:00"
-    },
-    {
-      "id": "hn-47818700",
-      "source": "hn",
-      "title": "Thoughts and feelings around Claude Design",
-      "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "score": 313,
-      "comments": 198,
-      "author": "cdrnsf",
-      "tags": [],
-      "date": "2026-04-18T19:19:24+00:00"
-    },
-    {
-      "id": "hn-47818485",
-      "source": "hn",
-      "title": "College instructor turns to typewriters to curb AI-written work",
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "score": 450,
-      "comments": 408,
-      "author": "gnabgib",
-      "tags": [],
-      "date": "2026-04-18T19:00:00+00:00"
-    },
-    {
-      "id": "hn-47818305",
-      "source": "hn",
-      "title": "Traders placed over $1B in perfectly timed bets on the Iran war",
-      "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
-      "score": 213,
-      "comments": 143,
-      "author": "trocado",
-      "tags": [],
-      "date": "2026-04-18T18:36:07+00:00"
-    },
-    {
-      "id": "hn-47817902",
-      "source": "hn",
-      "title": "Headless Everything for Personal AI",
-      "url": "https://interconnected.org/home/2026/04/18/headless",
-      "score": 10,
-      "comments": 1,
-      "author": "markusw",
-      "tags": [],
-      "date": "2026-04-18T17:49:22+00:00"
-    },
-    {
-      "id": "hn-47817639",
-      "source": "hn",
-      "title": "4-bit floating point FP4",
-      "url": "https://www.johndcook.com/blog/2026/04/17/fp4/",
-      "score": 30,
-      "comments": 17,
-      "author": "chmaynard",
-      "tags": [],
-      "date": "2026-04-18T17:21:02+00:00"
-    },
-    {
-      "id": "hn-47817581",
-      "source": "hn",
-      "title": "Graphs that explain the state of AI in 2026",
-      "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-      "score": 66,
-      "comments": 44,
-      "author": "bryanrasmussen",
-      "tags": [],
-      "date": "2026-04-18T17:12:44+00:00"
-    },
-    {
-      "id": "hn-47817555",
-      "source": "hn",
-      "title": "Rail: A self-hosting language that speaks TLS alone",
-      "url": "https://github.com/zemo-g/rail",
-      "score": 8,
-      "comments": 3,
-      "author": "zem0g",
-      "tags": [],
-      "date": "2026-04-18T17:09:34+00:00"
-    },
-    {
-      "id": "hn-47817473",
-      "source": "hn",
-      "title": "UpCodes (YC S17) is hiring SDRs to help make construction more productive",
-      "url": "https://up.codes/careers?utm_source=HN",
-      "score": 1,
-      "comments": 0,
-      "author": "Old_Thrashbarg",
-      "tags": [],
-      "date": "2026-04-18T17:01:56+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
