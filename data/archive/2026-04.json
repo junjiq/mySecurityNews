@@ -1,10 +1,10 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-24T15:55:11.190540+00:00",
+  "generated_at": "2026-04-24T16:22:05.916938+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 360,
-    "zennqiita": 90,
+    "hn": 361,
+    "zennqiita": 89,
     "project": 2
   },
   "severity_counts": {
@@ -30,14 +30,14 @@
     {
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/",
-      "score": 1483,
+      "score": 1510,
       "source": "hn",
       "date": "2026-04-24T03:01:21+00:00"
     },
     {
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 1470,
+      "score": 1477,
       "source": "hn",
       "date": "2026-04-23T18:01:39+00:00"
     },
@@ -98,6 +98,13 @@
       "date": "2026-04-22T13:19:58+00:00"
     },
     {
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "score": 840,
+      "source": "hn",
+      "date": "2026-04-23T17:48:38+00:00"
+    },
+    {
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
       "score": 839,
@@ -105,23 +112,9 @@
       "date": "2026-04-22T20:27:31+00:00"
     },
     {
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 837,
-      "source": "hn",
-      "date": "2026-04-23T17:48:38+00:00"
-    },
-    {
-      "title": "Migrating from DigitalOcean to Hetzner",
-      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 832,
-      "source": "hn",
-      "date": "2026-04-18T13:29:04+00:00"
-    },
-    {
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 825,
+      "score": 826,
       "source": "hn",
       "date": "2026-04-23T14:17:08+00:00"
     },
@@ -152,6 +145,13 @@
       "score": 682,
       "source": "hn",
       "date": "2026-04-21T22:13:18+00:00"
+    },
+    {
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "score": 667,
+      "source": "hn",
+      "date": "2026-04-20T14:05:34+00:00"
     }
   ],
   "security_highlights": [
