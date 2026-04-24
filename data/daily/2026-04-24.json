@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "generated_at": "2026-04-24T07:37:52.334888+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-04-24T08:43:10.952824+00:00",
+  "total_articles": 58,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,36 +22,36 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 46,
       "top_items": [
         {
           "title": "GPT-5.5",
           "url": "https://openai.com/index/introducing-gpt-5-5/",
-          "score": 1319,
+          "score": 1350,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T18:01:39+00:00"
         },
         {
-          "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-          "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-          "score": 740,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-23T14:17:08+00:00"
-        },
-        {
           "title": "DeepSeek v4",
           "url": "https://api-docs.deepseek.com/",
-          "score": 701,
+          "score": 837,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T03:01:21+00:00"
         },
         {
+          "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+          "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+          "score": 748,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-23T14:17:08+00:00"
+        },
+        {
           "title": "An update on recent Claude Code quality reports",
           "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-          "score": 694,
+          "score": 721,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-23T17:48:38+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 12,
       "top_items": [
         {
           "title": "Oracle Exadata@AWS を作成してみてみた",
@@ -79,28 +79,36 @@
           "date": "2026-04-24T15:04:55+09:00"
         },
         {
-          "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
-          "url": "https://qiita.com/ot12/items/06420caf41a34a910c53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "prisma migrate resolveを使ってRails+Prismaのマイグレーションを共存させる",
+          "url": "https://qiita.com/tatsuya582/items/fc215131805b7523c20b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-24T08:32:37+09:00"
+          "date": "2026-04-24T13:06:51+09:00"
         },
         {
-          "title": "n8nで「ランチ自動提案Bot」を作ってみた（Google Maps × Discord）",
-          "url": "https://qiita.com/wan-code/items/71b3c3188d19e2429ee0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "[Frontend Performance - Part 7] Long Task を分解する：なぜ50msがUXを壊すのか？",
+          "url": "https://qiita.com/tuanphan/items/ce891e246da988d07f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-23T18:56:20+09:00"
+          "date": "2026-04-24T12:18:16+09:00"
         },
         {
-          "title": "[Frontend Performance - Part 6] メインスレッドとブロッキング：なぜUIは止まるのか",
-          "url": "https://qiita.com/tuanphan/items/20fe25fc0cda3137dba2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "2025年スペイン大停電を読み解く。日本のVPPはどんな教訓を得られるのか？",
+          "url": "https://qiita.com/sc-muro/items/1e5b8f23ec912a5a9b73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-23T18:38:37+09:00"
+          "date": "2026-04-24T12:14:17+09:00"
+        },
+        {
+          "title": "Claude・Codex・Gemini の三者合議を /ccg で回す — 単一モデルの盲点を減らすマルチ AI 運用",
+          "url": "https://qiita.com/nogataka/items/3479e73256d308669b84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-24T11:46:40+09:00"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T07:37:52.282299+00:00",
+  "updated_at": "2026-04-24T08:43:10.895843+00:00",
   "count": 500,
   "items": [
     {
@@ -7,11 +7,33 @@
       "source": "hn",
       "title": "Composition Shouldn't be this Hard",
       "url": "https://www.cambra.dev/blog/announcement/",
-      "score": 3,
-      "comments": 0,
+      "score": 35,
+      "comments": 20,
       "author": "larelli",
       "tags": [],
       "date": "2026-04-24T07:22:31+00:00"
+    },
+    {
+      "id": "hn-47886517",
+      "source": "hn",
+      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+      "url": "https://ynarwal.github.io/how-llms-work/",
+      "score": 12,
+      "comments": 2,
+      "author": "ynarwal__",
+      "tags": [],
+      "date": "2026-04-24T06:48:53+00:00"
+    },
+    {
+      "id": "hn-47886272",
+      "source": "hn",
+      "title": "Show HN: Gova – The declarative GUI framework for Go",
+      "url": "https://github.com/NV404/gova",
+      "score": 14,
+      "comments": 1,
+      "author": "aliezsid",
+      "tags": [],
+      "date": "2026-04-24T06:16:47+00:00"
     },
     {
       "id": "qiita-19925ce2d2",
@@ -27,12 +49,23 @@
       "date": "2026-04-24T15:04:55+09:00"
     },
     {
+      "id": "hn-47885739",
+      "source": "hn",
+      "title": "Why Not Venus?",
+      "url": "https://mceglowski.substack.com/p/why-not-venus",
+      "score": 22,
+      "comments": 2,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-04-24T05:01:10+00:00"
+    },
+    {
       "id": "hn-47885668",
       "source": "hn",
       "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
       "url": "https://felixbarbalet.com/familiarity-is-the-enemy/",
-      "score": 26,
-      "comments": 9,
+      "score": 35,
+      "comments": 18,
       "author": "adityaathalye",
       "tags": [],
       "date": "2026-04-24T04:48:54+00:00"
@@ -42,22 +75,61 @@
       "source": "hn",
       "title": "Ubuntu 26.04",
       "url": "https://lwn.net/Articles/1069399/",
-      "score": 156,
-      "comments": 77,
+      "score": 181,
+      "comments": 94,
       "author": "lxst",
       "tags": [],
       "date": "2026-04-24T04:38:37+00:00"
+    },
+    {
+      "id": "qiita-152b174747",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "prisma migrate resolveを使ってRails+Prismaのマイグレーションを共存させる",
+      "url": "https://qiita.com/tatsuya582/items/fc215131805b7523c20b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tatsuya582",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T13:06:51+09:00"
     },
     {
       "id": "hn-47885377",
       "source": "hn",
       "title": "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
       "url": "https://www.nature.com/articles/s41467-026-71264-8",
-      "score": 111,
-      "comments": 44,
+      "score": 135,
+      "comments": 67,
       "author": "scubakid",
       "tags": [],
       "date": "2026-04-24T04:04:42+00:00"
+    },
+    {
+      "id": "qiita-90b0ff37a9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "[Frontend Performance - Part 7] Long Task を分解する：なぜ50msがUXを壊すのか？",
+      "url": "https://qiita.com/tuanphan/items/ce891e246da988d07f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tuanphan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T12:18:16+09:00"
+    },
+    {
+      "id": "qiita-5ddd78b9c3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "2025年スペイン大停電を読み解く。日本のVPPはどんな教訓を得られるのか？",
+      "url": "https://qiita.com/sc-muro/items/1e5b8f23ec912a5a9b73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sc-muro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T12:14:17+09:00"
     },
     {
       "id": "hn-47885042",
@@ -86,22 +158,74 @@
       "source": "hn",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/",
-      "score": 701,
-      "comments": 364,
+      "score": 837,
+      "comments": 492,
       "author": "impact_sy",
       "tags": [],
       "date": "2026-04-24T03:01:21+00:00"
+    },
+    {
+      "id": "qiita-ecaabce195",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude・Codex・Gemini の三者合議を /ccg で回す — 単一モデルの盲点を減らすマルチ AI 運用",
+      "url": "https://qiita.com/nogataka/items/3479e73256d308669b84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T11:46:40+09:00"
     },
     {
       "id": "hn-47884768",
       "source": "hn",
       "title": "Why I Write (1946)",
       "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-      "score": 139,
-      "comments": 26,
+      "score": 158,
+      "comments": 32,
       "author": "RyanShook",
       "tags": [],
       "date": "2026-04-24T02:26:23+00:00"
+    },
+    {
+      "id": "qiita-cc14955a3d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIがCTOみたいに計画から実装まで進めてくれた話",
+      "url": "https://qiita.com/KNR109/items/17aba9efc0de7ceff040?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "KNR109",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T10:29:35+09:00"
+    },
+    {
+      "id": "qiita-f01bdfce88",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "その“親切な設計”、たぶん無駄です  - エンジニアがハマる「やりすぎ問題」-",
+      "url": "https://qiita.com/prum_hitomi/items/f94803dd326ef7c3eb25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "prum_hitomi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T09:58:46+09:00"
+    },
+    {
+      "id": "qiita-5ef66a7009",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "QA事業部の勉強会コンテンツ情報",
+      "url": "https://qiita.com/s-kishi/items/a4840e6ce5e0b93acb6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "s-kishi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T08:34:21+09:00"
     },
     {
       "id": "qiita-42ee491604",
@@ -132,8 +256,8 @@
       "source": "hn",
       "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
       "url": "https://github.com/refactoringhq/tolaria",
-      "score": 179,
-      "comments": 68,
+      "score": 190,
+      "comments": 71,
       "author": "lucaronin",
       "tags": [],
       "date": "2026-04-23T22:01:59+00:00",
@@ -144,8 +268,8 @@
       "source": "hn",
       "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
       "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-      "score": 180,
-      "comments": 233,
+      "score": 212,
+      "comments": 259,
       "author": "nkrisc",
       "tags": [],
       "date": "2026-04-23T21:56:15+00:00",
@@ -156,8 +280,8 @@
       "source": "hn",
       "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
       "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
-      "score": 122,
-      "comments": 5,
+      "score": 132,
+      "comments": 9,
       "author": "mji",
       "tags": [],
       "date": "2026-04-23T20:53:27+00:00"
@@ -178,8 +302,8 @@
       "source": "hn",
       "title": "Using the internet like it's 1999",
       "url": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
-      "score": 145,
-      "comments": 94,
+      "score": 154,
+      "comments": 97,
       "author": "joshuablais",
       "tags": [],
       "date": "2026-04-23T20:14:29+00:00"
@@ -244,7 +368,7 @@
       "source": "hn",
       "title": "Astronomers find the edge of the Milky Way",
       "url": "https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/",
-      "score": 111,
+      "score": 120,
       "comments": 25,
       "author": "bookofjoe",
       "tags": [],
@@ -255,8 +379,8 @@
       "source": "hn",
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 1319,
-      "comments": 870,
+      "score": 1350,
+      "comments": 889,
       "author": "rd",
       "tags": [],
       "date": "2026-04-23T18:01:39+00:00"
@@ -266,8 +390,8 @@
       "source": "hn",
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 694,
-      "comments": 521,
+      "score": 721,
+      "comments": 533,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-04-23T17:48:38+00:00",
@@ -289,8 +413,8 @@
       "source": "hn",
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
       "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "score": 207,
-      "comments": 108,
+      "score": 216,
+      "comments": 111,
       "author": "wielebny",
       "tags": [],
       "date": "2026-04-23T16:55:13+00:00"
@@ -300,8 +424,8 @@
       "source": "hn",
       "title": "My phone replaced a brass plug",
       "url": "https://drobinin.com/posts/my-phone-replaced-a-brass-plug/",
-      "score": 121,
-      "comments": 23,
+      "score": 129,
+      "comments": 28,
       "author": "valzevul",
       "tags": [],
       "date": "2026-04-23T16:27:07+00:00"
@@ -366,8 +490,8 @@
       "source": "hn",
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 740,
-      "comments": 359,
+      "score": 748,
+      "comments": 365,
       "author": "tosh",
       "tags": [],
       "date": "2026-04-23T14:17:08+00:00"
@@ -377,8 +501,8 @@
       "source": "hn",
       "title": "UK Biobank health data keeps ending up on GitHub",
       "url": "https://biobank.rocher.lc",
-      "score": 110,
-      "comments": 27,
+      "score": 120,
+      "comments": 31,
       "author": "Cynddl",
       "tags": [],
       "date": "2026-04-23T13:58:03+00:00"
@@ -415,6 +539,19 @@
       "author": "tenphi",
       "tags": [],
       "date": "2026-04-23T12:37:18+00:00"
+    },
+    {
+      "id": "qiita-e06e05ca71",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI駆動開発の手法は分岐するが、本質は一点に収束する ― 現場で6週間議論して辿り着いた結論",
+      "url": "https://qiita.com/ko1-ino/items/ccc64ce6504c77100cfb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ko1-ino",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-23T21:23:32+09:00"
     },
     {
       "id": "hn-47874854",
@@ -454,8 +591,8 @@
       "source": "hn",
       "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
       "url": "https://github.com/russellromney/honker",
-      "score": 253,
-      "comments": 61,
+      "score": 256,
+      "comments": 62,
       "author": "russellthehippo",
       "tags": [],
       "date": "2026-04-23T11:53:11+00:00"
@@ -573,6 +710,19 @@
       "author": "jen729w",
       "tags": [],
       "date": "2026-04-23T04:40:31+00:00"
+    },
+    {
+      "id": "qiita-e8e4241eb7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "面接官を半年やって、\"評価する人\"をやめた話",
+      "url": "https://qiita.com/KoutaKawaguchi1101/items/d67e608d9ce9f1f5dd7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "KoutaKawaguchi1101",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-23T13:10:22+09:00"
     },
     {
       "id": "qiita-144fdd5ff3",
@@ -944,8 +1094,8 @@
       "source": "hn",
       "title": "Alberta startup sells no-tech tractors for half price",
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 2177,
-      "comments": 744,
+      "score": 2190,
+      "comments": 745,
       "author": "Kaibeezy",
       "tags": [],
       "date": "2026-04-22T16:29:25+00:00"
@@ -955,8 +1105,8 @@
       "source": "hn",
       "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
       "url": "https://github.com/Infisical/agent-vault",
-      "score": 103,
-      "comments": 32,
+      "score": 105,
+      "comments": 36,
       "author": "dangtony98",
       "tags": [],
       "date": "2026-04-22T16:25:28+00:00",
@@ -1987,8 +2137,8 @@
       "source": "hn",
       "title": "A programmable watch you can actually wear",
       "url": "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682",
-      "score": 174,
-      "comments": 81,
+      "score": 181,
+      "comments": 86,
       "author": "sarusso",
       "tags": [],
       "date": "2026-04-21T08:52:33+00:00"
@@ -5010,139 +5160,6 @@
       "date": "2026-04-18T15:10:23+09:00"
     },
     {
-      "id": "qiita-6e1d6855d6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "TypeScriptコンパイル時のオプションについて",
-      "url": "https://qiita.com/masayoshi0226/items/5b41b4c25ad67c18303c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "masayoshi0226",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-18T15:10:06+09:00"
-    },
-    {
-      "id": "qiita-4f127e8eba",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "XServer APIを使ってみた",
-      "url": "https://qiita.com/liher/items/0405ebd6921c1107fb3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "liher",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-18T14:57:46+09:00"
-    },
-    {
-      "id": "hn-47813454",
-      "source": "hn",
-      "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
-      "url": "https://runxiyu.org/comp/doubleslash/",
-      "score": 47,
-      "comments": 36,
-      "author": "pabs3",
-      "tags": [],
-      "date": "2026-04-18T05:47:10+00:00"
-    },
-    {
-      "id": "qiita-fb866ac640",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeでラッコツールズ風ツールを6機能実装して分かったこと",
-      "url": "https://qiita.com/aito1234/items/9650afd183ce0ea09e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "aito1234",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-18T14:43:06+09:00"
-    },
-    {
-      "id": "qiita-f9b28d06fc",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[C#] VSCode で dotnet run file.cs",
-      "url": "https://qiita.com/hqf00342/items/ee3dfbc07cdf0042ade4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hqf00342",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-18T14:31:04+09:00"
-    },
-    {
-      "id": "hn-47813223",
-      "source": "hn",
-      "title": "What the EU Battery Passport Means for Your Devices",
-      "url": "https://holdmybill.com/blog/eu-battery-passport-explained-2027",
-      "score": 14,
-      "comments": 1,
-      "author": "niksmac",
-      "tags": [],
-      "date": "2026-04-18T04:49:38+00:00"
-    },
-    {
-      "id": "qiita-2940ea9c70",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Designでポートフォリオサイトをリデザインしてみた: エンジニアが1時間程度で和モダン化",
-      "url": "https://qiita.com/rf_p/items/a8b5929c14367e9dc584?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "rf_p",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-18T13:24:06+09:00"
-    },
-    {
-      "id": "qiita-88af0f6a27",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "LMStudio で MLX版の Gemma 4 が動くようになったので軽く動作確認【ローカルLLM】",
-      "url": "https://qiita.com/youtoy/items/4afdcd73748cc7be766b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "youtoy",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-18T12:47:21+09:00"
-    },
-    {
-      "id": "hn-47812964",
-      "source": "hn",
-      "title": "Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG",
-      "url": "https://github.com/yapstudios/sfsym",
-      "score": 15,
-      "comments": 3,
-      "author": "olliewagner",
-      "tags": [],
-      "date": "2026-04-18T03:44:54+00:00"
-    },
-    {
-      "id": "hn-47812749",
-      "source": "hn",
-      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "url": "https://prismml.com/news/ternary-bonsai",
-      "score": 198,
-      "comments": 54,
-      "author": "nnx",
-      "tags": [],
-      "date": "2026-04-18T02:51:34+00:00"
-    },
-    {
-      "id": "hn-47812649",
-      "source": "hn",
-      "title": "Bodega cats of New York",
-      "url": "https://bodegacatsofnewyork.com",
-      "score": 193,
-      "comments": 77,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-04-18T02:26:57+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5155,17 +5172,6 @@
         "Release"
       ],
       "date": "2026-04-18T01:47:59Z"
-    },
-    {
-      "id": "hn-47812341",
-      "source": "hn",
-      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-      "url": "https://victorpoughon.github.io/interval-calculator/",
-      "score": 277,
-      "comments": 48,
-      "author": "fouronnes3",
-      "tags": [],
-      "date": "2026-04-18T01:15:43+00:00"
     },
     {
       "id": "ctf-3477546",
@@ -5377,6 +5383,19 @@
       "date": "Thu, 23 Apr 2026 22:30:26 GMT"
     },
     {
+      "id": "zenn-6641522536",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【超速報】エージェント、本番へ。Google Cloud Next '26 ラスベガス 1日目参加レポート",
+      "url": "https://zenn.dev/mbk_digital/articles/0b04152f08658f",
+      "score": null,
+      "author": "Kazuki Furuhata",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 23 Apr 2026 14:38:56 GMT"
+    },
+    {
       "id": "zenn-ee45b437ca",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5427,19 +5446,6 @@
         "Zenn"
       ],
       "date": "Thu, 23 Apr 2026 05:40:12 GMT"
-    },
-    {
-      "id": "zenn-383175a363",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "改善要望開発ワークフローをClaude Codeで構築する 〜Agentic Workflow実践事例〜",
-      "url": "https://zenn.dev/masarufuruya/articles/9e277188780755",
-      "score": null,
-      "author": "古家大 | EM | AI開発オペレーションマネージャー",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 23 Apr 2026 00:56:39 GMT"
     },
     {
       "id": "zenn-69b5370377",
