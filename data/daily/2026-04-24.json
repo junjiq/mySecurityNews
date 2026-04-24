@@ -1,8 +1,8 @@
 {
   "date": "2026-04-24",
-  "generated_at": "2026-04-24T03:06:43.736281+00:00",
-  "total_articles": 47,
-  "urgent_count": 1,
+  "generated_at": "2026-04-24T04:33:19.206912+00:00",
+  "total_articles": 48,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
@@ -10,17 +10,24 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-23T22:01:59+00:00"
+    },
+    {
+      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-23T21:56:15+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 44,
       "top_items": [
         {
           "title": "GPT-5.5",
           "url": "https://openai.com/index/introducing-gpt-5-5/",
-          "score": 1141,
+          "score": 1191,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T18:01:39+00:00"
@@ -36,7 +43,7 @@
         {
           "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
           "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-          "score": 667,
+          "score": 688,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T14:17:08+00:00"
@@ -44,7 +51,7 @@
         {
           "title": "An update on recent Claude Code quality reports",
           "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-          "score": 591,
+          "score": 611,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-23T17:48:38+00:00"
@@ -61,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 4,
       "top_items": [
         {
           "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
@@ -94,14 +101,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-23T15:41:00+09:00"
-        },
-        {
-          "title": "【2026年4月最新】Google Cloud 認定「全冠」達成まとめ 〜今だけ15冠〜",
-          "url": "https://qiita.com/tomokoro/items/eebc8142a85c80873028?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-23T13:03:39+09:00"
         }
       ]
     }
