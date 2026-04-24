@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "generated_at": "2026-04-24T09:35:26.652932+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-04-24T10:33:19.718759+00:00",
+  "total_articles": 55,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 45,
       "top_items": [
         {
           "title": "GPT-5.5",
           "url": "https://openai.com/index/introducing-gpt-5-5/",
-          "score": 1369,
+          "score": 1385,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T18:01:39+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "DeepSeek v4",
           "url": "https://api-docs.deepseek.com/",
-          "score": 925,
+          "score": 1001,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T03:01:21+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
           "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-          "score": 752,
+          "score": 761,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T14:17:08+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "An update on recent Claude Code quality reports",
           "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-          "score": 735,
+          "score": 747,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-23T17:48:38+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 10,
       "top_items": [
         {
           "title": "Oracle Exadata@AWS を作成してみてみた",
