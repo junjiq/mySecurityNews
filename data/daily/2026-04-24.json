@@ -1,7 +1,7 @@
 {
   "date": "2026-04-24",
-  "generated_at": "2026-04-24T05:49:11.753854+00:00",
-  "total_articles": 46,
+  "generated_at": "2026-04-24T06:41:29.085025+00:00",
+  "total_articles": 47,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "GPT-5.5",
           "url": "https://openai.com/index/introducing-gpt-5-5/",
-          "score": 1235,
+          "score": 1274,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T18:01:39+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
           "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-          "score": 707,
+          "score": 721,
           "source": "hn",
           "severity": null,
           "date": "2026-04-23T14:17:08+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "An update on recent Claude Code quality reports",
           "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-          "score": 635,
+          "score": 656,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-23T17:48:38+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "DeepSeek v4",
           "url": "https://api-docs.deepseek.com/",
-          "score": 431,
+          "score": 561,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T03:01:21+00:00"
@@ -70,6 +70,14 @@
       "category": "日本語技術記事",
       "count": 4,
       "top_items": [
+        {
+          "title": "Oracle Exadata@AWS を作成してみてみた",
+          "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-24T15:04:55+09:00"
+        },
         {
           "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
           "url": "https://qiita.com/ot12/items/06420caf41a34a910c53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -93,14 +101,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-23T18:38:37+09:00"
-        },
-        {
-          "title": "Oracle Exadata@AWS を作成してみてみた",
-          "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-23T15:41:00+09:00"
         }
       ]
     }
