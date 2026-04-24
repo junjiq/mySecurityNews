@@ -1,10 +1,10 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-24T11:27:03.347820+00:00",
+  "generated_at": "2026-04-24T11:51:21.752581+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 357,
-    "zennqiita": 93,
+    "hn": 358,
+    "zennqiita": 92,
     "project": 2
   },
   "severity_counts": {
@@ -30,7 +30,7 @@
     {
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 1396,
+      "score": 1403,
       "source": "hn",
       "date": "2026-04-23T18:01:39+00:00"
     },
@@ -49,18 +49,18 @@
       "date": "2026-04-20T13:41:25+00:00"
     },
     {
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/",
+      "score": 1108,
+      "source": "hn",
+      "date": "2026-04-24T03:01:21+00:00"
+    },
+    {
       "title": "Laws of Software Engineering",
       "url": "https://lawsofsoftwareengineering.com",
       "score": 1078,
       "source": "hn",
       "date": "2026-04-21T11:04:56+00:00"
-    },
-    {
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/",
-      "score": 1075,
-      "source": "hn",
-      "date": "2026-04-24T03:01:21+00:00"
     },
     {
       "title": "I am building a cloud",
@@ -119,6 +119,13 @@
       "date": "2026-04-19T14:14:38+00:00"
     },
     {
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "score": 779,
+      "source": "hn",
+      "date": "2026-04-23T14:17:08+00:00"
+    },
+    {
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
       "score": 774,
@@ -126,16 +133,9 @@
       "date": "2026-04-19T15:19:28+00:00"
     },
     {
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 770,
-      "source": "hn",
-      "date": "2026-04-23T14:17:08+00:00"
-    },
-    {
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 763,
+      "score": 767,
       "source": "hn",
       "date": "2026-04-23T17:48:38+00:00"
     },
