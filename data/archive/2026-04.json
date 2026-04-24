@@ -1,10 +1,10 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-24T13:33:54.274003+00:00",
+  "generated_at": "2026-04-24T14:35:30.838005+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 359,
-    "zennqiita": 91,
+    "hn": 360,
+    "zennqiita": 90,
     "project": 2
   },
   "severity_counts": {
@@ -30,9 +30,16 @@
     {
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 1427,
+      "score": 1447,
       "source": "hn",
       "date": "2026-04-23T18:01:39+00:00"
+    },
+    {
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/",
+      "score": 1364,
+      "source": "hn",
+      "date": "2026-04-24T03:01:21+00:00"
     },
     {
       "title": "Framework Laptop 13 Pro",
@@ -47,13 +54,6 @@
       "score": 1282,
       "source": "hn",
       "date": "2026-04-20T13:41:25+00:00"
-    },
-    {
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/",
-      "score": 1253,
-      "source": "hn",
-      "date": "2026-04-24T03:01:21+00:00"
     },
     {
       "title": "Laws of Software Engineering",
@@ -112,6 +112,13 @@
       "date": "2026-04-18T13:29:04+00:00"
     },
     {
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "score": 815,
+      "source": "hn",
+      "date": "2026-04-23T17:48:38+00:00"
+    },
+    {
       "title": "Vercel April 2026 security incident",
       "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
       "score": 814,
@@ -119,16 +126,9 @@
       "date": "2026-04-19T14:14:38+00:00"
     },
     {
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 799,
-      "source": "hn",
-      "date": "2026-04-23T17:48:38+00:00"
-    },
-    {
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 799,
+      "score": 810,
       "source": "hn",
       "date": "2026-04-23T14:17:08+00:00"
     },
