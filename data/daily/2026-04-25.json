@@ -1,22 +1,14 @@
 {
   "date": "2026-04-25",
-  "generated_at": "2026-04-25T01:35:08.552364+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-04-25T03:04:58.526842+00:00",
+  "total_articles": 63,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 54,
       "top_items": [
-        {
-          "title": "DeepSeek v4",
-          "url": "https://api-docs.deepseek.com/",
-          "score": 1807,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-24T03:01:21+00:00"
-        },
         {
           "title": "I cancelled Claude: Token issues, declining quality, and poor support",
           "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
@@ -28,10 +20,18 @@
         {
           "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
           "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-          "score": 352,
+          "score": 368,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T14:28:52+00:00"
+        },
+        {
+          "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
+          "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
+          "score": 315,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-24T10:48:14+00:00"
         },
         {
           "title": "Spinel: Ruby AOT Native Compiler",
@@ -42,18 +42,18 @@
           "date": "2026-04-24T08:28:47+00:00"
         },
         {
-          "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
-          "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-          "score": 302,
+          "title": "Ubuntu 26.04",
+          "url": "https://lwn.net/Articles/1069399/",
+          "score": 224,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-24T10:48:14+00:00"
+          "date": "2026-04-24T04:38:37+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 9,
       "top_items": [
         {
           "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
@@ -61,7 +61,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-25T10:30:04+09:00"
+          "date": "2026-04-25T10:44:00+09:00"
         },
         {
           "title": "n8n × MacroDroid × LINEで「今から帰る」をワンタップ通知する仕組みを作った",
