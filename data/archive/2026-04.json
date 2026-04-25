@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-25T14:46:13.962489+00:00",
+  "generated_at": "2026-04-25T15:16:16.964725+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 356,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 17,
+    "critical": 16,
     "medium": 3,
     "high": 2
   },
@@ -119,13 +119,6 @@
       "date": "2026-04-22T20:27:31+00:00"
     },
     {
-      "title": "Vercel April 2026 security incident",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "score": 814,
-      "source": "hn",
-      "date": "2026-04-19T14:14:38+00:00"
-    },
-    {
       "title": "5x5 Pixel font for tiny screens",
       "url": "https://maurycyz.com/projects/mcufont/",
       "score": 774,
@@ -152,6 +145,13 @@
       "score": 682,
       "source": "hn",
       "date": "2026-04-21T22:13:18+00:00"
+    },
+    {
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "score": 667,
+      "source": "hn",
+      "date": "2026-04-20T14:05:34+00:00"
     }
   ],
   "security_highlights": [
@@ -280,13 +280,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-04-19T15:04:45+00:00"
-    },
-    {
-      "title": "Vercel April 2026 security incident",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-19T14:14:38+00:00"
     }
   ]
 }
