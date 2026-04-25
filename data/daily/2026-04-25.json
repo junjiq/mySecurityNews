@@ -1,7 +1,7 @@
 {
   "date": "2026-04-25",
-  "generated_at": "2026-04-25T19:46:11.466305+00:00",
-  "total_articles": 39,
+  "generated_at": "2026-04-25T20:13:22.031216+00:00",
+  "total_articles": 50,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 32,
+      "count": 36,
       "top_items": [
         {
           "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
           "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-          "score": 469,
+          "score": 476,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T05:56:12+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Replace IBM Quantum back end with /dev/urandom",
           "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-          "score": 292,
+          "score": 299,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T00:58:38+00:00"
@@ -51,25 +51,33 @@
         {
           "title": "Plain text has been around for decades and it’s here to stay",
           "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-          "score": 226,
+          "score": 233,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T01:03:09+00:00"
         },
         {
-          "title": "Google to invest up to $40B in Anthropic in cash and compute",
-          "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-          "score": 169,
+          "title": "Niri 26.04: Scrollable-tiling Wayland compositor",
+          "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
+          "score": 173,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-24T20:00:30+00:00"
+          "date": "2026-04-25T15:59:15+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 14,
       "top_items": [
+        {
+          "title": "Claude CodeのVSCode拡張が使いやすいよ",
+          "url": "https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-26T00:39:30+09:00"
+        },
         {
           "title": "ProxmoxにTailscaleを入れたら全VMが見えてしまう話—外部アクセスとラテラルムーブメントのリスク",
           "url": "https://qiita.com/masa-555/items/889a597b92d213c7ac39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,36 +87,28 @@
           "date": "2026-04-25T22:49:48+09:00"
         },
         {
-          "title": "Claude Code は planner、Codex CLI は executor — 両方使って 3 ヶ月、役割分担で見えた実測",
-          "url": "https://qiita.com/nogataka/items/2668b9ca9d12f0bef1e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AI駆動開発で増えたMarkdownを快適に読むビューア「MarkShelf」を作った",
+          "url": "https://qiita.com/smi/items/ab0d3e9d61fb0297111a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-25T12:42:37+09:00"
+          "date": "2026-04-25T22:35:05+09:00"
         },
         {
-          "title": "Claude Code v2.1.88 以降のトークン爆発事件 \"Tokenocalypse\" を振り返る — FinOps 観点で防衛する 4 本柱",
-          "url": "https://qiita.com/nogataka/items/2807583298a82714ae43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "VOICEVOX EngineとLambda Web Adapterでサーバレスずんだもんを開発した話",
+          "url": "https://qiita.com/nasuvitz/items/7c5a21c55c449dde13aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-25T12:41:58+09:00"
+          "date": "2026-04-25T20:01:36+09:00"
         },
         {
-          "title": "同じ Issue を Claude・Codex・Gemini に同時に解かせるとどうなるか — git worktree × tmux で衝突しない並列 AI 開発",
-          "url": "https://qiita.com/nogataka/items/1156e2d3a40c4dab3398?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "GitHub Copilot SKILLでユーザー入力を活用する方法 〜インタラクティブなAIエージェントの作り方〜",
+          "url": "https://qiita.com/shahin0809/items/6f1c56549a992b00ea89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-25T12:41:37+09:00"
-        },
-        {
-          "title": "gpt-image-2でUIを量産する実務プロンプトテンプレート集：ダッシュボード／LP／モバイル／ロゴ／スライドの5パターン",
-          "url": "https://qiita.com/nogataka/items/fed4cba1439d0073f2d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-25T11:54:24+09:00"
+          "date": "2026-04-25T18:05:13+09:00"
         }
       ]
     }
