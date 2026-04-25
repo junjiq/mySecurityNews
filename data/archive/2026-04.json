@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-25T12:47:56.406442+00:00",
+  "generated_at": "2026-04-25T13:29:54.441634+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 355,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 17,
     "medium": 3,
     "high": 2
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "url": "https://github.com/MartinGalway/C64_music",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-25T10:46:14+00:00"
+    },
     {
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
       "url": "https://alash3al.github.io/stash?_v01",
