@@ -1,7 +1,7 @@
 {
   "date": "2026-04-25",
-  "generated_at": "2026-04-25T15:45:45.011665+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-04-25T16:14:26.568867+00:00",
+  "total_articles": 49,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,20 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 42,
       "top_items": [
-        {
-          "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-          "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-          "score": 773,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-24T15:59:19+00:00"
-        },
         {
           "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
           "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-          "score": 383,
+          "score": 393,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T05:56:12+00:00"
@@ -51,7 +43,7 @@
         {
           "title": "My audio interface has SSH enabled by default",
           "url": "https://hhh.hn/rodecaster-duo-fw/",
-          "score": 285,
+          "score": 286,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T19:30:46+00:00"
@@ -63,6 +55,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T01:47:33+00:00"
+        },
+        {
+          "title": "Replace IBM Quantum back end with /dev/urandom",
+          "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+          "score": 252,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-25T00:58:38+00:00"
         }
       ]
     },
