@@ -1,25 +1,49 @@
 {
-  "updated_at": "2026-04-25T13:29:54.341671+00:00",
+  "updated_at": "2026-04-25T13:55:35.728406+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-9f15d1e94e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ProxmoxにTailscaleを入れたら全VMが見えてしまう話—外部アクセスとラテラルムーブメントのリスク",
+      "url": "https://qiita.com/masa-555/items/889a597b92d213c7ac39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "masa-555",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-25T22:49:48+09:00"
+    },
     {
       "id": "hn-47900506",
       "source": "hn",
       "title": "Lambda Calculus Benchmark for AI",
       "url": "https://victortaelin.github.io/lambench/",
-      "score": 21,
-      "comments": 3,
+      "score": 30,
+      "comments": 10,
       "author": "marvinborner",
       "tags": [],
       "date": "2026-04-25T11:16:23+00:00"
+    },
+    {
+      "id": "hn-47900451",
+      "source": "hn",
+      "title": "Only One Side Will Be the True Successor to MS-DOS – Windows 2.x",
+      "url": "https://blisscast.wordpress.com/2026/04/21/windows-2-gui-wonderland-12a/",
+      "score": 12,
+      "comments": 2,
+      "author": "keepamovin",
+      "tags": [],
+      "date": "2026-04-25T11:03:15+00:00"
     },
     {
       "id": "hn-47900440",
       "source": "hn",
       "title": "A web-based RDP client built with Go WebAssembly and grdp",
       "url": "https://github.com/nakagami/grdpwasm",
-      "score": 19,
-      "comments": 5,
+      "score": 26,
+      "comments": 8,
       "author": "mariuz",
       "tags": [],
       "date": "2026-04-25T10:59:29+00:00"
@@ -29,8 +53,8 @@
       "source": "hn",
       "title": "Martin Galway's music source files from 1980's Commodore 64 games",
       "url": "https://github.com/MartinGalway/C64_music",
-      "score": 22,
-      "comments": 2,
+      "score": 33,
+      "comments": 5,
       "author": "ingve",
       "tags": [],
       "date": "2026-04-25T10:46:14+00:00",
@@ -41,8 +65,8 @@
       "source": "hn",
       "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
       "url": "https://github.com/nex-crm/wuphf",
-      "score": 124,
-      "comments": 57,
+      "score": 127,
+      "comments": 61,
       "author": "najmuzzaman",
       "tags": [],
       "date": "2026-04-25T08:53:53+00:00"
@@ -63,8 +87,8 @@
       "source": "hn",
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 309,
-      "comments": 151,
+      "score": 321,
+      "comments": 163,
       "author": "calcifer",
       "tags": [],
       "date": "2026-04-25T05:56:12+00:00"
@@ -101,19 +125,6 @@
       "author": "andsoitis",
       "tags": [],
       "date": "2026-04-25T04:18:01+00:00"
-    },
-    {
-      "id": "qiita-9f15d1e94e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ProxmoxにTailscaleを入れたら全VMが見えてしまう話—外部アクセスとラテラルムーブメントのリスク",
-      "url": "https://qiita.com/masa-555/items/889a597b92d213c7ac39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "masa-555",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-25T12:59:30+09:00"
     },
     {
       "id": "qiita-7ea2878fde",
@@ -196,8 +207,8 @@
       "source": "hn",
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
       "url": "https://alash3al.github.io/stash?_v01",
-      "score": 89,
-      "comments": 42,
+      "score": 95,
+      "comments": 44,
       "author": "alash3al",
       "tags": [],
       "date": "2026-04-25T01:24:40+00:00",
@@ -208,7 +219,7 @@
       "source": "hn",
       "title": "Cosmology with Geometry Nodes",
       "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
-      "score": 82,
+      "score": 85,
       "comments": 1,
       "author": "shankysingh",
       "tags": [],
@@ -219,8 +230,8 @@
       "source": "hn",
       "title": "Plain text has been around for decades and it’s here to stay",
       "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "score": 152,
-      "comments": 63,
+      "score": 162,
+      "comments": 66,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-04-25T01:03:09+00:00"
@@ -230,8 +241,8 @@
       "source": "hn",
       "title": "Replace IBM Quantum back end with /dev/urandom",
       "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 213,
-      "comments": 30,
+      "score": 216,
+      "comments": 32,
       "author": "pigeons",
       "tags": [],
       "date": "2026-04-25T00:58:38+00:00"
@@ -254,8 +265,8 @@
       "source": "hn",
       "title": "Education must go beyond the mere production of words",
       "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
-      "score": 87,
-      "comments": 35,
+      "score": 90,
+      "comments": 38,
       "author": "signor_bosco",
       "tags": [],
       "date": "2026-04-25T00:11:43+00:00"
@@ -331,7 +342,7 @@
       "source": "hn",
       "title": "My audio interface has SSH enabled by default",
       "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "score": 272,
+      "score": 273,
       "comments": 83,
       "author": "hhh",
       "tags": [],
@@ -420,8 +431,8 @@
       "source": "hn",
       "title": "There Will Be a Scientific Theory of Deep Learning",
       "url": "https://arxiv.org/abs/2604.21691",
-      "score": 283,
-      "comments": 119,
+      "score": 285,
+      "comments": 120,
       "author": "jamie-simon",
       "tags": [],
       "date": "2026-04-24T18:06:05+00:00"
@@ -553,7 +564,7 @@
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
       "score": 469,
-      "comments": 112,
+      "comments": 113,
       "author": "alcazar",
       "tags": [],
       "date": "2026-04-24T14:28:52+00:00"
@@ -1954,8 +1965,8 @@
       "source": "hn",
       "title": "PCR is a surprisingly near-optimal technology",
       "url": "https://nikomc.com/2026/04/22/pcr/",
-      "score": 55,
-      "comments": 6,
+      "score": 59,
+      "comments": 7,
       "author": "mailyk",
       "tags": [],
       "date": "2026-04-22T16:57:35+00:00"
@@ -2102,8 +2113,8 @@
       "source": "hn",
       "title": "Iliad fragment found in Roman-era mummy",
       "url": "https://www.thehistoryblog.com/archives/75877",
-      "score": 202,
-      "comments": 64,
+      "score": 206,
+      "comments": 66,
       "author": "wise_blood",
       "tags": [],
       "date": "2026-04-22T14:18:35+00:00"
@@ -2124,8 +2135,8 @@
       "source": "hn",
       "title": "1-Bit Hokusai's \"The Great Wave\"",
       "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "score": 41,
-      "comments": 4,
+      "score": 88,
+      "comments": 8,
       "author": "stephen-hill",
       "tags": [],
       "date": "2026-04-22T13:46:23+00:00"
@@ -2214,7 +2225,7 @@
       "source": "hn",
       "title": "A 3D Body from Eight Questions – No Photo, No GPU",
       "url": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "score": 97,
+      "score": 101,
       "comments": 17,
       "author": "arkadiuss",
       "tags": [],
@@ -2450,8 +2461,8 @@
       "source": "hn",
       "title": "A Man Who Invented the Future",
       "url": "https://hedgehogreview.com/web-features/thr/posts/the-man-who-invented-the-future",
-      "score": 22,
-      "comments": 7,
+      "score": 32,
+      "comments": 8,
       "author": "apollinaire",
       "tags": [],
       "date": "2026-04-22T05:44:27+00:00"
@@ -2461,8 +2472,8 @@
       "source": "hn",
       "title": "Panipat: The Rise of the Mughals",
       "url": "https://www.historytoday.com/archive/feature/panipat-rise-mughals",
-      "score": 5,
-      "comments": 1,
+      "score": 14,
+      "comments": 6,
       "author": "Thevet",
       "tags": [],
       "date": "2026-04-22T05:38:53+00:00"
@@ -2496,7 +2507,7 @@
       "source": "hn",
       "title": "Paraloid B-72",
       "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "score": 226,
+      "score": 231,
       "comments": 41,
       "author": "Ariarule",
       "tags": [],
@@ -2520,8 +2531,8 @@
       "source": "hn",
       "title": "Humpback whales are forming super-groups",
       "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "score": 145,
-      "comments": 74,
+      "score": 148,
+      "comments": 77,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-04-22T02:55:49+00:00"
@@ -2566,8 +2577,8 @@
       "source": "hn",
       "title": "How to Implement an FPS Counter",
       "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
-      "score": 62,
-      "comments": 11,
+      "score": 71,
+      "comments": 13,
       "author": "vplesko",
       "tags": [],
       "date": "2026-04-22T01:31:17+00:00"
@@ -2938,7 +2949,7 @@
       "source": "hn",
       "title": "The mail sent to a video game publisher",
       "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
-      "score": 73,
+      "score": 76,
       "comments": 1,
       "author": "colinprince",
       "tags": [],
@@ -5150,19 +5161,6 @@
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-04-19T14:05:49+00:00"
-    },
-    {
-      "id": "qiita-1afd591d76",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【2026年4月更新】Claude Codeの役に立つフロントデザインのskills10選",
-      "url": "https://qiita.com/kamome_susume/items/41300417840aa107472e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kamome_susume",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-19T22:35:42+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
