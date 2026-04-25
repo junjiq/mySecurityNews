@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-25T06:55:50.582056+00:00",
+  "generated_at": "2026-04-25T07:32:46.232714+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 365,
@@ -8,8 +8,8 @@
     "project": 2
   },
   "severity_counts": {
+    "critical": 16,
     "medium": 3,
-    "critical": 15,
     "high": 2
   },
   "top_articles": [
@@ -30,7 +30,7 @@
     {
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
-      "score": 1877,
+      "score": 1880,
       "source": "hn",
       "date": "2026-04-24T03:01:21+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "url": "https://alash3al.github.io/stash?_v01",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-25T01:24:40+00:00"
+    },
     {
       "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
       "url": "https://github.com/refactoringhq/tolaria",

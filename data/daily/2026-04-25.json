@@ -1,9 +1,17 @@
 {
   "date": "2026-04-25",
-  "generated_at": "2026-04-25T06:55:50.541436+00:00",
+  "generated_at": "2026-04-25T07:32:46.137171+00:00",
   "total_articles": 55,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+      "url": "https://alash3al.github.io/stash?_v01",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-25T01:24:40+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
@@ -20,7 +28,7 @@
         {
           "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
           "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-          "score": 407,
+          "score": 411,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T14:28:52+00:00"
@@ -44,7 +52,7 @@
         {
           "title": "My audio interface has SSH enabled by default",
           "url": "https://hhh.hn/rodecaster-duo-fw/",
-          "score": 216,
+          "score": 224,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T19:30:46+00:00"
