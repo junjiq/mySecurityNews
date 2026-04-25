@@ -1,7 +1,7 @@
 {
   "date": "2026-04-25",
-  "generated_at": "2026-04-25T08:21:48.957346+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-04-25T08:47:18.469928+00:00",
+  "total_articles": 59,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 51,
       "top_items": [
         {
           "title": "I cancelled Claude: Token issues, declining quality, and poor support",
@@ -28,7 +28,7 @@
         {
           "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
           "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-          "score": 418,
+          "score": 422,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T14:28:52+00:00"
@@ -42,26 +42,26 @@
           "date": "2026-04-24T10:48:14+00:00"
         },
         {
-          "title": "Spinel: Ruby AOT Native Compiler",
-          "url": "https://github.com/matz/spinel",
-          "score": 310,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-24T08:28:47+00:00"
-        },
-        {
           "title": "My audio interface has SSH enabled by default",
           "url": "https://hhh.hn/rodecaster-duo-fw/",
-          "score": 231,
+          "score": 236,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T19:30:46+00:00"
+        },
+        {
+          "title": "There Will Be a Scientific Theory of Deep Learning",
+          "url": "https://arxiv.org/abs/2604.21691",
+          "score": 223,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-24T18:06:05+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "ProxmoxにTailscaleを入れたら全VMが見えてしまう話—外部アクセスとラテラルムーブメントのリスク",
