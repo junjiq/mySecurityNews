@@ -1,18 +1,18 @@
 {
   "date": "2026-04-25",
-  "generated_at": "2026-04-25T00:30:31.502867+00:00",
+  "generated_at": "2026-04-25T01:35:08.552364+00:00",
   "total_articles": 64,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 53,
       "top_items": [
         {
           "title": "DeepSeek v4",
           "url": "https://api-docs.deepseek.com/",
-          "score": 1787,
+          "score": 1807,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T03:01:21+00:00"
@@ -20,7 +20,7 @@
         {
           "title": "I cancelled Claude: Token issues, declining quality, and poor support",
           "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-          "score": 751,
+          "score": 773,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T15:59:19+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
           "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-          "score": 348,
+          "score": 352,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T14:28:52+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "Spinel: Ruby AOT Native Compiler",
           "url": "https://github.com/matz/spinel",
-          "score": 304,
+          "score": 310,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T08:28:47+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
           "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-          "score": 292,
+          "score": 302,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T10:48:14+00:00"
@@ -53,8 +53,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
+        {
+          "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
+          "url": "https://qiita.com/ot12/items/06420caf41a34a910c53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-25T10:30:04+09:00"
+        },
         {
           "title": "n8n × MacroDroid × LINEで「今から帰る」をワンタップ通知する仕組みを作った",
           "url": "https://qiita.com/wan-code/items/e83414089713891df1a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-24T15:10:29+09:00"
-        },
-        {
-          "title": "Oracle Exadata@AWS を作成してみてみた",
-          "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-24T15:04:55+09:00"
         }
       ]
     }
