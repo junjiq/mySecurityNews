@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T07:32:45.965210+00:00",
+  "updated_at": "2026-04-25T08:21:48.898865+00:00",
   "count": 500,
   "items": [
     {
@@ -7,8 +7,8 @@
       "source": "hn",
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 36,
-      "comments": 8,
+      "score": 91,
+      "comments": 22,
       "author": "calcifer",
       "tags": [],
       "date": "2026-04-25T05:56:12+00:00"
@@ -40,19 +40,84 @@
       "source": "hn",
       "title": "Turbo Vision 2.0 – a modern port",
       "url": "https://github.com/magiblot/tvision",
-      "score": 88,
-      "comments": 15,
+      "score": 99,
+      "comments": 19,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-04-25T04:18:01+00:00"
+    },
+    {
+      "id": "qiita-9f15d1e94e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ProxmoxにTailscaleを入れたら全VMが見えてしまう話—外部アクセスとラテラルムーブメントのリスク",
+      "url": "https://qiita.com/masa-555/items/889a597b92d213c7ac39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "masa-555",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-25T12:59:30+09:00"
+    },
+    {
+      "id": "qiita-7ea2878fde",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code は planner、Codex CLI は executor — 両方使って 3 ヶ月、役割分担で見えた実測",
+      "url": "https://qiita.com/nogataka/items/2668b9ca9d12f0bef1e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-25T12:42:37+09:00"
+    },
+    {
+      "id": "qiita-34807e386b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code v2.1.88 以降のトークン爆発事件 \"Tokenocalypse\" を振り返る — FinOps 観点で防衛する 4 本柱",
+      "url": "https://qiita.com/nogataka/items/2807583298a82714ae43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-25T12:41:58+09:00"
+    },
+    {
+      "id": "qiita-50b061d83c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "同じ Issue を Claude・Codex・Gemini に同時に解かせるとどうなるか — git worktree × tmux で衝突しない並列 AI 開発",
+      "url": "https://qiita.com/nogataka/items/1156e2d3a40c4dab3398?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-25T12:41:37+09:00"
+    },
+    {
+      "id": "qiita-758e22ce8b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "gpt-image-2でUIを量産する実務プロンプトテンプレート集：ダッシュボード／LP／モバイル／ロゴ／スライドの5パターン",
+      "url": "https://qiita.com/nogataka/items/fed4cba1439d0073f2d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-25T11:54:24+09:00"
     },
     {
       "id": "hn-47897891",
       "source": "hn",
       "title": "Firefox Has Integrated Brave's Adblock Engine",
       "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "score": 170,
-      "comments": 78,
+      "score": 189,
+      "comments": 93,
       "author": "nreece",
       "tags": [],
       "date": "2026-04-25T01:47:33+00:00"
@@ -75,8 +140,8 @@
       "source": "hn",
       "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
       "url": "https://alash3al.github.io/stash?_v01",
-      "score": 21,
-      "comments": 3,
+      "score": 24,
+      "comments": 6,
       "author": "alash3al",
       "tags": [],
       "date": "2026-04-25T01:24:40+00:00",
@@ -87,7 +152,7 @@
       "source": "hn",
       "title": "(Blender) Cosmology with Geometry Nodes",
       "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
-      "score": 42,
+      "score": 46,
       "comments": 1,
       "author": "shankysingh",
       "tags": [],
@@ -98,8 +163,8 @@
       "source": "hn",
       "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
       "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "score": 63,
-      "comments": 9,
+      "score": 76,
+      "comments": 15,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-04-25T01:03:09+00:00"
@@ -109,19 +174,32 @@
       "source": "hn",
       "title": "Replace IBM Quantum back end with /dev/urandom",
       "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 124,
+      "score": 136,
       "comments": 16,
       "author": "pigeons",
       "tags": [],
       "date": "2026-04-25T00:58:38+00:00"
     },
     {
+      "id": "qiita-b3c8fe0197",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "2026/04/25 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/f1d42df1886c13239f59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ennagara128",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-25T09:44:11+09:00"
+    },
+    {
       "id": "hn-47897349",
       "source": "hn",
       "title": "Education must go beyond the mere production of words",
       "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
-      "score": 51,
-      "comments": 15,
+      "score": 54,
+      "comments": 16,
       "author": "signor_bosco",
       "tags": [],
       "date": "2026-04-25T00:11:43+00:00"
@@ -142,8 +220,8 @@
       "source": "hn",
       "title": "Show HN: I've built a nice home server OS",
       "url": "https://lightwhale.asklandd.dk/",
-      "score": 107,
-      "comments": 44,
+      "score": 112,
+      "comments": 45,
       "author": "Zta77",
       "tags": [],
       "date": "2026-04-24T21:42:26+00:00"
@@ -197,8 +275,8 @@
       "source": "hn",
       "title": "My audio interface has SSH enabled by default",
       "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "score": 224,
-      "comments": 74,
+      "score": 231,
+      "comments": 76,
       "author": "hhh",
       "tags": [],
       "date": "2026-04-24T19:30:46+00:00"
@@ -242,8 +320,8 @@
       "source": "hn",
       "title": "The Classic American Diner",
       "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "score": 204,
-      "comments": 125,
+      "score": 214,
+      "comments": 128,
       "author": "NaOH",
       "tags": [],
       "date": "2026-04-24T19:01:09+00:00"
@@ -286,8 +364,8 @@
       "source": "hn",
       "title": "There Will Be a Scientific Theory of Deep Learning",
       "url": "https://arxiv.org/abs/2604.21691",
-      "score": 205,
-      "comments": 82,
+      "score": 216,
+      "comments": 93,
       "author": "jamie-simon",
       "tags": [],
       "date": "2026-04-24T18:06:05+00:00"
@@ -418,7 +496,7 @@
       "source": "hn",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 411,
+      "score": 418,
       "comments": 106,
       "author": "alcazar",
       "tags": [],
@@ -651,6 +729,19 @@
       "date": "2026-04-24T15:42:18+09:00"
     },
     {
+      "id": "qiita-325fba768b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Power Automate でSharePoint Lists を日時で絞り込む方法（UTC・時間範囲対応）",
+      "url": "https://qiita.com/YurimyMiyu/items/10a63accb0f8a31c249b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "YurimyMiyu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T15:34:06+09:00"
+    },
+    {
       "id": "hn-47886272",
       "source": "hn",
       "title": "Show HN: Gova – The declarative GUI framework for Go",
@@ -686,6 +777,32 @@
         "Qiita"
       ],
       "date": "2026-04-24T15:04:55+09:00"
+    },
+    {
+      "id": "qiita-a59a51efe7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "WSL2からWindowsのブラウザやネイティブアプリをシームレスに起動する(xdg-open / wslu の活用)",
+      "url": "https://qiita.com/mfunaki/items/37dca9fdb5db427dfd7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mfunaki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T14:48:32+09:00"
+    },
+    {
+      "id": "qiita-cc4d318d46",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "GitHub Copilot のコミュニティを立ち上げました！Gh-CUG 爆誕と初回イベント公開のお知らせ",
+      "url": "https://qiita.com/aktsmm/items/ccdeb1d85384f57f93a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "aktsmm",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T14:14:15+09:00"
     },
     {
       "id": "hn-47885739",
@@ -797,8 +914,8 @@
       "source": "hn",
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
-      "score": 1880,
-      "comments": 1467,
+      "score": 1888,
+      "comments": 1472,
       "author": "impact_sy",
       "tags": [],
       "date": "2026-04-24T03:01:21+00:00"
@@ -1114,6 +1231,19 @@
       "date": "2026-04-23T15:59:55+00:00"
     },
     {
+      "id": "qiita-bc3c375dcd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "知らないとヤバい😱 コードレビューしてもらえる最強ツール! CodeRabbitの導入法",
+      "url": "https://qiita.com/Hashimoto-Noriaki/items/f1eab565027d84bc9b0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Hashimoto-Noriaki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-24T00:36:09+09:00"
+    },
+    {
       "id": "hn-47876647",
       "source": "hn",
       "title": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
@@ -1322,7 +1452,7 @@
       "source": "hn",
       "title": "Email could have been X.400 times better",
       "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "score": 165,
+      "score": 168,
       "comments": 148,
       "author": "maguay",
       "tags": [],
@@ -1366,8 +1496,8 @@
       "source": "hn",
       "title": "MacBook Neo and how the iPad should be",
       "url": "https://craigmod.com/essays/ipad_neo/",
-      "score": 253,
-      "comments": 141,
+      "score": 264,
+      "comments": 146,
       "author": "jen729w",
       "tags": [],
       "date": "2026-04-23T04:40:31+00:00"
@@ -1480,6 +1610,19 @@
       "author": "maxloh",
       "tags": [],
       "date": "2026-04-23T01:59:08+00:00"
+    },
+    {
+      "id": "qiita-ce1f83e619",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code Skills 実装パターン10選 — 業務をスキル化するときの設計判断と落とし穴",
+      "url": "https://qiita.com/ennagara128/items/71abb80697cdc826229c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ennagara128",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-23T10:56:53+09:00"
     },
     {
       "id": "qiita-7745258f5e",
@@ -1762,6 +1905,19 @@
       "date": "2026-04-22T16:57:35+00:00"
     },
     {
+      "id": "qiita-14ae7e80d6",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Anthropic公式「skill-creator」完全活用ガイド — SKILL.md設計・eval最適化・チーム運用・トラブルシューティングまで全部入り",
+      "url": "https://qiita.com/TaichiEndoh/items/8b8ed06bb76a80bb34c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "TaichiEndoh",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-23T01:44:03+09:00"
+    },
+    {
       "id": "hn-47865868",
       "source": "hn",
       "title": "Alberta startup sells no-tech tractors for half price",
@@ -1816,6 +1972,17 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-04-22T16:00:01+00:00"
+    },
+    {
+      "id": "hn-47865283",
+      "source": "hn",
+      "title": "A Powerful New 'QR Code' Untangles Math's Knottiest Knots",
+      "url": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
+      "score": 6,
+      "comments": 0,
+      "author": "defrost",
+      "tags": [],
+      "date": "2026-04-22T15:46:12+00:00"
     },
     {
       "id": "hn-47864808",
@@ -1879,8 +2046,8 @@
       "source": "hn",
       "title": "Iliad fragment found in Roman-era mummy",
       "url": "https://www.thehistoryblog.com/archives/75877",
-      "score": 160,
-      "comments": 47,
+      "score": 168,
+      "comments": 48,
       "author": "wise_blood",
       "tags": [],
       "date": "2026-04-22T14:18:35+00:00"
@@ -1969,8 +2136,8 @@
       "source": "hn",
       "title": "A 3D Body from Eight Questions – No Photo, No GPU",
       "url": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "score": 36,
-      "comments": 6,
+      "score": 43,
+      "comments": 7,
       "author": "arkadiuss",
       "tags": [],
       "date": "2026-04-22T12:20:01+00:00"
@@ -2229,8 +2396,8 @@
       "source": "hn",
       "title": "Paraloid B-72",
       "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "score": 153,
-      "comments": 23,
+      "score": 167,
+      "comments": 24,
       "author": "Ariarule",
       "tags": [],
       "date": "2026-04-22T04:17:07+00:00"
@@ -2253,8 +2420,8 @@
       "source": "hn",
       "title": "Humpback whales are forming super-groups",
       "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "score": 86,
-      "comments": 41,
+      "score": 93,
+      "comments": 43,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-04-22T02:55:49+00:00"
@@ -2550,8 +2717,8 @@
       "source": "hn",
       "title": "Work with the garage door up (2024)",
       "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
-      "score": 152,
-      "comments": 112,
+      "score": 154,
+      "comments": 113,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-04-21T17:13:29+00:00"
@@ -2572,8 +2739,8 @@
       "source": "hn",
       "title": "You don't want long-lived keys",
       "url": "https://argemma.com/blog/long-lived-keys/",
-      "score": 49,
-      "comments": 31,
+      "score": 53,
+      "comments": 34,
       "author": "kkl",
       "tags": [],
       "date": "2026-04-21T16:55:04+00:00"
@@ -2660,7 +2827,7 @@
       "source": "hn",
       "title": "The mail sent to a video game publisher",
       "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
-      "score": 3,
+      "score": 18,
       "comments": 0,
       "author": "colinprince",
       "tags": [],
@@ -4997,151 +5164,6 @@
       "author": "teamchong",
       "tags": [],
       "date": "2026-04-19T11:17:27+00:00"
-    },
-    {
-      "id": "qiita-bbc784d698",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "個人開発者がClaude Codeで気をつけたい3つのセキュリティ事故 — CLAUDE.mdで防ぐ実践パターン",
-      "url": "https://qiita.com/ennagara128/items/835b1870f8d1d5fe0b14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ennagara128",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-19T20:09:30+09:00"
-    },
-    {
-      "id": "hn-47823365",
-      "source": "hn",
-      "title": "Clojure: Transducers",
-      "url": "https://clojure.org/reference/transducers",
-      "score": 120,
-      "comments": 50,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-04-19T10:56:20+00:00"
-    },
-    {
-      "id": "hn-47823362",
-      "source": "hn",
-      "title": "Why Zip drives dominated the 90s, then vanished almost overnight",
-      "url": "https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/",
-      "score": 29,
-      "comments": 26,
-      "author": "naves",
-      "tags": [],
-      "date": "2026-04-19T10:55:38+00:00"
-    },
-    {
-      "id": "hn-47823270",
-      "source": "hn",
-      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-      "score": 332,
-      "comments": 184,
-      "author": "pretext",
-      "tags": [],
-      "date": "2026-04-19T10:36:29+00:00"
-    },
-    {
-      "id": "hn-47823179",
-      "source": "hn",
-      "title": "In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition",
-      "url": "https://electrek.co/2026/04/18/in-the-uk-evs-are-cheaper-than-petrol-cars-thanks-to-chinese-competition/",
-      "score": 125,
-      "comments": 105,
-      "author": "breve",
-      "tags": [],
-      "date": "2026-04-19T10:15:41+00:00"
-    },
-    {
-      "id": "hn-47823153",
-      "source": "hn",
-      "title": "The Work Runs on Different Maps",
-      "url": "https://yusufaytas.com/the-work-runs-on-different-maps",
-      "score": 27,
-      "comments": 1,
-      "author": "yusufaytas",
-      "tags": [],
-      "date": "2026-04-19T10:09:56+00:00"
-    },
-    {
-      "id": "hn-47823135",
-      "source": "hn",
-      "title": "Tim Davis – Probabilistic engineering and the 24-7 employee",
-      "url": "https://www.timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee",
-      "score": 31,
-      "comments": 12,
-      "author": "kiyanwang",
-      "tags": [],
-      "date": "2026-04-19T10:03:01+00:00"
-    },
-    {
-      "id": "hn-47823080",
-      "source": "hn",
-      "title": "Anatomy of High-Performance Matrix Multiplication (2008) [pdf]",
-      "url": "https://www.cs.utexas.edu/~flame/pubs/GotoTOMS_revision.pdf",
-      "score": 14,
-      "comments": 0,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-04-19T09:50:44+00:00"
-    },
-    {
-      "id": "hn-47822978",
-      "source": "hn",
-      "title": "Edit store price tags using Flipper Zero",
-      "url": "https://github.com/i12bp8/TagTinker",
-      "score": 344,
-      "comments": 314,
-      "author": "trueduke",
-      "tags": [],
-      "date": "2026-04-19T09:26:04+00:00"
-    },
-    {
-      "id": "hn-47822805",
-      "source": "hn",
-      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-      "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-      "score": 159,
-      "comments": 67,
-      "author": "Eridanus2",
-      "tags": [],
-      "date": "2026-04-19T08:45:48+00:00"
-    },
-    {
-      "id": "hn-47822783",
-      "source": "hn",
-      "title": "Monitor your Pi / OMP sessions",
-      "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard",
-      "score": 14,
-      "comments": 1,
-      "author": "ankitg12",
-      "tags": [],
-      "date": "2026-04-19T08:42:09+00:00"
-    },
-    {
-      "id": "hn-47822742",
-      "source": "hn",
-      "title": "The purist's guide to phở in Hanoi",
-      "url": "https://connla.substack.com/p/pho-in-hanoi-a-purists-guide",
-      "score": 72,
-      "comments": 25,
-      "author": "vinhnx",
-      "tags": [],
-      "date": "2026-04-19T08:34:10+00:00"
-    },
-    {
-      "id": "hn-47822737",
-      "source": "hn",
-      "title": "Binary GCD",
-      "url": "https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd",
-      "score": 62,
-      "comments": 1,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-04-19T08:33:38+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

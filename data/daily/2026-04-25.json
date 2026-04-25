@@ -1,7 +1,7 @@
 {
   "date": "2026-04-25",
-  "generated_at": "2026-04-25T07:32:46.137171+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-04-25T08:21:48.957346+00:00",
+  "total_articles": 61,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -28,7 +28,7 @@
         {
           "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
           "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-          "score": 411,
+          "score": 418,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T14:28:52+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "My audio interface has SSH enabled by default",
           "url": "https://hhh.hn/rodecaster-duo-fw/",
-          "score": 224,
+          "score": 231,
           "source": "hn",
           "severity": null,
           "date": "2026-04-24T19:30:46+00:00"
@@ -61,31 +61,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 9,
       "top_items": [
         {
-          "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
-          "url": "https://qiita.com/ot12/items/06420caf41a34a910c53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "ProxmoxにTailscaleを入れたら全VMが見えてしまう話—外部アクセスとラテラルムーブメントのリスク",
+          "url": "https://qiita.com/masa-555/items/889a597b92d213c7ac39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-25T10:44:00+09:00"
+          "date": "2026-04-25T12:59:30+09:00"
         },
         {
-          "title": "n8n × MacroDroid × LINEで「今から帰る」をワンタップ通知する仕組みを作った",
-          "url": "https://qiita.com/wan-code/items/e83414089713891df1a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude Code は planner、Codex CLI は executor — 両方使って 3 ヶ月、役割分担で見えた実測",
+          "url": "https://qiita.com/nogataka/items/2668b9ca9d12f0bef1e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-24T18:58:09+09:00"
+          "date": "2026-04-25T12:42:37+09:00"
         },
         {
-          "title": "プッシュ通知の許可フロー設計 ― ブラウザやデバイスごとの違いと実装パターン",
-          "url": "https://qiita.com/Katsushi21/items/9c5fff6f00bcd03b3370?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude Code v2.1.88 以降のトークン爆発事件 \"Tokenocalypse\" を振り返る — FinOps 観点で防衛する 4 本柱",
+          "url": "https://qiita.com/nogataka/items/2807583298a82714ae43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-24T17:26:57+09:00"
+          "date": "2026-04-25T12:41:58+09:00"
+        },
+        {
+          "title": "同じ Issue を Claude・Codex・Gemini に同時に解かせるとどうなるか — git worktree × tmux で衝突しない並列 AI 開発",
+          "url": "https://qiita.com/nogataka/items/1156e2d3a40c4dab3398?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-25T12:41:37+09:00"
+        },
+        {
+          "title": "gpt-image-2でUIを量産する実務プロンプトテンプレート集：ダッシュボード／LP／モバイル／ロゴ／スライドの5パターン",
+          "url": "https://qiita.com/nogataka/items/fed4cba1439d0073f2d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-25T11:54:24+09:00"
         }
       ]
     }
