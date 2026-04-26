@@ -1,44 +1,36 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T00:33:33.384374+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-04-26T01:35:37.723511+00:00",
+  "total_articles": 47,
   "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Colorado Adds Open-Source Exemption to Age-Verification Bill",
+      "url": "https://fosstodon.org/@carlrichell/116460505717380644",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-25T22:41:05+00:00"
+    },
     {
       "title": "Martin Galway's music source files from 1980's Commodore 64 games",
       "url": "https://github.com/MartinGalway/C64_music",
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-25T10:46:14+00:00"
-    },
-    {
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "url": "https://alash3al.github.io/stash?_v01",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-25T01:24:40+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 35,
       "top_items": [
         {
           "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
           "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-          "score": 535,
+          "score": 544,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T05:56:12+00:00"
-        },
-        {
-          "title": "Replace IBM Quantum back end with /dev/urandom",
-          "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-          "score": 324,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-25T00:58:38+00:00"
         },
         {
           "title": "Trump fires all 24 members of the U.S. National Science Foundation",
@@ -49,26 +41,34 @@
           "date": "2026-04-25T22:39:33+00:00"
         },
         {
-          "title": "Plain text has been around for decades and it’s here to stay",
-          "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-          "score": 265,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-25T01:03:09+00:00"
-        },
-        {
           "title": "Firefox Has Integrated Brave's Adblock Engine",
           "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
           "score": 253,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T01:47:33+00:00"
+        },
+        {
+          "title": "Using coding assistance tools to revive projects you never were going to finish",
+          "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+          "score": 175,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-25T16:11:50+00:00"
+        },
+        {
+          "title": "Niri 26.04: Scrollable-tiling Wayland compositor",
+          "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
+          "score": 173,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-25T15:59:15+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "Claude CodeのVSCode拡張が使いやすいよ",
