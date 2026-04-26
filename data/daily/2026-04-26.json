@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T07:33:15.952539+00:00",
-  "total_articles": 46,
+  "generated_at": "2026-04-26T08:28:13.608417+00:00",
+  "total_articles": 58,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 43,
       "top_items": [
         {
           "title": "Amateur armed with ChatGPT solves an Erdős problem",
           "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-          "score": 308,
+          "score": 340,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T17:40:38+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "USB Cheat Sheet (2022)",
           "url": "https://fabiensanglard.net/usbcheat/index.html",
-          "score": 269,
+          "score": 289,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T21:51:18+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "Using coding assistance tools to revive projects you never were going to finish",
           "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-          "score": 256,
+          "score": 267,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T16:11:50+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "Why has there been so little progress on Alzheimer's disease?",
           "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-          "score": 197,
+          "score": 209,
           "source": "hn",
           "severity": null,
           "date": "2026-04-26T00:12:47+00:00"
@@ -68,8 +68,32 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 15,
       "top_items": [
+        {
+          "title": "【独学】異業種からエンジニアの転職までに行ったこと",
+          "url": "https://qiita.com/mori-3-desu/items/eb51e7ea9dac5e0e21ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-26T13:34:13+09:00"
+        },
+        {
+          "title": "Codex Automations × 公式プラグイン 90 個で「AI 秘書」を組む — 朝 9 時 Issue トリアージ、17 時 Slack 要約",
+          "url": "https://qiita.com/nogataka/items/139148b11e416e23722b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-26T13:14:18+09:00"
+        },
+        {
+          "title": "個人的にjQuery メソッドチートシートまとめた",
+          "url": "https://qiita.com/ryo_sh/items/4a1c1f97932e190db333?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-26T12:14:25+09:00"
+        },
         {
           "title": "ProxmoxにTailscaleを入れたら全VMが見えてしまう話—外部アクセスとラテラルムーブメントのリスク",
           "url": "https://qiita.com/masa-555/items/889a597b92d213c7ac39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,36 +103,12 @@
           "date": "2026-04-26T11:05:12+09:00"
         },
         {
-          "title": "Claude CodeのVSCode拡張が使いやすいよ",
-          "url": "https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "SnowflakeのIcebergテーブルをOCI Autonomous DatabaseからSELECT AIで自然言語検索してみた",
+          "url": "https://qiita.com/yushibats/items/291660e52d775b8b995c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-26T00:39:30+09:00"
-        },
-        {
-          "title": "AI駆動開発で増えたMarkdownを快適に読むビューア「MarkShelf」を作った",
-          "url": "https://qiita.com/smi/items/ab0d3e9d61fb0297111a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-25T22:35:05+09:00"
-        },
-        {
-          "title": "VOICEVOX EngineとLambda Web Adapterでサーバレスずんだもんを開発した話",
-          "url": "https://qiita.com/nasuvitz/items/7c5a21c55c449dde13aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-25T20:01:36+09:00"
-        },
-        {
-          "title": "GitHub Copilot SKILLでユーザー入力を活用する方法 〜インタラクティブなAIエージェントの作り方〜",
-          "url": "https://qiita.com/shahin0809/items/6f1c56549a992b00ea89?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-25T18:05:13+09:00"
+          "date": "2026-04-26T10:57:51+09:00"
         }
       ]
     }

@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-26T07:33:15.996052+00:00",
+  "generated_at": "2026-04-26T08:28:13.650506+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 365,
-    "zennqiita": 85,
+    "hn": 360,
+    "zennqiita": 90,
     "project": 2
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 15,
     "medium": 3,
     "high": 1
   },
@@ -126,13 +126,6 @@
       "date": "2026-04-24T15:59:19+00:00"
     },
     {
-      "title": "GitHub's fake star economy",
-      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "score": 728,
-      "source": "hn",
-      "date": "2026-04-20T08:26:52+00:00"
-    },
-    {
       "title": "SpaceX says it has agreement to acquire Cursor for $60B",
       "url": "https://twitter.com/spacex/status/2046713419978453374",
       "score": 682,
@@ -152,6 +145,13 @@
       "score": 621,
       "source": "hn",
       "date": "2026-04-21T17:40:39+00:00"
+    },
+    {
+      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "score": 614,
+      "source": "hn",
+      "date": "2026-04-23T21:56:15+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-20T15:28:13+00:00"
-    },
-    {
-      "title": "IEA: Solar overtakes all energy sources in a major global first",
-      "url": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-20T07:19:27+00:00"
     }
   ]
 }
