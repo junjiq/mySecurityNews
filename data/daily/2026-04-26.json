@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T01:35:37.723511+00:00",
-  "total_articles": 47,
+  "generated_at": "2026-04-26T03:06:37.274138+00:00",
+  "total_articles": 45,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -27,7 +27,7 @@
         {
           "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
           "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-          "score": 544,
+          "score": 552,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T05:56:12+00:00"
@@ -41,20 +41,20 @@
           "date": "2026-04-25T22:39:33+00:00"
         },
         {
-          "title": "Firefox Has Integrated Brave's Adblock Engine",
-          "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-          "score": 253,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-25T01:47:33+00:00"
-        },
-        {
           "title": "Using coding assistance tools to revive projects you never were going to finish",
           "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-          "score": 175,
+          "score": 198,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T16:11:50+00:00"
+        },
+        {
+          "title": "USB Cheat Sheet (2022)",
+          "url": "https://fabiensanglard.net/usbcheat/index.html",
+          "score": 183,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-25T21:51:18+00:00"
         },
         {
           "title": "Niri 26.04: Scrollable-tiling Wayland compositor",
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 10,
       "top_items": [
+        {
+          "title": "ProxmoxにTailscaleを入れたら全VMが見えてしまう話—外部アクセスとラテラルムーブメントのリスク",
+          "url": "https://qiita.com/masa-555/items/889a597b92d213c7ac39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-26T11:05:12+09:00"
+        },
         {
           "title": "Claude CodeのVSCode拡張が使いやすいよ",
           "url": "https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -77,14 +85,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-26T00:39:30+09:00"
-        },
-        {
-          "title": "ProxmoxにTailscaleを入れたら全VMが見えてしまう話—外部アクセスとラテラルムーブメントのリスク",
-          "url": "https://qiita.com/masa-555/items/889a597b92d213c7ac39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-25T22:49:48+09:00"
         },
         {
           "title": "AI駆動開発で増えたMarkdownを快適に読むビューア「MarkShelf」を作った",
