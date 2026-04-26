@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:52:04.509853+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-04-26T09:22:01.462274+00:00",
+  "total_articles": 55,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,15 +22,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 42,
       "top_items": [
         {
           "title": "Amateur armed with ChatGPT solves an Erdős problem",
           "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-          "score": 346,
+          "score": 364,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T17:40:38+00:00"
+        },
+        {
+          "title": "USB Cheat Sheet (2022)",
+          "url": "https://fabiensanglard.net/usbcheat/index.html",
+          "score": 314,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-25T21:51:18+00:00"
         },
         {
           "title": "Trump fires all 24 members of the U.S. National Science Foundation",
@@ -41,34 +49,26 @@
           "date": "2026-04-25T22:39:33+00:00"
         },
         {
-          "title": "USB Cheat Sheet (2022)",
-          "url": "https://fabiensanglard.net/usbcheat/index.html",
-          "score": 298,
+          "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+          "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+          "score": 292,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-25T21:51:18+00:00"
+          "date": "2026-04-26T06:24:42+00:00"
         },
         {
           "title": "Using coding assistance tools to revive projects you never were going to finish",
           "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-          "score": 268,
+          "score": 269,
           "source": "hn",
           "severity": null,
           "date": "2026-04-25T16:11:50+00:00"
-        },
-        {
-          "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
-          "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-          "score": 232,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-26T06:24:42+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "【独学】異業種からエンジニアの転職までに行ったこと",
