@@ -1,26 +1,40 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T15:13:57.864124+00:00",
-  "total_articles": 56,
-  "urgent_count": 1,
+  "generated_at": "2026-04-27T16:03:48.228719+00:00",
+  "total_articles": 59,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop",
+      "url": "https://www.systalyze.com/utilyze",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-27T13:55:43+00:00"
+    },
     {
       "title": "Human Source License (HSL)",
       "url": "https://github.com/xdgrulez/human-source-license",
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-26T20:45:26+00:00"
+    },
+    {
+      "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
+      "url": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-04-28T00:27:25+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 48,
       "top_items": [
         {
           "title": "AI should elevate your thinking, not replace it",
           "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-          "score": 695,
+          "score": 722,
           "source": "hn",
           "severity": null,
           "date": "2026-04-26T20:03:12+00:00"
@@ -50,19 +64,27 @@
           "date": "2026-04-26T20:56:30+00:00"
         },
         {
-          "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-          "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-          "score": 303,
+          "title": "Pgbackrest is no longer being maintained",
+          "url": "https://github.com/pgbackrest/pgbackrest",
+          "score": 304,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-26T20:18:37+00:00"
+          "date": "2026-04-27T10:56:34+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 11,
       "top_items": [
+        {
+          "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
+          "url": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": "high",
+          "date": "2026-04-28T00:27:25+09:00"
+        },
         {
           "title": "ADB のカタログを使ってIceberg テーブルに自然言語検索（Select AI）してみた",
           "url": "https://qiita.com/yushibats/items/c65b23462994e8f4c579?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-27T14:03:48+09:00"
-        },
-        {
-          "title": "docker compose up する時に特定のサービスを起動させないようにする方法３選",
-          "url": "https://qiita.com/murarihyon-k/items/197f1762f4c5b283519a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-27T12:34:45+09:00"
         }
       ]
     }

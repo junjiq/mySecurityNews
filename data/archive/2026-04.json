@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-27T15:13:57.904732+00:00",
+  "generated_at": "2026-04-27T16:03:48.280527+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 360,
@@ -8,9 +8,9 @@
     "project": 2
   },
   "severity_counts": {
-    "medium": 3,
+    "high": 2,
     "critical": 11,
-    "high": 2
+    "medium": 3
   },
   "top_articles": [
     {
@@ -121,7 +121,7 @@
     {
       "title": "AI should elevate your thinking, not replace it",
       "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "score": 695,
+      "score": 722,
       "source": "hn",
       "date": "2026-04-26T20:03:12+00:00"
     },
@@ -156,18 +156,25 @@
   ],
   "security_highlights": [
     {
+      "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
+      "url": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-04-28T00:27:25+09:00"
+    },
+    {
+      "title": "Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop",
+      "url": "https://www.systalyze.com/utilyze",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-27T13:55:43+00:00"
+    },
+    {
       "title": "Human Source License (HSL)",
       "url": "https://github.com/xdgrulez/human-source-license",
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-26T20:45:26+00:00"
-    },
-    {
-      "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
-      "url": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-04-26T19:08:51+09:00"
     },
     {
       "title": "Colorado Adds Open-Source Exemption to Age-Verification Bill",
@@ -238,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-21T17:14:35+00:00"
-    },
-    {
-      "title": "Show HN: GoModel – an open-source AI gateway in Go",
-      "url": "https://github.com/ENTERPILOT/GOModel/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-21T14:11:53+00:00"
     }
   ]
 }
