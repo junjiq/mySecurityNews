@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T20:49:10.171607+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-04-27T21:24:17.411126+00:00",
+  "total_articles": 57,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 41,
       "top_items": [
-        {
-          "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-          "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-          "score": 425,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-26T20:56:30+00:00"
-        },
         {
           "title": "GitHub Copilot is moving to usage-based billing",
           "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-          "score": 410,
+          "score": 433,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T16:03:08+00:00"
@@ -50,7 +42,7 @@
         {
           "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
           "url": "https://app.oravys.com/blog/mercor-breach-2026",
-          "score": 368,
+          "score": 382,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T09:57:10+00:00"
@@ -58,7 +50,7 @@
         {
           "title": "Pgbackrest is no longer being maintained",
           "url": "https://github.com/pgbackrest/pgbackrest",
-          "score": 367,
+          "score": 373,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T10:56:34+00:00"
@@ -66,10 +58,18 @@
         {
           "title": "Men who stare at walls",
           "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-          "score": 340,
+          "score": 362,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T11:08:26+00:00"
+        },
+        {
+          "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+          "url": "https://github.com/dirac-run/dirac",
+          "score": 273,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-27T12:35:55+00:00"
         }
       ]
     },
