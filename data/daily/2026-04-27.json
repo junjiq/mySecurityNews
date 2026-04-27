@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T06:02:08.736710+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-04-27T07:24:12.035242+00:00",
+  "total_articles": 46,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,20 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 41,
       "top_items": [
-        {
-          "title": "The West forgot how to make things, now it’s forgetting how to code",
-          "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-          "score": 1017,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-26T06:24:42+00:00"
-        },
         {
           "title": "An AI agent deleted our production database. The agent's confession is below",
           "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-          "score": 588,
+          "score": 623,
           "source": "hn",
           "severity": null,
           "date": "2026-04-26T16:27:29+00:00"
@@ -59,10 +51,18 @@
         {
           "title": "AI should elevate your thinking, not replace it",
           "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-          "score": 381,
+          "score": 426,
           "source": "hn",
           "severity": null,
           "date": "2026-04-26T20:03:12+00:00"
+        },
+        {
+          "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+          "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+          "score": 354,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-26T20:56:30+00:00"
         }
       ]
     },
@@ -71,20 +71,20 @@
       "count": 5,
       "top_items": [
         {
+          "title": "ADB のカタログを使ってIceberg テーブルに自然言語検索（Select AI）してみた",
+          "url": "https://qiita.com/yushibats/items/c65b23462994e8f4c579?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-27T16:05:59+09:00"
+        },
+        {
           "title": "競技プログラミング初心者がハマりやすいミスと対策のまとめ",
           "url": "https://qiita.com/P-SiZK/items/3a817f66e391354e75f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-27T14:53:32+09:00"
-        },
-        {
-          "title": "ADB のカタログにマウントしたIceberg テーブルに自然言語検索（Select AI）してみた",
-          "url": "https://qiita.com/yushibats/items/c65b23462994e8f4c579?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-26T20:15:50+09:00"
         },
         {
           "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
