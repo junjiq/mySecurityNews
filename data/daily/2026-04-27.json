@@ -1,9 +1,16 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T17:53:54.992764+00:00",
-  "total_articles": 57,
-  "urgent_count": 3,
+  "generated_at": "2026-04-27T18:29:37.527411+00:00",
+  "total_articles": 59,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+      "url": "https://github.com/Hanqaqa/Easyduino",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-27T17:45:02+00:00"
+    },
     {
       "title": "Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop",
       "url": "https://www.systalyze.com/utilyze",
@@ -29,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 49,
       "top_items": [
         {
           "title": "AI should elevate your thinking, not replace it",
@@ -50,7 +57,7 @@
         {
           "title": "Pgbackrest is no longer being maintained",
           "url": "https://github.com/pgbackrest/pgbackrest",
-          "score": 342,
+          "score": 351,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T10:56:34+00:00"
@@ -66,7 +73,7 @@
         {
           "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
           "url": "https://app.oravys.com/blog/mercor-breach-2026",
-          "score": 275,
+          "score": 299,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T09:57:10+00:00"

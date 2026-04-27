@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-27T17:53:55.034927+00:00",
-  "total_articles": 456,
+  "generated_at": "2026-04-27T18:29:37.579179+00:00",
+  "total_articles": 454,
   "source_counts": {
-    "hn": 365,
+    "hn": 362,
     "zennqiita": 90,
-    "project": 1
+    "project": 2
   },
   "severity_counts": {
+    "critical": 12,
     "high": 2,
-    "critical": 11,
     "medium": 3
   },
   "top_articles": [
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+      "url": "https://github.com/Hanqaqa/Easyduino",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-27T17:45:02+00:00"
+    },
     {
       "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
       "url": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
