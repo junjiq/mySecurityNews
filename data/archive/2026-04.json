@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-27T19:38:12.634288+00:00",
-  "total_articles": 453,
+  "generated_at": "2026-04-27T20:25:49.478915+00:00",
+  "total_articles": 452,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 90,
+    "hn": 355,
+    "zennqiita": 95,
     "project": 2
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 10,
     "high": 2,
     "medium": 3
   },
@@ -35,13 +35,6 @@
       "date": "2026-04-23T18:01:39+00:00"
     },
     {
-      "title": "Framework Laptop 13 Pro",
-      "url": "https://frame.work/laptop13pro",
-      "score": 1318,
-      "source": "hn",
-      "date": "2026-04-21T18:00:34+00:00"
-    },
-    {
       "title": "The West forgot how to make things, now it’s forgetting how to code",
       "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
       "score": 1017,
@@ -54,13 +47,6 @@
       "score": 1013,
       "source": "hn",
       "date": "2026-04-23T04:44:19+00:00"
-    },
-    {
-      "title": "ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 977,
-      "source": "hn",
-      "date": "2026-04-21T18:50:00+00:00"
     },
     {
       "title": "An update on recent Claude Code quality reports",
@@ -140,23 +126,37 @@
       "date": "2026-04-21T22:13:18+00:00"
     },
     {
-      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "score": 621,
-      "source": "hn",
-      "date": "2026-04-21T17:40:39+00:00"
-    },
-    {
       "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
       "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
       "score": 614,
       "source": "hn",
       "date": "2026-04-23T21:56:15+00:00"
+    },
+    {
+      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "score": 578,
+      "source": "hn",
+      "date": "2026-04-22T13:46:23+00:00"
+    },
+    {
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "score": 574,
+      "source": "hn",
+      "date": "2026-04-25T05:56:12+00:00"
+    },
+    {
+      "title": "Asahi Linux Progress Linux 7.0",
+      "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+      "score": 573,
+      "source": "hn",
+      "date": "2026-04-26T10:50:32+00:00"
     }
   ],
   "security_highlights": [
     {
-      "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+      "title": "Easyduino: Open Source PCB Devboards for KiCad",
       "url": "https://github.com/Hanqaqa/Easyduino",
       "severity": "critical",
       "source": "hn",
@@ -238,20 +238,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-22T01:25:04+00:00"
-    },
-    {
-      "title": "Cal.diy: open-source community edition of cal.com",
-      "url": "https://github.com/calcom/cal.diy",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-21T17:58:21+00:00"
-    },
-    {
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-21T17:14:35+00:00"
     }
   ]
 }
