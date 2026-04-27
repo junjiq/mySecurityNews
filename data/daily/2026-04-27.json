@@ -1,7 +1,7 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T07:24:12.035242+00:00",
-  "total_articles": 46,
+  "generated_at": "2026-04-27T08:17:23.339768+00:00",
+  "total_articles": 54,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 42,
       "top_items": [
         {
           "title": "An AI agent deleted our production database. The agent's confession is below",
           "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-          "score": 623,
+          "score": 645,
           "source": "hn",
           "severity": null,
           "date": "2026-04-26T16:27:29+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "AI should elevate your thinking, not replace it",
           "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-          "score": 426,
+          "score": 459,
           "source": "hn",
           "severity": null,
           "date": "2026-04-26T20:03:12+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
           "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-          "score": 354,
+          "score": 369,
           "source": "hn",
           "severity": null,
           "date": "2026-04-26T20:56:30+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 12,
       "top_items": [
         {
           "title": "ADB のカタログを使ってIceberg テーブルに自然言語検索（Select AI）してみた",
@@ -79,6 +79,14 @@
           "date": "2026-04-27T16:05:59+09:00"
         },
         {
+          "title": "Claude Codeに設定したBedrock認証を解除したい！のに /logout できない😭",
+          "url": "https://qiita.com/minorun365/items/cc123a9d688d4b878c19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-27T15:13:32+09:00"
+        },
+        {
           "title": "競技プログラミング初心者がハマりやすいミスと対策のまとめ",
           "url": "https://qiita.com/P-SiZK/items/3a817f66e391354e75f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -87,28 +95,20 @@
           "date": "2026-04-27T14:53:32+09:00"
         },
         {
-          "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
-          "url": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "high",
-          "date": "2026-04-26T19:08:51+09:00"
-        },
-        {
-          "title": "GPTとClaudeはどっちがいいのか、Microsoft 365 Copilot（Researcher）に考えてもらった",
-          "url": "https://qiita.com/Oyu3m/items/4ce133a69433d386507d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【35歳未経験でも理解できた】SQLのJOIN",
+          "url": "https://qiita.com/wata-sho/items/b0b2bda52d6fc64f7522?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-26T18:18:32+09:00"
+          "date": "2026-04-27T14:03:48+09:00"
         },
         {
-          "title": "ブラウザだけで完結するCSIRT訓練プラットフォーム「CSIRT Ready」を作った話",
-          "url": "https://qiita.com/masa_py/items/70ddd373616e55ad929f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "docker compose up する時に特定のサービスを起動させないようにする方法３選",
+          "url": "https://qiita.com/murarihyon-k/items/197f1762f4c5b283519a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-26T16:44:40+09:00"
+          "date": "2026-04-27T12:34:45+09:00"
         }
       ]
     }
