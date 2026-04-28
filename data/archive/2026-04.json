@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-28T12:08:31.592772+00:00",
-  "total_articles": 455,
+  "generated_at": "2026-04-28T13:04:44.583507+00:00",
+  "total_articles": 452,
   "source_counts": {
-    "hn": 360,
-    "zennqiita": 93,
+    "hn": 358,
+    "zennqiita": 92,
     "project": 2
   },
   "severity_counts": {
+    "critical": 13,
     "medium": 5,
-    "critical": 11,
     "high": 3
   },
   "top_articles": [
@@ -114,7 +114,7 @@
     {
       "title": "Men who stare at walls",
       "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "score": 616,
+      "score": 635,
       "source": "hn",
       "date": "2026-04-27T11:08:26+00:00"
     },
@@ -128,7 +128,7 @@
     {
       "title": "Is my blue your blue? (2024)",
       "url": "https://ismy.blue/",
-      "score": 593,
+      "score": 613,
       "source": "hn",
       "date": "2026-04-27T20:24:33+00:00"
     },
@@ -155,6 +155,20 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-28T11:56:04+00:00"
+    },
+    {
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-28T11:54:20+00:00"
+    },
     {
       "title": "Show HN: AgentSwift – Open-source iOS builder agent",
       "url": "https://github.com/hpennington/agentswift",

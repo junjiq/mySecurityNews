@@ -1,9 +1,23 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-04-28T12:08:31.554683+00:00",
+  "generated_at": "2026-04-28T13:04:44.532239+00:00",
   "total_articles": 50,
-  "urgent_count": 6,
+  "urgent_count": 8,
   "urgent_items": [
+    {
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-28T11:56:04+00:00"
+    },
+    {
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-28T11:54:20+00:00"
+    },
     {
       "title": "Show HN: AgentSwift – Open-source iOS builder agent",
       "url": "https://github.com/hpennington/agentswift",
@@ -55,7 +69,7 @@
         {
           "title": "Is my blue your blue? (2024)",
           "url": "https://ismy.blue/",
-          "score": 593,
+          "score": 613,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T20:24:33+00:00"
@@ -71,18 +85,18 @@
         {
           "title": "Talkie: a 13B vintage language model from 1930",
           "url": "https://talkie-lm.com/introducing-talkie",
-          "score": 415,
+          "score": 447,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T21:55:48+00:00"
         },
         {
-          "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-          "url": "https://github.com/dirac-run/dirac",
-          "score": 302,
+          "title": "GTFOBins",
+          "url": "https://gtfobins.org/",
+          "score": 267,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-27T12:35:55+00:00"
+          "date": "2026-04-28T06:27:39+00:00"
         },
         {
           "title": "“Why not just use Lean?”",
