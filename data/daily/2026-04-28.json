@@ -1,7 +1,7 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-04-28T11:12:56.673409+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-04-28T12:08:31.554683+00:00",
+  "total_articles": 50,
   "urgent_count": 6,
   "urgent_items": [
     {
@@ -53,6 +53,14 @@
       "count": 40,
       "top_items": [
         {
+          "title": "Is my blue your blue? (2024)",
+          "url": "https://ismy.blue/",
+          "score": 593,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-27T20:24:33+00:00"
+        },
+        {
           "title": "GitHub Copilot is moving to usage-based billing",
           "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
           "score": 587,
@@ -61,28 +69,12 @@
           "date": "2026-04-27T16:03:08+00:00"
         },
         {
-          "title": "Is my blue your blue?",
-          "url": "https://ismy.blue/",
-          "score": 573,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-27T20:24:33+00:00"
-        },
-        {
           "title": "Talkie: a 13B vintage language model from 1930",
           "url": "https://talkie-lm.com/introducing-talkie",
-          "score": 389,
+          "score": 415,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T21:55:48+00:00"
-        },
-        {
-          "title": "China blocks Meta's acquisition of AI startup Manus",
-          "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-          "score": 335,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-27T11:43:59+00:00"
         },
         {
           "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
@@ -91,12 +83,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T12:35:55+00:00"
+        },
+        {
+          "title": "“Why not just use Lean?”",
+          "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+          "score": 264,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-27T14:24:53+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
         {
           "title": "【Private Agent Factory】環境構築手順（マーケットプレイス編）",
