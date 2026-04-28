@@ -1,25 +1,18 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-28T17:05:49.894793+00:00",
+  "generated_at": "2026-04-28T18:02:28.031406+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 360,
-    "zennqiita": 90,
+    "hn": 361,
+    "zennqiita": 89,
     "project": 2
   },
   "severity_counts": {
-    "critical": 14,
-    "medium": 5,
-    "high": 3
+    "critical": 13,
+    "high": 4,
+    "medium": 5
   },
   "top_articles": [
-    {
-      "title": "Alberta startup sells no-tech tractors for half price",
-      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-      "score": 2190,
-      "source": "hn",
-      "date": "2026-04-22T16:29:25+00:00"
-    },
     {
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
@@ -152,13 +145,27 @@
       "score": 573,
       "source": "hn",
       "date": "2026-04-26T10:50:32+00:00"
+    },
+    {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "score": 568,
+      "source": "hn",
+      "date": "2026-04-27T21:55:48+00:00"
     }
   ],
   "security_highlights": [
     {
-      "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
-      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
       "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-28T16:15:43+00:00"
+    },
+    {
+      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
+      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+      "severity": "high",
       "source": "hn",
       "date": "2026-04-28T16:06:01+00:00"
     },
@@ -266,13 +273,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-04-22T17:13:19+00:00"
-    },
-    {
-      "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
-      "url": "https://github.com/Infisical/agent-vault",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-22T16:25:28+00:00"
     }
   ]
 }
