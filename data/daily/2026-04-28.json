@@ -1,9 +1,16 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-04-28T18:02:27.983461+00:00",
-  "total_articles": 50,
-  "urgent_count": 6,
+  "generated_at": "2026-04-28T19:02:59.125118+00:00",
+  "total_articles": 51,
+  "urgent_count": 7,
   "urgent_items": [
+    {
+      "title": "Bankruptcies Increase 11.9 Percent",
+      "url": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-28T18:47:09+00:00"
+    },
     {
       "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
       "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
@@ -50,7 +57,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "Is my blue your blue? (2024)",
@@ -61,20 +68,20 @@
           "date": "2026-04-27T20:24:33+00:00"
         },
         {
-          "title": "Talkie: a 13B vintage language model from 1930",
-          "url": "https://talkie-lm.com/introducing-talkie",
-          "score": 568,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-27T21:55:48+00:00"
-        },
-        {
           "title": "Localsend: An open-source cross-platform alternative to AirDrop",
           "url": "https://github.com/localsend/localsend",
-          "score": 544,
+          "score": 612,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-28T11:54:20+00:00"
+        },
+        {
+          "title": "Talkie: a 13B vintage language model from 1930",
+          "url": "https://talkie-lm.com/introducing-talkie",
+          "score": 585,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-27T21:55:48+00:00"
         },
         {
           "title": "Your phone is about to stop being yours",

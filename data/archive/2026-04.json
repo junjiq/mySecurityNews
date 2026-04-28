@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-28T18:02:28.031406+00:00",
+  "generated_at": "2026-04-28T19:02:59.171497+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 361,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 14,
     "high": 4,
     "medium": 5
   },
@@ -119,11 +119,25 @@
       "date": "2026-04-23T21:56:15+00:00"
     },
     {
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "score": 612,
+      "source": "hn",
+      "date": "2026-04-28T11:54:20+00:00"
+    },
+    {
       "title": "GitHub Copilot is moving to usage-based billing",
       "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
       "score": 587,
       "source": "hn",
       "date": "2026-04-27T16:03:08+00:00"
+    },
+    {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "score": 585,
+      "source": "hn",
+      "date": "2026-04-27T21:55:48+00:00"
     },
     {
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
@@ -138,23 +152,16 @@
       "score": 573,
       "source": "hn",
       "date": "2026-04-27T09:57:10+00:00"
-    },
-    {
-      "title": "Asahi Linux Progress Linux 7.0",
-      "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "score": 573,
-      "source": "hn",
-      "date": "2026-04-26T10:50:32+00:00"
-    },
-    {
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 568,
-      "source": "hn",
-      "date": "2026-04-27T21:55:48+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Bankruptcies Increase 11.9 Percent",
+      "url": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-28T18:47:09+00:00"
+    },
     {
       "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
       "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
