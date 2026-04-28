@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-28T01:36:56.278667+00:00",
+  "generated_at": "2026-04-28T03:07:48.057996+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 358,
-    "zennqiita": 92,
+    "hn": 359,
+    "zennqiita": 91,
     "project": 2
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 10,
     "high": 2,
     "medium": 3
   },
@@ -147,14 +147,21 @@
       "date": "2026-04-26T10:50:32+00:00"
     },
     {
-      "title": "Flipdiscs",
-      "url": "https://flipdisc.io",
-      "score": 542,
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "score": 569,
       "source": "hn",
-      "date": "2026-04-23T13:54:31+00:00"
+      "date": "2026-04-27T16:03:08+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: AgentSwift – Open-source iOS builder agent",
+      "url": "https://github.com/hpennington/agentswift",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-28T01:14:31+00:00"
+    },
     {
       "title": "Easyduino: Open Source PCB Devboards for KiCad",
       "url": "https://github.com/Hanqaqa/Easyduino",
