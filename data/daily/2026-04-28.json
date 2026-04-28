@@ -1,7 +1,7 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-04-28T21:49:02.575505+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-04-28T22:21:43.725247+00:00",
+  "total_articles": 59,
   "urgent_count": 9,
   "urgent_items": [
     {
@@ -71,12 +71,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 46,
       "top_items": [
         {
           "title": "Ghostty is leaving GitHub",
           "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-          "score": 1008,
+          "score": 1156,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T19:44:52+00:00"
@@ -84,7 +84,7 @@
         {
           "title": "Your phone is about to stop being yours",
           "url": "https://keepandroidopen.org/en/",
-          "score": 730,
+          "score": 770,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T15:21:00+00:00"
@@ -92,18 +92,10 @@
         {
           "title": "Localsend: An open-source cross-platform alternative to AirDrop",
           "url": "https://github.com/localsend/localsend",
-          "score": 707,
+          "score": 710,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-28T11:54:20+00:00"
-        },
-        {
-          "title": "Talkie: a 13B vintage language model from 1930",
-          "url": "https://talkie-lm.com/introducing-talkie",
-          "score": 618,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-27T21:55:48+00:00"
         },
         {
           "title": "GTFOBins",
@@ -112,6 +104,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T06:27:39+00:00"
+        },
+        {
+          "title": "VibeVoice: Open-source frontier voice AI",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "score": 297,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-04-28T11:56:04+00:00"
         }
       ]
     },
