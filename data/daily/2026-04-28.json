@@ -1,8 +1,8 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-04-28T07:21:52.565382+00:00",
-  "total_articles": 50,
-  "urgent_count": 4,
+  "generated_at": "2026-04-28T08:17:55.583951+00:00",
+  "total_articles": 59,
+  "urgent_count": 6,
   "urgent_items": [
     {
       "title": "Show HN: AgentSwift – Open-source iOS builder agent",
@@ -10,6 +10,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-28T01:14:31+00:00"
+    },
+    {
+      "title": "【緊急】ワイルドカード証明書の誤用がサブドメイン乗っ取りを引き起こす仕組みと対策",
+      "url": "https://qiita.com/kawabe0201/items/d3c0ef67a91a37076acf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-04-28T10:09:18+09:00"
     },
     {
       "title": "Easyduino: Open Source PCB Devboards for KiCad",
@@ -24,6 +31,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-27T13:55:43+00:00"
+    },
+    {
+      "title": "【完結編】コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（自作ツールがAIに論破された日）",
+      "url": "https://qiita.com/harupython/items/4d572a384c62016c51f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-04-28T00:31:42+09:00"
     },
     {
       "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
@@ -49,7 +63,7 @@
         {
           "title": "Men who stare at walls",
           "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-          "score": 544,
+          "score": 560,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T11:08:26+00:00"
@@ -57,7 +71,7 @@
         {
           "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
           "url": "https://app.oravys.com/blog/mercor-breach-2026",
-          "score": 511,
+          "score": 514,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T09:57:10+00:00"
@@ -65,7 +79,7 @@
         {
           "title": "Is my blue your blue?",
           "url": "https://ismy.blue/",
-          "score": 477,
+          "score": 498,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T20:24:33+00:00"
@@ -82,47 +96,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 15,
       "top_items": [
         {
-          "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
-          "url": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "high",
-          "date": "2026-04-28T00:27:25+09:00"
-        },
-        {
-          "title": "【AgentCore】簡単にエージェントを作成・デプロイすることができるようになったらしい",
-          "url": "https://qiita.com/ryu-ki/items/7437eb2403875bbd3c49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【Private Agent Factory】環境構築手順（マーケットプレイス編）",
+          "url": "https://qiita.com/marfujim/items/60961a725c38ade47c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-27T20:42:22+09:00"
+          "date": "2026-04-28T15:57:52+09:00"
         },
         {
-          "title": "n8nで毎朝「天気×ビタミンD日光時間」をDiscord通知するリマインダーを作ってみた",
-          "url": "https://qiita.com/wan-code/items/7ae3b3ea5b2b4a59332d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【VSCode/Cursor】Codexプラグインを右サイドバーへ移動する方法",
+          "url": "https://qiita.com/itsuki_y/items/b0d980b64ce7d6be5aaa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-27T18:57:14+09:00"
+          "date": "2026-04-28T15:23:13+09:00"
         },
         {
-          "title": "書籍『ステップアップPython すぐに使える!実践スキル35』発売します",
-          "url": "https://qiita.com/tetsuro731/items/560e2d8c9c3acee0f2ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【初学者向け】「どう並べて、どう取り出すか」で変わる - データ構造の基礎",
+          "url": "https://qiita.com/masa20057/items/3df8598b3ebaf1eb6888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-27T18:52:18+09:00"
+          "date": "2026-04-28T13:56:32+09:00"
         },
         {
-          "title": "GWも勉強したい方向けに、よくオススメされる技術書をカテゴリ別にまとめてみた",
-          "url": "https://qiita.com/miruky/items/c2df4f23d73a8e05f37f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【後編】9割の新人エンジニアがやっている 「承知しました」の落とし穴",
+          "url": "https://qiita.com/hitomin_poke/items/018678abdb0267983fc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-27T18:00:30+09:00"
+          "date": "2026-04-28T13:04:20+09:00"
+        },
+        {
+          "title": "新人エンジニアこそ「個人開発」をやろう。完全無料で始めるCloudflareスタック入門",
+          "url": "https://qiita.com/t0hara/items/8a669c6e0a76d9b1875d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-28T11:38:07+09:00"
         }
       ]
     }

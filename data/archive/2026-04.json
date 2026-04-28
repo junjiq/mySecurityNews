@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-28T07:21:52.600452+00:00",
-  "total_articles": 454,
+  "generated_at": "2026-04-28T08:17:55.632691+00:00",
+  "total_articles": 452,
   "source_counts": {
-    "hn": 362,
-    "zennqiita": 90,
+    "hn": 355,
+    "zennqiita": 95,
     "project": 2
   },
   "severity_counts": {
-    "critical": 10,
-    "high": 2,
+    "critical": 11,
+    "high": 3,
     "medium": 3
   },
   "top_articles": [
@@ -61,13 +61,6 @@
       "score": 885,
       "source": "hn",
       "date": "2026-04-22T17:35:03+00:00"
-    },
-    {
-      "title": "Windows 9x Subsystem for Linux",
-      "url": "https://social.hails.org/@hailey/116446826733136456",
-      "score": 880,
-      "source": "hn",
-      "date": "2026-04-22T09:52:52+00:00"
     },
     {
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
@@ -152,6 +145,13 @@
       "score": 573,
       "source": "hn",
       "date": "2026-04-26T10:50:32+00:00"
+    },
+    {
+      "title": "Men who stare at walls",
+      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "score": 560,
+      "source": "hn",
+      "date": "2026-04-27T11:08:26+00:00"
     }
   ],
   "security_highlights": [
@@ -163,11 +163,25 @@
       "date": "2026-04-28T01:14:31+00:00"
     },
     {
+      "title": "【緊急】ワイルドカード証明書の誤用がサブドメイン乗っ取りを引き起こす仕組みと対策",
+      "url": "https://qiita.com/kawabe0201/items/d3c0ef67a91a37076acf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-04-28T10:09:18+09:00"
+    },
+    {
       "title": "Easyduino: Open Source PCB Devboards for KiCad",
       "url": "https://github.com/Hanqaqa/Easyduino",
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-27T17:45:02+00:00"
+    },
+    {
+      "title": "【完結編】コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（自作ツールがAIに論破された日）",
+      "url": "https://qiita.com/harupython/items/4d572a384c62016c51f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-04-28T00:31:42+09:00"
     },
     {
       "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
