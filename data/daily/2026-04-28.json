@@ -1,7 +1,7 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-04-28T20:01:49.311412+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-04-28T20:52:20.824030+00:00",
+  "total_articles": 60,
   "urgent_count": 9,
   "urgent_items": [
     {
@@ -33,7 +33,7 @@
       "date": "2026-04-28T15:58:30+00:00"
     },
     {
-      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "title": "VibeVoice: Open-source frontier voice AI",
       "url": "https://github.com/microsoft/VibeVoice",
       "severity": "critical",
       "source": "hn",
@@ -74,25 +74,25 @@
       "count": 47,
       "top_items": [
         {
+          "title": "Ghostty is leaving GitHub",
+          "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+          "score": 693,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-28T19:44:52+00:00"
+        },
+        {
           "title": "Localsend: An open-source cross-platform alternative to AirDrop",
           "url": "https://github.com/localsend/localsend",
-          "score": 660,
+          "score": 688,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-28T11:54:20+00:00"
         },
         {
-          "title": "Is my blue your blue? (2024)",
-          "url": "https://ismy.blue/",
-          "score": 653,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-27T20:24:33+00:00"
-        },
-        {
           "title": "Talkie: a 13B vintage language model from 1930",
           "url": "https://talkie-lm.com/introducing-talkie",
-          "score": 599,
+          "score": 615,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T21:55:48+00:00"
@@ -100,7 +100,7 @@
         {
           "title": "Your phone is about to stop being yours",
           "url": "https://keepandroidopen.org/en/",
-          "score": 426,
+          "score": 608,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T15:21:00+00:00"
@@ -117,8 +117,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 13,
       "top_items": [
+        {
+          "title": "n8nでGoogleカレンダーから日報を自動生成してDiscordへ投稿する仕組みを作った",
+          "url": "https://qiita.com/wan-code/items/1ba7e323398808fa74e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-28T18:48:44+09:00"
+        },
         {
           "title": "【Private Agent Factory】環境構築手順（マーケットプレイス編）",
           "url": "https://qiita.com/marfujim/items/60961a725c38ade47c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -150,14 +158,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-28T13:04:20+09:00"
-        },
-        {
-          "title": "新人エンジニアこそ「個人開発」をやろう。完全無料で始めるCloudflareスタック入門",
-          "url": "https://qiita.com/t0hara/items/8a669c6e0a76d9b1875d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-28T11:38:07+09:00"
         }
       ]
     }
