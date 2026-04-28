@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-28T16:14:36.845188+00:00",
+  "generated_at": "2026-04-28T17:05:49.894793+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 359,
-    "zennqiita": 91,
+    "hn": 360,
+    "zennqiita": 90,
     "project": 2
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 14,
     "medium": 5,
     "high": 3
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
+      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-28T16:06:01+00:00"
+    },
     {
       "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
       "url": "https://github.com/microsoft/VibeVoice",

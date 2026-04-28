@@ -1,9 +1,16 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-04-28T16:14:36.802127+00:00",
-  "total_articles": 48,
-  "urgent_count": 5,
+  "generated_at": "2026-04-28T17:05:49.853643+00:00",
+  "total_articles": 51,
+  "urgent_count": 6,
   "urgent_items": [
+    {
+      "title": "AI uncovers 38 vulnerabilities in largest open source medical record software",
+      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-28T16:06:01+00:00"
+    },
     {
       "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
       "url": "https://github.com/microsoft/VibeVoice",
@@ -43,7 +50,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 43,
       "top_items": [
         {
           "title": "Is my blue your blue? (2024)",
@@ -56,7 +63,7 @@
         {
           "title": "Talkie: a 13B vintage language model from 1930",
           "url": "https://talkie-lm.com/introducing-talkie",
-          "score": 539,
+          "score": 554,
           "source": "hn",
           "severity": null,
           "date": "2026-04-27T21:55:48+00:00"
@@ -64,7 +71,7 @@
         {
           "title": "Localsend: An open-source cross-platform alternative to AirDrop",
           "url": "https://github.com/localsend/localsend",
-          "score": 415,
+          "score": 474,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-28T11:54:20+00:00"
