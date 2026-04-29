@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-29T03:07:34.119715+00:00",
+  "generated_at": "2026-04-29T04:39:29.924933+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 359,
@@ -8,24 +8,24 @@
     "project": 2
   },
   "severity_counts": {
+    "medium": 7,
     "critical": 16,
-    "high": 3,
-    "medium": 6
+    "high": 3
   },
   "top_articles": [
+    {
+      "title": "Ghostty is leaving GitHub",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "score": 2005,
+      "source": "hn",
+      "date": "2026-04-28T19:44:52+00:00"
+    },
     {
       "title": "DeepSeek v4",
       "url": "https://api-docs.deepseek.com/news/news260424",
       "score": 1894,
       "source": "hn",
       "date": "2026-04-24T03:01:21+00:00"
-    },
-    {
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 1830,
-      "source": "hn",
-      "date": "2026-04-28T19:44:52+00:00"
     },
     {
       "title": "GPT-5.5",
@@ -37,7 +37,7 @@
     {
       "title": "Your phone is about to stop being yours",
       "url": "https://keepandroidopen.org/en/",
-      "score": 1038,
+      "score": 1117,
       "source": "hn",
       "date": "2026-04-28T15:21:00+00:00"
     },
@@ -77,18 +77,18 @@
       "date": "2026-04-24T15:59:19+00:00"
     },
     {
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "score": 770,
+      "source": "hn",
+      "date": "2026-04-28T11:54:20+00:00"
+    },
+    {
       "title": "AI should elevate your thinking, not replace it",
       "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
       "score": 766,
       "source": "hn",
       "date": "2026-04-26T20:03:12+00:00"
-    },
-    {
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "url": "https://github.com/localsend/localsend",
-      "score": 751,
-      "source": "hn",
-      "date": "2026-04-28T11:54:20+00:00"
     },
     {
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
@@ -105,6 +105,13 @@
       "date": "2026-04-26T16:27:29+00:00"
     },
     {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "score": 654,
+      "source": "hn",
+      "date": "2026-04-27T21:55:48+00:00"
+    },
+    {
       "title": "Men who stare at walls",
       "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
       "score": 654,
@@ -117,13 +124,6 @@
       "score": 653,
       "source": "hn",
       "date": "2026-04-27T20:24:33+00:00"
-    },
-    {
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 648,
-      "source": "hn",
-      "date": "2026-04-27T21:55:48+00:00"
     },
     {
       "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
