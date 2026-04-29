@@ -1,7 +1,7 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-04-29T01:37:38.431157+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-04-29T03:07:34.078470+00:00",
+  "total_articles": 54,
   "urgent_count": 7,
   "urgent_items": [
     {
@@ -57,12 +57,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 46,
       "top_items": [
         {
           "title": "Ghostty is leaving GitHub",
           "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-          "score": 1645,
+          "score": 1830,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T19:44:52+00:00"
@@ -70,7 +70,7 @@
         {
           "title": "Your phone is about to stop being yours",
           "url": "https://keepandroidopen.org/en/",
-          "score": 973,
+          "score": 1038,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T15:21:00+00:00"
@@ -78,10 +78,18 @@
         {
           "title": "Localsend: An open-source cross-platform alternative to AirDrop",
           "url": "https://github.com/localsend/localsend",
-          "score": 738,
+          "score": 751,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-28T11:54:20+00:00"
+        },
+        {
+          "title": "VibeVoice: Open-source frontier voice AI",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "score": 326,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-04-28T11:56:04+00:00"
         },
         {
           "title": "GTFOBins",
@@ -90,14 +98,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T06:27:39+00:00"
-        },
-        {
-          "title": "VibeVoice: Open-source frontier voice AI",
-          "url": "https://github.com/microsoft/VibeVoice",
-          "score": 319,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-04-28T11:56:04+00:00"
         }
       ]
     },
@@ -105,6 +105,22 @@
       "category": "日本語技術記事",
       "count": 8,
       "top_items": [
+        {
+          "title": "個人的にjQuery メソッドチートシートまとめた",
+          "url": "https://qiita.com/ryo_sh/items/4a1c1f97932e190db333?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T11:57:09+09:00"
+        },
+        {
+          "title": "WAFは安心を買う装置ではない",
+          "url": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T11:26:55+09:00"
+        },
         {
           "title": "n8nでGoogleカレンダーから日報を自動生成してDiscordへ投稿する仕組みを作った",
           "url": "https://qiita.com/wan-code/items/1ba7e323398808fa74e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -128,22 +144,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-28T15:23:13+09:00"
-        },
-        {
-          "title": "【初学者向け】「どう並べて、どう取り出すか」で変わる - データ構造の基礎",
-          "url": "https://qiita.com/masa20057/items/3df8598b3ebaf1eb6888?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-28T13:56:32+09:00"
-        },
-        {
-          "title": "【後編】9割の新人エンジニアがやっている 「承知しました」の落とし穴",
-          "url": "https://qiita.com/hitomin_poke/items/018678abdb0267983fc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-28T13:04:20+09:00"
         }
       ]
     }
