@@ -1,8 +1,8 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-04-29T11:07:52.202437+00:00",
-  "total_articles": 57,
-  "urgent_count": 8,
+  "generated_at": "2026-04-29T12:01:45.678707+00:00",
+  "total_articles": 55,
+  "urgent_count": 6,
   "urgent_items": [
     {
       "title": "Soft launch of open-source code platform for government",
@@ -40,20 +40,6 @@
       "date": "2026-04-28T15:58:30+00:00"
     },
     {
-      "title": "VibeVoice: Open-source frontier voice AI",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-28T11:56:04+00:00"
-    },
-    {
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "url": "https://github.com/localsend/localsend",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-28T11:54:20+00:00"
-    },
-    {
       "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
       "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
       "severity": "high",
@@ -64,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 48,
       "top_items": [
         {
           "title": "Ghostty is leaving GitHub",
           "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-          "score": 2687,
+          "score": 2756,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T19:44:52+00:00"
@@ -77,34 +63,34 @@
         {
           "title": "Your phone is about to stop being yours",
           "url": "https://keepandroidopen.org/en/",
-          "score": 1418,
+          "score": 1444,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T15:21:00+00:00"
         },
         {
-          "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-          "url": "https://github.com/localsend/localsend",
-          "score": 796,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-04-28T11:54:20+00:00"
-        },
-        {
           "title": "Before GitHub",
           "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-          "score": 491,
+          "score": 509,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T21:17:40+00:00"
         },
         {
-          "title": "Who owns the code Claude Code wrote?",
-          "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-          "score": 424,
+          "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+          "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+          "score": 384,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-04-28T16:15:43+00:00"
+        },
+        {
+          "title": "How ChatGPT serves ads",
+          "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+          "score": 377,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-28T11:24:52+00:00"
+          "date": "2026-04-28T23:54:14+00:00"
         }
       ]
     },
