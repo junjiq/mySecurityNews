@@ -1,7 +1,7 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-04-29T12:01:45.678707+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-04-29T13:03:33.545902+00:00",
+  "total_articles": 58,
   "urgent_count": 6,
   "urgent_items": [
     {
@@ -50,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 51,
       "top_items": [
         {
           "title": "Ghostty is leaving GitHub",
           "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-          "score": 2756,
+          "score": 2845,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T19:44:52+00:00"
@@ -71,26 +71,26 @@
         {
           "title": "Before GitHub",
           "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-          "score": 509,
+          "score": 528,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T21:17:40+00:00"
         },
         {
+          "title": "Bugs Rust won't catch",
+          "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+          "score": 398,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-29T02:19:11+00:00"
+        },
+        {
           "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
           "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-          "score": 384,
+          "score": 393,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-28T16:15:43+00:00"
-        },
-        {
-          "title": "How ChatGPT serves ads",
-          "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-          "score": 377,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-28T23:54:14+00:00"
         }
       ]
     },
