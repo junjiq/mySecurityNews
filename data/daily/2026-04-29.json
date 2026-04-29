@@ -1,8 +1,8 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-04-29T00:38:11.758829+00:00",
-  "total_articles": 55,
-  "urgent_count": 9,
+  "generated_at": "2026-04-29T01:37:38.431157+00:00",
+  "total_articles": 53,
+  "urgent_count": 7,
   "urgent_items": [
     {
       "title": "Bankruptcies increase 11.9 percent",
@@ -47,20 +47,6 @@
       "date": "2026-04-28T11:54:20+00:00"
     },
     {
-      "title": "Show HN: AgentSwift – Open-source iOS builder agent",
-      "url": "https://github.com/hpennington/agentswift",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-28T01:14:31+00:00"
-    },
-    {
-      "title": "【緊急】ワイルドカード証明書の誤用がサブドメイン乗っ取りを引き起こす仕組みと対策",
-      "url": "https://qiita.com/kawabe0201/items/d3c0ef67a91a37076acf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-04-28T10:09:18+09:00"
-    },
-    {
       "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
       "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
       "severity": "high",
@@ -76,7 +62,7 @@
         {
           "title": "Ghostty is leaving GitHub",
           "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-          "score": 1526,
+          "score": 1645,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T19:44:52+00:00"
@@ -84,7 +70,7 @@
         {
           "title": "Your phone is about to stop being yours",
           "url": "https://keepandroidopen.org/en/",
-          "score": 925,
+          "score": 973,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T15:21:00+00:00"
@@ -92,7 +78,7 @@
         {
           "title": "Localsend: An open-source cross-platform alternative to AirDrop",
           "url": "https://github.com/localsend/localsend",
-          "score": 728,
+          "score": 738,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-28T11:54:20+00:00"
@@ -108,7 +94,7 @@
         {
           "title": "VibeVoice: Open-source frontier voice AI",
           "url": "https://github.com/microsoft/VibeVoice",
-          "score": 313,
+          "score": 319,
           "source": "hn",
           "severity": "critical",
           "date": "2026-04-28T11:56:04+00:00"
@@ -117,7 +103,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 8,
       "top_items": [
         {
           "title": "n8nでGoogleカレンダーから日報を自動生成してDiscordへ投稿する仕組みを作った",
