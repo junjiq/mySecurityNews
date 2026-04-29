@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-29T17:01:45.377309+00:00",
+  "generated_at": "2026-04-29T17:59:55.487744+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 359,
@@ -9,14 +9,14 @@
   },
   "severity_counts": {
     "critical": 18,
-    "medium": 7,
+    "medium": 6,
     "high": 3
   },
   "top_articles": [
     {
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 3166,
+      "score": 3213,
       "source": "hn",
       "date": "2026-04-28T19:44:52+00:00"
     },
@@ -26,13 +26,6 @@
       "score": 1894,
       "source": "hn",
       "date": "2026-04-24T03:01:21+00:00"
-    },
-    {
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 1500,
-      "source": "hn",
-      "date": "2026-04-23T18:01:39+00:00"
     },
     {
       "title": "Your phone is about to stop being yours",
@@ -49,11 +42,11 @@
       "date": "2026-04-26T06:24:42+00:00"
     },
     {
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 895,
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0",
+      "score": 829,
       "source": "hn",
-      "date": "2026-04-23T17:48:38+00:00"
+      "date": "2026-04-29T14:34:19+00:00"
     },
     {
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
@@ -112,13 +105,6 @@
       "date": "2026-04-27T20:24:33+00:00"
     },
     {
-      "title": "Zed 1.0",
-      "url": "https://zed.dev/blog/zed-1-0",
-      "score": 637,
-      "source": "hn",
-      "date": "2026-04-29T14:34:19+00:00"
-    },
-    {
       "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
       "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
       "score": 614,
@@ -128,7 +114,7 @@
     {
       "title": "Before GitHub",
       "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 598,
+      "score": 612,
       "source": "hn",
       "date": "2026-04-28T21:17:40+00:00"
     },
@@ -152,6 +138,20 @@
       "score": 573,
       "source": "hn",
       "date": "2026-04-27T09:57:10+00:00"
+    },
+    {
+      "title": "Asahi Linux Progress Linux 7.0",
+      "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+      "score": 573,
+      "source": "hn",
+      "date": "2026-04-26T10:50:32+00:00"
+    },
+    {
+      "title": "Bugs Rust won't catch",
+      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "score": 546,
+      "source": "hn",
+      "date": "2026-04-29T02:19:11+00:00"
     }
   ],
   "security_highlights": [
