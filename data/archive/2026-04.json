@@ -1,22 +1,22 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-29T22:48:14.600170+00:00",
+  "generated_at": "2026-04-29T23:20:46.538560+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 357,
-    "zennqiita": 93,
+    "hn": 358,
+    "zennqiita": 92,
     "project": 2
   },
   "severity_counts": {
+    "critical": 17,
     "high": 4,
-    "critical": 16,
     "medium": 6
   },
   "top_articles": [
     {
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 3313,
+      "score": 3320,
       "source": "hn",
       "date": "2026-04-28T19:44:52+00:00"
     },
@@ -30,7 +30,7 @@
     {
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1377,
+      "score": 1413,
       "source": "hn",
       "date": "2026-04-29T14:34:19+00:00"
     },
@@ -44,7 +44,7 @@
     {
       "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
       "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 885,
+      "score": 914,
       "source": "hn",
       "date": "2026-04-29T18:54:31+00:00"
     },
@@ -91,6 +91,13 @@
       "date": "2026-04-26T16:27:29+00:00"
     },
     {
+      "title": "Online age verification is the hill to die on",
+      "url": "https://x.com/GlennMeder/status/2049088498163216560",
+      "score": 670,
+      "source": "hn",
+      "date": "2026-04-29T15:49:57+00:00"
+    },
+    {
       "title": "Men who stare at walls",
       "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
       "score": 654,
@@ -103,13 +110,6 @@
       "score": 653,
       "source": "hn",
       "date": "2026-04-27T20:24:33+00:00"
-    },
-    {
-      "title": "Online age verification is the hill to die on",
-      "url": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 649,
-      "source": "hn",
-      "date": "2026-04-29T15:49:57+00:00"
     },
     {
       "title": "Bugs Rust won't catch",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "I accidentally made law enforcement shut down their fake honeypot",
+      "url": "https://lina.sh/blog/ddos-honeypot",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-29T21:04:38+00:00"
+    },
     {
       "title": "Copy Fail – CVE-2026-31431",
       "url": "https://copy.fail/",
