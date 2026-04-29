@@ -1,7 +1,7 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-04-29T19:33:40.679971+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-04-29T20:26:59.524586+00:00",
+  "total_articles": 66,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 56,
       "top_items": [
-        {
-          "title": "Ghostty is leaving GitHub",
-          "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-          "score": 3255,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-28T19:44:52+00:00"
-        },
         {
           "title": "Zed 1.0",
           "url": "https://zed.dev/blog/zed-1-0",
-          "score": 1086,
+          "score": 1185,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T14:34:19+00:00"
@@ -58,25 +50,65 @@
         {
           "title": "Bugs Rust won't catch",
           "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-          "score": 579,
+          "score": 592,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T02:19:11+00:00"
         },
         {
-          "title": "Soft launch of open-source code platform for government",
-          "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-          "score": 461,
+          "title": "Online age verification is the hill to die on",
+          "url": "https://x.com/GlennMeder/status/2049088498163216560",
+          "score": 511,
           "source": "hn",
-          "severity": "critical",
-          "date": "2026-04-29T09:14:37+00:00"
+          "severity": null,
+          "date": "2026-04-29T15:49:57+00:00"
+        },
+        {
+          "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+          "url": "https://github.com/anthropics/claude-code/issues/53262",
+          "score": 505,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-29T18:54:31+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 10,
       "top_items": [
+        {
+          "title": "ADB の Database Actions で使える「Catalog Tool」とは？",
+          "url": "https://qiita.com/yushibats/items/6f77150c813ffe080c9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T21:33:11+09:00"
+        },
+        {
+          "title": "ガバメント AI「源内」（genai-ai-api）を閉域の AWS 環境へデプロイしてみた",
+          "url": "https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T17:48:36+09:00"
+        },
+        {
+          "title": "React Hook Form 入門 Part 3 — Controller と useFieldArray を実務で使いこなす",
+          "url": "https://qiita.com/nhatcaofedev/items/59ee94d671a0ac42891a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T17:35:16+09:00"
+        },
+        {
+          "title": "ESP32を使ってヘッド不良のHDDから無理やりデータを取り出したお話",
+          "url": "https://qiita.com/_Fujimon/items/2895c1c54ab497d50a6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T16:23:38+09:00"
+        },
         {
           "title": "GitHub神話の6日間 — ガバナンス、稼働率、セキュリティ、コストが同時に揺らいだ一週間",
           "url": "https://qiita.com/crowdy/items/c3e06c47b350ef230352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -84,30 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-29T15:03:28+09:00"
-        },
-        {
-          "title": "WAFは安心を買う装置ではない",
-          "url": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-29T12:37:21+09:00"
-        },
-        {
-          "title": "個人的にjQuery メソッドチートシートまとめた",
-          "url": "https://qiita.com/ryo_sh/items/4a1c1f97932e190db333?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-29T11:57:09+09:00"
-        },
-        {
-          "title": "売上予測WebアプリをFastAPI + Prophet + Reactで個人開発してリリースした話",
-          "url": "https://qiita.com/Mecharhythm/items/88277454da559ab255e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-29T10:05:54+09:00"
         }
       ]
     }

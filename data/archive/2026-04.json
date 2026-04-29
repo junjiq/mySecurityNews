@@ -1,22 +1,22 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-29T19:33:40.716340+00:00",
+  "generated_at": "2026-04-29T20:26:59.564382+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 359,
-    "zennqiita": 91,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 2
   },
   "severity_counts": {
     "high": 4,
-    "critical": 18,
+    "critical": 16,
     "medium": 6
   },
   "top_articles": [
     {
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 3255,
+      "score": 3278,
       "source": "hn",
       "date": "2026-04-28T19:44:52+00:00"
     },
@@ -37,7 +37,7 @@
     {
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1086,
+      "score": 1185,
       "source": "hn",
       "date": "2026-04-29T14:34:19+00:00"
     },
@@ -105,13 +105,6 @@
       "date": "2026-04-27T20:24:33+00:00"
     },
     {
-      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-      "score": 614,
-      "source": "hn",
-      "date": "2026-04-23T21:56:15+00:00"
-    },
-    {
       "title": "Before GitHub",
       "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
       "score": 612,
@@ -119,18 +112,18 @@
       "date": "2026-04-28T21:17:40+00:00"
     },
     {
+      "title": "Bugs Rust won't catch",
+      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "score": 592,
+      "source": "hn",
+      "date": "2026-04-29T02:19:11+00:00"
+    },
+    {
       "title": "GitHub Copilot is moving to usage-based billing",
       "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
       "score": 587,
       "source": "hn",
       "date": "2026-04-27T16:03:08+00:00"
-    },
-    {
-      "title": "Bugs Rust won't catch",
-      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 579,
-      "source": "hn",
-      "date": "2026-04-29T02:19:11+00:00"
     },
     {
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
@@ -152,6 +145,13 @@
       "score": 573,
       "source": "hn",
       "date": "2026-04-26T10:50:32+00:00"
+    },
+    {
+      "title": "GoDaddy gave a domain to a stranger without any documentation",
+      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+      "score": 520,
+      "source": "hn",
+      "date": "2026-04-26T16:57:56+00:00"
     }
   ],
   "security_highlights": [
@@ -294,20 +294,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-25T01:24:40+00:00"
-    },
-    {
-      "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
-      "url": "https://github.com/refactoringhq/tolaria",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-23T22:01:59+00:00"
-    },
-    {
-      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-23T21:56:15+00:00"
     }
   ]
 }
