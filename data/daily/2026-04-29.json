@@ -1,9 +1,16 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-04-29T16:07:07.235057+00:00",
+  "generated_at": "2026-04-29T17:01:45.337321+00:00",
   "total_articles": 55,
   "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+      "url": "https://github.com/GliaX/Stethoscope",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-29T14:47:31+00:00"
+    },
     {
       "title": "Soft launch of open-source code platform for government",
       "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
@@ -24,13 +31,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-28T17:09:41+00:00"
-    },
-    {
-      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-28T16:15:43+00:00"
     }
   ],
   "categories": [
@@ -41,15 +41,23 @@
         {
           "title": "Ghostty is leaving GitHub",
           "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-          "score": 3110,
+          "score": 3166,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T19:44:52+00:00"
         },
         {
+          "title": "Zed 1.0",
+          "url": "https://zed.dev/blog/zed-1-0",
+          "score": 637,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-29T14:34:19+00:00"
+        },
+        {
           "title": "Before GitHub",
           "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-          "score": 586,
+          "score": 598,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T21:17:40+00:00"
@@ -57,7 +65,7 @@
         {
           "title": "Bugs Rust won't catch",
           "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-          "score": 497,
+          "score": 520,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T02:19:11+00:00"
@@ -65,18 +73,10 @@
         {
           "title": "How ChatGPT serves ads",
           "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-          "score": 442,
+          "score": 451,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T23:54:14+00:00"
-        },
-        {
-          "title": "Zed is 1.0",
-          "url": "https://zed.dev/blog/zed-1-0",
-          "score": 430,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-29T14:34:19+00:00"
         }
       ]
     },
