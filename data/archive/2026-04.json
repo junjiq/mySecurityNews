@@ -1,10 +1,10 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-29T20:26:59.564382+00:00",
+  "generated_at": "2026-04-29T20:50:52.151754+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 353,
-    "zennqiita": 97,
+    "hn": 354,
+    "zennqiita": 96,
     "project": 2
   },
   "severity_counts": {
@@ -16,7 +16,7 @@
     {
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 3278,
+      "score": 3283,
       "source": "hn",
       "date": "2026-04-28T19:44:52+00:00"
     },
@@ -37,7 +37,7 @@
     {
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1185,
+      "score": 1214,
       "source": "hn",
       "date": "2026-04-29T14:34:19+00:00"
     },
@@ -114,9 +114,16 @@
     {
       "title": "Bugs Rust won't catch",
       "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 592,
+      "score": 597,
       "source": "hn",
       "date": "2026-04-29T02:19:11+00:00"
+    },
+    {
+      "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "score": 589,
+      "source": "hn",
+      "date": "2026-04-29T18:54:31+00:00"
     },
     {
       "title": "GitHub Copilot is moving to usage-based billing",
@@ -145,13 +152,6 @@
       "score": 573,
       "source": "hn",
       "date": "2026-04-26T10:50:32+00:00"
-    },
-    {
-      "title": "GoDaddy gave a domain to a stranger without any documentation",
-      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-      "score": 520,
-      "source": "hn",
-      "date": "2026-04-26T16:57:56+00:00"
     }
   ],
   "security_highlights": [
