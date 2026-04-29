@@ -1,7 +1,7 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-04-29T07:18:07.624654+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-04-29T08:17:22.269232+00:00",
+  "total_articles": 58,
   "urgent_count": 7,
   "urgent_items": [
     {
@@ -57,12 +57,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 50,
       "top_items": [
         {
           "title": "Ghostty is leaving GitHub",
           "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-          "score": 2296,
+          "score": 2427,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T19:44:52+00:00"
@@ -70,7 +70,7 @@
         {
           "title": "Your phone is about to stop being yours",
           "url": "https://keepandroidopen.org/en/",
-          "score": 1252,
+          "score": 1305,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T15:21:00+00:00"
@@ -86,7 +86,7 @@
         {
           "title": "Before GitHub",
           "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-          "score": 398,
+          "score": 437,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T21:17:40+00:00"
@@ -94,7 +94,7 @@
         {
           "title": "Who owns the code Claude Code wrote?",
           "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-          "score": 348,
+          "score": 371,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T11:24:52+00:00"
@@ -103,8 +103,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 8,
       "top_items": [
+        {
+          "title": "GitHub神話の6日間 — ガバナンス、稼働率、セキュリティ、コストが同時に揺らいだ一週間",
+          "url": "https://qiita.com/crowdy/items/c3e06c47b350ef230352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T15:03:28+09:00"
+        },
         {
           "title": "WAFは安心を買う装置ではない",
           "url": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -122,12 +130,20 @@
           "date": "2026-04-29T11:57:09+09:00"
         },
         {
-          "title": "n8nでGoogleカレンダーから日報を自動生成してDiscordへ投稿する仕組みを作った",
-          "url": "https://qiita.com/wan-code/items/1ba7e323398808fa74e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "売上予測WebアプリをFastAPI + Prophet + Reactで個人開発してリリースした話",
+          "url": "https://qiita.com/Mecharhythm/items/88277454da559ab255e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-28T18:48:44+09:00"
+          "date": "2026-04-29T10:05:54+09:00"
+        },
+        {
+          "title": "相続税・低賃金・移民政策はどうつながるのか？―欧米の教訓から考える成長と財政の設計 : Pythonで学ぶ マクロ経済学入門 (76)",
+          "url": "https://qiita.com/maskot1977/items/a0e5d60c951f0bd0984a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T00:01:53+09:00"
         }
       ]
     }
