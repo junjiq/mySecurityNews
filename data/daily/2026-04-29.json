@@ -1,9 +1,16 @@
 {
   "date": "2026-04-29",
-  "generated_at": "2026-04-29T09:16:05.153585+00:00",
+  "generated_at": "2026-04-29T10:15:55.308093+00:00",
   "total_articles": 57,
-  "urgent_count": 7,
+  "urgent_count": 8,
   "urgent_items": [
+    {
+      "title": "Soft launch of open-source code platform for government",
+      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-29T09:14:37+00:00"
+    },
     {
       "title": "Bankruptcies increase 11.9 percent",
       "url": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
@@ -57,12 +64,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 50,
       "top_items": [
         {
           "title": "Ghostty is leaving GitHub",
           "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-          "score": 2538,
+          "score": 2628,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T19:44:52+00:00"
@@ -70,7 +77,7 @@
         {
           "title": "Your phone is about to stop being yours",
           "url": "https://keepandroidopen.org/en/",
-          "score": 1353,
+          "score": 1384,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T15:21:00+00:00"
@@ -86,7 +93,7 @@
         {
           "title": "Before GitHub",
           "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-          "score": 462,
+          "score": 475,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T21:17:40+00:00"
@@ -94,7 +101,7 @@
         {
           "title": "Who owns the code Claude Code wrote?",
           "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-          "score": 401,
+          "score": 410,
           "source": "hn",
           "severity": null,
           "date": "2026-04-28T11:24:52+00:00"
@@ -103,7 +110,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
         {
           "title": "GitHub神話の6日間 — ガバナンス、稼働率、セキュリティ、コストが同時に揺らいだ一週間",

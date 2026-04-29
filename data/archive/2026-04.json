@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-29T09:16:05.196839+00:00",
+  "generated_at": "2026-04-29T10:15:55.343843+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 357,
@@ -8,15 +8,15 @@
     "project": 2
   },
   "severity_counts": {
+    "critical": 17,
     "medium": 7,
-    "critical": 16,
     "high": 3
   },
   "top_articles": [
     {
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 2538,
+      "score": 2628,
       "source": "hn",
       "date": "2026-04-28T19:44:52+00:00"
     },
@@ -37,7 +37,7 @@
     {
       "title": "Your phone is about to stop being yours",
       "url": "https://keepandroidopen.org/en/",
-      "score": 1353,
+      "score": 1384,
       "source": "hn",
       "date": "2026-04-28T15:21:00+00:00"
     },
@@ -93,7 +93,7 @@
     {
       "title": "Talkie: a 13B vintage language model from 1930",
       "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 701,
+      "score": 710,
       "source": "hn",
       "date": "2026-04-27T21:55:48+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Soft launch of open-source code platform for government",
+      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-29T09:14:37+00:00"
+    },
     {
       "title": "Bankruptcies increase 11.9 percent",
       "url": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
