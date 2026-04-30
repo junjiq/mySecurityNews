@@ -1,0 +1,130 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T00:37:47.690635+00:00",
+  "total_articles": 70,
+  "urgent_count": 4,
+  "urgent_items": [
+    {
+      "title": "I accidentally made law enforcement shut down their fake honeypot",
+      "url": "https://lina.sh/blog/ddos-honeypot",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-29T21:04:38+00:00"
+    },
+    {
+      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+      "url": "https://github.com/GliaX/Stethoscope",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-29T14:47:31+00:00"
+    },
+    {
+      "title": "Soft launch of open-source code platform for government",
+      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-29T09:14:37+00:00"
+    },
+    {
+      "title": "Copy Fail – CVE-2026-31431",
+      "url": "https://copy.fail/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-04-29T18:13:53+00:00"
+    }
+  ],
+  "categories": [
+    {
+      "category": "テクノロジー",
+      "count": 60,
+      "top_items": [
+        {
+          "title": "Zed 1.0",
+          "url": "https://zed.dev/blog/zed-1-0",
+          "score": 1473,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-29T14:34:19+00:00"
+        },
+        {
+          "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+          "url": "https://github.com/anthropics/claude-code/issues/53262",
+          "score": 958,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-29T18:54:31+00:00"
+        },
+        {
+          "title": "Online age verification is the hill to die on",
+          "url": "https://x.com/GlennMeder/status/2049088498163216560",
+          "score": 713,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-29T15:49:57+00:00"
+        },
+        {
+          "title": "Bugs Rust won't catch",
+          "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+          "score": 620,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-29T02:19:11+00:00"
+        },
+        {
+          "title": "Cursor Camp",
+          "url": "https://neal.fun/cursor-camp/",
+          "score": 554,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-29T15:39:43+00:00"
+        }
+      ]
+    },
+    {
+      "category": "日本語技術記事",
+      "count": 10,
+      "top_items": [
+        {
+          "title": "ADB の Database Actions で使える「Catalog Tool」とは？",
+          "url": "https://qiita.com/yushibats/items/6f77150c813ffe080c9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T21:33:11+09:00"
+        },
+        {
+          "title": "ガバメント AI「源内」（genai-ai-api）を閉域の AWS 環境へデプロイしてみた",
+          "url": "https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T17:48:36+09:00"
+        },
+        {
+          "title": "React Hook Form 入門 Part 3 — Controller と useFieldArray を実務で使いこなす",
+          "url": "https://qiita.com/nhatcaofedev/items/59ee94d671a0ac42891a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T17:35:16+09:00"
+        },
+        {
+          "title": "ESP32を使ってヘッド不良のHDDから無理やりデータを取り出したお話",
+          "url": "https://qiita.com/_Fujimon/items/2895c1c54ab497d50a6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T16:23:38+09:00"
+        },
+        {
+          "title": "GitHub神話の6日間 — ガバナンス、稼働率、セキュリティ、コストが同時に揺らいだ一週間",
+          "url": "https://qiita.com/crowdy/items/c3e06c47b350ef230352?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-29T15:03:28+09:00"
+        }
+      ]
+    }
+  ]
+}
