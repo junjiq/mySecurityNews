@@ -1,7 +1,7 @@
 {
   "date": "2026-04-30",
-  "generated_at": "2026-04-30T06:02:22.312251+00:00",
-  "total_articles": 76,
+  "generated_at": "2026-04-30T07:19:59.717999+00:00",
+  "total_articles": 73,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 69,
+      "count": 67,
       "top_items": [
         {
           "title": "Zed 1.0",
           "url": "https://zed.dev/blog/zed-1-0",
-          "score": 1700,
+          "score": 1762,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T14:34:19+00:00"
@@ -49,15 +49,23 @@
         {
           "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
           "url": "https://github.com/anthropics/claude-code/issues/53262",
-          "score": 1066,
+          "score": 1090,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T18:54:31+00:00"
         },
         {
+          "title": "Copy Fail",
+          "url": "https://copy.fail/",
+          "score": 859,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-29T18:13:53+00:00"
+        },
+        {
           "title": "Cursor Camp",
           "url": "https://neal.fun/cursor-camp/",
-          "score": 810,
+          "score": 851,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T15:39:43+00:00"
@@ -69,20 +77,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T15:49:57+00:00"
-        },
-        {
-          "title": "Copy Fail",
-          "url": "https://copy.fail/",
-          "score": 796,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-29T18:13:53+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "WAFは安心を買う装置ではない",
