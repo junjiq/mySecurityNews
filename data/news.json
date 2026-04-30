@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-04-30T08:17:45.872196+00:00",
+  "updated_at": "2026-04-30T09:16:24.055160+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47959463",
+      "source": "hn",
+      "title": "Mozilla's Opposition to Chrome's Prompt API",
+      "url": "https://github.com/mozilla/standards-positions/issues/1213",
+      "score": 19,
+      "comments": 1,
+      "author": "jaffathecake",
+      "tags": [],
+      "date": "2026-04-30T07:43:55+00:00"
+    },
     {
       "id": "qiita-0db02211fa",
       "source": "zennqiita",
@@ -18,10 +29,10 @@
     {
       "id": "hn-47958942",
       "source": "hn",
-      "title": "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
+      "title": "Will you heed my warnings now?",
       "url": "https://scottaaronson.blog/?p=9718",
-      "score": 47,
-      "comments": 36,
+      "score": 51,
+      "comments": 47,
       "author": "bwesterb",
       "tags": [],
       "date": "2026-04-30T06:30:30+00:00",
@@ -69,8 +80,8 @@
       "source": "hn",
       "title": "Monad Tutorials Timeline",
       "url": "https://wiki.haskell.org/Monad_tutorials_timeline",
-      "score": 26,
-      "comments": 5,
+      "score": 33,
+      "comments": 7,
       "author": "brudgers",
       "tags": [],
       "date": "2026-04-30T04:28:07+00:00"
@@ -80,8 +91,8 @@
       "source": "hn",
       "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
       "url": "https://burrito.bio/essays/biology-is-a-burrito",
-      "score": 79,
-      "comments": 11,
+      "score": 91,
+      "comments": 12,
       "author": "the-mitr",
       "tags": [],
       "date": "2026-04-30T03:24:41+00:00"
@@ -91,8 +102,8 @@
       "source": "hn",
       "title": "Where the goblins came from",
       "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 505,
-      "comments": 257,
+      "score": 555,
+      "comments": 312,
       "author": "ilreb",
       "tags": [],
       "date": "2026-04-30T03:21:04+00:00"
@@ -115,8 +126,8 @@
       "source": "hn",
       "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
       "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-      "score": 119,
-      "comments": 80,
+      "score": 129,
+      "comments": 94,
       "author": "reconnecting",
       "tags": [],
       "date": "2026-04-30T03:11:51+00:00"
@@ -126,8 +137,8 @@
       "source": "hn",
       "title": "Functional programmers need to take a look at Zig",
       "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
-      "score": 97,
-      "comments": 62,
+      "score": 111,
+      "comments": 79,
       "author": "xngbuilds",
       "tags": [],
       "date": "2026-04-30T03:11:33+00:00"
@@ -176,8 +187,8 @@
       "source": "hn",
       "title": "The Zig project's rationale for their anti-AI contribution policy",
       "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 220,
-      "comments": 94,
+      "score": 252,
+      "comments": 102,
       "author": "lumpa",
       "tags": [],
       "date": "2026-04-30T02:15:47+00:00"
@@ -211,8 +222,8 @@
       "source": "hn",
       "title": "Craig Venter has died",
       "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "score": 215,
-      "comments": 37,
+      "score": 226,
+      "comments": 41,
       "author": "rdl",
       "tags": [],
       "date": "2026-04-30T01:44:56+00:00"
@@ -259,8 +270,8 @@
       "source": "hn",
       "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
       "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-      "score": 45,
-      "comments": 106,
+      "score": 47,
+      "comments": 116,
       "author": "Jblx2",
       "tags": [],
       "date": "2026-04-30T01:01:55+00:00"
@@ -270,8 +281,8 @@
       "source": "hn",
       "title": "Mike: open-source legal AI",
       "url": "https://mikeoss.com/",
-      "score": 80,
-      "comments": 30,
+      "score": 89,
+      "comments": 34,
       "author": "noleary",
       "tags": [],
       "date": "2026-04-30T00:56:23+00:00",
@@ -395,8 +406,8 @@
       "source": "hn",
       "title": "OpenTrafficMap",
       "url": "https://opentrafficmap.org/",
-      "score": 241,
-      "comments": 55,
+      "score": 257,
+      "comments": 57,
       "author": "moooo99",
       "tags": [],
       "date": "2026-04-29T19:49:30+00:00"
@@ -428,8 +439,8 @@
       "source": "hn",
       "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
       "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 1104,
-      "comments": 470,
+      "score": 1126,
+      "comments": 477,
       "author": "homebrewer",
       "tags": [],
       "date": "2026-04-29T18:54:31+00:00"
@@ -439,8 +450,8 @@
       "source": "hn",
       "title": "Copy Fail",
       "url": "https://copy.fail/",
-      "score": 896,
-      "comments": 336,
+      "score": 933,
+      "comments": 350,
       "author": "unsnap_biceps",
       "tags": [],
       "date": "2026-04-29T18:13:53+00:00"
@@ -496,8 +507,8 @@
       "source": "hn",
       "title": "Laws of UX",
       "url": "https://lawsofux.com/",
-      "score": 258,
-      "comments": 36,
+      "score": 263,
+      "comments": 39,
       "author": "bobbiechen",
       "tags": [],
       "date": "2026-04-29T16:58:13+00:00"
@@ -551,8 +562,8 @@
       "source": "hn",
       "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
       "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "score": 330,
-      "comments": 76,
+      "score": 332,
+      "comments": 78,
       "author": "agwa",
       "tags": [],
       "date": "2026-04-29T16:16:39+00:00"
@@ -617,8 +628,8 @@
       "source": "hn",
       "title": "Cursor Camp",
       "url": "https://neal.fun/cursor-camp/",
-      "score": 888,
-      "comments": 141,
+      "score": 917,
+      "comments": 147,
       "author": "bpierre",
       "tags": [],
       "date": "2026-04-29T15:39:43+00:00"
@@ -694,7 +705,7 @@
       "source": "hn",
       "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
       "url": "https://github.com/GliaX/Stethoscope",
-      "score": 245,
+      "score": 250,
       "comments": 109,
       "author": "0x54MUR41",
       "tags": [],
@@ -706,8 +717,8 @@
       "source": "hn",
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1800,
-      "comments": 581,
+      "score": 1831,
+      "comments": 588,
       "author": "salkahfi",
       "tags": [],
       "date": "2026-04-29T14:34:19+00:00"
@@ -922,8 +933,8 @@
       "source": "hn",
       "title": "Why I still reach for Lisp and Scheme instead of Haskell",
       "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-      "score": 218,
-      "comments": 108,
+      "score": 223,
+      "comments": 113,
       "author": "jjba23",
       "tags": [],
       "date": "2026-04-29T08:43:17+00:00"
@@ -1133,8 +1144,8 @@
       "source": "hn",
       "title": "London to Calcutta by Bus (2022)",
       "url": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
-      "score": 44,
-      "comments": 15,
+      "score": 50,
+      "comments": 18,
       "author": "CGMthrowaway",
       "tags": [],
       "date": "2026-04-28T22:52:22+00:00"
@@ -1344,8 +1355,8 @@
       "source": "hn",
       "title": "Creating a Color Palette from an Image",
       "url": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
-      "score": 64,
-      "comments": 9,
+      "score": 71,
+      "comments": 10,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-04-28T16:23:50+00:00"
@@ -1423,7 +1434,7 @@
       "source": "hn",
       "title": "A 25-Year-Fight over a 2-Second Sample",
       "url": "https://www.plagiarismtoday.com/2026/04/20/a-25-year-fight-over-a-2-second-sample/",
-      "score": 3,
+      "score": 8,
       "comments": 0,
       "author": "speckx",
       "tags": [],
@@ -2041,8 +2052,8 @@
       "source": "hn",
       "title": "Noctua releases official 3D CAD models for its cooling fans",
       "url": "https://www.noctua.at/en/3d-cad-models",
-      "score": 173,
-      "comments": 29,
+      "score": 217,
+      "comments": 36,
       "author": "embedding-shape",
       "tags": [],
       "date": "2026-04-27T21:35:07+00:00"
@@ -2223,6 +2234,17 @@
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-04-27T16:56:27+00:00"
+    },
+    {
+      "id": "hn-47923429",
+      "source": "hn",
+      "title": "\"Parse, don't validate\" through the years with C++",
+      "url": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
+      "score": 3,
+      "comments": 0,
+      "author": "dwrodri",
+      "tags": [],
+      "date": "2026-04-27T16:08:34+00:00"
     },
     {
       "id": "hn-47923357",
@@ -5145,28 +5167,6 @@
       "date": "2026-04-24T13:52:58+00:00"
     },
     {
-      "id": "hn-47890094",
-      "source": "hn",
-      "title": "The pope moves to police AI",
-      "url": "https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence",
-      "score": 11,
-      "comments": 0,
-      "author": "giuliomagnifico",
-      "tags": [],
-      "date": "2026-04-24T13:36:42+00:00"
-    },
-    {
-      "id": "hn-47889664",
-      "source": "hn",
-      "title": "The Era of Citizens United Could Be Nearing Its End",
-      "url": "https://jacobin.com/2026/04/citizens-united-electoral-corruption-case",
-      "score": 18,
-      "comments": 1,
-      "author": "Tomte",
-      "tags": [],
-      "date": "2026-04-24T13:05:02+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5637,6 +5637,51 @@
       "date": "Sun, 26 Apr 2026 14:29:03 GMT"
     },
     {
+      "id": "edb-9dd43d405b",
+      "source": "msf",
+      "title": "[webapps] BusyBox 1.37.0 - Path Traversal",
+      "url": "https://www.exploit-db.com/exploits/52538",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 30 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-c9162d88ff",
+      "source": "msf",
+      "title": "[local] Windows 11 25H2  - Heap Overflow",
+      "url": "https://www.exploit-db.com/exploits/52537",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 30 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-9b33d2f8e7",
+      "source": "msf",
+      "title": "[webapps] JUNG Smart Visu Server 1.1.1050 - Dos",
+      "url": "https://www.exploit-db.com/exploits/52536",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 30 Apr 2026 00:00:00 +0000"
+    },
+    {
       "id": "edb-860d80d658",
       "source": "msf",
       "title": "[webapps] SumatraPDF 3.5.2 - Remote Code Execution",
@@ -5806,51 +5851,6 @@
       "source": "msf",
       "title": "[local] GNU InetUtils 2.6 - Telnetd Remote Privilege Escalation",
       "url": "https://www.exploit-db.com/exploits/52524",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 29 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-43dd29add5",
-      "source": "msf",
-      "title": "[webapps] phpMyFAQ  4.0.16 - Improper Authorization",
-      "url": "https://www.exploit-db.com/exploits/52523",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 29 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-cd38e5921d",
-      "source": "msf",
-      "title": "[webapps] GeographicLib v2.5.1 - stack buffer overflow",
-      "url": "https://www.exploit-db.com/exploits/52522",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 29 Apr 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-1fd6dc7047",
-      "source": "msf",
-      "title": "[local] OpenWrt 23.05 - Authenticated Remote Code Execution (RCE)",
-      "url": "https://www.exploit-db.com/exploits/52521",
       "score": null,
       "author": "Exploit-DB",
       "tags": [
