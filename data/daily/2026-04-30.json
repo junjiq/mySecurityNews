@@ -1,7 +1,7 @@
 {
   "date": "2026-04-30",
-  "generated_at": "2026-04-30T17:38:15.344973+00:00",
-  "total_articles": 66,
+  "generated_at": "2026-04-30T18:31:32.065450+00:00",
+  "total_articles": 67,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,16 +22,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 56,
       "top_items": [
-        {
-          "title": "Copy Fail",
-          "url": "https://copy.fail/",
-          "score": 1252,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-29T18:13:53+00:00"
-        },
         {
           "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
           "url": "https://github.com/anthropics/claude-code/issues/53262",
@@ -43,26 +35,34 @@
         {
           "title": "Where the goblins came from",
           "url": "https://openai.com/index/where-the-goblins-came-from/",
-          "score": 945,
+          "score": 971,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T03:21:04+00:00"
         },
         {
+          "title": "Belgium stops decommissioning nuclear power plants",
+          "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+          "score": 591,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-30T12:17:14+00:00"
+        },
+        {
           "title": "The Zig project's rationale for their anti-AI contribution policy",
           "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-          "score": 566,
+          "score": 579,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T02:15:47+00:00"
         },
         {
-          "title": "Belgium stops decommissioning nuclear power plants",
-          "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-          "score": 538,
+          "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+          "url": "https://twitter.com/theo/status/2049645973350363168",
+          "score": 461,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-30T12:17:14+00:00"
+          "date": "2026-04-30T14:36:58+00:00"
         }
       ]
     },
