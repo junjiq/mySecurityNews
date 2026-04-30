@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-30T20:49:58.797208+00:00",
+  "generated_at": "2026-04-30T21:23:04.727509+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 89,
+    "hn": 362,
+    "zennqiita": 88,
     "project": 2
   },
   "severity_counts": {
+    "critical": 18,
     "medium": 7,
-    "critical": 17,
     "high": 3
   },
   "top_articles": [
@@ -91,6 +91,13 @@
       "date": "2026-04-26T20:03:12+00:00"
     },
     {
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "score": 751,
+      "source": "hn",
+      "date": "2026-04-30T14:36:58+00:00"
+    },
+    {
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
       "score": 731,
@@ -105,13 +112,6 @@
       "date": "2026-04-27T21:55:48+00:00"
     },
     {
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 718,
-      "source": "hn",
-      "date": "2026-04-30T14:36:58+00:00"
-    },
-    {
       "title": "An AI agent deleted our production database. The agent's confession is below",
       "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
       "score": 693,
@@ -121,7 +121,7 @@
     {
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 673,
+      "score": 682,
       "source": "hn",
       "date": "2026-04-30T12:17:14+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "The upsell game – Vercel upselling tactics revealed",
+      "url": "https://theupsellgame.com/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-30T20:02:35+00:00"
+    },
     {
       "title": "Mike: open-source legal AI",
       "url": "https://mikeoss.com/",
