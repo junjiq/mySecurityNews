@@ -1,7 +1,7 @@
 {
   "date": "2026-04-30",
-  "generated_at": "2026-04-30T07:19:59.717999+00:00",
-  "total_articles": 73,
+  "generated_at": "2026-04-30T08:17:45.935510+00:00",
+  "total_articles": 82,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 67,
+      "count": 66,
       "top_items": [
         {
           "title": "Zed 1.0",
           "url": "https://zed.dev/blog/zed-1-0",
-          "score": 1762,
+          "score": 1800,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T14:34:19+00:00"
@@ -49,7 +49,7 @@
         {
           "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
           "url": "https://github.com/anthropics/claude-code/issues/53262",
-          "score": 1090,
+          "score": 1104,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T18:54:31+00:00"
@@ -57,7 +57,7 @@
         {
           "title": "Copy Fail",
           "url": "https://copy.fail/",
-          "score": 859,
+          "score": 896,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T18:13:53+00:00"
@@ -65,7 +65,7 @@
         {
           "title": "Cursor Camp",
           "url": "https://neal.fun/cursor-camp/",
-          "score": 851,
+          "score": 888,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T15:39:43+00:00"
@@ -82,8 +82,32 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 16,
       "top_items": [
+        {
+          "title": "【新卒・英語苦手エンジニア必見】エンジニアなら知っておきたい現場で使われる重要英単語18選 - 徹底解説",
+          "url": "https://qiita.com/i-inose/items/51f96dbf92dfd5799992?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-30T16:20:56+09:00"
+        },
+        {
+          "title": "Oracle AI Database 26ai 新機能 - Deep Data Security -",
+          "url": "https://qiita.com/Western24/items/4c40e95e432883b51f5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-30T15:21:24+09:00"
+        },
+        {
+          "title": "OCI APIGW と Functions と Object Storage で 静的なHTML を公開してみる。(Oracle Cloud Infrastructure)",
+          "url": "https://qiita.com/ora_gonsuke777/items/87d528e583e3754358ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-30T14:11:57+09:00"
+        },
         {
           "title": "WAFは安心を買う装置ではない",
           "url": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -93,36 +117,12 @@
           "date": "2026-04-30T12:20:11+09:00"
         },
         {
-          "title": "Aurora Serverless v2 のゼロスケール再開時間を Platform Version 4 で再計測してみた",
-          "url": "https://qiita.com/asahide/items/39952bbc3c587aa792f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "新卒をメンタリングするつもりが、逆にメンタルケアされていた2年目エンジニアの話",
+          "url": "https://qiita.com/Rabbit_booK/items/e3b7ac45d5cc7699940f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-30T10:02:19+09:00"
-        },
-        {
-          "title": "ADB の Database Actions で使える「Catalog Tool」とは？",
-          "url": "https://qiita.com/yushibats/items/6f77150c813ffe080c9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-29T21:33:11+09:00"
-        },
-        {
-          "title": "ガバメント AI「源内」（genai-ai-api）を閉域の AWS 環境へデプロイしてみた",
-          "url": "https://qiita.com/takeda_h/items/89201d196e3f68ba3044?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-29T17:48:36+09:00"
-        },
-        {
-          "title": "React Hook Form 入門 Part 3 — Controller と useFieldArray を実務で使いこなす",
-          "url": "https://qiita.com/nhatcaofedev/items/59ee94d671a0ac42891a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-29T17:35:16+09:00"
+          "date": "2026-04-30T12:02:16+09:00"
         }
       ]
     }
