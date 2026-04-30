@@ -1,6 +1,6 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-04-30T01:37:00.205780+00:00",
+  "generated_at": "2026-04-30T03:08:05.605978+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 360,
@@ -9,8 +9,8 @@
   },
   "severity_counts": {
     "critical": 17,
-    "high": 4,
-    "medium": 6
+    "medium": 6,
+    "high": 3
   },
   "top_articles": [
     {
@@ -23,7 +23,7 @@
     {
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1518,
+      "score": 1591,
       "source": "hn",
       "date": "2026-04-29T14:34:19+00:00"
     },
@@ -44,9 +44,16 @@
     {
       "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
       "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 978,
+      "score": 1007,
       "source": "hn",
       "date": "2026-04-29T18:54:31+00:00"
+    },
+    {
+      "title": "Online age verification is the hill to die on",
+      "url": "https://x.com/GlennMeder/status/2049088498163216560",
+      "score": 799,
+      "source": "hn",
+      "date": "2026-04-29T15:49:57+00:00"
     },
     {
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
@@ -70,13 +77,6 @@
       "date": "2026-04-26T20:03:12+00:00"
     },
     {
-      "title": "Online age verification is the hill to die on",
-      "url": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 743,
-      "source": "hn",
-      "date": "2026-04-29T15:49:57+00:00"
-    },
-    {
       "title": "Amateur armed with ChatGPT solves an Erdős problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
       "score": 731,
@@ -91,11 +91,25 @@
       "date": "2026-04-27T21:55:48+00:00"
     },
     {
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "score": 696,
+      "source": "hn",
+      "date": "2026-04-29T15:39:43+00:00"
+    },
+    {
       "title": "An AI agent deleted our production database. The agent's confession is below",
       "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
       "score": 693,
       "source": "hn",
       "date": "2026-04-26T16:27:29+00:00"
+    },
+    {
+      "title": "Copy Fail",
+      "url": "https://copy.fail/",
+      "score": 658,
+      "source": "hn",
+      "date": "2026-04-29T18:13:53+00:00"
     },
     {
       "title": "Men who stare at walls",
@@ -126,13 +140,6 @@
       "date": "2026-04-28T21:17:40+00:00"
     },
     {
-      "title": "Cursor Camp",
-      "url": "https://neal.fun/cursor-camp/",
-      "score": 610,
-      "source": "hn",
-      "date": "2026-04-29T15:39:43+00:00"
-    },
-    {
       "title": "GitHub Copilot is moving to usage-based billing",
       "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
       "score": 587,
@@ -145,13 +152,6 @@
       "score": 574,
       "source": "hn",
       "date": "2026-04-25T05:56:12+00:00"
-    },
-    {
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "score": 573,
-      "source": "hn",
-      "date": "2026-04-27T09:57:10+00:00"
     }
   ],
   "security_highlights": [
@@ -161,13 +161,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-29T21:04:38+00:00"
-    },
-    {
-      "title": "Copy Fail – CVE-2026-31431",
-      "url": "https://copy.fail/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-04-29T18:13:53+00:00"
     },
     {
       "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
