@@ -1,25 +1,58 @@
 {
-  "updated_at": "2026-04-30T19:32:57.204699+00:00",
+  "updated_at": "2026-04-30T20:26:29.213829+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47967069",
+      "source": "hn",
+      "title": "Follow-up to Carrot disclosure: Forgejo",
+      "url": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+      "score": 11,
+      "comments": 3,
+      "author": "homebrewer",
+      "tags": [],
+      "date": "2026-04-30T19:22:55+00:00"
+    },
     {
       "id": "hn-47966625",
       "source": "hn",
       "title": "Does Postgres Scale?",
       "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
-      "score": 5,
-      "comments": 0,
+      "score": 29,
+      "comments": 7,
       "author": "KraftyOne",
       "tags": [],
       "date": "2026-04-30T18:45:22+00:00"
+    },
+    {
+      "id": "hn-47966530",
+      "source": "hn",
+      "title": "If Apple makes an iPad Neo, it's all over",
+      "url": "https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html",
+      "score": 26,
+      "comments": 34,
+      "author": "ndr42",
+      "tags": [],
+      "date": "2026-04-30T18:36:51+00:00"
+    },
+    {
+      "id": "hn-47966484",
+      "source": "hn",
+      "title": "The Human Creativity Benchmark – Evaluating Generative AI in Creative Work",
+      "url": "https://contralabs.com/research/human-creativity-benchmark",
+      "score": 10,
+      "comments": 1,
+      "author": "0bytematt",
+      "tags": [],
+      "date": "2026-04-30T18:33:03+00:00"
     },
     {
       "id": "hn-47966254",
       "source": "hn",
       "title": "Full-Text Search with DuckDB",
       "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-      "score": 9,
-      "comments": 1,
+      "score": 25,
+      "comments": 6,
       "author": "ethagnawl",
       "tags": [],
       "date": "2026-04-30T18:14:18+00:00"
@@ -29,7 +62,7 @@
       "source": "hn",
       "title": "Recovering files from beyond the grave using PhotoRec",
       "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
-      "score": 14,
+      "score": 22,
       "comments": 3,
       "author": "speckx",
       "tags": [],
@@ -40,8 +73,8 @@
       "source": "hn",
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 90,
-      "comments": 23,
+      "score": 109,
+      "comments": 28,
       "author": "elvis70",
       "tags": [],
       "date": "2026-04-30T17:14:21+00:00"
@@ -71,10 +104,10 @@
     {
       "id": "hn-47965108",
       "source": "hn",
-      "title": "CopyFail Was Not Disclosed to Distros",
+      "title": "CopyFail was not disclosed to Gentoo developer",
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 166,
-      "comments": 94,
+      "score": 236,
+      "comments": 147,
       "author": "ori_b",
       "tags": [],
       "date": "2026-04-30T16:43:47+00:00"
@@ -84,8 +117,8 @@
       "source": "hn",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 246,
-      "comments": 54,
+      "score": 288,
+      "comments": 77,
       "author": "the-mitr",
       "tags": [],
       "date": "2026-04-30T16:41:00+00:00"
@@ -117,8 +150,8 @@
       "source": "hn",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 195,
-      "comments": 54,
+      "score": 231,
+      "comments": 74,
       "author": "j12y",
       "tags": [],
       "date": "2026-04-30T16:09:26+00:00",
@@ -129,8 +162,8 @@
       "source": "hn",
       "title": "Spain's parliament will act against massive IP blockages by LaLiga",
       "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "score": 287,
-      "comments": 121,
+      "score": 312,
+      "comments": 141,
       "author": "akyuu",
       "tags": [],
       "date": "2026-04-30T15:31:40+00:00"
@@ -140,8 +173,8 @@
       "source": "hn",
       "title": "A 1960s art school experiment that redefined creativity",
       "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
-      "score": 50,
-      "comments": 9,
+      "score": 57,
+      "comments": 14,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-04-30T15:20:49+00:00"
@@ -162,8 +195,8 @@
       "source": "hn",
       "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
       "url": "https://honker.dev/",
-      "score": 105,
-      "comments": 26,
+      "score": 124,
+      "comments": 27,
       "author": "ferriswil",
       "tags": [],
       "date": "2026-04-30T14:43:02+00:00"
@@ -173,8 +206,8 @@
       "source": "hn",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 592,
-      "comments": 363,
+      "score": 689,
+      "comments": 405,
       "author": "elmean",
       "tags": [],
       "date": "2026-04-30T14:36:58+00:00"
@@ -202,12 +235,25 @@
       "date": "2026-04-30T14:26:38+00:00"
     },
     {
+      "id": "qiita-5093c18d44",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "社会人のためのObsidian：実践的なVault構成とワークフロー",
+      "url": "https://qiita.com/harryforge/items/f3a946f5ce8326dca4ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "harryforge",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-30T22:58:28+09:00"
+    },
+    {
       "id": "hn-47962548",
       "source": "hn",
-      "title": "How an Oil Refinery Works",
+      "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 229,
-      "comments": 51,
+      "score": 242,
+      "comments": 57,
       "author": "chmaynard",
       "tags": [],
       "date": "2026-04-30T13:54:20+00:00"
@@ -261,8 +307,8 @@
       "source": "hn",
       "title": "I aggregated 28 US Government auction sites into one search",
       "url": "https://bidprowl.com",
-      "score": 193,
-      "comments": 56,
+      "score": 201,
+      "comments": 62,
       "author": "scarsam",
       "tags": [],
       "date": "2026-04-30T12:24:53+00:00"
@@ -272,8 +318,8 @@
       "source": "hn",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 630,
-      "comments": 548,
+      "score": 665,
+      "comments": 580,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-04-30T12:17:14+00:00"
@@ -327,11 +373,37 @@
       "source": "hn",
       "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
       "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "score": 245,
-      "comments": 154,
+      "score": 251,
+      "comments": 159,
       "author": "steveharing1",
       "tags": [],
       "date": "2026-04-30T10:31:17+00:00"
+    },
+    {
+      "id": "qiita-2e7ff68c11",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【n8n】YouTube新着動画を自動でDiscord通知する仕組みを作ってみた（重複通知防止付き）",
+      "url": "https://qiita.com/wan-code/items/e4b45796c414e4b0054d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "wan-code",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-30T18:56:25+09:00"
+    },
+    {
+      "id": "qiita-05d93b8051",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code の通知設定 + 通知一括削除ショートカット（Mac）",
+      "url": "https://qiita.com/I635230/items/5e17576aa2219d4dbca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "I635230",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-30T18:46:03+09:00"
     },
     {
       "id": "hn-47959513",
@@ -348,9 +420,9 @@
       "id": "hn-47959463",
       "source": "hn",
       "title": "Mozilla's opposition to Chrome's Prompt API",
-      "url": "https://github.com/mozilla/standards-positions/issues/1213",
-      "score": 470,
-      "comments": 189,
+      "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+      "score": 491,
+      "comments": 196,
       "author": "jaffathecake",
       "tags": [],
       "date": "2026-04-30T07:43:55+00:00"
@@ -367,6 +439,19 @@
         "Qiita"
       ],
       "date": "2026-04-30T16:20:56+09:00"
+    },
+    {
+      "id": "qiita-bd22ae7647",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "SVGならAIでも高精度に画像を編集・自動生成できる",
+      "url": "https://qiita.com/degudegu2510/items/554e4a4a058f8473f7d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "degudegu2510",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-30T15:53:14+09:00"
     },
     {
       "id": "hn-47958942",
@@ -1103,8 +1188,8 @@
       "source": "hn",
       "title": "10Gb/s Ethernet: what I did to get it working in my home",
       "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
-      "score": 62,
-      "comments": 38,
+      "score": 82,
+      "comments": 59,
       "author": "gpjt",
       "tags": [],
       "date": "2026-04-29T13:15:46+00:00"
@@ -1592,6 +1677,17 @@
       "date": "2026-04-28T19:24:43+00:00"
     },
     {
+      "id": "hn-47939158",
+      "source": "hn",
+      "title": "The Church Rock Uranium Mill Spill",
+      "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
+      "score": 6,
+      "comments": 0,
+      "author": "Sir_Twist",
+      "tags": [],
+      "date": "2026-04-28T19:13:26+00:00"
+    },
+    {
       "id": "hn-47939105",
       "source": "hn",
       "title": "CJIT: C, Just in Time",
@@ -1648,6 +1744,17 @@
       "date": "2026-04-28T18:01:21+00:00"
     },
     {
+      "id": "hn-47937814",
+      "source": "hn",
+      "title": "Reverse Engineering SimTower",
+      "url": "https://phulin.me/blog/simtower",
+      "score": 21,
+      "comments": 1,
+      "author": "patrickhulin",
+      "tags": [],
+      "date": "2026-04-28T17:41:38+00:00"
+    },
+    {
       "id": "hn-47937641",
       "source": "hn",
       "title": "BookStack Moves from GitHub to Codeberg",
@@ -1663,8 +1770,8 @@
       "source": "hn",
       "title": "How Semiconductors Were Made in America",
       "url": "https://www.siliconimist.com/p/semiconductors-made-in-america",
-      "score": 14,
-      "comments": 4,
+      "score": 20,
+      "comments": 8,
       "author": "johncole",
       "tags": [],
       "date": "2026-04-28T17:26:58+00:00"
@@ -2301,6 +2408,19 @@
       "date": "2026-04-28T11:13:44+09:00"
     },
     {
+      "id": "qiita-aaf6ab1241",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI駆動開発における「認知的負債」をtextlintで減らす",
+      "url": "https://qiita.com/autotaker1984/items/e4e6e741f93c4ecd8af9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "autotaker1984",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-04-28T10:51:27+09:00"
+    },
+    {
       "id": "qiita-1a532190d7",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2592,8 +2712,8 @@
       "source": "hn",
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 162,
-      "comments": 82,
+      "score": 184,
+      "comments": 91,
       "author": "vok",
       "tags": [],
       "date": "2026-04-27T17:52:12+00:00"
@@ -5040,125 +5160,6 @@
         "Qiita"
       ],
       "date": "2026-04-25T12:41:37+09:00"
-    },
-    {
-      "id": "qiita-758e22ce8b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "gpt-image-2でUIを量産する実務プロンプトテンプレート集：ダッシュボード／LP／モバイル／ロゴ／スライドの5パターン",
-      "url": "https://qiita.com/nogataka/items/fed4cba1439d0073f2d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nogataka",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-25T11:54:24+09:00"
-    },
-    {
-      "id": "hn-47898142",
-      "source": "hn",
-      "title": "The Last of the Lost Generation",
-      "url": "https://porticoquarterly.com/book/the-last-of-the-lost-generation/",
-      "score": 6,
-      "comments": 2,
-      "author": "benbreen",
-      "tags": [],
-      "date": "2026-04-25T02:42:06+00:00"
-    },
-    {
-      "id": "hn-47897891",
-      "source": "hn",
-      "title": "Firefox Has Integrated Brave's Adblock Engine",
-      "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "score": 253,
-      "comments": 128,
-      "author": "nreece",
-      "tags": [],
-      "date": "2026-04-25T01:47:33+00:00"
-    },
-    {
-      "id": "qiita-42ee491604",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと",
-      "url": "https://qiita.com/ot12/items/06420caf41a34a910c53?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ot12",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-25T10:44:00+09:00"
-    },
-    {
-      "id": "qiita-f7685d2583",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "DuckDB のマクロが便利だったので、テーブルデータ加工について Pandas とユースケース別に比較してみた",
-      "url": "https://qiita.com/atsushi11o7/items/5ad223ebdb5e138534c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "atsushi11o7",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-25T10:26:22+09:00"
-    },
-    {
-      "id": "hn-47897790",
-      "source": "hn",
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "url": "https://alash3al.github.io/stash?_v01",
-      "score": 130,
-      "comments": 57,
-      "author": "alash3al",
-      "tags": [],
-      "date": "2026-04-25T01:24:40+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-47897706",
-      "source": "hn",
-      "title": "Cosmology with Geometry Nodes",
-      "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
-      "score": 85,
-      "comments": 1,
-      "author": "shankysingh",
-      "tags": [],
-      "date": "2026-04-25T01:08:14+00:00"
-    },
-    {
-      "id": "hn-47897681",
-      "source": "hn",
-      "title": "Plain text has been around for decades and it’s here to stay",
-      "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-      "score": 265,
-      "comments": 131,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-04-25T01:03:09+00:00"
-    },
-    {
-      "id": "hn-47897647",
-      "source": "hn",
-      "title": "Replace IBM Quantum back end with /dev/urandom",
-      "url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-      "score": 324,
-      "comments": 44,
-      "author": "pigeons",
-      "tags": [],
-      "date": "2026-04-25T00:58:38+00:00"
-    },
-    {
-      "id": "qiita-b3c8fe0197",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "2026/04/25 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/f1d42df1886c13239f59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ennagara128",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-25T09:44:11+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

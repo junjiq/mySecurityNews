@@ -1,7 +1,7 @@
 {
   "date": "2026-04-30",
-  "generated_at": "2026-04-30T19:32:57.266262+00:00",
-  "total_articles": 66,
+  "generated_at": "2026-04-30T20:26:29.275829+00:00",
+  "total_articles": 70,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -33,9 +33,17 @@
           "date": "2026-04-30T03:21:04+00:00"
         },
         {
+          "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+          "url": "https://twitter.com/theo/status/2049645973350363168",
+          "score": 689,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-30T14:36:58+00:00"
+        },
+        {
           "title": "Belgium stops decommissioning nuclear power plants",
           "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-          "score": 630,
+          "score": 665,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T12:17:14+00:00"
@@ -49,17 +57,9 @@
           "date": "2026-04-30T02:15:47+00:00"
         },
         {
-          "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-          "url": "https://twitter.com/theo/status/2049645973350363168",
-          "score": 592,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-30T14:36:58+00:00"
-        },
-        {
           "title": "Mozilla's opposition to Chrome's Prompt API",
-          "url": "https://github.com/mozilla/standards-positions/issues/1213",
-          "score": 470,
+          "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
+          "score": 491,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T07:43:55+00:00"
@@ -68,8 +68,32 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 15,
       "top_items": [
+        {
+          "title": "社会人のためのObsidian：実践的なVault構成とワークフロー",
+          "url": "https://qiita.com/harryforge/items/f3a946f5ce8326dca4ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-30T22:58:28+09:00"
+        },
+        {
+          "title": "【n8n】YouTube新着動画を自動でDiscord通知する仕組みを作ってみた（重複通知防止付き）",
+          "url": "https://qiita.com/wan-code/items/e4b45796c414e4b0054d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-30T18:56:25+09:00"
+        },
+        {
+          "title": "Claude Code の通知設定 + 通知一括削除ショートカット（Mac）",
+          "url": "https://qiita.com/I635230/items/5e17576aa2219d4dbca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-04-30T18:46:03+09:00"
+        },
         {
           "title": "【新卒・英語苦手エンジニア必見】エンジニアなら知っておきたい現場で使われる重要英単語18選 - 徹底解説",
           "url": "https://qiita.com/i-inose/items/51f96dbf92dfd5799992?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,36 +103,12 @@
           "date": "2026-04-30T16:20:56+09:00"
         },
         {
-          "title": "Oracle AI Database 26ai 新機能 - Deep Data Security -",
-          "url": "https://qiita.com/Western24/items/4c40e95e432883b51f5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "SVGならAIでも高精度に画像を編集・自動生成できる",
+          "url": "https://qiita.com/degudegu2510/items/554e4a4a058f8473f7d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-04-30T15:21:24+09:00"
-        },
-        {
-          "title": "OCI APIGW と Functions と Object Storage で 静的なHTML を公開してみる。(Oracle Cloud Infrastructure)",
-          "url": "https://qiita.com/ora_gonsuke777/items/87d528e583e3754358ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-30T14:11:57+09:00"
-        },
-        {
-          "title": "WAFは安心を買う装置ではない",
-          "url": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-30T12:20:11+09:00"
-        },
-        {
-          "title": "新卒をメンタリングするつもりが、逆にメンタルケアされていた2年目エンジニアの話",
-          "url": "https://qiita.com/Rabbit_booK/items/e3b7ac45d5cc7699940f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-04-30T12:02:16+09:00"
+          "date": "2026-04-30T15:53:14+09:00"
         }
       ]
     }
