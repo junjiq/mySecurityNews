@@ -1,7 +1,7 @@
 {
   "date": "2026-04-30",
-  "generated_at": "2026-04-30T13:02:56.292413+00:00",
-  "total_articles": 74,
+  "generated_at": "2026-04-30T14:15:36.644067+00:00",
+  "total_articles": 76,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,15 +29,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 62,
+      "count": 64,
       "top_items": [
         {
           "title": "Zed 1.0",
           "url": "https://zed.dev/blog/zed-1-0",
-          "score": 1945,
+          "score": 1982,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T14:34:19+00:00"
+        },
+        {
+          "title": "Copy Fail",
+          "url": "https://copy.fail/",
+          "score": 1178,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-29T18:13:53+00:00"
         },
         {
           "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
@@ -48,28 +56,20 @@
           "date": "2026-04-29T18:54:31+00:00"
         },
         {
-          "title": "Copy Fail",
-          "url": "https://copy.fail/",
-          "score": 1121,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-29T18:13:53+00:00"
-        },
-        {
           "title": "Cursor Camp",
           "url": "https://neal.fun/cursor-camp/",
-          "score": 1031,
+          "score": 1064,
           "source": "hn",
           "severity": null,
           "date": "2026-04-29T15:39:43+00:00"
         },
         {
-          "title": "Online age verification is the hill to die on",
-          "url": "https://x.com/GlennMeder/status/2049088498163216560",
-          "score": 799,
+          "title": "Where the goblins came from",
+          "url": "https://openai.com/index/where-the-goblins-came-from/",
+          "score": 834,
           "source": "hn",
           "severity": null,
-          "date": "2026-04-29T15:49:57+00:00"
+          "date": "2026-04-30T03:21:04+00:00"
         }
       ]
     },
