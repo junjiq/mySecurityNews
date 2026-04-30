@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-04-30T18:31:31.993231+00:00",
+  "updated_at": "2026-04-30T19:32:57.204699+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47966625",
+      "source": "hn",
+      "title": "Does Postgres Scale?",
+      "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+      "score": 5,
+      "comments": 0,
+      "author": "KraftyOne",
+      "tags": [],
+      "date": "2026-04-30T18:45:22+00:00"
+    },
+    {
+      "id": "hn-47966254",
+      "source": "hn",
+      "title": "Full-Text Search with DuckDB",
+      "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+      "score": 9,
+      "comments": 1,
+      "author": "ethagnawl",
+      "tags": [],
+      "date": "2026-04-30T18:14:18+00:00"
+    },
     {
       "id": "hn-47965835",
       "source": "hn",
       "title": "Recovering files from beyond the grave using PhotoRec",
       "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
-      "score": 7,
-      "comments": 0,
+      "score": 14,
+      "comments": 3,
       "author": "speckx",
       "tags": [],
       "date": "2026-04-30T17:42:11+00:00"
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 55,
-      "comments": 12,
+      "score": 90,
+      "comments": 23,
       "author": "elvis70",
       "tags": [],
       "date": "2026-04-30T17:14:21+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "CopyFail Was Not Disclosed to Distros",
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 82,
-      "comments": 25,
+      "score": 166,
+      "comments": 94,
       "author": "ori_b",
       "tags": [],
       "date": "2026-04-30T16:43:47+00:00"
@@ -62,8 +84,8 @@
       "source": "hn",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 153,
-      "comments": 25,
+      "score": 246,
+      "comments": 54,
       "author": "the-mitr",
       "tags": [],
       "date": "2026-04-30T16:41:00+00:00"
@@ -95,8 +117,8 @@
       "source": "hn",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 138,
-      "comments": 31,
+      "score": 195,
+      "comments": 54,
       "author": "j12y",
       "tags": [],
       "date": "2026-04-30T16:09:26+00:00",
@@ -107,8 +129,8 @@
       "source": "hn",
       "title": "Spain's parliament will act against massive IP blockages by LaLiga",
       "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "score": 242,
-      "comments": 90,
+      "score": 287,
+      "comments": 121,
       "author": "akyuu",
       "tags": [],
       "date": "2026-04-30T15:31:40+00:00"
@@ -118,8 +140,8 @@
       "source": "hn",
       "title": "A 1960s art school experiment that redefined creativity",
       "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
-      "score": 38,
-      "comments": 6,
+      "score": 50,
+      "comments": 9,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-04-30T15:20:49+00:00"
@@ -140,8 +162,8 @@
       "source": "hn",
       "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
       "url": "https://honker.dev/",
-      "score": 83,
-      "comments": 17,
+      "score": 105,
+      "comments": 26,
       "author": "ferriswil",
       "tags": [],
       "date": "2026-04-30T14:43:02+00:00"
@@ -151,8 +173,8 @@
       "source": "hn",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 461,
-      "comments": 308,
+      "score": 592,
+      "comments": 363,
       "author": "elmean",
       "tags": [],
       "date": "2026-04-30T14:36:58+00:00"
@@ -184,8 +206,8 @@
       "source": "hn",
       "title": "How an Oil Refinery Works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 195,
-      "comments": 40,
+      "score": 229,
+      "comments": 51,
       "author": "chmaynard",
       "tags": [],
       "date": "2026-04-30T13:54:20+00:00"
@@ -217,8 +239,8 @@
       "source": "hn",
       "title": "The Science Behind Honey's Eternal Shelf Life (2013)",
       "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
-      "score": 45,
-      "comments": 25,
+      "score": 50,
+      "comments": 29,
       "author": "downbad_",
       "tags": [],
       "date": "2026-04-30T13:15:04+00:00"
@@ -239,8 +261,8 @@
       "source": "hn",
       "title": "I aggregated 28 US Government auction sites into one search",
       "url": "https://bidprowl.com",
-      "score": 171,
-      "comments": 52,
+      "score": 193,
+      "comments": 56,
       "author": "scarsam",
       "tags": [],
       "date": "2026-04-30T12:24:53+00:00"
@@ -250,8 +272,8 @@
       "source": "hn",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 591,
-      "comments": 478,
+      "score": 630,
+      "comments": 548,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-04-30T12:17:14+00:00"
@@ -305,8 +327,8 @@
       "source": "hn",
       "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
       "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "score": 235,
-      "comments": 147,
+      "score": 245,
+      "comments": 154,
       "author": "steveharing1",
       "tags": [],
       "date": "2026-04-30T10:31:17+00:00"
@@ -327,8 +349,8 @@
       "source": "hn",
       "title": "Mozilla's opposition to Chrome's Prompt API",
       "url": "https://github.com/mozilla/standards-positions/issues/1213",
-      "score": 446,
-      "comments": 182,
+      "score": 470,
+      "comments": 189,
       "author": "jaffathecake",
       "tags": [],
       "date": "2026-04-30T07:43:55+00:00"
@@ -422,8 +444,8 @@
       "source": "hn",
       "title": "Where the goblins came from",
       "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 971,
-      "comments": 580,
+      "score": 983,
+      "comments": 589,
       "author": "ilreb",
       "tags": [],
       "date": "2026-04-30T03:21:04+00:00"
@@ -507,8 +529,8 @@
       "source": "hn",
       "title": "The Zig project's rationale for their anti-AI contribution policy",
       "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 579,
-      "comments": 359,
+      "score": 601,
+      "comments": 385,
       "author": "lumpa",
       "tags": [],
       "date": "2026-04-30T02:15:47+00:00"
@@ -1081,8 +1103,8 @@
       "source": "hn",
       "title": "10Gb/s Ethernet: what I did to get it working in my home",
       "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
-      "score": 45,
-      "comments": 22,
+      "score": 62,
+      "comments": 38,
       "author": "gpjt",
       "tags": [],
       "date": "2026-04-29T13:15:46+00:00"
@@ -1641,8 +1663,8 @@
       "source": "hn",
       "title": "How Semiconductors Were Made in America",
       "url": "https://www.siliconimist.com/p/semiconductors-made-in-america",
-      "score": 6,
-      "comments": 1,
+      "score": 14,
+      "comments": 4,
       "author": "johncole",
       "tags": [],
       "date": "2026-04-28T17:26:58+00:00"
@@ -1937,8 +1959,8 @@
       "source": "hn",
       "title": "A Primer on Bézier Curves – So What Makes a Bézier Curve?",
       "url": "https://pomax.github.io/bezierinfo/",
-      "score": 94,
-      "comments": 19,
+      "score": 105,
+      "comments": 21,
       "author": "mostlyk",
       "tags": [],
       "date": "2026-04-28T12:57:53+00:00"
@@ -2012,6 +2034,17 @@
       "tags": [],
       "date": "2026-04-28T11:54:20+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-47933197",
+      "source": "hn",
+      "title": "A statement from members of the Toki Pona community",
+      "url": "https://tokipona.net/wile-pona/",
+      "score": 15,
+      "comments": 0,
+      "author": "robinhouston",
+      "tags": [],
+      "date": "2026-04-28T11:53:09+00:00"
     },
     {
       "id": "hn-47932990",
@@ -2438,8 +2471,8 @@
       "source": "hn",
       "title": "Noctua releases official 3D CAD models for its cooling fans",
       "url": "https://www.noctua.at/en/3d-cad-models",
-      "score": 447,
-      "comments": 98,
+      "score": 464,
+      "comments": 99,
       "author": "embedding-shape",
       "tags": [],
       "date": "2026-04-27T21:35:07+00:00"
@@ -2559,8 +2592,8 @@
       "source": "hn",
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 144,
-      "comments": 70,
+      "score": 162,
+      "comments": 82,
       "author": "vok",
       "tags": [],
       "date": "2026-04-27T17:52:12+00:00"
@@ -5126,39 +5159,6 @@
         "Qiita"
       ],
       "date": "2026-04-25T09:44:11+09:00"
-    },
-    {
-      "id": "hn-47897349",
-      "source": "hn",
-      "title": "Education must go beyond the mere production of words",
-      "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
-      "score": 97,
-      "comments": 46,
-      "author": "signor_bosco",
-      "tags": [],
-      "date": "2026-04-25T00:11:43+00:00"
-    },
-    {
-      "id": "hn-47897140",
-      "source": "hn",
-      "title": "Databases Were Not Designed for This",
-      "url": "https://arpitbhayani.me/blogs/defensive-databases/",
-      "score": 56,
-      "comments": 53,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-04-24T23:41:38+00:00"
-    },
-    {
-      "id": "hn-47896670",
-      "source": "hn",
-      "title": "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
-      "url": "https://github.com/manankharwar/fusioncore",
-      "score": 12,
-      "comments": 6,
-      "author": "kharwarm",
-      "tags": [],
-      "date": "2026-04-24T22:36:38+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

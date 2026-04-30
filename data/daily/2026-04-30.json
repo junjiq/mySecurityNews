@@ -1,7 +1,7 @@
 {
   "date": "2026-04-30",
-  "generated_at": "2026-04-30T18:31:32.065450+00:00",
-  "total_articles": 67,
+  "generated_at": "2026-04-30T19:32:57.266262+00:00",
+  "total_articles": 66,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,20 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 55,
       "top_items": [
-        {
-          "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-          "url": "https://github.com/anthropics/claude-code/issues/53262",
-          "score": 1155,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-29T18:54:31+00:00"
-        },
         {
           "title": "Where the goblins came from",
           "url": "https://openai.com/index/where-the-goblins-came-from/",
-          "score": 971,
+          "score": 983,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T03:21:04+00:00"
@@ -43,7 +35,7 @@
         {
           "title": "Belgium stops decommissioning nuclear power plants",
           "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-          "score": 591,
+          "score": 630,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T12:17:14+00:00"
@@ -51,7 +43,7 @@
         {
           "title": "The Zig project's rationale for their anti-AI contribution policy",
           "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-          "score": 579,
+          "score": 601,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T02:15:47+00:00"
@@ -59,10 +51,18 @@
         {
           "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
           "url": "https://twitter.com/theo/status/2049645973350363168",
-          "score": 461,
+          "score": 592,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T14:36:58+00:00"
+        },
+        {
+          "title": "Mozilla's opposition to Chrome's Prompt API",
+          "url": "https://github.com/mozilla/standards-positions/issues/1213",
+          "score": 470,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-30T07:43:55+00:00"
         }
       ]
     },
