@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-04-30T03:08:05.505037+00:00",
+  "updated_at": "2026-04-30T04:41:23.064934+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47957714",
+      "source": "hn",
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "url": "https://burrito.bio/essays/biology-is-a-burrito",
+      "score": 26,
+      "comments": 3,
+      "author": "the-mitr",
+      "tags": [],
+      "date": "2026-04-30T03:24:41+00:00"
+    },
+    {
+      "id": "hn-47957688",
+      "source": "hn",
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "score": 166,
+      "comments": 74,
+      "author": "ilreb",
+      "tags": [],
+      "date": "2026-04-30T03:21:04+00:00"
+    },
     {
       "id": "qiita-cce567ec8d",
       "source": "zennqiita",
@@ -13,14 +35,47 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-04-30T11:53:37+09:00"
+      "date": "2026-04-30T12:20:11+09:00"
+    },
+    {
+      "id": "hn-47957627",
+      "source": "hn",
+      "title": "Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "score": 31,
+      "comments": 9,
+      "author": "reconnecting",
+      "tags": [],
+      "date": "2026-04-30T03:11:51+00:00"
+    },
+    {
+      "id": "hn-47957624",
+      "source": "hn",
+      "title": "Functional Programmers need to take a look at Zig",
+      "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+      "score": 28,
+      "comments": 10,
+      "author": "xngbuilds",
+      "tags": [],
+      "date": "2026-04-30T03:11:33+00:00"
+    },
+    {
+      "id": "hn-47957294",
+      "source": "hn",
+      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "score": 45,
+      "comments": 5,
+      "author": "lumpa",
+      "tags": [],
+      "date": "2026-04-30T02:15:47+00:00"
     },
     {
       "id": "hn-47957116",
       "source": "hn",
       "title": "A Grounded Conceptual Model for Ownership Types in Rust",
       "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
-      "score": 6,
+      "score": 15,
       "comments": 0,
       "author": "tkhattra",
       "tags": [],
@@ -31,8 +86,8 @@
       "source": "hn",
       "title": "Craig Venter has died",
       "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "score": 89,
-      "comments": 19,
+      "score": 140,
+      "comments": 31,
       "author": "rdl",
       "tags": [],
       "date": "2026-04-30T01:44:56+00:00"
@@ -64,10 +119,10 @@
     {
       "id": "hn-47956781",
       "source": "hn",
-      "title": "Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight",
+      "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
       "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-      "score": 24,
-      "comments": 24,
+      "score": 29,
+      "comments": 68,
       "author": "Jblx2",
       "tags": [],
       "date": "2026-04-30T01:01:55+00:00"
@@ -121,8 +176,8 @@
       "source": "hn",
       "title": "Vera: a programming language designed for machines to write",
       "url": "https://github.com/aallan/vera",
-      "score": 62,
-      "comments": 48,
+      "score": 69,
+      "comments": 59,
       "author": "unignorant",
       "tags": [],
       "date": "2026-04-29T21:41:32+00:00"
@@ -177,8 +232,8 @@
       "source": "hn",
       "title": "OpenTrafficMap",
       "url": "https://opentrafficmap.org/",
-      "score": 163,
-      "comments": 36,
+      "score": 177,
+      "comments": 37,
       "author": "moooo99",
       "tags": [],
       "date": "2026-04-29T19:49:30+00:00"
@@ -210,8 +265,8 @@
       "source": "hn",
       "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
       "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 1007,
-      "comments": 432,
+      "score": 1044,
+      "comments": 445,
       "author": "homebrewer",
       "tags": [],
       "date": "2026-04-29T18:54:31+00:00"
@@ -221,8 +276,8 @@
       "source": "hn",
       "title": "Copy Fail",
       "url": "https://copy.fail/",
-      "score": 658,
-      "comments": 279,
+      "score": 724,
+      "comments": 298,
       "author": "unsnap_biceps",
       "tags": [],
       "date": "2026-04-29T18:13:53+00:00"
@@ -232,8 +287,8 @@
       "source": "hn",
       "title": "Ramp's Sheets AI Exfiltrates Financials",
       "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-      "score": 113,
-      "comments": 35,
+      "score": 120,
+      "comments": 37,
       "author": "takira",
       "tags": [],
       "date": "2026-04-29T17:44:21+00:00"
@@ -265,8 +320,8 @@
       "source": "hn",
       "title": "Laws of UX",
       "url": "https://lawsofux.com/",
-      "score": 203,
-      "comments": 31,
+      "score": 220,
+      "comments": 32,
       "author": "bobbiechen",
       "tags": [],
       "date": "2026-04-29T16:58:13+00:00"
@@ -320,8 +375,8 @@
       "source": "hn",
       "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
       "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "score": 262,
-      "comments": 66,
+      "score": 285,
+      "comments": 68,
       "author": "agwa",
       "tags": [],
       "date": "2026-04-29T16:16:39+00:00"
@@ -386,8 +441,8 @@
       "source": "hn",
       "title": "Cursor Camp",
       "url": "https://neal.fun/cursor-camp/",
-      "score": 696,
-      "comments": 112,
+      "score": 774,
+      "comments": 129,
       "author": "bpierre",
       "tags": [],
       "date": "2026-04-29T15:39:43+00:00"
@@ -463,8 +518,8 @@
       "source": "hn",
       "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
       "url": "https://github.com/GliaX/Stethoscope",
-      "score": 212,
-      "comments": 87,
+      "score": 226,
+      "comments": 91,
       "author": "0x54MUR41",
       "tags": [],
       "date": "2026-04-29T14:47:31+00:00",
@@ -475,8 +530,8 @@
       "source": "hn",
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1591,
-      "comments": 505,
+      "score": 1648,
+      "comments": 528,
       "author": "salkahfi",
       "tags": [],
       "date": "2026-04-29T14:34:19+00:00"
@@ -497,8 +552,8 @@
       "source": "hn",
       "title": "We need a federation of forges",
       "url": "https://blog.tangled.org/federation/",
-      "score": 529,
-      "comments": 334,
+      "score": 535,
+      "comments": 340,
       "author": "icy",
       "tags": [],
       "date": "2026-04-29T14:00:59+00:00"
@@ -678,8 +733,8 @@
       "source": "hn",
       "title": "Why I still reach for Lisp and Scheme instead of Haskell",
       "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-      "score": 172,
-      "comments": 65,
+      "score": 180,
+      "comments": 85,
       "author": "jjba23",
       "tags": [],
       "date": "2026-04-29T08:43:17+00:00"
@@ -1089,8 +1144,8 @@
       "source": "hn",
       "title": "Creating a Color Palette from an Image",
       "url": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
-      "score": 10,
-      "comments": 0,
+      "score": 35,
+      "comments": 5,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-04-28T16:23:50+00:00"
@@ -1320,7 +1375,7 @@
       "source": "hn",
       "title": "DRAM Crunch: Lessons for System Design",
       "url": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
-      "score": 36,
+      "score": 40,
       "comments": 3,
       "author": "giuliomagnifico",
       "tags": [],
@@ -1758,6 +1813,17 @@
       "author": "jekude",
       "tags": [],
       "date": "2026-04-27T21:55:48+00:00"
+    },
+    {
+      "id": "hn-47927627",
+      "source": "hn",
+      "title": "Noctua releases official 3D CAD models for its cooling fans",
+      "url": "https://www.noctua.at/en/3d-cad-models",
+      "score": 22,
+      "comments": 2,
+      "author": "embedding-shape",
+      "tags": [],
+      "date": "2026-04-27T21:35:07+00:00"
     },
     {
       "id": "hn-47927526",
@@ -5083,80 +5149,6 @@
       "author": "aliezsid",
       "tags": [],
       "date": "2026-04-24T06:16:47+00:00"
-    },
-    {
-      "id": "qiita-7ea8ae41e8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Oracle】Pre-Built AI Agents の「Select AI Inspect」で自然言語でデータベースの中身を調査してみた",
-      "url": "https://qiita.com/yushibats/items/504dfd592ec24677ab3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yushibats",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-24T15:10:29+09:00"
-    },
-    {
-      "id": "qiita-19925ce2d2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Oracle Exadata@AWS を作成してみてみた",
-      "url": "https://qiita.com/shirok/items/92cf7e55a955be1a4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-24T15:04:55+09:00"
-    },
-    {
-      "id": "hn-47886157",
-      "source": "hn",
-      "title": "My .config Ship of Theseus",
-      "url": "https://shift1w.com/blog/config-of-theseus/",
-      "score": 23,
-      "comments": 9,
-      "author": "jacobwiseberg",
-      "tags": [],
-      "date": "2026-04-24T06:00:14+00:00"
-    },
-    {
-      "id": "qiita-a59a51efe7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "WSL2からWindowsのブラウザやネイティブアプリをシームレスに起動する(xdg-open / wslu の活用)",
-      "url": "https://qiita.com/mfunaki/items/37dca9fdb5db427dfd7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mfunaki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-24T14:48:32+09:00"
-    },
-    {
-      "id": "qiita-cc4d318d46",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GitHub Copilot のコミュニティを立ち上げました！Gh-CUG 爆誕と初回イベント公開のお知らせ",
-      "url": "https://qiita.com/aktsmm/items/ccdeb1d85384f57f93a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "aktsmm",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-24T14:14:15+09:00"
-    },
-    {
-      "id": "hn-47885739",
-      "source": "hn",
-      "title": "Why Not Venus?",
-      "url": "https://mceglowski.substack.com/p/why-not-venus",
-      "score": 75,
-      "comments": 42,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-04-24T05:01:10+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
