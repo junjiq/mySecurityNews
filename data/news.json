@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-04-30T23:47:37.913358+00:00",
+  "updated_at": "2026-05-01T00:39:58.607016+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47970089",
+      "source": "hn",
+      "title": "ClawIRC – IRC Chat for Agents",
+      "url": "https://clawirc.com/",
+      "score": 3,
+      "comments": 0,
+      "author": "randomfrom",
+      "tags": [],
+      "date": "2026-05-01T00:29:57+00:00"
+    },
+    {
+      "id": "hn-47969258",
+      "source": "hn",
+      "title": "AI discovery reveals DNA isn’t locked away in cells after all",
+      "url": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
+      "score": 11,
+      "comments": 2,
+      "author": "hhs",
+      "tags": [],
+      "date": "2026-04-30T22:45:44+00:00"
+    },
     {
       "id": "hn-47968982",
       "source": "hn",
       "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
       "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-      "score": 14,
-      "comments": 1,
+      "score": 27,
+      "comments": 3,
       "author": "wglb",
       "tags": [],
       "date": "2026-04-30T22:18:57+00:00"
@@ -29,7 +51,7 @@
       "source": "hn",
       "title": "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
       "url": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
-      "score": 11,
+      "score": 16,
       "comments": 1,
       "author": "pmw",
       "tags": [],
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "Rivian allows you to disable all internet connectivity",
       "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 370,
-      "comments": 143,
+      "score": 424,
+      "comments": 169,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-04-30T20:27:22+00:00"
@@ -62,8 +84,8 @@
       "source": "hn",
       "title": "The upsell game – Vercel upselling tactics revealed",
       "url": "https://theupsellgame.com/",
-      "score": 61,
-      "comments": 10,
+      "score": 71,
+      "comments": 12,
       "author": "bartoindahouse",
       "tags": [],
       "date": "2026-04-30T20:02:35+00:00",
@@ -74,8 +96,8 @@
       "source": "hn",
       "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
       "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-      "score": 338,
-      "comments": 144,
+      "score": 397,
+      "comments": 171,
       "author": "un-nf",
       "tags": [],
       "date": "2026-04-30T19:40:20+00:00"
@@ -96,7 +118,7 @@
       "source": "hn",
       "title": "Does Postgres Scale?",
       "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
-      "score": 65,
+      "score": 73,
       "comments": 30,
       "author": "KraftyOne",
       "tags": [],
@@ -129,8 +151,8 @@
       "source": "hn",
       "title": "Full-Text Search with DuckDB",
       "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-      "score": 72,
-      "comments": 18,
+      "score": 82,
+      "comments": 19,
       "author": "ethagnawl",
       "tags": [],
       "date": "2026-04-30T18:14:18+00:00"
@@ -151,8 +173,8 @@
       "source": "hn",
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 183,
-      "comments": 46,
+      "score": 196,
+      "comments": 47,
       "author": "elvis70",
       "tags": [],
       "date": "2026-04-30T17:14:21+00:00"
@@ -184,8 +206,8 @@
       "source": "hn",
       "title": "CopyFail was not disclosed to distro developers?",
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 320,
-      "comments": 266,
+      "score": 350,
+      "comments": 283,
       "author": "ori_b",
       "tags": [],
       "date": "2026-04-30T16:43:47+00:00"
@@ -195,8 +217,8 @@
       "source": "hn",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 389,
-      "comments": 115,
+      "score": 402,
+      "comments": 118,
       "author": "the-mitr",
       "tags": [],
       "date": "2026-04-30T16:41:00+00:00"
@@ -239,8 +261,8 @@
       "source": "hn",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 302,
-      "comments": 99,
+      "score": 315,
+      "comments": 103,
       "author": "j12y",
       "tags": [],
       "date": "2026-04-30T16:09:26+00:00",
@@ -284,7 +306,7 @@
       "source": "hn",
       "title": "Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file",
       "url": "https://honker.dev/",
-      "score": 162,
+      "score": 168,
       "comments": 49,
       "author": "ferriswil",
       "tags": [],
@@ -295,8 +317,8 @@
       "source": "hn",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 891,
-      "comments": 508,
+      "score": 923,
+      "comments": 520,
       "author": "elmean",
       "tags": [],
       "date": "2026-04-30T14:36:58+00:00"
@@ -341,8 +363,8 @@
       "source": "hn",
       "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 295,
-      "comments": 87,
+      "score": 306,
+      "comments": 92,
       "author": "chmaynard",
       "tags": [],
       "date": "2026-04-30T13:54:20+00:00"
@@ -396,8 +418,8 @@
       "source": "hn",
       "title": "I aggregated 28 US Government auction sites into one search",
       "url": "https://bidprowl.com",
-      "score": 222,
-      "comments": 69,
+      "score": 232,
+      "comments": 71,
       "author": "scarsam",
       "tags": [],
       "date": "2026-04-30T12:24:53+00:00"
@@ -407,8 +429,8 @@
       "source": "hn",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 719,
-      "comments": 675,
+      "score": 735,
+      "comments": 682,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-04-30T12:17:14+00:00"
@@ -1023,8 +1045,8 @@
       "source": "hn",
       "title": "Opus 4.7 knows the real Kelsey",
       "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 91,
-      "comments": 41,
+      "score": 116,
+      "comments": 59,
       "author": "ilamont",
       "tags": [],
       "date": "2026-04-29T17:09:03+00:00"
@@ -1704,7 +1726,7 @@
       "source": "hn",
       "title": "A Milestone in Formalization: The Sphere Packing Problem in Dimension 8",
       "url": "https://www.alphaxiv.org/abs/2604.23468",
-      "score": 5,
+      "score": 8,
       "comments": 0,
       "author": "measurablefunc",
       "tags": [],
@@ -1742,6 +1764,17 @@
       "author": "bo0tzz",
       "tags": [],
       "date": "2026-04-28T22:14:29+00:00"
+    },
+    {
+      "id": "hn-47941019",
+      "source": "hn",
+      "title": "The Accidental Ancestor – How Verifying Numbers Shaped Modern Hashing",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html",
+      "score": 6,
+      "comments": 0,
+      "author": "denismenace",
+      "tags": [],
+      "date": "2026-04-28T21:24:39+00:00"
     },
     {
       "id": "hn-47940921",
@@ -1803,7 +1836,7 @@
       "source": "hn",
       "title": "The Church Rock Uranium Mill Spill",
       "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
-      "score": 44,
+      "score": 51,
       "comments": 4,
       "author": "Sir_Twist",
       "tags": [],
@@ -1870,8 +1903,8 @@
       "source": "hn",
       "title": "Reverse Engineering SimTower",
       "url": "https://phulin.me/blog/simtower",
-      "score": 81,
-      "comments": 13,
+      "score": 96,
+      "comments": 15,
       "author": "patrickhulin",
       "tags": [],
       "date": "2026-04-28T17:41:38+00:00"
@@ -1937,8 +1970,8 @@
       "source": "hn",
       "title": "New mechanical panoramic film camera from Jeff Bridges",
       "url": "https://wideluxx.com",
-      "score": 52,
-      "comments": 17,
+      "score": 61,
+      "comments": 24,
       "author": "armadsen",
       "tags": [],
       "date": "2026-04-28T16:49:12+00:00"
@@ -2845,8 +2878,8 @@
       "source": "hn",
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 231,
-      "comments": 112,
+      "score": 241,
+      "comments": 115,
       "author": "vok",
       "tags": [],
       "date": "2026-04-27T17:52:12+00:00"
@@ -5120,41 +5153,6 @@
       "date": "2026-04-25T08:53:53+00:00"
     },
     {
-      "id": "hn-47899774",
-      "source": "hn",
-      "title": "The QEII garden – built from its own ruins – opens in Regent's Park",
-      "url": "https://www.ianvisits.co.uk/articles/a-garden-built-from-its-own-ruins-opens-in-regents-park-89152/",
-      "score": 4,
-      "comments": 1,
-      "author": "zeristor",
-      "tags": [],
-      "date": "2026-04-25T08:38:47+00:00"
-    },
-    {
-      "id": "qiita-8247fe12fe",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Alexa × Geminiで“雑談できる”会話スキルを作る",
-      "url": "https://qiita.com/jeyson/items/250e6374fb5e6f3d4589?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "jeyson",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-25T17:32:21+09:00"
-    },
-    {
-      "id": "hn-47899669",
-      "source": "hn",
-      "title": "Pgrx: Build Postgres Extensions with Rust",
-      "url": "https://github.com/pgcentralfoundation/pgrx",
-      "score": 157,
-      "comments": 15,
-      "author": "luu",
-      "tags": [],
-      "date": "2026-04-25T08:16:19+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5379,32 +5377,6 @@
       "severity": "high"
     },
     {
-      "id": "zenn-992c15b51b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "全てを可視化する「全部入り走行データビューア」を実現するデータパイプラインとフロントエンド実装スタック",
-      "url": "https://zenn.dev/turing_motors/articles/38d06cc13690bb",
-      "score": null,
-      "author": "ito",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 30 Apr 2026 06:00:05 GMT"
-    },
-    {
-      "id": "zenn-bb07fc1219",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "宣言的スキーマ管理ツール pistachio を作成しました",
-      "url": "https://zenn.dev/kanmu_dev/articles/16789ef1f4283a",
-      "score": null,
-      "author": "Genki Sugawara",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 30 Apr 2026 03:52:05 GMT"
-    },
-    {
       "id": "zenn-7a8ac79a6e",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5429,19 +5401,6 @@
         "Zenn"
       ],
       "date": "Wed, 29 Apr 2026 17:11:45 GMT"
-    },
-    {
-      "id": "zenn-6fabd3cd4a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【Claude Code】CLAUDE.md・skills・agents を整備して開発体験が劇的に変わった話",
-      "url": "https://zenn.dev/linkedge/articles/27c38cdd9bedc6",
-      "score": null,
-      "author": "RyoyaOkuma",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 29 Apr 2026 13:16:33 GMT"
     },
     {
       "id": "zenn-3231218cbc",
@@ -5548,6 +5507,19 @@
       "date": "Tue, 28 Apr 2026 03:52:37 GMT"
     },
     {
+      "id": "zenn-000de93afe",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIエージェントを安全に動かすための技術——サンドボックスについて調べてみる",
+      "url": "https://zenn.dev/layerx/articles/a99cd11af487fc",
+      "score": null,
+      "author": "Sotamaki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 28 Apr 2026 03:51:17 GMT"
+    },
+    {
       "id": "zenn-ac3cc7ec92",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5624,6 +5596,32 @@
         "Zenn"
       ],
       "date": "Mon, 27 Apr 2026 23:02:32 GMT"
+    },
+    {
+      "id": "zenn-8342ed0660",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Hono × Inertia.js が作る新しい型貫通体験に触れてみた",
+      "url": "https://zenn.dev/ashunar0/articles/d4a23d3579331a",
+      "score": null,
+      "author": "あさひ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 27 Apr 2026 14:10:54 GMT"
+    },
+    {
+      "id": "zenn-fbb8d09bab",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "国立国会図書館のOCR技術を使って、完全オフラインOCRのChrome拡張を作ってみた",
+      "url": "https://zenn.dev/lecto/articles/a2ee65243b02b3",
+      "score": null,
+      "author": "tamoco",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 26 Apr 2026 14:29:03 GMT"
     },
     {
       "id": "edb-fb4512c26e",
