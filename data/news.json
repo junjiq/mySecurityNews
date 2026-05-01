@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-05-01T06:03:51.582562+00:00",
+  "updated_at": "2026-05-01T07:19:32.065132+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47971830",
+      "source": "hn",
+      "title": "Meta's Big Tobacco PR Tactics",
+      "url": "https://yadin.com/notes/toasted/",
+      "score": 7,
+      "comments": 2,
+      "author": "dryadin",
+      "tags": [],
+      "date": "2026-05-01T06:34:54+00:00"
+    },
+    {
+      "id": "hn-47971768",
+      "source": "hn",
+      "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
+      "url": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
+      "score": 29,
+      "comments": 17,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-05-01T06:20:33+00:00"
+    },
+    {
+      "id": "qiita-cce567ec8d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "WAFは安心を買う装置ではない",
+      "url": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mochi_cron",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-01T15:07:19+09:00"
+    },
     {
       "id": "hn-47970690",
       "source": "hn",
@@ -18,8 +53,8 @@
       "source": "hn",
       "title": "OpenWarp",
       "url": "https://openwarp.zerx.dev",
-      "score": 61,
-      "comments": 57,
+      "score": 74,
+      "comments": 62,
       "author": "zero-lab",
       "tags": [],
       "date": "2026-05-01T02:10:46+00:00"
@@ -76,8 +111,8 @@
       "source": "hn",
       "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
       "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-      "score": 79,
-      "comments": 21,
+      "score": 86,
+      "comments": 28,
       "author": "zikani_03",
       "tags": [],
       "date": "2026-04-30T22:48:51+00:00",
@@ -99,8 +134,8 @@
       "source": "hn",
       "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
       "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-      "score": 65,
-      "comments": 11,
+      "score": 72,
+      "comments": 14,
       "author": "wglb",
       "tags": [],
       "date": "2026-04-30T22:18:57+00:00"
@@ -143,8 +178,8 @@
       "source": "hn",
       "title": "Can I disable all data collection from my vehicle?",
       "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 577,
-      "comments": 223,
+      "score": 599,
+      "comments": 241,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-04-30T20:27:22+00:00"
@@ -221,8 +256,8 @@
       "source": "hn",
       "title": "Full-Text Search with DuckDB",
       "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-      "score": 111,
-      "comments": 28,
+      "score": 120,
+      "comments": 29,
       "author": "ethagnawl",
       "tags": [],
       "date": "2026-04-30T18:14:18+00:00"
@@ -243,8 +278,8 @@
       "source": "hn",
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 250,
-      "comments": 53,
+      "score": 260,
+      "comments": 56,
       "author": "elvis70",
       "tags": [],
       "date": "2026-04-30T17:14:21+00:00"
@@ -276,8 +311,8 @@
       "source": "hn",
       "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 445,
-      "comments": 337,
+      "score": 459,
+      "comments": 346,
       "author": "ori_b",
       "tags": [],
       "date": "2026-04-30T16:43:47+00:00"
@@ -287,8 +322,8 @@
       "source": "hn",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 521,
-      "comments": 175,
+      "score": 550,
+      "comments": 182,
       "author": "the-mitr",
       "tags": [],
       "date": "2026-04-30T16:41:00+00:00"
@@ -331,8 +366,8 @@
       "source": "hn",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 368,
-      "comments": 125,
+      "score": 381,
+      "comments": 130,
       "author": "j12y",
       "tags": [],
       "date": "2026-04-30T16:09:26+00:00",
@@ -376,8 +411,8 @@
       "source": "hn",
       "title": "Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
       "url": "https://honker.dev/",
-      "score": 200,
-      "comments": 52,
+      "score": 208,
+      "comments": 53,
       "author": "ferriswil",
       "tags": [],
       "date": "2026-04-30T14:43:02+00:00"
@@ -387,8 +422,8 @@
       "source": "hn",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 1065,
-      "comments": 587,
+      "score": 1098,
+      "comments": 602,
       "author": "elmean",
       "tags": [],
       "date": "2026-04-30T14:36:58+00:00"
@@ -433,8 +468,8 @@
       "source": "hn",
       "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 381,
-      "comments": 116,
+      "score": 395,
+      "comments": 119,
       "author": "chmaynard",
       "tags": [],
       "date": "2026-04-30T13:54:20+00:00"
@@ -499,8 +534,8 @@
       "source": "hn",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 786,
-      "comments": 764,
+      "score": 792,
+      "comments": 784,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-04-30T12:17:14+00:00"
@@ -715,19 +750,6 @@
       "author": "ilreb",
       "tags": [],
       "date": "2026-04-30T03:21:04+00:00"
-    },
-    {
-      "id": "qiita-cce567ec8d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "WAFは安心を買う装置ではない",
-      "url": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mochi_cron",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-30T12:20:11+09:00"
     },
     {
       "id": "hn-47957627",
@@ -1115,8 +1137,8 @@
       "source": "hn",
       "title": "Opus 4.7 knows the real Kelsey",
       "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 265,
-      "comments": 139,
+      "score": 304,
+      "comments": 159,
       "author": "ilamont",
       "tags": [],
       "date": "2026-04-29T17:09:03+00:00"
@@ -1380,8 +1402,8 @@
       "source": "hn",
       "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
       "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-      "score": 14,
-      "comments": 4,
+      "score": 23,
+      "comments": 5,
       "author": "oldnetguy",
       "tags": [],
       "date": "2026-04-29T13:28:47+00:00"
@@ -1391,8 +1413,8 @@
       "source": "hn",
       "title": "10Gb/s Ethernet: what I did to get it working in my home",
       "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
-      "score": 178,
-      "comments": 124,
+      "score": 188,
+      "comments": 134,
       "author": "gpjt",
       "tags": [],
       "date": "2026-04-29T13:15:46+00:00"
@@ -1514,8 +1536,8 @@
       "source": "hn",
       "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
       "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "score": 12,
-      "comments": 0,
+      "score": 35,
+      "comments": 1,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-04-29T11:35:40+00:00"
@@ -1773,8 +1795,8 @@
       "source": "hn",
       "title": "Maladaptive Frugality",
       "url": "https://herbertlui.net/maladaptive-frugality/",
-      "score": 62,
-      "comments": 43,
+      "score": 80,
+      "comments": 54,
       "author": "herbertl",
       "tags": [],
       "date": "2026-04-29T00:50:15+00:00"
@@ -1939,8 +1961,8 @@
       "source": "hn",
       "title": "I Got Sick of Remembering Port Numbers",
       "url": "https://gregraiz.com/blog/local-vibe/",
-      "score": 55,
-      "comments": 43,
+      "score": 69,
+      "comments": 63,
       "author": "graiz",
       "tags": [],
       "date": "2026-04-28T19:19:06+00:00"
@@ -2017,8 +2039,8 @@
       "source": "hn",
       "title": "Reverse Engineering SimTower",
       "url": "https://phulin.me/blog/simtower",
-      "score": 174,
-      "comments": 29,
+      "score": 180,
+      "comments": 33,
       "author": "patrickhulin",
       "tags": [],
       "date": "2026-04-28T17:41:38+00:00"
@@ -2084,8 +2106,8 @@
       "source": "hn",
       "title": "New mechanical panoramic film camera from Jeff Bridges",
       "url": "https://wideluxx.com",
-      "score": 119,
-      "comments": 53,
+      "score": 128,
+      "comments": 61,
       "author": "armadsen",
       "tags": [],
       "date": "2026-04-28T16:49:12+00:00"
@@ -2900,6 +2922,17 @@
       "date": "2026-04-27T20:44:16+00:00"
     },
     {
+      "id": "hn-47927011",
+      "source": "hn",
+      "title": "Softmax, can you derive the Jacobian? And should you care?",
+      "url": "https://idlemachines.co.uk/essays/softmax",
+      "score": 15,
+      "comments": 0,
+      "author": "smaddrellmander",
+      "tags": [],
+      "date": "2026-04-27T20:38:22+00:00"
+    },
+    {
       "id": "hn-47926861",
       "source": "hn",
       "title": "Is my blue your blue? (2024)",
@@ -3003,8 +3036,8 @@
       "source": "hn",
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 289,
-      "comments": 132,
+      "score": 301,
+      "comments": 136,
       "author": "vok",
       "tags": [],
       "date": "2026-04-27T17:52:12+00:00"
@@ -5126,41 +5159,6 @@
       "date": "2026-04-25T12:47:32+00:00"
     },
     {
-      "id": "hn-47900820",
-      "source": "hn",
-      "title": "The Military Rockets That Launched the Space Age (2023)",
-      "url": "https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age",
-      "score": 8,
-      "comments": 0,
-      "author": "radeeyate",
-      "tags": [],
-      "date": "2026-04-25T12:14:26+00:00"
-    },
-    {
-      "id": "qiita-3c7af566d4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "売上予測WebアプリをFastAPI + Prophet + Reactで個人開発してリリースした話",
-      "url": "https://qiita.com/Mecharhythm/items/71f9e7c92d7ee0892a10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Mecharhythm",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-25T20:58:29+09:00"
-    },
-    {
-      "id": "hn-47900649",
-      "source": "hn",
-      "title": "Getting my daily news from a dot matrix printer 2024",
-      "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-      "score": 63,
-      "comments": 10,
-      "author": "xupybd",
-      "tags": [],
-      "date": "2026-04-25T11:39:53+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5357,6 +5355,58 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-bc48293faf",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "自作MCPサーバーのトークン消費を9割削減するTips ── MCPの退避パターン",
+      "url": "https://zenn.dev/aircloset/articles/4c5f49f89db19f",
+      "score": null,
+      "author": "辻 亮佑",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 01 May 2026 01:10:07 GMT"
+    },
+    {
+      "id": "zenn-9ac7e10d50",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "S3 Files 性能評価",
+      "url": "https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27",
+      "score": null,
+      "author": "a2-ito",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 30 Apr 2026 12:33:05 GMT"
+    },
+    {
+      "id": "zenn-c1cc3e64ed",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "terraform applyをGHAで実行してはいけない理由",
+      "url": "https://zenn.dev/okazu_dm/articles/7d30c496c8fbb6",
+      "score": null,
+      "author": "okazu",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 30 Apr 2026 12:02:19 GMT"
+    },
+    {
+      "id": "zenn-d819214781",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "セキュリティ診断、AIに全部やらせたら月$0.5で回せるようになった話💰",
+      "url": "https://zenn.dev/sabakan1/articles/bd286802d6a91d",
+      "score": null,
+      "author": "Sabakan",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 30 Apr 2026 10:44:41 GMT"
+    },
+    {
       "id": "zenn-243a1a68d2",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5462,6 +5512,19 @@
       "date": "Wed, 29 Apr 2026 06:30:14 GMT"
     },
     {
+      "id": "zenn-0c8a84ccdd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "シェル起動時と cd のたびにダッシュボードを描く CLI「splashboard」を作りました",
+      "url": "https://zenn.dev/unhappychoice/articles/splashboard-introduction",
+      "score": null,
+      "author": "Yuji Ueki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 29 Apr 2026 05:45:05 GMT"
+    },
+    {
       "id": "zenn-5b16cebfc9",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5538,71 +5601,6 @@
         "Zenn"
       ],
       "date": "Tue, 28 Apr 2026 03:52:37 GMT"
-    },
-    {
-      "id": "zenn-ac3cc7ec92",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIに会社のGoogleアカウントを渡していませんか",
-      "url": "https://zenn.dev/finatext/articles/mcp-gateway-google-sa",
-      "score": null,
-      "author": "techan",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Apr 2026 02:30:02 GMT"
-    },
-    {
-      "id": "zenn-d5616c733a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeのルーチン機能で定期的にパフォーマンスチューニングをさせている",
-      "url": "https://zenn.dev/yamadashy/articles/claude-code-routines-perf-tuning",
-      "score": null,
-      "author": "yamadashy",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Apr 2026 02:16:45 GMT"
-    },
-    {
-      "id": "zenn-587d59872d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ベクトルDBを使わないRAG。全てのナレッジを階層化する手法",
-      "url": "https://zenn.dev/knowledgesense/articles/7dddae04a7d828",
-      "score": null,
-      "author": "Atsushi Kadowaki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Apr 2026 00:01:05 GMT"
-    },
-    {
-      "id": "zenn-13be0d6071",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "40%キーボードに移行する前に知っておきたかったこと",
-      "url": "https://zenn.dev/bilzard/articles/b924d7995b28bc",
-      "score": null,
-      "author": "bilzard",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 28 Apr 2026 00:00:10 GMT"
-    },
-    {
-      "id": "zenn-b9fd99b367",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitHub Copilotの本当の強み 2",
-      "url": "https://zenn.dev/headwaters/articles/f79b8d64ba1442",
-      "score": null,
-      "author": "妹尾悠真",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Apr 2026 23:40:05 GMT"
     },
     {
       "id": "zenn-4ad8a3cdc0",
