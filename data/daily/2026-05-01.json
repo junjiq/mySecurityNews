@@ -1,7 +1,7 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T04:47:17.641397+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-05-01T06:03:51.643921+00:00",
+  "total_articles": 58,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 51,
       "top_items": [
         {
           "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
           "url": "https://twitter.com/theo/status/2049645973350363168",
-          "score": 1033,
+          "score": 1065,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T14:36:58+00:00"
@@ -35,10 +35,18 @@
         {
           "title": "Belgium stops decommissioning nuclear power plants",
           "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-          "score": 777,
+          "score": 786,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T12:17:14+00:00"
+        },
+        {
+          "title": "Can I disable all data collection from my vehicle?",
+          "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+          "score": 577,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-30T20:27:22+00:00"
         },
         {
           "title": "Mozilla's opposition to Chrome's Prompt API",
@@ -49,17 +57,9 @@
           "date": "2026-04-30T07:43:55+00:00"
         },
         {
-          "title": "Can I disable all data collection from my vehicle?",
-          "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-          "score": 557,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-30T20:27:22+00:00"
-        },
-        {
           "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
           "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-          "score": 480,
+          "score": 521,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T16:41:00+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "社会人のためのObsidian：実践的なVault構成とワークフロー",
