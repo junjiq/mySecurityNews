@@ -1,8 +1,8 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T19:55:52.270916+00:00",
-  "total_articles": 60,
-  "urgent_count": 4,
+  "generated_at": "2026-05-01T20:21:02.912714+00:00",
+  "total_articles": 67,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "A beginner's guide to Sourcehut (2025)",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-01T10:23:52+00:00"
-    },
-    {
-      "title": "Vercel’s pricing page",
-      "url": "https://theupsellgame.com/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-30T20:02:35+00:00"
     },
     {
       "title": "Your Biggest Vulnerability is your Shitty Compensation",
@@ -36,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 54,
       "top_items": [
         {
           "title": "Can I disable all data collection from my vehicle?",
@@ -55,20 +48,20 @@
           "date": "2026-05-01T08:29:31+00:00"
         },
         {
+          "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+          "url": "https://github.com/darrylmorley/whatcable",
+          "score": 333,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-01T08:43:45+00:00"
+        },
+        {
           "title": "Apple accidentally left Claude.md files Apple Support app",
           "url": "https://x.com/aaronp613/status/2049986504617820551",
           "score": 327,
           "source": "hn",
           "severity": null,
           "date": "2026-05-01T11:08:32+00:00"
-        },
-        {
-          "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-          "url": "https://github.com/darrylmorley/whatcable",
-          "score": 327,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-01T08:43:45+00:00"
         },
         {
           "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
@@ -82,8 +75,40 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 12,
       "top_items": [
+        {
+          "title": "人口政策と少子化・貧困・年金・医療をつなぐ経済構造 : Pythonで学ぶ マクロ経済学入門 (77)",
+          "url": "https://qiita.com/maskot1977/items/b805a0ecf3be390b297d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-02T00:37:09+09:00"
+        },
+        {
+          "title": "【備忘録】Gemini Embedding 2 がGAに ― Embeddingの代表的なユースケースを整理する",
+          "url": "https://qiita.com/Tadataka_Takahashi/items/69196e01b021bbf8759d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-01T23:26:36+09:00"
+        },
+        {
+          "title": "RubyKaigi 2026 に参加してきました",
+          "url": "https://qiita.com/tomoasleep/items/03f5d7a7b03d3d8a3a78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-01T19:08:37+09:00"
+        },
+        {
+          "title": "【Copilot】AI駆動開発では役割を分けて、トークン節約をする【IBM Bob】",
+          "url": "https://qiita.com/m_koishikawa/items/38f3d84b8c71cf670b6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-01T18:44:21+09:00"
+        },
         {
           "title": "カルパシーが語る「バイブコーディングからエージェント・エンジニアリングへ」 〜 YouTube動画が興味深かったのでまとめてみた 〜",
           "url": "https://qiita.com/yuji-arakawa/items/9e7235e708e2b33e58e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -91,38 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-01T16:48:48+09:00"
-        },
-        {
-          "title": "Select AIで複数データソースを横断検索する：BaseDB 19c × Snowflake Iceberg",
-          "url": "https://qiita.com/yushibats/items/36ddd7dcb955a7a7bb9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-01T15:08:12+09:00"
-        },
-        {
-          "title": "WAFは安心を買う装置ではない",
-          "url": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-01T15:07:19+09:00"
-        },
-        {
-          "title": "「クラウドだから大丈夫」は危険です ― 新人エンジニアがやりがちな“信頼性の勘違い”",
-          "url": "https://qiita.com/prum_hitomi/items/864876245891c0cbb127?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-01T12:03:24+09:00"
-        },
-        {
-          "title": "Claude Code の CLAUDE.md / Skills / Agents を3層で整備する設計パターン",
-          "url": "https://qiita.com/ennagara128/items/c25e72eb240611454457?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-01T11:01:04+09:00"
         }
       ]
     },
