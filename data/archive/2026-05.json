@@ -1,9 +1,9 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-01T12:22:36.265926+00:00",
-  "total_articles": 26,
+  "generated_at": "2026-05-01T12:48:55.500081+00:00",
+  "total_articles": 27,
   "source_counts": {
-    "hn": 19,
+    "hn": 20,
     "zennqiita": 6,
     "project": 1
   },
@@ -15,23 +15,30 @@
     {
       "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
       "url": "https://github.com/darrylmorley/whatcable",
-      "score": 158,
+      "score": 175,
       "source": "hn",
       "date": "2026-05-01T08:43:45+00:00"
     },
     {
       "title": "Grok 4.3",
       "url": "https://docs.x.ai/developers/models/grok-4.3",
-      "score": 143,
+      "score": 153,
       "source": "hn",
       "date": "2026-05-01T08:29:31+00:00"
     },
     {
       "title": "OpenWarp",
       "url": "https://openwarp.zerx.dev",
-      "score": 112,
+      "score": 116,
       "source": "hn",
       "date": "2026-05-01T02:10:46+00:00"
+    },
+    {
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "score": 74,
+      "source": "hn",
+      "date": "2026-05-01T10:28:12+00:00"
     },
     {
       "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
@@ -41,13 +48,6 @@
       "date": "2026-05-01T07:44:17+00:00"
     },
     {
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
-      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "score": 64,
-      "source": "hn",
-      "date": "2026-05-01T10:28:12+00:00"
-    },
-    {
       "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
       "url": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
       "score": 64,
@@ -55,11 +55,25 @@
       "date": "2026-05-01T06:20:33+00:00"
     },
     {
+      "title": "Your Website Is Not for You",
+      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "score": 63,
+      "source": "hn",
+      "date": "2026-05-01T11:08:20+00:00"
+    },
+    {
       "title": "If I could make my own GitHub",
       "url": "https://matduggan.com/if-i-could-make-my-own-github/",
       "score": 62,
       "source": "hn",
       "date": "2026-05-01T06:21:01+00:00"
+    },
+    {
+      "title": "Apple accidentally left Claude.md files Apple Support app",
+      "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
+      "score": 61,
+      "source": "hn",
+      "date": "2026-05-01T11:08:32+00:00"
     },
     {
       "title": "Show HN: Winpodx – run Windows apps on Linux as native windows",
@@ -76,16 +90,9 @@
       "date": "2026-05-01T03:53:44+00:00"
     },
     {
-      "title": "Your Website Is Not for You",
-      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
-      "score": 36,
-      "source": "hn",
-      "date": "2026-05-01T11:08:20+00:00"
-    },
-    {
       "title": "The Rotary Un-Smartphone (2023)",
       "url": "https://skysedge.com/telecom/RUSP/index.html",
-      "score": 36,
+      "score": 40,
       "source": "hn",
       "date": "2026-05-01T09:39:07+00:00"
     },
@@ -97,11 +104,11 @@
       "date": "2026-05-01T06:34:54+00:00"
     },
     {
-      "title": "Apple accidentally left Claude.md files Apple Support app",
-      "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
-      "score": 35,
+      "title": "A beginner's guide to Sourcehut (2025)",
+      "url": "https://btxx.org/posts/beginners-guide-sourcehut/",
+      "score": 29,
       "source": "hn",
-      "date": "2026-05-01T11:08:32+00:00"
+      "date": "2026-05-01T10:23:52+00:00"
     },
     {
       "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
@@ -118,13 +125,6 @@
       "date": "2026-05-01T02:02:11+00:00"
     },
     {
-      "title": "A beginner's guide to Sourcehut (2025)",
-      "url": "https://btxx.org/posts/beginners-guide-sourcehut/",
-      "score": 25,
-      "source": "hn",
-      "date": "2026-05-01T10:23:52+00:00"
-    },
-    {
       "title": "$500M for Virtual Biology Initiative, Funded by Zuckerbergs",
       "url": "https://biohub.org/news/virtual-biology-initiative/",
       "score": 18,
@@ -134,9 +134,16 @@
     {
       "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
       "url": "https://www.pagetable.com/?p=1854",
-      "score": 7,
+      "score": 12,
       "source": "hn",
       "date": "2026-05-01T11:58:11+00:00"
+    },
+    {
+      "title": "Show HN: Site Mogging",
+      "url": "https://sitemogging.com",
+      "score": 11,
+      "source": "hn",
+      "date": "2026-05-01T11:32:48+00:00"
     },
     {
       "title": "ClawIRC – IRC Chat for Agents",
