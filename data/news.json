@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-05-01T08:16:02.495909+00:00",
+  "updated_at": "2026-05-01T09:09:07.752264+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-47972447",
+      "source": "hn",
+      "title": "Grok 4.3",
+      "url": "https://docs.x.ai/developers/models/grok-4.3",
+      "score": 9,
+      "comments": 1,
+      "author": "simianwords",
+      "tags": [],
+      "date": "2026-05-01T08:29:31+00:00"
+    },
     {
       "id": "qiita-44582eee7f",
       "source": "zennqiita",
@@ -16,15 +27,37 @@
       "date": "2026-05-01T16:48:48+09:00"
     },
     {
+      "id": "hn-47972213",
+      "source": "hn",
+      "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
+      "url": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
+      "score": 28,
+      "comments": 4,
+      "author": "jtlebigot",
+      "tags": [],
+      "date": "2026-05-01T07:44:17+00:00"
+    },
+    {
       "id": "hn-47971830",
       "source": "hn",
       "title": "It’s Toasted",
       "url": "https://yadin.com/notes/toasted/",
-      "score": 27,
-      "comments": 14,
+      "score": 36,
+      "comments": 24,
       "author": "dryadin",
       "tags": [],
       "date": "2026-05-01T06:34:54+00:00"
+    },
+    {
+      "id": "hn-47971771",
+      "source": "hn",
+      "title": "If I Could Make My Own GitHub",
+      "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+      "score": 17,
+      "comments": 11,
+      "author": "vinhnx",
+      "tags": [],
+      "date": "2026-05-01T06:21:01+00:00"
     },
     {
       "id": "hn-47971768",
@@ -176,8 +209,8 @@
       "source": "hn",
       "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
       "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-      "score": 95,
-      "comments": 31,
+      "score": 100,
+      "comments": 37,
       "author": "zikani_03",
       "tags": [],
       "date": "2026-04-30T22:48:51+00:00",
@@ -199,8 +232,8 @@
       "source": "hn",
       "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
       "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-      "score": 77,
-      "comments": 21,
+      "score": 82,
+      "comments": 24,
       "author": "wglb",
       "tags": [],
       "date": "2026-04-30T22:18:57+00:00"
@@ -243,8 +276,8 @@
       "source": "hn",
       "title": "Can I disable all data collection from my vehicle?",
       "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 613,
-      "comments": 246,
+      "score": 623,
+      "comments": 252,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-04-30T20:27:22+00:00"
@@ -321,7 +354,7 @@
       "source": "hn",
       "title": "Full-Text Search with DuckDB",
       "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-      "score": 127,
+      "score": 132,
       "comments": 30,
       "author": "ethagnawl",
       "tags": [],
@@ -343,8 +376,8 @@
       "source": "hn",
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 269,
-      "comments": 61,
+      "score": 272,
+      "comments": 64,
       "author": "elvis70",
       "tags": [],
       "date": "2026-04-30T17:14:21+00:00"
@@ -376,8 +409,8 @@
       "source": "hn",
       "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 473,
-      "comments": 361,
+      "score": 493,
+      "comments": 379,
       "author": "ori_b",
       "tags": [],
       "date": "2026-04-30T16:43:47+00:00"
@@ -387,8 +420,8 @@
       "source": "hn",
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 574,
-      "comments": 187,
+      "score": 585,
+      "comments": 192,
       "author": "the-mitr",
       "tags": [],
       "date": "2026-04-30T16:41:00+00:00"
@@ -431,7 +464,7 @@
       "source": "hn",
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 389,
+      "score": 394,
       "comments": 133,
       "author": "j12y",
       "tags": [],
@@ -513,8 +546,8 @@
       "source": "hn",
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 1130,
-      "comments": 613,
+      "score": 1144,
+      "comments": 627,
       "author": "elmean",
       "tags": [],
       "date": "2026-04-30T14:36:58+00:00"
@@ -559,7 +592,7 @@
       "source": "hn",
       "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 408,
+      "score": 412,
       "comments": 124,
       "author": "chmaynard",
       "tags": [],
@@ -638,8 +671,8 @@
       "source": "hn",
       "title": "Belgium stops decommissioning nuclear power plants",
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 803,
-      "comments": 808,
+      "score": 812,
+      "comments": 819,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-04-30T12:17:14+00:00"
@@ -1267,8 +1300,8 @@
       "source": "hn",
       "title": "Opus 4.7 knows the real Kelsey",
       "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 331,
-      "comments": 169,
+      "score": 339,
+      "comments": 180,
       "author": "ilamont",
       "tags": [],
       "date": "2026-04-29T17:09:03+00:00"
@@ -1532,8 +1565,8 @@
       "source": "hn",
       "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
       "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-      "score": 26,
-      "comments": 6,
+      "score": 27,
+      "comments": 7,
       "author": "oldnetguy",
       "tags": [],
       "date": "2026-04-29T13:28:47+00:00"
@@ -1666,8 +1699,8 @@
       "source": "hn",
       "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
       "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "score": 46,
-      "comments": 8,
+      "score": 57,
+      "comments": 23,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-04-29T11:35:40+00:00"
@@ -1925,8 +1958,8 @@
       "source": "hn",
       "title": "Maladaptive Frugality",
       "url": "https://herbertlui.net/maladaptive-frugality/",
-      "score": 87,
-      "comments": 65,
+      "score": 96,
+      "comments": 75,
       "author": "herbertl",
       "tags": [],
       "date": "2026-04-29T00:50:15+00:00"
@@ -2102,8 +2135,8 @@
       "source": "hn",
       "title": "Using a 1978 terminal in 2026 (DEC VT-100)",
       "url": "https://nikhiljha.com/posts/vt100/",
-      "score": 26,
-      "comments": 6,
+      "score": 32,
+      "comments": 8,
       "author": "ninjha",
       "tags": [],
       "date": "2026-04-28T19:17:39+00:00"
@@ -2180,8 +2213,8 @@
       "source": "hn",
       "title": "Reverse Engineering SimTower",
       "url": "https://phulin.me/blog/simtower",
-      "score": 185,
-      "comments": 36,
+      "score": 196,
+      "comments": 39,
       "author": "patrickhulin",
       "tags": [],
       "date": "2026-04-28T17:41:38+00:00"
@@ -2247,8 +2280,8 @@
       "source": "hn",
       "title": "New mechanical panoramic film camera from Jeff Bridges",
       "url": "https://wideluxx.com",
-      "score": 131,
-      "comments": 63,
+      "score": 138,
+      "comments": 65,
       "author": "armadsen",
       "tags": [],
       "date": "2026-04-28T16:49:12+00:00"
@@ -2387,6 +2420,17 @@
       "author": "throw0101c",
       "tags": [],
       "date": "2026-04-28T15:54:21+00:00"
+    },
+    {
+      "id": "hn-47936184",
+      "source": "hn",
+      "title": "Auto Polo",
+      "url": "https://en.wikipedia.org/wiki/Auto_polo",
+      "score": 24,
+      "comments": 3,
+      "author": "canjobear",
+      "tags": [],
+      "date": "2026-04-28T15:51:37+00:00"
     },
     {
       "id": "hn-47936156",
@@ -3093,7 +3137,7 @@
       "source": "hn",
       "title": "Softmax, can you derive the Jacobian? And should you care?",
       "url": "https://idlemachines.co.uk/essays/softmax",
-      "score": 28,
+      "score": 34,
       "comments": 1,
       "author": "smaddrellmander",
       "tags": [],
@@ -3203,8 +3247,8 @@
       "source": "hn",
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 309,
-      "comments": 141,
+      "score": 314,
+      "comments": 142,
       "author": "vok",
       "tags": [],
       "date": "2026-04-27T17:52:12+00:00"
@@ -5125,54 +5169,6 @@
       "author": "nickjj",
       "tags": [],
       "date": "2026-04-25T15:59:15+00:00"
-    },
-    {
-      "id": "hn-47902339",
-      "source": "hn",
-      "title": "What's missing in the 'agentic' story: a well-defined user agent role",
-      "url": "https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains",
-      "score": 54,
-      "comments": 48,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-04-25T15:51:11+00:00"
-    },
-    {
-      "id": "qiita-474a07ec89",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "学習記録アプリを作成しました。",
-      "url": "https://qiita.com/kitamura371/items/7f1d66ef42c0c77da25d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kitamura371",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-26T00:49:34+09:00"
-    },
-    {
-      "id": "hn-47902269",
-      "source": "hn",
-      "title": "Mo RAM, Mo Problems (2025)",
-      "url": "https://fabiensanglard.net/curse/",
-      "score": 179,
-      "comments": 33,
-      "author": "blfr",
-      "tags": [],
-      "date": "2026-04-25T15:41:54+00:00"
-    },
-    {
-      "id": "qiita-6c8054fb6f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude CodeのVSCode拡張が使いやすいよ",
-      "url": "https://qiita.com/moritalous/items/3c5269610f26e23c5b04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "moritalous",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-26T00:39:30+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
