@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T11:51:39.199402+00:00",
+  "generated_at": "2026-05-01T12:22:36.225325+00:00",
   "total_articles": 67,
   "urgent_count": 4,
   "urgent_items": [
@@ -36,28 +36,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 57,
       "top_items": [
         {
           "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
           "url": "https://twitter.com/theo/status/2049645973350363168",
-          "score": 1189,
+          "score": 1198,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T14:36:58+00:00"
         },
         {
-          "title": "Belgium stops decommissioning nuclear power plants",
-          "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-          "score": 812,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-30T12:17:14+00:00"
-        },
-        {
           "title": "Can I disable all data collection from my vehicle?",
           "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-          "score": 640,
+          "score": 644,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T20:27:22+00:00"
@@ -65,7 +57,7 @@
         {
           "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
           "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-          "score": 615,
+          "score": 623,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T16:41:00+00:00"
@@ -73,16 +65,24 @@
         {
           "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
           "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-          "score": 518,
+          "score": 528,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T16:43:47+00:00"
+        },
+        {
+          "title": "How an oil refinery works",
+          "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+          "score": 445,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-30T13:54:20+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
         {
           "title": "カルパシーが語る「バイブコーディングからエージェント・エンジニアリングへ」 〜 YouTube動画が興味深かったのでまとめてみた 〜",
