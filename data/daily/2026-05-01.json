@@ -1,7 +1,7 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T00:39:58.677809+00:00",
-  "total_articles": 72,
+  "generated_at": "2026-05-01T01:37:37.213107+00:00",
+  "total_articles": 70,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -12,17 +12,17 @@
       "date": "2026-04-30T20:02:35+00:00"
     },
     {
-      "title": "Mike: open-source legal AI",
-      "url": "https://mikeoss.com/",
-      "severity": "critical",
+      "title": "The Internet Is Falling Down- CPanel/WHM Authentication Bypass CVE-2026-41940",
+      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "severity": "high",
       "source": "hn",
-      "date": "2026-04-30T00:56:23+00:00"
+      "date": "2026-04-30T22:48:51+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 57,
       "top_items": [
         {
           "title": "Where the goblins came from",
@@ -35,7 +35,7 @@
         {
           "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
           "url": "https://twitter.com/theo/status/2049645973350363168",
-          "score": 923,
+          "score": 951,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T14:36:58+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "Belgium stops decommissioning nuclear power plants",
           "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-          "score": 735,
+          "score": 751,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T12:17:14+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 12,
       "top_items": [
         {
           "title": "社会人のためのObsidian：実践的なVault構成とワークフロー",
@@ -109,6 +109,20 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-04-30T15:53:14+09:00"
+        }
+      ]
+    },
+    {
+      "category": "注目リリース",
+      "count": 1,
+      "top_items": [
+        {
+          "title": "ChromaDB foundation-cli-v0.1.0-alpha.3 — foundation-cli-v0.1.0-alpha.3",
+          "url": "https://github.com/chroma-core/chroma/releases/tag/foundation-cli-v0.1.0-alpha.3",
+          "score": null,
+          "source": "project",
+          "severity": null,
+          "date": "2026-05-01T00:44:16Z"
         }
       ]
     }
