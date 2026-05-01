@@ -1,13 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-01T19:29:35.075039+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-05-01T19:55:52.312529+00:00",
+  "total_articles": 52,
   "source_counts": {
-    "hn": 43,
+    "hn": 45,
     "zennqiita": 6,
     "project": 1
   },
   "severity_counts": {
+    "medium": 1,
     "critical": 1,
     "high": 1
   },
@@ -29,7 +30,7 @@
     {
       "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
       "url": "https://github.com/darrylmorley/whatcable",
-      "score": 313,
+      "score": 327,
       "source": "hn",
       "date": "2026-05-01T08:43:45+00:00"
     },
@@ -62,30 +63,30 @@
       "date": "2026-05-01T02:10:46+00:00"
     },
     {
-      "title": "An open letter asking NHS England to keep its code open",
-      "url": "https://keepthingsopen.com",
-      "score": 152,
-      "source": "hn",
-      "date": "2026-05-01T15:15:36+00:00"
-    },
-    {
       "title": "AI uses less water than the public thinks",
       "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-      "score": 131,
+      "score": 172,
       "source": "hn",
       "date": "2026-05-01T17:18:58+00:00"
     },
     {
+      "title": "An open letter asking NHS England to keep its code open",
+      "url": "https://keepthingsopen.com",
+      "score": 163,
+      "source": "hn",
+      "date": "2026-05-01T15:15:36+00:00"
+    },
+    {
       "title": "The Gay Jailbreak Technique",
       "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-      "score": 129,
+      "score": 157,
       "source": "hn",
       "date": "2026-05-01T16:59:35+00:00"
     },
     {
       "title": "Canonical/Ubuntu have been under DDoS",
       "url": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
-      "score": 121,
+      "score": 126,
       "source": "hn",
       "date": "2026-05-01T07:44:17+00:00"
     },
@@ -99,9 +100,16 @@
     {
       "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
       "url": "https://www.pagetable.com/?p=1854",
-      "score": 104,
+      "score": 106,
       "source": "hn",
       "date": "2026-05-01T11:58:11+00:00"
+    },
+    {
+      "title": "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
+      "url": "https://www.ghost.charity/",
+      "score": 102,
+      "source": "hn",
+      "date": "2026-05-01T14:52:07+00:00"
     },
     {
       "title": "Advanced Quantization Algorithm for LLMs",
@@ -111,13 +119,6 @@
       "date": "2026-05-01T09:10:02+00:00"
     },
     {
-      "title": "Show HN: GhostBox – Borrow a disposable little machine from the Global Free Tier",
-      "url": "https://www.ghost.charity/",
-      "score": 97,
-      "source": "hn",
-      "date": "2026-05-01T14:52:07+00:00"
-    },
-    {
       "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
       "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
       "score": 88,
@@ -125,32 +126,32 @@
       "date": "2026-05-01T10:28:12+00:00"
     },
     {
-      "title": "Sally McKee, who coined the term \"the memory wall\", has died",
-      "url": "https://www.online-tribute.com/SallyMcKee",
-      "score": 84,
-      "source": "hn",
-      "date": "2026-05-01T14:45:47+00:00"
-    },
-    {
       "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
       "url": "https://github.com/whohas/whohas",
-      "score": 78,
+      "score": 86,
       "source": "hn",
       "date": "2026-05-01T15:01:08+00:00"
     },
     {
-      "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
-      "url": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
-      "score": 64,
+      "title": "Sally McKee, who coined the term \"the memory wall\", has died",
+      "url": "https://www.online-tribute.com/SallyMcKee",
+      "score": 86,
       "source": "hn",
-      "date": "2026-05-01T06:20:33+00:00"
+      "date": "2026-05-01T14:45:47+00:00"
     },
     {
-      "title": "If I could make my own GitHub",
-      "url": "https://matduggan.com/if-i-could-make-my-own-github/",
-      "score": 62,
+      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+      "score": 79,
       "source": "hn",
-      "date": "2026-05-01T06:21:01+00:00"
+      "date": "2026-05-01T16:42:41+00:00"
+    },
+    {
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "score": 77,
+      "source": "hn",
+      "date": "2026-05-01T18:37:47+00:00"
     }
   ],
   "security_highlights": [
