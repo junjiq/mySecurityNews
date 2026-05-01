@@ -1,7 +1,7 @@
 {
   "date": "2026-05-01",
-  "generated_at": "2026-05-01T14:26:31.981166+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-05-01T14:49:46.073398+00:00",
+  "total_articles": 58,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,20 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 49,
       "top_items": [
-        {
-          "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-          "url": "https://twitter.com/theo/status/2049645973350363168",
-          "score": 1228,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-04-30T14:36:58+00:00"
-        },
         {
           "title": "Can I disable all data collection from my vehicle?",
           "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-          "score": 662,
+          "score": 668,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T20:27:22+00:00"
@@ -57,7 +49,7 @@
         {
           "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
           "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-          "score": 649,
+          "score": 653,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T16:41:00+00:00"
@@ -65,7 +57,7 @@
         {
           "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
           "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-          "score": 556,
+          "score": 559,
           "source": "hn",
           "severity": null,
           "date": "2026-04-30T16:43:47+00:00"
@@ -73,10 +65,18 @@
         {
           "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
           "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-          "score": 426,
+          "score": 430,
           "source": "hn",
           "severity": "medium",
           "date": "2026-04-30T16:09:26+00:00"
+        },
+        {
+          "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+          "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+          "score": 397,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-04-30T19:40:20+00:00"
         }
       ]
     },
