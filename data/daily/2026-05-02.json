@@ -1,8 +1,8 @@
 {
   "date": "2026-05-02",
-  "generated_at": "2026-05-02T23:17:01.833539+00:00",
-  "total_articles": 63,
-  "urgent_count": 4,
+  "generated_at": "2026-05-02T23:46:15.205788+00:00",
+  "total_articles": 62,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
@@ -24,24 +24,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-02T07:42:29+00:00"
-    },
-    {
-      "title": "A report on burnout in open source software communities (2025) [pdf]",
-      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-01T23:24:10+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 55,
       "top_items": [
         {
           "title": "Why does it take so long to release black fan versions?",
           "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-          "score": 681,
+          "score": 687,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T04:38:04+00:00"
@@ -49,7 +42,7 @@
         {
           "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
           "url": "https://github.com/microsoft/vscode/pull/310226",
-          "score": 485,
+          "score": 544,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T19:57:26+00:00"
@@ -65,7 +58,7 @@
         {
           "title": "NetHack 5.0.0",
           "url": "https://nethack.org/v500/release.html",
-          "score": 328,
+          "score": 342,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T18:03:42+00:00"
