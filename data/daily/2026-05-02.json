@@ -1,9 +1,16 @@
 {
   "date": "2026-05-02",
-  "generated_at": "2026-05-02T07:33:47.777659+00:00",
-  "total_articles": 61,
-  "urgent_count": 3,
+  "generated_at": "2026-05-02T08:32:41.806331+00:00",
+  "total_articles": 66,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Show HN: Hollow is an open-sourced self-modifying agentic system",
+      "url": "https://github.com/ninjahawk/hollow-agentOS",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-02T07:43:29+00:00"
+    },
     {
       "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
       "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 55,
       "top_items": [
         {
           "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
           "url": "https://github.com/darrylmorley/whatcable",
-          "score": 485,
+          "score": 494,
           "source": "hn",
           "severity": null,
           "date": "2026-05-01T08:43:45+00:00"
@@ -50,7 +57,7 @@
         {
           "title": "Ti-84 Evo",
           "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-          "score": 420,
+          "score": 431,
           "source": "hn",
           "severity": null,
           "date": "2026-05-01T20:06:59+00:00"
@@ -64,19 +71,43 @@
           "date": "2026-05-01T18:37:47+00:00"
         },
         {
-          "title": "Grok 4.3",
-          "url": "https://docs.x.ai/developers/models/grok-4.3",
-          "score": 342,
+          "title": "AI uses less water than the public thinks",
+          "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+          "score": 331,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-01T08:29:31+00:00"
+          "date": "2026-05-01T17:18:58+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 11,
       "top_items": [
+        {
+          "title": "【AWS】RAGのベクトルストア、S3 VectorsとOpenSearchどっちを選ぶ?",
+          "url": "https://qiita.com/yakumo_09/items/c1118838c20107db54a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-02T15:39:05+09:00"
+        },
+        {
+          "title": "Claude Codeについて思うこと",
+          "url": "https://qiita.com/sour23/items/e95f490b6533227fe73c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-02T13:16:12+09:00"
+        },
+        {
+          "title": "Claude Codeにオレたち流のコードを書かせる（前編）— プロジェクトの流儀を自動抽出する",
+          "url": "https://qiita.com/hiropon122/items/80e76424effeeb5431c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-02T09:48:01+09:00"
+        },
         {
           "title": "【Copilot】AI駆動開発では役割を分けて、トークン節約をする【IBM Bob】",
           "url": "https://qiita.com/m_koishikawa/items/38f3d84b8c71cf670b6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -92,30 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-02T00:37:09+09:00"
-        },
-        {
-          "title": "【備忘録】Gemini Embedding 2 がGAに ― Embeddingの代表的なユースケースを整理する",
-          "url": "https://qiita.com/Tadataka_Takahashi/items/69196e01b021bbf8759d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-01T23:26:36+09:00"
-        },
-        {
-          "title": "RubyKaigi 2026 に参加してきました",
-          "url": "https://qiita.com/tomoasleep/items/03f5d7a7b03d3d8a3a78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-01T19:08:37+09:00"
-        },
-        {
-          "title": "カルパシーが語る「バイブコーディングからエージェント・エンジニアリングへ」 〜 YouTube動画が興味深かったのでまとめてみた 〜",
-          "url": "https://qiita.com/yuji-arakawa/items/9e7235e708e2b33e58e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-01T16:48:48+09:00"
         }
       ]
     }
