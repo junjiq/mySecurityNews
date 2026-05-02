@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-02T08:32:41.853233+00:00",
-  "total_articles": 87,
+  "generated_at": "2026-05-02T09:26:40.479317+00:00",
+  "total_articles": 90,
   "source_counts": {
-    "hn": 67,
+    "hn": 70,
     "zennqiita": 19,
     "project": 1
   },
   "severity_counts": {
-    "critical": 4,
+    "critical": 5,
     "medium": 1,
     "high": 1
   },
@@ -16,9 +16,16 @@
     {
       "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
       "url": "https://github.com/darrylmorley/whatcable",
-      "score": 494,
+      "score": 502,
       "source": "hn",
       "date": "2026-05-01T08:43:45+00:00"
+    },
+    {
+      "title": "Ti-84 Evo",
+      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "score": 450,
+      "source": "hn",
+      "date": "2026-05-01T20:06:59+00:00"
     },
     {
       "title": "The gay jailbreak technique",
@@ -26,13 +33,6 @@
       "score": 435,
       "source": "hn",
       "date": "2026-05-01T16:59:35+00:00"
-    },
-    {
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 431,
-      "source": "hn",
-      "date": "2026-05-01T20:06:59+00:00"
     },
     {
       "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
@@ -49,6 +49,13 @@
       "date": "2026-05-01T08:29:31+00:00"
     },
     {
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "score": 335,
+      "source": "hn",
+      "date": "2026-05-01T17:47:42+00:00"
+    },
+    {
       "title": "AI uses less water than the public thinks",
       "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
       "score": 331,
@@ -63,13 +70,6 @@
       "date": "2026-05-01T11:08:32+00:00"
     },
     {
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 321,
-      "source": "hn",
-      "date": "2026-05-01T17:47:42+00:00"
-    },
-    {
       "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
       "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
       "score": 308,
@@ -79,7 +79,7 @@
     {
       "title": "Ask.com has closed",
       "url": "https://www.ask.com/",
-      "score": 235,
+      "score": 255,
       "source": "hn",
       "date": "2026-05-02T04:12:35+00:00"
     },
@@ -89,6 +89,13 @@
       "score": 231,
       "source": "hn",
       "date": "2026-05-01T11:08:20+00:00"
+    },
+    {
+      "title": "Why does it take so long to release black fan versions?",
+      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "score": 216,
+      "source": "hn",
+      "date": "2026-05-02T04:38:04+00:00"
     },
     {
       "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
@@ -133,13 +140,6 @@
       "date": "2026-05-01T15:15:36+00:00"
     },
     {
-      "title": "Why does it take so long to release black fan versions?",
-      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "score": 160,
-      "source": "hn",
-      "date": "2026-05-02T04:38:04+00:00"
-    },
-    {
       "title": "Job Postings for Software Engineers Are Rapidly Rising",
       "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
       "score": 158,
@@ -149,7 +149,7 @@
     {
       "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
       "url": "https://github.com/microsoft/lib0xc",
-      "score": 145,
+      "score": 148,
       "source": "hn",
       "date": "2026-05-01T19:10:56+00:00"
     }
@@ -161,6 +161,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-02T07:43:29+00:00"
+    },
+    {
+      "title": "Open source ballistic simulator with NASA SRTM terrain masking (Python/C#)",
+      "url": "https://github.com/InsaneInfinity/Balistic",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-02T07:42:29+00:00"
     },
     {
       "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
