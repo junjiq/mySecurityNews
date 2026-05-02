@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-02T01:36:18.646091+00:00",
-  "total_articles": 384,
+  "generated_at": "2026-05-02T03:06:17.557144+00:00",
+  "total_articles": 383,
   "source_counts": {
-    "hn": 308,
+    "hn": 307,
     "zennqiita": 74,
     "project": 2
   },
   "severity_counts": {
     "high": 4,
-    "critical": 16,
+    "critical": 17,
     "medium": 7
   },
   "top_articles": [
@@ -196,6 +196,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-29T09:14:37+00:00"
+    },
+    {
+      "title": "Sourcefeed – a pop-up RSS service",
+      "url": "https://www.sourcefeed.app/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-04-28T19:12:46+00:00"
     },
     {
       "title": "Bankruptcies increase 11.9 percent",
