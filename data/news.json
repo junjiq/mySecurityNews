@@ -1,17 +1,50 @@
 {
-  "updated_at": "2026-05-02T04:33:34.406488+00:00",
+  "updated_at": "2026-05-02T05:49:21.279525+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-47983385",
+      "source": "hn",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
+      "score": 1,
+      "comments": 0,
+      "author": "OBrien_1107",
+      "tags": [],
+      "date": "2026-05-02T04:43:20+00:00"
+    },
+    {
       "id": "hn-47983226",
       "source": "hn",
-      "title": "Ask Jeeves Shut Down",
+      "title": "Ask.com has closed",
       "url": "https://www.ask.com/",
-      "score": 34,
-      "comments": 8,
+      "score": 142,
+      "comments": 68,
       "author": "supermdguy",
       "tags": [],
       "date": "2026-05-02T04:12:35+00:00"
+    },
+    {
+      "id": "hn-47983176",
+      "source": "hn",
+      "title": "K3k: Kubernetes in Kubernetes",
+      "url": "https://github.com/rancher/k3k",
+      "score": 9,
+      "comments": 1,
+      "author": "jzebedee",
+      "tags": [],
+      "date": "2026-05-02T04:00:42+00:00"
+    },
+    {
+      "id": "hn-47982763",
+      "source": "hn",
+      "title": "Create an MP4 video of a web page scrolling at a steady speed",
+      "url": "https://github.com/upenn/web-scroll-video",
+      "score": 8,
+      "comments": 2,
+      "author": "shawnzam",
+      "tags": [],
+      "date": "2026-05-02T02:26:38+00:00"
     },
     {
       "id": "hn-47982718",
@@ -25,12 +58,23 @@
       "date": "2026-05-02T02:19:58+00:00"
     },
     {
+      "id": "hn-47982708",
+      "source": "hn",
+      "title": "I built the Playwright for desktop apps. 80% token savings",
+      "url": "https://github.com/lahfir/agent-desktop",
+      "score": 29,
+      "comments": 4,
+      "author": "lahfir",
+      "tags": [],
+      "date": "2026-05-02T02:18:24+00:00"
+    },
+    {
       "id": "hn-47982512",
       "source": "hn",
       "title": "Job Postings for Software Engineers Are Rapidly Rising",
       "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
-      "score": 38,
-      "comments": 10,
+      "score": 93,
+      "comments": 29,
       "author": "delichon",
       "tags": [],
       "date": "2026-05-02T01:46:24+00:00"
@@ -84,7 +128,7 @@
       "source": "hn",
       "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
       "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-      "score": 46,
+      "score": 54,
       "comments": 12,
       "author": "susam",
       "tags": [],
@@ -121,8 +165,8 @@
       "source": "hn",
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 371,
-      "comments": 336,
+      "score": 394,
+      "comments": 357,
       "author": "thatxliner",
       "tags": [],
       "date": "2026-05-01T20:06:59+00:00"
@@ -143,7 +187,7 @@
       "source": "hn",
       "title": "Whimsical Animations Course Open House",
       "url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
-      "score": 81,
+      "score": 83,
       "comments": 9,
       "author": "SpyCoder77",
       "tags": [],
@@ -165,8 +209,8 @@
       "source": "hn",
       "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
       "url": "https://github.com/microsoft/lib0xc",
-      "score": 105,
-      "comments": 35,
+      "score": 119,
+      "comments": 45,
       "author": "wooster",
       "tags": [],
       "date": "2026-05-01T19:10:56+00:00"
@@ -187,7 +231,7 @@
       "source": "hn",
       "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
       "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "score": 346,
+      "score": 362,
       "comments": 97,
       "author": "joshcsimmons",
       "tags": [],
@@ -198,8 +242,8 @@
       "source": "hn",
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 283,
-      "comments": 157,
+      "score": 299,
+      "comments": 166,
       "author": "XzetaU8",
       "tags": [],
       "date": "2026-05-01T17:47:42+00:00"
@@ -319,8 +363,8 @@
       "source": "hn",
       "title": "Apocalypse Early Warning System",
       "url": "https://ews.kylemcdonald.net/",
-      "score": 138,
-      "comments": 75,
+      "score": 149,
+      "comments": 80,
       "author": "carlsborg",
       "tags": [],
       "date": "2026-05-01T16:21:23+00:00",
@@ -388,8 +432,8 @@
       "source": "hn",
       "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
       "url": "https://github.com/whohas/whohas",
-      "score": 134,
-      "comments": 31,
+      "score": 135,
+      "comments": 32,
       "author": "peter_d_sherman",
       "tags": [],
       "date": "2026-05-01T15:01:08+00:00"
@@ -569,8 +613,8 @@
       "source": "hn",
       "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
       "url": "https://github.com/darrylmorley/whatcable",
-      "score": 456,
-      "comments": 133,
+      "score": 469,
+      "comments": 134,
       "author": "sleepingNomad",
       "tags": [],
       "date": "2026-05-01T08:43:45+00:00"
@@ -1435,7 +1479,7 @@
       "source": "hn",
       "title": "Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
       "url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
-      "score": 6,
+      "score": 9,
       "comments": 0,
       "author": "kamilmrzyglod",
       "tags": [],
@@ -1581,6 +1625,17 @@
       "author": "ilreb",
       "tags": [],
       "date": "2026-04-30T03:21:04+00:00"
+    },
+    {
+      "id": "hn-47957648",
+      "source": "hn",
+      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+      "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
+      "score": 11,
+      "comments": 1,
+      "author": "nateb2022",
+      "tags": [],
+      "date": "2026-04-30T03:15:42+00:00"
     },
     {
       "id": "hn-47957627",
@@ -1856,8 +1911,8 @@
       "source": "hn",
       "title": "Artemis II Photo Timeline",
       "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 120,
-      "comments": 11,
+      "score": 141,
+      "comments": 12,
       "author": "geerlingguy",
       "tags": [],
       "date": "2026-04-29T20:48:17+00:00"
@@ -1922,8 +1977,8 @@
       "source": "hn",
       "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
       "url": "https://www.nature.com/articles/s41467-026-71526-5",
-      "score": 31,
-      "comments": 6,
+      "score": 36,
+      "comments": 11,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-04-29T18:58:37+00:00"
@@ -2144,8 +2199,8 @@
       "source": "hn",
       "title": "The smelly baby problem",
       "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "score": 138,
-      "comments": 77,
+      "score": 151,
+      "comments": 89,
       "author": "dionysou",
       "tags": [],
       "date": "2026-04-29T15:48:18+00:00"
@@ -2188,7 +2243,7 @@
       "source": "hn",
       "title": "To Restore an Island Paradise, Add Fungi",
       "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-      "score": 28,
+      "score": 37,
       "comments": 2,
       "author": "Brajeshwar",
       "tags": [],
@@ -2913,8 +2968,8 @@
       "source": "hn",
       "title": "Sourcefeed – a pop-up RSS service",
       "url": "https://www.sourcefeed.app/",
-      "score": 11,
-      "comments": 2,
+      "score": 16,
+      "comments": 3,
       "author": "bjhess",
       "tags": [],
       "date": "2026-04-28T19:12:46+00:00",
@@ -5104,61 +5159,6 @@
       "date": "2026-04-26T16:42:19+00:00"
     },
     {
-      "id": "hn-47911524",
-      "source": "hn",
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "score": 693,
-      "comments": 839,
-      "author": "jeremyccrane",
-      "tags": [],
-      "date": "2026-04-26T16:27:29+00:00"
-    },
-    {
-      "id": "hn-47911350",
-      "source": "hn",
-      "title": "Clay PCB Tutorial",
-      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "score": 217,
-      "comments": 128,
-      "author": "j0r0b0",
-      "tags": [],
-      "date": "2026-04-26T16:02:14+00:00"
-    },
-    {
-      "id": "hn-47911013",
-      "source": "hn",
-      "title": "Show HN: Free textbook on engineering thermodynamics",
-      "url": "https://thermodynamicsbook.com/",
-      "score": 96,
-      "comments": 28,
-      "author": "2DcAf",
-      "tags": [],
-      "date": "2026-04-26T15:17:34+00:00"
-    },
-    {
-      "id": "hn-47910877",
-      "source": "hn",
-      "title": "Lessons from building multiplayer browsers",
-      "url": "https://www.alejandro.pe/writing/sail-muddy-lessons",
-      "score": 44,
-      "comments": 14,
-      "author": "alejandrohacks",
-      "tags": [],
-      "date": "2026-04-26T14:59:37+00:00"
-    },
-    {
-      "id": "hn-47910594",
-      "source": "hn",
-      "title": "London Reverse Marathon FAQ",
-      "url": "https://london.apped.uk/faq",
-      "score": 7,
-      "comments": 1,
-      "author": "susam",
-      "tags": [],
-      "date": "2026-04-26T14:23:10+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5369,19 +5369,6 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-dd4889c27d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【検出率100%】セキュリティ診断、Claude Codeに全部やらせる時代が来た",
-      "url": "https://zenn.dev/sabakan1/articles/57ca07f4b277b4",
-      "score": null,
-      "author": "Sabakan",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 01 May 2026 14:15:19 GMT"
-    },
-    {
       "id": "zenn-601142cee4",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5393,32 +5380,6 @@
         "Zenn"
       ],
       "date": "Fri, 01 May 2026 13:29:45 GMT"
-    },
-    {
-      "id": "zenn-361ca1c7e0",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Neovim 0.11 -> 0.12へアップデートする際の勘所とnvim-treesitterの扱い",
-      "url": "https://zenn.dev/tttol/articles/2881b678ee005b",
-      "score": null,
-      "author": "tttol",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 01 May 2026 12:48:15 GMT"
-    },
-    {
-      "id": "zenn-dff34ddf3d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "7年前の Chromebook でローカルLLMは動くのか？ Trillim + Ternary Bonsai を Crostini で試す",
-      "url": "https://zenn.dev/dateshim/articles/eb9b7bb8e53cc2",
-      "score": null,
-      "author": "Dateshim",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 01 May 2026 12:30:56 GMT"
     },
     {
       "id": "zenn-22370b8581",
@@ -5434,30 +5395,17 @@
       "date": "Fri, 01 May 2026 10:38:26 GMT"
     },
     {
-      "id": "zenn-9914e9fc73",
+      "id": "zenn-29d9f5e8f1",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "DGX Sparkに xrdp + Tailscale でリモートデスクトップ環境を構築する",
-      "url": "https://zenn.dev/karaage0703/articles/ad960088e1b94f",
+      "title": "社内向けAIアシスタントを3か月間試験運用してみた",
+      "url": "https://zenn.dev/mkj/articles/87c3ce556cde90",
       "score": null,
       "author": "からあげ",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 01 May 2026 09:33:54 GMT"
-    },
-    {
-      "id": "zenn-210dfe81d9",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "gh skill と Copilot Coding Agent で Agent Skills を自動推薦する仕組みを作ってみた",
-      "url": "https://zenn.dev/exwzd/articles/20260501_copilot_agent_skill_recommender",
-      "score": null,
-      "author": "Masaki Onishi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 01 May 2026 06:26:38 GMT"
+      "date": "Fri, 01 May 2026 02:50:05 GMT"
     },
     {
       "id": "zenn-bc48293faf",
@@ -5565,6 +5513,32 @@
       "date": "Thu, 30 Apr 2026 03:52:05 GMT"
     },
     {
+      "id": "zenn-487165e52b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "DevOps Agent奮闘記 〜検証から見えた設計プラクティス〜",
+      "url": "https://zenn.dev/estie/articles/6c42162ce868b9",
+      "score": null,
+      "author": "stkhr",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 30 Apr 2026 01:39:49 GMT"
+    },
+    {
+      "id": "zenn-7a8ac79a6e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Vimの知見共有もできて盛り上がる「Vimペアプロ」を社内勉強会でやってみた",
+      "url": "https://zenn.dev/canary_techblog/articles/429cae3aaf06c7",
+      "score": null,
+      "author": "kyu08",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 30 Apr 2026 01:00:05 GMT"
+    },
+    {
       "id": "zenn-6fabd3cd4a",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5604,6 +5578,19 @@
       "date": "Wed, 29 Apr 2026 06:30:14 GMT"
     },
     {
+      "id": "zenn-5b16cebfc9",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "UIの面倒、実はDBの問題だった ― Local-First と Instant が示す Web 開発の未来",
+      "url": "https://zenn.dev/sc30gsw/articles/a39bd748caa861",
+      "score": null,
+      "author": "kaito",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 29 Apr 2026 03:23:16 GMT"
+    },
+    {
       "id": "zenn-d00e533b06",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5628,6 +5615,19 @@
         "Zenn"
       ],
       "date": "Tue, 28 Apr 2026 03:52:37 GMT"
+    },
+    {
+      "id": "zenn-4ad8a3cdc0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "非エンジニアの「作りたい」と「安全に公開したい」を両立する Sandbox MCP を作った",
+      "url": "https://zenn.dev/aircloset/articles/65efe9614f8e73",
+      "score": null,
+      "author": "辻 亮佑",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 27 Apr 2026 23:02:32 GMT"
     },
     {
       "id": "edb-fb4512c26e",
