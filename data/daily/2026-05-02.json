@@ -1,9 +1,16 @@
 {
   "date": "2026-05-02",
-  "generated_at": "2026-05-02T22:14:28.013708+00:00",
-  "total_articles": 63,
-  "urgent_count": 3,
+  "generated_at": "2026-05-02T22:45:58.959812+00:00",
+  "total_articles": 64,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-02T21:34:49+00:00"
+    },
     {
       "title": "Show HN: Hollow is an open-sourced self-modifying agentic system",
       "url": "https://github.com/ninjahawk/hollow-agentOS",
@@ -29,15 +36,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 56,
       "top_items": [
         {
           "title": "Why does it take so long to release black fan versions?",
           "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-          "score": 668,
+          "score": 679,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T04:38:04+00:00"
+        },
+        {
+          "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+          "url": "https://github.com/microsoft/vscode/pull/310226",
+          "score": 407,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-02T19:57:26+00:00"
         },
         {
           "title": "Ask.com has closed",
@@ -48,17 +63,9 @@
           "date": "2026-05-02T04:12:35+00:00"
         },
         {
-          "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-          "url": "https://github.com/microsoft/vscode/pull/310226",
-          "score": 318,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-02T19:57:26+00:00"
-        },
-        {
           "title": "NetHack 5.0.0",
           "url": "https://nethack.org/v500/release.html",
-          "score": 304,
+          "score": 317,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T18:03:42+00:00"

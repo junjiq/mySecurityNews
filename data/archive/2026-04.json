@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-02T22:14:28.057134+00:00",
-  "total_articles": 318,
+  "generated_at": "2026-05-02T22:45:59.002811+00:00",
+  "total_articles": 316,
   "source_counts": {
-    "hn": 258,
+    "hn": 256,
     "zennqiita": 58,
     "project": 2
   },
   "severity_counts": {
     "high": 4,
-    "critical": 17,
+    "critical": 16,
     "medium": 4
   },
   "top_articles": [
@@ -294,13 +294,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-04-28T00:27:25+09:00"
-    },
-    {
-      "title": "Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop",
-      "url": "https://www.systalyze.com/utilyze",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-27T13:55:43+00:00"
     }
   ]
 }
