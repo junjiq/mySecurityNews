@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
-  "generated_at": "2026-05-02T19:48:12.281165+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-05-02T20:13:29.438016+00:00",
+  "total_articles": 57,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,23 +36,15 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 48,
       "top_items": [
         {
           "title": "Why does it take so long to release black fan versions?",
           "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-          "score": 634,
+          "score": 640,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T04:38:04+00:00"
-        },
-        {
-          "title": "Ti-84 Evo",
-          "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-          "score": 554,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-01T20:06:59+00:00"
         },
         {
           "title": "Ask.com has closed",
@@ -73,16 +65,24 @@
         {
           "title": "NetHack 5.0.0",
           "url": "https://nethack.org/v500/release.html",
-          "score": 216,
+          "score": 240,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T18:03:42+00:00"
+        },
+        {
+          "title": "How fast is a macOS VM, and how small could it be?",
+          "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+          "score": 200,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-02T09:30:49+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 9,
       "top_items": [
         {
           "title": "Claude Codeにオレたち流のコードを書かせる（前編）— プロジェクトの流儀を自動抽出する",
@@ -91,6 +91,22 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-03T00:24:11+09:00"
+        },
+        {
+          "title": "いつの間にかPowerPointのCopilotが劇的に良くなっていた件",
+          "url": "https://qiita.com/sadabon444/items/f2978f2a79812aff570c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-02T23:06:14+09:00"
+        },
+        {
+          "title": "Amazon BedrockのAnthropicモデルをどのように選択すべきか",
+          "url": "https://qiita.com/nasuvitz/items/4e9a1b62025d7d3ba460?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-02T21:48:19+09:00"
         },
         {
           "title": "Claude Codeについて思うこと",
@@ -107,14 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-02T15:39:05+09:00"
-        },
-        {
-          "title": "【Copilot】AI駆動開発では役割を分けて、トークン節約をする【IBM Bob】",
-          "url": "https://qiita.com/m_koishikawa/items/38f3d84b8c71cf670b6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-02T08:16:40+09:00"
         }
       ]
     }
