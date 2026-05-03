@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-03T17:18:20.557098+00:00",
-  "total_articles": 186,
+  "generated_at": "2026-05-03T17:46:43.810652+00:00",
+  "total_articles": 188,
   "source_counts": {
-    "hn": 151,
+    "hn": 153,
     "zennqiita": 34,
     "project": 1
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 10,
     "medium": 2,
     "high": 1
   },
@@ -49,18 +49,18 @@
       "date": "2026-05-01T08:43:45+00:00"
     },
     {
-      "title": "This Month in Ladybird – April 2026",
-      "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "score": 453,
-      "source": "hn",
-      "date": "2026-05-02T20:46:30+00:00"
-    },
-    {
       "title": "Do_not_track",
       "url": "https://donottrack.sh/",
-      "score": 451,
+      "score": 459,
       "source": "hn",
       "date": "2026-05-02T17:40:55+00:00"
+    },
+    {
+      "title": "This Month in Ladybird – April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "score": 456,
+      "source": "hn",
+      "date": "2026-05-02T20:46:30+00:00"
     },
     {
       "title": "The gay jailbreak technique",
@@ -86,7 +86,7 @@
     {
       "title": "Six Years Perfecting Maps on WatchOS",
       "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "score": 401,
+      "score": 405,
       "source": "hn",
       "date": "2026-05-02T21:14:29+00:00"
     },
@@ -107,7 +107,7 @@
     {
       "title": "A couple million lines of Haskell: Production engineering at Mercury",
       "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "score": 357,
+      "score": 360,
       "source": "hn",
       "date": "2026-05-03T00:01:14+00:00"
     },
@@ -140,21 +140,28 @@
       "date": "2026-05-01T11:08:32+00:00"
     },
     {
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+      "score": 320,
+      "source": "hn",
+      "date": "2026-05-03T14:43:27+00:00"
+    },
+    {
       "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
       "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
       "score": 308,
       "source": "hn",
       "date": "2026-05-01T16:08:53+00:00"
-    },
-    {
-      "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
-      "url": "https://arxiv.org/abs/2509.00462",
-      "score": 304,
-      "source": "hn",
-      "date": "2026-05-02T15:28:13+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Metal Gear Solid 2's Source Code Has Been Leaked on 4Chan",
+      "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-03T16:48:11+00:00"
+    },
     {
       "title": "Mercedes-Benz commits to bringing back physical buttons",
       "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
