@@ -1,8 +1,8 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T07:17:00.900215+00:00",
-  "total_articles": 57,
-  "urgent_count": 4,
+  "generated_at": "2026-05-03T08:12:31.508890+00:00",
+  "total_articles": 62,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Open source does not imply open community",
@@ -17,31 +17,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-02T21:34:49+00:00"
-    },
-    {
-      "title": "Show HN: Hollow is an open-sourced self-modifying agentic system",
-      "url": "https://github.com/ninjahawk/hollow-agentOS",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-02T07:43:29+00:00"
-    },
-    {
-      "title": "Open source ballistic simulator with NASA SRTM terrain masking (Python/C#)",
-      "url": "https://github.com/InsaneInfinity/Balistic",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-02T07:42:29+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 52,
       "top_items": [
         {
           "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
           "url": "https://github.com/microsoft/vscode/pull/310226",
-          "score": 1076,
+          "score": 1117,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T19:57:26+00:00"
@@ -49,7 +35,7 @@
         {
           "title": "Dav2d",
           "url": "https://code.videolan.org/videolan/dav2d",
-          "score": 438,
+          "score": 454,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T17:32:29+00:00"
@@ -73,7 +59,7 @@
         {
           "title": "Do_not_track",
           "url": "https://donottrack.sh/",
-          "score": 275,
+          "score": 294,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T17:40:55+00:00"
@@ -82,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 10,
       "top_items": [
+        {
+          "title": "Strands AgentsのTypeScript版がv1.0.0に到達したのでAI SDK用のアダプターを作ってみた",
+          "url": "https://qiita.com/moritalous/items/132f9e20661289f1abc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-03T13:01:24+09:00"
+        },
         {
           "title": "Claude Codeについて思うこと",
           "url": "https://qiita.com/sour23/items/e95f490b6533227fe73c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -93,28 +87,28 @@
           "date": "2026-05-03T12:33:26+09:00"
         },
         {
-          "title": "Claude Codeにオレたち流のコードを書かせる（前編）— プロジェクトの流儀を自動抽出する",
-          "url": "https://qiita.com/hiropon122/items/80e76424effeeb5431c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude Code入りのDockerイメージをDevContainerで動かす",
+          "url": "https://qiita.com/sour23/items/a86a42a675e27853299b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-03T00:24:11+09:00"
+          "date": "2026-05-03T10:31:14+09:00"
         },
         {
-          "title": "いつの間にかPowerPointのCopilotが劇的に良くなっていた件",
-          "url": "https://qiita.com/sadabon444/items/f2978f2a79812aff570c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "市場は本当に予測不能なのか？――ランダムウォーク仮説とクオンツが探す「小さな歪み」",
+          "url": "https://qiita.com/tikeda123/items/e777dcadbc850c357419?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-02T23:06:14+09:00"
+          "date": "2026-05-03T10:11:19+09:00"
         },
         {
-          "title": "Amazon BedrockのAnthropicモデルをどのように選択すべきか",
-          "url": "https://qiita.com/nasuvitz/items/4e9a1b62025d7d3ba460?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "React/TypeScript + Vite + Supabase + Chakra　UI で学習記録アプリを作ってみた",
+          "url": "https://qiita.com/ken4ro111/items/f2a9c2e1a5294752c466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-02T21:48:19+09:00"
+          "date": "2026-05-03T01:56:37+09:00"
         }
       ]
     }
