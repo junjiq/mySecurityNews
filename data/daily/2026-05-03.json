@@ -1,7 +1,7 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T04:45:07.138189+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-05-03T06:01:45.795765+00:00",
+  "total_articles": 58,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,15 +36,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 53,
       "top_items": [
         {
           "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
           "url": "https://github.com/microsoft/vscode/pull/310226",
-          "score": 952,
+          "score": 1014,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T19:57:26+00:00"
+        },
+        {
+          "title": "Dav2d",
+          "url": "https://code.videolan.org/videolan/dav2d",
+          "score": 416,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-02T17:32:29+00:00"
         },
         {
           "title": "NetHack 5.0.0",
@@ -55,14 +63,6 @@
           "date": "2026-05-02T18:03:42+00:00"
         },
         {
-          "title": "Dav2d",
-          "url": "https://code.videolan.org/videolan/dav2d",
-          "score": 393,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-02T17:32:29+00:00"
-        },
-        {
           "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
           "url": "https://arxiv.org/abs/2509.00462",
           "score": 304,
@@ -71,18 +71,18 @@
           "date": "2026-05-02T15:28:13+00:00"
         },
         {
-          "title": "California to begin ticketing driverless cars that violate traffic laws",
-          "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
-          "score": 260,
+          "title": "Do_not_track",
+          "url": "https://donottrack.sh/",
+          "score": 261,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-02T17:59:18+00:00"
+          "date": "2026-05-02T17:40:55+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
         {
           "title": "Claude Codeについて思うこと",
