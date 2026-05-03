@@ -1,11 +1,11 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T03:07:30.016737+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-05-03T04:45:07.138189+00:00",
+  "total_articles": 60,
   "urgent_count": 4,
   "urgent_items": [
     {
-      "title": "Open Source Does Not Imply Open Community",
+      "title": "Open source does not imply open community",
       "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
       "severity": "critical",
       "source": "hn",
@@ -36,28 +36,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 54,
       "top_items": [
         {
           "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
           "url": "https://github.com/microsoft/vscode/pull/310226",
-          "score": 880,
+          "score": 952,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T19:57:26+00:00"
         },
         {
-          "title": "Why does it take so long to release black fan versions?",
-          "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-          "score": 701,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-02T04:38:04+00:00"
-        },
-        {
           "title": "NetHack 5.0.0",
           "url": "https://nethack.org/v500/release.html",
-          "score": 390,
+          "score": 408,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T18:03:42+00:00"
@@ -65,18 +57,26 @@
         {
           "title": "Dav2d",
           "url": "https://code.videolan.org/videolan/dav2d",
-          "score": 356,
+          "score": 393,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T17:32:29+00:00"
         },
         {
-          "title": "Ask.com has closed",
-          "url": "https://www.ask.com/",
-          "score": 348,
+          "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+          "url": "https://arxiv.org/abs/2509.00462",
+          "score": 304,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-02T04:12:35+00:00"
+          "date": "2026-05-02T15:28:13+00:00"
+        },
+        {
+          "title": "California to begin ticketing driverless cars that violate traffic laws",
+          "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+          "score": 260,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-02T17:59:18+00:00"
         }
       ]
     },
@@ -84,6 +84,14 @@
       "category": "日本語技術記事",
       "count": 6,
       "top_items": [
+        {
+          "title": "Claude Codeについて思うこと",
+          "url": "https://qiita.com/sour23/items/e95f490b6533227fe73c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-03T12:33:26+09:00"
+        },
         {
           "title": "Claude Codeにオレたち流のコードを書かせる（前編）— プロジェクトの流儀を自動抽出する",
           "url": "https://qiita.com/hiropon122/items/80e76424effeeb5431c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -107,14 +115,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-02T21:48:19+09:00"
-        },
-        {
-          "title": "Claude Codeについて思うこと",
-          "url": "https://qiita.com/sour23/items/e95f490b6533227fe73c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-02T20:34:05+09:00"
         },
         {
           "title": "【AWS】RAGのベクトルストア、S3 VectorsとOpenSearchどっちを選ぶ?",

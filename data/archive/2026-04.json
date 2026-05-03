@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-03T03:07:30.059840+00:00",
-  "total_articles": 306,
+  "generated_at": "2026-05-03T04:45:07.178736+00:00",
+  "total_articles": 303,
   "source_counts": {
-    "hn": 248,
+    "hn": 245,
     "zennqiita": 56,
     "project": 2
   },
   "severity_counts": {
     "high": 2,
-    "critical": 16,
+    "critical": 15,
     "medium": 4
   },
   "top_articles": [
@@ -273,13 +273,6 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-04-28T10:09:18+09:00"
-    },
-    {
-      "title": "Easyduino: Open Source PCB Devboards for KiCad",
-      "url": "https://github.com/Hanqaqa/Easyduino",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-27T17:45:02+00:00"
     }
   ]
 }
