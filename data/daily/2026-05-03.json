@@ -1,9 +1,16 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T11:16:38.439109+00:00",
-  "total_articles": 55,
-  "urgent_count": 2,
+  "generated_at": "2026-05-03T11:45:59.461776+00:00",
+  "total_articles": 57,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Thoth – open-source Local-first AI Assistant",
+      "url": "https://github.com/siddsachar/Thoth",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-03T09:18:25+00:00"
+    },
     {
       "title": "Open source does not imply open community",
       "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 47,
       "top_items": [
         {
           "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
           "url": "https://github.com/microsoft/vscode/pull/310226",
-          "score": 1231,
+          "score": 1253,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T19:57:26+00:00"
@@ -35,7 +42,7 @@
         {
           "title": "Dav2d",
           "url": "https://code.videolan.org/videolan/dav2d",
-          "score": 489,
+          "score": 498,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T17:32:29+00:00"
@@ -49,20 +56,20 @@
           "date": "2026-05-02T18:03:42+00:00"
         },
         {
-          "title": "This Month in Ladybird – April 2026",
-          "url": "https://ladybird.org/newsletter/2026-04-30/",
-          "score": 354,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-02T20:46:30+00:00"
-        },
-        {
           "title": "Do_not_track",
           "url": "https://donottrack.sh/",
-          "score": 350,
+          "score": 361,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T17:40:55+00:00"
+        },
+        {
+          "title": "This Month in Ladybird – April 2026",
+          "url": "https://ladybird.org/newsletter/2026-04-30/",
+          "score": 360,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-02T20:46:30+00:00"
         }
       ]
     },

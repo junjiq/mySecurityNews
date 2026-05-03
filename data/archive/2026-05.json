@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-03T11:16:38.475096+00:00",
-  "total_articles": 164,
+  "generated_at": "2026-05-03T11:45:59.502953+00:00",
+  "total_articles": 166,
   "source_counts": {
-    "hn": 129,
+    "hn": 131,
     "zennqiita": 34,
     "project": 1
   },
   "severity_counts": {
-    "critical": 7,
+    "critical": 8,
     "medium": 2,
     "high": 1
   },
@@ -16,7 +16,7 @@
     {
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "url": "https://github.com/microsoft/vscode/pull/310226",
-      "score": 1231,
+      "score": 1253,
       "source": "hn",
       "date": "2026-05-02T19:57:26+00:00"
     },
@@ -44,7 +44,7 @@
     {
       "title": "Dav2d",
       "url": "https://code.videolan.org/videolan/dav2d",
-      "score": 489,
+      "score": 498,
       "source": "hn",
       "date": "2026-05-02T17:32:29+00:00"
     },
@@ -84,18 +84,18 @@
       "date": "2026-05-01T18:37:47+00:00"
     },
     {
-      "title": "This Month in Ladybird – April 2026",
-      "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "score": 354,
-      "source": "hn",
-      "date": "2026-05-02T20:46:30+00:00"
-    },
-    {
       "title": "Do_not_track",
       "url": "https://donottrack.sh/",
-      "score": 350,
+      "score": 361,
       "source": "hn",
       "date": "2026-05-02T17:40:55+00:00"
+    },
+    {
+      "title": "This Month in Ladybird – April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "score": 360,
+      "source": "hn",
+      "date": "2026-05-02T20:46:30+00:00"
     },
     {
       "title": "Ask.com has closed",
@@ -128,7 +128,7 @@
     {
       "title": "Six Years Perfecting Maps on WatchOS",
       "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "score": 311,
+      "score": 323,
       "source": "hn",
       "date": "2026-05-02T21:14:29+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Thoth – open-source Local-first AI Assistant",
+      "url": "https://github.com/siddsachar/Thoth",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-03T09:18:25+00:00"
+    },
     {
       "title": "Open source does not imply open community",
       "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
