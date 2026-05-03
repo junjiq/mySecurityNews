@@ -1,14 +1,14 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-02T23:46:15.249051+00:00",
-  "total_articles": 315,
+  "generated_at": "2026-05-03T00:37:54.099814+00:00",
+  "total_articles": 310,
   "source_counts": {
-    "hn": 255,
-    "zennqiita": 58,
+    "hn": 252,
+    "zennqiita": 56,
     "project": 2
   },
   "severity_counts": {
-    "high": 4,
+    "high": 2,
     "critical": 16,
     "medium": 4
   },
@@ -280,20 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-27T17:45:02+00:00"
-    },
-    {
-      "title": "【完結編】コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（自作ツールがAIに論破された日）",
-      "url": "https://qiita.com/harupython/items/4d572a384c62016c51f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-04-28T00:31:42+09:00"
-    },
-    {
-      "title": "コードを1行も読ませずに、AIに脆弱性を100%特定させる方法（理論編）",
-      "url": "https://qiita.com/harupython/items/ed256553d10578cfec2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-04-28T00:27:25+09:00"
     }
   ]
 }
