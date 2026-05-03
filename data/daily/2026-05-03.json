@@ -1,8 +1,8 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T19:48:07.832072+00:00",
-  "total_articles": 65,
-  "urgent_count": 6,
+  "generated_at": "2026-05-03T20:14:32.427678+00:00",
+  "total_articles": 75,
+  "urgent_count": 7,
   "urgent_items": [
     {
       "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
@@ -24,6 +24,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-03T09:18:25+00:00"
+    },
+    {
+      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-05-03T16:32:16+09:00"
     },
     {
       "title": "Open source does not imply open community",
@@ -53,12 +60,12 @@
       "count": 61,
       "top_items": [
         {
-          "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-          "url": "https://github.com/microsoft/vscode/pull/310226",
-          "score": 1355,
+          "title": "Mercedes-Benz commits to bringing back physical buttons",
+          "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+          "score": 469,
           "source": "hn",
-          "severity": null,
-          "date": "2026-05-02T19:57:26+00:00"
+          "severity": "critical",
+          "date": "2026-05-03T14:43:27+00:00"
         },
         {
           "title": "This Month in Ladybird – April 2026",
@@ -67,14 +74,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T20:46:30+00:00"
-        },
-        {
-          "title": "Mercedes-Benz commits to bringing back physical buttons",
-          "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-          "score": 450,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-05-03T14:43:27+00:00"
         },
         {
           "title": "Six years perfecting maps on watchOS",
@@ -91,44 +90,60 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-03T00:01:14+00:00"
+        },
+        {
+          "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+          "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+          "score": 279,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-03T04:05:28+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 14,
       "top_items": [
         {
-          "title": "Strands AgentsのTypeScript版がv1.0.0に到達したのでAI SDK用のアダプターを作ってみた",
-          "url": "https://qiita.com/moritalous/items/132f9e20661289f1abc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Bedrock AgentCore Optimization で本番エージェントのプロンプトをデータドリブンに改善する",
+          "url": "https://qiita.com/leomarokun/items/1ae7df3747a45abbfb84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-03T13:01:24+09:00"
+          "date": "2026-05-03T20:19:03+09:00"
         },
         {
-          "title": "Claude Codeについて思うこと",
-          "url": "https://qiita.com/sour23/items/e95f490b6533227fe73c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】",
+          "url": "https://qiita.com/pmpm_nk/items/b74198e39c2cbad358e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-03T12:33:26+09:00"
+          "date": "2026-05-03T17:05:00+09:00"
         },
         {
-          "title": "Claude Code入りのDockerイメージをDevContainerで動かす",
-          "url": "https://qiita.com/sour23/items/a86a42a675e27853299b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "RubyKaigi 2026初参加！全力で楽しんできました",
+          "url": "https://qiita.com/Reid2147/items/3399d76f3f8b1702a6eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-03T10:31:14+09:00"
+          "date": "2026-05-03T16:32:59+09:00"
         },
         {
-          "title": "市場は本当に予測不能なのか？――ランダムウォーク仮説とクオンツが探す「小さな歪み」",
-          "url": "https://qiita.com/tikeda123/items/e777dcadbc850c357419?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+          "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": "critical",
+          "date": "2026-05-03T16:32:16+09:00"
+        },
+        {
+          "title": "Copilot Studio のツールの設定が進化している",
+          "url": "https://qiita.com/Takashi_Masumori/items/9b0e71089d1a166e5623?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-03T10:11:19+09:00"
+          "date": "2026-05-03T15:28:06+09:00"
         }
       ]
     }

@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-03T19:48:07.875464+00:00",
-  "total_articles": 208,
+  "generated_at": "2026-05-03T20:14:32.470901+00:00",
+  "total_articles": 220,
   "source_counts": {
-    "hn": 173,
-    "zennqiita": 34,
+    "hn": 174,
+    "zennqiita": 45,
     "project": 1
   },
   "severity_counts": {
-    "critical": 10,
-    "high": 2,
+    "critical": 11,
+    "high": 3,
     "medium": 2
   },
   "top_articles": [
@@ -56,18 +56,18 @@
       "date": "2026-05-02T17:40:55+00:00"
     },
     {
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+      "score": 469,
+      "source": "hn",
+      "date": "2026-05-03T14:43:27+00:00"
+    },
+    {
       "title": "This Month in Ladybird – April 2026",
       "url": "https://ladybird.org/newsletter/2026-04-30/",
       "score": 467,
       "source": "hn",
       "date": "2026-05-02T20:46:30+00:00"
-    },
-    {
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "score": 450,
-      "source": "hn",
-      "date": "2026-05-03T14:43:27+00:00"
     },
     {
       "title": "The gay jailbreak technique",
@@ -184,6 +184,13 @@
       "date": "2026-05-03T09:18:25+00:00"
     },
     {
+      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-05-03T16:32:16+09:00"
+    },
+    {
       "title": "Open source does not imply open community",
       "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
       "severity": "critical",
@@ -196,6 +203,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-02T21:34:49+00:00"
+    },
+    {
+      "title": "CVE-2026-31431 Copy Fail と Proxmox",
+      "url": "https://qiita.com/oishi-d/items/1c392b33777df39232b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-05-02T18:07:45+09:00"
     },
     {
       "title": "Show HN: Hollow is an open-sourced self-modifying agentic system",
