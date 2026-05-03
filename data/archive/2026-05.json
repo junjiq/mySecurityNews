@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-03T01:36:08.980033+00:00",
-  "total_articles": 143,
+  "generated_at": "2026-05-03T03:07:30.059840+00:00",
+  "total_articles": 146,
   "source_counts": {
-    "hn": 116,
+    "hn": 119,
     "zennqiita": 26,
     "project": 1
   },
   "severity_counts": {
-    "critical": 6,
+    "critical": 7,
     "medium": 1,
     "high": 1
   },
@@ -16,7 +16,7 @@
     {
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "url": "https://github.com/microsoft/vscode/pull/310226",
-      "score": 752,
+      "score": 880,
       "source": "hn",
       "date": "2026-05-02T19:57:26+00:00"
     },
@@ -65,7 +65,7 @@
     {
       "title": "NetHack 5.0.0",
       "url": "https://nethack.org/v500/release.html",
-      "score": 374,
+      "score": 390,
       "source": "hn",
       "date": "2026-05-02T18:03:42+00:00"
     },
@@ -75,6 +75,13 @@
       "score": 362,
       "source": "hn",
       "date": "2026-05-01T18:37:47+00:00"
+    },
+    {
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "score": 356,
+      "source": "hn",
+      "date": "2026-05-02T17:32:29+00:00"
     },
     {
       "title": "Ask.com has closed",
@@ -96,13 +103,6 @@
       "score": 331,
       "source": "hn",
       "date": "2026-05-01T17:18:58+00:00"
-    },
-    {
-      "title": "Dav2d",
-      "url": "https://code.videolan.org/videolan/dav2d",
-      "score": 330,
-      "source": "hn",
-      "date": "2026-05-02T17:32:29+00:00"
     },
     {
       "title": "Apple accidentally left Claude.md files Apple Support app",
@@ -128,7 +128,7 @@
     {
       "title": "California to begin ticketing driverless cars that violate traffic laws",
       "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
-      "score": 242,
+      "score": 260,
       "source": "hn",
       "date": "2026-05-02T17:59:18+00:00"
     },
@@ -142,19 +142,26 @@
     {
       "title": "How fast is a macOS VM, and how small could it be?",
       "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "score": 221,
+      "score": 228,
       "source": "hn",
       "date": "2026-05-02T09:30:49+00:00"
     },
     {
-      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-      "score": 201,
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
+      "score": 223,
       "source": "hn",
-      "date": "2026-05-01T16:42:41+00:00"
+      "date": "2026-05-02T17:40:55+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Open Source Does Not Imply Open Community",
+      "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-03T02:36:09+00:00"
+    },
     {
       "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
       "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",

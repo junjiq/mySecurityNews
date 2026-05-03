@@ -1,9 +1,16 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T01:36:08.937330+00:00",
-  "total_articles": 62,
-  "urgent_count": 3,
+  "generated_at": "2026-05-03T03:07:30.016737+00:00",
+  "total_articles": 61,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Open Source Does Not Imply Open Community",
+      "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-03T02:36:09+00:00"
+    },
     {
       "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
       "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 55,
       "top_items": [
         {
           "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
           "url": "https://github.com/microsoft/vscode/pull/310226",
-          "score": 752,
+          "score": 880,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T19:57:26+00:00"
@@ -50,10 +57,18 @@
         {
           "title": "NetHack 5.0.0",
           "url": "https://nethack.org/v500/release.html",
-          "score": 374,
+          "score": 390,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T18:03:42+00:00"
+        },
+        {
+          "title": "Dav2d",
+          "url": "https://code.videolan.org/videolan/dav2d",
+          "score": 356,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-02T17:32:29+00:00"
         },
         {
           "title": "Ask.com has closed",
@@ -62,14 +77,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T04:12:35+00:00"
-        },
-        {
-          "title": "Dav2d",
-          "url": "https://code.videolan.org/videolan/dav2d",
-          "score": 330,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-02T17:32:29+00:00"
         }
       ]
     },
