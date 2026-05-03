@@ -1,7 +1,7 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T13:32:01.852209+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-05-03T14:20:52.834029+00:00",
+  "total_articles": 49,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 42,
       "top_items": [
         {
           "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
           "url": "https://github.com/microsoft/vscode/pull/310226",
-          "score": 1299,
+          "score": 1326,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T19:57:26+00:00"
@@ -42,10 +42,26 @@
         {
           "title": "Dav2d",
           "url": "https://code.videolan.org/videolan/dav2d",
-          "score": 524,
+          "score": 538,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T17:32:29+00:00"
+        },
+        {
+          "title": "This Month in Ladybird – April 2026",
+          "url": "https://ladybird.org/newsletter/2026-04-30/",
+          "score": 414,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-02T20:46:30+00:00"
+        },
+        {
+          "title": "Do_not_track",
+          "url": "https://donottrack.sh/",
+          "score": 409,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-02T17:40:55+00:00"
         },
         {
           "title": "NetHack 5.0.0",
@@ -54,28 +70,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T18:03:42+00:00"
-        },
-        {
-          "title": "Do_not_track",
-          "url": "https://donottrack.sh/",
-          "score": 400,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-02T17:40:55+00:00"
-        },
-        {
-          "title": "This Month in Ladybird – April 2026",
-          "url": "https://ladybird.org/newsletter/2026-04-30/",
-          "score": 395,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-02T20:46:30+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 7,
       "top_items": [
         {
           "title": "Strands AgentsのTypeScript版がv1.0.0に到達したのでAI SDK用のアダプターを作ってみた",
