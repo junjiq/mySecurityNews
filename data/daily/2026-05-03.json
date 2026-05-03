@@ -1,9 +1,16 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T14:47:04.405264+00:00",
-  "total_articles": 52,
-  "urgent_count": 3,
+  "generated_at": "2026-05-03T15:16:55.449952+00:00",
+  "total_articles": 56,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-03T14:43:27+00:00"
+    },
     {
       "title": "Thoth – open-source Local-first AI Assistant",
       "url": "https://github.com/siddsachar/Thoth",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 49,
       "top_items": [
         {
           "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
           "url": "https://github.com/microsoft/vscode/pull/310226",
-          "score": 1344,
+          "score": 1355,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T19:57:26+00:00"
@@ -42,7 +49,7 @@
         {
           "title": "Dav2d",
           "url": "https://code.videolan.org/videolan/dav2d",
-          "score": 540,
+          "score": 546,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T17:32:29+00:00"
@@ -50,7 +57,7 @@
         {
           "title": "This Month in Ladybird – April 2026",
           "url": "https://ladybird.org/newsletter/2026-04-30/",
-          "score": 422,
+          "score": 428,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T20:46:30+00:00"
@@ -58,7 +65,7 @@
         {
           "title": "Do_not_track",
           "url": "https://donottrack.sh/",
-          "score": 416,
+          "score": 424,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T17:40:55+00:00"

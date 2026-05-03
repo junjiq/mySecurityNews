@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-03T14:47:04.442919+00:00",
-  "total_articles": 172,
+  "generated_at": "2026-05-03T15:16:55.491582+00:00",
+  "total_articles": 176,
   "source_counts": {
-    "hn": 137,
+    "hn": 141,
     "zennqiita": 34,
     "project": 1
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "medium": 2,
     "high": 1
   },
@@ -16,7 +16,7 @@
     {
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "url": "https://github.com/microsoft/vscode/pull/310226",
-      "score": 1344,
+      "score": 1355,
       "source": "hn",
       "date": "2026-05-02T19:57:26+00:00"
     },
@@ -37,7 +37,7 @@
     {
       "title": "Dav2d",
       "url": "https://code.videolan.org/videolan/dav2d",
-      "score": 540,
+      "score": 546,
       "source": "hn",
       "date": "2026-05-02T17:32:29+00:00"
     },
@@ -58,9 +58,16 @@
     {
       "title": "This Month in Ladybird – April 2026",
       "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "score": 422,
+      "score": 428,
       "source": "hn",
       "date": "2026-05-02T20:46:30+00:00"
+    },
+    {
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
+      "score": 424,
+      "source": "hn",
+      "date": "2026-05-02T17:40:55+00:00"
     },
     {
       "title": "New research suggests people can communicate and practice skills while dreaming",
@@ -68,13 +75,6 @@
       "score": 418,
       "source": "hn",
       "date": "2026-05-01T17:47:42+00:00"
-    },
-    {
-      "title": "Do_not_track",
-      "url": "https://donottrack.sh/",
-      "score": 416,
-      "source": "hn",
-      "date": "2026-05-02T17:40:55+00:00"
     },
     {
       "title": "NetHack 5.0.0",
@@ -93,7 +93,7 @@
     {
       "title": "Six Years Perfecting Maps on WatchOS",
       "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "score": 381,
+      "score": 387,
       "source": "hn",
       "date": "2026-05-02T21:14:29+00:00"
     },
@@ -126,18 +126,18 @@
       "date": "2026-05-01T17:18:58+00:00"
     },
     {
+      "title": "A couple million lines of Haskell: Production engineering at Mercury",
+      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "score": 330,
+      "source": "hn",
+      "date": "2026-05-03T00:01:14+00:00"
+    },
+    {
       "title": "Apple accidentally left Claude.md files Apple Support app",
       "url": "https://x.com/aaronp613/status/2049986504617820551",
       "score": 327,
       "source": "hn",
       "date": "2026-05-01T11:08:32+00:00"
-    },
-    {
-      "title": "A couple million lines of Haskell: Production engineering at Mercury",
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "score": 321,
-      "source": "hn",
-      "date": "2026-05-03T00:01:14+00:00"
     },
     {
       "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-03T14:43:27+00:00"
+    },
     {
       "title": "Thoth – open-source Local-first AI Assistant",
       "url": "https://github.com/siddsachar/Thoth",
