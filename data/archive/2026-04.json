@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-03T18:20:02.598676+00:00",
-  "total_articles": 261,
+  "generated_at": "2026-05-03T18:48:03.472921+00:00",
+  "total_articles": 258,
   "source_counts": {
-    "hn": 222,
+    "hn": 219,
     "zennqiita": 37,
     "project": 2
   },
   "severity_counts": {
     "high": 2,
-    "critical": 13,
+    "critical": 12,
     "medium": 3
   },
   "top_articles": [
@@ -84,13 +84,6 @@
       "date": "2026-04-29T15:49:57+00:00"
     },
     {
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "url": "https://github.com/localsend/localsend",
-      "score": 796,
-      "source": "hn",
-      "date": "2026-04-28T11:54:20+00:00"
-    },
-    {
       "title": "Can I disable all data collection from my vehicle?",
       "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
       "score": 668,
@@ -152,6 +145,13 @@
       "score": 520,
       "source": "hn",
       "date": "2026-04-29T09:14:37+00:00"
+    },
+    {
+      "title": "How an oil refinery works",
+      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "score": 500,
+      "source": "hn",
+      "date": "2026-04-30T13:54:20+00:00"
     }
   ],
   "security_highlights": [
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-28T11:56:04+00:00"
-    },
-    {
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "url": "https://github.com/localsend/localsend",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-28T11:54:20+00:00"
     }
   ]
 }
