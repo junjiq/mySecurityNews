@@ -1,8 +1,8 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03T18:48:03.431552+00:00",
-  "total_articles": 55,
-  "urgent_count": 5,
+  "generated_at": "2026-05-03T19:23:55.440863+00:00",
+  "total_articles": 63,
+  "urgent_count": 6,
   "urgent_items": [
     {
       "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
@@ -38,12 +38,19 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-02T21:34:49+00:00"
+    },
+    {
+      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
+      "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-03T16:15:49+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 59,
       "top_items": [
         {
           "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
@@ -62,20 +69,20 @@
           "date": "2026-05-02T20:46:30+00:00"
         },
         {
+          "title": "Mercedes-Benz commits to bringing back physical buttons",
+          "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+          "score": 438,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-05-03T14:43:27+00:00"
+        },
+        {
           "title": "Six years perfecting maps on watchOS",
           "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
           "score": 412,
           "source": "hn",
           "severity": null,
           "date": "2026-05-02T21:14:29+00:00"
-        },
-        {
-          "title": "Mercedes-Benz commits to bringing back physical buttons",
-          "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-          "score": 402,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-05-03T14:43:27+00:00"
         },
         {
           "title": "A couple million lines of Haskell: Production engineering at Mercury",
