@@ -1,9 +1,9 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-04T20:30:54.359892+00:00",
-  "total_articles": 294,
+  "generated_at": "2026-05-04T21:25:47.979203+00:00",
+  "total_articles": 296,
   "source_counts": {
-    "hn": 235,
+    "hn": 237,
     "zennqiita": 58,
     "project": 1
   },
@@ -23,7 +23,7 @@
     {
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 876,
+      "score": 926,
       "source": "hn",
       "date": "2026-05-04T11:41:02+00:00"
     },
@@ -49,6 +49,13 @@
       "date": "2026-05-03T22:13:20+00:00"
     },
     {
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "score": 581,
+      "source": "hn",
+      "date": "2026-05-04T09:31:12+00:00"
+    },
+    {
       "title": "Dav2d",
       "url": "https://code.videolan.org/videolan/dav2d",
       "score": 574,
@@ -61,13 +68,6 @@
       "score": 568,
       "source": "hn",
       "date": "2026-05-01T20:06:59+00:00"
-    },
-    {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 555,
-      "source": "hn",
-      "date": "2026-05-04T09:31:12+00:00"
     },
     {
       "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
@@ -156,7 +156,7 @@
   ],
   "security_highlights": [
     {
-      "title": "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
       "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
       "severity": "high",
       "source": "hn",
