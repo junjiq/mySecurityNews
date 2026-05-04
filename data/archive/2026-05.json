@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-04T07:32:17.294954+00:00",
-  "total_articles": 237,
+  "generated_at": "2026-05-04T08:52:08.613253+00:00",
+  "total_articles": 247,
   "source_counts": {
-    "hn": 191,
-    "zennqiita": 45,
+    "hn": 193,
+    "zennqiita": 53,
     "project": 1
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 13,
     "high": 3,
     "medium": 2
   },
@@ -30,7 +30,7 @@
     {
       "title": "Mercedes-Benz commits to bringing back physical buttons",
       "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "score": 671,
+      "score": 693,
       "source": "hn",
       "date": "2026-05-03T14:43:27+00:00"
     },
@@ -77,6 +77,13 @@
       "date": "2026-05-01T16:59:35+00:00"
     },
     {
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+      "url": "https://github.com/aattaran/deepclaude",
+      "score": 428,
+      "source": "hn",
+      "date": "2026-05-03T22:13:20+00:00"
+    },
+    {
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
       "score": 418,
@@ -105,18 +112,18 @@
       "date": "2026-05-01T16:52:43+00:00"
     },
     {
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "url": "https://github.com/aattaran/deepclaude",
-      "score": 391,
-      "source": "hn",
-      "date": "2026-05-03T22:13:20+00:00"
-    },
-    {
-      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
       "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "score": 376,
+      "score": 388,
       "source": "hn",
       "date": "2026-05-03T00:30:50+00:00"
+    },
+    {
+      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+      "score": 382,
+      "source": "hn",
+      "date": "2026-05-03T18:54:28+00:00"
     },
     {
       "title": "A couple million lines of Haskell: Production engineering at Mercury",
@@ -126,6 +133,13 @@
       "date": "2026-05-03T00:01:14+00:00"
     },
     {
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "score": 364,
+      "source": "hn",
+      "date": "2026-05-03T18:03:14+00:00"
+    },
+    {
       "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
       "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
       "score": 362,
@@ -133,28 +147,21 @@
       "date": "2026-05-01T18:37:47+00:00"
     },
     {
-      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-      "score": 361,
-      "source": "hn",
-      "date": "2026-05-03T18:54:28+00:00"
-    },
-    {
       "title": "Ask.com has closed",
       "url": "https://www.ask.com/",
       "score": 348,
       "source": "hn",
       "date": "2026-05-02T04:12:35+00:00"
-    },
-    {
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 345,
-      "source": "hn",
-      "date": "2026-05-03T18:03:14+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "CORSを一緒に理解しよう（Cross-Origin Resource Sharing）",
+      "url": "https://qiita.com/NXD139/items/ec04f8d5c110a9927498?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-05-04T12:08:28+09:00"
+    },
     {
       "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
       "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
@@ -203,6 +210,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-02T21:34:49+00:00"
+    },
+    {
+      "title": "From CVS to Git, thirty years of source control",
+      "url": "https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-02T11:51:31+00:00"
     },
     {
       "title": "CVE-2026-31431 Copy Fail と Proxmox",
