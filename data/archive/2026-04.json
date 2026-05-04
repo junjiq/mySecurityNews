@@ -1,25 +1,18 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-04T19:33:51.878679+00:00",
-  "total_articles": 166,
+  "generated_at": "2026-05-04T20:30:54.359892+00:00",
+  "total_articles": 158,
   "source_counts": {
-    "hn": 140,
+    "hn": 132,
     "zennqiita": 24,
     "project": 2
   },
   "severity_counts": {
     "high": 1,
-    "critical": 5,
+    "critical": 4,
     "medium": 2
   },
   "top_articles": [
-    {
-      "title": "Zed 1.0",
-      "url": "https://zed.dev/blog/zed-1-0",
-      "score": 2012,
-      "source": "hn",
-      "date": "2026-04-29T14:34:19+00:00"
-    },
     {
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
@@ -105,13 +98,6 @@
       "date": "2026-04-30T16:43:47+00:00"
     },
     {
-      "title": "We need a federation of forges",
-      "url": "https://blog.tangled.org/federation/",
-      "score": 535,
-      "source": "hn",
-      "date": "2026-04-29T14:00:59+00:00"
-    },
-    {
       "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
       "score": 500,
@@ -152,6 +138,20 @@
       "score": 387,
       "source": "hn",
       "date": "2026-04-29T15:17:46+00:00"
+    },
+    {
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "score": 365,
+      "source": "hn",
+      "date": "2026-04-29T16:16:39+00:00"
+    },
+    {
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "score": 345,
+      "source": "hn",
+      "date": "2026-04-30T15:31:40+00:00"
     }
   ],
   "security_highlights": [
@@ -189,13 +189,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-29T14:47:31+00:00"
-    },
-    {
-      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-      "url": "https://github.com/bruin-data/dac",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-29T14:37:20+00:00"
     }
   ]
 }

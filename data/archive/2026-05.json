@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-04T19:33:51.878679+00:00",
-  "total_articles": 286,
+  "generated_at": "2026-05-04T20:30:54.359892+00:00",
+  "total_articles": 294,
   "source_counts": {
-    "hn": 232,
-    "zennqiita": 53,
+    "hn": 235,
+    "zennqiita": 58,
     "project": 1
   },
   "severity_counts": {
-    "high": 4,
+    "high": 5,
     "critical": 13,
     "medium": 2
   },
@@ -23,7 +23,7 @@
     {
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 804,
+      "score": 876,
       "source": "hn",
       "date": "2026-05-04T11:41:02+00:00"
     },
@@ -65,7 +65,7 @@
     {
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 534,
+      "score": 555,
       "source": "hn",
       "date": "2026-05-04T09:31:12+00:00"
     },
@@ -161,6 +161,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-04T17:46:32+00:00"
+    },
+    {
+      "title": "Cursor 脆弱性事件を契機に Claude Code の運用を見直す — AIコーディングツールのセキュリティ運用5項目",
+      "url": "https://qiita.com/ennagara128/items/5d0ebc9fb835f55f7c98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-05-04T12:38:18+09:00"
     },
     {
       "title": "CORSを一緒に理解しよう（Cross-Origin Resource Sharing）",
