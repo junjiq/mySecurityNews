@@ -1,9 +1,9 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-04T04:45:02.953901+00:00",
-  "total_articles": 217,
+  "generated_at": "2026-05-04T06:03:24.446477+00:00",
+  "total_articles": 215,
   "source_counts": {
-    "hn": 182,
+    "hn": 180,
     "zennqiita": 33,
     "project": 2
   },
@@ -13,13 +13,6 @@
     "medium": 3
   },
   "top_articles": [
-    {
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 3347,
-      "source": "hn",
-      "date": "2026-04-28T19:44:52+00:00"
-    },
     {
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
@@ -152,6 +145,13 @@
       "score": 460,
       "source": "hn",
       "date": "2026-04-28T23:54:14+00:00"
+    },
+    {
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "score": 449,
+      "source": "hn",
+      "date": "2026-04-30T16:09:26+00:00"
     }
   ],
   "security_highlights": [
