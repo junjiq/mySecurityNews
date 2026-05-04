@@ -1,8 +1,8 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-04T13:36:54.639150+00:00",
-  "total_articles": 58,
-  "urgent_count": 4,
+  "generated_at": "2026-05-04T14:46:12.455946+00:00",
+  "total_articles": 53,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "CORSを一緒に理解しよう（Cross-Origin Resource Sharing）",
@@ -19,13 +19,6 @@
       "date": "2026-05-03T16:48:11+00:00"
     },
     {
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-03T14:43:27+00:00"
-    },
-    {
       "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
       "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
       "severity": "high",
@@ -36,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 45,
       "top_items": [
-        {
-          "title": "Mercedes-Benz commits to bringing back physical buttons",
-          "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-          "score": 693,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-05-03T14:43:27+00:00"
-        },
         {
           "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
           "url": "https://github.com/aattaran/deepclaude",
-          "score": 539,
+          "score": 560,
           "source": "hn",
           "severity": null,
           "date": "2026-05-03T22:13:20+00:00"
@@ -57,7 +42,7 @@
         {
           "title": "Let's Buy Spirit Air",
           "url": "https://letsbuyspiritair.com/",
-          "score": 429,
+          "score": 455,
           "source": "hn",
           "severity": null,
           "date": "2026-05-03T23:36:11+00:00"
@@ -65,7 +50,7 @@
         {
           "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
           "url": "https://partyon.xyz/@nullagent/116499715071759135",
-          "score": 412,
+          "score": 420,
           "source": "hn",
           "severity": null,
           "date": "2026-05-03T18:03:14+00:00"
@@ -77,6 +62,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-03T18:54:28+00:00"
+        },
+        {
+          "title": "A desktop made for one",
+          "url": "https://isene.org/2026/05/Audience-of-One.html",
+          "score": 383,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-03T15:32:05+00:00"
         }
       ]
     },
