@@ -1,8 +1,8 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-04T01:37:07.123948+00:00",
-  "total_articles": 64,
-  "urgent_count": 6,
+  "generated_at": "2026-05-04T03:08:02.037063+00:00",
+  "total_articles": 60,
+  "urgent_count": 5,
   "urgent_items": [
     {
       "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
@@ -33,13 +33,6 @@
       "date": "2026-05-03T16:32:16+09:00"
     },
     {
-      "title": "Open source does not imply open community",
-      "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-03T02:36:09+00:00"
-    },
-    {
       "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
       "url": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
       "severity": "high",
@@ -50,15 +43,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 50,
       "top_items": [
         {
           "title": "Mercedes-Benz commits to bringing back physical buttons",
           "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-          "score": 604,
+          "score": 621,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-03T14:43:27+00:00"
+        },
+        {
+          "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
+          "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
+          "score": 285,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-03T18:54:28+00:00"
         },
         {
           "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
@@ -69,28 +70,20 @@
           "date": "2026-05-03T04:05:28+00:00"
         },
         {
-          "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-          "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-          "score": 266,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-03T18:54:28+00:00"
-        },
-        {
-          "title": "Why TUIs Are Back",
-          "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
-          "score": 253,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-03T18:42:28+00:00"
-        },
-        {
           "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
           "url": "https://partyon.xyz/@nullagent/116499715071759135",
-          "score": 253,
+          "score": 274,
           "source": "hn",
           "severity": null,
           "date": "2026-05-03T18:03:14+00:00"
+        },
+        {
+          "title": "Why TUIs are back",
+          "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
+          "score": 272,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-03T18:42:28+00:00"
         }
       ]
     },
@@ -98,6 +91,14 @@
       "category": "日本語技術記事",
       "count": 10,
       "top_items": [
+        {
+          "title": "最初に「あい」を学ぶことば日本語でプログラミング入門（Mindで定番アルゴリズム： 優先度付きキューを使ったダイクストラ法）",
+          "url": "https://qiita.com/mylifewithviolin/items/db491c47b13a73430700?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-04T11:30:48+09:00"
+        },
         {
           "title": "Bedrock AgentCore Optimization で本番エージェントのプロンプトをデータドリブンに改善する",
           "url": "https://qiita.com/leomarokun/items/1ae7df3747a45abbfb84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -129,14 +130,6 @@
           "source": "zennqiita",
           "severity": "critical",
           "date": "2026-05-03T16:32:16+09:00"
-        },
-        {
-          "title": "Copilot Studio のツールの設定が進化している",
-          "url": "https://qiita.com/Takashi_Masumori/items/9b0e71089d1a166e5623?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-03T15:28:06+09:00"
         }
       ]
     }
