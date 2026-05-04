@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-04T18:34:19.932399+00:00",
-  "total_articles": 282,
+  "generated_at": "2026-05-04T19:33:51.878679+00:00",
+  "total_articles": 286,
   "source_counts": {
-    "hn": 228,
+    "hn": 232,
     "zennqiita": 53,
     "project": 1
   },
   "severity_counts": {
+    "high": 4,
     "critical": 13,
-    "high": 3,
     "medium": 2
   },
   "top_articles": [
@@ -21,9 +21,9 @@
       "date": "2026-05-02T19:57:26+00:00"
     },
     {
-      "title": "Talking to 35 Strangers at the Gym",
+      "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 733,
+      "score": 804,
       "source": "hn",
       "date": "2026-05-04T11:41:02+00:00"
     },
@@ -63,6 +63,13 @@
       "date": "2026-05-01T20:06:59+00:00"
     },
     {
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "score": 534,
+      "source": "hn",
+      "date": "2026-05-04T09:31:12+00:00"
+    },
+    {
       "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
       "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
       "score": 510,
@@ -75,13 +82,6 @@
       "score": 506,
       "source": "hn",
       "date": "2026-05-01T08:43:45+00:00"
-    },
-    {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 504,
-      "source": "hn",
-      "date": "2026-05-04T09:31:12+00:00"
     },
     {
       "title": "Trademark violation: Fake Notepad++ for Mac",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-04T17:46:32+00:00"
+    },
     {
       "title": "CORSを一緒に理解しよう（Cross-Origin Resource Sharing）",
       "url": "https://qiita.com/NXD139/items/ec04f8d5c110a9927498?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",

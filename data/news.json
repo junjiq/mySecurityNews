@@ -1,13 +1,24 @@
 {
-  "updated_at": "2026-05-04T18:34:19.831139+00:00",
+  "updated_at": "2026-05-04T19:33:51.790210+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48012735",
+      "source": "hn",
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "score": 105,
+      "comments": 43,
+      "author": "cft",
+      "tags": [],
+      "date": "2026-05-04T18:22:42+00:00"
+    },
     {
       "id": "hn-48012477",
       "source": "hn",
       "title": "Offenders sentenced up to 10 years for spying on TSMC",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358",
-      "score": 15,
+      "score": 40,
       "comments": 0,
       "author": "ironyman",
       "tags": [],
@@ -16,13 +27,14 @@
     {
       "id": "hn-48012162",
       "source": "hn",
-      "title": "U.S. military data left exposed at an a16z startup for 150 days",
+      "title": "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
       "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 42,
-      "comments": 9,
+      "score": 92,
+      "comments": 32,
       "author": "bearsyankees",
       "tags": [],
-      "date": "2026-05-04T17:46:32+00:00"
+      "date": "2026-05-04T17:46:32+00:00",
+      "severity": "high"
     },
     {
       "id": "hn-48012022",
@@ -38,21 +50,43 @@
     {
       "id": "hn-48012003",
       "source": "hn",
-      "title": "Heat pump sales rise 17% across Europe in Q1 as energy prices surge",
+      "title": "Heat pump sales rise across Europe",
       "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
-      "score": 29,
-      "comments": 2,
+      "score": 92,
+      "comments": 19,
       "author": "doener",
       "tags": [],
       "date": "2026-05-04T17:35:15+00:00"
+    },
+    {
+      "id": "hn-48011980",
+      "source": "hn",
+      "title": "'Kitten Space Agency', the Spiritual Successor to 'Kerbal Space Program' (2025)",
+      "url": "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview",
+      "score": 58,
+      "comments": 19,
+      "author": "Tomte",
+      "tags": [],
+      "date": "2026-05-04T17:33:48+00:00"
+    },
+    {
+      "id": "hn-48011904",
+      "source": "hn",
+      "title": "Let's Talk about LLMs",
+      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "score": 23,
+      "comments": 4,
+      "author": "cdrnsf",
+      "tags": [],
+      "date": "2026-05-04T17:29:39+00:00"
     },
     {
       "id": "hn-48011689",
       "source": "hn",
       "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
       "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "score": 91,
-      "comments": 23,
+      "score": 242,
+      "comments": 79,
       "author": "ZeidJ",
       "tags": [],
       "date": "2026-05-04T17:16:36+00:00"
@@ -62,8 +96,8 @@
       "source": "hn",
       "title": "I am worried about Bun",
       "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 122,
-      "comments": 49,
+      "score": 190,
+      "comments": 98,
       "author": "remote-dev",
       "tags": [],
       "date": "2026-05-04T16:45:00+00:00"
@@ -73,8 +107,8 @@
       "source": "hn",
       "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
       "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
-      "score": 62,
-      "comments": 55,
+      "score": 75,
+      "comments": 73,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-05-04T16:21:38+00:00"
@@ -106,8 +140,8 @@
       "source": "hn",
       "title": "Sierra Raises $950M at $15B Valuation",
       "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
-      "score": 18,
-      "comments": 20,
+      "score": 40,
+      "comments": 57,
       "author": "doppp",
       "tags": [],
       "date": "2026-05-04T15:51:37+00:00"
@@ -117,8 +151,8 @@
       "source": "hn",
       "title": "Alberta voter list leak is a potential public safety disaster",
       "url": "https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/",
-      "score": 67,
-      "comments": 42,
+      "score": 80,
+      "comments": 54,
       "author": "Teever",
       "tags": [],
       "date": "2026-05-04T15:47:27+00:00"
@@ -139,8 +173,8 @@
       "source": "hn",
       "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
       "url": "https://www.nber.org/papers/w35117",
-      "score": 91,
-      "comments": 54,
+      "score": 115,
+      "comments": 94,
       "author": "littlexsparkee",
       "tags": [],
       "date": "2026-05-04T15:32:46+00:00"
@@ -150,8 +184,8 @@
       "source": "hn",
       "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
       "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
-      "score": 41,
-      "comments": 29,
+      "score": 56,
+      "comments": 43,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-05-04T15:22:53+00:00"
@@ -159,10 +193,10 @@
     {
       "id": "hn-48009747",
       "source": "hn",
-      "title": "I tracked 7,700 UK petrol stations every 10 minutes for 3 months",
+      "title": "UK Fuel Price Intelligence",
       "url": "https://www.fuelinsight.co.uk",
-      "score": 86,
-      "comments": 36,
+      "score": 113,
+      "comments": 48,
       "author": "theazureguy",
       "tags": [],
       "date": "2026-05-04T15:15:21+00:00"
@@ -183,8 +217,8 @@
       "source": "hn",
       "title": "Pomiferous: The most extensive apples (pommes) database",
       "url": "https://pomiferous.com/",
-      "score": 42,
-      "comments": 17,
+      "score": 57,
+      "comments": 18,
       "author": "Ariarule",
       "tags": [],
       "date": "2026-05-04T14:47:41+00:00"
@@ -194,8 +228,8 @@
       "source": "hn",
       "title": "Redis array: short story of a long development process",
       "url": "https://antirez.com/news/164",
-      "score": 146,
-      "comments": 58,
+      "score": 166,
+      "comments": 62,
       "author": "antirez",
       "tags": [],
       "date": "2026-05-04T14:23:07+00:00"
@@ -205,8 +239,8 @@
       "source": "hn",
       "title": "How Monero's proof of work works",
       "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-      "score": 103,
-      "comments": 72,
+      "score": 164,
+      "comments": 134,
       "author": "alcazar",
       "tags": [],
       "date": "2026-05-04T14:10:50+00:00"
@@ -249,8 +283,8 @@
       "source": "hn",
       "title": "Newton's law of gravity passes its biggest test",
       "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
-      "score": 90,
-      "comments": 61,
+      "score": 98,
+      "comments": 72,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-05-04T12:52:57+00:00"
@@ -260,8 +294,8 @@
       "source": "hn",
       "title": "DAG Workflow Engine",
       "url": "https://github.com/vivekg13186/Daisy-DAG",
-      "score": 40,
-      "comments": 31,
+      "score": 51,
+      "comments": 37,
       "author": "blobmty",
       "tags": [],
       "date": "2026-05-04T12:32:00+00:00"
@@ -269,10 +303,10 @@
     {
       "id": "hn-48007438",
       "source": "hn",
-      "title": "Talking to 35 Strangers at the Gym",
+      "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 733,
-      "comments": 371,
+      "score": 804,
+      "comments": 397,
       "author": "thitran",
       "tags": [],
       "date": "2026-05-04T11:41:02+00:00"
@@ -328,8 +362,8 @@
       "source": "hn",
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 504,
-      "comments": 442,
+      "score": 534,
+      "comments": 462,
       "author": "n1b0m",
       "tags": [],
       "date": "2026-05-04T09:31:12+00:00"
@@ -1726,6 +1760,17 @@
         "Qiita"
       ],
       "date": "2026-05-02T21:48:19+09:00"
+    },
+    {
+      "id": "hn-47985958",
+      "source": "hn",
+      "title": "Show HN: nfsdiag - a NFS diagnostic application",
+      "url": "https://github.com/lsferreira42/nfsdiag",
+      "score": 9,
+      "comments": 0,
+      "author": "lsferreira42",
+      "tags": [],
+      "date": "2026-05-02T12:48:01+00:00"
     },
     {
       "id": "hn-47985932",
@@ -5090,50 +5135,6 @@
       "author": "oldnetguy",
       "tags": [],
       "date": "2026-04-29T13:28:47+00:00"
-    },
-    {
-      "id": "hn-47947944",
-      "source": "hn",
-      "title": "10Gb/s Ethernet: what I did to get it working in my home",
-      "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
-      "score": 188,
-      "comments": 134,
-      "author": "gpjt",
-      "tags": [],
-      "date": "2026-04-29T13:15:46+00:00"
-    },
-    {
-      "id": "hn-47947834",
-      "source": "hn",
-      "title": "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
-      "url": "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari",
-      "score": 44,
-      "comments": 43,
-      "author": "embedding-shape",
-      "tags": [],
-      "date": "2026-04-29T13:05:44+00:00"
-    },
-    {
-      "id": "hn-47947525",
-      "source": "hn",
-      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-      "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
-      "score": 107,
-      "comments": 22,
-      "author": "jschomay",
-      "tags": [],
-      "date": "2026-04-29T12:43:12+00:00"
-    },
-    {
-      "id": "hn-47947490",
-      "source": "hn",
-      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
-      "score": 211,
-      "comments": 260,
-      "author": "sarusso",
-      "tags": [],
-      "date": "2026-04-29T12:38:50+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
