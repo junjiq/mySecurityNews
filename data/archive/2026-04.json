@@ -1,15 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-04T15:41:23.864450+00:00",
-  "total_articles": 186,
+  "generated_at": "2026-05-04T16:35:33.304922+00:00",
+  "total_articles": 179,
   "source_counts": {
-    "hn": 157,
-    "zennqiita": 27,
+    "hn": 152,
+    "zennqiita": 25,
     "project": 2
   },
   "severity_counts": {
     "high": 1,
-    "critical": 6,
+    "critical": 5,
     "medium": 2
   },
   "top_articles": [
@@ -112,13 +112,6 @@
       "date": "2026-04-29T14:00:59+00:00"
     },
     {
-      "title": "Soft launch of open-source code platform for government",
-      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "score": 520,
-      "source": "hn",
-      "date": "2026-04-29T09:14:37+00:00"
-    },
-    {
       "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
       "score": 500,
@@ -152,6 +145,13 @@
       "score": 397,
       "source": "hn",
       "date": "2026-04-30T19:40:20+00:00"
+    },
+    {
+      "title": "Mistral Medium 3.5",
+      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "score": 387,
+      "source": "hn",
+      "date": "2026-04-29T15:17:46+00:00"
     }
   ],
   "security_highlights": [
@@ -196,13 +196,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-04-29T14:37:20+00:00"
-    },
-    {
-      "title": "Soft launch of open-source code platform for government",
-      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-04-29T09:14:37+00:00"
     }
   ]
 }
