@@ -1,8 +1,8 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-04T08:52:08.576874+00:00",
+  "generated_at": "2026-05-04T09:47:40.552883+00:00",
   "total_articles": 57,
-  "urgent_count": 5,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "CORSを一緒に理解しよう（Cross-Origin Resource Sharing）",
@@ -24,13 +24,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-03T14:43:27+00:00"
-    },
-    {
-      "title": "Thoth – open-source Local-first AI Assistant",
-      "url": "https://github.com/siddsachar/Thoth",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-03T09:18:25+00:00"
     },
     {
       "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
@@ -56,7 +49,7 @@
         {
           "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
           "url": "https://github.com/aattaran/deepclaude",
-          "score": 428,
+          "score": 460,
           "source": "hn",
           "severity": null,
           "date": "2026-05-03T22:13:20+00:00"
@@ -64,7 +57,7 @@
         {
           "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
           "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-          "score": 382,
+          "score": 401,
           "source": "hn",
           "severity": null,
           "date": "2026-05-03T18:54:28+00:00"
@@ -72,7 +65,7 @@
         {
           "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
           "url": "https://partyon.xyz/@nullagent/116499715071759135",
-          "score": 364,
+          "score": 375,
           "source": "hn",
           "severity": null,
           "date": "2026-05-03T18:03:14+00:00"
@@ -80,7 +73,7 @@
         {
           "title": "A desktop made for one",
           "url": "https://isene.org/2026/05/Audience-of-One.html",
-          "score": 338,
+          "score": 345,
           "source": "hn",
           "severity": null,
           "date": "2026-05-03T15:32:05+00:00"
@@ -91,6 +84,14 @@
       "category": "日本語技術記事",
       "count": 9,
       "top_items": [
+        {
+          "title": "AWSのMCPサーバで \"aws login\" の認証情報を使う方法",
+          "url": "https://qiita.com/yuki_ink/items/ac280c1f34246c0d2e3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-04T18:45:20+09:00"
+        },
         {
           "title": "React QueryでフロントエンドのPerformanceを改善する実践ガイド",
           "url": "https://qiita.com/nhatcaofedev/items/55a1a5491eb22f20d77c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -122,14 +123,6 @@
           "source": "zennqiita",
           "severity": "critical",
           "date": "2026-05-04T12:08:28+09:00"
-        },
-        {
-          "title": "最初に「あい」を学ぶことば日本語でプログラミング入門（Mindで定番アルゴリズム： 優先度付きキューを使ったダイクストラ法）",
-          "url": "https://qiita.com/mylifewithviolin/items/db491c47b13a73430700?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-04T11:30:48+09:00"
         }
       ]
     }

@@ -1,16 +1,16 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-04T08:52:08.613253+00:00",
-  "total_articles": 215,
+  "generated_at": "2026-05-04T09:47:40.594491+00:00",
+  "total_articles": 201,
   "source_counts": {
-    "hn": 180,
-    "zennqiita": 33,
+    "hn": 167,
+    "zennqiita": 32,
     "project": 2
   },
   "severity_counts": {
     "high": 1,
     "critical": 6,
-    "medium": 3
+    "medium": 2
   },
   "top_articles": [
     {
@@ -91,13 +91,6 @@
       "date": "2026-04-29T02:19:11+00:00"
     },
     {
-      "title": "Before GitHub",
-      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 612,
-      "source": "hn",
-      "date": "2026-04-28T21:17:40+00:00"
-    },
-    {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
       "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
       "score": 601,
@@ -140,18 +133,25 @@
       "date": "2026-04-30T13:54:20+00:00"
     },
     {
-      "title": "How ChatGPT serves ads",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 460,
-      "source": "hn",
-      "date": "2026-04-28T23:54:14+00:00"
-    },
-    {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
       "score": 449,
       "source": "hn",
       "date": "2026-04-30T16:09:26+00:00"
+    },
+    {
+      "title": "Opus 4.7 knows the real Kelsey",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "score": 441,
+      "source": "hn",
+      "date": "2026-04-29T17:09:03+00:00"
+    },
+    {
+      "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+      "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+      "score": 400,
+      "source": "hn",
+      "date": "2026-04-30T13:07:42+00:00"
     }
   ],
   "security_highlights": [
