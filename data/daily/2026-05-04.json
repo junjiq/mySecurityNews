@@ -1,8 +1,8 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-04T16:35:33.262435+00:00",
-  "total_articles": 55,
-  "urgent_count": 2,
+  "generated_at": "2026-05-04T17:33:44.028166+00:00",
+  "total_articles": 54,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "CORSを一緒に理解しよう（Cross-Origin Resource Sharing）",
@@ -10,35 +10,36 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-05-04T12:08:28+09:00"
-    },
-    {
-      "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
-      "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-03T16:48:11+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
+        {
+          "title": "Talking to 35 Strangers at the Gym",
+          "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+          "score": 666,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-04T11:41:02+00:00"
+        },
         {
           "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
           "url": "https://github.com/aattaran/deepclaude",
-          "score": 596,
+          "score": 603,
           "source": "hn",
           "severity": null,
           "date": "2026-05-03T22:13:20+00:00"
         },
         {
-          "title": "Talking to 35 Strangers at the Gym",
-          "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-          "score": 588,
+          "title": "Trademark violation: Fake Notepad++ for Mac",
+          "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+          "score": 498,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-04T11:41:02+00:00"
+          "date": "2026-05-04T09:40:06+00:00"
         },
         {
           "title": "Let's Buy Spirit Air",
@@ -49,17 +50,9 @@
           "date": "2026-05-03T23:36:11+00:00"
         },
         {
-          "title": "Trademark violation: Fake Notepad++ for Mac",
-          "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-          "score": 468,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-04T09:40:06+00:00"
-        },
-        {
           "title": "GameStop makes $55.5B takeover offer for eBay",
           "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-          "score": 447,
+          "score": 476,
           "source": "hn",
           "severity": null,
           "date": "2026-05-04T09:31:12+00:00"
