@@ -1,10 +1,10 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-05T21:23:20.847821+00:00",
-  "total_articles": 66,
+  "generated_at": "2026-05-05T21:48:59.903223+00:00",
+  "total_articles": 63,
   "source_counts": {
-    "hn": 57,
-    "zennqiita": 7,
+    "hn": 55,
+    "zennqiita": 6,
     "project": 2
   },
   "severity_counts": {
@@ -19,13 +19,6 @@
       "score": 1270,
       "source": "hn",
       "date": "2026-04-30T14:36:58+00:00"
-    },
-    {
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 812,
-      "source": "hn",
-      "date": "2026-04-30T12:17:14+00:00"
     },
     {
       "title": "Can I disable all data collection from my vehicle?",
@@ -84,25 +77,18 @@
       "date": "2026-04-30T15:31:40+00:00"
     },
     {
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "score": 319,
+      "source": "hn",
+      "date": "2026-04-30T13:21:43+00:00"
+    },
+    {
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
       "score": 318,
       "source": "hn",
       "date": "2026-04-30T17:14:21+00:00"
-    },
-    {
-      "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 312,
-      "source": "hn",
-      "date": "2026-04-30T13:21:43+00:00"
-    },
-    {
-      "title": "I aggregated 28 US Government auction sites into one search",
-      "url": "https://bidprowl.com",
-      "score": 270,
-      "source": "hn",
-      "date": "2026-04-30T12:24:53+00:00"
     },
     {
       "title": "Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
@@ -152,6 +138,20 @@
       "score": 113,
       "source": "hn",
       "date": "2026-04-30T13:38:38+00:00"
+    },
+    {
+      "title": "Does Postgres Scale?",
+      "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+      "score": 106,
+      "source": "hn",
+      "date": "2026-04-30T18:45:22+00:00"
+    },
+    {
+      "title": "The FCC is about to ban 21% of its test labs today. I mapped them all",
+      "url": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
+      "score": 105,
+      "source": "hn",
+      "date": "2026-04-30T13:45:10+00:00"
     }
   ],
   "security_highlights": [
