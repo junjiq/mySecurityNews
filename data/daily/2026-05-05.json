@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T09:39:03.332603+00:00",
-  "total_articles": 69,
+  "generated_at": "2026-05-05T10:35:02.760253+00:00",
+  "total_articles": 65,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,15 +29,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 56,
       "top_items": [
         {
           "title": "Talking to strangers at the gym",
           "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-          "score": 1352,
+          "score": 1365,
           "source": "hn",
           "severity": null,
           "date": "2026-05-04T11:41:02+00:00"
+        },
+        {
+          "title": "Bun is being ported from Zig to Rust",
+          "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+          "score": 522,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-05T01:08:17+00:00"
         },
         {
           "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
@@ -56,26 +64,18 @@
           "date": "2026-05-04T15:10:41+00:00"
         },
         {
-          "title": "Trademark violation: Fake Notepad++ for Mac",
-          "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-          "score": 498,
+          "title": "I am worried about Bun",
+          "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+          "score": 464,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-04T09:40:06+00:00"
-        },
-        {
-          "title": "Bun is being ported from Zig to Rust",
-          "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-          "score": 494,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-05T01:08:17+00:00"
+          "date": "2026-05-04T16:45:00+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 7,
       "top_items": [
         {
           "title": "[Frontend Performance - Part 10] memo / useMemo / useCallback の正しい使い方：React再レンダリング最適化",
