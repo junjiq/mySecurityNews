@@ -1,10 +1,10 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-05T19:33:49.274473+00:00",
-  "total_articles": 77,
+  "generated_at": "2026-05-05T20:26:21.091011+00:00",
+  "total_articles": 69,
   "source_counts": {
-    "hn": 64,
-    "zennqiita": 11,
+    "hn": 60,
+    "zennqiita": 7,
     "project": 2
   },
   "severity_counts": {
@@ -93,7 +93,7 @@
     {
       "title": "Should I Run Plain Docker Compose in Production in 2026?",
       "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 285,
+      "score": 301,
       "source": "hn",
       "date": "2026-04-30T13:21:43+00:00"
     },
@@ -103,13 +103,6 @@
       "score": 270,
       "source": "hn",
       "date": "2026-04-30T12:24:53+00:00"
-    },
-    {
-      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "score": 251,
-      "source": "hn",
-      "date": "2026-04-30T10:31:17+00:00"
     },
     {
       "title": "GCC 16 has been released",
@@ -152,6 +145,13 @@
       "score": 132,
       "source": "hn",
       "date": "2026-04-30T18:14:18+00:00"
+    },
+    {
+      "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
+      "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
+      "score": 130,
+      "source": "hn",
+      "date": "2026-04-30T12:03:38+00:00"
     }
   ],
   "security_highlights": [

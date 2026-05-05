@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T19:33:49.233503+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-05-05T20:26:21.049484+00:00",
+  "total_articles": 65,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 49,
       "top_items": [
         {
           "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
           "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-          "score": 816,
+          "score": 984,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:34:55+00:00"
@@ -48,17 +48,9 @@
           "date": "2026-05-05T01:08:17+00:00"
         },
         {
-          "title": "How OpenAI delivers low-latency voice AI at scale",
-          "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-          "score": 456,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-04T19:42:47+00:00"
-        },
-        {
           "title": "Async Rust never left the MVP state",
           "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-          "score": 393,
+          "score": 399,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:26:03+00:00"
@@ -70,12 +62,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T04:09:17+00:00"
+        },
+        {
+          "title": "AI didn't delete your database, you did",
+          "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+          "score": 361,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-05T14:07:50+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 14,
       "top_items": [
         {
           "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
@@ -94,6 +94,14 @@
           "date": "2026-05-06T02:32:59+09:00"
         },
         {
+          "title": "人口減少と \"置き換え\" をどう防ぐか―所得・子育て・移民政策の構造を読み解く : Pythonで学ぶ マクロ経済学入門 (78)",
+          "url": "https://qiita.com/maskot1977/items/f693fc76db8406b5ac6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-06T00:08:06+09:00"
+        },
+        {
           "title": "【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】",
           "url": "https://qiita.com/pmpm_nk/items/b74198e39c2cbad358e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -102,20 +110,12 @@
           "date": "2026-05-05T23:35:36+09:00"
         },
         {
-          "title": "[Frontend Performance - Part 10] memo / useMemo / useCallback の正しい使い方：React再レンダリング最適化",
-          "url": "https://qiita.com/tuanphan/items/f335d42c78ce7723af11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "ハードウェアバディでClaudeとおともだち",
+          "url": "https://qiita.com/moritalous/items/cd53aec76db1dec20862?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-05T17:46:30+09:00"
-        },
-        {
-          "title": "Docling vs MarkItDown: GenAI向けのドキュメント処理における最適なツールはどっち？",
-          "url": "https://qiita.com/TOMOSIA-LinhND/items/8ff4b27c4d9097380c18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-05T15:06:51+09:00"
+          "date": "2026-05-05T23:19:24+09:00"
         }
       ]
     },
