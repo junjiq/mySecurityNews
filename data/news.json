@@ -1,25 +1,70 @@
 {
-  "updated_at": "2026-05-05T03:07:24.752377+00:00",
+  "updated_at": "2026-05-05T04:33:36.920628+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48017813",
+      "source": "hn",
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "score": 19,
+      "comments": 5,
+      "author": "averi",
+      "tags": [],
+      "date": "2026-05-05T03:43:08+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48017602",
+      "source": "hn",
+      "title": "An LLM agent that runs on any Linux box",
+      "url": "https://getclaw.site/#demo",
+      "score": 11,
+      "comments": 1,
+      "author": "kilian-ai",
+      "tags": [],
+      "date": "2026-05-05T03:00:50+00:00"
+    },
+    {
+      "id": "hn-48017399",
+      "source": "hn",
+      "title": "Pulitzer Prize Winner in International Reporting",
+      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+      "score": 39,
+      "comments": 2,
+      "author": "jay_kyburz",
+      "tags": [],
+      "date": "2026-05-05T02:22:21+00:00"
+    },
     {
       "id": "hn-48017298",
       "source": "hn",
       "title": "What I'm Hearing About Cognitive Debt (So Far)",
       "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-      "score": 28,
-      "comments": 3,
+      "score": 90,
+      "comments": 36,
       "author": "raphaelcosta",
       "tags": [],
       "date": "2026-05-05T02:08:21+00:00"
+    },
+    {
+      "id": "hn-48017251",
+      "source": "hn",
+      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
+      "score": 22,
+      "comments": 10,
+      "author": "cadito",
+      "tags": [],
+      "date": "2026-05-05T02:01:15+00:00"
     },
     {
       "id": "hn-48016880",
       "source": "hn",
       "title": "Bun is being ported from Zig to Rust",
       "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "score": 190,
-      "comments": 121,
+      "score": 283,
+      "comments": 187,
       "author": "SergeAx",
       "tags": [],
       "date": "2026-05-05T01:08:17+00:00"
@@ -29,8 +74,8 @@
       "source": "hn",
       "title": "Y Combinator's Stake in OpenAI (0.6%)",
       "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-      "score": 96,
-      "comments": 0,
+      "score": 192,
+      "comments": 16,
       "author": "gyomu",
       "tags": [],
       "date": "2026-05-05T00:09:01+00:00"
@@ -51,8 +96,8 @@
       "source": "hn",
       "title": "Agent Skills",
       "url": "https://addyosmani.com/blog/agent-skills/",
-      "score": 138,
-      "comments": 47,
+      "score": 178,
+      "comments": 64,
       "author": "BOOSTERHIDROGEN",
       "tags": [],
       "date": "2026-05-04T21:40:42+00:00"
@@ -84,8 +129,8 @@
       "source": "hn",
       "title": "When Networking Doesn't Work",
       "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-      "score": 12,
-      "comments": 3,
+      "score": 28,
+      "comments": 4,
       "author": "kencausey",
       "tags": [],
       "date": "2026-05-04T20:56:19+00:00"
@@ -95,8 +140,8 @@
       "source": "hn",
       "title": "Formatting a 25M-line codebase overnight",
       "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-      "score": 132,
-      "comments": 69,
+      "score": 142,
+      "comments": 73,
       "author": "r00k",
       "tags": [],
       "date": "2026-05-04T20:11:53+00:00"
@@ -117,8 +162,8 @@
       "source": "hn",
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 310,
-      "comments": 106,
+      "score": 333,
+      "comments": 110,
       "author": "Sean-Der",
       "tags": [],
       "date": "2026-05-04T19:42:47+00:00"
@@ -128,8 +173,8 @@
       "source": "hn",
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
       "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "score": 443,
-      "comments": 156,
+      "score": 468,
+      "comments": 161,
       "author": "cft",
       "tags": [],
       "date": "2026-05-04T18:22:42+00:00"
@@ -150,8 +195,8 @@
       "source": "hn",
       "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
       "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 177,
-      "comments": 76,
+      "score": 185,
+      "comments": 78,
       "author": "bearsyankees",
       "tags": [],
       "date": "2026-05-04T17:46:32+00:00",
@@ -228,8 +273,8 @@
       "source": "hn",
       "title": "I am worried about Bun",
       "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 428,
-      "comments": 286,
+      "score": 440,
+      "comments": 295,
       "author": "remote-dev",
       "tags": [],
       "date": "2026-05-04T16:45:00+00:00"
@@ -305,8 +350,8 @@
       "source": "hn",
       "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
       "url": "https://www.nber.org/papers/w35117",
-      "score": 225,
-      "comments": 216,
+      "score": 246,
+      "comments": 224,
       "author": "littlexsparkee",
       "tags": [],
       "date": "2026-05-04T15:32:46+00:00"
@@ -316,8 +361,8 @@
       "source": "hn",
       "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
       "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
-      "score": 141,
-      "comments": 109,
+      "score": 149,
+      "comments": 111,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-05-04T15:22:53+00:00"
@@ -349,8 +394,8 @@
       "source": "hn",
       "title": "Pomiferous: The most extensive apples (pommes) database",
       "url": "https://pomiferous.com/",
-      "score": 106,
-      "comments": 43,
+      "score": 112,
+      "comments": 44,
       "author": "Ariarule",
       "tags": [],
       "date": "2026-05-04T14:47:41+00:00"
@@ -360,7 +405,7 @@
       "source": "hn",
       "title": "Redis array: short story of a long development process",
       "url": "https://antirez.com/news/164",
-      "score": 247,
+      "score": 256,
       "comments": 83,
       "author": "antirez",
       "tags": [],
@@ -371,7 +416,7 @@
       "source": "hn",
       "title": "How Monero’s proof of work works",
       "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-      "score": 250,
+      "score": 258,
       "comments": 185,
       "author": "alcazar",
       "tags": [],
@@ -400,12 +445,23 @@
       "date": "2026-05-04T13:13:52+00:00"
     },
     {
+      "id": "hn-48008104",
+      "source": "hn",
+      "title": "Gaps in national food production, worldwide",
+      "url": "https://www.nature.com/articles/s43016-025-01173-4",
+      "score": 8,
+      "comments": 0,
+      "author": "simonebrunozzi",
+      "tags": [],
+      "date": "2026-05-04T12:55:16+00:00"
+    },
+    {
       "id": "hn-48008083",
       "source": "hn",
       "title": "PyInfra 3.8.0",
       "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-      "score": 231,
-      "comments": 84,
+      "score": 243,
+      "comments": 85,
       "author": "wowi42",
       "tags": [],
       "date": "2026-05-04T12:53:46+00:00"
@@ -437,8 +493,8 @@
       "source": "hn",
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1207,
-      "comments": 565,
+      "score": 1251,
+      "comments": 581,
       "author": "thitran",
       "tags": [],
       "date": "2026-05-04T11:41:02+00:00"
@@ -507,8 +563,8 @@
       "source": "hn",
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 650,
-      "comments": 616,
+      "score": 656,
+      "comments": 628,
       "author": "n1b0m",
       "tags": [],
       "date": "2026-05-04T09:31:12+00:00"
@@ -1006,8 +1062,8 @@
       "source": "hn",
       "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
       "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
-      "score": 65,
-      "comments": 12,
+      "score": 71,
+      "comments": 13,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-03T15:49:33+00:00"
@@ -1801,6 +1857,17 @@
       "author": "denysvitali",
       "tags": [],
       "date": "2026-05-02T17:25:54+00:00"
+    },
+    {
+      "id": "hn-47988439",
+      "source": "hn",
+      "title": "pgxbackup: Continuity Support for pgBackRest",
+      "url": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
+      "score": 16,
+      "comments": 0,
+      "author": "Wingy",
+      "tags": [],
+      "date": "2026-05-02T17:25:43+00:00"
     },
     {
       "id": "hn-47988261",
@@ -5080,72 +5147,6 @@
       "date": "2026-04-29T16:54:40+00:00"
     },
     {
-      "id": "hn-47951037",
-      "source": "hn",
-      "title": "Virtualisation on Apple Silicon Macs is different",
-      "url": "https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/",
-      "score": 51,
-      "comments": 14,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-04-29T16:51:38+00:00"
-    },
-    {
-      "id": "hn-47951007",
-      "source": "hn",
-      "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
-      "url": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
-      "score": 203,
-      "comments": 144,
-      "author": "01-_-",
-      "tags": [],
-      "date": "2026-04-29T16:50:01+00:00"
-    },
-    {
-      "id": "hn-47950993",
-      "source": "hn",
-      "title": "The USB Situation",
-      "url": "https://randsinrepose.com/archives/the-usb-situation/",
-      "score": 75,
-      "comments": 88,
-      "author": "herbertl",
-      "tags": [],
-      "date": "2026-04-29T16:49:13+00:00"
-    },
-    {
-      "id": "hn-47950880",
-      "source": "hn",
-      "title": "Because it doesn't have to",
-      "url": "https://blog.computationalcomplexity.org/2026/04/because-it-doesnt-have-to.html",
-      "score": 64,
-      "comments": 13,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-04-29T16:42:13+00:00"
-    },
-    {
-      "id": "hn-47950575",
-      "source": "hn",
-      "title": "At Protocol: Building the Social Internet",
-      "url": "https://atproto.com/",
-      "score": 46,
-      "comments": 23,
-      "author": "resiros",
-      "tags": [],
-      "date": "2026-04-29T16:20:56+00:00"
-    },
-    {
-      "id": "hn-47950510",
-      "source": "hn",
-      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "score": 365,
-      "comments": 87,
-      "author": "agwa",
-      "tags": [],
-      "date": "2026-04-29T16:16:39+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5408,19 +5409,6 @@
       "date": "Mon, 04 May 2026 06:14:04 GMT"
     },
     {
-      "id": "zenn-872d10de21",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "goroutineは「非同期」でもある――仕組み、進化",
-      "url": "https://zenn.dev/torisan7500/articles/27226650fe8aac",
-      "score": null,
-      "author": "torisan",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 04 May 2026 02:13:01 GMT"
-    },
-    {
       "id": "zenn-b4db2f93a8",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5549,6 +5537,19 @@
         "Zenn"
       ],
       "date": "Sat, 02 May 2026 14:25:44 GMT"
+    },
+    {
+      "id": "zenn-a0f2eb29a1",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "次の大きな作業は GitHub Copilot CLI から始めたくなる理由",
+      "url": "https://zenn.dev/tomokusaba/articles/051dd7f79c1791",
+      "score": null,
+      "author": "くさば",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 02 May 2026 11:35:39 GMT"
     },
     {
       "id": "zenn-57e84f7e18",

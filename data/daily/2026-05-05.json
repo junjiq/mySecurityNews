@@ -1,15 +1,15 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T03:07:24.820723+00:00",
+  "generated_at": "2026-05-05T04:33:36.976320+00:00",
   "total_articles": 55,
-  "urgent_count": 3,
+  "urgent_count": 2,
   "urgent_items": [
     {
-      "title": "CORSを一緒に理解しよう（Cross-Origin Resource Sharing）",
-      "url": "https://qiita.com/NXD139/items/ec04f8d5c110a9927498?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-05-04T12:08:28+09:00"
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-05T03:43:08+00:00"
     },
     {
       "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
@@ -17,24 +17,17 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-04T17:46:32+00:00"
-    },
-    {
-      "title": "Cursor 脆弱性事件を契機に Claude Code の運用を見直す — AIコーディングツールのセキュリティ運用5項目",
-      "url": "https://qiita.com/ennagara128/items/5d0ebc9fb835f55f7c98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-05-04T12:38:18+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 51,
       "top_items": [
         {
           "title": "Talking to strangers at the gym",
           "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-          "score": 1207,
+          "score": 1251,
           "source": "hn",
           "severity": null,
           "date": "2026-05-04T11:41:02+00:00"
@@ -42,7 +35,7 @@
         {
           "title": "GameStop makes $55.5B takeover offer for eBay",
           "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-          "score": 650,
+          "score": 656,
           "source": "hn",
           "severity": null,
           "date": "2026-05-04T09:31:12+00:00"
@@ -66,7 +59,7 @@
         {
           "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
           "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-          "score": 443,
+          "score": 468,
           "source": "hn",
           "severity": null,
           "date": "2026-05-04T18:22:42+00:00"
@@ -75,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 4,
       "top_items": [
         {
           "title": "【Claude Code】カスタムステータスラインがホームディレクトリで表示されない",
@@ -108,14 +101,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-04T13:47:50+09:00"
-        },
-        {
-          "title": "[Frontend Performance - Part 9] JavaScript は速いのに、なぜ React は遅いのか？再レンダリングを理解する",
-          "url": "https://qiita.com/tuanphan/items/b4e3330337f767a47a83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-04T12:40:52+09:00"
         }
       ]
     }
