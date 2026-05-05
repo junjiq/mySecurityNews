@@ -1,16 +1,16 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-05T17:34:20.204262+00:00",
-  "total_articles": 89,
+  "generated_at": "2026-05-05T18:32:14.535793+00:00",
+  "total_articles": 79,
   "source_counts": {
-    "hn": 71,
-    "zennqiita": 16,
+    "hn": 65,
+    "zennqiita": 12,
     "project": 2
   },
   "severity_counts": {
     "high": 1,
     "critical": 1,
-    "medium": 2
+    "medium": 1
   },
   "top_articles": [
     {
@@ -40,13 +40,6 @@
       "score": 664,
       "source": "hn",
       "date": "2026-04-30T16:41:00+00:00"
-    },
-    {
-      "title": "Mozilla's opposition to Chrome's Prompt API",
-      "url": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-      "score": 571,
-      "source": "hn",
-      "date": "2026-04-30T07:43:55+00:00"
     },
     {
       "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
@@ -105,6 +98,13 @@
       "date": "2026-04-30T12:24:53+00:00"
     },
     {
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "score": 268,
+      "source": "hn",
+      "date": "2026-04-30T13:21:43+00:00"
+    },
+    {
       "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
       "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
       "score": 251,
@@ -112,25 +112,11 @@
       "date": "2026-04-30T10:31:17+00:00"
     },
     {
-      "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 248,
-      "source": "hn",
-      "date": "2026-04-30T13:21:43+00:00"
-    },
-    {
       "title": "GCC 16 has been released",
       "url": "https://gcc.gnu.org/gcc-16/changes.html",
       "score": 227,
       "source": "hn",
       "date": "2026-04-30T11:40:13+00:00"
-    },
-    {
-      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
-      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-      "score": 223,
-      "source": "hn",
-      "date": "2026-04-30T09:12:23+00:00"
     },
     {
       "title": "Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
@@ -152,6 +138,20 @@
       "score": 143,
       "source": "hn",
       "date": "2026-04-30T21:02:06+00:00"
+    },
+    {
+      "title": "Dotcl: Common Lisp Implementation on .NET",
+      "url": "https://github.com/dotcl/dotcl",
+      "score": 138,
+      "source": "hn",
+      "date": "2026-04-30T16:33:24+00:00"
+    },
+    {
+      "title": "Full-Text Search with DuckDB",
+      "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+      "score": 132,
+      "source": "hn",
+      "date": "2026-04-30T18:14:18+00:00"
     }
   ],
   "security_highlights": [

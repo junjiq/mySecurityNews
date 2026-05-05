@@ -1,8 +1,8 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T17:34:20.159858+00:00",
-  "total_articles": 59,
-  "urgent_count": 3,
+  "generated_at": "2026-05-05T18:32:14.491894+00:00",
+  "total_articles": 58,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Kids bypass age verification with fake moustaches",
@@ -17,19 +17,12 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-05T03:43:08+00:00"
-    },
-    {
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-04T17:46:32+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 50,
       "top_items": [
         {
           "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
@@ -48,20 +41,20 @@
           "date": "2026-05-05T01:08:17+00:00"
         },
         {
-          "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-          "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-          "score": 514,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-04T18:22:42+00:00"
-        },
-        {
           "title": "How OpenAI delivers low-latency voice AI at scale",
           "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
           "score": 456,
           "source": "hn",
           "severity": null,
           "date": "2026-05-04T19:42:47+00:00"
+        },
+        {
+          "title": "Async Rust never left the MVP state",
+          "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+          "score": 384,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-05T07:26:03+00:00"
         },
         {
           "title": "Train Your Own LLM from Scratch",

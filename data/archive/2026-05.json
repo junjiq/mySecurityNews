@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-05T17:34:20.204262+00:00",
-  "total_articles": 369,
+  "generated_at": "2026-05-05T18:32:14.535793+00:00",
+  "total_articles": 374,
   "source_counts": {
-    "hn": 298,
+    "hn": 303,
     "zennqiita": 68,
     "project": 3
   },
   "severity_counts": {
     "high": 7,
-    "critical": 13,
+    "critical": 14,
     "medium": 2
   },
   "top_articles": [
@@ -175,6 +175,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-04T17:46:32+00:00"
+    },
+    {
+      "title": "Adding a feature to a closed-source app",
+      "url": "https://www.stavros.io/posts/adding-a-feature-to-a-closed-source-app/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-04T12:12:42+00:00"
     },
     {
       "title": "Cursor 脆弱性事件を契機に Claude Code の運用を見直す — AIコーディングツールのセキュリティ運用5項目",
