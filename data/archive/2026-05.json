@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-05T18:32:14.535793+00:00",
-  "total_articles": 374,
+  "generated_at": "2026-05-05T19:33:49.274473+00:00",
+  "total_articles": 376,
   "source_counts": {
-    "hn": 303,
+    "hn": 305,
     "zennqiita": 68,
     "project": 3
   },
   "severity_counts": {
-    "high": 7,
     "critical": 14,
+    "high": 7,
     "medium": 2
   },
   "top_articles": [
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-05-06T04:23:23+09:00"
+    },
+    {
       "title": "Kids bypass age verification with fake moustaches",
       "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
       "severity": "high",
@@ -224,13 +231,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-03T09:18:25+00:00"
-    },
-    {
-      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-05-03T16:32:16+09:00"
     },
     {
       "title": "Open source does not imply open community",

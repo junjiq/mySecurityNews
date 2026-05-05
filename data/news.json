@@ -1,25 +1,50 @@
 {
-  "updated_at": "2026-05-05T18:32:14.425877+00:00",
+  "updated_at": "2026-05-05T19:33:49.172349+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-afd527945a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "emi_ndk",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T04:23:23+09:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48026349",
       "source": "hn",
       "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
       "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "score": 15,
-      "comments": 0,
+      "score": 75,
+      "comments": 69,
       "author": "littlexsparkee",
       "tags": [],
       "date": "2026-05-05T18:13:47+00:00"
+    },
+    {
+      "id": "hn-48026342",
+      "source": "hn",
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "url": "https://paletteinspiration.com/",
+      "score": 14,
+      "comments": 6,
+      "author": "ouli",
+      "tags": [],
+      "date": "2026-05-05T18:13:14+00:00"
     },
     {
       "id": "hn-48026206",
       "source": "hn",
       "title": "Clarification on the Notepad++ Trademark Issue",
       "url": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
-      "score": 24,
-      "comments": 0,
+      "score": 103,
+      "comments": 42,
       "author": "minimaxir",
       "tags": [],
       "date": "2026-05-05T18:04:20+00:00"
@@ -29,8 +54,8 @@
       "source": "hn",
       "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
       "url": "https://arxiv.org/abs/2604.26752",
-      "score": 23,
-      "comments": 3,
+      "score": 50,
+      "comments": 8,
       "author": "gmays",
       "tags": [],
       "date": "2026-05-05T17:52:31+00:00"
@@ -40,8 +65,8 @@
       "source": "hn",
       "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
       "url": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
-      "score": 13,
-      "comments": 2,
+      "score": 25,
+      "comments": 3,
       "author": "mooreds",
       "tags": [],
       "date": "2026-05-05T17:38:17+00:00"
@@ -73,10 +98,10 @@
     {
       "id": "hn-48024859",
       "source": "hn",
-      "title": "Computer Use Is 45x More Expensive Than Structured APIs",
+      "title": "Computer Use is 45x more expensive than structured APIs",
       "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 97,
-      "comments": 66,
+      "score": 139,
+      "comments": 83,
       "author": "palashawas",
       "tags": [],
       "date": "2026-05-05T16:34:48+00:00"
@@ -86,8 +111,8 @@
       "source": "hn",
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 156,
-      "comments": 54,
+      "score": 221,
+      "comments": 86,
       "author": "amrrs",
       "tags": [],
       "date": "2026-05-05T16:14:17+00:00"
@@ -97,8 +122,8 @@
       "source": "hn",
       "title": "UK: Two millionth electric car registered as market rebounds strongly",
       "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
-      "score": 118,
-      "comments": 130,
+      "score": 138,
+      "comments": 182,
       "author": "kieranmaine",
       "tags": [],
       "date": "2026-05-05T16:03:17+00:00"
@@ -106,10 +131,10 @@
     {
       "id": "hn-48024358",
       "source": "hn",
-      "title": "I'm Scared About Biological Computing",
+      "title": "I'm scared about biological computing",
       "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-      "score": 47,
-      "comments": 32,
+      "score": 82,
+      "comments": 54,
       "author": "kuberwastaken",
       "tags": [],
       "date": "2026-05-05T16:03:06+00:00"
@@ -119,8 +144,8 @@
       "source": "hn",
       "title": "EEVblog: The 555 Timer is 55 years old",
       "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "score": 106,
-      "comments": 25,
+      "score": 131,
+      "comments": 34,
       "author": "brudgers",
       "tags": [],
       "date": "2026-05-05T15:47:18+00:00"
@@ -130,8 +155,8 @@
       "source": "hn",
       "title": "Three Inverse Laws of AI",
       "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 224,
-      "comments": 137,
+      "score": 247,
+      "comments": 164,
       "author": "blenderob",
       "tags": [],
       "date": "2026-05-05T15:27:18+00:00"
@@ -163,8 +188,8 @@
       "source": "hn",
       "title": "Agents for financial services and insurance",
       "url": "https://www.anthropic.com/news/finance-agents",
-      "score": 108,
-      "comments": 89,
+      "score": 127,
+      "comments": 103,
       "author": "louiereederson",
       "tags": [],
       "date": "2026-05-05T15:05:47+00:00"
@@ -231,7 +256,7 @@
       "source": "hn",
       "title": "Simple Meta-Harness on Islo.dev",
       "url": "https://zozo123.github.io/meta-harness-on-islo-page/",
-      "score": 34,
+      "score": 37,
       "comments": 17,
       "author": "zozo123-IB",
       "tags": [],
@@ -253,8 +278,8 @@
       "source": "hn",
       "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
       "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "score": 303,
-      "comments": 249,
+      "score": 319,
+      "comments": 258,
       "author": "alentodorov",
       "tags": [],
       "date": "2026-05-05T12:28:28+00:00"
@@ -297,8 +322,8 @@
       "source": "hn",
       "title": "When everyone has AI and the company still learns nothing",
       "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "score": 221,
-      "comments": 150,
+      "score": 237,
+      "comments": 166,
       "author": "youngbrioche",
       "tags": [],
       "date": "2026-05-05T09:30:22+00:00"
@@ -343,8 +368,8 @@
       "source": "hn",
       "title": "Async Rust never left the MVP state",
       "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "score": 384,
-      "comments": 209,
+      "score": 393,
+      "comments": 213,
       "author": "pjmlp",
       "tags": [],
       "date": "2026-05-05T07:26:03+00:00"
@@ -418,8 +443,8 @@
       "source": "hn",
       "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
       "url": "https://walzr.com/empty-screenings",
-      "score": 279,
-      "comments": 236,
+      "score": 286,
+      "comments": 244,
       "author": "MrBuddyCasino",
       "tags": [],
       "date": "2026-05-05T04:33:22+00:00"
@@ -1528,8 +1553,8 @@
       "source": "hn",
       "title": "Collaborative Editing in CodeMirror",
       "url": "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html",
-      "score": 27,
-      "comments": 2,
+      "score": 36,
+      "comments": 3,
       "author": "luu",
       "tags": [],
       "date": "2026-05-03T17:39:17+00:00"
@@ -1895,6 +1920,17 @@
       "date": "2026-05-03T09:14:56+00:00"
     },
     {
+      "id": "hn-47994946",
+      "source": "hn",
+      "title": "Researchers print structural colour with an inkjet printer",
+      "url": "https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/",
+      "score": 7,
+      "comments": 0,
+      "author": "zeristor",
+      "tags": [],
+      "date": "2026-05-03T08:58:50+00:00"
+    },
+    {
       "id": "qiita-6ded22c7b2",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1906,20 +1942,6 @@
         "Qiita"
       ],
       "date": "2026-05-03T16:32:59+09:00"
-    },
-    {
-      "id": "qiita-afd527945a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "emi_ndk",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-03T16:32:16+09:00",
-      "severity": "critical"
     },
     {
       "id": "hn-47994327",
@@ -1996,8 +2018,8 @@
       "source": "hn",
       "title": "Comparing the Z80 and 6502 to Their Relatives",
       "url": "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/",
-      "score": 77,
-      "comments": 5,
+      "score": 86,
+      "comments": 8,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-03T04:06:08+00:00"
@@ -2715,8 +2737,8 @@
       "source": "hn",
       "title": "Docker 29 has changed its default image store for new installs",
       "url": "https://docs.docker.com/engine/storage/containerd",
-      "score": 92,
-      "comments": 45,
+      "score": 99,
+      "comments": 49,
       "author": "neitsab",
       "tags": [],
       "date": "2026-05-02T13:41:43+00:00"
@@ -4920,8 +4942,8 @@
       "source": "hn",
       "title": "Should I Run Plain Docker Compose in Production in 2026?",
       "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 268,
-      "comments": 202,
+      "score": 285,
+      "comments": 217,
       "author": "pmig",
       "tags": [],
       "date": "2026-04-30T13:21:43+00:00"
@@ -5133,30 +5155,6 @@
         "Qiita"
       ],
       "date": "2026-04-30T18:56:25+09:00"
-    },
-    {
-      "id": "qiita-05d93b8051",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code の通知設定 + 通知一括削除ショートカット（Mac）",
-      "url": "https://qiita.com/I635230/items/5e17576aa2219d4dbca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "I635230",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-04-30T18:46:03+09:00"
-    },
-    {
-      "id": "hn-47960108",
-      "source": "hn",
-      "title": "I Built SpecDD Because AI Kept Forgetting What We Were Building",
-      "url": "https://specdd.ai/articles/i-built-specdd-because-ai-kept-forgetting-what-we-were-building/",
-      "score": 14,
-      "comments": 3,
-      "author": "addvilz",
-      "tags": [],
-      "date": "2026-04-30T09:28:37+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

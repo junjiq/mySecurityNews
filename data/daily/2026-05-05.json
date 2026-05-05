@@ -1,9 +1,16 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T18:32:14.491894+00:00",
-  "total_articles": 58,
-  "urgent_count": 2,
+  "generated_at": "2026-05-05T19:33:49.233503+00:00",
+  "total_articles": 60,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-05-06T04:23:23+09:00"
+    },
     {
       "title": "Kids bypass age verification with fake moustaches",
       "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 51,
       "top_items": [
         {
           "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
@@ -51,7 +58,7 @@
         {
           "title": "Async Rust never left the MVP state",
           "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-          "score": 384,
+          "score": 393,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:26:03+00:00"
@@ -68,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 7,
       "top_items": [
+        {
+          "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+          "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": "critical",
+          "date": "2026-05-06T04:23:23+09:00"
+        },
         {
           "title": "【Delphi】インターネットから DL したファイルを開こうとすると出る警告を消す",
           "url": "https://qiita.com/ht_deko/items/96d8fcda69701f1e75c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-05T15:06:51+09:00"
-        },
-        {
-          "title": "AIがコードを書く時代に、なぜRの可読性が重要になるのか",
-          "url": "https://qiita.com/KanNishida/items/74103e76c26b55596f7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-05T12:19:00+09:00"
         }
       ]
     },
