@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T05:54:52.124947+00:00",
+  "generated_at": "2026-05-05T06:48:09.755823+00:00",
   "total_articles": 59,
   "urgent_count": 3,
   "urgent_items": [
@@ -34,7 +34,7 @@
         {
           "title": "Talking to strangers at the gym",
           "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-          "score": 1277,
+          "score": 1298,
           "source": "hn",
           "severity": null,
           "date": "2026-05-04T11:41:02+00:00"
@@ -56,26 +56,26 @@
           "date": "2026-05-04T15:10:41+00:00"
         },
         {
+          "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+          "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+          "score": 498,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-04T18:22:42+00:00"
+        },
+        {
           "title": "Trademark violation: Fake Notepad++ for Mac",
           "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
           "score": 498,
           "source": "hn",
           "severity": null,
           "date": "2026-05-04T09:40:06+00:00"
-        },
-        {
-          "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-          "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-          "score": 488,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-04T18:22:42+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 2,
       "top_items": [
         {
           "title": "【Claude Code】カスタムステータスラインがホームディレクトリで表示されない",
@@ -92,21 +92,21 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-04T18:45:20+09:00"
-        },
-        {
-          "title": "写真1枚から場所と時間を特定する技術：PythonでOSINT入門【コピペで動く5実装】",
-          "url": "https://qiita.com/etale_cohomology/items/e31907c8250dfb6ff145?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-04T15:40:14+09:00"
         }
       ]
     },
     {
       "category": "注目リリース",
-      "count": 1,
+      "count": 2,
       "top_items": [
+        {
+          "title": "ChromaDB 1.5.9 — 1.5.9",
+          "url": "https://github.com/chroma-core/chroma/releases/tag/1.5.9",
+          "score": null,
+          "source": "project",
+          "severity": null,
+          "date": "2026-05-05T05:55:40Z"
+        },
         {
           "title": "ChromaDB cli-1.4.4 — cli-1.4.4",
           "url": "https://github.com/chroma-core/chroma/releases/tag/cli-1.4.4",
