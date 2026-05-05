@@ -1,9 +1,16 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T04:33:36.976320+00:00",
-  "total_articles": 55,
-  "urgent_count": 2,
+  "generated_at": "2026-05-05T05:54:52.124947+00:00",
+  "total_articles": 59,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Kids bypass age verification with fake moustaches",
+      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-05T04:36:24+00:00"
+    },
     {
       "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
       "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 55,
       "top_items": [
         {
           "title": "Talking to strangers at the gym",
           "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-          "score": 1251,
+          "score": 1277,
           "source": "hn",
           "severity": null,
           "date": "2026-05-04T11:41:02+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
           "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-          "score": 468,
+          "score": 488,
           "source": "hn",
           "severity": null,
           "date": "2026-05-04T18:22:42+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 3,
       "top_items": [
         {
           "title": "【Claude Code】カスタムステータスラインがホームディレクトリで表示されない",
@@ -93,14 +100,20 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-04T15:40:14+09:00"
-        },
+        }
+      ]
+    },
+    {
+      "category": "注目リリース",
+      "count": 1,
+      "top_items": [
         {
-          "title": "React QueryでフロントエンドのPerformanceを改善する実践ガイド",
-          "url": "https://qiita.com/nhatcaofedev/items/55a1a5491eb22f20d77c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "ChromaDB cli-1.4.4 — cli-1.4.4",
+          "url": "https://github.com/chroma-core/chroma/releases/tag/cli-1.4.4",
           "score": null,
-          "source": "zennqiita",
+          "source": "project",
           "severity": null,
-          "date": "2026-05-04T13:47:50+09:00"
+          "date": "2026-05-05T04:47:11Z"
         }
       ]
     }

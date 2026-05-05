@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-05T04:33:37.011966+00:00",
-  "total_articles": 315,
+  "generated_at": "2026-05-05T05:54:52.164695+00:00",
+  "total_articles": 321,
   "source_counts": {
-    "hn": 256,
+    "hn": 261,
     "zennqiita": 58,
-    "project": 1
+    "project": 2
   },
   "severity_counts": {
-    "high": 6,
+    "high": 7,
     "critical": 13,
     "medium": 2
   },
@@ -23,7 +23,7 @@
     {
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1251,
+      "score": 1277,
       "source": "hn",
       "date": "2026-05-04T11:41:02+00:00"
     },
@@ -91,6 +91,13 @@
       "date": "2026-05-04T09:40:06+00:00"
     },
     {
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "score": 488,
+      "source": "hn",
+      "date": "2026-05-04T18:22:42+00:00"
+    },
+    {
       "title": "Let's Buy Spirit Air",
       "url": "https://letsbuyspiritair.com/",
       "score": 480,
@@ -103,13 +110,6 @@
       "score": 473,
       "source": "hn",
       "date": "2026-05-02T17:40:55+00:00"
-    },
-    {
-      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "score": 468,
-      "source": "hn",
-      "date": "2026-05-04T18:22:42+00:00"
     },
     {
       "title": "This Month in Ladybird – April 2026",
@@ -126,6 +126,13 @@
       "date": "2026-05-03T00:30:50+00:00"
     },
     {
+      "title": "I am worried about Bun",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "score": 456,
+      "source": "hn",
+      "date": "2026-05-04T16:45:00+00:00"
+    },
+    {
       "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
       "url": "https://partyon.xyz/@nullagent/116499715071759135",
       "score": 448,
@@ -140,13 +147,6 @@
       "date": "2026-05-04T17:16:36+00:00"
     },
     {
-      "title": "I am worried about Bun",
-      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 440,
-      "source": "hn",
-      "date": "2026-05-04T16:45:00+00:00"
-    },
-    {
       "title": "The gay jailbreak technique",
       "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
       "score": 435,
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Kids bypass age verification with fake moustaches",
+      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-05T04:36:24+00:00"
+    },
     {
       "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
       "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
