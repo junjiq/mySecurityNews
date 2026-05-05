@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T21:48:59.862847+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-05-05T22:21:40.887655+00:00",
+  "total_articles": 64,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 48,
       "top_items": [
         {
           "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
           "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-          "score": 1085,
+          "score": 1128,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:34:55+00:00"
@@ -50,26 +50,26 @@
         {
           "title": "Async Rust never left the MVP state",
           "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-          "score": 411,
+          "score": 412,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:26:03+00:00"
         },
         {
-          "title": "Train Your Own LLM from Scratch",
-          "url": "https://github.com/angelos-p/llm-from-scratch",
-          "score": 369,
+          "title": ".de TLD offline due to DNSSEC?",
+          "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+          "score": 401,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-05T04:09:17+00:00"
+          "date": "2026-05-05T20:16:35+00:00"
         },
         {
-          "title": "AI didn't delete your database, you did",
-          "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-          "score": 361,
+          "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+          "score": 377,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-05T14:07:50+00:00"
+          "date": "2026-05-05T16:14:17+00:00"
         }
       ]
     },
@@ -77,6 +77,14 @@
       "category": "日本語技術記事",
       "count": 14,
       "top_items": [
+        {
+          "title": "【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】",
+          "url": "https://qiita.com/pmpm_nk/items/b74198e39c2cbad358e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-06T07:05:14+09:00"
+        },
         {
           "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
           "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -100,14 +108,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-06T00:08:06+09:00"
-        },
-        {
-          "title": "【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】",
-          "url": "https://qiita.com/pmpm_nk/items/b74198e39c2cbad358e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-05T23:35:36+09:00"
         },
         {
           "title": "ハードウェアバディでClaudeとおともだち",
