@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T12:56:47.827204+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-05-05T15:36:52.676254+00:00",
+  "total_articles": 58,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 50,
       "top_items": [
+        {
+          "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+          "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+          "score": 663,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-05T07:34:55+00:00"
+        },
         {
           "title": "Bun is being ported from Zig to Rust",
           "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-          "score": 587,
+          "score": 659,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T01:08:17+00:00"
@@ -48,14 +56,6 @@
           "date": "2026-05-04T18:22:42+00:00"
         },
         {
-          "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
-          "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
-          "score": 510,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-04T15:10:41+00:00"
-        },
-        {
           "title": "I am worried about Bun",
           "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
           "score": 464,
@@ -64,19 +64,35 @@
           "date": "2026-05-04T16:45:00+00:00"
         },
         {
-          "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-          "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-          "score": 440,
+          "title": "How OpenAI delivers low-latency voice AI at scale",
+          "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+          "score": 456,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-04T17:16:36+00:00"
+          "date": "2026-05-04T19:42:47+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
+        {
+          "title": "【Delphi】インターネットから DL したファイルを開こうとすると出る警告を消す",
+          "url": "https://qiita.com/ht_deko/items/96d8fcda69701f1e75c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-05T23:55:06+09:00"
+        },
+        {
+          "title": "【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】",
+          "url": "https://qiita.com/pmpm_nk/items/b74198e39c2cbad358e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-05T23:35:36+09:00"
+        },
         {
           "title": "[Frontend Performance - Part 10] memo / useMemo / useCallback の正しい使い方：React再レンダリング最適化",
           "url": "https://qiita.com/tuanphan/items/f335d42c78ce7723af11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -100,22 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-05T12:19:00+09:00"
-        },
-        {
-          "title": "【Delphi】インターネットから DL したファイルを開こうとすると出る警告を消す",
-          "url": "https://qiita.com/ht_deko/items/96d8fcda69701f1e75c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-05T11:20:10+09:00"
-        },
-        {
-          "title": "最初に「あい」を学ぶことば日本語でプログラミング入門（Mindで定番アルゴリズム： ワーシャル‐フロイド法）",
-          "url": "https://qiita.com/mylifewithviolin/items/d37cf98484f6827ee1ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-05T10:47:36+09:00"
         }
       ]
     },
