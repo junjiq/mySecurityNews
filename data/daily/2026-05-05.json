@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T07:40:19.220317+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-05-05T08:46:48.278176+00:00",
+  "total_articles": 70,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 59,
       "top_items": [
         {
           "title": "Talking to strangers at the gym",
           "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-          "score": 1312,
+          "score": 1335,
           "source": "hn",
           "severity": null,
           "date": "2026-05-04T11:41:02+00:00"
@@ -75,23 +75,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 2,
+      "count": 9,
       "top_items": [
         {
-          "title": "【Claude Code】カスタムステータスラインがホームディレクトリで表示されない",
-          "url": "https://qiita.com/ryu-ki/items/fa32472acb437bd2565a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "[Frontend Performance - Part 10] memo / useMemo / useCallback の正しい使い方：React再レンダリング最適化",
+          "url": "https://qiita.com/tuanphan/items/f335d42c78ce7723af11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-04T19:17:24+09:00"
+          "date": "2026-05-05T17:46:30+09:00"
         },
         {
-          "title": "AWSのMCPサーバで \"aws login\" の認証情報を使う方法",
-          "url": "https://qiita.com/yuki_ink/items/ac280c1f34246c0d2e3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Docling vs MarkItDown: GenAI向けのドキュメント処理における最適なツールはどっち？",
+          "url": "https://qiita.com/TOMOSIA-LinhND/items/8ff4b27c4d9097380c18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-04T18:45:20+09:00"
+          "date": "2026-05-05T15:06:51+09:00"
+        },
+        {
+          "title": "AIがコードを書く時代に、なぜRの可読性が重要になるのか",
+          "url": "https://qiita.com/KanNishida/items/74103e76c26b55596f7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-05T12:19:00+09:00"
+        },
+        {
+          "title": "【Delphi】インターネットから DL したファイルを開こうとすると出る警告を消す",
+          "url": "https://qiita.com/ht_deko/items/96d8fcda69701f1e75c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-05T11:20:10+09:00"
+        },
+        {
+          "title": "最初に「あい」を学ぶことば日本語でプログラミング入門（Mindで定番アルゴリズム： ワーシャル‐フロイド法）",
+          "url": "https://qiita.com/mylifewithviolin/items/d37cf98484f6827ee1ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-05T10:47:36+09:00"
         }
       ]
     },
