@@ -1,9 +1,9 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-05T20:26:21.091011+00:00",
-  "total_articles": 69,
+  "generated_at": "2026-05-05T20:49:53.566837+00:00",
+  "total_articles": 67,
   "source_counts": {
-    "hn": 60,
+    "hn": 58,
     "zennqiita": 7,
     "project": 2
   },
@@ -93,7 +93,7 @@
     {
       "title": "Should I Run Plain Docker Compose in Production in 2026?",
       "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 301,
+      "score": 304,
       "source": "hn",
       "date": "2026-04-30T13:21:43+00:00"
     },
@@ -103,13 +103,6 @@
       "score": 270,
       "source": "hn",
       "date": "2026-04-30T12:24:53+00:00"
-    },
-    {
-      "title": "GCC 16 has been released",
-      "url": "https://gcc.gnu.org/gcc-16/changes.html",
-      "score": 227,
-      "source": "hn",
-      "date": "2026-04-30T11:40:13+00:00"
     },
     {
       "title": "Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",
@@ -152,6 +145,13 @@
       "score": 130,
       "source": "hn",
       "date": "2026-04-30T12:03:38+00:00"
+    },
+    {
+      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "score": 129,
+      "source": "hn",
+      "date": "2026-04-30T22:48:51+00:00"
     }
   ],
   "security_highlights": [
