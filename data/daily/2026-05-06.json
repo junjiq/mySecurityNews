@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T13:05:44.513449+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-05-06T14:17:08.612869+00:00",
+  "total_articles": 56,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 42,
       "top_items": [
         {
           "title": "DNSSEC disruption affecting .de domains – Resolved",
           "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-          "score": 695,
+          "score": 704,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T20:16:35+00:00"
@@ -28,40 +28,40 @@
         {
           "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "score": 605,
+          "score": 615,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T16:14:17+00:00"
         },
         {
-          "title": "Three Inverse Laws of AI",
-          "url": "https://susam.net/inverse-laws-of-robotics.html",
-          "score": 475,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-05T15:27:18+00:00"
-        },
-        {
           "title": "StarFighter 16-Inch",
           "url": "https://us.starlabs.systems/pages/starfighter",
-          "score": 450,
+          "score": 489,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T02:03:44+00:00"
         },
         {
-          "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-          "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-          "score": 435,
+          "title": "Three Inverse Laws of AI",
+          "url": "https://susam.net/inverse-laws-of-robotics.html",
+          "score": 486,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-06T03:10:33+00:00"
+          "date": "2026-05-05T15:27:18+00:00"
+        },
+        {
+          "title": "Show HN: Red Squares – GitHub outages as contributions",
+          "url": "https://red-squares.cian.lol/",
+          "score": 478,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-06T10:28:40+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 14,
       "top_items": [
         {
           "title": "ラズベリーパイ用　24V入力　UPS基板作ってみた",
