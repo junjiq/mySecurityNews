@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T04:41:21.337332+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-05-06T06:02:18.950902+00:00",
+  "total_articles": 55,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 44,
       "top_items": [
         {
           "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
           "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-          "score": 1326,
+          "score": 1357,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:34:55+00:00"
@@ -28,7 +28,7 @@
         {
           "title": ".de TLD offline due to DNSSEC?",
           "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-          "score": 572,
+          "score": 591,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T20:16:35+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "score": 500,
+          "score": 521,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T16:14:17+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "Three Inverse Laws of AI",
           "url": "https://susam.net/inverse-laws-of-robotics.html",
-          "score": 392,
+          "score": 407,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T15:27:18+00:00"
@@ -102,28 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-05T23:19:24+09:00"
-        }
-      ]
-    },
-    {
-      "category": "注目リリース",
-      "count": 2,
-      "top_items": [
-        {
-          "title": "ChromaDB 1.5.9 — 1.5.9",
-          "url": "https://github.com/chroma-core/chroma/releases/tag/1.5.9",
-          "score": null,
-          "source": "project",
-          "severity": null,
-          "date": "2026-05-05T05:55:40Z"
-        },
-        {
-          "title": "ChromaDB cli-1.4.4 — cli-1.4.4",
-          "url": "https://github.com/chroma-core/chroma/releases/tag/cli-1.4.4",
-          "score": null,
-          "source": "project",
-          "severity": null,
-          "date": "2026-05-05T04:47:11Z"
         }
       ]
     }
