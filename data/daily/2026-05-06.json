@@ -1,9 +1,16 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T18:01:16.233806+00:00",
-  "total_articles": 54,
-  "urgent_count": 2,
+  "generated_at": "2026-05-06T19:05:32.772112+00:00",
+  "total_articles": 53,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Going Full Time on Open Source",
+      "url": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-06T17:22:49+00:00"
+    },
     {
       "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
       "url": "https://play.templatical.com",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 42,
       "top_items": [
         {
           "title": "DNSSEC disruption affecting .de domains – Resolved",
@@ -51,7 +58,7 @@
         {
           "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
           "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-          "score": 567,
+          "score": 586,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T03:10:33+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "Valve releases Steam Controller CAD files under Creative Commons license",
           "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-          "score": 377,
+          "score": 514,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T15:44:13+00:00"

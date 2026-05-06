@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-06T18:01:16.273989+00:00",
-  "total_articles": 447,
+  "generated_at": "2026-05-06T19:05:32.812588+00:00",
+  "total_articles": 450,
   "source_counts": {
-    "hn": 361,
+    "hn": 364,
     "zennqiita": 83,
     "project": 3
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 16,
     "medium": 3,
     "high": 7
   },
@@ -98,6 +98,13 @@
       "date": "2026-05-06T02:03:44+00:00"
     },
     {
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "score": 586,
+      "source": "hn",
+      "date": "2026-05-06T03:10:33+00:00"
+    },
+    {
       "title": "Dav2d",
       "url": "https://code.videolan.org/videolan/dav2d",
       "score": 574,
@@ -112,11 +119,11 @@
       "date": "2026-05-01T20:06:59+00:00"
     },
     {
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "score": 567,
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "score": 514,
       "source": "hn",
-      "date": "2026-05-06T03:10:33+00:00"
+      "date": "2026-05-06T15:44:13+00:00"
     },
     {
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
@@ -145,16 +152,16 @@
       "score": 498,
       "source": "hn",
       "date": "2026-05-04T09:40:06+00:00"
-    },
-    {
-      "title": "Three Inverse Laws of AI",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 497,
-      "source": "hn",
-      "date": "2026-05-05T15:27:18+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Going Full Time on Open Source",
+      "url": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-06T17:22:49+00:00"
+    },
     {
       "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
       "url": "https://play.templatical.com",
