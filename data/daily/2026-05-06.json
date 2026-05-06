@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T11:13:30.576796+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-05-06T12:08:54.100828+00:00",
+  "total_articles": 63,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 48,
       "top_items": [
         {
           "title": "DNSSEC disruption affecting .de domains – Resolved",
           "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-          "score": 682,
+          "score": 690,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T20:16:35+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "score": 587,
+          "score": 597,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T16:14:17+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "Three Inverse Laws of AI",
           "url": "https://susam.net/inverse-laws-of-robotics.html",
-          "score": 456,
+          "score": 467,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T15:27:18+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "Computer Use is 45x more expensive than structured APIs",
           "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-          "score": 407,
+          "score": 415,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T16:34:48+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "StarFighter 16-Inch",
           "url": "https://us.starlabs.systems/pages/starfighter",
-          "score": 378,
+          "score": 411,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T02:03:44+00:00"
@@ -61,8 +61,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 15,
       "top_items": [
+        {
+          "title": "ラズベリーパイ用　24V入力　UPS基板作ってみた",
+          "url": "https://qiita.com/RaspiKoubou/items/077cca5602e2f54044dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-06T20:56:54+09:00"
+        },
         {
           "title": "AWSのハーネスエンジニアリングを使って簡単にAIエージェントを構築しよう！(Amazon Bedrock Agentcore Harness)",
           "url": "https://qiita.com/tkazuaki0820/items/a0a84c38e2a88ba84a64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-06T12:47:34+09:00"
-        },
-        {
-          "title": "JavaScriptのEvent Flowを理解する — stopPropagation()・stopImmediatePropagation()・preventDefault()",
-          "url": "https://qiita.com/TOMOSIA-HieuNT/items/615c58a7c9ca27926dea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-06T12:46:24+09:00"
         }
       ]
     }
