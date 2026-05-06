@@ -1,7 +1,44 @@
 {
-  "updated_at": "2026-05-06T07:23:43.679461+00:00",
+  "updated_at": "2026-05-06T09:18:01.578414+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48033689",
+      "source": "hn",
+      "title": "The Boring Internet",
+      "url": "https://www.terrygodier.com/the-boring-internet",
+      "score": 4,
+      "comments": 1,
+      "author": "crowdhailer",
+      "tags": [],
+      "date": "2026-05-06T08:23:43+00:00"
+    },
+    {
+      "id": "qiita-bf3e6d73c4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWSのハーネスエンジニアリングを使って簡単にAIエージェントを構築しよう！(Amazon Bedrock Agentcore Harness)",
+      "url": "https://qiita.com/tkazuaki0820/items/a0a84c38e2a88ba84a64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tkazuaki0820",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T16:26:45+09:00"
+    },
+    {
+      "id": "qiita-8d297bd21d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "MinIOからRustFSへの移行：Docker ComposeでのS3互換ストレージ構築ガイド",
+      "url": "https://qiita.com/hoatms/items/75ede10cb8aaff7a71ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hoatms",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T15:53:32+09:00"
+    },
     {
       "id": "qiita-afd527945a",
       "source": "zennqiita",
@@ -17,12 +54,84 @@
       "severity": "critical"
     },
     {
+      "id": "hn-48032976",
+      "source": "hn",
+      "title": "Reverse-engineering the 1998 Ultima Online demo server",
+      "url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
+      "score": 24,
+      "comments": 5,
+      "author": "notsentient",
+      "tags": [],
+      "date": "2026-05-06T06:31:29+00:00"
+    },
+    {
+      "id": "hn-48032461",
+      "source": "hn",
+      "title": "Knitting bullshit",
+      "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+      "score": 30,
+      "comments": 7,
+      "author": "ColinEberhardt",
+      "tags": [],
+      "date": "2026-05-06T05:13:58+00:00"
+    },
+    {
+      "id": "hn-48032265",
+      "source": "hn",
+      "title": "Multi-stroke text effect in CSS",
+      "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+      "score": 29,
+      "comments": 2,
+      "author": "cheeaun",
+      "tags": [],
+      "date": "2026-05-06T04:43:25+00:00"
+    },
+    {
+      "id": "qiita-b7c89ffe7c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "[Frontend Performance - Part 12] React最適化の完成：再レンダリング・メモ化・State設計を完全制覇",
+      "url": "https://qiita.com/tuanphan/items/b05513ade79cef735f90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tuanphan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T12:47:34+09:00"
+    },
+    {
+      "id": "qiita-c6eb1f78ec",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "JavaScriptのEvent Flowを理解する — stopPropagation()・stopImmediatePropagation()・preventDefault()",
+      "url": "https://qiita.com/TOMOSIA-HieuNT/items/615c58a7c9ca27926dea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "TOMOSIA-HieuNT",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T12:46:24+09:00"
+    },
+    {
+      "id": "qiita-5f86548877",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ブラウザイベントのデフォルト動作 完全リスト【preventDefault() 対応表】",
+      "url": "https://qiita.com/TOMOSIA-HieuNT/items/74037827ba557a602573?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "TOMOSIA-HieuNT",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T12:40:01+09:00"
+    },
+    {
       "id": "hn-48031867",
       "source": "hn",
       "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
       "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
-      "score": 55,
-      "comments": 37,
+      "score": 74,
+      "comments": 56,
       "author": "neilfrndes",
       "tags": [],
       "date": "2026-05-06T03:37:51+00:00"
@@ -32,8 +141,8 @@
       "source": "hn",
       "title": "Ombudsman column: The Pentagon is trying to silence me",
       "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
-      "score": 171,
-      "comments": 25,
+      "score": 219,
+      "comments": 53,
       "author": "petethomas",
       "tags": [],
       "date": "2026-05-06T03:24:49+00:00"
@@ -51,23 +160,62 @@
       "severity": "medium"
     },
     {
+      "id": "qiita-9615babcbb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Next.js App Routerで多言語対応を最短で実装する — next-intl実践ガイド",
+      "url": "https://qiita.com/nhatcaofedev/items/387cda18f797938acb6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nhatcaofedev",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T12:13:03+09:00"
+    },
+    {
       "id": "hn-48031684",
       "source": "hn",
       "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
       "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "score": 223,
-      "comments": 128,
+      "score": 295,
+      "comments": 166,
       "author": "rolph",
       "tags": [],
       "date": "2026-05-06T03:10:33+00:00"
+    },
+    {
+      "id": "qiita-8500d5eac8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "クオンツ入門：なぜ最初に「リターン分析」をするのか？",
+      "url": "https://qiita.com/tikeda123/items/471b154b9ed03cc3028f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tikeda123",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T11:58:35+09:00"
+    },
+    {
+      "id": "qiita-577ab0e946",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Zustandを使って気づいた、もっと早く知りたかった7つのこと",
+      "url": "https://qiita.com/nhatcaofedev/items/95b6c49cfdd148898689?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nhatcaofedev",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-06T11:27:25+09:00"
     },
     {
       "id": "hn-48031261",
       "source": "hn",
       "title": "StarFighter 16-Inch",
       "url": "https://us.starlabs.systems/pages/starfighter",
-      "score": 229,
-      "comments": 130,
+      "score": 306,
+      "comments": 161,
       "author": "signa11",
       "tags": [],
       "date": "2026-05-06T02:03:44+00:00"
@@ -77,8 +225,8 @@
       "source": "hn",
       "title": "Telus Uses AI to Alter Call-Agent Accents",
       "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "score": 125,
-      "comments": 75,
+      "score": 147,
+      "comments": 102,
       "author": "debo_",
       "tags": [],
       "date": "2026-05-06T01:38:44+00:00"
@@ -88,8 +236,8 @@
       "source": "hn",
       "title": "YouTube, your RSS feeds are broken",
       "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
-      "score": 86,
-      "comments": 30,
+      "score": 118,
+      "comments": 44,
       "author": "veeti",
       "tags": [],
       "date": "2026-05-06T01:15:31+00:00"
@@ -134,8 +282,8 @@
       "source": "hn",
       "title": "Write some software, give it away for free",
       "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "score": 240,
-      "comments": 153,
+      "score": 258,
+      "comments": 177,
       "author": "nohell",
       "tags": [],
       "date": "2026-05-05T21:26:50+00:00"
@@ -145,8 +293,8 @@
       "source": "hn",
       "title": "Why most product tours get skipped",
       "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-      "score": 138,
-      "comments": 104,
+      "score": 147,
+      "comments": 117,
       "author": "pancomplex",
       "tags": [],
       "date": "2026-05-05T21:05:19+00:00"
@@ -165,10 +313,10 @@
     {
       "id": "hn-48027897",
       "source": "hn",
-      "title": ".de TLD offline due to DNSSEC?",
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 624,
-      "comments": 308,
+      "title": "DNSSEC disruption affecting .de domains – Resolved",
+      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "score": 664,
+      "comments": 332,
       "author": "warpspin",
       "tags": [],
       "date": "2026-05-05T20:16:35+00:00"
@@ -189,8 +337,8 @@
       "source": "hn",
       "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
       "url": "https://paletteinspiration.com/",
-      "score": 153,
-      "comments": 59,
+      "score": 167,
+      "comments": 58,
       "author": "ouli",
       "tags": [],
       "date": "2026-05-05T18:13:14+00:00"
@@ -268,8 +416,8 @@
       "source": "hn",
       "title": "Computer Use is 45x more expensive than structured APIs",
       "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 381,
-      "comments": 215,
+      "score": 391,
+      "comments": 227,
       "author": "palashawas",
       "tags": [],
       "date": "2026-05-05T16:34:48+00:00"
@@ -279,8 +427,8 @@
       "source": "hn",
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 537,
-      "comments": 247,
+      "score": 563,
+      "comments": 267,
       "author": "amrrs",
       "tags": [],
       "date": "2026-05-05T16:14:17+00:00"
@@ -301,8 +449,8 @@
       "source": "hn",
       "title": "I'm scared about biological computing",
       "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-      "score": 198,
-      "comments": 162,
+      "score": 215,
+      "comments": 177,
       "author": "kuberwastaken",
       "tags": [],
       "date": "2026-05-05T16:03:06+00:00"
@@ -312,8 +460,8 @@
       "source": "hn",
       "title": "EEVblog: The 555 Timer is 55 years old [video]",
       "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "score": 276,
-      "comments": 68,
+      "score": 287,
+      "comments": 71,
       "author": "brudgers",
       "tags": [],
       "date": "2026-05-05T15:47:18+00:00"
@@ -323,8 +471,8 @@
       "source": "hn",
       "title": "Three Inverse Laws of AI",
       "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 425,
-      "comments": 285,
+      "score": 444,
+      "comments": 308,
       "author": "blenderob",
       "tags": [],
       "date": "2026-05-05T15:27:18+00:00"
@@ -494,8 +642,8 @@
       "source": "hn",
       "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
       "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-      "score": 343,
-      "comments": 521,
+      "score": 362,
+      "comments": 560,
       "author": "adrianmsmith",
       "tags": [],
       "date": "2026-05-05T12:10:24+00:00"
@@ -512,6 +660,19 @@
         "Qiita"
       ],
       "date": "2026-05-05T21:08:08+09:00"
+    },
+    {
+      "id": "qiita-ce8e9e0eaa",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ラズベリーパイ用　24V入力　UPS基板作ってみた",
+      "url": "https://qiita.com/RaspiKoubou/items/077cca5602e2f54044dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "RaspiKoubou",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-05T20:53:06+09:00"
     },
     {
       "id": "hn-48020249",
@@ -562,25 +723,12 @@
       "date": "2026-05-05T17:46:30+09:00"
     },
     {
-      "id": "qiita-bf3e6d73c4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWSのハーネスエンジニアリングを使って簡単にAIエージェントを構築しよう！(Amazon Bedrock Agentcore Harness)",
-      "url": "https://qiita.com/tkazuaki0820/items/a0a84c38e2a88ba84a64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tkazuaki0820",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-05T17:01:49+09:00"
-    },
-    {
       "id": "hn-48019219",
       "source": "hn",
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 1396,
-      "comments": 925,
+      "score": 1440,
+      "comments": 954,
       "author": "john-doe",
       "tags": [],
       "date": "2026-05-05T07:34:55+00:00"
@@ -1397,8 +1545,8 @@
       "source": "hn",
       "title": "CARA 2.0 – “I Built a Better Robot Dog”",
       "url": "https://www.aaedmusa.com/projects/cara2",
-      "score": 68,
-      "comments": 2,
+      "score": 132,
+      "comments": 16,
       "author": "hakonjdjohnsen",
       "tags": [],
       "date": "2026-05-04T06:46:10+00:00"
@@ -1586,8 +1734,8 @@
       "source": "hn",
       "title": "Make some art with your phone sensors",
       "url": "https://tautme.github.io/phone-sensors/sensor-etch.html",
-      "score": 25,
-      "comments": 5,
+      "score": 47,
+      "comments": 7,
       "author": "adm4",
       "tags": [],
       "date": "2026-05-04T01:25:05+00:00"
@@ -1963,6 +2111,17 @@
       "date": "2026-05-04T01:34:12+09:00"
     },
     {
+      "id": "hn-47998638",
+      "source": "hn",
+      "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
+      "url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+      "score": 17,
+      "comments": 7,
+      "author": "gnabgib",
+      "tags": [],
+      "date": "2026-05-03T16:32:34+00:00"
+    },
+    {
       "id": "hn-47998601",
       "source": "hn",
       "title": "Uncle Bob: It's Over",
@@ -2023,7 +2182,7 @@
       "source": "hn",
       "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
       "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-      "score": 48,
+      "score": 54,
       "comments": 6,
       "author": "omarsar",
       "tags": [],
@@ -4997,154 +5156,6 @@
       "author": "carlovalenti",
       "tags": [],
       "date": "2026-04-30T16:48:17+00:00"
-    },
-    {
-      "id": "hn-47965108",
-      "source": "hn",
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 563,
-      "comments": 476,
-      "author": "ori_b",
-      "tags": [],
-      "date": "2026-04-30T16:43:47+00:00"
-    },
-    {
-      "id": "hn-47965060",
-      "source": "hn",
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 664,
-      "comments": 223,
-      "author": "the-mitr",
-      "tags": [],
-      "date": "2026-04-30T16:41:00+00:00"
-    },
-    {
-      "id": "hn-47965027",
-      "source": "hn",
-      "title": "American Dads Became the Parents Their Fathers Never Were",
-      "url": "https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time",
-      "score": 71,
-      "comments": 47,
-      "author": "ozozozd",
-      "tags": [],
-      "date": "2026-04-30T16:38:14+00:00"
-    },
-    {
-      "id": "hn-47964996",
-      "source": "hn",
-      "title": "Largest Digital Human Rights Conference Suddenly Canceled",
-      "url": "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/",
-      "score": 12,
-      "comments": 0,
-      "author": "Brajeshwar",
-      "tags": [],
-      "date": "2026-04-30T16:35:58+00:00"
-    },
-    {
-      "id": "hn-47964957",
-      "source": "hn",
-      "title": "Dotcl: Common Lisp Implementation on .NET",
-      "url": "https://github.com/dotcl/dotcl",
-      "score": 138,
-      "comments": 31,
-      "author": "reikonomusha",
-      "tags": [],
-      "date": "2026-04-30T16:33:24+00:00"
-    },
-    {
-      "id": "hn-47964897",
-      "source": "hn",
-      "title": "SatoshiGuesser – Roll for Bitcoin",
-      "url": "https://github.com/Pathos0925/SatoshiGuesser",
-      "score": 31,
-      "comments": 28,
-      "author": "ilarum",
-      "tags": [],
-      "date": "2026-04-30T16:29:58+00:00"
-    },
-    {
-      "id": "hn-47964617",
-      "source": "hn",
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 449,
-      "comments": 171,
-      "author": "j12y",
-      "tags": [],
-      "date": "2026-04-30T16:09:26+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "qiita-ea61e233d8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Copy Fail とは？（結構詳しめ）",
-      "url": "https://qiita.com/fiord/items/e568f199e5753d3bb1b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "fiord",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-01T00:59:47+09:00"
-    },
-    {
-      "id": "hn-47964404",
-      "source": "hn",
-      "title": "Thoughts on Historical Language Models and Talkie-1930",
-      "url": "https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new",
-      "score": 5,
-      "comments": 0,
-      "author": "benbreen",
-      "tags": [],
-      "date": "2026-04-30T15:56:48+00:00"
-    },
-    {
-      "id": "qiita-279c9ea575",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「カレーを作るな、カレールーを入れた煮込みを作れ」：超新人エンジニア向け 抽象化と命名の話",
-      "url": "https://qiita.com/kimagurehero98/items/710292228e79288e65ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kimagurehero98",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-01T00:41:39+09:00"
-    },
-    {
-      "id": "hn-47964034",
-      "source": "hn",
-      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "score": 345,
-      "comments": 158,
-      "author": "akyuu",
-      "tags": [],
-      "date": "2026-04-30T15:31:40+00:00"
-    },
-    {
-      "id": "hn-47963868",
-      "source": "hn",
-      "title": "A 1960s art school experiment that redefined creativity",
-      "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
-      "score": 60,
-      "comments": 17,
-      "author": "pseudolus",
-      "tags": [],
-      "date": "2026-04-30T15:20:49+00:00"
-    },
-    {
-      "id": "hn-47962032",
-      "source": "hn",
-      "title": "Should I run plain Docker Compose in production in 2026?",
-      "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 392,
-      "comments": 274,
-      "author": "pmig",
-      "tags": [],
-      "date": "2026-04-30T13:21:43+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

@@ -1,10 +1,10 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-06T07:23:43.769158+00:00",
-  "total_articles": 407,
+  "generated_at": "2026-05-06T09:18:01.687407+00:00",
+  "total_articles": 420,
   "source_counts": {
-    "hn": 329,
-    "zennqiita": 75,
+    "hn": 334,
+    "zennqiita": 83,
     "project": 3
   },
   "severity_counts": {
@@ -16,7 +16,7 @@
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 1396,
+      "score": 1440,
       "source": "hn",
       "date": "2026-05-05T07:34:55+00:00"
     },
@@ -56,18 +56,18 @@
       "date": "2026-05-05T01:08:17+00:00"
     },
     {
+      "title": "DNSSEC disruption affecting .de domains – Resolved",
+      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "score": 664,
+      "source": "hn",
+      "date": "2026-05-05T20:16:35+00:00"
+    },
+    {
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
       "score": 656,
       "source": "hn",
       "date": "2026-05-04T09:31:12+00:00"
-    },
-    {
-      "title": ".de TLD offline due to DNSSEC?",
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 624,
-      "source": "hn",
-      "date": "2026-05-05T20:16:35+00:00"
     },
     {
       "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
@@ -93,7 +93,7 @@
     {
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 537,
+      "score": 563,
       "source": "hn",
       "date": "2026-05-05T16:14:17+00:00"
     },

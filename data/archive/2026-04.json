@@ -1,16 +1,15 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-06T07:23:43.769158+00:00",
-  "total_articles": 45,
+  "generated_at": "2026-05-06T09:18:01.687407+00:00",
+  "total_articles": 32,
   "source_counts": {
-    "hn": 39,
-    "zennqiita": 4,
+    "hn": 28,
+    "zennqiita": 2,
     "project": 2
   },
   "severity_counts": {
     "high": 1,
-    "critical": 1,
-    "medium": 1
+    "critical": 1
   },
   "top_articles": [
     {
@@ -21,46 +20,11 @@
       "date": "2026-04-30T20:27:22+00:00"
     },
     {
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 664,
-      "source": "hn",
-      "date": "2026-04-30T16:41:00+00:00"
-    },
-    {
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 563,
-      "source": "hn",
-      "date": "2026-04-30T16:43:47+00:00"
-    },
-    {
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 449,
-      "source": "hn",
-      "date": "2026-04-30T16:09:26+00:00"
-    },
-    {
       "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
       "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
       "score": 397,
       "source": "hn",
       "date": "2026-04-30T19:40:20+00:00"
-    },
-    {
-      "title": "Should I run plain Docker Compose in production in 2026?",
-      "url": "https://distr.sh/blog/running-docker-in-production/",
-      "score": 392,
-      "source": "hn",
-      "date": "2026-04-30T13:21:43+00:00"
-    },
-    {
-      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "score": 345,
-      "source": "hn",
-      "date": "2026-04-30T15:31:40+00:00"
     },
     {
       "title": "I built a Game Boy emulator in F#",
@@ -82,13 +46,6 @@
       "score": 143,
       "source": "hn",
       "date": "2026-04-30T21:02:06+00:00"
-    },
-    {
-      "title": "Dotcl: Common Lisp Implementation on .NET",
-      "url": "https://github.com/dotcl/dotcl",
-      "score": 138,
-      "source": "hn",
-      "date": "2026-04-30T16:33:24+00:00"
     },
     {
       "title": "Full-Text Search with DuckDB",
@@ -133,25 +90,67 @@
       "date": "2026-04-30T20:33:48+00:00"
     },
     {
-      "title": "American Dads Became the Parents Their Fathers Never Were",
-      "url": "https://www.derekthompson.org/p/why-do-richer-dads-spend-more-time",
-      "score": 71,
-      "source": "hn",
-      "date": "2026-04-30T16:38:14+00:00"
-    },
-    {
-      "title": "A 1960s art school experiment that redefined creativity",
-      "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
-      "score": 60,
-      "source": "hn",
-      "date": "2026-04-30T15:20:49+00:00"
-    },
-    {
       "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
       "url": "https://pu.dev/",
       "score": 55,
       "source": "hn",
       "date": "2026-04-30T20:55:12+00:00"
+    },
+    {
+      "title": "Utilyze measures how efficiently your GPU is doing useful work",
+      "url": "https://github.com/systalyze/utilyze",
+      "score": 40,
+      "source": "hn",
+      "date": "2026-04-30T18:49:20+00:00"
+    },
+    {
+      "title": "Recovering files from beyond the grave using PhotoRec",
+      "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
+      "score": 36,
+      "source": "hn",
+      "date": "2026-04-30T17:42:11+00:00"
+    },
+    {
+      "title": "Follow-up to Carrot disclosure: Forgejo",
+      "url": "https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html",
+      "score": 32,
+      "source": "hn",
+      "date": "2026-04-30T19:22:55+00:00"
+    },
+    {
+      "title": "Unverified Evaluations in Dusk's PLONK",
+      "url": "https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/",
+      "score": 30,
+      "source": "hn",
+      "date": "2026-04-30T19:14:41+00:00"
+    },
+    {
+      "title": "San Francisco streets with confusingly similar names",
+      "url": "https://j-nelson.net/san-francisco-streets-with-similar-names/",
+      "score": 27,
+      "source": "hn",
+      "date": "2026-04-30T22:25:16+00:00"
+    },
+    {
+      "title": "If Apple makes an iPad Neo, it's all over",
+      "url": "https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html",
+      "score": 26,
+      "source": "hn",
+      "date": "2026-04-30T18:36:51+00:00"
+    },
+    {
+      "title": "SFO Gate Explorer",
+      "url": "https://www.flysfo.com/passengers/services/gate-explorer",
+      "score": 26,
+      "source": "hn",
+      "date": "2026-04-30T18:01:14+00:00"
+    },
+    {
+      "title": "Haskell: Debugging",
+      "url": "https://wiki.haskell.org/Debugging",
+      "score": 25,
+      "source": "hn",
+      "date": "2026-04-30T18:25:18+00:00"
     }
   ],
   "security_highlights": [
