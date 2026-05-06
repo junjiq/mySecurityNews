@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T00:35:29.608075+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-05-06T01:36:31.165125+00:00",
+  "total_articles": 64,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,28 +29,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 48,
       "top_items": [
         {
           "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
           "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-          "score": 1218,
+          "score": 1244,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:34:55+00:00"
         },
         {
-          "title": "Bun is being ported from Zig to Rust",
-          "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-          "score": 679,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-05T01:08:17+00:00"
-        },
-        {
           "title": ".de TLD offline due to DNSSEC?",
           "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-          "score": 502,
+          "score": 526,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T20:16:35+00:00"
@@ -58,7 +50,7 @@
         {
           "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "score": 427,
+          "score": 446,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T16:14:17+00:00"
@@ -70,6 +62,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:26:03+00:00"
+        },
+        {
+          "title": "Train Your Own LLM from Scratch",
+          "url": "https://github.com/angelos-p/llm-from-scratch",
+          "score": 369,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-05T04:09:17+00:00"
         }
       ]
     },
