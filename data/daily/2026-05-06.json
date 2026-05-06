@@ -1,9 +1,16 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T16:10:34.848311+00:00",
-  "total_articles": 51,
-  "urgent_count": 1,
+  "generated_at": "2026-05-06T17:02:20.347790+00:00",
+  "total_articles": 53,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "url": "https://play.templatical.com",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-06T16:20:00+00:00"
+    },
     {
       "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
       "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 39,
+      "count": 41,
       "top_items": [
         {
           "title": "DNSSEC disruption affecting .de domains – Resolved",
           "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-          "score": 719,
+          "score": 724,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T20:16:35+00:00"
@@ -34,17 +41,9 @@
           "date": "2026-05-06T10:28:40+00:00"
         },
         {
-          "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "score": 635,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-05T16:14:17+00:00"
-        },
-        {
           "title": "StarFighter 16-Inch",
           "url": "https://us.starlabs.systems/pages/starfighter",
-          "score": 543,
+          "score": 572,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T02:03:44+00:00"
@@ -52,10 +51,18 @@
         {
           "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
           "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-          "score": 519,
+          "score": 541,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T03:10:33+00:00"
+        },
+        {
+          "title": "Write some software, give it away for free",
+          "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+          "score": 339,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-05T21:26:50+00:00"
         }
       ]
     },
