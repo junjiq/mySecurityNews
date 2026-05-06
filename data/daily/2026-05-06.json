@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:02:18.950902+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-05-06T07:23:43.734382+00:00",
+  "total_articles": 53,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -9,18 +9,18 @@
       "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "severity": "critical",
       "source": "zennqiita",
-      "date": "2026-05-06T04:23:23+09:00"
+      "date": "2026-05-06T15:44:14+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 43,
       "top_items": [
         {
           "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
           "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-          "score": 1357,
+          "score": 1396,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:34:55+00:00"
@@ -28,7 +28,7 @@
         {
           "title": ".de TLD offline due to DNSSEC?",
           "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-          "score": 591,
+          "score": 624,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T20:16:35+00:00"
@@ -36,10 +36,18 @@
         {
           "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "score": 521,
+          "score": 537,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T16:14:17+00:00"
+        },
+        {
+          "title": "Three Inverse Laws of AI",
+          "url": "https://susam.net/inverse-laws-of-robotics.html",
+          "score": 425,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-05T15:27:18+00:00"
         },
         {
           "title": "Async Rust never left the MVP state",
@@ -48,21 +56,21 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:26:03+00:00"
-        },
-        {
-          "title": "Three Inverse Laws of AI",
-          "url": "https://susam.net/inverse-laws-of-robotics.html",
-          "score": 407,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-05T15:27:18+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
+        {
+          "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
+          "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": "critical",
+          "date": "2026-05-06T15:44:14+09:00"
+        },
         {
           "title": "【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】",
           "url": "https://qiita.com/pmpm_nk/items/b74198e39c2cbad358e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,14 +78,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-06T07:05:14+09:00"
-        },
-        {
-          "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-          "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "critical",
-          "date": "2026-05-06T04:23:23+09:00"
         },
         {
           "title": "【Delphi】インターネットから DL したファイルを開こうとすると出る警告を消す",
