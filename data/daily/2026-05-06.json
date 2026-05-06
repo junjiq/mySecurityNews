@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T01:36:31.165125+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-05-06T03:07:51.830371+00:00",
+  "total_articles": 60,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 46,
       "top_items": [
         {
           "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
           "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-          "score": 1244,
+          "score": 1276,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:34:55+00:00"
@@ -42,7 +42,7 @@
         {
           "title": ".de TLD offline due to DNSSEC?",
           "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-          "score": 526,
+          "score": 553,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T20:16:35+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "score": 446,
+          "score": 469,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T16:14:17+00:00"
@@ -64,18 +64,18 @@
           "date": "2026-05-05T07:26:03+00:00"
         },
         {
-          "title": "Train Your Own LLM from Scratch",
-          "url": "https://github.com/angelos-p/llm-from-scratch",
-          "score": 369,
+          "title": "Three Inverse Laws of AI",
+          "url": "https://susam.net/inverse-laws-of-robotics.html",
+          "score": 377,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-05T04:09:17+00:00"
+          "date": "2026-05-05T15:27:18+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 12,
       "top_items": [
         {
           "title": "【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】",
