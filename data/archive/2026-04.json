@@ -1,50 +1,20 @@
 {
   "month": "2026-04",
-  "generated_at": "2026-05-06T17:02:20.388713+00:00",
-  "total_articles": 9,
+  "generated_at": "2026-05-06T18:01:16.273989+00:00",
+  "total_articles": 5,
   "source_counts": {
-    "hn": 5,
     "zennqiita": 2,
-    "project": 2
+    "project": 2,
+    "hn": 1
   },
-  "severity_counts": {
-    "high": 1
-  },
+  "severity_counts": {},
   "top_articles": [
-    {
-      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
-      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-      "score": 129,
-      "source": "hn",
-      "date": "2026-04-30T22:48:51+00:00"
-    },
-    {
-      "title": "Group averages obscure how an individual's brain controls behavior: study",
-      "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
-      "score": 97,
-      "source": "hn",
-      "date": "2026-04-30T22:35:36+00:00"
-    },
-    {
-      "title": "San Francisco streets with confusingly similar names",
-      "url": "https://j-nelson.net/san-francisco-streets-with-similar-names/",
-      "score": 27,
-      "source": "hn",
-      "date": "2026-04-30T22:25:16+00:00"
-    },
     {
       "title": "Simple and correct snapshot isolation",
       "url": "https://remy.wang/blog/si.html",
       "score": 21,
       "source": "hn",
       "date": "2026-04-30T23:54:36+00:00"
-    },
-    {
-      "title": "AI discovery reveals DNA isn’t locked away in cells after all",
-      "url": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
-      "score": 11,
-      "source": "hn",
-      "date": "2026-04-30T22:45:44+00:00"
     },
     {
       "title": "Hack The Box: Shocker Machine Writeup",
@@ -54,13 +24,5 @@
       "date": "2026-04-09T16:43:11Z"
     }
   ],
-  "security_highlights": [
-    {
-      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
-      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-04-30T22:48:51+00:00"
-    }
-  ]
+  "security_highlights": []
 }
