@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T20:04:27.721633+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-05-06T20:55:56.394889+00:00",
+  "total_articles": 59,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -32,12 +32,12 @@
       "count": 45,
       "top_items": [
         {
-          "title": "DNSSEC disruption affecting .de domains – Resolved",
-          "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+          "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+          "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
           "score": 724,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-05T20:16:35+00:00"
+          "date": "2026-05-06T15:44:13+00:00"
         },
         {
           "title": "Show HN: Red Squares – GitHub outages as contributions",
@@ -46,14 +46,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T10:28:40+00:00"
-        },
-        {
-          "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-          "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-          "score": 640,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-06T15:44:13+00:00"
         },
         {
           "title": "StarFighter 16-Inch",
@@ -70,12 +62,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T03:10:33+00:00"
+        },
+        {
+          "title": "Appearing productive in the workplace",
+          "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+          "score": 399,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-06T16:18:29+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 14,
       "top_items": [
         {
           "title": "ラズベリーパイ用　24V入力　UPS基板作ってみた",
@@ -84,6 +84,22 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-06T20:56:54+09:00"
+        },
+        {
+          "title": "React + Python + Supabase で AI 株価予測 × ポートフォリオ最適化のフルスタックアプリを作ってみた",
+          "url": "https://qiita.com/tetsu3-accord/items/6807dc6c7d2543ac19d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-06T17:00:05+09:00"
+        },
+        {
+          "title": "【公式】レトロゲームエンジンPyxelが動く仕組み",
+          "url": "https://qiita.com/kitao/items/5361d45554872a39da92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-06T16:44:51+09:00"
         },
         {
           "title": "AWSのハーネスエンジニアリングを使って簡単にAIエージェントを構築しよう！(Amazon Bedrock Agentcore Harness)",
@@ -100,22 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-06T15:53:32+09:00"
-        },
-        {
-          "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-          "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "critical",
-          "date": "2026-05-06T15:44:14+09:00"
-        },
-        {
-          "title": "[Frontend Performance - Part 12] React最適化の完成：再レンダリング・メモ化・State設計を完全制覇",
-          "url": "https://qiita.com/tuanphan/items/b05513ade79cef735f90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-06T12:47:34+09:00"
         }
       ]
     }
