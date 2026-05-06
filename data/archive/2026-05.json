@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-06T03:07:51.870651+00:00",
-  "total_articles": 398,
+  "generated_at": "2026-05-06T04:41:21.380113+00:00",
+  "total_articles": 404,
   "source_counts": {
-    "hn": 320,
+    "hn": 326,
     "zennqiita": 75,
     "project": 3
   },
   "severity_counts": {
+    "medium": 3,
     "critical": 14,
-    "high": 7,
-    "medium": 2
+    "high": 7
   },
   "top_articles": [
     {
@@ -30,7 +30,7 @@
     {
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 1276,
+      "score": 1326,
       "source": "hn",
       "date": "2026-05-05T07:34:55+00:00"
     },
@@ -77,18 +77,18 @@
       "date": "2026-05-02T17:32:29+00:00"
     },
     {
+      "title": ".de TLD offline due to DNSSEC?",
+      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "score": 572,
+      "source": "hn",
+      "date": "2026-05-05T20:16:35+00:00"
+    },
+    {
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
       "score": 568,
       "source": "hn",
       "date": "2026-05-01T20:06:59+00:00"
-    },
-    {
-      "title": ".de TLD offline due to DNSSEC?",
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 553,
-      "source": "hn",
-      "date": "2026-05-05T20:16:35+00:00"
     },
     {
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
@@ -112,6 +112,13 @@
       "date": "2026-05-01T08:43:45+00:00"
     },
     {
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "score": 500,
+      "source": "hn",
+      "date": "2026-05-05T16:14:17+00:00"
+    },
+    {
       "title": "Trademark violation: Fake Notepad++ for Mac",
       "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
       "score": 498,
@@ -131,13 +138,6 @@
       "score": 473,
       "source": "hn",
       "date": "2026-05-02T17:40:55+00:00"
-    },
-    {
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 469,
-      "source": "hn",
-      "date": "2026-05-05T16:14:17+00:00"
     },
     {
       "title": "This Month in Ladybird – April 2026",

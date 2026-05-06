@@ -1,8 +1,8 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T03:07:51.830371+00:00",
-  "total_articles": 60,
-  "urgent_count": 3,
+  "generated_at": "2026-05-06T04:41:21.337332+00:00",
+  "total_articles": 56,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
@@ -10,31 +10,17 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-05-06T04:23:23+09:00"
-    },
-    {
-      "title": "Kids bypass age verification with fake moustaches",
-      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-05T04:36:24+00:00"
-    },
-    {
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-05T03:43:08+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 43,
       "top_items": [
         {
           "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
           "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-          "score": 1276,
+          "score": 1326,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T07:34:55+00:00"
@@ -42,7 +28,7 @@
         {
           "title": ".de TLD offline due to DNSSEC?",
           "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-          "score": 553,
+          "score": 572,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T20:16:35+00:00"
@@ -50,7 +36,7 @@
         {
           "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "score": 469,
+          "score": 500,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T16:14:17+00:00"
@@ -66,7 +52,7 @@
         {
           "title": "Three Inverse Laws of AI",
           "url": "https://susam.net/inverse-laws-of-robotics.html",
-          "score": 377,
+          "score": 392,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T15:27:18+00:00"
@@ -75,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "【個人開発：制作期間1ヶ月】自分の美容（髪型・ヘアカラー・ネイルなど）を記録し、予算も管理するアプリを作成しました！【React/TypeScript/Supabase/Firebase】",
