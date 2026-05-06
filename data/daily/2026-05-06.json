@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T12:08:54.100828+00:00",
-  "total_articles": 63,
+  "generated_at": "2026-05-06T13:05:44.513449+00:00",
+  "total_articles": 59,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 44,
       "top_items": [
         {
           "title": "DNSSEC disruption affecting .de domains – Resolved",
           "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-          "score": 690,
+          "score": 695,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T20:16:35+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "score": 597,
+          "score": 605,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T16:14:17+00:00"
@@ -36,26 +36,26 @@
         {
           "title": "Three Inverse Laws of AI",
           "url": "https://susam.net/inverse-laws-of-robotics.html",
-          "score": 467,
+          "score": 475,
           "source": "hn",
           "severity": null,
           "date": "2026-05-05T15:27:18+00:00"
         },
         {
-          "title": "Computer Use is 45x more expensive than structured APIs",
-          "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-          "score": 415,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-05T16:34:48+00:00"
-        },
-        {
           "title": "StarFighter 16-Inch",
           "url": "https://us.starlabs.systems/pages/starfighter",
-          "score": 411,
+          "score": 450,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T02:03:44+00:00"
+        },
+        {
+          "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+          "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+          "score": 435,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-06T03:10:33+00:00"
         }
       ]
     },
