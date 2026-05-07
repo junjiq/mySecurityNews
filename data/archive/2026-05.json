@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-07T22:24:16.878525+00:00",
+  "generated_at": "2026-05-07T22:48:50.689596+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 362,
@@ -8,8 +8,8 @@
     "project": 2
   },
   "severity_counts": {
-    "high": 7,
     "critical": 13,
+    "high": 7,
     "medium": 1
   },
   "top_articles": [
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-07T22:22:21+00:00"
+    },
+    {
       "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
       "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
       "severity": "high",
@@ -287,13 +294,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-05-02T18:07:45+09:00"
-    },
-    {
-      "title": "Show HN: Hollow is an open-sourced self-modifying agentic system",
-      "url": "https://github.com/ninjahawk/hollow-agentOS",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-02T07:43:29+00:00"
     }
   ]
 }
