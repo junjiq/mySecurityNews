@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-07T23:20:03.896799+00:00",
+  "generated_at": "2026-05-07T23:48:06.052494+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 362,
-    "zennqiita": 86,
+    "hn": 363,
+    "zennqiita": 85,
     "project": 2
   },
   "severity_counts": {
     "critical": 13,
-    "high": 7,
+    "high": 6,
     "medium": 1
   },
   "top_articles": [
@@ -287,13 +287,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-02T11:51:31+00:00"
-    },
-    {
-      "title": "CVE-2026-31431 Copy Fail と Proxmox",
-      "url": "https://qiita.com/oishi-d/items/1c392b33777df39232b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-05-02T18:07:45+09:00"
     }
   ]
 }
