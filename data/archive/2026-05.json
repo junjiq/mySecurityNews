@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-07T00:37:12.522546+00:00",
+  "generated_at": "2026-05-07T01:37:13.190437+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 369,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 17,
     "medium": 3,
     "high": 6
   },
@@ -37,7 +37,7 @@
     {
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 995,
+      "score": 1050,
       "source": "hn",
       "date": "2026-05-06T15:44:13+00:00"
     },
@@ -47,6 +47,13 @@
       "score": 724,
       "source": "hn",
       "date": "2026-05-05T20:16:35+00:00"
+    },
+    {
+      "title": "Appearing productive in the workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "score": 705,
+      "source": "hn",
+      "date": "2026-05-06T16:18:29+00:00"
     },
     {
       "title": "Why does it take so long to release black fan versions?",
@@ -82,13 +89,6 @@
       "score": 656,
       "source": "hn",
       "date": "2026-05-04T09:31:12+00:00"
-    },
-    {
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 653,
-      "source": "hn",
-      "date": "2026-05-06T16:18:29+00:00"
     },
     {
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
@@ -147,14 +147,21 @@
       "date": "2026-05-04T15:10:41+00:00"
     },
     {
-      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-      "url": "https://github.com/darrylmorley/whatcable",
-      "score": 506,
+      "title": "The bottleneck was never the code",
+      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+      "score": 507,
       "source": "hn",
-      "date": "2026-05-01T08:43:45+00:00"
+      "date": "2026-05-04T10:46:15+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "How I made $350K from an open-source JavaScript library using dual licensing",
+      "url": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-07T00:47:15+00:00"
+    },
     {
       "title": "Going Full Time on Open Source",
       "url": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
