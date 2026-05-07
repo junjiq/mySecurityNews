@@ -1,8 +1,8 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T16:13:45.532735+00:00",
-  "total_articles": 62,
-  "urgent_count": 4,
+  "generated_at": "2026-05-07T17:08:06.011091+00:00",
+  "total_articles": 58,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "How I made $350K from an open-source JavaScript library using dual licensing",
@@ -19,13 +19,6 @@
       "date": "2026-05-06T17:22:49+00:00"
     },
     {
-      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-      "url": "https://play.templatical.com",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-06T16:20:00+00:00"
-    },
-    {
       "title": "Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
       "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
       "severity": "high",
@@ -36,31 +29,15 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 50,
       "top_items": [
-        {
-          "title": "Appearing productive in the workplace",
-          "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-          "score": 1436,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-06T16:18:29+00:00"
-        },
         {
           "title": "SQLite Is a Library of Congress Recommended Storage Format",
           "url": "https://sqlite.org/locrsf.html",
-          "score": 485,
+          "score": 505,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T21:58:43+00:00"
-        },
-        {
-          "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-          "url": "https://www.anthropic.com/news/higher-limits-spacex",
-          "score": 382,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-06T16:17:33+00:00"
         },
         {
           "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
@@ -77,12 +54,28 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T11:10:24+00:00"
+        },
+        {
+          "title": "Programming Still Sucks",
+          "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+          "score": 334,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-06T19:06:41+00:00"
+        },
+        {
+          "title": "The map that keeps Burning Man honest",
+          "url": "https://www.not-ship.com/burning-man-moop/",
+          "score": 288,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-07T14:06:10+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 8,
       "top_items": [
         {
           "title": "(社内勉強会)第1回AIハッカソンを裏側から振り返る",

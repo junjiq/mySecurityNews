@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-07T16:13:45.569795+00:00",
+  "generated_at": "2026-05-07T17:08:06.054305+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 364,
@@ -9,14 +9,14 @@
   },
   "severity_counts": {
     "high": 7,
-    "critical": 16,
-    "medium": 2
+    "critical": 15,
+    "medium": 1
   },
   "top_articles": [
     {
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1635,
+      "score": 1647,
       "source": "hn",
       "date": "2026-05-06T15:44:13+00:00"
     },
@@ -30,7 +30,7 @@
     {
       "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1436,
+      "score": 1452,
       "source": "hn",
       "date": "2026-05-06T16:18:29+00:00"
     },
@@ -58,7 +58,7 @@
     {
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 706,
+      "score": 716,
       "source": "hn",
       "date": "2026-05-06T15:06:37+00:00"
     },
@@ -133,13 +133,6 @@
       "date": "2026-05-02T17:32:29+00:00"
     },
     {
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 568,
-      "source": "hn",
-      "date": "2026-05-01T20:06:59+00:00"
-    },
-    {
       "title": "The bottleneck was never the code",
       "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
       "score": 525,
@@ -152,6 +145,13 @@
       "score": 514,
       "source": "hn",
       "date": "2026-05-04T18:22:42+00:00"
+    },
+    {
+      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+      "score": 510,
+      "source": "hn",
+      "date": "2026-05-04T15:10:41+00:00"
     }
   ],
   "security_highlights": [
@@ -308,13 +308,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-01T23:24:10+00:00"
-    },
-    {
-      "title": "Credit cards are vulnerable to brute force kind attacks",
-      "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-01T20:26:24+00:00"
     }
   ]
 }
