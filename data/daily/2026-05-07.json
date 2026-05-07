@@ -1,7 +1,7 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T07:28:30.681798+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-05-07T08:22:51.797889+00:00",
+  "total_articles": 65,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 52,
       "top_items": [
         {
           "title": "Valve releases Steam Controller CAD files under Creative Commons license",
           "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-          "score": 1323,
+          "score": 1366,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T15:44:13+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Appearing productive in the workplace",
           "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-          "score": 1021,
+          "score": 1074,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T16:18:29+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "Vibe coding and agentic engineering are getting closer than I'd like",
           "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-          "score": 559,
+          "score": 571,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T15:06:37+00:00"
@@ -75,39 +75,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 13,
       "top_items": [
         {
-          "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
-          "url": "https://qiita.com/miruky/items/6fbb0c0e55835ea79e4d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "(社内勉強会)第1回AIハッカソンを裏側から振り返る",
+          "url": "https://qiita.com/MasakiShibata/items/c1338283f2d668078d6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-07T09:30:06+09:00"
+          "date": "2026-05-07T17:16:02+09:00"
         },
         {
-          "title": "ラズベリーパイ用　24V入力　UPS基板作ってみた",
-          "url": "https://qiita.com/RaspiKoubou/items/077cca5602e2f54044dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "React Router v7 入門 — 第1回：押さえておくべき基本",
+          "url": "https://qiita.com/nhatcaofedev/items/b7931e4bb7f51e1dccb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-06T20:56:54+09:00"
+          "date": "2026-05-07T16:11:09+09:00"
         },
         {
-          "title": "React + Python + Supabase で AI 株価予測 × ポートフォリオ最適化のフルスタックアプリを作ってみた",
-          "url": "https://qiita.com/tetsu3-accord/items/6807dc6c7d2543ac19d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "API課金ゼロで米国ニュース要約デスクトップアプリを作った（Tauri × ローカルLLM）",
+          "url": "https://qiita.com/chaochire/items/46df03c9c3bf56670e05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-06T17:00:05+09:00"
+          "date": "2026-05-07T12:37:20+09:00"
         },
         {
-          "title": "【公式】レトロゲームエンジンPyxelが動く仕組み",
-          "url": "https://qiita.com/kitao/items/5361d45554872a39da92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "[Frontend Performance - Part 13] 初期ロード最適化：Code SplittingとLazy Loading設計",
+          "url": "https://qiita.com/tuanphan/items/fb0e061b31545cb3c0c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-06T16:44:51+09:00"
+          "date": "2026-05-07T12:07:57+09:00"
+        },
+        {
+          "title": "Copilot StudioをClaude Code化したら、Copilot Studio自身でPower Platformを構築できた話",
+          "url": "https://qiita.com/katohiro_fi/items/9acccd181ca2f1a75f3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-07T11:36:12+09:00"
         }
       ]
     }
