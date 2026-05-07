@@ -1,8 +1,8 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T13:07:05.469576+00:00",
+  "generated_at": "2026-05-07T14:17:19.468276+00:00",
   "total_articles": 63,
-  "urgent_count": 3,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "How I made $350K from an open-source JavaScript library using dual licensing",
@@ -24,17 +24,24 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-06T16:20:00+00:00"
+    },
+    {
+      "title": "Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
+      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-07T13:25:31+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 53,
       "top_items": [
         {
           "title": "Valve releases Steam Controller CAD files under Creative Commons license",
           "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-          "score": 1538,
+          "score": 1597,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T15:44:13+00:00"
@@ -42,7 +49,7 @@
         {
           "title": "Appearing productive in the workplace",
           "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-          "score": 1326,
+          "score": 1380,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T16:18:29+00:00"
@@ -50,10 +57,18 @@
         {
           "title": "Vibe coding and agentic engineering are getting closer than I'd like",
           "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-          "score": 648,
+          "score": 670,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T15:06:37+00:00"
+        },
+        {
+          "title": "SQLite Is a Library of Congress Recommended Storage Format",
+          "url": "https://sqlite.org/locrsf.html",
+          "score": 422,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-06T21:58:43+00:00"
         },
         {
           "title": "Higher usage limits for Claude and a compute deal with SpaceX",
@@ -62,20 +77,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T16:17:33+00:00"
-        },
-        {
-          "title": "SQLite Is a Library of Congress Recommended Storage Format",
-          "url": "https://sqlite.org/locrsf.html",
-          "score": 371,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-06T21:58:43+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
         {
           "title": "(社内勉強会)第1回AIハッカソンを裏側から振り返る",

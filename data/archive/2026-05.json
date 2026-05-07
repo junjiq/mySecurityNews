@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-07T13:07:05.506820+00:00",
+  "generated_at": "2026-05-07T14:17:19.508236+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 364,
@@ -8,15 +8,15 @@
     "project": 2
   },
   "severity_counts": {
+    "high": 7,
     "critical": 16,
-    "medium": 2,
-    "high": 6
+    "medium": 2
   },
   "top_articles": [
     {
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1538,
+      "score": 1597,
       "source": "hn",
       "date": "2026-05-06T15:44:13+00:00"
     },
@@ -35,18 +35,18 @@
       "date": "2026-05-04T11:41:02+00:00"
     },
     {
+      "title": "Appearing productive in the workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "score": 1380,
+      "source": "hn",
+      "date": "2026-05-06T16:18:29+00:00"
+    },
+    {
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
       "url": "https://github.com/microsoft/vscode/pull/310226",
       "score": 1355,
       "source": "hn",
       "date": "2026-05-02T19:57:26+00:00"
-    },
-    {
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1326,
-      "source": "hn",
-      "date": "2026-05-06T16:18:29+00:00"
     },
     {
       "title": "DNSSEC disruption affecting .de domains – Resolved",
@@ -84,18 +84,18 @@
       "date": "2026-05-05T01:08:17+00:00"
     },
     {
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "score": 670,
+      "source": "hn",
+      "date": "2026-05-06T15:06:37+00:00"
+    },
+    {
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
       "score": 656,
       "source": "hn",
       "date": "2026-05-04T09:31:12+00:00"
-    },
-    {
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 648,
-      "source": "hn",
-      "date": "2026-05-06T15:06:37+00:00"
     },
     {
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
+      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-07T13:25:31+00:00"
+    },
     {
       "title": "How I made $350K from an open-source JavaScript library using dual licensing",
       "url": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
