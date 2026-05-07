@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-07T18:03:29.124881+00:00",
+  "generated_at": "2026-05-07T19:05:57.766723+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 366,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "high": 7,
-    "critical": 15,
+    "critical": 14,
     "medium": 1
   },
   "top_articles": [
@@ -135,7 +135,7 @@
     {
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "url": "https://sqlite.org/locrsf.html",
-      "score": 536,
+      "score": 560,
       "source": "hn",
       "date": "2026-05-06T21:58:43+00:00"
     },
@@ -156,7 +156,7 @@
   ],
   "security_highlights": [
     {
-      "title": "Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
+      "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
       "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
       "severity": "high",
       "source": "hn",
@@ -301,13 +301,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-02T07:42:29+00:00"
-    },
-    {
-      "title": "A report on burnout in open source software communities (2025) [pdf]",
-      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-01T23:24:10+00:00"
     }
   ]
 }
