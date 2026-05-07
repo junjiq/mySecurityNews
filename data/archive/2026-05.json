@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-07T01:37:13.190437+00:00",
+  "generated_at": "2026-05-07T03:08:27.725929+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 369,
-    "zennqiita": 79,
+    "hn": 370,
+    "zennqiita": 78,
     "project": 2
   },
   "severity_counts": {
-    "critical": 17,
+    "critical": 16,
     "medium": 3,
     "high": 6
   },
@@ -37,9 +37,16 @@
     {
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1050,
+      "score": 1118,
       "source": "hn",
       "date": "2026-05-06T15:44:13+00:00"
+    },
+    {
+      "title": "Appearing productive in the workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "score": 771,
+      "source": "hn",
+      "date": "2026-05-06T16:18:29+00:00"
     },
     {
       "title": "DNSSEC disruption affecting .de domains – Resolved",
@@ -47,13 +54,6 @@
       "score": 724,
       "source": "hn",
       "date": "2026-05-05T20:16:35+00:00"
-    },
-    {
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 705,
-      "source": "hn",
-      "date": "2026-05-06T16:18:29+00:00"
     },
     {
       "title": "Why does it take so long to release black fan versions?",
@@ -133,6 +133,13 @@
       "date": "2026-05-01T20:06:59+00:00"
     },
     {
+      "title": "The bottleneck was never the code",
+      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+      "score": 525,
+      "source": "hn",
+      "date": "2026-05-04T10:46:15+00:00"
+    },
+    {
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
       "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
       "score": 514,
@@ -145,13 +152,6 @@
       "score": 510,
       "source": "hn",
       "date": "2026-05-04T15:10:41+00:00"
-    },
-    {
-      "title": "The bottleneck was never the code",
-      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "score": 507,
-      "source": "hn",
-      "date": "2026-05-04T10:46:15+00:00"
     }
   ],
   "security_highlights": [
@@ -308,13 +308,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-01T20:26:24+00:00"
-    },
-    {
-      "title": "A beginner's guide to Sourcehut (2025)",
-      "url": "https://btxx.org/posts/beginners-guide-sourcehut/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-01T10:23:52+00:00"
     }
   ]
 }
