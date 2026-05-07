@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-07T17:08:05.941467+00:00",
+  "updated_at": "2026-05-07T18:03:29.023408+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48051873",
+      "source": "hn",
+      "title": "California leaders report four to six weeks worth of gasoline and diesel supply",
+      "url": "https://kmph.com/news/local/california-leaders-report-four-to-six-weeks-worth-of-gasoline-and-diesel-in-supply",
+      "score": 73,
+      "comments": 99,
+      "author": "cdrnsf",
+      "tags": [],
+      "date": "2026-05-07T17:06:00+00:00"
+    },
     {
       "id": "hn-48051562",
       "source": "hn",
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 6,
-      "comments": 0,
+      "score": 49,
+      "comments": 14,
       "author": "bsuh",
       "tags": [],
       "date": "2026-05-07T16:43:35+00:00"
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
       "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-      "score": 56,
-      "comments": 6,
+      "score": 130,
+      "comments": 30,
       "author": "newsoftheday",
       "tags": [],
       "date": "2026-05-07T15:56:33+00:00"
@@ -40,19 +51,30 @@
       "source": "hn",
       "title": "DeepSeek 4 Flash local inference engine for Metal",
       "url": "https://github.com/antirez/ds4",
-      "score": 5,
-      "comments": 1,
+      "score": 65,
+      "comments": 14,
       "author": "tamnd",
       "tags": [],
       "date": "2026-05-07T15:40:24+00:00"
+    },
+    {
+      "id": "hn-48050732",
+      "source": "hn",
+      "title": "Show HN: Stage CLI – a tool to make reading your AI generated changes easier",
+      "url": "https://github.com/ReviewStage/stage-cli",
+      "score": 6,
+      "comments": 1,
+      "author": "cpan22",
+      "tags": [],
+      "date": "2026-05-07T15:38:36+00:00"
     },
     {
       "id": "hn-48050540",
       "source": "hn",
       "title": "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
       "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-      "score": 83,
-      "comments": 47,
+      "score": 129,
+      "comments": 107,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-07T15:23:23+00:00"
@@ -62,8 +84,8 @@
       "source": "hn",
       "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 106,
-      "comments": 29,
+      "score": 144,
+      "comments": 38,
       "author": "berlianta",
       "tags": [],
       "date": "2026-05-07T15:02:20+00:00"
@@ -73,8 +95,8 @@
       "source": "hn",
       "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
       "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
-      "score": 22,
-      "comments": 3,
+      "score": 31,
+      "comments": 11,
       "author": "mondainx",
       "tags": [],
       "date": "2026-05-07T14:32:25+00:00"
@@ -84,8 +106,8 @@
       "source": "hn",
       "title": "The Self-Cancelling Subscription",
       "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
-      "score": 59,
-      "comments": 26,
+      "score": 82,
+      "comments": 38,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-07T14:15:16+00:00"
@@ -95,8 +117,8 @@
       "source": "hn",
       "title": "The map that keeps Burning Man honest",
       "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 288,
-      "comments": 109,
+      "score": 336,
+      "comments": 141,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-07T14:06:10+00:00"
@@ -106,8 +128,8 @@
       "source": "hn",
       "title": "Child marriages plunged when girls stayed in school in Nigeria",
       "url": "https://www.nature.com/articles/d41586-026-00796-2",
-      "score": 163,
-      "comments": 96,
+      "score": 225,
+      "comments": 143,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-07T13:30:04+00:00"
@@ -162,8 +184,8 @@
       "source": "hn",
       "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
       "url": "https://ahk.cardor.dev",
-      "score": 56,
-      "comments": 17,
+      "score": 59,
+      "comments": 18,
       "author": "enmanuelmag",
       "tags": [],
       "date": "2026-05-07T10:45:59+00:00"
@@ -289,7 +311,7 @@
       "source": "hn",
       "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
       "url": "https://aniket.foo/posts/20260505-netboot/",
-      "score": 162,
+      "score": 171,
       "comments": 89,
       "author": "stereo-highway",
       "tags": [],
@@ -386,8 +408,8 @@
       "source": "hn",
       "title": "RSS feeds send me more traffic than Google",
       "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-      "score": 221,
-      "comments": 49,
+      "score": 236,
+      "comments": 52,
       "author": "SpyCoder77",
       "tags": [],
       "date": "2026-05-07T00:40:06+00:00"
@@ -487,8 +509,8 @@
       "source": "hn",
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "url": "https://sqlite.org/locrsf.html",
-      "score": 505,
-      "comments": 159,
+      "score": 536,
+      "comments": 161,
       "author": "whatisabcdefgh",
       "tags": [],
       "date": "2026-05-06T21:58:43+00:00"
@@ -564,8 +586,8 @@
       "source": "hn",
       "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
       "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
-      "score": 11,
-      "comments": 2,
+      "score": 22,
+      "comments": 4,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-06T19:21:18+00:00"
@@ -746,8 +768,8 @@
       "source": "hn",
       "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1452,
-      "comments": 591,
+      "score": 1479,
+      "comments": 599,
       "author": "diebillionaires",
       "tags": [],
       "date": "2026-05-06T16:18:29+00:00"
@@ -779,8 +801,8 @@
       "source": "hn",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1647,
-      "comments": 553,
+      "score": 1661,
+      "comments": 560,
       "author": "haunter",
       "tags": [],
       "date": "2026-05-06T15:44:13+00:00"
@@ -1280,6 +1302,17 @@
       "date": "2026-05-06T08:26:46+09:00"
     },
     {
+      "id": "hn-48029732",
+      "source": "hn",
+      "title": "Printing Blogs",
+      "url": "https://fi-le.net/print/",
+      "score": 9,
+      "comments": 1,
+      "author": "fi-le",
+      "tags": [],
+      "date": "2026-05-05T22:41:08+00:00"
+    },
+    {
       "id": "hn-48029334",
       "source": "hn",
       "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
@@ -1431,8 +1464,8 @@
       "source": "hn",
       "title": "PySimpleGUI 6",
       "url": "https://github.com/PySimpleGUI/PySimpleGUI",
-      "score": 17,
-      "comments": 2,
+      "score": 35,
+      "comments": 10,
       "author": "geophph",
       "tags": [],
       "date": "2026-05-05T18:18:42+00:00"
@@ -2246,8 +2279,8 @@
       "source": "hn",
       "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
       "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "score": 141,
-      "comments": 64,
+      "score": 147,
+      "comments": 66,
       "author": "suoken",
       "tags": [],
       "date": "2026-05-04T20:28:24+00:00"
@@ -2356,7 +2389,7 @@
       "source": "hn",
       "title": "Speedup in Lattice Boltzmann Cylinder Flow",
       "url": "https://github.com/alikamp/Parks-KPBM-Scaling",
-      "score": 32,
+      "score": 38,
       "comments": 3,
       "author": "kauai1",
       "tags": [],
@@ -2478,8 +2511,8 @@
       "source": "hn",
       "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
       "url": "https://ratex.lites.dev/",
-      "score": 105,
-      "comments": 58,
+      "score": 116,
+      "comments": 69,
       "author": "atilimcetin",
       "tags": [],
       "date": "2026-05-04T16:19:31+00:00"
@@ -2621,8 +2654,8 @@
       "source": "hn",
       "title": "Indian matchbox labels as a visual archive",
       "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-      "score": 113,
-      "comments": 27,
+      "score": 128,
+      "comments": 28,
       "author": "sahar_builds",
       "tags": [],
       "date": "2026-05-04T14:08:27+00:00"
@@ -5111,43 +5144,6 @@
       "tags": [],
       "date": "2026-05-01T23:24:10+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "qiita-69771690f1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Copilot】AI駆動開発では役割を分けて、トークン節約をする【IBM Bob】",
-      "url": "https://qiita.com/m_koishikawa/items/38f3d84b8c71cf670b6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "m_koishikawa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-02T08:16:40+09:00"
-    },
-    {
-      "id": "hn-47981227",
-      "source": "hn",
-      "title": "The Road to a Billion-Token Context",
-      "url": "https://cacm.acm.org/news/the-road-to-a-billion-token-context/",
-      "score": 36,
-      "comments": 35,
-      "author": "pseudolus",
-      "tags": [],
-      "date": "2026-05-01T22:28:04+00:00"
-    },
-    {
-      "id": "qiita-5fbcc8407a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Copilot Studio の SharePoint リスト関連アップデート (2026 年 4 月時点)",
-      "url": "https://qiita.com/Takashi_Masumori/items/89ca0b1e76cf82ee4bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Takashi_Masumori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-02T06:45:40+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

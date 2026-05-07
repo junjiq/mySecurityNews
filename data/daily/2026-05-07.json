@@ -1,8 +1,8 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T17:08:06.011091+00:00",
-  "total_articles": 58,
-  "urgent_count": 3,
+  "generated_at": "2026-05-07T18:03:29.083661+00:00",
+  "total_articles": 56,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "How I made $350K from an open-source JavaScript library using dual licensing",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-07T00:47:15+00:00"
-    },
-    {
-      "title": "Going Full Time on Open Source",
-      "url": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-06T17:22:49+00:00"
     },
     {
       "title": "Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
@@ -29,23 +22,15 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 48,
       "top_items": [
         {
           "title": "SQLite Is a Library of Congress Recommended Storage Format",
           "url": "https://sqlite.org/locrsf.html",
-          "score": 505,
+          "score": 536,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T21:58:43+00:00"
-        },
-        {
-          "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-          "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-          "score": 362,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-06T17:59:33+00:00"
         },
         {
           "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
@@ -56,6 +41,14 @@
           "date": "2026-05-07T11:10:24+00:00"
         },
         {
+          "title": "The map that keeps Burning Man honest",
+          "url": "https://www.not-ship.com/burning-man-moop/",
+          "score": 336,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-07T14:06:10+00:00"
+        },
+        {
           "title": "Programming Still Sucks",
           "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
           "score": 334,
@@ -64,12 +57,12 @@
           "date": "2026-05-06T19:06:41+00:00"
         },
         {
-          "title": "The map that keeps Burning Man honest",
-          "url": "https://www.not-ship.com/burning-man-moop/",
-          "score": 288,
+          "title": "Inkscape 1.4.4",
+          "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+          "score": 248,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-07T14:06:10+00:00"
+          "date": "2026-05-06T19:33:25+00:00"
         }
       ]
     },
