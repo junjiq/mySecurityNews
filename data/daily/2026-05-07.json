@@ -1,8 +1,8 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T06:03:15.466023+00:00",
-  "total_articles": 59,
-  "urgent_count": 4,
+  "generated_at": "2026-05-07T07:28:30.681798+00:00",
+  "total_articles": 55,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "How I made $350K from an open-source JavaScript library using dual licensing",
@@ -24,24 +24,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-06T16:20:00+00:00"
-    },
-    {
-      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-05-06T15:44:14+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 51,
       "top_items": [
         {
           "title": "Valve releases Steam Controller CAD files under Creative Commons license",
           "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-          "score": 1249,
+          "score": 1323,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T15:44:13+00:00"
@@ -49,7 +42,7 @@
         {
           "title": "Appearing productive in the workplace",
           "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-          "score": 907,
+          "score": 1021,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T16:18:29+00:00"
@@ -65,7 +58,7 @@
         {
           "title": "Vibe coding and agentic engineering are getting closer than I'd like",
           "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-          "score": 514,
+          "score": 559,
           "source": "hn",
           "severity": null,
           "date": "2026-05-06T15:06:37+00:00"
@@ -82,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 4,
       "top_items": [
         {
           "title": "【徹底解説】セキュリティスペシャリストが教える、セキュアプログラミングの教科書",
@@ -115,14 +108,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-06T16:44:51+09:00"
-        },
-        {
-          "title": "AWSのハーネスエンジニアリングを使って簡単にAIエージェントを構築しよう！(Amazon Bedrock Agentcore Harness)",
-          "url": "https://qiita.com/tkazuaki0820/items/a0a84c38e2a88ba84a64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-06T16:26:45+09:00"
         }
       ]
     }
