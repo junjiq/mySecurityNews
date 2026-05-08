@@ -1,8 +1,8 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T12:31:06.749054+00:00",
+  "generated_at": "2026-05-08T13:35:13.843109+00:00",
   "total_articles": 60,
-  "urgent_count": 3,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Cloudflare to cut about 20% workforce",
@@ -17,13 +17,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-08T00:03:38+00:00"
-    },
-    {
-      "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
-      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-07T13:25:31+00:00"
     }
   ],
   "categories": [
@@ -34,7 +27,7 @@
         {
           "title": "Cloudflare to cut about 20% workforce",
           "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-          "score": 876,
+          "score": 949,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-07T20:23:37+00:00"
@@ -42,10 +35,18 @@
         {
           "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
           "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-          "score": 736,
+          "score": 780,
           "source": "hn",
           "severity": "medium",
           "date": "2026-05-07T22:22:21+00:00"
+        },
+        {
+          "title": "Dirtyfrag: Universal Linux LPE",
+          "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+          "score": 698,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-07T19:21:32+00:00"
         },
         {
           "title": "AI slop is killing online communities",
@@ -56,17 +57,9 @@
           "date": "2026-05-07T18:46:25+00:00"
         },
         {
-          "title": "Dirtyfrag: Universal Linux LPE",
-          "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-          "score": 681,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-07T19:21:32+00:00"
-        },
-        {
           "title": "The map that keeps Burning Man honest",
           "url": "https://www.not-ship.com/burning-man-moop/",
-          "score": 674,
+          "score": 687,
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T14:06:10+00:00"
