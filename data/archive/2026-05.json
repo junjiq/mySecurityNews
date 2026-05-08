@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-08T20:48:23.666157+00:00",
+  "generated_at": "2026-05-08T21:23:50.565171+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 357,
-    "zennqiita": 91,
+    "hn": 358,
+    "zennqiita": 90,
     "project": 2
   },
   "severity_counts": {
     "high": 9,
     "medium": 3,
-    "critical": 11
+    "critical": 10
   },
   "top_articles": [
     {
@@ -44,21 +44,21 @@
     {
       "title": "Cloudflare to cut about 20% of its workforce",
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 1240,
+      "score": 1255,
       "source": "hn",
       "date": "2026-05-07T20:23:37+00:00"
     },
     {
       "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 889,
+      "score": 890,
       "source": "hn",
       "date": "2026-05-07T22:22:21+00:00"
     },
     {
       "title": "Poland is now among the 20 largest economies",
       "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 796,
+      "score": 816,
       "source": "hn",
       "date": "2026-05-08T12:30:05+00:00"
     },
@@ -140,23 +140,23 @@
       "date": "2026-05-05T16:14:17+00:00"
     },
     {
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "score": 614,
+      "source": "hn",
+      "date": "2026-05-08T13:56:10+00:00"
+    },
+    {
       "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
       "url": "https://github.com/aattaran/deepclaude",
       "score": 603,
       "source": "hn",
       "date": "2026-05-03T22:13:20+00:00"
-    },
-    {
-      "title": "StarFighter 16-Inch",
-      "url": "https://us.starlabs.systems/pages/starfighter",
-      "score": 596,
-      "source": "hn",
-      "date": "2026-05-06T02:03:44+00:00"
     }
   ],
   "security_highlights": [
     {
-      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "severity": "high",
       "source": "hn",
@@ -287,13 +287,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-03T09:18:25+00:00"
-    },
-    {
-      "title": "Open source does not imply open community",
-      "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-03T02:36:09+00:00"
     }
   ]
 }
