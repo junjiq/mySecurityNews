@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-08T21:23:50.457601+00:00",
+  "updated_at": "2026-05-08T21:48:37.073586+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48068947",
+      "source": "hn",
+      "title": "Non-determinism is an issue with patching CVEs",
+      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+      "score": 10,
+      "comments": 3,
+      "author": "mathewpregasen",
+      "tags": [],
+      "date": "2026-05-08T21:23:07+00:00",
+      "severity": "high"
+    },
     {
       "id": "hn-48068732",
       "source": "hn",
@@ -40,8 +52,8 @@
       "source": "hn",
       "title": "Roadside Attraction",
       "url": "https://theoffingmag.com/essay/roadside-attraction/",
-      "score": 10,
-      "comments": 1,
+      "score": 11,
+      "comments": 3,
       "author": "aways",
       "tags": [],
       "date": "2026-05-08T19:43:04+00:00"
@@ -51,8 +63,8 @@
       "source": "hn",
       "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
       "url": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 43,
-      "comments": 27,
+      "score": 57,
+      "comments": 30,
       "author": "MrBruh",
       "tags": [],
       "date": "2026-05-08T19:40:39+00:00"
@@ -62,8 +74,8 @@
       "source": "hn",
       "title": "My first in-prod corrupted hard drive problem",
       "url": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
-      "score": 24,
-      "comments": 16,
+      "score": 28,
+      "comments": 20,
       "author": "r1chk1t",
       "tags": [],
       "date": "2026-05-08T19:35:36+00:00"
@@ -82,10 +94,10 @@
     {
       "id": "hn-48067119",
       "source": "hn",
-      "title": "Google Broke reCAPTCHA for De-Googled Android Users",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 124,
-      "comments": 36,
+      "score": 152,
+      "comments": 43,
       "author": "anonymousiam",
       "tags": [],
       "date": "2026-05-08T18:45:58+00:00"
@@ -95,8 +107,8 @@
       "source": "hn",
       "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 115,
-      "comments": 55,
+      "score": 137,
+      "comments": 60,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-08T17:55:08+00:00",
@@ -107,8 +119,8 @@
       "source": "hn",
       "title": "Apple, Intel have reached preliminary chip-making deal",
       "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
-      "score": 157,
-      "comments": 99,
+      "score": 164,
+      "comments": 107,
       "author": "scrlk",
       "tags": [],
       "date": "2026-05-08T17:25:21+00:00"
@@ -129,7 +141,7 @@
       "source": "hn",
       "title": "Cartoon Network Flash Games",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 213,
+      "score": 222,
       "comments": 68,
       "author": "willmeyers",
       "tags": [],
@@ -153,8 +165,8 @@
       "source": "hn",
       "title": "Show HN: GETadb.com – every GET request creates a DB",
       "url": "https://www.getadb.com/",
-      "score": 16,
-      "comments": 12,
+      "score": 19,
+      "comments": 17,
       "author": "nezaj",
       "tags": [],
       "date": "2026-05-08T16:17:37+00:00"
@@ -164,8 +176,8 @@
       "source": "hn",
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory/",
-      "score": 169,
-      "comments": 69,
+      "score": 171,
+      "comments": 70,
       "author": "xngbuilds",
       "tags": [],
       "date": "2026-05-08T15:10:35+00:00"
@@ -186,8 +198,8 @@
       "source": "hn",
       "title": "PC Engine CPU",
       "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-      "score": 106,
-      "comments": 45,
+      "score": 108,
+      "comments": 46,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-08T14:14:31+00:00"
@@ -242,8 +254,8 @@
       "source": "hn",
       "title": "Poland is now among the 20 largest economies",
       "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 816,
-      "comments": 692,
+      "score": 827,
+      "comments": 699,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-08T12:30:05+00:00"
@@ -265,8 +277,8 @@
       "source": "hn",
       "title": "US Government releases first batch of UAP documents and videos",
       "url": "https://www.war.gov/UFO/",
-      "score": 181,
-      "comments": 286,
+      "score": 190,
+      "comments": 296,
       "author": "david-gpu",
       "tags": [],
       "date": "2026-05-08T12:10:25+00:00"
@@ -276,8 +288,8 @@
       "source": "hn",
       "title": "David Attenborough's 100th Birthday",
       "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 269,
-      "comments": 40,
+      "score": 296,
+      "comments": 50,
       "author": "defrost",
       "tags": [],
       "date": "2026-05-08T12:03:26+00:00"
@@ -287,8 +299,8 @@
       "source": "hn",
       "title": "An Introduction to Meshtastic",
       "url": "https://meshtastic.org/docs/introduction/",
-      "score": 329,
-      "comments": 130,
+      "score": 339,
+      "comments": 132,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-05-08T11:22:11+00:00"
@@ -447,6 +459,17 @@
       "date": "2026-05-08T12:41:42+09:00"
     },
     {
+      "id": "hn-48058197",
+      "source": "hn",
+      "title": "AWS says data center overheating in North Virginia disrupts services",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/",
+      "score": 21,
+      "comments": 1,
+      "author": "christhecaribou",
+      "tags": [],
+      "date": "2026-05-08T03:31:58+00:00"
+    },
+    {
       "id": "qiita-41e856ed22",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -464,8 +487,8 @@
       "source": "hn",
       "title": "Mojo 1.0 Beta",
       "url": "https://mojolang.org/",
-      "score": 232,
-      "comments": 158,
+      "score": 237,
+      "comments": 160,
       "author": "sbt567",
       "tags": [],
       "date": "2026-05-08T02:49:01+00:00"
@@ -609,8 +632,8 @@
       "source": "hn",
       "title": "Maybe you shouldn't install new software for a bit",
       "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 781,
-      "comments": 407,
+      "score": 799,
+      "comments": 423,
       "author": "psxuaw",
       "tags": [],
       "date": "2026-05-07T23:02:11+00:00"
@@ -656,7 +679,7 @@
       "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
       "score": 890,
-      "comments": 592,
+      "comments": 594,
       "author": "stefanpie",
       "tags": [],
       "date": "2026-05-07T22:22:21+00:00",
@@ -689,8 +712,8 @@
       "source": "hn",
       "title": "Cloudflare to cut about 20% of its workforce",
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 1255,
-      "comments": 889,
+      "score": 1264,
+      "comments": 897,
       "author": "PriorityLeft",
       "tags": [],
       "date": "2026-05-07T20:23:37+00:00",
@@ -1029,7 +1052,7 @@
       "source": "hn",
       "title": "Looking at the data behind prediction markets",
       "url": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
-      "score": 7,
+      "score": 11,
       "comments": 1,
       "author": "kqr",
       "tags": [],
@@ -1810,6 +1833,17 @@
       "date": "2026-05-06T15:58:34+00:00"
     },
     {
+      "id": "hn-48037655",
+      "source": "hn",
+      "title": "All means are fair except solving the problem",
+      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+      "score": 7,
+      "comments": 5,
+      "author": "akkartik",
+      "tags": [],
+      "date": "2026-05-06T15:52:25+00:00"
+    },
+    {
       "id": "hn-48037555",
       "source": "hn",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
@@ -1900,10 +1934,10 @@
     {
       "id": "hn-48036289",
       "source": "hn",
-      "title": "Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster",
+      "title": "Man finds $1M worth of Yu-Gi-Oh cards in a dumpster",
       "url": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
-      "score": 49,
-      "comments": 7,
+      "score": 72,
+      "comments": 12,
       "author": "danso",
       "tags": [],
       "date": "2026-05-06T13:54:20+00:00"
@@ -5124,41 +5158,6 @@
         "Qiita"
       ],
       "date": "2026-05-03T12:33:26+09:00"
-    },
-    {
-      "id": "qiita-f364d88795",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ＡＷＳで整理する、フロントエンドの知識地図",
-      "url": "https://qiita.com/fsitlab/items/8116fe5479eae734325f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "fsitlab",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-03T12:18:55+09:00"
-    },
-    {
-      "id": "hn-47992859",
-      "source": "hn",
-      "title": "Windows API is Successful Cross-Platform API (2024)",
-      "url": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
-      "score": 77,
-      "comments": 81,
-      "author": "phendrenad2",
-      "tags": [],
-      "date": "2026-05-03T02:53:29+00:00"
-    },
-    {
-      "id": "hn-47992802",
-      "source": "hn",
-      "title": "AI, Intimacy, and the Data You Never Meant to Share",
-      "url": "https://fshot.org/techzone/the-algorithm-knows.php",
-      "score": 34,
-      "comments": 2,
-      "author": "victorkulla",
-      "tags": [],
-      "date": "2026-05-03T02:42:43+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

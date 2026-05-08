@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-08T21:23:50.565171+00:00",
+  "generated_at": "2026-05-08T21:48:37.176423+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 358,
-    "zennqiita": 90,
+    "hn": 359,
+    "zennqiita": 89,
     "project": 2
   },
   "severity_counts": {
-    "high": 9,
+    "high": 10,
     "medium": 3,
     "critical": 10
   },
@@ -44,7 +44,7 @@
     {
       "title": "Cloudflare to cut about 20% of its workforce",
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 1255,
+      "score": 1264,
       "source": "hn",
       "date": "2026-05-07T20:23:37+00:00"
     },
@@ -58,14 +58,14 @@
     {
       "title": "Poland is now among the 20 largest economies",
       "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 816,
+      "score": 827,
       "source": "hn",
       "date": "2026-05-08T12:30:05+00:00"
     },
     {
       "title": "Maybe you shouldn't install new software for a bit",
       "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 781,
+      "score": 799,
       "source": "hn",
       "date": "2026-05-07T23:02:11+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Non-determinism is an issue with patching CVEs",
+      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-08T21:23:07+00:00"
+    },
     {
       "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",

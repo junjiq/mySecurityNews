@@ -1,9 +1,16 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T21:23:50.522936+00:00",
-  "total_articles": 58,
-  "urgent_count": 3,
+  "generated_at": "2026-05-08T21:48:37.135369+00:00",
+  "total_articles": 60,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Non-determinism is an issue with patching CVEs",
+      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-08T21:23:07+00:00"
+    },
     {
       "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
@@ -29,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 46,
       "top_items": [
         {
           "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
@@ -42,7 +49,7 @@
         {
           "title": "Poland is now among the 20 largest economies",
           "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-          "score": 816,
+          "score": 827,
           "source": "hn",
           "severity": null,
           "date": "2026-05-08T12:30:05+00:00"
@@ -50,7 +57,7 @@
         {
           "title": "Maybe you shouldn't install new software for a bit",
           "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-          "score": 781,
+          "score": 799,
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T23:02:11+00:00"
