@@ -1,14 +1,48 @@
 {
-  "updated_at": "2026-05-08T11:31:39.452118+00:00",
+  "updated_at": "2026-05-08T12:31:06.671847+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48062035",
+      "source": "hn",
+      "title": "Hackers breach JDownloader website to serve malware-laced downloads",
+      "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
+      "score": 4,
+      "comments": 0,
+      "author": "bundie",
+      "tags": [],
+      "date": "2026-05-08T12:20:01+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-48061566",
+      "source": "hn",
+      "title": "An Introduction to Meshtastic",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "score": 4,
+      "comments": 1,
+      "author": "ColinWright",
+      "tags": [],
+      "date": "2026-05-08T11:22:11+00:00"
+    },
+    {
+      "id": "hn-48060918",
+      "source": "hn",
+      "title": "GeoJSON",
+      "url": "https://geojson.org/",
+      "score": 24,
+      "comments": 7,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-05-08T09:55:37+00:00"
+    },
     {
       "id": "hn-48059662",
       "source": "hn",
       "title": "ClojureScript Gets Async/Await",
       "url": "https://clojurescript.org/news/2026-05-07-release",
-      "score": 85,
-      "comments": 22,
+      "score": 111,
+      "comments": 31,
       "author": "Borkdude",
       "tags": [],
       "date": "2026-05-08T07:04:24+00:00"
@@ -18,8 +52,8 @@
       "source": "hn",
       "title": "Nintendo announces price increases for Nintendo Switch 2",
       "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-      "score": 55,
-      "comments": 41,
+      "score": 92,
+      "comments": 78,
       "author": "razorbeamz",
       "tags": [],
       "date": "2026-05-08T06:56:13+00:00"
@@ -66,7 +100,7 @@
       "source": "hn",
       "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
       "url": "https://github.com/graemeg/blaise",
-      "score": 53,
+      "score": 59,
       "comments": 19,
       "author": "peter_d_sherman",
       "tags": [],
@@ -248,7 +282,7 @@
       "source": "hn",
       "title": "Plasticity and language in the anaesthetized human hippocampus",
       "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-      "score": 115,
+      "score": 122,
       "comments": 43,
       "author": "hhs",
       "tags": [],
@@ -259,8 +293,8 @@
       "source": "hn",
       "title": "Maybe you shouldn't install new software for a bit",
       "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 574,
-      "comments": 311,
+      "score": 601,
+      "comments": 327,
       "author": "psxuaw",
       "tags": [],
       "date": "2026-05-07T23:02:11+00:00"
@@ -305,8 +339,8 @@
       "source": "hn",
       "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 696,
-      "comments": 423,
+      "score": 736,
+      "comments": 447,
       "author": "stefanpie",
       "tags": [],
       "date": "2026-05-07T22:22:21+00:00",
@@ -339,8 +373,8 @@
       "source": "hn",
       "title": "Cloudflare to cut about 20% workforce",
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 836,
-      "comments": 547,
+      "score": 876,
+      "comments": 592,
       "author": "PriorityLeft",
       "tags": [],
       "date": "2026-05-07T20:23:37+00:00",
@@ -384,8 +418,8 @@
       "source": "hn",
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 672,
-      "comments": 275,
+      "score": 681,
+      "comments": 277,
       "author": "flipped",
       "tags": [],
       "date": "2026-05-07T19:21:32+00:00"
@@ -430,7 +464,7 @@
       "source": "hn",
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
       "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "score": 294,
+      "score": 305,
       "comments": 99,
       "author": "instagraham",
       "tags": [],
@@ -441,8 +475,8 @@
       "source": "hn",
       "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
       "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-      "score": 225,
-      "comments": 193,
+      "score": 244,
+      "comments": 212,
       "author": "wslh",
       "tags": [],
       "date": "2026-05-07T17:42:58+00:00"
@@ -485,8 +519,8 @@
       "source": "hn",
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 484,
-      "comments": 240,
+      "score": 497,
+      "comments": 245,
       "author": "bsuh",
       "tags": [],
       "date": "2026-05-07T16:43:35+00:00"
@@ -509,8 +543,8 @@
       "source": "hn",
       "title": "Hardening Firefox with Claude Mythos Preview",
       "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-      "score": 221,
-      "comments": 103,
+      "score": 235,
+      "comments": 105,
       "author": "HieronymusBosch",
       "tags": [],
       "date": "2026-05-07T16:05:33+00:00"
@@ -555,8 +589,8 @@
       "source": "hn",
       "title": "DeepSeek 4 Flash local inference engine for Metal",
       "url": "https://github.com/antirez/ds4",
-      "score": 413,
-      "comments": 118,
+      "score": 421,
+      "comments": 119,
       "author": "tamnd",
       "tags": [],
       "date": "2026-05-07T15:40:24+00:00"
@@ -599,8 +633,8 @@
       "source": "hn",
       "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 300,
-      "comments": 124,
+      "score": 302,
+      "comments": 128,
       "author": "berlianta",
       "tags": [],
       "date": "2026-05-07T15:02:20+00:00"
@@ -632,8 +666,8 @@
       "source": "hn",
       "title": "The map that keeps Burning Man honest",
       "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 663,
-      "comments": 321,
+      "score": 674,
+      "comments": 323,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-07T14:06:10+00:00"
@@ -830,8 +864,8 @@
       "source": "hn",
       "title": "The surprisingly complex journey to text-selectable client-side generated PDFs",
       "url": "https://sdocs.dev/blogs/journey-to-pdf-generation",
-      "score": 28,
-      "comments": 19,
+      "score": 35,
+      "comments": 30,
       "author": "FailMore",
       "tags": [],
       "date": "2026-05-07T05:37:10+00:00"
@@ -1471,8 +1505,8 @@
       "source": "hn",
       "title": "Floats Don't Agree with Themselves",
       "url": "https://docs.merca.earth/blog/floats-dont-agree-with-themselves",
-      "score": 27,
-      "comments": 9,
+      "score": 33,
+      "comments": 22,
       "author": "cremer",
       "tags": [],
       "date": "2026-05-06T14:48:03+00:00"
@@ -1561,8 +1595,8 @@
       "source": "hn",
       "title": "Pinocchio is weirder than you remembered",
       "url": "https://storica.club/blog/pinocchio-in-italian/",
-      "score": 171,
-      "comments": 75,
+      "score": 196,
+      "comments": 84,
       "author": "cemsakarya",
       "tags": [],
       "date": "2026-05-06T12:27:07+00:00"
@@ -1763,8 +1797,8 @@
       "source": "hn",
       "title": "Singapore introduces caning for boys who bully others at school",
       "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
-      "score": 205,
-      "comments": 301,
+      "score": 224,
+      "comments": 320,
       "author": "rustoo",
       "tags": [],
       "date": "2026-05-06T06:29:53+00:00"
@@ -2595,7 +2629,7 @@
       "source": "hn",
       "title": "A polynomial autoencoder beats PCA on transformer embeddings",
       "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-      "score": 52,
+      "score": 56,
       "comments": 15,
       "author": "timvisee",
       "tags": [],
@@ -3357,8 +3391,8 @@
       "source": "hn",
       "title": "Dithering with CSS",
       "url": "https://ikesau.co/blog/dithering-with-css/",
-      "score": 32,
-      "comments": 12,
+      "score": 43,
+      "comments": 15,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-04T15:26:18+00:00"
@@ -5125,39 +5159,6 @@
       "date": "2026-05-02T18:03:42+00:00"
     },
     {
-      "id": "hn-47988742",
-      "source": "hn",
-      "title": "California to begin ticketing driverless cars that violate traffic laws",
-      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
-      "score": 260,
-      "comments": 266,
-      "author": "geox",
-      "tags": [],
-      "date": "2026-05-02T17:59:18+00:00"
-    },
-    {
-      "id": "hn-47988592",
-      "source": "hn",
-      "title": "Do_not_track",
-      "url": "https://donottrack.sh/",
-      "score": 473,
-      "comments": 146,
-      "author": "RubyGuy",
-      "tags": [],
-      "date": "2026-05-02T17:40:55+00:00"
-    },
-    {
-      "id": "hn-47988504",
-      "source": "hn",
-      "title": "Dav2d",
-      "url": "https://code.videolan.org/videolan/dav2d",
-      "score": 574,
-      "comments": 166,
-      "author": "dabinat",
-      "tags": [],
-      "date": "2026-05-02T17:32:29+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5628,45 +5629,6 @@
       "date": "Tue, 05 May 2026 02:58:09 GMT"
     },
     {
-      "id": "zenn-0a97b43e5e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "韓非子 主道篇から学ぶClaude Codeの高度な使いこなし",
-      "url": "https://zenn.dev/tomfook/articles/e4613c2f2fbb28",
-      "score": null,
-      "author": "tomfook",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 04 May 2026 11:20:00 GMT"
-    },
-    {
-      "id": "zenn-8142899d7e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "あなたのClaude CodeのWebFetch、実はWebをちゃんと読んでいない",
-      "url": "https://zenn.dev/zhizhiarv/articles/claude-code-webfetch-haiku-summary",
-      "score": null,
-      "author": "sherry",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 04 May 2026 10:39:09 GMT"
-    },
-    {
-      "id": "zenn-9a67834989",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "視座を上げる・視野を広げるということ",
-      "url": "https://zenn.dev/penginpenguin/articles/3071ad1d93507f",
-      "score": null,
-      "author": "ぺんぎん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 04 May 2026 07:01:11 GMT"
-    },
-    {
       "id": "edb-6a1be6a4e3",
       "source": "msf",
       "title": "[remote] telnetd 2.7 - Buffer Overflow",
@@ -5845,6 +5807,51 @@
       ],
       "severity": "high",
       "date": "Mon, 04 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-fb4512c26e",
+      "source": "msf",
+      "title": "[webapps] FUXA 1.2.8 - Authentication Bypass + RCE Exploit",
+      "url": "https://www.exploit-db.com/exploits/52544",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 30 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-73e0ebceb1",
+      "source": "msf",
+      "title": "[webapps] Python-Multipart 0.0.22 - Path Traversal",
+      "url": "https://www.exploit-db.com/exploits/52543",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 30 Apr 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e1b40a2756",
+      "source": "msf",
+      "title": "[local] Google Chrome  145.0.7632.75 - CSSFontFeatureValuesMap",
+      "url": "https://www.exploit-db.com/exploits/52542",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Thu, 30 Apr 2026 00:00:00 +0000"
     }
   ]
 }
