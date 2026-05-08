@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-08T13:35:13.885654+00:00",
+  "generated_at": "2026-05-08T14:38:42.002258+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 359,
@@ -8,8 +8,8 @@
     "project": 2
   },
   "severity_counts": {
+    "high": 8,
     "medium": 3,
-    "high": 7,
     "critical": 12
   },
   "top_articles": [
@@ -51,14 +51,14 @@
     {
       "title": "Cloudflare to cut about 20% workforce",
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 949,
+      "score": 1014,
       "source": "hn",
       "date": "2026-05-07T20:23:37+00:00"
     },
     {
       "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 780,
+      "score": 810,
       "source": "hn",
       "date": "2026-05-07T22:22:21+00:00"
     },
@@ -79,9 +79,16 @@
     {
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 698,
+      "score": 714,
       "source": "hn",
       "date": "2026-05-07T19:21:32+00:00"
+    },
+    {
+      "title": "The map that keeps Burning Man honest",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "score": 693,
+      "source": "hn",
+      "date": "2026-05-07T14:06:10+00:00"
     },
     {
       "title": "Mercedes-Benz commits to bringing back physical buttons",
@@ -98,13 +105,6 @@
       "date": "2026-05-07T18:46:25+00:00"
     },
     {
-      "title": "The map that keeps Burning Man honest",
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 687,
-      "source": "hn",
-      "date": "2026-05-07T14:06:10+00:00"
-    },
-    {
       "title": "Show HN: Red Squares – GitHub outages as contributions",
       "url": "https://red-squares.cian.lol/",
       "score": 685,
@@ -119,18 +119,18 @@
       "date": "2026-05-05T01:08:17+00:00"
     },
     {
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "score": 676,
+      "source": "hn",
+      "date": "2026-05-07T23:02:11+00:00"
+    },
+    {
       "title": "GameStop makes $55.5B takeover offer for eBay",
       "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
       "score": 656,
       "source": "hn",
       "date": "2026-05-04T09:31:12+00:00"
-    },
-    {
-      "title": "Maybe you shouldn't install new software for a bit",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 644,
-      "source": "hn",
-      "date": "2026-05-07T23:02:11+00:00"
     },
     {
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-08T13:22:33+00:00"
+    },
     {
       "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
       "url": "https://github.com/robertdfrench/ifuncd-up",

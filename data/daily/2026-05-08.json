@@ -1,8 +1,8 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T13:35:13.843109+00:00",
+  "generated_at": "2026-05-08T14:38:41.962282+00:00",
   "total_articles": 60,
-  "urgent_count": 2,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Cloudflare to cut about 20% workforce",
@@ -10,6 +10,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-07T20:23:37+00:00"
+    },
+    {
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-08T13:22:33+00:00"
     },
     {
       "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
@@ -27,7 +34,7 @@
         {
           "title": "Cloudflare to cut about 20% workforce",
           "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-          "score": 949,
+          "score": 1014,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-07T20:23:37+00:00"
@@ -35,7 +42,7 @@
         {
           "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
           "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-          "score": 780,
+          "score": 810,
           "source": "hn",
           "severity": "medium",
           "date": "2026-05-07T22:22:21+00:00"
@@ -43,7 +50,7 @@
         {
           "title": "Dirtyfrag: Universal Linux LPE",
           "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-          "score": 698,
+          "score": 714,
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T19:21:32+00:00"
@@ -57,12 +64,12 @@
           "date": "2026-05-07T18:46:25+00:00"
         },
         {
-          "title": "The map that keeps Burning Man honest",
-          "url": "https://www.not-ship.com/burning-man-moop/",
-          "score": 687,
+          "title": "Maybe you shouldn't install new software for a bit",
+          "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+          "score": 676,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-07T14:06:10+00:00"
+          "date": "2026-05-07T23:02:11+00:00"
         }
       ]
     },
