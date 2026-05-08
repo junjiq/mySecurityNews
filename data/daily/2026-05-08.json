@@ -1,16 +1,9 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T20:23:04.759319+00:00",
-  "total_articles": 59,
-  "urgent_count": 4,
+  "generated_at": "2026-05-08T20:48:23.622345+00:00",
+  "total_articles": 57,
+  "urgent_count": 3,
   "urgent_items": [
-    {
-      "title": "Cloudflare to cut about 20% of its workforce",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-07T20:23:37+00:00"
-    },
     {
       "title": "AI Is Breaking Two Vulnerability Cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
@@ -36,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 43,
       "top_items": [
-        {
-          "title": "Cloudflare to cut about 20% of its workforce",
-          "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-          "score": 1228,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-05-07T20:23:37+00:00"
-        },
         {
           "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
           "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-          "score": 886,
+          "score": 889,
           "source": "hn",
           "severity": "medium",
           "date": "2026-05-07T22:22:21+00:00"
@@ -57,7 +42,7 @@
         {
           "title": "Poland is now among the 20 largest economies",
           "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-          "score": 786,
+          "score": 796,
           "source": "hn",
           "severity": null,
           "date": "2026-05-08T12:30:05+00:00"
@@ -73,10 +58,18 @@
         {
           "title": "Google Cloud Fraud Defence is just WEI repackaged",
           "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-          "score": 539,
+          "score": 570,
           "source": "hn",
           "severity": null,
           "date": "2026-05-08T13:56:10+00:00"
+        },
+        {
+          "title": "A web page that shows you everything the browser told it without asking",
+          "url": "https://sinceyouarrived.world/taken",
+          "score": 453,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-08T12:37:05+00:00"
         }
       ]
     },
