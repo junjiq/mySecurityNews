@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-08T01:37:44.996053+00:00",
+  "generated_at": "2026-05-08T03:06:32.007238+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 363,
@@ -9,8 +9,8 @@
   },
   "severity_counts": {
     "high": 7,
-    "critical": 12,
-    "medium": 1
+    "medium": 2,
+    "critical": 11
   },
   "top_articles": [
     {
@@ -133,9 +133,9 @@
       "date": "2026-05-06T21:58:43+00:00"
     },
     {
-      "title": "The Burning Man MOOP Map",
+      "title": "The map that keeps Burning Man honest",
       "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 535,
+      "score": 556,
       "source": "hn",
       "date": "2026-05-07T14:06:10+00:00"
     },
@@ -161,13 +161,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-08T00:03:38+00:00"
-    },
-    {
-      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-07T22:22:21+00:00"
     },
     {
       "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
