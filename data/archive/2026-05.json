@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-08T00:37:41.031493+00:00",
+  "generated_at": "2026-05-08T01:37:44.996053+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 363,
@@ -8,8 +8,8 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 13,
-    "high": 6,
+    "high": 7,
+    "critical": 12,
     "medium": 1
   },
   "top_articles": [
@@ -133,18 +133,18 @@
       "date": "2026-05-06T21:58:43+00:00"
     },
     {
+      "title": "The Burning Man MOOP Map",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "score": 535,
+      "source": "hn",
+      "date": "2026-05-07T14:06:10+00:00"
+    },
+    {
       "title": "The bottleneck was never the code",
       "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
       "score": 525,
       "source": "hn",
       "date": "2026-05-04T10:46:15+00:00"
-    },
-    {
-      "title": "The Burning Man MOOP Map",
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 518,
-      "source": "hn",
-      "date": "2026-05-07T14:06:10+00:00"
     },
     {
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+      "url": "https://github.com/robertdfrench/ifuncd-up",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-08T00:03:38+00:00"
+    },
     {
       "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
@@ -280,13 +287,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-02T21:34:49+00:00"
-    },
-    {
-      "title": "From CVS to Git, thirty years of source control",
-      "url": "https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-02T11:51:31+00:00"
     }
   ]
 }

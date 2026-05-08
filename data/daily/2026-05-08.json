@@ -1,7 +1,7 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T00:37:40.989198+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-05-08T01:37:44.953874+00:00",
+  "total_articles": 62,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -12,11 +12,11 @@
       "date": "2026-05-07T22:22:21+00:00"
     },
     {
-      "title": "How I made $350K from an open-source JavaScript library using dual licensing",
-      "url": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
-      "severity": "critical",
+      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+      "url": "https://github.com/robertdfrench/ifuncd-up",
+      "severity": "high",
       "source": "hn",
-      "date": "2026-05-07T00:47:15+00:00"
+      "date": "2026-05-08T00:03:38+00:00"
     },
     {
       "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 48,
       "top_items": [
         {
           "title": "The Burning Man MOOP Map",
           "url": "https://www.not-ship.com/burning-man-moop/",
-          "score": 518,
+          "score": 535,
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T14:06:10+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
           "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-          "score": 445,
+          "score": 463,
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T15:56:33+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "AI slop is killing online communities",
           "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-          "score": 407,
+          "score": 441,
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T18:46:25+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "Dirtyfrag: Universal Linux LPE",
           "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-          "score": 368,
+          "score": 400,
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T19:21:32+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 14,
       "top_items": [
         {
           "title": "Azure 上で Active Directory を構築＆ドメイン参加（Windows Server 2025 対応）",
@@ -83,7 +83,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-08T09:10:17+09:00"
+          "date": "2026-05-08T10:09:27+09:00"
         },
         {
           "title": "はじめての Zephyr(1) nRF54L15-DK で LチカとLグル",
