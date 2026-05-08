@@ -1,9 +1,16 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T03:06:31.965269+00:00",
-  "total_articles": 59,
-  "urgent_count": 2,
+  "generated_at": "2026-05-08T04:32:32.020471+00:00",
+  "total_articles": 55,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Cloudflare to cut about 20% workforce",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-07T20:23:37+00:00"
+    },
     {
       "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
       "url": "https://github.com/robertdfrench/ifuncd-up",
@@ -22,53 +29,53 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 46,
       "top_items": [
         {
           "title": "The map that keeps Burning Man honest",
           "url": "https://www.not-ship.com/burning-man-moop/",
-          "score": 556,
+          "score": 574,
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T14:06:10+00:00"
         },
         {
-          "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-          "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-          "score": 487,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-07T15:56:33+00:00"
-        },
-        {
           "title": "AI slop is killing online communities",
           "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-          "score": 478,
+          "score": 515,
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T18:46:25+00:00"
         },
         {
+          "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+          "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+          "score": 504,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-07T15:56:33+00:00"
+        },
+        {
           "title": "Dirtyfrag: Universal Linux LPE",
           "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-          "score": 456,
+          "score": 493,
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T19:21:32+00:00"
         },
         {
-          "title": "Agents need control flow, not more prompts",
-          "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-          "score": 353,
+          "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+          "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+          "score": 404,
           "source": "hn",
-          "severity": null,
-          "date": "2026-05-07T16:43:35+00:00"
+          "severity": "medium",
+          "date": "2026-05-07T22:22:21+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 9,
       "top_items": [
         {
           "title": "Azure 上で Active Directory を構築＆ドメイン参加（Windows Server 2025 対応）",
