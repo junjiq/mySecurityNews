@@ -1,14 +1,69 @@
 {
-  "updated_at": "2026-05-08T19:32:23.274628+00:00",
+  "updated_at": "2026-05-08T20:23:04.694967+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48067870",
+      "source": "hn",
+      "title": "Discord Incident",
+      "url": "https://discordstatus.com",
+      "score": 10,
+      "comments": 2,
+      "author": "moelf",
+      "tags": [],
+      "date": "2026-05-08T19:52:06+00:00"
+    },
+    {
+      "id": "hn-48067790",
+      "source": "hn",
+      "title": "Let’s Encrypt – Stopping Issuance for Potential Incident",
+      "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3",
+      "score": 88,
+      "comments": 44,
+      "author": "rbaudibert",
+      "tags": [],
+      "date": "2026-05-08T19:45:28+00:00"
+    },
+    {
+      "id": "hn-48067764",
+      "source": "hn",
+      "title": "Roadside Attraction",
+      "url": "https://theoffingmag.com/essay/roadside-attraction/",
+      "score": 4,
+      "comments": 0,
+      "author": "aways",
+      "tags": [],
+      "date": "2026-05-08T19:43:04+00:00"
+    },
+    {
+      "id": "hn-48067734",
+      "source": "hn",
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "score": 10,
+      "comments": 2,
+      "author": "MrBruh",
+      "tags": [],
+      "date": "2026-05-08T19:40:39+00:00"
+    },
+    {
+      "id": "hn-48067686",
+      "source": "hn",
+      "title": "My first in-prod corrupted hard drive problem",
+      "url": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
+      "score": 9,
+      "comments": 6,
+      "author": "r1chk1t",
+      "tags": [],
+      "date": "2026-05-08T19:35:36+00:00"
+    },
+    {
       "id": "hn-48067197",
       "source": "hn",
-      "title": "What We Lost the Last Time Code Got Cheap",
+      "title": "What we lost the last time code got cheap",
       "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
-      "score": 12,
-      "comments": 3,
+      "score": 51,
+      "comments": 30,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-08T18:53:08+00:00"
@@ -18,8 +73,8 @@
       "source": "hn",
       "title": "Google Broke reCAPTCHA for De-Googled Android Users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 27,
-      "comments": 4,
+      "score": 64,
+      "comments": 15,
       "author": "anonymousiam",
       "tags": [],
       "date": "2026-05-08T18:45:58+00:00"
@@ -29,8 +84,8 @@
       "source": "hn",
       "title": "AI Is Breaking Two Vulnerability Cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 53,
-      "comments": 13,
+      "score": 83,
+      "comments": 37,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-08T17:55:08+00:00",
@@ -41,8 +96,8 @@
       "source": "hn",
       "title": "Apple, Intel have reached preliminary chip-making deal",
       "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
-      "score": 115,
-      "comments": 47,
+      "score": 135,
+      "comments": 84,
       "author": "scrlk",
       "tags": [],
       "date": "2026-05-08T17:25:21+00:00"
@@ -52,8 +107,8 @@
       "source": "hn",
       "title": "Bjarne Stroustrup: How do I deal with memory leaks? (2022)",
       "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
-      "score": 39,
-      "comments": 29,
+      "score": 57,
+      "comments": 37,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-05-08T17:06:59+00:00"
@@ -63,19 +118,43 @@
       "source": "hn",
       "title": "Cartoon Network Flash Games",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 162,
-      "comments": 50,
+      "score": 188,
+      "comments": 63,
       "author": "willmeyers",
       "tags": [],
       "date": "2026-05-08T16:29:52+00:00"
+    },
+    {
+      "id": "qiita-9967d27a10",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【前編】",
+      "url": "https://qiita.com/archeleeds/items/6fbf02174f308e31f284?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "archeleeds",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-09T01:19:24+09:00"
+    },
+    {
+      "id": "hn-48065203",
+      "source": "hn",
+      "title": "Show HN: GETadb.com – every GET request creates a DB",
+      "url": "https://www.getadb.com/",
+      "score": 10,
+      "comments": 4,
+      "author": "nezaj",
+      "tags": [],
+      "date": "2026-05-08T16:17:37+00:00"
     },
     {
       "id": "hn-48064312",
       "source": "hn",
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory/",
-      "score": 140,
-      "comments": 55,
+      "score": 155,
+      "comments": 65,
       "author": "xngbuilds",
       "tags": [],
       "date": "2026-05-08T15:10:35+00:00"
@@ -85,8 +164,8 @@
       "source": "hn",
       "title": "Show HN: Git for AI Agents",
       "url": "https://github.com/regent-vcs/re_gent",
-      "score": 69,
-      "comments": 40,
+      "score": 76,
+      "comments": 42,
       "author": "doshay",
       "tags": [],
       "date": "2026-05-08T14:15:36+00:00"
@@ -96,8 +175,8 @@
       "source": "hn",
       "title": "PC Engine CPU",
       "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-      "score": 92,
-      "comments": 34,
+      "score": 99,
+      "comments": 40,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-08T14:14:31+00:00"
@@ -118,8 +197,8 @@
       "source": "hn",
       "title": "Google Cloud Fraud Defence is just WEI repackaged",
       "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "score": 466,
-      "comments": 225,
+      "score": 539,
+      "comments": 262,
       "author": "ribtoks",
       "tags": [],
       "date": "2026-05-08T13:56:10+00:00"
@@ -141,8 +220,8 @@
       "source": "hn",
       "title": "A web page that shows you everything the browser told it without asking",
       "url": "https://sinceyouarrived.world/taken",
-      "score": 380,
-      "comments": 190,
+      "score": 430,
+      "comments": 211,
       "author": "mwheelz",
       "tags": [],
       "date": "2026-05-08T12:37:05+00:00"
@@ -152,8 +231,8 @@
       "source": "hn",
       "title": "Poland is now among the 20 largest economies",
       "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 764,
-      "comments": 657,
+      "score": 786,
+      "comments": 673,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-08T12:30:05+00:00"
@@ -175,8 +254,8 @@
       "source": "hn",
       "title": "US Government releases first batch of UAP documents and videos",
       "url": "https://www.war.gov/UFO/",
-      "score": 152,
-      "comments": 249,
+      "score": 166,
+      "comments": 263,
       "author": "david-gpu",
       "tags": [],
       "date": "2026-05-08T12:10:25+00:00"
@@ -186,8 +265,8 @@
       "source": "hn",
       "title": "David Attenborough's 100th Birthday",
       "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 147,
-      "comments": 15,
+      "score": 205,
+      "comments": 25,
       "author": "defrost",
       "tags": [],
       "date": "2026-05-08T12:03:26+00:00"
@@ -197,8 +276,8 @@
       "source": "hn",
       "title": "An Introduction to Meshtastic",
       "url": "https://meshtastic.org/docs/introduction/",
-      "score": 297,
-      "comments": 113,
+      "score": 311,
+      "comments": 118,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-05-08T11:22:11+00:00"
@@ -213,6 +292,32 @@
       "author": "tosh",
       "tags": [],
       "date": "2026-05-08T09:55:37+00:00"
+    },
+    {
+      "id": "qiita-21a2e3e9bd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【2026年最新】Copilot Studio ライセンス完全ガイド ─ 大企業が「損しない」プラン選びの全知識",
+      "url": "https://qiita.com/Katayama_Studio/items/b46711e39fb8ab50a708?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Katayama_Studio",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-08T17:52:44+09:00"
+    },
+    {
+      "id": "qiita-bcaa3481dc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "オシャレなtcolorboxを誰でも作る方法（LaTeX確認シリーズ#５）",
+      "url": "https://qiita.com/KKTeX/items/664551e99931d0c4211c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "KKTeX",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-08T17:01:07+09:00"
     },
     {
       "id": "hn-48059662",
@@ -348,8 +453,8 @@
       "source": "hn",
       "title": "Mojo 1.0 Beta",
       "url": "https://mojolang.org/",
-      "score": 187,
-      "comments": 132,
+      "score": 208,
+      "comments": 148,
       "author": "sbt567",
       "tags": [],
       "date": "2026-05-08T02:49:01+00:00"
@@ -539,8 +644,8 @@
       "source": "hn",
       "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 881,
-      "comments": 586,
+      "score": 886,
+      "comments": 590,
       "author": "stefanpie",
       "tags": [],
       "date": "2026-05-07T22:22:21+00:00",
@@ -573,8 +678,8 @@
       "source": "hn",
       "title": "Cloudflare to cut about 20% of its workforce",
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 1209,
-      "comments": 848,
+      "score": 1228,
+      "comments": 873,
       "author": "PriorityLeft",
       "tags": [],
       "date": "2026-05-07T20:23:37+00:00",
@@ -702,6 +807,19 @@
       "author": "pstomi",
       "tags": [],
       "date": "2026-05-07T17:36:26+00:00"
+    },
+    {
+      "id": "qiita-0702afa10d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "HTTPS公開直後にBotが来る理由 ─ CT Log監視Botの研究を読む",
+      "url": "https://qiita.com/___nix___/items/4db6c2515098b3ef06d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "___nix___",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-08T02:34:46+09:00"
     },
     {
       "id": "hn-48051873",
@@ -1297,6 +1415,19 @@
       "author": "Caiero",
       "tags": [],
       "date": "2026-05-07T00:12:23+00:00"
+    },
+    {
+      "id": "qiita-4629155c7b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "IoTで「センサーを動かす」前に知っておきたい、回路の最低限の話",
+      "url": "https://qiita.com/plustick/items/af7acc06bf06076513f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "plustick",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-07T08:44:33+09:00"
     },
     {
       "id": "hn-48043184",
@@ -5031,133 +5162,6 @@
       "author": "mikhael",
       "tags": [],
       "date": "2026-05-03T01:38:38+00:00"
-    },
-    {
-      "id": "qiita-db3e214dc0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code入りのDockerイメージをDevContainerで動かす",
-      "url": "https://qiita.com/sour23/items/a86a42a675e27853299b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sour23",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-03T10:31:14+09:00"
-    },
-    {
-      "id": "hn-47992338",
-      "source": "hn",
-      "title": "A network smuggling Starlink tech into Iran to beat internet blackout",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-      "score": 154,
-      "comments": 83,
-      "author": "1659447091",
-      "tags": [],
-      "date": "2026-05-03T01:22:41+00:00"
-    },
-    {
-      "id": "qiita-367bbd6968",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "市場は本当に予測不能なのか？――ランダムウォーク仮説とクオンツが探す「小さな歪み」",
-      "url": "https://qiita.com/tikeda123/items/e777dcadbc850c357419?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tikeda123",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-03T10:11:19+09:00"
-    },
-    {
-      "id": "hn-47991995",
-      "source": "hn",
-      "title": "Am I the only one who hates delivery robots?",
-      "url": "https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban",
-      "score": 35,
-      "comments": 12,
-      "author": "robotlaunch",
-      "tags": [],
-      "date": "2026-05-03T00:31:58+00:00"
-    },
-    {
-      "id": "hn-47991981",
-      "source": "hn",
-      "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "score": 459,
-      "comments": 406,
-      "author": "donsupreme",
-      "tags": [],
-      "date": "2026-05-03T00:30:50+00:00"
-    },
-    {
-      "id": "qiita-ce0b487a56",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "[学生必見]プログラミングアルバイトの罠",
-      "url": "https://qiita.com/river0525/items/ce29a2be9f293d5ccace?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "river0525",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-03T09:28:52+09:00"
-    },
-    {
-      "id": "hn-47991802",
-      "source": "hn",
-      "title": "A couple million lines of Haskell: Production engineering at Mercury",
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "score": 369,
-      "comments": 180,
-      "author": "unignorant",
-      "tags": [],
-      "date": "2026-05-03T00:01:14+00:00"
-    },
-    {
-      "id": "hn-47991645",
-      "source": "hn",
-      "title": "Buffon's needle problem visualized",
-      "url": "https://ivanludvig.dev/pi-needle/",
-      "score": 10,
-      "comments": 3,
-      "author": "IvanLudvig",
-      "tags": [],
-      "date": "2026-05-02T23:34:42+00:00"
-    },
-    {
-      "id": "hn-47991487",
-      "source": "hn",
-      "title": "Waymo Drives Off with South Bay Man's Luggage",
-      "url": "https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/",
-      "score": 53,
-      "comments": 29,
-      "author": "toss1",
-      "tags": [],
-      "date": "2026-05-02T23:04:42+00:00"
-    },
-    {
-      "id": "hn-47991439",
-      "source": "hn",
-      "title": "Nocturnal migratory birds follow rhythm of the moon",
-      "url": "https://www.lunduniversity.lu.se/article/nocturnal-migratory-birds-follow-rhythm-moon",
-      "score": 5,
-      "comments": 0,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-05-02T22:57:02+00:00"
-    },
-    {
-      "id": "hn-47991350",
-      "source": "hn",
-      "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
-      "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
-      "score": 183,
-      "comments": 69,
-      "author": "breve",
-      "tags": [],
-      "date": "2026-05-02T22:45:23+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

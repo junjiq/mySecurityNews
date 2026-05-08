@@ -1,7 +1,7 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T19:32:23.339126+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-05-08T20:23:04.759319+00:00",
+  "total_articles": 59,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 45,
       "top_items": [
         {
           "title": "Cloudflare to cut about 20% of its workforce",
           "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-          "score": 1209,
+          "score": 1228,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-07T20:23:37+00:00"
@@ -49,10 +49,18 @@
         {
           "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
           "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-          "score": 881,
+          "score": 886,
           "source": "hn",
           "severity": "medium",
           "date": "2026-05-07T22:22:21+00:00"
+        },
+        {
+          "title": "Poland is now among the 20 largest economies",
+          "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+          "score": 786,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-08T12:30:05+00:00"
         },
         {
           "title": "Maybe you shouldn't install new software for a bit",
@@ -63,17 +71,9 @@
           "date": "2026-05-07T23:02:11+00:00"
         },
         {
-          "title": "Poland is now among the 20 largest economies",
-          "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-          "score": 764,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-08T12:30:05+00:00"
-        },
-        {
           "title": "Google Cloud Fraud Defence is just WEI repackaged",
           "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-          "score": 466,
+          "score": 539,
           "source": "hn",
           "severity": null,
           "date": "2026-05-08T13:56:10+00:00"
@@ -82,8 +82,32 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 14,
       "top_items": [
+        {
+          "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【前編】",
+          "url": "https://qiita.com/archeleeds/items/6fbf02174f308e31f284?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-09T01:19:24+09:00"
+        },
+        {
+          "title": "【2026年最新】Copilot Studio ライセンス完全ガイド ─ 大企業が「損しない」プラン選びの全知識",
+          "url": "https://qiita.com/Katayama_Studio/items/b46711e39fb8ab50a708?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-08T17:52:44+09:00"
+        },
+        {
+          "title": "オシャレなtcolorboxを誰でも作る方法（LaTeX確認シリーズ#５）",
+          "url": "https://qiita.com/KKTeX/items/664551e99931d0c4211c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-08T17:01:07+09:00"
+        },
         {
           "title": "「自分にエンジニアなんて無理かも」と思ってる人へ。最初に知ってほしい“仕事の進め方”",
           "url": "https://qiita.com/prum_hitomi/items/30ed3d885da5bb605460?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -99,30 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-08T13:45:13+09:00"
-        },
-        {
-          "title": "React Router v7 応用編 — 第2回：実践で使う上級テクニック",
-          "url": "https://qiita.com/nhatcaofedev/items/d6d57382c86e2a3cb02e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-08T12:41:42+09:00"
-        },
-        {
-          "title": "予約システムのGoogleカレンダー連携機能の誤予約防止について",
-          "url": "https://qiita.com/sewiihidekikudo/items/4a36a7cca22b39a686f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-08T12:12:42+09:00"
-        },
-        {
-          "title": "Java 8 → 25 メジャーアップが 1 日で終わった話 ─ Claude Opus 4.7「engineer to delegate to」の威力",
-          "url": "https://qiita.com/ntaka329/items/b1ab29e91b6099c4f3a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-08T11:25:53+09:00"
         }
       ]
     }
