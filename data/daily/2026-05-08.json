@@ -1,7 +1,7 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T14:38:41.962282+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-05-08T15:34:28.088964+00:00",
+  "total_articles": 62,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 48,
       "top_items": [
         {
           "title": "Cloudflare to cut about 20% workforce",
           "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-          "score": 1014,
+          "score": 1074,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-07T20:23:37+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
           "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-          "score": 810,
+          "score": 839,
           "source": "hn",
           "severity": "medium",
           "date": "2026-05-07T22:22:21+00:00"
@@ -50,10 +50,18 @@
         {
           "title": "Dirtyfrag: Universal Linux LPE",
           "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-          "score": 714,
+          "score": 726,
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T19:21:32+00:00"
+        },
+        {
+          "title": "Maybe you shouldn't install new software for a bit",
+          "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+          "score": 706,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-07T23:02:11+00:00"
         },
         {
           "title": "AI slop is killing online communities",
@@ -62,14 +70,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-07T18:46:25+00:00"
-        },
-        {
-          "title": "Maybe you shouldn't install new software for a bit",
-          "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-          "score": 676,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-07T23:02:11+00:00"
         }
       ]
     },
