@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-09T00:38:31.121891+00:00",
+  "generated_at": "2026-05-09T01:36:59.898399+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 364,
@@ -10,7 +10,7 @@
   "severity_counts": {
     "high": 10,
     "medium": 3,
-    "critical": 10
+    "critical": 9
   },
   "top_articles": [
     {
@@ -287,13 +287,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-03T14:43:27+00:00"
-    },
-    {
-      "title": "Thoth – open-source Local-first AI Assistant",
-      "url": "https://github.com/siddsachar/Thoth",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-03T09:18:25+00:00"
     }
   ]
 }
