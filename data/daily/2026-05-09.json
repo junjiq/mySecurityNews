@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T22:46:36.627595+00:00",
+  "generated_at": "2026-05-09T23:18:18.679652+00:00",
   "total_articles": 48,
   "urgent_count": 3,
   "urgent_items": [
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 34,
+      "count": 35,
       "top_items": [
         {
           "title": "A recent experience with ChatGPT 5.5 Pro",
           "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-          "score": 578,
+          "score": 579,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T02:41:42+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Internet Archive Switzerland",
           "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-          "score": 490,
+          "score": 502,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T12:00:30+00:00"
@@ -50,32 +50,32 @@
         {
           "title": "Using Claude Code: The unreasonable effectiveness of HTML",
           "url": "https://twitter.com/trq212/status/2052809885763747935",
-          "score": 394,
+          "score": 397,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T04:53:52+00:00"
         },
         {
-          "title": "LLMs corrupt your documents when you delegate",
-          "url": "https://arxiv.org/abs/2604.15597",
-          "score": 311,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-09T08:44:34+00:00"
-        },
-        {
           "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
           "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-          "score": 290,
+          "score": 323,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T10:12:55+00:00"
+        },
+        {
+          "title": "LLMs corrupt your documents when you delegate",
+          "url": "https://arxiv.org/abs/2604.15597",
+          "score": 321,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-09T08:44:34+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "Git初心者の頃わからなかった「pullするな」の意味",

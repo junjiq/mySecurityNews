@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-09T22:46:36.669725+00:00",
+  "generated_at": "2026-05-09T23:18:18.720040+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 357,
-    "zennqiita": 91,
+    "hn": 359,
+    "zennqiita": 89,
     "project": 2
   },
   "severity_counts": {
-    "high": 12,
+    "high": 11,
     "medium": 5,
     "critical": 6
   },
@@ -273,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-04T12:12:42+00:00"
-    },
-    {
-      "title": "Cursor 脆弱性事件を契機に Claude Code の運用を見直す — AIコーディングツールのセキュリティ運用5項目",
-      "url": "https://qiita.com/ennagara128/items/5d0ebc9fb835f55f7c98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-05-04T12:38:18+09:00"
     }
   ]
 }
