@@ -1,8 +1,8 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T21:17:11.608342+00:00",
-  "total_articles": 48,
-  "urgent_count": 4,
+  "generated_at": "2026-05-09T21:46:08.459420+00:00",
+  "total_articles": 46,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "FreeBSD: Local Privilege Escalation via Execve()",
@@ -24,24 +24,17 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-05-09T11:58:48+09:00"
-    },
-    {
-      "title": "Non-determinism is an issue with patching CVEs",
-      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-08T21:23:07+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 34,
+      "count": 32,
       "top_items": [
         {
           "title": "A recent experience with ChatGPT 5.5 Pro",
           "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-          "score": 556,
+          "score": 566,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T02:41:42+00:00"
@@ -49,7 +42,7 @@
         {
           "title": "Internet Archive Switzerland",
           "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-          "score": 455,
+          "score": 471,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T12:00:30+00:00"
@@ -57,7 +50,7 @@
         {
           "title": "Using Claude Code: The unreasonable effectiveness of HTML",
           "url": "https://twitter.com/trq212/status/2052809885763747935",
-          "score": 382,
+          "score": 386,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T04:53:52+00:00"
@@ -65,18 +58,18 @@
         {
           "title": "LLMs corrupt your documents when you delegate",
           "url": "https://arxiv.org/abs/2604.15597",
-          "score": 295,
+          "score": 299,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T08:44:34+00:00"
         },
         {
-          "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
-          "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
-          "score": 208,
+          "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+          "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+          "score": 221,
           "source": "hn",
-          "severity": "medium",
-          "date": "2026-05-09T14:11:10+00:00"
+          "severity": null,
+          "date": "2026-05-09T10:12:55+00:00"
         }
       ]
     },
