@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-09T14:47:17.318116+00:00",
+  "generated_at": "2026-05-09T15:21:24.900416+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 360,
@@ -10,7 +10,7 @@
   "severity_counts": {
     "high": 9,
     "medium": 3,
-    "critical": 8
+    "critical": 7
   },
   "top_articles": [
     {
@@ -51,7 +51,7 @@
     {
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1230,
+      "score": 1257,
       "source": "hn",
       "date": "2026-05-08T18:45:58+00:00"
     },
@@ -84,18 +84,18 @@
       "date": "2026-05-07T19:21:32+00:00"
     },
     {
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "score": 752,
+      "source": "hn",
+      "date": "2026-05-08T12:03:26+00:00"
+    },
+    {
       "title": "The map that keeps Burning Man honest",
       "url": "https://www.not-ship.com/burning-man-moop/",
       "score": 739,
       "source": "hn",
       "date": "2026-05-07T14:06:10+00:00"
-    },
-    {
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 737,
-      "source": "hn",
-      "date": "2026-05-08T12:03:26+00:00"
     },
     {
       "title": "DNSSEC disruption affecting .de domains – Resolved",
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-05-04T12:08:28+09:00"
-    },
-    {
-      "title": "Metal Gear Solid 2's source code has been leaked on 4chan",
-      "url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-03T16:48:11+00:00"
     }
   ]
 }
