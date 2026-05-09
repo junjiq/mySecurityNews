@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-09T22:16:34.779387+00:00",
+  "generated_at": "2026-05-09T22:46:36.669725+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 354,
-    "zennqiita": 94,
+    "hn": 357,
+    "zennqiita": 91,
     "project": 2
   },
   "severity_counts": {
     "high": 12,
     "medium": 5,
-    "critical": 7
+    "critical": 6
   },
   "top_articles": [
     {
@@ -37,7 +37,7 @@
     {
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1416,
+      "score": 1427,
       "source": "hn",
       "date": "2026-05-08T18:45:58+00:00"
     },
@@ -280,13 +280,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-05-04T12:38:18+09:00"
-    },
-    {
-      "title": "CORSを一緒に理解しよう（Cross-Origin Resource Sharing）",
-      "url": "https://qiita.com/NXD139/items/ec04f8d5c110a9927498?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-05-04T12:08:28+09:00"
     }
   ]
 }
