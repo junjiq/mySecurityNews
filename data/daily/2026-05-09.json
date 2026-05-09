@@ -1,9 +1,23 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T19:49:33.170014+00:00",
-  "total_articles": 40,
-  "urgent_count": 1,
+  "generated_at": "2026-05-09T20:16:02.136289+00:00",
+  "total_articles": 49,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
+      "url": "https://www.copahost.com/blog/dirty-frag-cve-2026-43284/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-09T18:59:49+00:00"
+    },
+    {
+      "title": "【ゼロデイ解説】DirtyFlag脆弱性の全貌・Dirty COW・Dirty Pipe・Dirty Fragのエクスプロイトコードを完全分解する",
+      "url": "https://qiita.com/harupython/items/f877d277a209abc86c87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-05-09T11:58:48+09:00"
+    },
     {
       "title": "Non-determinism is an issue with patching CVEs",
       "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
@@ -20,7 +34,7 @@
         {
           "title": "A recent experience with ChatGPT 5.5 Pro",
           "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-          "score": 536,
+          "score": 544,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T02:41:42+00:00"
@@ -28,7 +42,7 @@
         {
           "title": "Internet Archive Switzerland",
           "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-          "score": 411,
+          "score": 423,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T12:00:30+00:00"
@@ -36,7 +50,7 @@
         {
           "title": "Using Claude Code: The unreasonable effectiveness of HTML",
           "url": "https://twitter.com/trq212/status/2052809885763747935",
-          "score": 370,
+          "score": 372,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T04:53:52+00:00"
@@ -44,7 +58,7 @@
         {
           "title": "LLMs corrupt your documents when you delegate",
           "url": "https://arxiv.org/abs/2604.15597",
-          "score": 272,
+          "score": 277,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T08:44:34+00:00"
@@ -61,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 14,
       "top_items": [
         {
           "title": "Git初心者の頃わからなかった「pullするな」の意味",
@@ -72,36 +86,36 @@
           "date": "2026-05-10T01:05:32+09:00"
         },
         {
-          "title": "国民が普通に家庭を持てる経済をどう取り戻すか？ ― 少子化・人手不足・移民政策を構造から考える : Pythonで学ぶ マクロ経済学入門 (79)",
-          "url": "https://qiita.com/maskot1977/items/35ee569ca3c847fecdd7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "PRを出す前にコミット履歴を整えろと先輩に叩き込まれた話 〜git rebase -i 入門〜",
+          "url": "https://qiita.com/shimitaro/items/c63073fef7fb87d9f472?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-09T17:38:34+09:00"
+          "date": "2026-05-10T01:02:45+09:00"
         },
         {
-          "title": "個人の暗黙知を組織知に自動昇格させる OSS マルチエージェント基盤を作った話 (Apache 2.0)",
-          "url": "https://qiita.com/gen99/items/43b3842920d94a6ad1de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "LangflowでLangfuse(self-host)を使ってLLMOps試す・前編",
+          "url": "https://qiita.com/mizuk1013/items/7f555a2e8f79f15db813?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-09T13:43:32+09:00"
+          "date": "2026-05-09T23:09:24+09:00"
         },
         {
-          "title": "2026/05/09 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-          "url": "https://qiita.com/ennagara128/items/45b8df4dd526c2273053?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
+          "url": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-09T09:22:13+09:00"
+          "date": "2026-05-09T21:11:18+09:00"
         },
         {
-          "title": "OpenAI gpt-realtime-translate で同時通訳ツールを実装した：踏んだ 4 つの罠",
-          "url": "https://qiita.com/shinonome_taku/items/aca0aecdea09b2304757?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「冷蔵と冷凍と常温を分けて！」：超新人エンジニア向け クラス設計の話",
+          "url": "https://qiita.com/kimagurehero98/items/3242437ac35fb9a7e5b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-09T08:38:34+09:00"
+          "date": "2026-05-09T20:33:17+09:00"
         }
       ]
     }
