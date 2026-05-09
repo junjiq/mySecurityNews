@@ -1,9 +1,16 @@
 {
   "date": "2026-05-09",
-  "generated_at": "2026-05-09T20:46:23.549784+00:00",
-  "total_articles": 47,
-  "urgent_count": 3,
+  "generated_at": "2026-05-09T21:17:11.608342+00:00",
+  "total_articles": 48,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "FreeBSD: Local Privilege Escalation via Execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-09T20:31:21+00:00"
+    },
     {
       "title": "\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
       "url": "https://www.copahost.com/blog/dirty-frag-cve-2026-43284/",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 33,
+      "count": 34,
       "top_items": [
         {
           "title": "A recent experience with ChatGPT 5.5 Pro",
           "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-          "score": 551,
+          "score": 556,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T02:41:42+00:00"
@@ -42,7 +49,7 @@
         {
           "title": "Internet Archive Switzerland",
           "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-          "score": 442,
+          "score": 455,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T12:00:30+00:00"
@@ -50,7 +57,7 @@
         {
           "title": "Using Claude Code: The unreasonable effectiveness of HTML",
           "url": "https://twitter.com/trq212/status/2052809885763747935",
-          "score": 378,
+          "score": 382,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T04:53:52+00:00"
@@ -58,18 +65,18 @@
         {
           "title": "LLMs corrupt your documents when you delegate",
           "url": "https://arxiv.org/abs/2604.15597",
-          "score": 288,
+          "score": 295,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T08:44:34+00:00"
         },
         {
-          "title": "The hypocrisy of cyberlibertarianism",
-          "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-          "score": 199,
+          "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+          "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
+          "score": 208,
           "source": "hn",
-          "severity": null,
-          "date": "2026-05-09T13:48:32+00:00"
+          "severity": "medium",
+          "date": "2026-05-09T14:11:10+00:00"
         }
       ]
     },
