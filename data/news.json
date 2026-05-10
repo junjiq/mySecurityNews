@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-05-10T01:36:31.422297+00:00",
+  "updated_at": "2026-05-10T03:08:00.753375+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48080587",
+      "source": "hn",
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://imtomt.github.io/ymawky/",
+      "score": 5,
+      "comments": 0,
+      "author": "imtomt",
+      "tags": [],
+      "date": "2026-05-10T03:01:44+00:00"
+    },
+    {
+      "id": "qiita-20cbcdffc2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
+      "url": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hosomatu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-10T11:53:52+09:00"
+    },
+    {
+      "id": "hn-48080221",
+      "source": "hn",
+      "title": "Sparse Cholesky Elimination Tree",
+      "url": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
+      "score": 5,
+      "comments": 0,
+      "author": "selimthegrim",
+      "tags": [],
+      "date": "2026-05-10T01:52:55+00:00"
+    },
     {
       "id": "qiita-d8e5321ffb",
       "source": "zennqiita",
@@ -51,10 +86,10 @@
     {
       "id": "hn-48078575",
       "source": "hn",
-      "title": "Rust but Lisp",
+      "title": "Show HN: Rust but Lisp",
       "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "score": 68,
-      "comments": 33,
+      "score": 94,
+      "comments": 45,
       "author": "thatxliner",
       "tags": [],
       "date": "2026-05-09T21:46:27+00:00"
@@ -75,8 +110,8 @@
       "source": "hn",
       "title": "Local privilege escalation via execve()",
       "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "score": 83,
-      "comments": 57,
+      "score": 98,
+      "comments": 59,
       "author": "Deeg9rie9usi",
       "tags": [],
       "date": "2026-05-09T20:31:21+00:00",
@@ -87,8 +122,8 @@
       "source": "hn",
       "title": "I caught the car",
       "url": "https://undecidability.net/senior/",
-      "score": 38,
-      "comments": 36,
+      "score": 41,
+      "comments": 49,
       "author": "holden_nelson",
       "tags": [],
       "date": "2026-05-09T20:31:07+00:00"
@@ -98,7 +133,7 @@
       "source": "hn",
       "title": "Surfel-based global illumination on the web",
       "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
-      "score": 11,
+      "score": 25,
       "comments": 0,
       "author": "vmg12",
       "tags": [],
@@ -132,8 +167,8 @@
       "source": "hn",
       "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
       "url": "https://github.com/nooga/let-go",
-      "score": 87,
-      "comments": 29,
+      "score": 105,
+      "comments": 33,
       "author": "marcingas",
       "tags": [],
       "date": "2026-05-09T17:52:13+00:00"
@@ -143,8 +178,8 @@
       "source": "hn",
       "title": "Zed Editor Theme-Builder",
       "url": "https://zed.dev/theme-builder",
-      "score": 155,
-      "comments": 44,
+      "score": 168,
+      "comments": 47,
       "author": "cuechan",
       "tags": [],
       "date": "2026-05-09T17:30:39+00:00"
@@ -154,8 +189,8 @@
       "source": "hn",
       "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
       "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "score": 109,
-      "comments": 59,
+      "score": 112,
+      "comments": 62,
       "author": "ggallas",
       "tags": [],
       "date": "2026-05-09T17:06:46+00:00",
@@ -166,8 +201,8 @@
       "source": "hn",
       "title": "I’ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
-      "score": 258,
-      "comments": 146,
+      "score": 285,
+      "comments": 168,
       "author": "susam",
       "tags": [],
       "date": "2026-05-09T16:28:36+00:00"
@@ -223,8 +258,8 @@
       "source": "hn",
       "title": "Distributing Mac software is increasing my cortisol levels",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "score": 203,
-      "comments": 138,
+      "score": 219,
+      "comments": 153,
       "author": "LorenDB",
       "tags": [],
       "date": "2026-05-09T14:40:58+00:00"
@@ -292,8 +327,8 @@
       "source": "hn",
       "title": "The hypocrisy of cyberlibertarianism",
       "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-      "score": 260,
-      "comments": 218,
+      "score": 274,
+      "comments": 229,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-05-09T13:48:32+00:00"
@@ -310,25 +345,12 @@
       "date": "2026-05-09T13:31:53+00:00"
     },
     {
-      "id": "qiita-20cbcdffc2",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
-      "url": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hosomatu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-09T21:11:18+09:00"
-    },
-    {
       "id": "hn-48074265",
       "source": "hn",
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 534,
-      "comments": 76,
+      "score": 556,
+      "comments": 84,
       "author": "hggh",
       "tags": [],
       "date": "2026-05-09T12:00:30+00:00"
@@ -375,8 +397,8 @@
       "source": "hn",
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 406,
-      "comments": 391,
+      "score": 445,
+      "comments": 430,
       "author": "heldrida",
       "tags": [],
       "date": "2026-05-09T10:12:55+00:00"
@@ -397,8 +419,8 @@
       "source": "hn",
       "title": "LLMs corrupt your documents when you delegate",
       "url": "https://arxiv.org/abs/2604.15597",
-      "score": 352,
-      "comments": 136,
+      "score": 365,
+      "comments": 140,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-09T08:44:34+00:00"
@@ -443,8 +465,8 @@
       "source": "hn",
       "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
       "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "score": 390,
-      "comments": 275,
+      "score": 414,
+      "comments": 280,
       "author": "muse900",
       "tags": [],
       "date": "2026-05-09T05:52:12+00:00"
@@ -454,8 +476,8 @@
       "source": "hn",
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 416,
-      "comments": 237,
+      "score": 422,
+      "comments": 239,
       "author": "pretext",
       "tags": [],
       "date": "2026-05-09T04:53:52+00:00"
@@ -516,8 +538,8 @@
       "source": "hn",
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 602,
-      "comments": 428,
+      "score": 610,
+      "comments": 435,
       "author": "_alternator_",
       "tags": [],
       "date": "2026-05-09T02:41:42+00:00"
@@ -701,8 +723,8 @@
       "source": "hn",
       "title": "Production engineering when trading billions of dollars a day [video]",
       "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
-      "score": 91,
-      "comments": 22,
+      "score": 100,
+      "comments": 28,
       "author": "abstrus",
       "tags": [],
       "date": "2026-05-08T19:45:21+00:00"
@@ -1733,8 +1755,8 @@
       "source": "hn",
       "title": "The Serial TTL connector we deserve",
       "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
-      "score": 38,
-      "comments": 32,
+      "score": 55,
+      "comments": 45,
       "author": "kohlschuetter",
       "tags": [],
       "date": "2026-05-07T14:19:55+00:00"
@@ -1800,8 +1822,8 @@
       "source": "hn",
       "title": "Making your own programming language is easier than you think (but also harder)",
       "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
-      "score": 46,
-      "comments": 15,
+      "score": 62,
+      "comments": 24,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-07T13:01:21+00:00"
@@ -1816,6 +1838,17 @@
       "author": "smig0",
       "tags": [],
       "date": "2026-05-07T12:39:45+00:00"
+    },
+    {
+      "id": "hn-48048407",
+      "source": "hn",
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+      "score": 5,
+      "comments": 0,
+      "author": "dr_kiszonka",
+      "tags": [],
+      "date": "2026-05-07T12:09:47+00:00"
     },
     {
       "id": "hn-48048339",
@@ -2570,8 +2603,8 @@
       "source": "hn",
       "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
       "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
-      "score": 14,
-      "comments": 6,
+      "score": 35,
+      "comments": 11,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-06T17:52:29+00:00"
@@ -2639,7 +2672,7 @@
       "source": "hn",
       "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
       "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
-      "score": 15,
+      "score": 30,
       "comments": 0,
       "author": "rsecora",
       "tags": [],
@@ -5118,43 +5151,6 @@
         "Qiita"
       ],
       "date": "2026-05-04T15:40:14+09:00"
-    },
-    {
-      "id": "hn-48004992",
-      "source": "hn",
-      "title": "Feds Fine Durham Energy Efficiency Co $722M",
-      "url": "https://www.theassemblync.com/news/business/american-efficient-ferc-durham-fine/",
-      "score": 7,
-      "comments": 6,
-      "author": "ChuckMcM",
-      "tags": [],
-      "date": "2026-05-04T05:32:21+00:00"
-    },
-    {
-      "id": "qiita-959eaf4f5f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "最小努力と最短時間で資格受験シリーズまとめ",
-      "url": "https://qiita.com/ponponmikankan/items/78464a6bad2e633e5b64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ponponmikankan",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-04T14:29:22+09:00"
-    },
-    {
-      "id": "qiita-cdfce01484",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "React QueryでフロントエンドのPerformanceを改善する実践ガイド",
-      "url": "https://qiita.com/nhatcaofedev/items/55a1a5491eb22f20d77c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nhatcaofedev",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-04T13:47:50+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
