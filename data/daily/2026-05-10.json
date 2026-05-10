@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T19:50:10.234309+00:00",
-  "total_articles": 47,
+  "generated_at": "2026-05-10T20:17:18.996495+00:00",
+  "total_articles": 52,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -25,28 +25,36 @@
       "count": 40,
       "top_items": [
         {
-          "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-          "url": "https://github.com/imtomt/ymawky",
-          "score": 364,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-10T03:01:44+00:00"
-        },
-        {
           "title": "Hardware Attestation as Monopoly Enabler",
           "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-          "score": 327,
+          "score": 384,
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T17:54:02+00:00"
         },
         {
+          "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+          "url": "https://github.com/imtomt/ymawky",
+          "score": 366,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-10T03:01:44+00:00"
+        },
+        {
           "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
           "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-          "score": 307,
+          "score": 324,
           "source": "hn",
           "severity": "medium",
           "date": "2026-05-10T14:47:05+00:00"
+        },
+        {
+          "title": "Space Cadet Pinball on Linux",
+          "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+          "score": 277,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-10T11:22:02+00:00"
         },
         {
           "title": "Debian must ship reproducible packages",
@@ -55,20 +63,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T05:26:03+00:00"
-        },
-        {
-          "title": "Space Cadet Pinball on Linux",
-          "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-          "score": 266,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-10T11:22:02+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 12,
       "top_items": [
         {
           "title": "Delphi 向けの JSON 代替フォーマットを考える",
@@ -77,6 +77,22 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-11T01:11:56+09:00"
+        },
+        {
+          "title": "Agent Toolkit for AWSが持つ50種類のSkillsをStrands Agentsから実行する",
+          "url": "https://qiita.com/nasuvitz/items/fd1be5f3be4170a11a44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-10T23:03:32+09:00"
+        },
+        {
+          "title": "Codex App の Computer Use は何をしているのか",
+          "url": "https://qiita.com/TaigoKuriyama/items/850a26760fc3c8d111ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-10T22:07:25+09:00"
         },
         {
           "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
@@ -93,22 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-10T21:27:46+09:00"
-        },
-        {
-          "title": "【初心者向け】AWS MCP Serverとは",
-          "url": "https://qiita.com/nayuta_se/items/c17e3b82c6b4db662387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-10T13:58:08+09:00"
-        },
-        {
-          "title": "【AWS AppSync】Amplify Gen 2 の裏側で動く「スマートな中継機能」を理解する",
-          "url": "https://qiita.com/jus1730/items/a55d79f16dbfe7a805e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-10T12:32:03+09:00"
         }
       ]
     }
