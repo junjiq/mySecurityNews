@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T15:47:34.684734+00:00",
-  "total_articles": 43,
+  "generated_at": "2026-05-10T16:20:10.888004+00:00",
+  "total_articles": 44,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 36,
+      "count": 37,
       "top_items": [
         {
           "title": "I’ve banned query strings",
           "url": "https://chrismorgan.info/no-query-strings",
-          "score": 486,
+          "score": 494,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T16:28:36+00:00"
@@ -57,12 +57,12 @@
           "date": "2026-05-09T17:30:39+00:00"
         },
         {
-          "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-          "url": "https://github.com/nooga/let-go",
-          "score": 203,
+          "title": "Space Cadet Pinball on Linux",
+          "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+          "score": 210,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-09T17:52:13+00:00"
+          "date": "2026-05-10T11:22:02+00:00"
         }
       ]
     },
@@ -70,6 +70,14 @@
       "category": "日本語技術記事",
       "count": 7,
       "top_items": [
+        {
+          "title": "Delphi 向けの JSON 代替フォーマットを考える",
+          "url": "https://qiita.com/ht_deko/items/703973be1a327c559afd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-11T01:11:56+09:00"
+        },
         {
           "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
           "url": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-10T12:32:03+09:00"
-        },
-        {
-          "title": "TransformerのSelf AttentionのQKVを直感的に解説する",
-          "url": "https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-10T08:52:36+09:00"
         }
       ]
     }
