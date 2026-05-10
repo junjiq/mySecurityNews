@@ -1,9 +1,16 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T17:47:23.512499+00:00",
-  "total_articles": 46,
-  "urgent_count": 2,
+  "generated_at": "2026-05-10T18:21:20.408388+00:00",
+  "total_articles": 48,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Incident CVE-2024-Yikes",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-10T17:43:10+00:00"
+    },
     {
       "title": "Local privilege escalation via execve()",
       "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 39,
+      "count": 41,
       "top_items": [
         {
           "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
@@ -43,26 +50,26 @@
         {
           "title": "Space Cadet Pinball on Linux",
           "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-          "score": 235,
+          "score": 246,
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T11:22:02+00:00"
         },
         {
-          "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-          "url": "https://github.com/nooga/let-go",
-          "score": 203,
+          "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+          "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+          "score": 223,
           "source": "hn",
-          "severity": null,
-          "date": "2026-05-09T17:52:13+00:00"
+          "severity": "medium",
+          "date": "2026-05-10T14:47:05+00:00"
         },
         {
-          "title": "Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'",
-          "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-          "score": 201,
+          "title": "Local privilege escalation via execve()",
+          "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+          "score": 190,
           "source": "hn",
-          "severity": null,
-          "date": "2026-05-10T14:47:05+00:00"
+          "severity": "high",
+          "date": "2026-05-09T20:31:21+00:00"
         }
       ]
     },
