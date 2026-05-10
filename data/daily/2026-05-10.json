@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T09:58:29.256569+00:00",
-  "total_articles": 44,
+  "generated_at": "2026-05-10T10:33:50.384538+00:00",
+  "total_articles": 46,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,28 +22,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 33,
+      "count": 35,
       "top_items": [
         {
           "title": "Internet Archive Switzerland",
           "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-          "score": 611,
+          "score": 614,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T12:00:30+00:00"
         },
         {
-          "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-          "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-          "score": 557,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-09T10:12:55+00:00"
-        },
-        {
           "title": "I’ve banned query strings",
           "url": "https://chrismorgan.info/no-query-strings",
-          "score": 412,
+          "score": 419,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T16:28:36+00:00"
@@ -59,10 +51,18 @@
         {
           "title": "Distributing Mac software is increasing my cortisol levels",
           "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-          "score": 290,
+          "score": 299,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T14:40:58+00:00"
+        },
+        {
+          "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+          "url": "https://github.com/imtomt/ymawky",
+          "score": 291,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-10T03:01:44+00:00"
         }
       ]
     },
