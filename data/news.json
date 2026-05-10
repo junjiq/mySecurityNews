@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-10T07:19:02.073181+00:00",
+  "updated_at": "2026-05-10T08:15:38.112652+00:00",
   "count": 500,
   "items": [
     {
@@ -7,30 +7,56 @@
       "source": "hn",
       "title": "Debian must ship reproducible packages",
       "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
-      "score": 55,
-      "comments": 10,
+      "score": 85,
+      "comments": 17,
       "author": "robalni",
       "tags": [],
       "date": "2026-05-10T05:26:03+00:00"
+    },
+    {
+      "id": "qiita-85b15f6d5e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【初心者向け】AWS MCP Serverとは",
+      "url": "https://qiita.com/nayuta_se/items/c17e3b82c6b4db662387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nayuta_se",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-10T13:58:08+09:00"
     },
     {
       "id": "hn-48081094",
       "source": "hn",
       "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
       "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
-      "score": 8,
-      "comments": 3,
+      "score": 11,
+      "comments": 6,
       "author": "AuthorizedCust",
       "tags": [],
       "date": "2026-05-10T04:47:45+00:00"
+    },
+    {
+      "id": "qiita-2bee2ce13c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS AppSync】Amplify Gen 2 の裏側で動く「スマートな中継機能」を理解する",
+      "url": "https://qiita.com/jus1730/items/a55d79f16dbfe7a805e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jus1730",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-10T12:32:03+09:00"
     },
     {
       "id": "hn-48080702",
       "source": "hn",
       "title": "Gemini API File Search is now multimodal",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "score": 60,
-      "comments": 6,
+      "score": 76,
+      "comments": 8,
       "author": "gmays",
       "tags": [],
       "date": "2026-05-10T03:22:02+00:00"
@@ -40,8 +66,8 @@
       "source": "hn",
       "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
       "url": "https://github.com/imtomt/ymawky",
-      "score": 194,
-      "comments": 80,
+      "score": 233,
+      "comments": 100,
       "author": "imtomt",
       "tags": [],
       "date": "2026-05-10T03:01:44+00:00"
@@ -69,6 +95,32 @@
       "author": "selimthegrim",
       "tags": [],
       "date": "2026-05-10T01:52:55+00:00"
+    },
+    {
+      "id": "qiita-f769ffe5a3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "TransformerのSelf AttentionのQKVを直感的に解説する",
+      "url": "https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kenmatsu4",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-10T08:52:36+09:00"
+    },
+    {
+      "id": "qiita-317774fec4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "OpenAI gpt-realtime-2 の reasoning.effort を 5 段階全部試した：xhigh の存在に気づいたか？",
+      "url": "https://qiita.com/shinonome_taku/items/25b51466db51d7032cf6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shinonome_taku",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-10T07:19:04+09:00"
     },
     {
       "id": "qiita-d8e5321ffb",
@@ -121,8 +173,8 @@
       "source": "hn",
       "title": "Show HN: Rust but Lisp",
       "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "score": 122,
-      "comments": 64,
+      "score": 125,
+      "comments": 65,
       "author": "thatxliner",
       "tags": [],
       "date": "2026-05-09T21:46:27+00:00"
@@ -143,8 +195,8 @@
       "source": "hn",
       "title": "Local privilege escalation via execve()",
       "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "score": 132,
-      "comments": 72,
+      "score": 139,
+      "comments": 75,
       "author": "Deeg9rie9usi",
       "tags": [],
       "date": "2026-05-09T20:31:21+00:00",
@@ -200,8 +252,8 @@
       "source": "hn",
       "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
       "url": "https://github.com/nooga/let-go",
-      "score": 143,
-      "comments": 39,
+      "score": 155,
+      "comments": 40,
       "author": "marcingas",
       "tags": [],
       "date": "2026-05-09T17:52:13+00:00"
@@ -211,8 +263,8 @@
       "source": "hn",
       "title": "Zed Editor Theme-Builder",
       "url": "https://zed.dev/theme-builder",
-      "score": 198,
-      "comments": 57,
+      "score": 206,
+      "comments": 59,
       "author": "cuechan",
       "tags": [],
       "date": "2026-05-09T17:30:39+00:00"
@@ -222,8 +274,8 @@
       "source": "hn",
       "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
       "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "score": 121,
-      "comments": 66,
+      "score": 122,
+      "comments": 70,
       "author": "ggallas",
       "tags": [],
       "date": "2026-05-09T17:06:46+00:00",
@@ -234,8 +286,8 @@
       "source": "hn",
       "title": "I’ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
-      "score": 356,
-      "comments": 200,
+      "score": 379,
+      "comments": 212,
       "author": "susam",
       "tags": [],
       "date": "2026-05-09T16:28:36+00:00"
@@ -291,8 +343,8 @@
       "source": "hn",
       "title": "Distributing Mac software is increasing my cortisol levels",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "score": 268,
-      "comments": 179,
+      "score": 279,
+      "comments": 185,
       "author": "LorenDB",
       "tags": [],
       "date": "2026-05-09T14:40:58+00:00"
@@ -360,8 +412,8 @@
       "source": "hn",
       "title": "The hypocrisy of cyberlibertarianism",
       "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-      "score": 296,
-      "comments": 262,
+      "score": 319,
+      "comments": 282,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-05-09T13:48:32+00:00"
@@ -382,8 +434,8 @@
       "source": "hn",
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 592,
-      "comments": 90,
+      "score": 600,
+      "comments": 93,
       "author": "hggh",
       "tags": [],
       "date": "2026-05-09T12:00:30+00:00"
@@ -426,15 +478,41 @@
       "date": "2026-05-09T20:18:42+09:00"
     },
     {
+      "id": "qiita-5adb45b0b4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Delphi 向けの JSON 代替フォーマットを考える",
+      "url": "https://qiita.com/ht_deko/items/703973be1a327c559afd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ht_deko",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-09T19:34:04+09:00"
+    },
+    {
       "id": "hn-48073680",
       "source": "hn",
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 516,
-      "comments": 476,
+      "score": 531,
+      "comments": 497,
       "author": "heldrida",
       "tags": [],
       "date": "2026-05-09T10:12:55+00:00"
+    },
+    {
+      "id": "qiita-ceed197e9c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Pythonの標準出力をもっと美しく。`Rich` で作るモダンなCLIツール入門",
+      "url": "https://qiita.com/nozomi2025/items/313779e2d3feadfefa7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nozomi2025",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-09T18:24:57+09:00"
     },
     {
       "id": "hn-48073394",
@@ -452,8 +530,8 @@
       "source": "hn",
       "title": "LLMs corrupt your documents when you delegate",
       "url": "https://arxiv.org/abs/2604.15597",
-      "score": 393,
-      "comments": 151,
+      "score": 399,
+      "comments": 153,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-09T08:44:34+00:00"
@@ -498,8 +576,8 @@
       "source": "hn",
       "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
       "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "score": 504,
-      "comments": 334,
+      "score": 519,
+      "comments": 354,
       "author": "muse900",
       "tags": [],
       "date": "2026-05-09T05:52:12+00:00"
@@ -571,8 +649,8 @@
       "source": "hn",
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 626,
-      "comments": 454,
+      "score": 628,
+      "comments": 458,
       "author": "_alternator_",
       "tags": [],
       "date": "2026-05-09T02:41:42+00:00"
@@ -1799,8 +1877,8 @@
       "source": "hn",
       "title": "The Serial TTL connector we deserve",
       "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
-      "score": 80,
-      "comments": 55,
+      "score": 84,
+      "comments": 57,
       "author": "kohlschuetter",
       "tags": [],
       "date": "2026-05-07T14:19:55+00:00"
@@ -1866,8 +1944,8 @@
       "source": "hn",
       "title": "Making your own programming language is easier than you think (but also harder)",
       "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
-      "score": 86,
-      "comments": 39,
+      "score": 92,
+      "comments": 41,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-07T13:01:21+00:00"
@@ -1877,8 +1955,8 @@
       "source": "hn",
       "title": "The One Dollar Counterfeiter",
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "score": 69,
-      "comments": 18,
+      "score": 92,
+      "comments": 22,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-05-07T12:40:35+00:00"
@@ -1899,8 +1977,8 @@
       "source": "hn",
       "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
       "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "score": 91,
-      "comments": 34,
+      "score": 108,
+      "comments": 35,
       "author": "dr_kiszonka",
       "tags": [],
       "date": "2026-05-07T12:09:47+00:00"
@@ -2658,8 +2736,8 @@
       "source": "hn",
       "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
       "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
-      "score": 87,
-      "comments": 25,
+      "score": 97,
+      "comments": 30,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-06T17:52:29+00:00"
@@ -2727,7 +2805,7 @@
       "source": "hn",
       "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
       "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
-      "score": 50,
+      "score": 53,
       "comments": 1,
       "author": "rsecora",
       "tags": [],
@@ -2917,8 +2995,8 @@
       "source": "hn",
       "title": "We see something that works, and then we understand it",
       "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-      "score": 52,
-      "comments": 11,
+      "score": 72,
+      "comments": 21,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-06T15:15:23+00:00"
@@ -5077,76 +5155,6 @@
       "author": "thitran",
       "tags": [],
       "date": "2026-05-04T11:41:02+00:00"
-    },
-    {
-      "id": "hn-48007145",
-      "source": "hn",
-      "title": "ASML's Best Selling Product Isn't What You Think It Is",
-      "url": "https://www.siliconimist.com/p/asmls-best-selling-product",
-      "score": 62,
-      "comments": 24,
-      "author": "johncole",
-      "tags": [],
-      "date": "2026-05-04T11:08:22+00:00"
-    },
-    {
-      "id": "hn-48006967",
-      "source": "hn",
-      "title": "The bottleneck was never the code",
-      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "score": 525,
-      "comments": 341,
-      "author": "Anon84",
-      "tags": [],
-      "date": "2026-05-04T10:46:15+00:00"
-    },
-    {
-      "id": "qiita-22736a8a59",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Claude Code】カスタムステータスラインがホームディレクトリで表示されない",
-      "url": "https://qiita.com/ryu-ki/items/fa32472acb437bd2565a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryu-ki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-04T19:17:24+09:00"
-    },
-    {
-      "id": "hn-48006522",
-      "source": "hn",
-      "title": "Ruflo: Multi-agent AI orchestration for Claude Code",
-      "url": "https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md",
-      "score": 7,
-      "comments": 2,
-      "author": "pramodbiligiri",
-      "tags": [],
-      "date": "2026-05-04T09:52:38+00:00"
-    },
-    {
-      "id": "qiita-4ec97d4345",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWSのMCPサーバで \"aws login\" の認証情報を使う方法",
-      "url": "https://qiita.com/yuki_ink/items/ac280c1f34246c0d2e3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yuki_ink",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-04T18:45:20+09:00"
-    },
-    {
-      "id": "hn-48006445",
-      "source": "hn",
-      "title": "Trademark violation: Fake Notepad++ for Mac",
-      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-      "score": 498,
-      "comments": 210,
-      "author": "maxloh",
-      "tags": [],
-      "date": "2026-05-04T09:40:06+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

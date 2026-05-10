@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T07:19:02.137495+00:00",
-  "total_articles": 42,
+  "generated_at": "2026-05-10T08:15:38.178551+00:00",
+  "total_articles": 47,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 34,
       "top_items": [
         {
           "title": "Internet Archive Switzerland",
           "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-          "score": 592,
+          "score": 600,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T12:00:30+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
           "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-          "score": 516,
+          "score": 531,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T10:12:55+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "LLMs corrupt your documents when you delegate",
           "url": "https://arxiv.org/abs/2604.15597",
-          "score": 393,
+          "score": 399,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T08:44:34+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "I’ve banned query strings",
           "url": "https://chrismorgan.info/no-query-strings",
-          "score": 356,
+          "score": 379,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T16:28:36+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "The hypocrisy of cyberlibertarianism",
           "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-          "score": 296,
+          "score": 319,
           "source": "hn",
           "severity": null,
           "date": "2026-05-09T13:48:32+00:00"
@@ -68,8 +68,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 13,
       "top_items": [
+        {
+          "title": "【初心者向け】AWS MCP Serverとは",
+          "url": "https://qiita.com/nayuta_se/items/c17e3b82c6b4db662387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-10T13:58:08+09:00"
+        },
+        {
+          "title": "【AWS AppSync】Amplify Gen 2 の裏側で動く「スマートな中継機能」を理解する",
+          "url": "https://qiita.com/jus1730/items/a55d79f16dbfe7a805e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-10T12:32:03+09:00"
+        },
         {
           "title": "「AWS環境にデプロイした際に、Webサーバーって何のためにいるの？」という疑問について調べてみた",
           "url": "https://qiita.com/hosomatu/items/9545ee09b2ffbe25057c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,36 +95,20 @@
           "date": "2026-05-10T11:53:52+09:00"
         },
         {
-          "title": "Git初心者の頃わからなかった「pullするな」の意味",
-          "url": "https://qiita.com/shimitaro/items/bdd7cedde03974a94406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "TransformerのSelf AttentionのQKVを直感的に解説する",
+          "url": "https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-10T07:16:28+09:00"
+          "date": "2026-05-10T08:52:36+09:00"
         },
         {
-          "title": "PRを出す前にコミット履歴を整えろと先輩に叩き込まれた話 〜git rebase -i 入門〜",
-          "url": "https://qiita.com/shimitaro/items/c63073fef7fb87d9f472?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "OpenAI gpt-realtime-2 の reasoning.effort を 5 段階全部試した：xhigh の存在に気づいたか？",
+          "url": "https://qiita.com/shinonome_taku/items/25b51466db51d7032cf6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-10T01:02:45+09:00"
-        },
-        {
-          "title": "LangflowでLangfuse(self-host)を使ってLLMOps試す・前編",
-          "url": "https://qiita.com/mizuk1013/items/7f555a2e8f79f15db813?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-09T23:09:24+09:00"
-        },
-        {
-          "title": "「冷蔵と冷凍と常温を分けて！」：超新人エンジニア向け クラス設計の話",
-          "url": "https://qiita.com/kimagurehero98/items/3242437ac35fb9a7e5b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-09T20:33:17+09:00"
+          "date": "2026-05-10T07:19:04+09:00"
         }
       ]
     }
