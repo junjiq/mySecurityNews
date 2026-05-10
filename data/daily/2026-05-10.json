@@ -1,8 +1,8 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T18:48:17.168001+00:00",
-  "total_articles": 47,
-  "urgent_count": 3,
+  "generated_at": "2026-05-10T19:26:29.402019+00:00",
+  "total_articles": 45,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Incident Report: CVE-2024-YIKES",
@@ -17,27 +17,28 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-09T20:31:21+00:00"
-    },
-    {
-      "title": "\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
-      "url": "https://www.copahost.com/blog/dirty-frag-cve-2026-43284/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-09T18:59:49+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 38,
       "top_items": [
         {
           "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
           "url": "https://github.com/imtomt/ymawky",
-          "score": 344,
+          "score": 363,
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T03:01:44+00:00"
+        },
+        {
+          "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+          "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+          "score": 287,
+          "source": "hn",
+          "severity": "medium",
+          "date": "2026-05-10T14:47:05+00:00"
         },
         {
           "title": "Debian must ship reproducible packages",
@@ -48,28 +49,20 @@
           "date": "2026-05-10T05:26:03+00:00"
         },
         {
+          "title": "Hardware Attestation as Monopoly Enabler",
+          "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+          "score": 268,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-10T17:54:02+00:00"
+        },
+        {
           "title": "Space Cadet Pinball on Linux",
           "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-          "score": 256,
+          "score": 260,
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T11:22:02+00:00"
-        },
-        {
-          "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
-          "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-          "score": 252,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-05-10T14:47:05+00:00"
-        },
-        {
-          "title": "Local privilege escalation via execve()",
-          "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-          "score": 190,
-          "source": "hn",
-          "severity": "high",
-          "date": "2026-05-09T20:31:21+00:00"
         }
       ]
     },
