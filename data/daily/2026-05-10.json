@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T16:20:10.888004+00:00",
-  "total_articles": 44,
+  "generated_at": "2026-05-10T16:47:52.493558+00:00",
+  "total_articles": 46,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,16 +22,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 39,
       "top_items": [
-        {
-          "title": "I’ve banned query strings",
-          "url": "https://chrismorgan.info/no-query-strings",
-          "score": 494,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-09T16:28:36+00:00"
-        },
         {
           "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
           "url": "https://github.com/imtomt/ymawky",
@@ -59,10 +51,18 @@
         {
           "title": "Space Cadet Pinball on Linux",
           "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-          "score": 210,
+          "score": 223,
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T11:22:02+00:00"
+        },
+        {
+          "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+          "url": "https://github.com/nooga/let-go",
+          "score": 203,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-09T17:52:13+00:00"
         }
       ]
     },
