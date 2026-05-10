@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-10T08:15:38.219058+00:00",
+  "generated_at": "2026-05-10T09:06:37.899260+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 360,
@@ -10,7 +10,7 @@
   "severity_counts": {
     "high": 11,
     "medium": 5,
-    "critical": 6
+    "critical": 5
   },
   "top_articles": [
     {
@@ -40,13 +40,6 @@
       "score": 1427,
       "source": "hn",
       "date": "2026-05-08T18:45:58+00:00"
-    },
-    {
-      "title": "Talking to strangers at the gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1382,
-      "source": "hn",
-      "date": "2026-05-04T11:41:02+00:00"
     },
     {
       "title": "Cloudflare to cut about 20% of its workforce",
@@ -142,7 +135,7 @@
     {
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 628,
+      "score": 630,
       "source": "hn",
       "date": "2026-05-09T02:41:42+00:00"
     },
@@ -152,6 +145,13 @@
       "score": 614,
       "source": "hn",
       "date": "2026-05-08T13:56:10+00:00"
+    },
+    {
+      "title": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "score": 606,
+      "source": "hn",
+      "date": "2026-05-09T12:00:30+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-04T17:46:32+00:00"
-    },
-    {
-      "title": "Adding a feature to a closed-source app",
-      "url": "https://www.stavros.io/posts/adding-a-feature-to-a-closed-source-app/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-04T12:12:42+00:00"
     }
   ]
 }
