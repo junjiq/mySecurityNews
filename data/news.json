@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-05-10T06:03:21.052689+00:00",
+  "updated_at": "2026-05-10T07:19:02.073181+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48081245",
+      "source": "hn",
+      "title": "Debian must ship reproducible packages",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "score": 55,
+      "comments": 10,
+      "author": "robalni",
+      "tags": [],
+      "date": "2026-05-10T05:26:03+00:00"
+    },
+    {
+      "id": "hn-48081094",
+      "source": "hn",
+      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+      "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+      "score": 8,
+      "comments": 3,
+      "author": "AuthorizedCust",
+      "tags": [],
+      "date": "2026-05-10T04:47:45+00:00"
+    },
     {
       "id": "hn-48080702",
       "source": "hn",
       "title": "Gemini API File Search is now multimodal",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "score": 45,
-      "comments": 2,
+      "score": 60,
+      "comments": 6,
       "author": "gmays",
       "tags": [],
       "date": "2026-05-10T03:22:02+00:00"
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
       "url": "https://github.com/imtomt/ymawky",
-      "score": 143,
-      "comments": 55,
+      "score": 194,
+      "comments": 80,
       "author": "imtomt",
       "tags": [],
       "date": "2026-05-10T03:01:44+00:00"
@@ -99,8 +121,8 @@
       "source": "hn",
       "title": "Show HN: Rust but Lisp",
       "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "score": 113,
-      "comments": 60,
+      "score": 122,
+      "comments": 64,
       "author": "thatxliner",
       "tags": [],
       "date": "2026-05-09T21:46:27+00:00"
@@ -121,8 +143,8 @@
       "source": "hn",
       "title": "Local privilege escalation via execve()",
       "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "score": 122,
-      "comments": 69,
+      "score": 132,
+      "comments": 72,
       "author": "Deeg9rie9usi",
       "tags": [],
       "date": "2026-05-09T20:31:21+00:00",
@@ -144,8 +166,8 @@
       "source": "hn",
       "title": "Surfel-based global illumination on the web",
       "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
-      "score": 41,
-      "comments": 3,
+      "score": 49,
+      "comments": 5,
       "author": "vmg12",
       "tags": [],
       "date": "2026-05-09T19:09:34+00:00"
@@ -178,7 +200,7 @@
       "source": "hn",
       "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
       "url": "https://github.com/nooga/let-go",
-      "score": 132,
+      "score": 143,
       "comments": 39,
       "author": "marcingas",
       "tags": [],
@@ -189,8 +211,8 @@
       "source": "hn",
       "title": "Zed Editor Theme-Builder",
       "url": "https://zed.dev/theme-builder",
-      "score": 190,
-      "comments": 54,
+      "score": 198,
+      "comments": 57,
       "author": "cuechan",
       "tags": [],
       "date": "2026-05-09T17:30:39+00:00"
@@ -200,7 +222,7 @@
       "source": "hn",
       "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
       "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "score": 117,
+      "score": 121,
       "comments": 66,
       "author": "ggallas",
       "tags": [],
@@ -212,8 +234,8 @@
       "source": "hn",
       "title": "I’ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
-      "score": 336,
-      "comments": 186,
+      "score": 356,
+      "comments": 200,
       "author": "susam",
       "tags": [],
       "date": "2026-05-09T16:28:36+00:00"
@@ -269,8 +291,8 @@
       "source": "hn",
       "title": "Distributing Mac software is increasing my cortisol levels",
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "score": 253,
-      "comments": 174,
+      "score": 268,
+      "comments": 179,
       "author": "LorenDB",
       "tags": [],
       "date": "2026-05-09T14:40:58+00:00"
@@ -360,8 +382,8 @@
       "source": "hn",
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 583,
-      "comments": 88,
+      "score": 592,
+      "comments": 90,
       "author": "hggh",
       "tags": [],
       "date": "2026-05-09T12:00:30+00:00"
@@ -408,8 +430,8 @@
       "source": "hn",
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 493,
-      "comments": 463,
+      "score": 516,
+      "comments": 476,
       "author": "heldrida",
       "tags": [],
       "date": "2026-05-09T10:12:55+00:00"
@@ -430,8 +452,8 @@
       "source": "hn",
       "title": "LLMs corrupt your documents when you delegate",
       "url": "https://arxiv.org/abs/2604.15597",
-      "score": 385,
-      "comments": 148,
+      "score": 393,
+      "comments": 151,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-09T08:44:34+00:00"
@@ -476,8 +498,8 @@
       "source": "hn",
       "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
       "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "score": 468,
-      "comments": 313,
+      "score": 504,
+      "comments": 334,
       "author": "muse900",
       "tags": [],
       "date": "2026-05-09T05:52:12+00:00"
@@ -549,8 +571,8 @@
       "source": "hn",
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 622,
-      "comments": 450,
+      "score": 626,
+      "comments": 454,
       "author": "_alternator_",
       "tags": [],
       "date": "2026-05-09T02:41:42+00:00"
@@ -1536,6 +1558,17 @@
       "date": "2026-05-08T03:09:22+09:00"
     },
     {
+      "id": "hn-48052656",
+      "source": "hn",
+      "title": "A construction of the Hat tilings by a Markov partition",
+      "url": "https://www.mathstat.dal.ca/~selinger/hat-partition/",
+      "score": 5,
+      "comments": 1,
+      "author": "robinhouston",
+      "tags": [],
+      "date": "2026-05-07T18:03:15+00:00"
+    },
+    {
       "id": "hn-48052537",
       "source": "hn",
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
@@ -1766,8 +1799,8 @@
       "source": "hn",
       "title": "The Serial TTL connector we deserve",
       "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
-      "score": 76,
-      "comments": 52,
+      "score": 80,
+      "comments": 55,
       "author": "kohlschuetter",
       "tags": [],
       "date": "2026-05-07T14:19:55+00:00"
@@ -1833,8 +1866,8 @@
       "source": "hn",
       "title": "Making your own programming language is easier than you think (but also harder)",
       "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
-      "score": 75,
-      "comments": 35,
+      "score": 86,
+      "comments": 39,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-07T13:01:21+00:00"
@@ -1844,8 +1877,8 @@
       "source": "hn",
       "title": "The One Dollar Counterfeiter",
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "score": 37,
-      "comments": 11,
+      "score": 69,
+      "comments": 18,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-05-07T12:40:35+00:00"
@@ -1866,8 +1899,8 @@
       "source": "hn",
       "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
       "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "score": 70,
-      "comments": 25,
+      "score": 91,
+      "comments": 34,
       "author": "dr_kiszonka",
       "tags": [],
       "date": "2026-05-07T12:09:47+00:00"
@@ -2625,8 +2658,8 @@
       "source": "hn",
       "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
       "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
-      "score": 80,
-      "comments": 20,
+      "score": 87,
+      "comments": 25,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-06T17:52:29+00:00"
@@ -2694,7 +2727,7 @@
       "source": "hn",
       "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
       "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
-      "score": 49,
+      "score": 50,
       "comments": 1,
       "author": "rsecora",
       "tags": [],
@@ -2884,8 +2917,8 @@
       "source": "hn",
       "title": "We see something that works, and then we understand it",
       "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-      "score": 20,
-      "comments": 4,
+      "score": 52,
+      "comments": 11,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-06T15:15:23+00:00"
@@ -5116,39 +5149,6 @@
       "date": "2026-05-04T09:40:06+00:00"
     },
     {
-      "id": "hn-48006403",
-      "source": "hn",
-      "title": "Setting up server monitoring for a Rails app on Hatchbox",
-      "url": "https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html",
-      "score": 10,
-      "comments": 1,
-      "author": "andreigaspar",
-      "tags": [],
-      "date": "2026-05-04T09:31:31+00:00"
-    },
-    {
-      "id": "hn-48006402",
-      "source": "hn",
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 656,
-      "comments": 628,
-      "author": "n1b0m",
-      "tags": [],
-      "date": "2026-05-04T09:31:12+00:00"
-    },
-    {
-      "id": "hn-48006123",
-      "source": "hn",
-      "title": "Over 8M Thermos jars and bottles recalled after 3 people lost vision",
-      "url": "https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152",
-      "score": 78,
-      "comments": 59,
-      "author": "taubek",
-      "tags": [],
-      "date": "2026-05-04T08:40:41+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5359,6 +5359,71 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-58d44043f9",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ユーザーストレスを低減するローディング体験の4原則",
+      "url": "https://zenn.dev/akfm/articles/better-loading-ux",
+      "score": null,
+      "author": "akfm_sato",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 10 May 2026 01:07:34 GMT"
+    },
+    {
+      "id": "zenn-a6df0f9b74",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する",
+      "url": "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
+      "score": null,
+      "author": "Junji Uehara",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 09 May 2026 23:35:10 GMT"
+    },
+    {
+      "id": "zenn-ddff40ae25",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Ubuntu ServerにOpenZFSを入れてNASとして運用する",
+      "url": "https://zenn.dev/neet/articles/903f811223936a",
+      "score": null,
+      "author": "Ryō Igarashi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 09 May 2026 15:24:13 GMT"
+    },
+    {
+      "id": "zenn-b7eb444223",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "なぜ Tailwind CSS は line-height を leading と呼ぶのか？ 由来や経緯を調べてみた",
+      "url": "https://zenn.dev/y_ta/articles/why-tailwind-leading-tracking",
+      "score": null,
+      "author": "y_ta@駆け出しWebエンジニア",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 09 May 2026 12:58:38 GMT"
+    },
+    {
+      "id": "zenn-b765294245",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AI時代の「作らない判断」",
+      "url": "https://zenn.dev/mrksye/articles/852ae582426665",
+      "score": null,
+      "author": "Mrksye",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 09 May 2026 06:39:37 GMT"
+    },
+    {
       "id": "zenn-be5345b601",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5424,6 +5489,19 @@
       "date": "Fri, 08 May 2026 09:00:09 GMT"
     },
     {
+      "id": "zenn-7e9dc35574",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Code × build123d で3Dプリント用モデルを作る",
+      "url": "https://zenn.dev/optimisuke/articles/ef65833d6630ab",
+      "score": null,
+      "author": "Naosuke",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 08 May 2026 07:50:02 GMT"
+    },
+    {
       "id": "zenn-3694e96f6d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5450,19 +5528,6 @@
       "date": "Fri, 08 May 2026 04:20:29 GMT"
     },
     {
-      "id": "zenn-8659cf6ab5",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AI に「リポジトリの地図」を渡す — マルチレポを束ねるセントラルリポジトリ設計",
-      "url": "https://zenn.dev/loglass/articles/17e1df6be6aeba",
-      "score": null,
-      "author": "Satoshi Kobayashi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 08 May 2026 02:57:05 GMT"
-    },
-    {
       "id": "zenn-2007911cdd",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5474,19 +5539,6 @@
         "Zenn"
       ],
       "date": "Fri, 08 May 2026 02:50:05 GMT"
-    },
-    {
-      "id": "zenn-4acab128d4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Code × arduino-cli で爆速電子工作",
-      "url": "https://zenn.dev/optimisuke/articles/b358f464414cf9",
-      "score": null,
-      "author": "Naosuke",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 08 May 2026 01:26:22 GMT"
     },
     {
       "id": "zenn-08689b1747",
@@ -5528,32 +5580,6 @@
       "date": "Thu, 07 May 2026 06:00:09 GMT"
     },
     {
-      "id": "zenn-a8f0303d02",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Web 標準動向 2026年4月版",
-      "url": "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202604",
-      "score": null,
-      "author": "Saji",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 07 May 2026 03:38:32 GMT"
-    },
-    {
-      "id": "zenn-0b3430e0ce",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った",
-      "url": "https://zenn.dev/pepabo/articles/74653f4d78eb7b",
-      "score": null,
-      "author": "Sangun",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 07 May 2026 00:50:05 GMT"
-    },
-    {
       "id": "zenn-e599d15fe7",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5567,19 +5593,6 @@
       "date": "Thu, 07 May 2026 00:00:09 GMT"
     },
     {
-      "id": "zenn-9761eca049",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Agentic Graph RAG MCPのススメ — Graph RAGは「単発」ではなく「対話」になった",
-      "url": "https://zenn.dev/aircloset/articles/341dffee42f454",
-      "score": null,
-      "author": "辻 亮佑",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 06 May 2026 23:58:38 GMT"
-    },
-    {
       "id": "zenn-d4dce26d9d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5591,19 +5604,6 @@
         "Zenn"
       ],
       "date": "Wed, 06 May 2026 14:59:38 GMT"
-    },
-    {
-      "id": "zenn-62b96d24d2",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AI時代だからこそ、バグの少ないコードを書くためにTDDを学んだ話",
-      "url": "https://zenn.dev/tacos/articles/57420c50c2794e",
-      "score": null,
-      "author": "タコス.dev",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 06 May 2026 12:33:03 GMT"
     },
     {
       "id": "zenn-3d40201816",
