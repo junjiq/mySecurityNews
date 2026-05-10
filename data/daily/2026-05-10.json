@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "generated_at": "2026-05-10T22:46:50.340991+00:00",
-  "total_articles": 47,
+  "generated_at": "2026-05-10T23:19:44.663592+00:00",
+  "total_articles": 48,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 36,
+      "count": 37,
       "top_items": [
         {
           "title": "Hardware Attestation as Monopoly Enabler",
           "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-          "score": 657,
+          "score": 693,
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T17:54:02+00:00"
@@ -28,10 +28,18 @@
         {
           "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
           "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-          "score": 409,
+          "score": 428,
           "source": "hn",
           "severity": "medium",
           "date": "2026-05-10T14:47:05+00:00"
+        },
+        {
+          "title": "Local AI needs to be the norm",
+          "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+          "score": 387,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-10T17:19:28+00:00"
         },
         {
           "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
@@ -42,17 +50,9 @@
           "date": "2026-05-10T03:01:44+00:00"
         },
         {
-          "title": "Local AI needs to be the norm",
-          "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-          "score": 331,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-10T17:19:28+00:00"
-        },
-        {
           "title": "Incident Report: CVE-2024-YIKES",
           "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-          "score": 305,
+          "score": 328,
           "source": "hn",
           "severity": "high",
           "date": "2026-05-10T17:43:10+00:00"
