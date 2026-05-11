@@ -1,7 +1,7 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T04:50:38.178652+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-05-11T06:17:40.787865+00:00",
+  "total_articles": 48,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -20,7 +20,7 @@
         {
           "title": "Hardware Attestation as Monopoly Enabler",
           "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-          "score": 1097,
+          "score": 1242,
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T17:54:02+00:00"
@@ -28,10 +28,18 @@
         {
           "title": "Local AI needs to be the norm",
           "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-          "score": 781,
+          "score": 883,
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T17:19:28+00:00"
+        },
+        {
+          "title": "Incident Report: CVE-2024-YIKES",
+          "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+          "score": 475,
+          "source": "hn",
+          "severity": "high",
+          "date": "2026-05-10T17:43:10+00:00"
         },
         {
           "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
@@ -40,14 +48,6 @@
           "source": "hn",
           "severity": "medium",
           "date": "2026-05-10T14:47:05+00:00"
-        },
-        {
-          "title": "Incident Report: CVE-2024-YIKES",
-          "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-          "score": 449,
-          "source": "hn",
-          "severity": "high",
-          "date": "2026-05-10T17:43:10+00:00"
         },
         {
           "title": "Space Cadet Pinball on Linux",
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "Agent Toolkit for AWSが持つ50種類のSkillsをStrands Agentsから実行する",
