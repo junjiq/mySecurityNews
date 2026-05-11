@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-05-11T20:36:01.851100+00:00",
+  "updated_at": "2026-05-11T21:31:19.267375+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48100662",
+      "source": "hn",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "score": 7,
+      "comments": 0,
+      "author": "showmypost",
+      "tags": [],
+      "date": "2026-05-11T21:04:10+00:00"
+    },
+    {
+      "id": "hn-48100192",
+      "source": "hn",
+      "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+      "url": "https://github.com/ab-613/opengravity",
+      "score": 7,
+      "comments": 4,
+      "author": "ab613",
+      "tags": [],
+      "date": "2026-05-11T20:23:25+00:00"
+    },
     {
       "id": "hn-48100152",
       "source": "hn",
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "Linux Terminal Memory Usage",
       "url": "https://gilesorr.com/blog/linux-terminal-memory-usage.html",
-      "score": 10,
-      "comments": 2,
+      "score": 19,
+      "comments": 14,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-11T19:49:39+00:00"
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "Library for fast mapping of Java records to native memory",
       "url": "https://github.com/mamba-studio/TypedMemory",
-      "score": 20,
-      "comments": 5,
+      "score": 57,
+      "comments": 17,
       "author": "joe_mwangi",
       "tags": [],
       "date": "2026-05-11T19:33:31+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
       "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-      "score": 113,
-      "comments": 49,
+      "score": 152,
+      "comments": 68,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-11T18:12:38+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 26,
-      "comments": 4,
+      "score": 74,
+      "comments": 23,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-11T17:53:08+00:00"
@@ -97,8 +119,8 @@
       "source": "hn",
       "title": "Interfaze: A new model architecture built for high accuracy at scale",
       "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "score": 61,
-      "comments": 15,
+      "score": 81,
+      "comments": 17,
       "author": "yoeven",
       "tags": [],
       "date": "2026-05-11T16:22:31+00:00"
@@ -119,8 +141,8 @@
       "source": "hn",
       "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
       "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "score": 301,
-      "comments": 92,
+      "score": 315,
+      "comments": 98,
       "author": "adamnemecek",
       "tags": [],
       "date": "2026-05-11T15:55:07+00:00"
@@ -165,8 +187,8 @@
       "source": "hn",
       "title": "Software engineering may no longer be a lifetime career",
       "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
-      "score": 253,
-      "comments": 458,
+      "score": 285,
+      "comments": 486,
       "author": "movis",
       "tags": [],
       "date": "2026-05-11T14:34:08+00:00"
@@ -220,8 +242,8 @@
       "source": "hn",
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "url": "https://ratty-term.org/",
-      "score": 545,
-      "comments": 176,
+      "score": 571,
+      "comments": 181,
       "author": "orhunp_",
       "tags": [],
       "date": "2026-05-11T10:13:04+00:00"
@@ -255,8 +277,8 @@
       "source": "hn",
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
       "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 458,
-      "comments": 308,
+      "score": 491,
+      "comments": 341,
       "author": "negura",
       "tags": [],
       "date": "2026-05-11T07:26:54+00:00"
@@ -380,8 +402,8 @@
       "source": "hn",
       "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
       "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 325,
-      "comments": 178,
+      "score": 327,
+      "comments": 182,
       "author": "susam",
       "tags": [],
       "date": "2026-05-11T02:43:34+00:00"
@@ -646,7 +668,7 @@
       "source": "hn",
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
       "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 184,
+      "score": 189,
       "comments": 9,
       "author": "zdw",
       "tags": [],
@@ -1596,8 +1618,8 @@
       "source": "hn",
       "title": "Counting Fast in Erlang with:counters and:atomics",
       "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
-      "score": 29,
-      "comments": 0,
+      "score": 48,
+      "comments": 2,
       "author": "malmz",
       "tags": [],
       "date": "2026-05-09T08:26:57+00:00"
@@ -1800,7 +1822,7 @@
       "source": "hn",
       "title": "The Boston library where you still can borrow a giant puppet",
       "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
-      "score": 21,
+      "score": 31,
       "comments": 2,
       "author": "gnabgib",
       "tags": [],
@@ -2099,8 +2121,8 @@
       "source": "hn",
       "title": "AMÁLIA and the future of European Portuguese LLMs",
       "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-      "score": 92,
-      "comments": 45,
+      "score": 101,
+      "comments": 51,
       "author": "johnbarron",
       "tags": [],
       "date": "2026-05-08T16:34:45+00:00"
@@ -2222,8 +2244,8 @@
       "source": "hn",
       "title": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
       "url": "https://imtomt.github.io/ymawky/",
-      "score": 81,
-      "comments": 27,
+      "score": 83,
+      "comments": 29,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-05-08T13:39:26+00:00"
@@ -2406,11 +2428,22 @@
       "source": "hn",
       "title": "Nullsoft, 1997-2004 (2004)",
       "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 153,
-      "comments": 50,
+      "score": 181,
+      "comments": 56,
       "author": "downbad_",
       "tags": [],
       "date": "2026-05-08T08:00:44+00:00"
+    },
+    {
+      "id": "hn-48059831",
+      "source": "hn",
+      "title": "I hate soldering existentially",
+      "url": "https://user8.bearblog.dev/rant/",
+      "score": 4,
+      "comments": 0,
+      "author": "James72689",
+      "tags": [],
+      "date": "2026-05-08T07:26:37+00:00"
     },
     {
       "id": "hn-48059761",
@@ -3047,6 +3080,17 @@
       "date": "2026-05-07T16:43:35+00:00"
     },
     {
+      "id": "hn-48051555",
+      "source": "hn",
+      "title": "The rise and fall of snake oil",
+      "url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
+      "score": 5,
+      "comments": 1,
+      "author": "samizdis",
+      "tags": [],
+      "date": "2026-05-07T16:43:11+00:00"
+    },
+    {
       "id": "qiita-b6c0ddbdee",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3253,8 +3297,8 @@
       "source": "hn",
       "title": "From Buffon's Needle to Buffon's Noodle",
       "url": "https://mbmccoy.dev/posts/buffons-noodle/",
-      "score": 14,
-      "comments": 3,
+      "score": 19,
+      "comments": 6,
       "author": "_alternator_",
       "tags": [],
       "date": "2026-05-07T13:42:15+00:00"
@@ -5127,50 +5171,6 @@
       "author": "zdw",
       "tags": [],
       "date": "2026-05-05T18:49:02+00:00"
-    },
-    {
-      "id": "hn-48026710",
-      "source": "hn",
-      "title": "The brave souls who bought a used, 340k-mile rental camper van",
-      "url": "https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van",
-      "score": 47,
-      "comments": 39,
-      "author": "PaulHoule",
-      "tags": [],
-      "date": "2026-05-05T18:43:14+00:00"
-    },
-    {
-      "id": "hn-48026412",
-      "source": "hn",
-      "title": "PySimpleGUI 6",
-      "url": "https://github.com/PySimpleGUI/PySimpleGUI",
-      "score": 87,
-      "comments": 46,
-      "author": "geophph",
-      "tags": [],
-      "date": "2026-05-05T18:18:42+00:00"
-    },
-    {
-      "id": "hn-48026349",
-      "source": "hn",
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "score": 280,
-      "comments": 333,
-      "author": "littlexsparkee",
-      "tags": [],
-      "date": "2026-05-05T18:13:47+00:00"
-    },
-    {
-      "id": "hn-48026342",
-      "source": "hn",
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "url": "https://paletteinspiration.com/",
-      "score": 167,
-      "comments": 58,
-      "author": "ouli",
-      "tags": [],
-      "date": "2026-05-05T18:13:14+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
