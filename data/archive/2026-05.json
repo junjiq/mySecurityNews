@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-11T03:09:39.158972+00:00",
+  "generated_at": "2026-05-11T04:50:38.221902+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 355,
-    "zennqiita": 93,
+    "hn": 357,
+    "zennqiita": 91,
     "project": 2
   },
   "severity_counts": {
-    "high": 11,
+    "high": 10,
     "medium": 6,
-    "critical": 5
+    "critical": 6
   },
   "top_articles": [
     {
@@ -51,7 +51,7 @@
     {
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 975,
+      "score": 1097,
       "source": "hn",
       "date": "2026-05-10T17:54:02+00:00"
     },
@@ -84,6 +84,13 @@
       "date": "2026-05-07T23:02:11+00:00"
     },
     {
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "score": 781,
+      "source": "hn",
+      "date": "2026-05-10T17:19:28+00:00"
+    },
+    {
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
       "score": 762,
@@ -112,6 +119,13 @@
       "date": "2026-05-06T15:06:37+00:00"
     },
     {
+      "title": "I returned to AWS and was reminded why I left",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "score": 694,
+      "source": "hn",
+      "date": "2026-05-09T08:37:41+00:00"
+    },
+    {
       "title": "AI slop is killing online communities",
       "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
       "score": 688,
@@ -133,25 +147,11 @@
       "date": "2026-05-09T10:12:55+00:00"
     },
     {
-      "title": "I returned to AWS and was reminded why I left",
-      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "score": 674,
-      "source": "hn",
-      "date": "2026-05-09T08:37:41+00:00"
-    },
-    {
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
       "score": 670,
       "source": "hn",
       "date": "2026-05-09T12:00:30+00:00"
-    },
-    {
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 669,
-      "source": "hn",
-      "date": "2026-05-10T17:19:28+00:00"
     }
   ],
   "security_highlights": [
@@ -175,6 +175,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-09T18:59:49+00:00"
+    },
+    {
+      "title": "Shelf Source: Tom MacWright",
+      "url": "https://roadlessread.com/views/ss-macwright",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-09T17:28:00+00:00"
     },
     {
       "title": "【ゼロデイ解説】DirtyFlag脆弱性の全貌・Dirty COW・Dirty Pipe・Dirty Fragのエクスプロイトコードを完全分解する",
@@ -259,13 +266,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-05T04:36:24+00:00"
-    },
-    {
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-05T03:43:08+00:00"
     }
   ]
 }
