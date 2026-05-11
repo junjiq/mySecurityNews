@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T16:55:06.754491+00:00",
+  "generated_at": "2026-05-11T17:41:14.739426+00:00",
   "total_articles": 40,
   "urgent_count": 2,
   "urgent_items": [
@@ -27,23 +27,15 @@
         {
           "title": "Hardware Attestation as Monopoly Enabler",
           "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-          "score": 1958,
+          "score": 1986,
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T17:54:02+00:00"
         },
         {
-          "title": "Local AI needs to be the norm",
-          "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-          "score": 1615,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-10T17:19:28+00:00"
-        },
-        {
           "title": "I'm going back to writing code by hand",
           "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-          "score": 733,
+          "score": 776,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T01:23:51+00:00"
@@ -57,9 +49,17 @@
           "date": "2026-05-10T17:43:10+00:00"
         },
         {
+          "title": "Mythos Finds a Curl Vulnerability",
+          "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+          "score": 497,
+          "source": "hn",
+          "severity": "high",
+          "date": "2026-05-11T06:39:08+00:00"
+        },
+        {
           "title": "Running local models on an M4 with 24GB memory",
           "url": "https://jola.dev/posts/running-local-models-on-m4",
-          "score": 477,
+          "score": 487,
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T23:09:10+00:00"
@@ -70,6 +70,14 @@
       "category": "日本語技術記事",
       "count": 11,
       "top_items": [
+        {
+          "title": "丸1日溶かした アンマネージドな MAM 登録：Windows 11新UI・MDM分岐・ライセンス罠を全部整理する【BYOD】",
+          "url": "https://qiita.com/carol0226/items/1b4eb70e10999f0c079c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-12T02:07:05+09:00"
+        },
         {
           "title": "「今日何してた？」に詰まる新人エンジニアへ。それ、スキルではなく“進め方”の問題です。",
           "url": "https://qiita.com/hitomin_poke/items/6dc096a87ac248e93f13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-11T12:55:14+09:00"
-        },
-        {
-          "title": "TanStack Queryでいい。もう自分でやらなくていい。",
-          "url": "https://qiita.com/nhatcaofedev/items/95f753e222480c5198e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-11T12:04:10+09:00"
         }
       ]
     }
