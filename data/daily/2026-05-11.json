@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T22:24:51.645801+00:00",
+  "generated_at": "2026-05-11T22:47:46.721246+00:00",
   "total_articles": 52,
   "urgent_count": 3,
   "urgent_items": [
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 38,
       "top_items": [
         {
           "title": "I'm going back to writing code by hand",
@@ -42,10 +42,18 @@
         {
           "title": "Ratty – A terminal emulator with inline 3D graphics",
           "url": "https://ratty-term.org/",
-          "score": 581,
+          "score": 584,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T10:13:04+00:00"
+        },
+        {
+          "title": "Gmail registration now requires scanning a QR code and sending a text message",
+          "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+          "score": 516,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-11T07:26:54+00:00"
         },
         {
           "title": "Running local models on an M4 with 24GB memory",
@@ -54,14 +62,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-10T23:09:10+00:00"
-        },
-        {
-          "title": "Gmail registration now requires scanning a QR code and sending a text message",
-          "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-          "score": 510,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-11T07:26:54+00:00"
         },
         {
           "title": "Mythos Finds a Curl Vulnerability",
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 14,
       "top_items": [
         {
           "title": "丸1日溶かした アンマネージドな MAM 登録：Windows 11新UI・MDM分岐・ライセンス罠を全部整理する【BYOD】",
