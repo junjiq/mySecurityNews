@@ -1,7 +1,7 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T22:47:46.721246+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-05-11T23:21:14.217138+00:00",
+  "total_articles": 48,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 36,
       "top_items": [
         {
           "title": "I'm going back to writing code by hand",
@@ -42,7 +42,7 @@
         {
           "title": "Ratty – A terminal emulator with inline 3D graphics",
           "url": "https://ratty-term.org/",
-          "score": 584,
+          "score": 590,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T10:13:04+00:00"
@@ -50,18 +50,10 @@
         {
           "title": "Gmail registration now requires scanning a QR code and sending a text message",
           "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-          "score": 516,
+          "score": 528,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T07:26:54+00:00"
-        },
-        {
-          "title": "Running local models on an M4 with 24GB memory",
-          "url": "https://jola.dev/posts/running-local-models-on-m4",
-          "score": 513,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-10T23:09:10+00:00"
         },
         {
           "title": "Mythos Finds a Curl Vulnerability",
@@ -70,12 +62,20 @@
           "source": "hn",
           "severity": "high",
           "date": "2026-05-11T06:39:08+00:00"
+        },
+        {
+          "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+          "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+          "score": 343,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-11T15:55:07+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 12,
       "top_items": [
         {
           "title": "丸1日溶かした アンマネージドな MAM 登録：Windows 11新UI・MDM分岐・ライセンス罠を全部整理する【BYOD】",
