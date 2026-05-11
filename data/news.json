@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-05-11T06:17:40.722790+00:00",
+  "updated_at": "2026-05-11T07:46:11.504904+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48091737",
+      "source": "hn",
+      "title": "Mythos Finds a Curl Vulnerability",
+      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "score": 31,
+      "comments": 9,
+      "author": "TangerineDream",
+      "tags": [],
+      "date": "2026-05-11T06:39:08+00:00",
+      "severity": "high"
+    },
     {
       "id": "hn-48091085",
       "source": "hn",
       "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
       "url": "https://matt.might.net/articles/implementing-a-programming-language/",
-      "score": 18,
-      "comments": 1,
+      "score": 40,
+      "comments": 8,
       "author": "azhenley",
       "tags": [],
       "date": "2026-05-11T04:34:40+00:00"
@@ -18,8 +30,8 @@
       "source": "hn",
       "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
       "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 88,
-      "comments": 32,
+      "score": 126,
+      "comments": 44,
       "author": "susam",
       "tags": [],
       "date": "2026-05-11T02:43:34+00:00"
@@ -42,8 +54,8 @@
       "source": "hn",
       "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
       "url": "https://github.com/adamjgmiller/adamsreview",
-      "score": 17,
-      "comments": 1,
+      "score": 24,
+      "comments": 6,
       "author": "adamthegoalie",
       "tags": [],
       "date": "2026-05-11T02:06:29+00:00"
@@ -53,8 +65,8 @@
       "source": "hn",
       "title": "I'm going back to writing code by hand",
       "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 212,
-      "comments": 85,
+      "score": 287,
+      "comments": 117,
       "author": "dropbox_miner",
       "tags": [],
       "date": "2026-05-11T01:23:51+00:00"
@@ -86,8 +98,8 @@
       "source": "hn",
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
       "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "score": 107,
-      "comments": 23,
+      "score": 135,
+      "comments": 34,
       "author": "cratermoon",
       "tags": [],
       "date": "2026-05-10T23:39:55+00:00"
@@ -108,8 +120,8 @@
       "source": "hn",
       "title": "Running local models on an M4 with 24GB memory",
       "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "score": 230,
-      "comments": 77,
+      "score": 267,
+      "comments": 82,
       "author": "shintoist",
       "tags": [],
       "date": "2026-05-10T23:09:10+00:00"
@@ -119,8 +131,8 @@
       "source": "hn",
       "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
       "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-      "score": 49,
-      "comments": 10,
+      "score": 66,
+      "comments": 16,
       "author": "adunk",
       "tags": [],
       "date": "2026-05-10T23:02:31+00:00"
@@ -130,8 +142,8 @@
       "source": "hn",
       "title": "Obsidian plugin was abused to deploy a remote access trojan",
       "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "score": 151,
-      "comments": 74,
+      "score": 180,
+      "comments": 86,
       "author": "cmbailey",
       "tags": [],
       "date": "2026-05-10T22:02:43+00:00"
@@ -174,8 +186,8 @@
       "source": "hn",
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 1242,
-      "comments": 405,
+      "score": 1373,
+      "comments": 454,
       "author": "ChuckMcM",
       "tags": [],
       "date": "2026-05-10T17:54:02+00:00"
@@ -185,8 +197,8 @@
       "source": "hn",
       "title": "Incident Report: CVE-2024-YIKES",
       "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 475,
-      "comments": 117,
+      "score": 497,
+      "comments": 126,
       "author": "miniBill",
       "tags": [],
       "date": "2026-05-10T17:43:10+00:00",
@@ -197,8 +209,8 @@
       "source": "hn",
       "title": "Local AI needs to be the norm",
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 883,
-      "comments": 394,
+      "score": 993,
+      "comments": 432,
       "author": "cylo",
       "tags": [],
       "date": "2026-05-10T17:19:28+00:00"
@@ -208,8 +220,8 @@
       "source": "hn",
       "title": "Traces Of Humanity",
       "url": "https://tracesofhumanity.org/hello-world/",
-      "score": 142,
-      "comments": 20,
+      "score": 153,
+      "comments": 22,
       "author": "alex77456",
       "tags": [],
       "date": "2026-05-10T17:15:10+00:00"
@@ -276,8 +288,8 @@
       "source": "hn",
       "title": "The locals don't know",
       "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
-      "score": 128,
-      "comments": 99,
+      "score": 148,
+      "comments": 105,
       "author": "herbertl",
       "tags": [],
       "date": "2026-05-10T16:03:37+00:00"
@@ -829,7 +841,7 @@
       "source": "hn",
       "title": "Shelf Source: Tom MacWright",
       "url": "https://roadlessread.com/views/ss-macwright",
-      "score": 7,
+      "score": 13,
       "comments": 0,
       "author": "tobr",
       "tags": [],
@@ -1134,8 +1146,8 @@
       "source": "hn",
       "title": "I returned to AWS and was reminded why I left",
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "score": 712,
-      "comments": 515,
+      "score": 746,
+      "comments": 524,
       "author": "andrewstuart",
       "tags": [],
       "date": "2026-05-09T08:37:41+00:00"
@@ -1522,6 +1534,17 @@
       "date": "2026-05-08T18:45:58+00:00"
     },
     {
+      "id": "hn-48066872",
+      "source": "hn",
+      "title": "Ice Cream Blending (1965) [pdf]",
+      "url": "https://bitsavers.org/pdf/ibm/generalInfo/E20-0156-0_Linear_Programming_-_Ice_Cream_Blending.pdf",
+      "score": 6,
+      "comments": 1,
+      "author": "ok123456",
+      "tags": [],
+      "date": "2026-05-08T18:21:55+00:00"
+    },
+    {
       "id": "hn-48066592",
       "source": "hn",
       "title": "Teaching Claude Why",
@@ -1784,7 +1807,7 @@
       "source": "hn",
       "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
       "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
-      "score": 101,
+      "score": 110,
       "comments": 61,
       "author": "JoachimSchipper",
       "tags": [],
@@ -1806,8 +1829,8 @@
       "source": "hn",
       "title": "Eight More '8-Bit Era' Microprocessors",
       "url": "https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors",
-      "score": 68,
-      "comments": 18,
+      "score": 69,
+      "comments": 22,
       "author": "klelatti",
       "tags": [],
       "date": "2026-05-08T11:21:26+00:00"
@@ -1911,8 +1934,8 @@
       "source": "hn",
       "title": "dBase: 1979-2026",
       "url": "https://delphinightmares.substack.com/p/dbase-1979-2026",
-      "score": 49,
-      "comments": 13,
+      "score": 64,
+      "comments": 17,
       "author": "deeaceofbase",
       "tags": [],
       "date": "2026-05-08T05:00:05+00:00"
@@ -2079,8 +2102,8 @@
       "source": "hn",
       "title": "Seeing Birdsong",
       "url": "https://www.lucioarese.net/seeing-birdsong/",
-      "score": 5,
-      "comments": 0,
+      "score": 18,
+      "comments": 1,
       "author": "carabiner",
       "tags": [],
       "date": "2026-05-08T00:55:25+00:00"
@@ -2113,7 +2136,7 @@
       "source": "hn",
       "title": "The people preserving the scientific practice of bird banding",
       "url": "https://thenarwhal.ca/bird-banding-ontario/",
-      "score": 47,
+      "score": 51,
       "comments": 0,
       "author": "bookofjoe",
       "tags": [],
@@ -2536,8 +2559,8 @@
       "source": "hn",
       "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
       "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
-      "score": 72,
-      "comments": 17,
+      "score": 85,
+      "comments": 20,
       "author": "robin_reala",
       "tags": [],
       "date": "2026-05-07T15:34:04+00:00"
@@ -5140,29 +5163,6 @@
       "date": "2026-05-05T04:47:11Z"
     },
     {
-      "id": "hn-48018080",
-      "source": "hn",
-      "title": "Kids bypass age verification with fake moustaches",
-      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
-      "score": 92,
-      "comments": 49,
-      "author": "dreadsword",
-      "tags": [],
-      "date": "2026-05-05T04:36:24+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-48018066",
-      "source": "hn",
-      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
-      "url": "https://walzr.com/empty-screenings",
-      "score": 297,
-      "comments": 246,
-      "author": "MrBuddyCasino",
-      "tags": [],
-      "date": "2026-05-05T04:33:22+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5373,6 +5373,58 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-de8a71696e",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "コードを書かなくなった我々は何者か —— Product / Platform / Evaluate の3職責でエンジニアの役割を再定義する",
+      "url": "https://zenn.dev/tokium_dev/articles/engineer-role-triangle-map",
+      "score": null,
+      "author": "にしこりさぶろ〜 | TOKIUM",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 11 May 2026 00:00:12 GMT"
+    },
+    {
+      "id": "zenn-e4f521e33b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "書籍のOCRにLLMを組み合わせることで精度を上げるだけでなく文書構造や図も表現した記録",
+      "url": "https://zenn.dev/phpmyadmin/articles/0dba6fef411e21",
+      "score": null,
+      "author": "toyoshi",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 10 May 2026 14:58:21 GMT"
+    },
+    {
+      "id": "zenn-7a63018b30",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Next.jsからQwikへ丸ごと移行してみた - 個人開発した動的Webアプリのリアーキテクチャ実録",
+      "url": "https://zenn.dev/connect0459/articles/rearchitect-from-next-to-qwik",
+      "score": null,
+      "author": "Akira",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 10 May 2026 12:00:18 GMT"
+    },
+    {
+      "id": "zenn-498247cf92",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Obsidianで日常の記録を取るようになってから変わったこと - 人生をハックする",
+      "url": "https://zenn.dev/dip_techblog/articles/d8d58c0f35708a",
+      "score": null,
+      "author": "たぬき",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 10 May 2026 08:33:41 GMT"
+    },
+    {
       "id": "zenn-51479cbf79",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5397,32 +5449,6 @@
         "Zenn"
       ],
       "date": "Sun, 10 May 2026 06:52:17 GMT"
-    },
-    {
-      "id": "zenn-1c0279c7f8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "天体可観測はISUNARABE合同演習2026に参加しました",
-      "url": "https://zenn.dev/celestial_o11y/articles/20260510-isunarabe-joint-training-2026",
-      "score": null,
-      "author": "柾樹",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 10 May 2026 03:50:17 GMT"
-    },
-    {
-      "id": "zenn-b6fb7b948c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIを使ったプロダクト開発も結局大量の意思決定だけが残ってしまった話、あるいは「作って学ぶ」話",
-      "url": "https://zenn.dev/kusuke/articles/1c3ffeecbb7761",
-      "score": null,
-      "author": "Yusuke Kawabata",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 10 May 2026 03:39:56 GMT"
     },
     {
       "id": "zenn-e39adc1439",
@@ -5450,19 +5476,6 @@
         "Zenn"
       ],
       "date": "Sun, 10 May 2026 02:53:33 GMT"
-    },
-    {
-      "id": "zenn-d1834900a9",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "gbrainに学ぶ、Agentの記憶基盤とKnowledge Graphの作り方",
-      "url": "https://zenn.dev/headwaters/articles/8bc4e8c3119fa3",
-      "score": null,
-      "author": "koki takeishi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 10 May 2026 02:34:06 GMT"
     },
     {
       "id": "zenn-58d44043f9",
@@ -5515,6 +5528,19 @@
         "Zenn"
       ],
       "date": "Sat, 09 May 2026 12:58:38 GMT"
+    },
+    {
+      "id": "zenn-ac4f59268d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "今日からできるAIワークフロー設計シリーズ：LLMアプリを本番業務に入れるための設計パターン集",
+      "url": "https://zenn.dev/kanaria007/articles/c74aae44ba99fb",
+      "score": null,
+      "author": "かなりあ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 09 May 2026 10:35:01 GMT"
     },
     {
       "id": "zenn-be5345b601",
@@ -5582,19 +5608,6 @@
       "date": "Fri, 08 May 2026 02:50:05 GMT"
     },
     {
-      "id": "zenn-4acab128d4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Code × arduino-cli で爆速電子工作",
-      "url": "https://zenn.dev/optimisuke/articles/b358f464414cf9",
-      "score": null,
-      "author": "Naosuke",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 08 May 2026 01:26:22 GMT"
-    },
-    {
       "id": "zenn-08689b1747",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5619,19 +5632,6 @@
         "Zenn"
       ],
       "date": "Thu, 07 May 2026 06:00:09 GMT"
-    },
-    {
-      "id": "zenn-e599d15fe7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "OpenAPIという間接的な型共有をやめてoRPCを導入した話",
-      "url": "https://zenn.dev/dress_code/articles/9040b2e3532693",
-      "score": null,
-      "author": "かわうそ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 07 May 2026 00:00:09 GMT"
     },
     {
       "id": "edb-6a1be6a4e3",
