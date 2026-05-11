@@ -1,17 +1,61 @@
 {
-  "updated_at": "2026-05-11T19:34:20.773080+00:00",
+  "updated_at": "2026-05-11T20:36:01.851100+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48100152",
+      "source": "hn",
+      "title": "590k buyers paid $59M for Trump's gold phone, but not one has shipped",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/590-000-buyers-paid-59-223500998.html",
+      "score": 10,
+      "comments": 6,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-05-11T20:19:38+00:00"
+    },
+    {
+      "id": "hn-48099790",
+      "source": "hn",
+      "title": "Linux Terminal Memory Usage",
+      "url": "https://gilesorr.com/blog/linux-terminal-memory-usage.html",
+      "score": 10,
+      "comments": 2,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-05-11T19:49:39+00:00"
+    },
+    {
+      "id": "hn-48099616",
+      "source": "hn",
+      "title": "Library for fast mapping of Java records to native memory",
+      "url": "https://github.com/mamba-studio/TypedMemory",
+      "score": 20,
+      "comments": 5,
+      "author": "joe_mwangi",
+      "tags": [],
+      "date": "2026-05-11T19:33:31+00:00"
+    },
     {
       "id": "hn-48098537",
       "source": "hn",
       "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
       "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-      "score": 4,
-      "comments": 0,
+      "score": 113,
+      "comments": 49,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-11T18:12:38+00:00"
+    },
+    {
+      "id": "hn-48098261",
+      "source": "hn",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "score": 26,
+      "comments": 4,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-05-11T17:53:08+00:00"
     },
     {
       "id": "hn-48098122",
@@ -53,8 +97,8 @@
       "source": "hn",
       "title": "Interfaze: A new model architecture built for high accuracy at scale",
       "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "score": 45,
-      "comments": 6,
+      "score": 61,
+      "comments": 15,
       "author": "yoeven",
       "tags": [],
       "date": "2026-05-11T16:22:31+00:00"
@@ -64,8 +108,8 @@
       "source": "hn",
       "title": "Show HN: TikTok but for Scientific Papers",
       "url": "https://andreaturchet.github.io/website/index.html",
-      "score": 62,
-      "comments": 38,
+      "score": 80,
+      "comments": 45,
       "author": "ciwrl",
       "tags": [],
       "date": "2026-05-11T16:05:50+00:00"
@@ -75,8 +119,8 @@
       "source": "hn",
       "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
       "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "score": 257,
-      "comments": 72,
+      "score": 301,
+      "comments": 92,
       "author": "adamnemecek",
       "tags": [],
       "date": "2026-05-11T15:55:07+00:00"
@@ -104,12 +148,25 @@
       "date": "2026-05-11T15:39:37+00:00"
     },
     {
+      "id": "qiita-c7f84d3390",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "\"国の借金\"とは何なのか？ ― 財源幻想・財政法・マクロ経済学の基本から日本経済を考える : Pythonで学ぶ マクロ経済学入門 (80)",
+      "url": "https://qiita.com/maskot1977/items/c4d369cb72aabcf26d77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-12T00:04:50+09:00"
+    },
+    {
       "id": "hn-48095550",
       "source": "hn",
       "title": "Software engineering may no longer be a lifetime career",
       "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
-      "score": 202,
-      "comments": 378,
+      "score": 253,
+      "comments": 458,
       "author": "movis",
       "tags": [],
       "date": "2026-05-11T14:34:08+00:00"
@@ -163,11 +220,24 @@
       "source": "hn",
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "url": "https://ratty-term.org/",
-      "score": 517,
-      "comments": 171,
+      "score": 545,
+      "comments": 176,
       "author": "orhunp_",
       "tags": [],
       "date": "2026-05-11T10:13:04+00:00"
+    },
+    {
+      "id": "qiita-46fc313572",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIが書くpandasコード、だいたい地雷が混じっている話",
+      "url": "https://qiita.com/ALeX_EXVS/items/cd2c603abf8b48fc23a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ALeX_EXVS",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-11T17:45:56+09:00"
     },
     {
       "id": "hn-48092367",
@@ -185,8 +255,8 @@
       "source": "hn",
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
       "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 406,
-      "comments": 264,
+      "score": 458,
+      "comments": 308,
       "author": "negura",
       "tags": [],
       "date": "2026-05-11T07:26:54+00:00"
@@ -280,12 +350,38 @@
       "date": "2026-05-11T12:04:10+09:00"
     },
     {
+      "id": "qiita-4b773fff0c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Amazon Quick 入門】Freeプランで使用できる4つの機能を体験してみた！",
+      "url": "https://qiita.com/yosuke-suzuki/items/54d5272459334faa6fa4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yosuke-suzuki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-11T11:58:43+09:00"
+    },
+    {
+      "id": "qiita-44b7a7b3fe",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Copilot Studio を使って問い合わせ文章から不足情報を自動抽出・追加入力させる仕組みを作ってみた",
+      "url": "https://qiita.com/sonooh/items/a8255796822ae652cd8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sonooh",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-11T11:50:35+09:00"
+    },
+    {
       "id": "hn-48090521",
       "source": "hn",
       "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
       "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 308,
-      "comments": 175,
+      "score": 325,
+      "comments": 178,
       "author": "susam",
       "tags": [],
       "date": "2026-05-11T02:43:34+00:00"
@@ -319,8 +415,8 @@
       "source": "hn",
       "title": "I'm going back to writing code by hand",
       "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 850,
-      "comments": 517,
+      "score": 877,
+      "comments": 544,
       "author": "dropbox_miner",
       "tags": [],
       "date": "2026-05-11T01:23:51+00:00"
@@ -418,6 +514,19 @@
       "date": "2026-05-10T23:02:31+00:00"
     },
     {
+      "id": "qiita-982bbc4e42",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【個人開発者必見】CodexとRemotionを使って動画編集未経験者が3日でプロモーションビデオを作った",
+      "url": "https://qiita.com/yoshikim1467/items/eccd50ba2e3ff24b70e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yoshikim1467",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-11T08:01:42+09:00"
+    },
+    {
       "id": "qiita-a80f15ab73",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -492,8 +601,8 @@
       "source": "hn",
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 2020,
-      "comments": 677,
+      "score": 2037,
+      "comments": 687,
       "author": "ChuckMcM",
       "tags": [],
       "date": "2026-05-10T17:54:02+00:00"
@@ -515,8 +624,8 @@
       "source": "hn",
       "title": "Local AI needs to be the norm",
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 1692,
-      "comments": 663,
+      "score": 1710,
+      "comments": 677,
       "author": "cylo",
       "tags": [],
       "date": "2026-05-10T17:19:28+00:00"
@@ -537,8 +646,8 @@
       "source": "hn",
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
       "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 173,
-      "comments": 8,
+      "score": 184,
+      "comments": 9,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-10T17:05:05+00:00"
@@ -1487,7 +1596,7 @@
       "source": "hn",
       "title": "Counting Fast in Erlang with:counters and:atomics",
       "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
-      "score": 4,
+      "score": 29,
       "comments": 0,
       "author": "malmz",
       "tags": [],
@@ -1689,10 +1798,10 @@
     {
       "id": "hn-48069685",
       "source": "hn",
-      "title": "The Boston Library Where You Still Can Borrow a Giant Puppet",
+      "title": "The Boston library where you still can borrow a giant puppet",
       "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
-      "score": 16,
-      "comments": 0,
+      "score": 21,
+      "comments": 2,
       "author": "gnabgib",
       "tags": [],
       "date": "2026-05-08T22:47:06+00:00"
@@ -1990,8 +2099,8 @@
       "source": "hn",
       "title": "AMÁLIA and the future of European Portuguese LLMs",
       "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-      "score": 84,
-      "comments": 37,
+      "score": 92,
+      "comments": 45,
       "author": "johnbarron",
       "tags": [],
       "date": "2026-05-08T16:34:45+00:00"
@@ -2113,8 +2222,8 @@
       "source": "hn",
       "title": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
       "url": "https://imtomt.github.io/ymawky/",
-      "score": 72,
-      "comments": 26,
+      "score": 81,
+      "comments": 27,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-05-08T13:39:26+00:00"
@@ -2136,8 +2245,8 @@
       "source": "hn",
       "title": "Holding Community Space",
       "url": "https://supernuclear.substack.com/p/building-a-space-people-never-want",
-      "score": 20,
-      "comments": 13,
+      "score": 31,
+      "comments": 20,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-08T13:15:14+00:00"
@@ -2297,8 +2406,8 @@
       "source": "hn",
       "title": "Nullsoft, 1997-2004 (2004)",
       "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 130,
-      "comments": 41,
+      "score": 153,
+      "comments": 50,
       "author": "downbad_",
       "tags": [],
       "date": "2026-05-08T08:00:44+00:00"
@@ -2433,8 +2542,8 @@
       "source": "hn",
       "title": "Guitar tuner that uses phone accelerometer",
       "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
-      "score": 133,
-      "comments": 76,
+      "score": 138,
+      "comments": 80,
       "author": "adm4",
       "tags": [],
       "date": "2026-05-08T03:43:08+00:00"
@@ -5062,107 +5171,6 @@
       "author": "ouli",
       "tags": [],
       "date": "2026-05-05T18:13:14+00:00"
-    },
-    {
-      "id": "hn-48026207",
-      "source": "hn",
-      "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-      "score": 279,
-      "comments": 252,
-      "author": "spankibalt",
-      "tags": [],
-      "date": "2026-05-05T18:04:25+00:00"
-    },
-    {
-      "id": "hn-48026206",
-      "source": "hn",
-      "title": "Clarification on the Notepad++ Trademark Issue",
-      "url": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
-      "score": 103,
-      "comments": 42,
-      "author": "minimaxir",
-      "tags": [],
-      "date": "2026-05-05T18:04:20+00:00"
-    },
-    {
-      "id": "hn-48026021",
-      "source": "hn",
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2604.26752",
-      "score": 131,
-      "comments": 27,
-      "author": "gmays",
-      "tags": [],
-      "date": "2026-05-05T17:52:31+00:00"
-    },
-    {
-      "id": "hn-48025828",
-      "source": "hn",
-      "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
-      "url": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
-      "score": 35,
-      "comments": 10,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-05-05T17:38:17+00:00"
-    },
-    {
-      "id": "qiita-9b38d303e5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Delphi】インターネットから DL したファイルを開こうとすると出る警告を消す",
-      "url": "https://qiita.com/ht_deko/items/96d8fcda69701f1e75c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ht_deko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-06T02:32:59+09:00"
-    },
-    {
-      "id": "hn-48025540",
-      "source": "hn",
-      "title": "Building my own Vi text editor in BASIC",
-      "url": "https://leetusman.com/nosebook/yvi",
-      "score": 57,
-      "comments": 27,
-      "author": "zeech",
-      "tags": [],
-      "date": "2026-05-05T17:18:21+00:00"
-    },
-    {
-      "id": "hn-48025374",
-      "source": "hn",
-      "title": "Easy Random Trees",
-      "url": "https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html",
-      "score": 18,
-      "comments": 1,
-      "author": "aebtebeten",
-      "tags": [],
-      "date": "2026-05-05T17:08:24+00:00"
-    },
-    {
-      "id": "hn-48025244",
-      "source": "hn",
-      "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-      "score": 1,
-      "comments": 0,
-      "author": "pablo24602",
-      "tags": [],
-      "date": "2026-05-05T17:00:16+00:00"
-    },
-    {
-      "id": "hn-48024859",
-      "source": "hn",
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 452,
-      "comments": 247,
-      "author": "palashawas",
-      "tags": [],
-      "date": "2026-05-05T16:34:48+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

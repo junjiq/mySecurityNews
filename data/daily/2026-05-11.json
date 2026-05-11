@@ -1,7 +1,7 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T19:34:20.843528+00:00",
-  "total_articles": 42,
+  "generated_at": "2026-05-11T20:36:01.907345+00:00",
+  "total_articles": 50,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 31,
+      "count": 34,
       "top_items": [
         {
           "title": "I'm going back to writing code by hand",
           "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-          "score": 850,
+          "score": 877,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T01:23:51+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Ratty – A terminal emulator with inline 3D graphics",
           "url": "https://ratty-term.org/",
-          "score": 517,
+          "score": 545,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T10:13:04+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "Gmail registration now requires scanning a QR code and sending a text message",
           "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-          "score": 406,
+          "score": 458,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T07:26:54+00:00"
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 16,
       "top_items": [
         {
           "title": "丸1日溶かした アンマネージドな MAM 登録：Windows 11新UI・MDM分岐・ライセンス罠を全部整理する【BYOD】",
@@ -70,6 +70,22 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-12T02:07:05+09:00"
+        },
+        {
+          "title": "\"国の借金\"とは何なのか？ ― 財源幻想・財政法・マクロ経済学の基本から日本経済を考える : Pythonで学ぶ マクロ経済学入門 (80)",
+          "url": "https://qiita.com/maskot1977/items/c4d369cb72aabcf26d77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-12T00:04:50+09:00"
+        },
+        {
+          "title": "AIが書くpandasコード、だいたい地雷が混じっている話",
+          "url": "https://qiita.com/ALeX_EXVS/items/cd2c603abf8b48fc23a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-11T17:45:56+09:00"
         },
         {
           "title": "「今日何してた？」に詰まる新人エンジニアへ。それ、スキルではなく“進め方”の問題です。",
@@ -86,22 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-11T13:17:10+09:00"
-        },
-        {
-          "title": "New Relic Workflow AutomationのTrigger設計ガイド：自動化をいつ・誰が・どう動かすか",
-          "url": "https://qiita.com/MarthaS/items/0f16b486293255497aa2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-11T13:03:04+09:00"
-        },
-        {
-          "title": "よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）",
-          "url": "https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-11T12:55:14+09:00"
         }
       ]
     }
