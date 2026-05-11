@@ -1,9 +1,23 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T21:31:19.338575+00:00",
-  "total_articles": 51,
-  "urgent_count": 1,
+  "generated_at": "2026-05-11T22:24:51.645801+00:00",
+  "total_articles": 52,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-11T20:51:57+00:00"
+    },
+    {
+      "title": "Show HN: E2a – Open-source email gateway for AI agents",
+      "url": "https://github.com/Mnexa-AI/e2a",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-11T20:26:17+00:00"
+    },
     {
       "title": "Mythos Finds a Curl Vulnerability",
       "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
@@ -15,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 37,
       "top_items": [
         {
           "title": "I'm going back to writing code by hand",
@@ -28,7 +42,7 @@
         {
           "title": "Ratty – A terminal emulator with inline 3D graphics",
           "url": "https://ratty-term.org/",
-          "score": 571,
+          "score": 581,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T10:13:04+00:00"
@@ -42,26 +56,26 @@
           "date": "2026-05-10T23:09:10+00:00"
         },
         {
+          "title": "Gmail registration now requires scanning a QR code and sending a text message",
+          "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+          "score": 510,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-11T07:26:54+00:00"
+        },
+        {
           "title": "Mythos Finds a Curl Vulnerability",
           "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
           "score": 497,
           "source": "hn",
           "severity": "high",
           "date": "2026-05-11T06:39:08+00:00"
-        },
-        {
-          "title": "Gmail registration now requires scanning a QR code and sending a text message",
-          "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-          "score": 491,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-11T07:26:54+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 15,
       "top_items": [
         {
           "title": "丸1日溶かした アンマネージドな MAM 登録：Windows 11新UI・MDM分岐・ライセンス罠を全部整理する【BYOD】",

@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-11T21:31:19.382155+00:00",
+  "generated_at": "2026-05-11T22:24:51.685407+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99
+    "hn": 352,
+    "zennqiita": 98
   },
   "severity_counts": {
+    "critical": 8,
     "high": 10,
-    "medium": 6,
-    "critical": 6
+    "medium": 6
   },
   "top_articles": [
     {
@@ -154,6 +154,20 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-11T20:51:57+00:00"
+    },
+    {
+      "title": "Show HN: E2a – Open-source email gateway for AI agents",
+      "url": "https://github.com/Mnexa-AI/e2a",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-11T20:26:17+00:00"
+    },
     {
       "title": "Mythos Finds a Curl Vulnerability",
       "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
