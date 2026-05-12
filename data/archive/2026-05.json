@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-12T17:16:17.979056+00:00",
-  "total_articles": 450,
+  "generated_at": "2026-05-12T18:13:04.759548+00:00",
+  "total_articles": 457,
   "source_counts": {
-    "hn": 354,
+    "hn": 361,
     "zennqiita": 96
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "high": 10,
     "medium": 5
   },
@@ -57,7 +57,7 @@
     {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 1003,
+      "score": 1020,
       "source": "hn",
       "date": "2026-05-11T21:08:25+00:00"
     },
@@ -125,6 +125,13 @@
       "date": "2026-05-07T18:46:25+00:00"
     },
     {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 680,
+      "source": "hn",
+      "date": "2026-05-12T14:54:41+00:00"
+    },
+    {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
       "score": 677,
@@ -144,16 +151,16 @@
       "score": 665,
       "source": "hn",
       "date": "2026-05-09T02:41:42+00:00"
-    },
-    {
-      "title": "Incident Report: CVE-2024-YIKES",
-      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 654,
-      "source": "hn",
-      "date": "2026-05-10T17:43:10+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Dead.letter (CVE-2026-45185) Humans vs. LLM for Unauthenticated RCE Race on Exim",
+      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-12T17:52:34+00:00"
+    },
     {
       "title": "Bambu Lab is abusing the open source social contract",
       "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
