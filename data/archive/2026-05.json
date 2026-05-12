@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-12T07:27:29.088686+00:00",
+  "generated_at": "2026-05-12T08:21:40.732000+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 357,
-    "zennqiita": 93
+    "hn": 346,
+    "zennqiita": 104
   },
   "severity_counts": {
     "critical": 8,
     "high": 10,
-    "medium": 6
+    "medium": 5
   },
   "top_articles": [
     {
@@ -90,18 +90,18 @@
       "date": "2026-05-07T23:02:11+00:00"
     },
     {
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "score": 795,
+      "source": "hn",
+      "date": "2026-05-11T21:08:25+00:00"
+    },
+    {
       "title": "I returned to AWS and was reminded why I left",
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
       "score": 775,
       "source": "hn",
       "date": "2026-05-09T08:37:41+00:00"
-    },
-    {
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 762,
-      "source": "hn",
-      "date": "2026-05-11T21:08:25+00:00"
     },
     {
       "title": "Dirtyfrag: Universal Linux LPE",

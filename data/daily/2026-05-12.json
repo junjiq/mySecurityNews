@@ -1,7 +1,7 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T07:27:29.046749+00:00",
-  "total_articles": 40,
+  "generated_at": "2026-05-12T08:21:40.686896+00:00",
+  "total_articles": 52,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 36,
+      "count": 35,
       "top_items": [
         {
           "title": "Postmortem: TanStack NPM supply-chain compromise",
           "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-          "score": 762,
+          "score": 795,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T21:08:25+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "GitLab announces workforce reduction and end of their CREDIT values",
           "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-          "score": 462,
+          "score": 482,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-11T20:51:57+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
           "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-          "score": 310,
+          "score": 319,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T17:53:08+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 17,
       "top_items": [
+        {
+          "title": "OpenAIがCodexを無料開放——これ、何が目的なんだろう",
+          "url": "https://qiita.com/nhatcaofedev/items/1b5b5016b5a74fe27fe5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-12T16:12:43+09:00"
+        },
         {
           "title": "【個人開発者必見】CodexとRemotionを使って動画編集未経験者が3日でプロモーションビデオを作った",
           "url": "https://qiita.com/yoshikim1467/items/eccd50ba2e3ff24b70e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,28 +87,28 @@
           "date": "2026-05-12T15:17:15+09:00"
         },
         {
-          "title": "丸1日溶かした アンマネージドな MAM 登録：Windows 11新UI・MDM分岐・ライセンス罠を全部整理する【BYOD】",
-          "url": "https://qiita.com/carol0226/items/1b4eb70e10999f0c079c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【Java】Project Reactorを勉強したのでまとめてみた",
+          "url": "https://qiita.com/ebichan_88/items/8111f9b4551152dc0439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-12T02:07:05+09:00"
+          "date": "2026-05-12T13:58:06+09:00"
         },
         {
-          "title": "\"国の借金\"とは何なのか？ ― 財源幻想・財政法・マクロ経済学の基本から日本経済を考える : Pythonで学ぶ マクロ経済学入門 (80)",
-          "url": "https://qiita.com/maskot1977/items/c4d369cb72aabcf26d77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "rebase -iでリモートにプッシュしたコミットの名前を変えられたので勢いでまとめてみた",
+          "url": "https://qiita.com/jinxin4869/items/c0f0253045fa13370f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-12T00:04:50+09:00"
+          "date": "2026-05-12T13:37:59+09:00"
         },
         {
-          "title": "AIが書くpandasコード、だいたい地雷が混じっている話",
-          "url": "https://qiita.com/ALeX_EXVS/items/cd2c603abf8b48fc23a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude Platform on AWSをエンタープライズ企業で利用する上での考慮点と、Amazon Bedrockとの違いを知る",
+          "url": "https://qiita.com/nasuvitz/items/d0ad5d691790ff0eca71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-11T17:45:56+09:00"
+          "date": "2026-05-12T12:56:37+09:00"
         }
       ]
     }
