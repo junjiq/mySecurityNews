@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-12T09:23:41.123449+00:00",
+  "generated_at": "2026-05-12T10:19:13.018077+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 346,
-    "zennqiita": 104
+    "hn": 348,
+    "zennqiita": 102
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 7,
     "high": 10,
     "medium": 5
   },
@@ -78,7 +78,7 @@
     {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 836,
+      "score": 861,
       "source": "hn",
       "date": "2026-05-11T21:08:25+00:00"
     },
@@ -272,13 +272,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-06T16:20:00+00:00"
-    },
-    {
-      "title": "【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法",
-      "url": "https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-05-06T15:44:14+09:00"
     }
   ]
 }

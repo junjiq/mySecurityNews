@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T09:23:41.082170+00:00",
+  "generated_at": "2026-05-12T10:19:12.978540+00:00",
   "total_articles": 51,
   "urgent_count": 2,
   "urgent_items": [
@@ -22,28 +22,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 36,
       "top_items": [
         {
           "title": "Postmortem: TanStack NPM supply-chain compromise",
           "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-          "score": 836,
+          "score": 861,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T21:08:25+00:00"
         },
         {
-          "title": "Ratty – A terminal emulator with inline 3D graphics",
-          "url": "https://ratty-term.org/",
-          "score": 610,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-11T10:13:04+00:00"
-        },
-        {
           "title": "GitLab announces workforce reduction and end of their CREDIT values",
           "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-          "score": 506,
+          "score": 527,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-11T20:51:57+00:00"
@@ -59,16 +51,24 @@
         {
           "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
           "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-          "score": 332,
+          "score": 347,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T17:53:08+00:00"
+        },
+        {
+          "title": "Software engineering may no longer be a lifetime career",
+          "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
+          "score": 285,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-11T14:34:08+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 15,
       "top_items": [
         {
           "title": "OpenAIがCodexを無料開放——これ、何が目的なんだろう",
