@@ -1,7 +1,7 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T16:20:58.845354+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-05-12T17:16:17.934112+00:00",
+  "total_articles": 61,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,15 +29,31 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 47,
       "top_items": [
         {
           "title": "Postmortem: TanStack NPM supply-chain compromise",
           "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-          "score": 980,
+          "score": 1003,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T21:08:25+00:00"
+        },
+        {
+          "title": "Screenshots of Old Desktop OSes",
+          "url": "http://www.typewritten.org/Media/",
+          "score": 542,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-12T05:11:24+00:00"
+        },
+        {
+          "title": "Bambu Lab is abusing the open source social contract",
+          "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+          "score": 534,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-05-12T14:54:41+00:00"
         },
         {
           "title": "GitLab announces workforce reduction and end of their CREDIT values",
@@ -48,34 +64,18 @@
           "date": "2026-05-11T20:51:57+00:00"
         },
         {
-          "title": "Screenshots of Old Desktop OSes",
-          "url": "http://www.typewritten.org/Media/",
-          "score": 509,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-12T05:11:24+00:00"
-        },
-        {
           "title": "They Live (1988) inspired Adblocker",
           "url": "https://github.com/davmlaw/they_live_adblocker",
-          "score": 464,
+          "score": 481,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T00:37:54+00:00"
-        },
-        {
-          "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-          "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-          "score": 408,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-11T17:53:08+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 14,
       "top_items": [
         {
           "title": "Claude Codeが高いのでOSSでローカル環境を作ってみた（Ollama × Continue）",
