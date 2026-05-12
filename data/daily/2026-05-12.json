@@ -1,8 +1,8 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T06:04:04.285319+00:00",
+  "generated_at": "2026-05-12T07:27:29.046749+00:00",
   "total_articles": 40,
-  "urgent_count": 3,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "GitLab announces workforce reduction and end of their CREDIT values",
@@ -17,24 +17,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-11T20:26:17+00:00"
-    },
-    {
-      "title": "Mythos Finds a Curl Vulnerability",
-      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-11T06:39:08+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 36,
       "top_items": [
         {
           "title": "Postmortem: TanStack NPM supply-chain compromise",
           "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-          "score": 706,
+          "score": 762,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T21:08:25+00:00"
@@ -48,35 +41,43 @@
           "date": "2026-05-11T10:13:04+00:00"
         },
         {
-          "title": "Gmail registration now requires scanning a QR code and sending a text message",
-          "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-          "score": 561,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-11T07:26:54+00:00"
-        },
-        {
-          "title": "Mythos Finds a Curl Vulnerability",
-          "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-          "score": 497,
-          "source": "hn",
-          "severity": "high",
-          "date": "2026-05-11T06:39:08+00:00"
-        },
-        {
           "title": "GitLab announces workforce reduction and end of their CREDIT values",
           "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-          "score": 429,
+          "score": 462,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-11T20:51:57+00:00"
+        },
+        {
+          "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+          "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+          "score": 369,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-11T15:55:07+00:00"
+        },
+        {
+          "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+          "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+          "score": 310,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-11T17:53:08+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 4,
       "top_items": [
+        {
+          "title": "【個人開発者必見】CodexとRemotionを使って動画編集未経験者が3日でプロモーションビデオを作った",
+          "url": "https://qiita.com/yoshikim1467/items/eccd50ba2e3ff24b70e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-12T15:17:15+09:00"
+        },
         {
           "title": "丸1日溶かした アンマネージドな MAM 登録：Windows 11新UI・MDM分岐・ライセンス罠を全部整理する【BYOD】",
           "url": "https://qiita.com/carol0226/items/1b4eb70e10999f0c079c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
