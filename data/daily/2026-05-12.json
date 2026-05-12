@@ -1,11 +1,11 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T18:13:04.716227+00:00",
-  "total_articles": 63,
-  "urgent_count": 4,
+  "generated_at": "2026-05-12T19:09:44.321152+00:00",
+  "total_articles": 65,
+  "urgent_count": 5,
   "urgent_items": [
     {
-      "title": "Dead.letter (CVE-2026-45185) Humans vs. LLM for Unauthenticated RCE Race on Exim",
+      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
       "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
       "severity": "critical",
       "source": "hn",
@@ -31,17 +31,24 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-11T20:26:17+00:00"
+    },
+    {
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-12T18:12:28+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 51,
       "top_items": [
         {
           "title": "Postmortem: TanStack NPM supply-chain compromise",
           "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-          "score": 1020,
+          "score": 1029,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T21:08:25+00:00"
@@ -49,7 +56,7 @@
         {
           "title": "Bambu Lab is abusing the open source social contract",
           "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-          "score": 680,
+          "score": 767,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-12T14:54:41+00:00"
@@ -57,7 +64,7 @@
         {
           "title": "Screenshots of Old Desktop OSes",
           "url": "http://www.typewritten.org/Media/",
-          "score": 559,
+          "score": 575,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T05:11:24+00:00"
@@ -73,7 +80,7 @@
         {
           "title": "They Live (1988) inspired Adblocker",
           "url": "https://github.com/davmlaw/they_live_adblocker",
-          "score": 492,
+          "score": 501,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T00:37:54+00:00"

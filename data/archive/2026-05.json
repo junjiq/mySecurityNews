@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-12T18:13:04.759548+00:00",
-  "total_articles": 457,
+  "generated_at": "2026-05-12T19:09:44.362090+00:00",
+  "total_articles": 450,
   "source_counts": {
-    "hn": 361,
+    "hn": 354,
     "zennqiita": 96
   },
   "severity_counts": {
-    "critical": 9,
-    "high": 10,
+    "high": 11,
+    "critical": 8,
     "medium": 5
   },
   "top_articles": [
@@ -27,20 +27,6 @@
       "date": "2026-05-10T17:19:28+00:00"
     },
     {
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1661,
-      "source": "hn",
-      "date": "2026-05-06T15:44:13+00:00"
-    },
-    {
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1479,
-      "source": "hn",
-      "date": "2026-05-06T16:18:29+00:00"
-    },
-    {
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
       "score": 1427,
@@ -57,7 +43,7 @@
     {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 1020,
+      "score": 1029,
       "source": "hn",
       "date": "2026-05-11T21:08:25+00:00"
     },
@@ -104,6 +90,13 @@
       "date": "2026-05-09T08:37:41+00:00"
     },
     {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 767,
+      "source": "hn",
+      "date": "2026-05-12T14:54:41+00:00"
+    },
+    {
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
       "score": 762,
@@ -125,13 +118,6 @@
       "date": "2026-05-07T18:46:25+00:00"
     },
     {
-      "title": "Bambu Lab is abusing the open source social contract",
-      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 680,
-      "source": "hn",
-      "date": "2026-05-12T14:54:41+00:00"
-    },
-    {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
       "score": 677,
@@ -151,11 +137,32 @@
       "score": 665,
       "source": "hn",
       "date": "2026-05-09T02:41:42+00:00"
+    },
+    {
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 654,
+      "source": "hn",
+      "date": "2026-05-10T17:43:10+00:00"
+    },
+    {
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "score": 614,
+      "source": "hn",
+      "date": "2026-05-08T13:56:10+00:00"
     }
   ],
   "security_highlights": [
     {
-      "title": "Dead.letter (CVE-2026-45185) Humans vs. LLM for Unauthenticated RCE Race on Exim",
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-12T18:12:28+00:00"
+    },
+    {
+      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
       "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
       "severity": "critical",
       "source": "hn",
@@ -279,13 +286,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-06T17:22:49+00:00"
-    },
-    {
-      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-      "url": "https://play.templatical.com",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-06T16:20:00+00:00"
     }
   ]
 }
