@@ -1,8 +1,8 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T20:09:12.843212+00:00",
-  "total_articles": 66,
-  "urgent_count": 5,
+  "generated_at": "2026-05-12T21:01:29.814860+00:00",
+  "total_articles": 69,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
@@ -19,20 +19,6 @@
       "date": "2026-05-12T14:54:41+00:00"
     },
     {
-      "title": "GitLab announces workforce reduction and end of their CREDIT values",
-      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-11T20:51:57+00:00"
-    },
-    {
-      "title": "Show HN: E2a – Open-source email gateway for AI agents",
-      "url": "https://github.com/Mnexa-AI/e2a",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-11T20:26:17+00:00"
-    },
-    {
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
       "severity": "high",
@@ -43,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 50,
       "top_items": [
         {
           "title": "Postmortem: TanStack NPM supply-chain compromise",
           "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-          "score": 1041,
+          "score": 1047,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T21:08:25+00:00"
@@ -56,7 +42,7 @@
         {
           "title": "Bambu Lab is abusing the open source social contract",
           "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-          "score": 860,
+          "score": 916,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-12T14:54:41+00:00"
@@ -64,18 +50,10 @@
         {
           "title": "Screenshots of Old Desktop OSes",
           "url": "http://www.typewritten.org/Media/",
-          "score": 590,
+          "score": 604,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T05:11:24+00:00"
-        },
-        {
-          "title": "GitLab announces workforce reduction and end of their CREDIT values",
-          "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-          "score": 527,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-05-11T20:51:57+00:00"
         },
         {
           "title": "They Live (1988) inspired Adblocker",
@@ -84,12 +62,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T00:37:54+00:00"
+        },
+        {
+          "title": "Learning Software Architecture",
+          "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+          "score": 477,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-12T09:30:21+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 19,
       "top_items": [
         {
           "title": "Claude Codeが高いのでOSSでローカル環境を作ってみた（Ollama × Continue）",
@@ -98,6 +84,22 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-12T23:07:54+09:00"
+        },
+        {
+          "title": "ここがすごいよClaude Platform on AWS",
+          "url": "https://qiita.com/moritalous/items/6ccba964655e83336f96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-12T21:47:26+09:00"
+        },
+        {
+          "title": "脳科学から見る、AI時代のエンジニアが成長する考え方",
+          "url": "https://qiita.com/Toyo_m/items/4e1dd272f6bd4b78131e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-12T20:17:59+09:00"
         },
         {
           "title": "OpenAIがCodexを無料開放——これ、何が目的なんだろう",
@@ -114,22 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-12T15:17:15+09:00"
-        },
-        {
-          "title": "【Java】Project Reactorを勉強したのでまとめてみた",
-          "url": "https://qiita.com/ebichan_88/items/8111f9b4551152dc0439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-12T13:58:06+09:00"
-        },
-        {
-          "title": "rebase -iでリモートにプッシュしたコミットの名前を変えられたので勢いでまとめてみた",
-          "url": "https://qiita.com/jinxin4869/items/c0f0253045fa13370f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-12T13:37:59+09:00"
         }
       ]
     }

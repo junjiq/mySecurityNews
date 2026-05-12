@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-12T20:09:12.880065+00:00",
+  "generated_at": "2026-05-12T21:01:29.855718+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 355,
-    "zennqiita": 95
+    "hn": 349,
+    "zennqiita": 101
   },
   "severity_counts": {
     "high": 11,
-    "critical": 8,
+    "critical": 7,
     "medium": 5
   },
   "top_articles": [
@@ -43,7 +43,7 @@
     {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 1041,
+      "score": 1047,
       "source": "hn",
       "date": "2026-05-11T21:08:25+00:00"
     },
@@ -53,6 +53,13 @@
       "score": 927,
       "source": "hn",
       "date": "2026-05-08T12:30:05+00:00"
+    },
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 916,
+      "source": "hn",
+      "date": "2026-05-12T14:54:41+00:00"
     },
     {
       "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
@@ -67,13 +74,6 @@
       "score": 877,
       "source": "hn",
       "date": "2026-05-11T01:23:51+00:00"
-    },
-    {
-      "title": "Bambu Lab is abusing the open source social contract",
-      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 860,
-      "source": "hn",
-      "date": "2026-05-12T14:54:41+00:00"
     },
     {
       "title": "David Attenborough's 100th Birthday",
@@ -279,13 +279,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-07T00:47:15+00:00"
-    },
-    {
-      "title": "Going Full Time on Open Source",
-      "url": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-06T17:22:49+00:00"
     }
   ]
 }
