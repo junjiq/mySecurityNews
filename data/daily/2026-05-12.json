@@ -1,7 +1,7 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T19:09:44.321152+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-05-12T20:09:12.843212+00:00",
+  "total_articles": 66,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,12 +43,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 53,
       "top_items": [
         {
           "title": "Postmortem: TanStack NPM supply-chain compromise",
           "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-          "score": 1029,
+          "score": 1041,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T21:08:25+00:00"
@@ -56,7 +56,7 @@
         {
           "title": "Bambu Lab is abusing the open source social contract",
           "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-          "score": 767,
+          "score": 860,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-12T14:54:41+00:00"
@@ -64,7 +64,7 @@
         {
           "title": "Screenshots of Old Desktop OSes",
           "url": "http://www.typewritten.org/Media/",
-          "score": 575,
+          "score": 590,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T05:11:24+00:00"
@@ -89,7 +89,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "Claude Codeが高いのでOSSでローカル環境を作ってみた（Ollama × Continue）",
