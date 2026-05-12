@@ -1,7 +1,7 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T21:01:29.814860+00:00",
-  "total_articles": 69,
+  "generated_at": "2026-05-12T21:54:50.099365+00:00",
+  "total_articles": 66,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 47,
       "top_items": [
-        {
-          "title": "Postmortem: TanStack NPM supply-chain compromise",
-          "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-          "score": 1047,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-11T21:08:25+00:00"
-        },
         {
           "title": "Bambu Lab is abusing the open source social contract",
           "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-          "score": 916,
+          "score": 950,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-12T14:54:41+00:00"
@@ -50,7 +42,7 @@
         {
           "title": "Screenshots of Old Desktop OSes",
           "url": "http://www.typewritten.org/Media/",
-          "score": 604,
+          "score": 620,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T05:11:24+00:00"
@@ -66,10 +58,18 @@
         {
           "title": "Learning Software Architecture",
           "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-          "score": 477,
+          "score": 490,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T09:30:21+00:00"
+        },
+        {
+          "title": "Googlebook",
+          "url": "https://googlebook.google/",
+          "score": 441,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-12T17:37:36+00:00"
         }
       ]
     },
