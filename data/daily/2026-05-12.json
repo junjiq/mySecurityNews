@@ -1,7 +1,7 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T13:12:43.035928+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-05-12T14:17:34.060843+00:00",
+  "total_articles": 62,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 46,
       "top_items": [
         {
           "title": "Postmortem: TanStack NPM supply-chain compromise",
           "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-          "score": 913,
+          "score": 934,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T21:08:25+00:00"
@@ -41,35 +41,43 @@
           "date": "2026-05-11T20:51:57+00:00"
         },
         {
-          "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-          "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-          "score": 376,
+          "title": "Screenshots of Old Desktop OSes",
+          "url": "http://www.typewritten.org/Media/",
+          "score": 407,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-11T17:53:08+00:00"
-        },
-        {
-          "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-          "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-          "score": 369,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-11T15:55:07+00:00"
+          "date": "2026-05-12T05:11:24+00:00"
         },
         {
           "title": "They Live (1988) inspired Adblocker",
           "url": "https://github.com/davmlaw/they_live_adblocker",
-          "score": 349,
+          "score": 396,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T00:37:54+00:00"
+        },
+        {
+          "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+          "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+          "score": 388,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-11T17:53:08+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 16,
       "top_items": [
+        {
+          "title": "Claude Codeが高いのでOSSでローカル環境を作ってみた（Ollama × Continue）",
+          "url": "https://qiita.com/nishifeoda/items/58a38dbfdfc038ccb79a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-12T23:07:54+09:00"
+        },
         {
           "title": "OpenAIがCodexを無料開放——これ、何が目的なんだろう",
           "url": "https://qiita.com/nhatcaofedev/items/1b5b5016b5a74fe27fe5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-12T13:37:59+09:00"
-        },
-        {
-          "title": "Claude Platform on AWSをエンタープライズ企業で利用する上での考慮点と、Amazon Bedrockとの違いを知る",
-          "url": "https://qiita.com/nasuvitz/items/d0ad5d691790ff0eca71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-12T12:56:37+09:00"
         }
       ]
     }
