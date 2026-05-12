@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-12T14:17:34.101518+00:00",
+  "generated_at": "2026-05-12T15:28:33.337646+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 354,
     "zennqiita": 96
   },
   "severity_counts": {
-    "critical": 7,
+    "critical": 8,
     "high": 10,
     "medium": 5
   },
@@ -57,7 +57,7 @@
     {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 934,
+      "score": 966,
       "source": "hn",
       "date": "2026-05-11T21:08:25+00:00"
     },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-12T14:54:41+00:00"
+    },
     {
       "title": "GitLab announces workforce reduction and end of their CREDIT values",
       "url": "https://about.gitlab.com/blog/gitlab-act-2/",

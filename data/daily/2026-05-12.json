@@ -1,9 +1,16 @@
 {
   "date": "2026-05-12",
-  "generated_at": "2026-05-12T14:17:34.060843+00:00",
+  "generated_at": "2026-05-12T15:28:33.297919+00:00",
   "total_articles": 62,
-  "urgent_count": 2,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-12T14:54:41+00:00"
+    },
     {
       "title": "GitLab announces workforce reduction and end of their CREDIT values",
       "url": "https://about.gitlab.com/blog/gitlab-act-2/",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 47,
       "top_items": [
         {
           "title": "Postmortem: TanStack NPM supply-chain compromise",
           "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-          "score": 934,
+          "score": 966,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T21:08:25+00:00"
@@ -43,7 +50,7 @@
         {
           "title": "Screenshots of Old Desktop OSes",
           "url": "http://www.typewritten.org/Media/",
-          "score": 407,
+          "score": 466,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T05:11:24+00:00"
@@ -51,7 +58,7 @@
         {
           "title": "They Live (1988) inspired Adblocker",
           "url": "https://github.com/davmlaw/they_live_adblocker",
-          "score": 396,
+          "score": 436,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T00:37:54+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
           "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-          "score": 388,
+          "score": 399,
           "source": "hn",
           "severity": null,
           "date": "2026-05-11T17:53:08+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 15,
       "top_items": [
         {
           "title": "Claude Codeが高いのでOSSでローカル環境を作ってみた（Ollama × Continue）",
