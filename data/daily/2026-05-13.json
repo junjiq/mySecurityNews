@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T19:34:37.748408+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-05-13T20:35:36.876559+00:00",
+  "total_articles": 51,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 39,
       "top_items": [
         {
           "title": "I moved my digital stack to Europe",
@@ -43,32 +43,32 @@
         {
           "title": "Leaving GitHub for Forgejo",
           "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-          "score": 445,
+          "score": 467,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T12:54:00+00:00"
         },
         {
-          "title": "How to make your text look futuristic (2016)",
-          "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-          "score": 432,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-12T20:16:26+00:00"
-        },
-        {
           "title": "Setting up a free *.city.state.us locality domain (2025)",
           "url": "https://fredchan.org/blog/locality-domains-guide/",
-          "score": 356,
+          "score": 392,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T14:45:18+00:00"
+        },
+        {
+          "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+          "url": "https://www.savethearchive.com/newsleaders/",
+          "score": 334,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-12T23:11:40+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 12,
       "top_items": [
         {
           "title": "OCI X12 Standard Acceleron Computeで Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
@@ -87,6 +87,14 @@
           "date": "2026-05-13T13:42:28+09:00"
         },
         {
+          "title": "Copilot Studio における Business skills の位置づけと、他機能との使い分けを整理してみた",
+          "url": "https://qiita.com/Takashi_Masumori/items/c727938756b287868ffa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-13T12:47:42+09:00"
+        },
+        {
           "title": "よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）",
           "url": "https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-13T11:37:31+09:00"
-        },
-        {
-          "title": "いつも使っている Claude Code の裏側を覗いてみた",
-          "url": "https://qiita.com/sapeet-lin/items/f9143a90094601631b6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-13T11:04:17+09:00"
         }
       ]
     }
