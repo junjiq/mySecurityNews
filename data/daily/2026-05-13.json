@@ -1,15 +1,22 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T15:33:03.136698+00:00",
-  "total_articles": 52,
-  "urgent_count": 3,
+  "generated_at": "2026-05-13T16:48:14.673106+00:00",
+  "total_articles": 53,
+  "urgent_count": 4,
   "urgent_items": [
     {
-      "title": "Kickstarter Is Forced to Ban Adult Content by Payment Processors",
+      "title": "Kickstarter is forced to ban adult content by payment processors",
       "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-13T15:26:27+00:00"
+    },
+    {
+      "title": "Open Source Resistance: keep OSS alive on company time",
+      "url": "https://ossresistance.com/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-13T15:13:37+00:00"
     },
     {
       "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
@@ -29,20 +36,28 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "Googlebook",
           "url": "https://googlebook.google/",
-          "score": 870,
+          "score": 880,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T17:37:36+00:00"
         },
         {
+          "title": "I moved my digital stack to Europe",
+          "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+          "score": 627,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-13T11:42:20+00:00"
+        },
+        {
           "title": "Restore full BambuNetwork support for Bambu Lab printers",
           "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-          "score": 585,
+          "score": 605,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T21:55:21+00:00"
@@ -50,18 +65,10 @@
         {
           "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
           "url": "https://github.com/cactus-compute/needle",
-          "score": 562,
+          "score": 578,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T18:03:11+00:00"
-        },
-        {
-          "title": "I Moved My Digital Stack to Europe",
-          "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-          "score": 513,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-13T11:42:20+00:00"
         },
         {
           "title": "How to make your text look futuristic (2016)",

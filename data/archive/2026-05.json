@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-13T15:33:03.178807+00:00",
+  "generated_at": "2026-05-13T16:48:14.709101+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 98
+    "hn": 353,
+    "zennqiita": 97
   },
   "severity_counts": {
-    "critical": 7,
+    "critical": 8,
     "high": 11,
     "medium": 5
   },
@@ -69,18 +69,18 @@
       "date": "2026-05-07T22:22:21+00:00"
     },
     {
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "score": 880,
+      "source": "hn",
+      "date": "2026-05-12T17:37:36+00:00"
+    },
+    {
       "title": "I'm going back to writing code by hand",
       "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
       "score": 877,
       "source": "hn",
       "date": "2026-05-11T01:23:51+00:00"
-    },
-    {
-      "title": "Googlebook",
-      "url": "https://googlebook.google/",
-      "score": 870,
-      "source": "hn",
-      "date": "2026-05-12T17:37:36+00:00"
     },
     {
       "title": "David Attenborough's 100th Birthday",
@@ -120,7 +120,7 @@
     {
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 704,
+      "score": 727,
       "source": "hn",
       "date": "2026-05-12T15:08:40+00:00"
     },
@@ -155,11 +155,18 @@
   ],
   "security_highlights": [
     {
-      "title": "Kickstarter Is Forced to Ban Adult Content by Payment Processors",
+      "title": "Kickstarter is forced to ban adult content by payment processors",
       "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-13T15:26:27+00:00"
+    },
+    {
+      "title": "Open Source Resistance: keep OSS alive on company time",
+      "url": "https://ossresistance.com/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-13T15:13:37+00:00"
     },
     {
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",

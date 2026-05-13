@@ -1,17 +1,62 @@
 {
-  "updated_at": "2026-05-13T15:33:03.072098+00:00",
+  "updated_at": "2026-05-13T16:48:14.611573+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48124002",
+      "source": "hn",
+      "title": "Haiku",
+      "url": "https://www.haiku-os.org",
+      "score": 15,
+      "comments": 1,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-05-13T16:22:10+00:00"
+    },
+    {
+      "id": "hn-48123546",
+      "source": "hn",
+      "title": "S-100 Virtual Workbench",
+      "url": "https://grantmestrength.github.io/S100/",
+      "score": 27,
+      "comments": 3,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-05-13T15:52:00+00:00"
+    },
+    {
       "id": "hn-48123198",
       "source": "hn",
-      "title": "Kickstarter Is Forced to Ban Adult Content by Payment Processors",
+      "title": "Kickstarter is forced to ban adult content by payment processors",
       "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
-      "score": 4,
-      "comments": 0,
+      "score": 140,
+      "comments": 105,
       "author": "stalfosknight",
       "tags": [],
       "date": "2026-05-13T15:26:27+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48123090",
+      "source": "hn",
+      "title": "50K Tahoe residents need power as utility eyes redirecting lines to data centers",
+      "url": "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/",
+      "score": 50,
+      "comments": 35,
+      "author": "cdrnsf",
+      "tags": [],
+      "date": "2026-05-13T15:18:41+00:00"
+    },
+    {
+      "id": "hn-48123015",
+      "source": "hn",
+      "title": "Open Source Resistance: keep OSS alive on company time",
+      "url": "https://ossresistance.com/",
+      "score": 51,
+      "comments": 23,
+      "author": "mikemcquaid",
+      "tags": [],
+      "date": "2026-05-13T15:13:37+00:00",
       "severity": "critical"
     },
     {
@@ -43,8 +88,8 @@
       "source": "hn",
       "title": "Setting up a free *.city.state.us locality domain",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 55,
-      "comments": 3,
+      "score": 191,
+      "comments": 44,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-13T14:45:18+00:00"
@@ -52,10 +97,10 @@
     {
       "id": "hn-48121929",
       "source": "hn",
-      "title": "The US Is Winning the AI Race",
+      "title": "The US is winning the AI race where it matters most: commercialization",
       "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "score": 17,
-      "comments": 6,
+      "score": 34,
+      "comments": 71,
       "author": "akrylov",
       "tags": [],
       "date": "2026-05-13T13:53:53+00:00"
@@ -85,10 +130,10 @@
     {
       "id": "hn-48121266",
       "source": "hn",
-      "title": "Why I'm leaving GitHub for Forgejo",
+      "title": "Leaving GitHub for Forgejo",
       "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 266,
-      "comments": 155,
+      "score": 353,
+      "comments": 189,
       "author": "jorijn",
       "tags": [],
       "date": "2026-05-13T12:54:00+00:00"
@@ -107,10 +152,10 @@
     {
       "id": "hn-48120629",
       "source": "hn",
-      "title": "I Moved My Digital Stack to Europe",
+      "title": "I moved my digital stack to Europe",
       "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 513,
-      "comments": 352,
+      "score": 627,
+      "comments": 425,
       "author": "monokai_nl",
       "tags": [],
       "date": "2026-05-13T11:42:20+00:00"
@@ -120,8 +165,8 @@
       "source": "hn",
       "title": "Using OR-Tools CP-SAT for Scheduling Problems",
       "url": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
-      "score": 39,
-      "comments": 7,
+      "score": 54,
+      "comments": 18,
       "author": "akutlay",
       "tags": [],
       "date": "2026-05-13T11:02:57+00:00"
@@ -131,8 +176,8 @@
       "source": "hn",
       "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
       "url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
-      "score": 33,
-      "comments": 23,
+      "score": 37,
+      "comments": 49,
       "author": "sagacity",
       "tags": [],
       "date": "2026-05-13T08:41:30+00:00"
@@ -177,8 +222,8 @@
       "source": "hn",
       "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
       "url": "https://arxiv.org/abs/2605.08419",
-      "score": 256,
-      "comments": 61,
+      "score": 265,
+      "comments": 63,
       "author": "matt_d",
       "tags": [],
       "date": "2026-05-13T04:25:03+00:00"
@@ -358,8 +403,8 @@
       "source": "hn",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 585,
-      "comments": 256,
+      "score": 605,
+      "comments": 267,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-05-12T21:55:21+00:00"
@@ -458,8 +503,8 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 562,
-      "comments": 160,
+      "score": 578,
+      "comments": 166,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-05-12T18:03:11+00:00"
@@ -514,8 +559,8 @@
       "source": "hn",
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 870,
-      "comments": 1438,
+      "score": 880,
+      "comments": 1465,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-12T17:37:36+00:00"
@@ -602,8 +647,8 @@
       "source": "hn",
       "title": "Heritability of human life span is ~50% when heritability is redefined",
       "url": "https://dynomight.net/lifespan/",
-      "score": 5,
-      "comments": 0,
+      "score": 25,
+      "comments": 14,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-12T15:30:05+00:00"
@@ -624,8 +669,8 @@
       "source": "hn",
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 704,
-      "comments": 300,
+      "score": 727,
+      "comments": 309,
       "author": "nilirl",
       "tags": [],
       "date": "2026-05-12T15:08:40+00:00"
@@ -1568,8 +1613,8 @@
       "source": "hn",
       "title": "An idiot's guide to lead optimisation for proteins",
       "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-      "score": 55,
-      "comments": 0,
+      "score": 76,
+      "comments": 5,
       "author": "magni121",
       "tags": [],
       "date": "2026-05-11T11:21:33+00:00"
@@ -1636,8 +1681,8 @@
       "source": "hn",
       "title": "Preserving Fisher-Price Pixter",
       "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 133,
-      "comments": 17,
+      "score": 152,
+      "comments": 26,
       "author": "dmitrygr",
       "tags": [],
       "date": "2026-05-11T06:52:48+00:00"
@@ -1818,8 +1863,8 @@
       "source": "hn",
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 193,
-      "comments": 77,
+      "score": 218,
+      "comments": 93,
       "author": "HardwareLust",
       "tags": [],
       "date": "2026-05-11T01:05:59+00:00"
@@ -2509,6 +2554,17 @@
       "date": "2026-05-10T12:37:07+09:00"
     },
     {
+      "id": "hn-48080755",
+      "source": "hn",
+      "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+      "url": "https://github.com/nooga/xsofy",
+      "score": 31,
+      "comments": 11,
+      "author": "andsoitis",
+      "tags": [],
+      "date": "2026-05-10T03:32:59+00:00"
+    },
+    {
       "id": "qiita-2bee2ce13c",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2721,8 +2777,8 @@
       "source": "hn",
       "title": "Web Server on a Nintendo Wii",
       "url": "http://wii.sjmulder.nl/",
-      "score": 70,
-      "comments": 12,
+      "score": 75,
+      "comments": 17,
       "author": "adunk",
       "tags": [],
       "date": "2026-05-09T21:32:16+00:00"
@@ -2755,8 +2811,8 @@
       "source": "hn",
       "title": "Reverting the incremental GC in Python 3.14 and 3.15",
       "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 69,
-      "comments": 8,
+      "score": 109,
+      "comments": 27,
       "author": "curiousgal",
       "tags": [],
       "date": "2026-05-09T20:25:55+00:00"
@@ -2892,8 +2948,8 @@
       "source": "hn",
       "title": "Nailing jelly to a wall: is it possible? (2005)",
       "url": "https://greem.co.uk/otherbits/jelly.html",
-      "score": 18,
-      "comments": 3,
+      "score": 35,
+      "comments": 10,
       "author": "microsoftedging",
       "tags": [],
       "date": "2026-05-09T16:50:51+00:00"
@@ -5113,63 +5169,6 @@
       "author": "robin_reala",
       "tags": [],
       "date": "2026-05-07T11:08:43+00:00"
-    },
-    {
-      "id": "hn-48047930",
-      "source": "hn",
-      "title": "Idempotency is easy until the second request is different",
-      "url": "https://blog.dochia.dev/blog/idempotency/",
-      "score": 288,
-      "comments": 174,
-      "author": "ludovicianul",
-      "tags": [],
-      "date": "2026-05-07T11:02:28+00:00"
-    },
-    {
-      "id": "hn-48047826",
-      "source": "hn",
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "url": "https://ahk.cardor.dev",
-      "score": 59,
-      "comments": 18,
-      "author": "enmanuelmag",
-      "tags": [],
-      "date": "2026-05-07T10:45:59+00:00"
-    },
-    {
-      "id": "qiita-79ec15fb2a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS MCPサーバー超進化してGAしたらしい",
-      "url": "https://qiita.com/Syoitu/items/5022be3615ecd8b5337c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Syoitu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T19:18:36+09:00"
-    },
-    {
-      "id": "hn-48047280",
-      "source": "hn",
-      "title": "Removing fsync from our local storage engine",
-      "url": "https://fractalbits.com/blog/remove-fsync/",
-      "score": 51,
-      "comments": 40,
-      "author": "zzsheng",
-      "tags": [],
-      "date": "2026-05-07T09:25:58+00:00"
-    },
-    {
-      "id": "hn-48047082",
-      "source": "hn",
-      "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
-      "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
-      "score": 47,
-      "comments": 39,
-      "author": "steveharing1",
-      "tags": [],
-      "date": "2026-05-07T08:56:51+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
