@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-05-13T11:19:29.368495+00:00",
+  "updated_at": "2026-05-13T12:14:26.658311+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48120776",
+      "source": "hn",
+      "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
+      "url": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
+      "score": 1,
+      "comments": 0,
+      "author": "kunle",
+      "tags": [],
+      "date": "2026-05-13T12:00:30+00:00"
+    },
+    {
+      "id": "hn-48120629",
+      "source": "hn",
+      "title": "I Moved My Digital Stack to Europe",
+      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+      "score": 87,
+      "comments": 38,
+      "author": "monokai_nl",
+      "tags": [],
+      "date": "2026-05-13T11:42:20+00:00"
+    },
     {
       "id": "qiita-10724a95da",
       "source": "zennqiita",
@@ -16,12 +38,23 @@
       "date": "2026-05-13T17:55:23+09:00"
     },
     {
+      "id": "hn-48119326",
+      "source": "hn",
+      "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
+      "url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
+      "score": 6,
+      "comments": 1,
+      "author": "sagacity",
+      "tags": [],
+      "date": "2026-05-13T08:41:30+00:00"
+    },
+    {
       "id": "hn-48118763",
       "source": "hn",
       "title": "SecurityBaseline.eu",
       "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
-      "score": 169,
-      "comments": 79,
+      "score": 179,
+      "comments": 88,
       "author": "aequitas",
       "tags": [],
       "date": "2026-05-13T07:11:17+00:00"
@@ -55,8 +88,8 @@
       "source": "hn",
       "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
       "url": "https://arxiv.org/abs/2605.08419",
-      "score": 205,
-      "comments": 49,
+      "score": 221,
+      "comments": 52,
       "author": "matt_d",
       "tags": [],
       "date": "2026-05-13T04:25:03+00:00"
@@ -166,8 +199,8 @@
       "source": "hn",
       "title": "My graduation cap runs Rust",
       "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "score": 158,
-      "comments": 60,
+      "score": 167,
+      "comments": 63,
       "author": "ericswpark",
       "tags": [],
       "date": "2026-05-13T00:04:21+00:00"
@@ -190,8 +223,8 @@
       "source": "hn",
       "title": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
       "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-      "score": 101,
-      "comments": 12,
+      "score": 112,
+      "comments": 15,
       "author": "sbulaev",
       "tags": [],
       "date": "2026-05-12T23:46:28+00:00"
@@ -214,8 +247,8 @@
       "source": "hn",
       "title": "Kraftwerk's radical 1976 track",
       "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 168,
-      "comments": 120,
+      "score": 176,
+      "comments": 137,
       "author": "tcp_handshaker",
       "tags": [],
       "date": "2026-05-12T23:13:01+00:00"
@@ -236,8 +269,8 @@
       "source": "hn",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 464,
-      "comments": 203,
+      "score": 494,
+      "comments": 217,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-05-12T21:55:21+00:00"
@@ -269,8 +302,8 @@
       "source": "hn",
       "title": "Scrcpy v4.0",
       "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-      "score": 217,
-      "comments": 29,
+      "score": 236,
+      "comments": 34,
       "author": "xnx",
       "tags": [],
       "date": "2026-05-12T20:50:02+00:00"
@@ -280,8 +313,8 @@
       "source": "hn",
       "title": "How to make your text look futuristic (2016)",
       "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 369,
-      "comments": 49,
+      "score": 390,
+      "comments": 51,
       "author": "_vaporwave_",
       "tags": [],
       "date": "2026-05-12T20:16:26+00:00"
@@ -324,8 +357,8 @@
       "source": "hn",
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 324,
-      "comments": 163,
+      "score": 335,
+      "comments": 174,
       "author": "chizhik-pyzhik",
       "tags": [],
       "date": "2026-05-12T18:12:28+00:00",
@@ -336,7 +369,7 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 490,
+      "score": 512,
       "comments": 154,
       "author": "HenryNdubuaku",
       "tags": [],
@@ -358,8 +391,8 @@
       "source": "hn",
       "title": "Quack: The DuckDB Client-Server Protocol",
       "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "score": 297,
-      "comments": 61,
+      "score": 308,
+      "comments": 65,
       "author": "aduffy",
       "tags": [],
       "date": "2026-05-12T17:54:12+00:00"
@@ -381,8 +414,8 @@
       "source": "hn",
       "title": "Reimagining the mouse pointer for the AI era",
       "url": "https://deepmind.google/blog/ai-pointer/",
-      "score": 211,
-      "comments": 178,
+      "score": 221,
+      "comments": 187,
       "author": "devhouse",
       "tags": [],
       "date": "2026-05-12T17:40:13+00:00"
@@ -392,8 +425,8 @@
       "source": "hn",
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 805,
-      "comments": 1317,
+      "score": 819,
+      "comments": 1339,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-12T17:37:36+00:00"
@@ -458,8 +491,8 @@
       "source": "hn",
       "title": "The Future of Obsidian Plugins",
       "url": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 384,
-      "comments": 146,
+      "score": 395,
+      "comments": 147,
       "author": "xz18r",
       "tags": [],
       "date": "2026-05-12T15:45:54+00:00"
@@ -491,8 +524,8 @@
       "source": "hn",
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 608,
-      "comments": 266,
+      "score": 631,
+      "comments": 280,
       "author": "nilirl",
       "tags": [],
       "date": "2026-05-12T15:08:40+00:00"
@@ -549,7 +582,7 @@
       "source": "hn",
       "title": "Rendering the Sky, Sunsets, and Planets",
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 483,
+      "score": 489,
       "comments": 39,
       "author": "ibobev",
       "tags": [],
@@ -1481,8 +1514,8 @@
       "source": "hn",
       "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
       "url": "https://github.com/tracewayapp/traceway",
-      "score": 120,
-      "comments": 13,
+      "score": 125,
+      "comments": 19,
       "author": "sebakubisz",
       "tags": [],
       "date": "2026-05-11T07:05:01+00:00"
@@ -1492,7 +1525,7 @@
       "source": "hn",
       "title": "Preserving Fisher-Price Pixter",
       "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 8,
+      "score": 26,
       "comments": 0,
       "author": "dmitrygr",
       "tags": [],
@@ -1674,8 +1707,8 @@
       "source": "hn",
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 72,
-      "comments": 25,
+      "score": 100,
+      "comments": 33,
       "author": "HardwareLust",
       "tags": [],
       "date": "2026-05-11T01:05:59+00:00"
@@ -2571,6 +2604,17 @@
       "author": "unknownhad",
       "tags": [],
       "date": "2026-05-09T21:42:50+00:00"
+    },
+    {
+      "id": "hn-48078452",
+      "source": "hn",
+      "title": "Web Server on a Nintendo Wii",
+      "url": "http://wii.sjmulder.nl/",
+      "score": 8,
+      "comments": 0,
+      "author": "adunk",
+      "tags": [],
+      "date": "2026-05-09T21:32:16+00:00"
     },
     {
       "id": "hn-48077971",
@@ -3777,7 +3821,7 @@
       "source": "hn",
       "title": "The Boring Part of Bell Labs (2025)",
       "url": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
-      "score": 21,
+      "score": 35,
       "comments": 4,
       "author": "surprisetalk",
       "tags": [],
@@ -5122,60 +5166,12 @@
       "date": "2026-05-07T05:24:23+00:00"
     },
     {
-      "id": "qiita-e932aae531",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "skillsに全振りしてdocs,rules,commandsを削るコスパ重視のハーネス実装案",
-      "url": "https://qiita.com/artie/items/939ea8718a97cc83d7e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "artie",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T13:40:10+09:00"
-    },
-    {
-      "id": "hn-48045384",
-      "source": "hn",
-      "title": "Building the TD4 4-Bit CPU",
-      "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
-      "score": 43,
-      "comments": 12,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-05-07T04:25:43+00:00"
-    },
-    {
-      "id": "hn-48045174",
-      "source": "hn",
-      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-      "url": "https://arxiv.org/abs/2605.03546",
-      "score": 102,
-      "comments": 58,
-      "author": "jonbaer",
-      "tags": [],
-      "date": "2026-05-07T03:46:15+00:00"
-    },
-    {
-      "id": "qiita-bfe5f7d783",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "API課金ゼロで米国ニュース要約デスクトップアプリを作った（Tauri × ローカルLLM）",
-      "url": "https://qiita.com/chaochire/items/46df03c9c3bf56670e05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "chaochire",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T12:37:20+09:00"
-    },
-    {
       "id": "hn-48033483",
       "source": "hn",
       "title": "The vi family",
       "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
-      "score": 187,
-      "comments": 115,
+      "score": 201,
+      "comments": 127,
       "author": "hggh",
       "tags": [],
       "date": "2026-05-06T07:51:16+00:00"
