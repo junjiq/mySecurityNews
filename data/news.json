@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T17:43:13.390521+00:00",
+  "updated_at": "2026-05-13T18:39:47.237218+00:00",
   "count": 500,
   "items": [
     {
@@ -7,8 +7,8 @@
       "source": "hn",
       "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
       "url": "https://www.tryardent.com/",
-      "score": 19,
-      "comments": 6,
+      "score": 31,
+      "comments": 16,
       "author": "vc289",
       "tags": [],
       "date": "2026-05-13T16:54:03+00:00"
@@ -18,8 +18,8 @@
       "source": "hn",
       "title": "Haiku",
       "url": "https://www.haiku-os.org",
-      "score": 91,
-      "comments": 36,
+      "score": 115,
+      "comments": 54,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-13T16:22:10+00:00"
@@ -29,8 +29,8 @@
       "source": "hn",
       "title": "S-100 Virtual Workbench",
       "url": "https://grantmestrength.github.io/S100/",
-      "score": 45,
-      "comments": 7,
+      "score": 51,
+      "comments": 11,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-13T15:52:00+00:00"
@@ -52,8 +52,8 @@
       "source": "hn",
       "title": "50K Tahoe residents need power as utility eyes redirecting lines to data centers",
       "url": "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/",
-      "score": 73,
-      "comments": 68,
+      "score": 96,
+      "comments": 90,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-05-13T15:18:41+00:00"
@@ -63,8 +63,8 @@
       "source": "hn",
       "title": "Open Source Resistance: keep OSS alive on company time",
       "url": "https://ossresistance.com/",
-      "score": 107,
-      "comments": 43,
+      "score": 160,
+      "comments": 57,
       "author": "mikemcquaid",
       "tags": [],
       "date": "2026-05-13T15:13:37+00:00",
@@ -99,8 +99,8 @@
       "source": "hn",
       "title": "Setting up a free *.city.state.us locality domain",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 251,
-      "comments": 71,
+      "score": 316,
+      "comments": 87,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-13T14:45:18+00:00"
@@ -110,8 +110,8 @@
       "source": "hn",
       "title": "The US is winning the AI race where it matters most: commercialization",
       "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "score": 56,
-      "comments": 131,
+      "score": 72,
+      "comments": 196,
       "author": "akrylov",
       "tags": [],
       "date": "2026-05-13T13:53:53+00:00"
@@ -143,8 +143,8 @@
       "source": "hn",
       "title": "Leaving GitHub for Forgejo",
       "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 388,
-      "comments": 208,
+      "score": 422,
+      "comments": 227,
       "author": "jorijn",
       "tags": [],
       "date": "2026-05-13T12:54:00+00:00"
@@ -165,8 +165,8 @@
       "source": "hn",
       "title": "I moved my digital stack to Europe",
       "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 670,
-      "comments": 455,
+      "score": 718,
+      "comments": 468,
       "author": "monokai_nl",
       "tags": [],
       "date": "2026-05-13T11:42:20+00:00"
@@ -205,6 +205,17 @@
       "date": "2026-05-13T07:11:17+00:00"
     },
     {
+      "id": "hn-48118727",
+      "source": "hn",
+      "title": "The Emacsification of Software",
+      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+      "score": 63,
+      "comments": 19,
+      "author": "rdslw",
+      "tags": [],
+      "date": "2026-05-13T07:06:14+00:00"
+    },
+    {
       "id": "hn-48118672",
       "source": "hn",
       "title": "\"I applied to be pope\"",
@@ -233,8 +244,8 @@
       "source": "hn",
       "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
       "url": "https://arxiv.org/abs/2605.08419",
-      "score": 271,
-      "comments": 64,
+      "score": 275,
+      "comments": 65,
       "author": "matt_d",
       "tags": [],
       "date": "2026-05-13T04:25:03+00:00"
@@ -410,12 +421,23 @@
       "date": "2026-05-12T23:11:40+00:00"
     },
     {
+      "id": "hn-48115438",
+      "source": "hn",
+      "title": "Twin brothers wipe 96 government databases minutes after being fired",
+      "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "score": 80,
+      "comments": 33,
+      "author": "jnord",
+      "tags": [],
+      "date": "2026-05-12T22:28:07+00:00"
+    },
+    {
       "id": "hn-48115127",
       "source": "hn",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 612,
-      "comments": 274,
+      "score": 625,
+      "comments": 280,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-05-12T21:55:21+00:00"
@@ -514,8 +536,8 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 582,
-      "comments": 168,
+      "score": 595,
+      "comments": 172,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-05-12T18:03:11+00:00"
@@ -658,8 +680,8 @@
       "source": "hn",
       "title": "Heritability of human life span is ~50% when heritability is redefined",
       "url": "https://dynomight.net/lifespan/",
-      "score": 41,
-      "comments": 18,
+      "score": 54,
+      "comments": 32,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-12T15:30:05+00:00"
@@ -1624,8 +1646,8 @@
       "source": "hn",
       "title": "An idiot's guide to lead optimisation for proteins",
       "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-      "score": 91,
-      "comments": 7,
+      "score": 106,
+      "comments": 9,
       "author": "magni121",
       "tags": [],
       "date": "2026-05-11T11:21:33+00:00"
@@ -1692,8 +1714,8 @@
       "source": "hn",
       "title": "Preserving Fisher-Price Pixter",
       "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 161,
-      "comments": 35,
+      "score": 171,
+      "comments": 39,
       "author": "dmitrygr",
       "tags": [],
       "date": "2026-05-11T06:52:48+00:00"
@@ -1874,8 +1896,8 @@
       "source": "hn",
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 238,
-      "comments": 104,
+      "score": 247,
+      "comments": 110,
       "author": "HardwareLust",
       "tags": [],
       "date": "2026-05-11T01:05:59+00:00"
@@ -2052,6 +2074,17 @@
       "author": "lemonberry",
       "tags": [],
       "date": "2026-05-10T21:16:58+00:00"
+    },
+    {
+      "id": "hn-48087887",
+      "source": "hn",
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "score": 53,
+      "comments": 28,
+      "author": "haunter",
+      "tags": [],
+      "date": "2026-05-10T20:54:06+00:00"
     },
     {
       "id": "hn-48087643",
@@ -2569,8 +2602,8 @@
       "source": "hn",
       "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
       "url": "https://github.com/nooga/xsofy",
-      "score": 57,
-      "comments": 16,
+      "score": 78,
+      "comments": 34,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-05-10T03:32:59+00:00"
@@ -2788,8 +2821,8 @@
       "source": "hn",
       "title": "Web Server on a Nintendo Wii",
       "url": "http://wii.sjmulder.nl/",
-      "score": 78,
-      "comments": 25,
+      "score": 83,
+      "comments": 31,
       "author": "adunk",
       "tags": [],
       "date": "2026-05-09T21:32:16+00:00"
@@ -2822,8 +2855,8 @@
       "source": "hn",
       "title": "Reverting the incremental GC in Python 3.14 and 3.15",
       "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 127,
-      "comments": 38,
+      "score": 142,
+      "comments": 43,
       "author": "curiousgal",
       "tags": [],
       "date": "2026-05-09T20:25:55+00:00"
@@ -2959,8 +2992,8 @@
       "source": "hn",
       "title": "Nailing jelly to a wall: is it possible? (2005)",
       "url": "https://greem.co.uk/otherbits/jelly.html",
-      "score": 42,
-      "comments": 14,
+      "score": 53,
+      "comments": 19,
       "author": "microsoftedging",
       "tags": [],
       "date": "2026-05-09T16:50:51+00:00"
@@ -3247,8 +3280,8 @@
       "source": "hn",
       "title": "A History of IDEs at Google",
       "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 48,
-      "comments": 10,
+      "score": 78,
+      "comments": 51,
       "author": "laurentlb",
       "tags": [],
       "date": "2026-05-09T11:14:18+00:00"
@@ -5134,41 +5167,6 @@
       "author": "smig0",
       "tags": [],
       "date": "2026-05-07T12:39:45+00:00"
-    },
-    {
-      "id": "hn-48048407",
-      "source": "hn",
-      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "score": 304,
-      "comments": 140,
-      "author": "dr_kiszonka",
-      "tags": [],
-      "date": "2026-05-07T12:09:47+00:00"
-    },
-    {
-      "id": "hn-48048339",
-      "source": "hn",
-      "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
-      "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
-      "score": 1,
-      "comments": 0,
-      "author": "owalerys",
-      "tags": [],
-      "date": "2026-05-07T12:01:13+00:00"
-    },
-    {
-      "id": "qiita-79c12c0839",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Microsoft Purviewを本気で使うための記事①ー情報漏洩防止編（1/3）",
-      "url": "https://qiita.com/f_0000/items/f6ab1da9cfb6f8578c9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "f_0000",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T20:23:51+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

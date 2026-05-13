@@ -1,8 +1,8 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T17:43:13.456199+00:00",
-  "total_articles": 48,
-  "urgent_count": 4,
+  "generated_at": "2026-05-13T18:39:47.301615+00:00",
+  "total_articles": 45,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Kickstarter is forced to ban adult content by payment processors",
@@ -17,31 +17,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-13T15:13:37+00:00"
-    },
-    {
-      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
-      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-12T17:52:34+00:00"
-    },
-    {
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-12T18:12:28+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 35,
       "top_items": [
         {
           "title": "I moved my digital stack to Europe",
           "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-          "score": 670,
+          "score": 718,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T11:42:20+00:00"
@@ -49,18 +35,10 @@
         {
           "title": "Restore full BambuNetwork support for Bambu Lab printers",
           "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-          "score": 612,
+          "score": 625,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T21:55:21+00:00"
-        },
-        {
-          "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-          "url": "https://github.com/cactus-compute/needle",
-          "score": 582,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-12T18:03:11+00:00"
         },
         {
           "title": "How to make your text look futuristic (2016)",
@@ -73,10 +51,18 @@
         {
           "title": "Leaving GitHub for Forgejo",
           "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-          "score": 388,
+          "score": 422,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T12:54:00+00:00"
+        },
+        {
+          "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
+          "url": "https://www.savethearchive.com/newsleaders/",
+          "score": 334,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-12T23:11:40+00:00"
         }
       ]
     },
