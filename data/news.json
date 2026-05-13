@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-05-13T01:38:53.399456+00:00",
+  "updated_at": "2026-05-13T03:08:43.975695+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-e046caa4b7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）",
+      "url": "https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "TOMOSIA-HieuNT",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-13T11:48:40+09:00"
+    },
+    {
+      "id": "hn-48116781",
+      "source": "hn",
+      "title": "Starship V3",
+      "url": "https://www.spacex.com/updates#starship-v3",
+      "score": 71,
+      "comments": 13,
+      "author": "fprog",
+      "tags": [],
+      "date": "2026-05-13T01:29:31+00:00"
+    },
     {
       "id": "hn-48116207",
       "source": "hn",
       "title": "My graduation cap runs Rust",
       "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "score": 40,
-      "comments": 5,
+      "score": 83,
+      "comments": 20,
       "author": "ericswpark",
       "tags": [],
       "date": "2026-05-13T00:04:21+00:00"
@@ -27,12 +51,23 @@
       "date": "2026-05-13T08:53:48+09:00"
     },
     {
+      "id": "hn-48116064",
+      "source": "hn",
+      "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+      "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+      "score": 23,
+      "comments": 1,
+      "author": "sbulaev",
+      "tags": [],
+      "date": "2026-05-12T23:46:28+00:00"
+    },
+    {
       "id": "hn-48115823",
       "source": "hn",
       "title": "Kraftwerk's radical 1976 track",
       "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 57,
-      "comments": 17,
+      "score": 77,
+      "comments": 25,
       "author": "tcp_handshaker",
       "tags": [],
       "date": "2026-05-12T23:13:01+00:00"
@@ -40,10 +75,10 @@
     {
       "id": "hn-48115807",
       "source": "hn",
-      "title": "Tell NYT, Atlantic, USA Today to Keep Wayback Machine",
+      "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
       "url": "https://www.savethearchive.com/newsleaders/",
-      "score": 109,
-      "comments": 18,
+      "score": 187,
+      "comments": 46,
       "author": "doener",
       "tags": [],
       "date": "2026-05-12T23:11:40+00:00"
@@ -53,8 +88,8 @@
       "source": "hn",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 140,
-      "comments": 56,
+      "score": 214,
+      "comments": 84,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-05-12T21:55:21+00:00"
@@ -64,8 +99,8 @@
       "source": "hn",
       "title": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
       "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
-      "score": 78,
-      "comments": 8,
+      "score": 114,
+      "comments": 16,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-05-12T21:48:24+00:00"
@@ -86,8 +121,8 @@
       "source": "hn",
       "title": "How to make your text look futuristic (2016)",
       "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 208,
-      "comments": 24,
+      "score": 229,
+      "comments": 29,
       "author": "_vaporwave_",
       "tags": [],
       "date": "2026-05-12T20:16:26+00:00"
@@ -130,8 +165,8 @@
       "source": "hn",
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 231,
-      "comments": 116,
+      "score": 244,
+      "comments": 118,
       "author": "chizhik-pyzhik",
       "tags": [],
       "date": "2026-05-12T18:12:28+00:00",
@@ -142,8 +177,8 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 272,
-      "comments": 98,
+      "score": 303,
+      "comments": 109,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-05-12T18:03:11+00:00"
@@ -164,8 +199,8 @@
       "source": "hn",
       "title": "Quack: The DuckDB Client-Server Protocol",
       "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "score": 182,
-      "comments": 38,
+      "score": 207,
+      "comments": 47,
       "author": "aduffy",
       "tags": [],
       "date": "2026-05-12T17:54:12+00:00"
@@ -187,8 +222,8 @@
       "source": "hn",
       "title": "Reimagining the mouse pointer for the AI era",
       "url": "https://deepmind.google/blog/ai-pointer/",
-      "score": 134,
-      "comments": 114,
+      "score": 155,
+      "comments": 127,
       "author": "devhouse",
       "tags": [],
       "date": "2026-05-12T17:40:13+00:00"
@@ -198,8 +233,8 @@
       "source": "hn",
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 605,
-      "comments": 1017,
+      "score": 638,
+      "comments": 1076,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-12T17:37:36+00:00"
@@ -231,8 +266,8 @@
       "source": "hn",
       "title": "Show HN: Agentic interface for mainframes and COBOL",
       "url": "https://www.hypercubic.ai/hopper",
-      "score": 54,
-      "comments": 31,
+      "score": 59,
+      "comments": 36,
       "author": "sai18",
       "tags": [],
       "date": "2026-05-12T17:10:22+00:00"
@@ -264,8 +299,8 @@
       "source": "hn",
       "title": "The Future of Obsidian Plugins",
       "url": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 301,
-      "comments": 122,
+      "score": 320,
+      "comments": 131,
       "author": "xz18r",
       "tags": [],
       "date": "2026-05-12T15:45:54+00:00"
@@ -275,7 +310,7 @@
       "source": "hn",
       "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
       "url": "https://voker.ai",
-      "score": 37,
+      "score": 43,
       "comments": 19,
       "author": "ttpost",
       "tags": [],
@@ -297,8 +332,8 @@
       "source": "hn",
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 365,
-      "comments": 178,
+      "score": 401,
+      "comments": 188,
       "author": "nilirl",
       "tags": [],
       "date": "2026-05-12T15:08:40+00:00"
@@ -308,8 +343,8 @@
       "source": "hn",
       "title": "Bambu Lab is abusing the open source social contract",
       "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 1089,
-      "comments": 360,
+      "score": 1125,
+      "comments": 371,
       "author": "rubenbe",
       "tags": [],
       "date": "2026-05-12T14:54:41+00:00",
@@ -320,8 +355,8 @@
       "source": "hn",
       "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
       "url": "https://github.com/statewright/statewright",
-      "score": 72,
-      "comments": 24,
+      "score": 82,
+      "comments": 26,
       "author": "azurewraith",
       "tags": [],
       "date": "2026-05-12T14:24:55+00:00"
@@ -355,8 +390,8 @@
       "source": "hn",
       "title": "Rendering the Sky, Sunsets, and Planets",
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 408,
-      "comments": 35,
+      "score": 421,
+      "comments": 37,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-12T13:26:46+00:00"
@@ -931,8 +966,8 @@
       "source": "hn",
       "title": "Foucault's Order of Things Explained with Trading Cards [video]",
       "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
-      "score": 18,
-      "comments": 1,
+      "score": 24,
+      "comments": 14,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-11T20:38:40+00:00"
@@ -1244,6 +1279,17 @@
       "date": "2026-05-11T07:26:54+00:00"
     },
     {
+      "id": "hn-48091898",
+      "source": "hn",
+      "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
+      "url": "https://github.com/tracewayapp/traceway",
+      "score": 18,
+      "comments": 3,
+      "author": "sebakubisz",
+      "tags": [],
+      "date": "2026-05-11T07:05:01+00:00"
+    },
+    {
       "id": "hn-48091737",
       "source": "hn",
       "title": "Mythos Finds a Curl Vulnerability",
@@ -1317,19 +1363,6 @@
         "Qiita"
       ],
       "date": "2026-05-11T13:03:04+09:00"
-    },
-    {
-      "id": "qiita-e046caa4b7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）",
-      "url": "https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TOMOSIA-HieuNT",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-11T12:55:14+09:00"
     },
     {
       "id": "qiita-36fcbe3914",
@@ -1588,6 +1621,17 @@
       "author": "lemonberry",
       "tags": [],
       "date": "2026-05-10T21:16:58+00:00"
+    },
+    {
+      "id": "hn-48087643",
+      "source": "hn",
+      "title": "Referer Reality",
+      "url": "https://www.robinsloan.com/lab/referer/",
+      "score": 5,
+      "comments": 0,
+      "author": "tobr",
+      "tags": [],
+      "date": "2026-05-10T20:31:10+00:00"
     },
     {
       "id": "hn-48087261",
@@ -1934,8 +1978,8 @@
       "source": "hn",
       "title": "Fc, a lossless compressor for floating-point streams",
       "url": "https://github.com/xtellect/fc",
-      "score": 14,
-      "comments": 4,
+      "score": 26,
+      "comments": 7,
       "author": "enduku",
       "tags": [],
       "date": "2026-05-10T10:14:20+00:00"
@@ -2337,7 +2381,7 @@
       "source": "hn",
       "title": "Lanzaboote – NixOS Secure Boot",
       "url": "https://x86.lol/generic/2022/11/26/lanzaboote.html",
-      "score": 40,
+      "score": 54,
       "comments": 6,
       "author": "evilmonkey19",
       "tags": [],
@@ -5132,50 +5176,6 @@
       "author": "cainxinth",
       "tags": [],
       "date": "2026-05-06T22:36:17+00:00"
-    },
-    {
-      "id": "hn-48042434",
-      "source": "hn",
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "url": "https://sqlite.org/locrsf.html",
-      "score": 572,
-      "comments": 174,
-      "author": "whatisabcdefgh",
-      "tags": [],
-      "date": "2026-05-06T21:58:43+00:00"
-    },
-    {
-      "id": "hn-48042427",
-      "source": "hn",
-      "title": "Show HN: I wrote a flight simulator in my own programming language",
-      "url": "https://github.com/navid-m/flightsim",
-      "score": 74,
-      "comments": 34,
-      "author": "pizza_man",
-      "tags": [],
-      "date": "2026-05-06T21:58:05+00:00"
-    },
-    {
-      "id": "hn-48042204",
-      "source": "hn",
-      "title": "Making Julia as Fast as C++ (2019)",
-      "url": "https://flow.byu.edu/posts/julia-c++",
-      "score": 63,
-      "comments": 46,
-      "author": "d_tr",
-      "tags": [],
-      "date": "2026-05-06T21:36:42+00:00"
-    },
-    {
-      "id": "hn-48042099",
-      "source": "hn",
-      "title": "Apple is enforcing an old App Store rule against a new kind of software",
-      "url": "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code",
-      "score": 44,
-      "comments": 11,
-      "author": "iristenteije",
-      "tags": [],
-      "date": "2026-05-06T21:26:53+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",

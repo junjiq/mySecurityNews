@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T01:38:53.460086+00:00",
-  "total_articles": 67,
+  "generated_at": "2026-05-13T03:08:44.040028+00:00",
+  "total_articles": 60,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,15 +29,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 48,
       "top_items": [
         {
           "title": "Bambu Lab is abusing the open source social contract",
           "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-          "score": 1089,
+          "score": 1125,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-12T14:54:41+00:00"
+        },
+        {
+          "title": "Googlebook",
+          "url": "https://googlebook.google/",
+          "score": 638,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-12T17:37:36+00:00"
         },
         {
           "title": "Screenshots of Old Desktop OSes",
@@ -46,14 +54,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T05:11:24+00:00"
-        },
-        {
-          "title": "Googlebook",
-          "url": "https://googlebook.google/",
-          "score": 605,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-12T17:37:36+00:00"
         },
         {
           "title": "Learning Software Architecture",
@@ -66,7 +66,7 @@
         {
           "title": "Rendering the Sky, Sunsets, and Planets",
           "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-          "score": 408,
+          "score": 421,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T13:26:46+00:00"
@@ -75,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 17,
+      "count": 12,
       "top_items": [
+        {
+          "title": "よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）",
+          "url": "https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-13T11:48:40+09:00"
+        },
         {
           "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
           "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-12T20:17:59+09:00"
-        },
-        {
-          "title": "OpenAIがCodexを無料開放——これ、何が目的なんだろう",
-          "url": "https://qiita.com/nhatcaofedev/items/1b5b5016b5a74fe27fe5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-12T16:12:43+09:00"
         }
       ]
     }
