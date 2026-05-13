@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T07:36:11.863407+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-05-13T09:03:28.187840+00:00",
+  "total_articles": 60,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -42,10 +42,18 @@
         {
           "title": "Googlebook",
           "url": "https://googlebook.google/",
-          "score": 741,
+          "score": 769,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T17:37:36+00:00"
+        },
+        {
+          "title": "Why senior developers fail to communicate their expertise",
+          "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+          "score": 550,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-12T15:08:40+00:00"
         },
         {
           "title": "Learning Software Architecture",
@@ -56,17 +64,9 @@
           "date": "2026-05-12T09:30:21+00:00"
         },
         {
-          "title": "Why senior developers fail to communicate their expertise",
-          "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-          "score": 521,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-12T15:08:40+00:00"
-        },
-        {
           "title": "Rendering the Sky, Sunsets, and Planets",
           "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-          "score": 462,
+          "score": 472,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T13:26:46+00:00"
@@ -75,8 +75,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 13,
       "top_items": [
+        {
+          "title": "OCI X12 Standard Acceleron Computeで Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
+          "url": "https://qiita.com/shirok/items/e6f8f5f7867d335814dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-13T17:55:23+09:00"
+        },
+        {
+          "title": "1割の \"信頼される\" エンジニアが実行している 『止めないコミュニケーション』",
+          "url": "https://qiita.com/hitomin_poke/items/296886c435ebc79a667c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-13T13:42:28+09:00"
+        },
         {
           "title": "よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）",
           "url": "https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,36 +102,20 @@
           "date": "2026-05-13T11:48:40+09:00"
         },
         {
-          "title": "【エンジニアの教養】なぜかエンジニア界隈で有名な◯◯の法則的なやつをまとめてみた",
-          "url": "https://qiita.com/miruky/items/cef8169b4a10cdd790b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "[Frontend Performance - Part 15] 配信最適化：CDNとネットワークで表示速度を改善する",
+          "url": "https://qiita.com/tuanphan/items/03ab0f5fff1073d5604d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-13T08:53:48+09:00"
+          "date": "2026-05-13T11:37:31+09:00"
         },
         {
-          "title": "Claude Codeが高いのでOSSでローカル環境を作ってみた（Ollama × Continue）",
-          "url": "https://qiita.com/nishifeoda/items/58a38dbfdfc038ccb79a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "いつも使っている Claude Code の裏側を覗いてみた",
+          "url": "https://qiita.com/sapeet-lin/items/f9143a90094601631b6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-12T23:07:54+09:00"
-        },
-        {
-          "title": "ここがすごいよClaude Platform on AWS",
-          "url": "https://qiita.com/moritalous/items/6ccba964655e83336f96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-12T21:47:26+09:00"
-        },
-        {
-          "title": "脳科学から見る、AI時代のエンジニアが成長する考え方",
-          "url": "https://qiita.com/Toyo_m/items/4e1dd272f6bd4b78131e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-12T20:17:59+09:00"
+          "date": "2026-05-13T11:04:17+09:00"
         }
       ]
     }
