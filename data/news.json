@@ -1,29 +1,7 @@
 {
-  "updated_at": "2026-05-13T13:16:16.794882+00:00",
+  "updated_at": "2026-05-13T14:18:48.928090+00:00",
   "count": 500,
   "items": [
-    {
-      "id": "hn-48121299",
-      "source": "hn",
-      "title": "Dutch suicide prevention website shares data with tech companies without consent",
-      "url": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
-      "score": 7,
-      "comments": 0,
-      "author": "giuliomagnifico",
-      "tags": [],
-      "date": "2026-05-13T12:57:42+00:00"
-    },
-    {
-      "id": "hn-48121266",
-      "source": "hn",
-      "title": "Why I'm leaving GitHub for Forgejo",
-      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 24,
-      "comments": 5,
-      "author": "jorijn",
-      "tags": [],
-      "date": "2026-05-13T12:54:00+00:00"
-    },
     {
       "id": "qiita-10724a95da",
       "source": "zennqiita",
@@ -35,7 +13,51 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-05-13T21:17:03+09:00"
+      "date": "2026-05-13T23:15:55+09:00"
+    },
+    {
+      "id": "hn-48121929",
+      "source": "hn",
+      "title": "The US Is Winning the AI Race",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "score": 17,
+      "comments": 6,
+      "author": "akrylov",
+      "tags": [],
+      "date": "2026-05-13T13:53:53+00:00"
+    },
+    {
+      "id": "hn-48121717",
+      "source": "hn",
+      "title": "Software Developers Say AI Is Rotting Their Brains",
+      "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+      "score": 28,
+      "comments": 10,
+      "author": "SpyCoder77",
+      "tags": [],
+      "date": "2026-05-13T13:34:51+00:00"
+    },
+    {
+      "id": "hn-48121299",
+      "source": "hn",
+      "title": "Dutch suicide prevention website shares data with tech companies without consent",
+      "url": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
+      "score": 84,
+      "comments": 35,
+      "author": "giuliomagnifico",
+      "tags": [],
+      "date": "2026-05-13T12:57:42+00:00"
+    },
+    {
+      "id": "hn-48121266",
+      "source": "hn",
+      "title": "Why I'm leaving GitHub for Forgejo",
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "score": 138,
+      "comments": 101,
+      "author": "jorijn",
+      "tags": [],
+      "date": "2026-05-13T12:54:00+00:00"
     },
     {
       "id": "hn-48120776",
@@ -53,8 +75,8 @@
       "source": "hn",
       "title": "I Moved My Digital Stack to Europe",
       "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 243,
-      "comments": 153,
+      "score": 378,
+      "comments": 268,
       "author": "monokai_nl",
       "tags": [],
       "date": "2026-05-13T11:42:20+00:00"
@@ -64,8 +86,8 @@
       "source": "hn",
       "title": "Using OR-Tools CP-SAT for Scheduling Problems",
       "url": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
-      "score": 15,
-      "comments": 2,
+      "score": 28,
+      "comments": 4,
       "author": "akutlay",
       "tags": [],
       "date": "2026-05-13T11:02:57+00:00"
@@ -75,8 +97,8 @@
       "source": "hn",
       "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
       "url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
-      "score": 23,
-      "comments": 10,
+      "score": 33,
+      "comments": 23,
       "author": "sagacity",
       "tags": [],
       "date": "2026-05-13T08:41:30+00:00"
@@ -121,8 +143,8 @@
       "source": "hn",
       "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
       "url": "https://arxiv.org/abs/2605.08419",
-      "score": 234,
-      "comments": 54,
+      "score": 245,
+      "comments": 58,
       "author": "matt_d",
       "tags": [],
       "date": "2026-05-13T04:25:03+00:00"
@@ -256,8 +278,8 @@
       "source": "hn",
       "title": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
       "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-      "score": 120,
-      "comments": 17,
+      "score": 127,
+      "comments": 19,
       "author": "sbulaev",
       "tags": [],
       "date": "2026-05-12T23:46:28+00:00"
@@ -302,8 +324,8 @@
       "source": "hn",
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 519,
-      "comments": 231,
+      "score": 544,
+      "comments": 238,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-05-12T21:55:21+00:00"
@@ -335,8 +357,8 @@
       "source": "hn",
       "title": "Scrcpy v4.0",
       "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-      "score": 253,
-      "comments": 39,
+      "score": 281,
+      "comments": 42,
       "author": "xnx",
       "tags": [],
       "date": "2026-05-12T20:50:02+00:00"
@@ -346,8 +368,8 @@
       "source": "hn",
       "title": "How to make your text look futuristic (2016)",
       "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 404,
-      "comments": 54,
+      "score": 417,
+      "comments": 55,
       "author": "_vaporwave_",
       "tags": [],
       "date": "2026-05-12T20:16:26+00:00"
@@ -390,8 +412,8 @@
       "source": "hn",
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 338,
-      "comments": 174,
+      "score": 346,
+      "comments": 180,
       "author": "chizhik-pyzhik",
       "tags": [],
       "date": "2026-05-12T18:12:28+00:00",
@@ -402,7 +424,7 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 525,
+      "score": 547,
       "comments": 157,
       "author": "HenryNdubuaku",
       "tags": [],
@@ -458,8 +480,8 @@
       "source": "hn",
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 836,
-      "comments": 1368,
+      "score": 851,
+      "comments": 1394,
       "author": "tambourine_man",
       "tags": [],
       "date": "2026-05-12T17:37:36+00:00"
@@ -557,8 +579,8 @@
       "source": "hn",
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 645,
-      "comments": 286,
+      "score": 670,
+      "comments": 290,
       "author": "nilirl",
       "tags": [],
       "date": "2026-05-12T15:08:40+00:00"
@@ -615,8 +637,8 @@
       "source": "hn",
       "title": "Rendering the Sky, Sunsets, and Planets",
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 497,
-      "comments": 39,
+      "score": 505,
+      "comments": 40,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-12T13:26:46+00:00"
@@ -1501,7 +1523,7 @@
       "source": "hn",
       "title": "An idiot's guide to lead optimisation for proteins",
       "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-      "score": 5,
+      "score": 25,
       "comments": 0,
       "author": "magni121",
       "tags": [],
@@ -1558,8 +1580,8 @@
       "source": "hn",
       "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
       "url": "https://github.com/tracewayapp/traceway",
-      "score": 134,
-      "comments": 24,
+      "score": 140,
+      "comments": 32,
       "author": "sebakubisz",
       "tags": [],
       "date": "2026-05-11T07:05:01+00:00"
@@ -1569,8 +1591,8 @@
       "source": "hn",
       "title": "Preserving Fisher-Price Pixter",
       "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 70,
-      "comments": 6,
+      "score": 105,
+      "comments": 13,
       "author": "dmitrygr",
       "tags": [],
       "date": "2026-05-11T06:52:48+00:00"
@@ -1751,8 +1773,8 @@
       "source": "hn",
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 130,
-      "comments": 47,
+      "score": 165,
+      "comments": 55,
       "author": "HardwareLust",
       "tags": [],
       "date": "2026-05-11T01:05:59+00:00"
@@ -2654,8 +2676,8 @@
       "source": "hn",
       "title": "Web Server on a Nintendo Wii",
       "url": "http://wii.sjmulder.nl/",
-      "score": 36,
-      "comments": 2,
+      "score": 52,
+      "comments": 6,
       "author": "adunk",
       "tags": [],
       "date": "2026-05-09T21:32:16+00:00"
@@ -2682,6 +2704,17 @@
       "author": "holden_nelson",
       "tags": [],
       "date": "2026-05-09T20:31:07+00:00"
+    },
+    {
+      "id": "hn-48077924",
+      "source": "hn",
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "score": 18,
+      "comments": 1,
+      "author": "curiousgal",
+      "tags": [],
+      "date": "2026-05-09T20:25:55+00:00"
     },
     {
       "id": "hn-48077395",
@@ -3865,8 +3898,8 @@
       "source": "hn",
       "title": "The Boring Part of Bell Labs (2025)",
       "url": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
-      "score": 51,
-      "comments": 6,
+      "score": 65,
+      "comments": 7,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-08T13:00:19+00:00"
@@ -5140,41 +5173,6 @@
       "author": "swiftdust",
       "tags": [],
       "date": "2026-05-07T07:16:44+00:00"
-    },
-    {
-      "id": "hn-48046397",
-      "source": "hn",
-      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "url": "https://unsloth.ai/blog/nvidia-collab",
-      "score": 75,
-      "comments": 10,
-      "author": "segmenta",
-      "tags": [],
-      "date": "2026-05-07T07:15:11+00:00"
-    },
-    {
-      "id": "qiita-6ccdeb8e02",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "React Router v7 入門 — 第1回：押さえておくべき基本",
-      "url": "https://qiita.com/nhatcaofedev/items/b7931e4bb7f51e1dccb6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nhatcaofedev",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-07T16:11:09+09:00"
-    },
-    {
-      "id": "hn-48033483",
-      "source": "hn",
-      "title": "The vi family",
-      "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
-      "score": 212,
-      "comments": 134,
-      "author": "hggh",
-      "tags": [],
-      "date": "2026-05-06T07:51:16+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
