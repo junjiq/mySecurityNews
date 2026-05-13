@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-13T14:18:49.044892+00:00",
+  "generated_at": "2026-05-13T15:33:03.178807+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 350,
-    "zennqiita": 100
+    "hn": 352,
+    "zennqiita": 98
   },
   "severity_counts": {
+    "critical": 7,
     "high": 11,
-    "critical": 6,
     "medium": 5
   },
   "top_articles": [
@@ -78,7 +78,7 @@
     {
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 851,
+      "score": 870,
       "source": "hn",
       "date": "2026-05-12T17:37:36+00:00"
     },
@@ -118,6 +118,13 @@
       "date": "2026-05-07T14:06:10+00:00"
     },
     {
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "score": 704,
+      "source": "hn",
+      "date": "2026-05-12T15:08:40+00:00"
+    },
+    {
       "title": "AI slop is killing online communities",
       "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
       "score": 688,
@@ -130,13 +137,6 @@
       "score": 677,
       "source": "hn",
       "date": "2026-05-09T10:12:55+00:00"
-    },
-    {
-      "title": "Why senior developers fail to communicate their expertise",
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 670,
-      "source": "hn",
-      "date": "2026-05-12T15:08:40+00:00"
     },
     {
       "title": "Internet Archive Switzerland",
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Kickstarter Is Forced to Ban Adult Content by Payment Processors",
+      "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-13T15:26:27+00:00"
+    },
     {
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",

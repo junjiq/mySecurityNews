@@ -1,22 +1,22 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T14:18:49.000099+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-05-13T15:33:03.136698+00:00",
+  "total_articles": 52,
   "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Kickstarter Is Forced to Ban Adult Content by Payment Processors",
+      "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-13T15:26:27+00:00"
+    },
     {
       "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
       "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-12T17:52:34+00:00"
-    },
-    {
-      "title": "Bambu Lab is abusing the open source social contract",
-      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-12T14:54:41+00:00"
     },
     {
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
@@ -29,47 +29,47 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 42,
       "top_items": [
-        {
-          "title": "Bambu Lab is abusing the open source social contract",
-          "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-          "score": 1157,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-05-12T14:54:41+00:00"
-        },
         {
           "title": "Googlebook",
           "url": "https://googlebook.google/",
-          "score": 851,
+          "score": 870,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T17:37:36+00:00"
         },
         {
-          "title": "Why senior developers fail to communicate their expertise",
-          "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-          "score": 670,
+          "title": "Restore full BambuNetwork support for Bambu Lab printers",
+          "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+          "score": 585,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-12T15:08:40+00:00"
+          "date": "2026-05-12T21:55:21+00:00"
         },
         {
           "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
           "url": "https://github.com/cactus-compute/needle",
-          "score": 547,
+          "score": 562,
           "source": "hn",
           "severity": null,
           "date": "2026-05-12T18:03:11+00:00"
         },
         {
-          "title": "Restore full BambuNetwork support for Bambu Lab printers",
-          "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-          "score": 544,
+          "title": "I Moved My Digital Stack to Europe",
+          "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+          "score": 513,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-12T21:55:21+00:00"
+          "date": "2026-05-13T11:42:20+00:00"
+        },
+        {
+          "title": "How to make your text look futuristic (2016)",
+          "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+          "score": 432,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-12T20:16:26+00:00"
         }
       ]
     },
@@ -83,7 +83,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-13T23:15:55+09:00"
+          "date": "2026-05-14T00:11:51+09:00"
         },
         {
           "title": "1割の \"信頼される\" エンジニアが実行している 『止めないコミュニケーション』",
