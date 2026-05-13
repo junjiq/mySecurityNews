@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T22:53:36.964879+00:00",
-  "total_articles": 47,
+  "generated_at": "2026-05-13T23:25:58.469849+00:00",
+  "total_articles": 46,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -43,18 +43,10 @@
         {
           "title": "Setting up a free *.city.state.us locality domain (2025)",
           "url": "https://fredchan.org/blog/locality-domains-guide/",
-          "score": 440,
+          "score": 448,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T14:45:18+00:00"
-        },
-        {
-          "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
-          "url": "https://www.savethearchive.com/newsleaders/",
-          "score": 334,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-12T23:11:40+00:00"
         },
         {
           "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
@@ -63,12 +55,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T04:25:03+00:00"
+        },
+        {
+          "title": "Kickstarter is forced to ban adult content by payment processors",
+          "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
+          "score": 202,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-05-13T15:26:27+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
