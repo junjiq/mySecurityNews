@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-14T01:40:25.897751+00:00",
+  "generated_at": "2026-05-14T03:08:28.098136+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 98
+    "hn": 353,
+    "zennqiita": 97
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "high": 10,
     "medium": 5
   },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Cisco Workforce Reductions",
+      "url": "https://blogs.cisco.com/news/our-path-forward",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-14T01:38:05+00:00"
+    },
     {
       "title": "Kickstarter is forced to ban adult content by payment processors",
       "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",

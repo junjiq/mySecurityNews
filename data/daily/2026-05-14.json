@@ -1,9 +1,16 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T01:40:25.856674+00:00",
-  "total_articles": 42,
-  "urgent_count": 2,
+  "generated_at": "2026-05-14T03:08:28.056092+00:00",
+  "total_articles": 38,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Cisco Workforce Reductions",
+      "url": "https://blogs.cisco.com/news/our-path-forward",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-14T01:38:05+00:00"
+    },
     {
       "title": "Kickstarter is forced to ban adult content by payment processors",
       "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
@@ -35,7 +42,7 @@
         {
           "title": "Leaving GitHub for Forgejo",
           "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-          "score": 526,
+          "score": 540,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T12:54:00+00:00"
@@ -43,7 +50,7 @@
         {
           "title": "Setting up a free *.city.state.us locality domain (2025)",
           "url": "https://fredchan.org/blog/locality-domains-guide/",
-          "score": 486,
+          "score": 514,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T14:45:18+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
           "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-          "score": 243,
+          "score": 273,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T20:12:16+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 3,
       "top_items": [
         {
           "title": "Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
@@ -93,22 +100,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-13T12:47:42+09:00"
-        },
-        {
-          "title": "よく使うUIデザインパターンを全部まとめてみた（ユースケース別に分類・グループ化）",
-          "url": "https://qiita.com/TOMOSIA-HieuNT/items/5644ff9243ebcdaf08a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-13T11:48:40+09:00"
-        },
-        {
-          "title": "[Frontend Performance - Part 15] 配信最適化：CDNとネットワークで表示速度を改善する",
-          "url": "https://qiita.com/tuanphan/items/03ab0f5fff1073d5604d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-13T11:37:31+09:00"
         }
       ]
     }

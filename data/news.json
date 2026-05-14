@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-05-14T01:40:25.793222+00:00",
+  "updated_at": "2026-05-14T03:08:27.995764+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48130123",
+      "source": "hn",
+      "title": "Cisco Workforce Reductions",
+      "url": "https://blogs.cisco.com/news/our-path-forward",
+      "score": 6,
+      "comments": 0,
+      "author": "ahmedomran8",
+      "tags": [],
+      "date": "2026-05-14T01:38:05+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48129694",
       "source": "hn",
       "title": "Scorched Earth 2000 is back",
       "url": "http://www.scorch2000.com/web/",
-      "score": 14,
-      "comments": 8,
+      "score": 114,
+      "comments": 35,
       "author": "meshko",
       "tags": [],
       "date": "2026-05-14T00:41:29+00:00"
@@ -75,8 +87,8 @@
       "source": "hn",
       "title": "Meta won't let you block its AI account on Threads",
       "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-      "score": 107,
-      "comments": 44,
+      "score": 127,
+      "comments": 57,
       "author": "logickkk1",
       "tags": [],
       "date": "2026-05-13T20:22:21+00:00"
@@ -86,8 +98,8 @@
       "source": "hn",
       "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
       "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-      "score": 243,
-      "comments": 348,
+      "score": 273,
+      "comments": 372,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-13T20:12:16+00:00"
@@ -141,8 +153,8 @@
       "source": "hn",
       "title": "A sentimental tour of late 1990s and early 2000s hacking tools",
       "url": "https://andreafortuna.org/2026/05/13/amarcord/",
-      "score": 44,
-      "comments": 16,
+      "score": 49,
+      "comments": 17,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-13T18:25:09+00:00"
@@ -163,8 +175,8 @@
       "source": "hn",
       "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
       "url": "https://www.tryardent.com/",
-      "score": 64,
-      "comments": 28,
+      "score": 74,
+      "comments": 32,
       "author": "vc289",
       "tags": [],
       "date": "2026-05-13T16:54:03+00:00"
@@ -185,7 +197,7 @@
       "source": "hn",
       "title": "S-100 Virtual Workbench",
       "url": "https://grantmestrength.github.io/S100/",
-      "score": 98,
+      "score": 107,
       "comments": 20,
       "author": "rbanffy",
       "tags": [],
@@ -242,8 +254,8 @@
       "source": "hn",
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 486,
-      "comments": 155,
+      "score": 514,
+      "comments": 163,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-13T14:45:18+00:00"
@@ -253,8 +265,8 @@
       "source": "hn",
       "title": "The US is winning the AI race where it matters most: commercialization",
       "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "score": 162,
-      "comments": 462,
+      "score": 168,
+      "comments": 475,
       "author": "akrylov",
       "tags": [],
       "date": "2026-05-13T13:53:53+00:00"
@@ -286,8 +298,8 @@
       "source": "hn",
       "title": "Leaving GitHub for Forgejo",
       "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 526,
-      "comments": 281,
+      "score": 540,
+      "comments": 285,
       "author": "jorijn",
       "tags": [],
       "date": "2026-05-13T12:54:00+00:00"
@@ -363,8 +375,8 @@
       "source": "hn",
       "title": "The Emacsification of Software",
       "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 191,
-      "comments": 128,
+      "score": 211,
+      "comments": 149,
       "author": "rdslw",
       "tags": [],
       "date": "2026-05-13T07:06:14+00:00"
@@ -605,8 +617,8 @@
       "source": "hn",
       "title": "Twin brothers wipe 96 government databases minutes after being fired",
       "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-      "score": 299,
-      "comments": 225,
+      "score": 327,
+      "comments": 241,
       "author": "jnord",
       "tags": [],
       "date": "2026-05-12T22:28:07+00:00"
@@ -716,8 +728,8 @@
       "source": "hn",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 638,
-      "comments": 183,
+      "score": 645,
+      "comments": 184,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-05-12T18:03:11+00:00"
@@ -960,6 +972,17 @@
       "date": "2026-05-12T13:26:46+00:00"
     },
     {
+      "id": "hn-48107619",
+      "source": "hn",
+      "title": "AEPs: API Enhancement Proposals",
+      "url": "https://github.com/aep-dev/aeps",
+      "score": 7,
+      "comments": 3,
+      "author": "nateb2022",
+      "tags": [],
+      "date": "2026-05-12T12:58:39+00:00"
+    },
+    {
       "id": "qiita-caa3ffd8ff",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -977,8 +1000,8 @@
       "source": "hn",
       "title": "The Age of the Amplifier",
       "url": "https://www.construction-physics.com/p/the-age-of-the-amplifier",
-      "score": 4,
-      "comments": 0,
+      "score": 11,
+      "comments": 2,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-12T12:45:18+00:00"
@@ -1127,6 +1150,17 @@
       "author": "phaedrus044",
       "tags": [],
       "date": "2026-05-12T08:28:45+00:00"
+    },
+    {
+      "id": "hn-48105385",
+      "source": "hn",
+      "title": "Can a Language Model Paint?",
+      "url": "https://www.etive-mor.com/blog/can-a-language-model-paint/",
+      "score": 6,
+      "comments": 4,
+      "author": "liamlaverty",
+      "tags": [],
+      "date": "2026-05-12T07:44:19+00:00"
     },
     {
       "id": "hn-48105297",
@@ -1712,8 +1746,8 @@
       "source": "hn",
       "title": "Chess puzzle I found in my dad's old book",
       "url": "https://ardoedo.it/kempelen/",
-      "score": 80,
-      "comments": 27,
+      "score": 107,
+      "comments": 30,
       "author": "Eswo",
       "tags": [],
       "date": "2026-05-11T16:00:19+00:00"
@@ -1793,8 +1827,8 @@
       "source": "hn",
       "title": "Marco Polo: Finding a friend with only distance and motion",
       "url": "https://www.jackhogan.me/blog/marco-polo",
-      "score": 35,
-      "comments": 4,
+      "score": 46,
+      "comments": 5,
       "author": "jackhogan11",
       "tags": [],
       "date": "2026-05-11T14:52:25+00:00"
@@ -1962,7 +1996,7 @@
       "source": "hn",
       "title": "Preserving Fisher-Price Pixter",
       "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 207,
+      "score": 214,
       "comments": 44,
       "author": "dmitrygr",
       "tags": [],
@@ -2328,8 +2362,8 @@
       "source": "hn",
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 518,
-      "comments": 343,
+      "score": 569,
+      "comments": 363,
       "author": "haunter",
       "tags": [],
       "date": "2026-05-10T20:54:06+00:00"
@@ -2417,7 +2451,7 @@
       "source": "hn",
       "title": "After 3 decades of splendid scientific communication, this one's for you, Ned",
       "url": "https://www.adn.com/alaska-news/science/2026/05/08/after-3-decades-of-splendid-scientific-communication-this-ones-for-you-ned/",
-      "score": 12,
+      "score": 15,
       "comments": 0,
       "author": "rolph",
       "tags": [],
@@ -2861,8 +2895,8 @@
       "source": "hn",
       "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
       "url": "https://github.com/nooga/xsofy",
-      "score": 158,
-      "comments": 69,
+      "score": 165,
+      "comments": 70,
       "author": "andsoitis",
       "tags": [],
       "date": "2026-05-10T03:32:59+00:00"
@@ -3114,8 +3148,8 @@
       "source": "hn",
       "title": "Reverting the incremental GC in Python 3.14 and 3.15",
       "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 197,
-      "comments": 78,
+      "score": 206,
+      "comments": 81,
       "author": "curiousgal",
       "tags": [],
       "date": "2026-05-09T20:25:55+00:00"
@@ -3539,8 +3573,8 @@
       "source": "hn",
       "title": "A History of IDEs at Google",
       "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 268,
-      "comments": 196,
+      "score": 298,
+      "comments": 217,
       "author": "laurentlb",
       "tags": [],
       "date": "2026-05-09T11:14:18+00:00"
@@ -5135,41 +5169,6 @@
       "author": "bsuh",
       "tags": [],
       "date": "2026-05-07T16:43:35+00:00"
-    },
-    {
-      "id": "hn-48051555",
-      "source": "hn",
-      "title": "The rise and fall of snake oil",
-      "url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
-      "score": 69,
-      "comments": 34,
-      "author": "samizdis",
-      "tags": [],
-      "date": "2026-05-07T16:43:11+00:00"
-    },
-    {
-      "id": "qiita-b6c0ddbdee",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "現場1、2年目に伝えたい、Viコマンドが自分のエンジニア人生を変えた話",
-      "url": "https://qiita.com/y_arashi/items/f6e22db9ecb9550e37f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "y_arashi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-08T01:17:00+09:00"
-    },
-    {
-      "id": "hn-48051079",
-      "source": "hn",
-      "title": "Hardening Firefox with Claude Mythos Preview",
-      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-      "score": 277,
-      "comments": 121,
-      "author": "HieronymusBosch",
-      "tags": [],
-      "date": "2026-05-07T16:05:33+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
