@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-14T18:09:15.326602+00:00",
+  "generated_at": "2026-05-14T19:08:48.584151+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 356,
-    "zennqiita": 94
+    "hn": 358,
+    "zennqiita": 92
   },
   "severity_counts": {
-    "high": 10,
+    "high": 11,
     "critical": 10,
     "medium": 4
   },
@@ -83,13 +83,6 @@
       "date": "2026-05-11T01:23:51+00:00"
     },
     {
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 831,
-      "source": "hn",
-      "date": "2026-05-08T12:03:26+00:00"
-    },
-    {
       "title": "I returned to AWS and was reminded why I left",
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
       "score": 775,
@@ -151,9 +144,23 @@
       "score": 620,
       "source": "hn",
       "date": "2026-05-12T05:11:24+00:00"
+    },
+    {
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "score": 614,
+      "source": "hn",
+      "date": "2026-05-08T13:56:10+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-14T18:25:09+00:00"
+    },
     {
       "title": "New Nginx Exploit",
       "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
