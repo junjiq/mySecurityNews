@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T20:06:37.262761+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-05-14T20:56:44.837147+00:00",
+  "total_articles": 71,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,12 +43,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 54,
       "top_items": [
         {
           "title": "A message from President Kornbluth about funding and the talent pipeline",
           "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-          "score": 510,
+          "score": 529,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T14:51:14+00:00"
@@ -62,34 +62,34 @@
           "date": "2026-05-14T03:59:35+00:00"
         },
         {
-          "title": "Scorched Earth 2000 – Web",
-          "url": "http://www.scorch2000.com/web/",
-          "score": 362,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T00:41:29+00:00"
-        },
-        {
           "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
           "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-          "score": 344,
+          "score": 383,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T15:47:31+00:00"
         },
         {
-          "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-          "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-          "score": 329,
+          "title": "Rewrite Bun in Rust has been merged",
+          "url": "https://github.com/oven-sh/bun/pull/30412",
+          "score": 369,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-13T20:12:16+00:00"
+          "date": "2026-05-14T08:15:31+00:00"
+        },
+        {
+          "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+          "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+          "score": 368,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-14T17:08:00+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 17,
       "top_items": [
         {
           "title": "Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
@@ -100,36 +100,36 @@
           "date": "2026-05-15T01:12:13+09:00"
         },
         {
-          "title": "AI時代の新卒エンジニア採用、面接1時間で「書ける人」を見抜けますか？──履歴書と面接の間に「実務90分」を挟むという提案",
-          "url": "https://qiita.com/Ngen/items/9804ff498426ee385967?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全80回 総復習",
+          "url": "https://qiita.com/maskot1977/items/dd76864328b8e8910108?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-14T16:38:08+09:00"
+          "date": "2026-05-15T00:00:57+09:00"
         },
         {
-          "title": "現在地付近の東京の電車・バスをスマートグラスに「スカウター」として映す — Even G2 plugin を作った話",
-          "url": "https://qiita.com/oic0310/items/47b810a2d9c8c51fac90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "セキュリティを学ぶ学生、\"孤高の狼\"になってませんか? — 学生コミュニティを作りたい話",
+          "url": "https://qiita.com/Sabakan0123/items/8a937781391763ff1bb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-14T14:16:26+09:00"
+          "date": "2026-05-14T20:41:08+09:00"
         },
         {
-          "title": "ChromeのOptGuideOnDeviceModelとは？4GB AIモデル自動DL問題を調べてみた",
-          "url": "https://qiita.com/tuanphan/items/f6ab86636a2cef75620f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude Code はセッションをまたぐと記憶がリセットされる — 5分で永続記憶を仕込む方法",
+          "url": "https://qiita.com/jqit_suwa/items/8607bf9f2683fb8442de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-14T11:47:01+09:00"
+          "date": "2026-05-14T20:11:03+09:00"
         },
         {
-          "title": "AI Ready なデータ基盤とは何か",
-          "url": "https://qiita.com/ayumito/items/746fc38b5675869b96a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "関数型プログラミングを知らない人向けに、「Haskellって何が面白いの?」と聞かれた時の回答",
+          "url": "https://qiita.com/sigma_devsecops/items/3f2a397e944401fcc6cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-14T10:38:49+09:00"
+          "date": "2026-05-14T18:54:13+09:00"
         }
       ]
     }

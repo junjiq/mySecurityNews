@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-14T20:06:37.306520+00:00",
+  "generated_at": "2026-05-14T20:56:44.883756+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 358,
-    "zennqiita": 92
+    "hn": 350,
+    "zennqiita": 100
   },
   "severity_counts": {
-    "high": 11,
+    "high": 10,
     "critical": 11,
     "medium": 3
   },
@@ -139,18 +139,18 @@
       "date": "2026-05-12T05:11:24+00:00"
     },
     {
-      "title": "Google Cloud Fraud Defence is just WEI repackaged",
-      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-      "score": 614,
-      "source": "hn",
-      "date": "2026-05-08T13:56:10+00:00"
-    },
-    {
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "url": "https://ratty-term.org/",
       "score": 610,
       "source": "hn",
       "date": "2026-05-11T10:13:04+00:00"
+    },
+    {
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 601,
+      "source": "hn",
+      "date": "2026-05-13T14:45:18+00:00"
     }
   ],
   "security_highlights": [
@@ -300,13 +300,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-08T17:55:08+00:00"
-    },
-    {
-      "title": "Podman rootless containers and the Copy Fail exploit",
-      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-08T13:22:33+00:00"
     }
   ]
 }
