@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T20:56:44.837147+00:00",
-  "total_articles": 71,
-  "urgent_count": 5,
+  "generated_at": "2026-05-14T21:31:17.432483+00:00",
+  "total_articles": 76,
+  "urgent_count": 6,
   "urgent_items": [
     {
       "title": "DIY open-source ultrasound hardware on the rp2040/rp2350",
@@ -26,6 +26,13 @@
       "date": "2026-05-14T01:38:05+00:00"
     },
     {
+      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-14T20:41:48+00:00"
+    },
+    {
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
       "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
       "severity": "high",
@@ -43,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 59,
       "top_items": [
         {
           "title": "A message from President Kornbluth about funding and the talent pipeline",
           "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-          "score": 529,
+          "score": 535,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T14:51:14+00:00"
@@ -64,10 +71,18 @@
         {
           "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
           "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-          "score": 383,
+          "score": 406,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T15:47:31+00:00"
+        },
+        {
+          "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+          "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+          "score": 405,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-14T17:08:00+00:00"
         },
         {
           "title": "Rewrite Bun in Rust has been merged",
@@ -76,14 +91,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T08:15:31+00:00"
-        },
-        {
-          "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-          "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-          "score": 368,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T17:08:00+00:00"
         }
       ]
     },

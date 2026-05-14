@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-14T20:56:44.883756+00:00",
+  "generated_at": "2026-05-14T21:31:17.479112+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 350,
-    "zennqiita": 100
+    "hn": 351,
+    "zennqiita": 99
   },
   "severity_counts": {
-    "high": 10,
+    "high": 11,
     "critical": 11,
     "medium": 3
   },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-14T20:41:48+00:00"
+    },
     {
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
       "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
