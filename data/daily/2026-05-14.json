@@ -1,8 +1,8 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T14:16:42.586707+00:00",
+  "generated_at": "2026-05-14T15:17:22.870713+00:00",
   "total_articles": 54,
-  "urgent_count": 4,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Microsoft BitLocker – YellowKey zero-day exploit",
@@ -24,13 +24,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-13T15:26:27+00:00"
-    },
-    {
-      "title": "Open Source Resistance: keep OSS alive on company time",
-      "url": "https://ossresistance.com/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-13T15:13:37+00:00"
     }
   ],
   "categories": [
@@ -39,20 +32,20 @@
       "count": 44,
       "top_items": [
         {
-          "title": "Setting up a free *.city.state.us locality domain (2025)",
-          "url": "https://fredchan.org/blog/locality-domains-guide/",
-          "score": 586,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-13T14:45:18+00:00"
-        },
-        {
           "title": "Claude for Small Business",
           "url": "https://www.anthropic.com/news/claude-for-small-business",
-          "score": 387,
+          "score": 426,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T03:59:35+00:00"
+        },
+        {
+          "title": "Scorched Earth 2000 – Web",
+          "url": "http://www.scorch2000.com/web/",
+          "score": 330,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-14T00:41:29+00:00"
         },
         {
           "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
@@ -63,20 +56,20 @@
           "date": "2026-05-13T20:12:16+00:00"
         },
         {
-          "title": "Scorched Earth 2000 – Web",
-          "url": "http://www.scorch2000.com/web/",
-          "score": 315,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T00:41:29+00:00"
-        },
-        {
           "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
           "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-          "score": 272,
+          "score": 285,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T18:30:51+00:00"
+        },
+        {
+          "title": "Cisco workforce reductions",
+          "url": "https://blogs.cisco.com/news/our-path-forward",
+          "score": 227,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-05-14T01:38:05+00:00"
         }
       ]
     },
@@ -84,6 +77,14 @@
       "category": "日本語技術記事",
       "count": 10,
       "top_items": [
+        {
+          "title": "Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
+          "url": "https://qiita.com/shirok/items/e6f8f5f7867d335814dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-14T23:34:19+09:00"
+        },
         {
           "title": "AI時代の新卒エンジニア採用、面接1時間で「書ける人」を見抜けますか？──履歴書と面接の間に「実務90分」を挟むという提案",
           "url": "https://qiita.com/Ngen/items/9804ff498426ee385967?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -115,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-14T10:38:49+09:00"
-        },
-        {
-          "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
-          "url": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-14T10:00:06+09:00"
         }
       ]
     }
