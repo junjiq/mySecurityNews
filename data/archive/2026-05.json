@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-14T11:16:21.909995+00:00",
+  "generated_at": "2026-05-14T12:07:46.367172+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 346,
-    "zennqiita": 104
+    "hn": 347,
+    "zennqiita": 103
   },
   "severity_counts": {
     "critical": 9,
-    "high": 10,
+    "high": 9,
     "medium": 4
   },
   "top_articles": [
@@ -83,18 +83,18 @@
       "date": "2026-05-08T12:03:26+00:00"
     },
     {
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "score": 791,
+      "source": "hn",
+      "date": "2026-05-10T20:54:06+00:00"
+    },
+    {
       "title": "I returned to AWS and was reminded why I left",
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
       "score": 775,
       "source": "hn",
       "date": "2026-05-09T08:37:41+00:00"
-    },
-    {
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 767,
-      "source": "hn",
-      "date": "2026-05-10T20:54:06+00:00"
     },
     {
       "title": "Why senior developers fail to communicate their expertise",
@@ -106,7 +106,7 @@
     {
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 679,
+      "score": 688,
       "source": "hn",
       "date": "2026-05-12T18:03:11+00:00"
     },
@@ -279,13 +279,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-08T13:22:33+00:00"
-    },
-    {
-      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "url": "https://github.com/robertdfrench/ifuncd-up",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-08T00:03:38+00:00"
     }
   ]
 }
