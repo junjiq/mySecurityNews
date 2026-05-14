@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-14T21:31:17.479112+00:00",
+  "generated_at": "2026-05-14T22:25:24.162007+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 351,
     "zennqiita": 99
   },
   "severity_counts": {
-    "high": 11,
-    "critical": 11,
+    "critical": 12,
+    "high": 10,
     "medium": 3
   },
   "top_articles": [
@@ -155,6 +155,13 @@
   ],
   "security_highlights": [
     {
+      "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+      "url": "https://www.openvehicles.com/home",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-14T21:50:17+00:00"
+    },
+    {
       "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
       "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
       "severity": "high",
@@ -300,13 +307,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-08T21:23:07+00:00"
-    },
-    {
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-08T17:55:08+00:00"
     }
   ]
 }

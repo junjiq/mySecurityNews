@@ -1,9 +1,16 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T21:31:17.432483+00:00",
-  "total_articles": 76,
-  "urgent_count": 6,
+  "generated_at": "2026-05-14T22:25:24.118736+00:00",
+  "total_articles": 77,
+  "urgent_count": 7,
   "urgent_items": [
+    {
+      "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+      "url": "https://www.openvehicles.com/home",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-14T21:50:17+00:00"
+    },
     {
       "title": "DIY open-source ultrasound hardware on the rp2040/rp2350",
       "url": "http://un0rick.cc/pic0rick",
@@ -50,12 +57,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 61,
       "top_items": [
         {
           "title": "A message from President Kornbluth about funding and the talent pipeline",
           "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-          "score": 535,
+          "score": 551,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T14:51:14+00:00"
@@ -69,20 +76,20 @@
           "date": "2026-05-14T03:59:35+00:00"
         },
         {
-          "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-          "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-          "score": 406,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T15:47:31+00:00"
-        },
-        {
           "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
           "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-          "score": 405,
+          "score": 457,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T17:08:00+00:00"
+        },
+        {
+          "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+          "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+          "score": 430,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-14T15:47:31+00:00"
         },
         {
           "title": "Rewrite Bun in Rust has been merged",
@@ -96,7 +103,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 17,
+      "count": 16,
       "top_items": [
         {
           "title": "Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
