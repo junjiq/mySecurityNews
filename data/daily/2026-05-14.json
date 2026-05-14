@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T16:14:39.655291+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-05-14T17:11:21.468194+00:00",
+  "total_articles": 55,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -27,7 +27,7 @@
         {
           "title": "Claude for Small Business",
           "url": "https://www.anthropic.com/news/claude-for-small-business",
-          "score": 450,
+          "score": 462,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T03:59:35+00:00"
@@ -35,10 +35,18 @@
         {
           "title": "Scorched Earth 2000 – Web",
           "url": "http://www.scorch2000.com/web/",
-          "score": 341,
+          "score": 346,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T00:41:29+00:00"
+        },
+        {
+          "title": "MIT: 20% drop in incoming graduate students",
+          "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+          "score": 345,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-14T14:51:14+00:00"
         },
         {
           "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
@@ -51,24 +59,16 @@
         {
           "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
           "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-          "score": 295,
+          "score": 304,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T18:30:51+00:00"
-        },
-        {
-          "title": "MIT: 20% drop in incoming graduate students",
-          "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-          "score": 251,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T14:51:14+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
         {
           "title": "Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
