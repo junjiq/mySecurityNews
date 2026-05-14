@@ -1,11 +1,18 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T03:08:28.056092+00:00",
-  "total_articles": 38,
-  "urgent_count": 3,
+  "generated_at": "2026-05-14T04:46:08.357994+00:00",
+  "total_articles": 39,
+  "urgent_count": 4,
   "urgent_items": [
     {
-      "title": "Cisco Workforce Reductions",
+      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-14T02:45:08+00:00"
+    },
+    {
+      "title": "Cisco workforce reductions",
       "url": "https://blogs.cisco.com/news/our-path-forward",
       "severity": "critical",
       "source": "hn",
@@ -29,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 38,
       "top_items": [
         {
           "title": "I moved my digital stack to Europe",
@@ -50,32 +57,32 @@
         {
           "title": "Setting up a free *.city.state.us locality domain (2025)",
           "url": "https://fredchan.org/blog/locality-domains-guide/",
-          "score": 514,
+          "score": 531,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T14:45:18+00:00"
         },
         {
-          "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-          "url": "https://arxiv.org/abs/2605.08419",
-          "score": 279,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-13T04:25:03+00:00"
-        },
-        {
           "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
           "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-          "score": 273,
+          "score": 289,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T20:12:16+00:00"
+        },
+        {
+          "title": "The Emacsification of Software",
+          "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+          "score": 236,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-13T07:06:14+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 1,
       "top_items": [
         {
           "title": "Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
@@ -84,22 +91,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-14T07:52:15+09:00"
-        },
-        {
-          "title": "1割の \"信頼される\" エンジニアが実行している 『止めないコミュニケーション』",
-          "url": "https://qiita.com/hitomin_poke/items/296886c435ebc79a667c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-13T13:42:28+09:00"
-        },
-        {
-          "title": "Copilot Studio における Business skills の位置づけと、他機能との使い分けを整理してみた",
-          "url": "https://qiita.com/Takashi_Masumori/items/c727938756b287868ffa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-13T12:47:42+09:00"
         }
       ]
     }
