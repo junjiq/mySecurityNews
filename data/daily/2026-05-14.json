@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T04:46:08.357994+00:00",
-  "total_articles": 39,
+  "generated_at": "2026-05-14T06:08:39.288456+00:00",
+  "total_articles": 42,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 40,
       "top_items": [
         {
           "title": "I moved my digital stack to Europe",
@@ -47,6 +47,14 @@
           "date": "2026-05-13T11:42:20+00:00"
         },
         {
+          "title": "Setting up a free *.city.state.us locality domain (2025)",
+          "url": "https://fredchan.org/blog/locality-domains-guide/",
+          "score": 541,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-13T14:45:18+00:00"
+        },
+        {
           "title": "Leaving GitHub for Forgejo",
           "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
           "score": 540,
@@ -55,17 +63,9 @@
           "date": "2026-05-13T12:54:00+00:00"
         },
         {
-          "title": "Setting up a free *.city.state.us locality domain (2025)",
-          "url": "https://fredchan.org/blog/locality-domains-guide/",
-          "score": 531,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-13T14:45:18+00:00"
-        },
-        {
           "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
           "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-          "score": 289,
+          "score": 301,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T20:12:16+00:00"
@@ -73,7 +73,7 @@
         {
           "title": "The Emacsification of Software",
           "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-          "score": 236,
+          "score": 257,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T07:06:14+00:00"
@@ -82,8 +82,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 1,
+      "count": 2,
       "top_items": [
+        {
+          "title": "現在地付近の東京の電車・バスをスマートグラスに「スカウター」として映す — Even G2 plugin を作った話",
+          "url": "https://qiita.com/oic0310/items/47b810a2d9c8c51fac90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-14T14:16:26+09:00"
+        },
         {
           "title": "Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
           "url": "https://qiita.com/shirok/items/e6f8f5f7867d335814dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
