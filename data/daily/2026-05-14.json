@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T07:30:20.557738+00:00",
-  "total_articles": 41,
+  "generated_at": "2026-05-14T08:25:59.306894+00:00",
+  "total_articles": 53,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 39,
+      "count": 41,
       "top_items": [
         {
           "title": "I moved my digital stack to Europe",
@@ -49,7 +49,7 @@
         {
           "title": "Setting up a free *.city.state.us locality domain (2025)",
           "url": "https://fredchan.org/blog/locality-domains-guide/",
-          "score": 550,
+          "score": 553,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T14:45:18+00:00"
@@ -65,7 +65,7 @@
         {
           "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
           "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-          "score": 317,
+          "score": 321,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T20:12:16+00:00"
@@ -73,7 +73,7 @@
         {
           "title": "Scorched Earth 2000 – Web",
           "url": "http://www.scorch2000.com/web/",
-          "score": 217,
+          "score": 230,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T00:41:29+00:00"
@@ -82,8 +82,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 2,
+      "count": 12,
       "top_items": [
+        {
+          "title": "AI時代の新卒エンジニア採用、面接1時間で「書ける人」を見抜けますか？──履歴書と面接の間に「実務90分」を挟むという提案",
+          "url": "https://qiita.com/Ngen/items/9804ff498426ee385967?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-14T16:38:08+09:00"
+        },
         {
           "title": "現在地付近の東京の電車・バスをスマートグラスに「スカウター」として映す — Even G2 plugin を作った話",
           "url": "https://qiita.com/oic0310/items/47b810a2d9c8c51fac90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -93,12 +101,28 @@
           "date": "2026-05-14T14:16:26+09:00"
         },
         {
-          "title": "Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
-          "url": "https://qiita.com/shirok/items/e6f8f5f7867d335814dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "ChromeのOptGuideOnDeviceModelとは？4GB AIモデル自動DL問題を調べてみた",
+          "url": "https://qiita.com/tuanphan/items/f6ab86636a2cef75620f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-14T07:52:15+09:00"
+          "date": "2026-05-14T11:47:01+09:00"
+        },
+        {
+          "title": "AI Ready なデータ基盤とは何か",
+          "url": "https://qiita.com/ayumito/items/746fc38b5675869b96a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-14T10:38:49+09:00"
+        },
+        {
+          "title": "AIにコードを書かせ続けて気づいた、エンジニアの\"分かったつもり\"の怖さ",
+          "url": "https://qiita.com/jinxin4869/items/786af70f2697dfac4329?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-14T10:00:06+09:00"
         }
       ]
     }

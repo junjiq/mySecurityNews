@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-14T07:30:20.600573+00:00",
+  "generated_at": "2026-05-14T08:25:59.346350+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 355,
-    "zennqiita": 95
+    "hn": 345,
+    "zennqiita": 105
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 9,
     "high": 10,
-    "medium": 5
+    "medium": 4
   },
   "top_articles": [
     {
@@ -34,13 +34,6 @@
       "date": "2026-05-08T18:45:58+00:00"
     },
     {
-      "title": "Cloudflare to cut about 20% of its workforce",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 1264,
-      "source": "hn",
-      "date": "2026-05-07T20:23:37+00:00"
-    },
-    {
       "title": "Bambu Lab is abusing the open source social contract",
       "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
       "score": 1157,
@@ -60,13 +53,6 @@
       "score": 927,
       "source": "hn",
       "date": "2026-05-08T12:30:05+00:00"
-    },
-    {
-      "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 891,
-      "source": "hn",
-      "date": "2026-05-07T22:22:21+00:00"
     },
     {
       "title": "Googlebook",
@@ -111,13 +97,6 @@
       "date": "2026-05-09T08:37:41+00:00"
     },
     {
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 762,
-      "source": "hn",
-      "date": "2026-05-07T19:21:32+00:00"
-    },
-    {
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
       "score": 727,
@@ -125,11 +104,11 @@
       "date": "2026-05-12T15:08:40+00:00"
     },
     {
-      "title": "AI slop is killing online communities",
-      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "score": 688,
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "score": 693,
       "source": "hn",
-      "date": "2026-05-07T18:46:25+00:00"
+      "date": "2026-05-10T20:54:06+00:00"
     },
     {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
@@ -146,11 +125,32 @@
       "date": "2026-05-09T12:00:30+00:00"
     },
     {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 668,
+      "source": "hn",
+      "date": "2026-05-12T18:03:11+00:00"
+    },
+    {
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "score": 665,
       "source": "hn",
       "date": "2026-05-09T02:41:42+00:00"
+    },
+    {
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 654,
+      "source": "hn",
+      "date": "2026-05-10T17:43:10+00:00"
+    },
+    {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "score": 625,
+      "source": "hn",
+      "date": "2026-05-12T21:55:21+00:00"
     }
   ],
   "security_highlights": [
@@ -286,13 +286,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-08T00:03:38+00:00"
-    },
-    {
-      "title": "Cloudflare to cut about 20% of its workforce",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-07T20:23:37+00:00"
     }
   ]
 }
