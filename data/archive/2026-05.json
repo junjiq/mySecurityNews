@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-14T19:08:48.584151+00:00",
+  "generated_at": "2026-05-14T20:06:37.306520+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 358,
@@ -8,8 +8,8 @@
   },
   "severity_counts": {
     "high": 11,
-    "critical": 10,
-    "medium": 4
+    "critical": 11,
+    "medium": 3
   },
   "top_articles": [
     {
@@ -46,13 +46,6 @@
       "score": 1047,
       "source": "hn",
       "date": "2026-05-11T21:08:25+00:00"
-    },
-    {
-      "title": "Poland is now among the 20 largest economies",
-      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 927,
-      "source": "hn",
-      "date": "2026-05-08T12:30:05+00:00"
     },
     {
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
@@ -151,6 +144,13 @@
       "score": 614,
       "source": "hn",
       "date": "2026-05-08T13:56:10+00:00"
+    },
+    {
+      "title": "Ratty – A terminal emulator with inline 3D graphics",
+      "url": "https://ratty-term.org/",
+      "score": 610,
+      "source": "hn",
+      "date": "2026-05-11T10:13:04+00:00"
     }
   ],
   "security_highlights": [
@@ -160,6 +160,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-14T18:25:09+00:00"
+    },
+    {
+      "title": "DIY open-source ultrasound hardware on the rp2040/rp2350",
+      "url": "http://un0rick.cc/pic0rick",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-14T18:01:17+00:00"
     },
     {
       "title": "New Nginx Exploit",

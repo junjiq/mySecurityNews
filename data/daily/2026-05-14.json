@@ -1,9 +1,16 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T19:08:48.541572+00:00",
-  "total_articles": 62,
-  "urgent_count": 4,
+  "generated_at": "2026-05-14T20:06:37.262761+00:00",
+  "total_articles": 64,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "DIY open-source ultrasound hardware on the rp2040/rp2350",
+      "url": "http://un0rick.cc/pic0rick",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-14T18:01:17+00:00"
+    },
     {
       "title": "Microsoft BitLocker – YellowKey zero-day exploit",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
@@ -36,8 +43,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 55,
       "top_items": [
+        {
+          "title": "A message from President Kornbluth about funding and the talent pipeline",
+          "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+          "score": 510,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-14T14:51:14+00:00"
+        },
         {
           "title": "Claude for Small Business",
           "url": "https://www.anthropic.com/news/claude-for-small-business",
@@ -45,14 +60,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T03:59:35+00:00"
-        },
-        {
-          "title": "MIT: 20% drop in incoming graduate students",
-          "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-          "score": 483,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T14:51:14+00:00"
         },
         {
           "title": "Scorched Earth 2000 – Web",
@@ -63,20 +70,20 @@
           "date": "2026-05-14T00:41:29+00:00"
         },
         {
+          "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+          "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+          "score": 344,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-14T15:47:31+00:00"
+        },
+        {
           "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
           "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
           "score": 329,
           "source": "hn",
           "severity": null,
           "date": "2026-05-13T20:12:16+00:00"
-        },
-        {
-          "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-          "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-          "score": 290,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T15:47:31+00:00"
         }
       ]
     },
