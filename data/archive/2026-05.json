@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-15T20:48:51.152960+00:00",
+  "generated_at": "2026-05-15T21:24:36.782870+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 356,
@@ -9,7 +9,7 @@
   "severity_counts": {
     "medium": 3,
     "critical": 17,
-    "high": 8
+    "high": 7
   },
   "top_articles": [
     {
@@ -321,13 +321,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-10T17:43:10+00:00"
-    },
-    {
-      "title": "Local privilege escalation via execve()",
-      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-09T20:31:21+00:00"
     }
   ]
 }
