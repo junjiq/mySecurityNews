@@ -1,8 +1,8 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T00:39:55.626760+00:00",
-  "total_articles": 77,
-  "urgent_count": 8,
+  "generated_at": "2026-05-15T01:38:44.329926+00:00",
+  "total_articles": 74,
+  "urgent_count": 7,
   "urgent_items": [
     {
       "title": "More than sixty percent of the United States is experiencing drought conditions",
@@ -33,13 +33,6 @@
       "date": "2026-05-14T02:45:08+00:00"
     },
     {
-      "title": "Cisco workforce reductions",
-      "url": "https://blogs.cisco.com/news/our-path-forward",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-14T01:38:05+00:00"
-    },
-    {
       "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
       "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
       "severity": "high",
@@ -64,23 +57,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 64,
+      "count": 62,
       "top_items": [
-        {
-          "title": "A message from President Kornbluth about funding and the talent pipeline",
-          "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-          "score": 568,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T14:51:14+00:00"
-        },
         {
           "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
           "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-          "score": 561,
+          "score": 607,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T17:08:00+00:00"
+        },
+        {
+          "title": "A message from President Kornbluth about funding and the talent pipeline",
+          "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+          "score": 574,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-14T14:51:14+00:00"
         },
         {
           "title": "Claude for Small Business",
@@ -93,7 +86,7 @@
         {
           "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
           "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-          "score": 470,
+          "score": 487,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T15:47:31+00:00"
@@ -110,7 +103,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "関数型プログラミングを知らない人向けに、「Haskellって何が面白いの?」と聞かれた時の回答",
