@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-15T14:16:21.309482+00:00",
+  "generated_at": "2026-05-15T15:17:05.969056+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 355,
     "zennqiita": 95
   },
   "severity_counts": {
+    "critical": 17,
     "high": 9,
-    "critical": 16,
     "medium": 3
   },
   "top_articles": [
@@ -43,7 +43,7 @@
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 954,
+      "score": 973,
       "source": "hn",
       "date": "2026-05-14T17:08:00+00:00"
     },
@@ -90,13 +90,6 @@
       "date": "2026-05-12T18:03:11+00:00"
     },
     {
-      "title": "Internet Archive Switzerland",
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 670,
-      "source": "hn",
-      "date": "2026-05-09T12:00:30+00:00"
-    },
-    {
       "title": "Incident Report: CVE-2024-YIKES",
       "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
       "score": 654,
@@ -106,7 +99,7 @@
     {
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 641,
+      "score": 649,
       "source": "hn",
       "date": "2026-05-14T15:47:31+00:00"
     },
@@ -151,9 +144,23 @@
       "score": 581,
       "source": "hn",
       "date": "2026-05-14T14:51:14+00:00"
+    },
+    {
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "score": 561,
+      "source": "hn",
+      "date": "2026-05-11T07:26:54+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Check Your Fucking Sources, People",
+      "url": "https://brodzinski.com/2026/05/check-fcking-sources.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-15T14:08:00+00:00"
+    },
     {
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",

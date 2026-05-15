@@ -1,9 +1,16 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T14:16:21.267844+00:00",
-  "total_articles": 81,
-  "urgent_count": 10,
+  "generated_at": "2026-05-15T15:17:05.932208+00:00",
+  "total_articles": 78,
+  "urgent_count": 11,
   "urgent_items": [
+    {
+      "title": "Check Your Fucking Sources, People",
+      "url": "https://brodzinski.com/2026/05/check-fcking-sources.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-15T14:08:00+00:00"
+    },
     {
       "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
       "url": "https://signoz.io/careers",
@@ -66,24 +73,17 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-14T18:25:09+00:00"
-    },
-    {
-      "title": "New Nginx Exploit",
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-14T17:17:48+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 74,
+      "count": 72,
       "top_items": [
         {
           "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
           "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-          "score": 954,
+          "score": 973,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T17:08:00+00:00"
@@ -91,18 +91,10 @@
         {
           "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
           "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-          "score": 641,
+          "score": 649,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T15:47:31+00:00"
-        },
-        {
-          "title": "A message from President Kornbluth about funding and the talent pipeline",
-          "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-          "score": 581,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T14:51:14+00:00"
         },
         {
           "title": "New arXiv policy: 1-year ban for hallucinated references",
@@ -119,12 +111,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-15T02:35:35+00:00"
+        },
+        {
+          "title": "UK government replaces Palantir software with internally-built refugee system",
+          "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+          "score": 413,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-14T22:44:16+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "AI時代に生き残る「最強の武器」",
