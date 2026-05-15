@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-15T17:05:01.612397+00:00",
+  "generated_at": "2026-05-15T18:02:31.396692+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 356,
     "zennqiita": 94
   },
   "severity_counts": {
-    "critical": 17,
+    "critical": 18,
     "high": 9,
     "medium": 2
   },
@@ -43,7 +43,7 @@
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 996,
+      "score": 1015,
       "source": "hn",
       "date": "2026-05-14T17:08:00+00:00"
     },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+      "url": "https://github.com/sleuth-io/sx",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-15T17:03:22+00:00"
+    },
     {
       "title": "Check Your Fucking Sources, People",
       "url": "https://brodzinski.com/2026/05/check-fcking-sources.html",

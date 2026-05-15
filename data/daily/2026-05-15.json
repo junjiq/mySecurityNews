@@ -1,9 +1,16 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T17:05:01.567720+00:00",
+  "generated_at": "2026-05-15T18:02:31.352451+00:00",
   "total_articles": 75,
-  "urgent_count": 11,
+  "urgent_count": 10,
   "urgent_items": [
+    {
+      "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+      "url": "https://github.com/sleuth-io/sx",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-15T17:03:22+00:00"
+    },
     {
       "title": "Check Your Fucking Sources, People",
       "url": "https://brodzinski.com/2026/05/check-fcking-sources.html",
@@ -47,13 +54,6 @@
       "date": "2026-05-14T21:50:17+00:00"
     },
     {
-      "title": "DIY open-source ultrasound hardware on the rp2040/rp2350",
-      "url": "http://un0rick.cc/pic0rick",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-14T18:01:17+00:00"
-    },
-    {
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "severity": "high",
@@ -80,14 +80,6 @@
       "category": "テクノロジー",
       "count": 70,
       "top_items": [
-        {
-          "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-          "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-          "score": 996,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T17:08:00+00:00"
-        },
         {
           "title": "New arXiv policy: 1-year ban for hallucinated references",
           "url": "https://twitter.com/tdietterich/status/2055000956144935055",
@@ -119,6 +111,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T20:06:14+00:00"
+        },
+        {
+          "title": "First public macOS kernel memory corruption exploit on Apple M5",
+          "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+          "score": 416,
+          "source": "hn",
+          "severity": "high",
+          "date": "2026-05-14T18:25:09+00:00"
         }
       ]
     },
