@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-14T23:47:59.120856+00:00",
+  "generated_at": "2026-05-15T00:39:55.667376+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 351,
     "zennqiita": 99
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "high": 10,
     "medium": 3
   },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "More than sixty percent of the United States is experiencing drought conditions",
+      "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-14T22:38:18+00:00"
+    },
     {
       "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
       "url": "https://www.openvehicles.com/home",
