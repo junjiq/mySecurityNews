@@ -1,8 +1,8 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T21:48:30.324692+00:00",
-  "total_articles": 77,
-  "urgent_count": 8,
+  "generated_at": "2026-05-15T22:21:56.730881+00:00",
+  "total_articles": 75,
+  "urgent_count": 7,
   "urgent_items": [
     {
       "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
@@ -47,13 +47,6 @@
       "date": "2026-05-14T22:38:18+00:00"
     },
     {
-      "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
-      "url": "https://www.openvehicles.com/home",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-14T21:50:17+00:00"
-    },
-    {
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "severity": "high",
@@ -64,15 +57,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 68,
+      "count": 66,
       "top_items": [
         {
           "title": "Project Gutenberg – keeps getting better",
           "url": "https://www.gutenberg.org/",
-          "score": 557,
+          "score": 591,
           "source": "hn",
           "severity": null,
           "date": "2026-05-15T16:15:36+00:00"
+        },
+        {
+          "title": "Explore Wikipedia Like a Windows XP Desktop",
+          "url": "https://explorer.samismith.com/",
+          "score": 459,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-15T08:45:36+00:00"
         },
         {
           "title": "Mullvad exit IPs are surprisingly identifying",
@@ -81,14 +82,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-15T02:35:35+00:00"
-        },
-        {
-          "title": "Explore Wikipedia Like a Windows XP Desktop",
-          "url": "https://explorer.samismith.com/",
-          "score": 448,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-15T08:45:36+00:00"
         },
         {
           "title": "UK government replaces Palantir software with internally-built refugee system",
