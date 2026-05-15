@@ -1,9 +1,16 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T07:36:22.555863+00:00",
-  "total_articles": 72,
-  "urgent_count": 7,
+  "generated_at": "2026-05-15T09:05:32.741536+00:00",
+  "total_articles": 76,
+  "urgent_count": 8,
   "urgent_items": [
+    {
+      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-15T04:48:23+00:00"
+    },
     {
       "title": "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
       "url": "https://github.com/AliAmmar15/Velonus",
@@ -57,23 +64,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 65,
+      "count": 66,
       "top_items": [
         {
           "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
           "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-          "score": 781,
+          "score": 836,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T17:08:00+00:00"
         },
         {
-          "title": "Rewrite Bun in Rust has been merged",
-          "url": "https://github.com/oven-sh/bun/pull/30412",
-          "score": 609,
+          "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+          "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+          "score": 586,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-14T08:15:31+00:00"
+          "date": "2026-05-14T15:47:31+00:00"
         },
         {
           "title": "A message from President Kornbluth about funding and the talent pipeline",
@@ -84,27 +91,51 @@
           "date": "2026-05-14T14:51:14+00:00"
         },
         {
-          "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-          "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-          "score": 559,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T15:47:31+00:00"
-        },
-        {
           "title": "New arXiv policy: 1-year ban for hallucinated references",
           "url": "https://twitter.com/tdietterich/status/2055000956144935055",
           "score": 462,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T20:39:12+00:00"
+        },
+        {
+          "title": "New Nginx Exploit",
+          "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+          "score": 373,
+          "source": "hn",
+          "severity": "high",
+          "date": "2026-05-14T17:17:48+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 10,
       "top_items": [
+        {
+          "title": "AI時代に生き残る「最強の武器」",
+          "url": "https://qiita.com/prum_hitomi/items/a2238e2ac6d842581b2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-15T14:23:36+09:00"
+        },
+        {
+          "title": "業務自動化にAIを使って、AIに対する考え方が変わった話",
+          "url": "https://qiita.com/TOMOSIA-LinhND/items/6b6eaffea04e99378d65?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-15T14:23:08+09:00"
+        },
+        {
+          "title": "[Frontend Performance - Part 16] 配信最適化の総仕上げ：Code Splitting・Cache・CDN戦略まとめ",
+          "url": "https://qiita.com/tuanphan/items/e332db235525cfb9d10b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-15T13:39:22+09:00"
+        },
         {
           "title": "脳科学から見る、AI時代のエンジニアが成長する考え方",
           "url": "https://qiita.com/Toyo_m/items/4e1dd272f6bd4b78131e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -120,30 +151,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-15T09:28:04+09:00"
-        },
-        {
-          "title": "Intel AMXの効果を oneDNNと OpenVINO GenAIで確認してみてみた",
-          "url": "https://qiita.com/shirok/items/e6f8f5f7867d335814dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-15T01:12:13+09:00"
-        },
-        {
-          "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全80回 総復習",
-          "url": "https://qiita.com/maskot1977/items/dd76864328b8e8910108?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-15T00:00:57+09:00"
-        },
-        {
-          "title": "セキュリティを学ぶ学生、\"孤高の狼\"になってませんか? — 学生コミュニティを作りたい話",
-          "url": "https://qiita.com/Sabakan0123/items/8a937781391763ff1bb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-14T20:41:08+09:00"
         }
       ]
     }

@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-15T07:36:22.601404+00:00",
+  "generated_at": "2026-05-15T09:05:32.784000+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99
+    "hn": 348,
+    "zennqiita": 102
   },
   "severity_counts": {
-    "critical": 14,
-    "high": 9,
+    "critical": 15,
+    "high": 8,
     "medium": 3
   },
   "top_articles": [
@@ -71,7 +71,7 @@
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 781,
+      "score": 836,
       "source": "hn",
       "date": "2026-05-14T17:08:00+00:00"
     },
@@ -111,18 +111,18 @@
       "date": "2026-05-09T12:00:30+00:00"
     },
     {
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 665,
-      "source": "hn",
-      "date": "2026-05-09T02:41:42+00:00"
-    },
-    {
       "title": "Incident Report: CVE-2024-YIKES",
       "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
       "score": 654,
       "source": "hn",
       "date": "2026-05-10T17:43:10+00:00"
+    },
+    {
+      "title": "Rewrite Bun in Rust has been merged",
+      "url": "https://github.com/oven-sh/bun/pull/30412",
+      "score": 636,
+      "source": "hn",
+      "date": "2026-05-14T08:15:31+00:00"
     },
     {
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
@@ -146,14 +146,21 @@
       "date": "2026-05-11T10:13:04+00:00"
     },
     {
-      "title": "Rewrite Bun in Rust has been merged",
-      "url": "https://github.com/oven-sh/bun/pull/30412",
-      "score": 609,
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 601,
       "source": "hn",
-      "date": "2026-05-14T08:15:31+00:00"
+      "date": "2026-05-13T14:45:18+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-15T04:48:23+00:00"
+    },
     {
       "title": "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
       "url": "https://github.com/AliAmmar15/Velonus",
@@ -307,13 +314,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-09T17:28:00+00:00"
-    },
-    {
-      "title": "【ゼロデイ解説】DirtyFlag脆弱性の全貌・Dirty COW・Dirty Pipe・Dirty Fragのエクスプロイトコードを完全分解する",
-      "url": "https://qiita.com/harupython/items/f877d277a209abc86c87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-05-09T11:58:48+09:00"
     }
   ]
 }
