@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-15T13:07:37.390248+00:00",
+  "generated_at": "2026-05-15T14:16:21.309482+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 98
+    "hn": 355,
+    "zennqiita": 95
   },
   "severity_counts": {
+    "high": 9,
     "critical": 16,
-    "high": 8,
     "medium": 3
   },
   "top_articles": [
@@ -43,7 +43,7 @@
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 933,
+      "score": 954,
       "source": "hn",
       "date": "2026-05-14T17:08:00+00:00"
     },
@@ -90,13 +90,6 @@
       "date": "2026-05-12T18:03:11+00:00"
     },
     {
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 677,
-      "source": "hn",
-      "date": "2026-05-09T10:12:55+00:00"
-    },
-    {
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
       "score": 670,
@@ -111,18 +104,18 @@
       "date": "2026-05-10T17:43:10+00:00"
     },
     {
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 641,
+      "source": "hn",
+      "date": "2026-05-14T15:47:31+00:00"
+    },
+    {
       "title": "Rewrite Bun in Rust has been merged",
       "url": "https://github.com/oven-sh/bun/pull/30412",
       "score": 636,
       "source": "hn",
       "date": "2026-05-14T08:15:31+00:00"
-    },
-    {
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 632,
-      "source": "hn",
-      "date": "2026-05-14T15:47:31+00:00"
     },
     {
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
@@ -151,9 +144,23 @@
       "score": 601,
       "source": "hn",
       "date": "2026-05-13T14:45:18+00:00"
+    },
+    {
+      "title": "A message from President Kornbluth about funding and the talent pipeline",
+      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+      "score": 581,
+      "source": "hn",
+      "date": "2026-05-14T14:51:14+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-15T13:39:54+00:00"
+    },
     {
       "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
       "url": "https://signoz.io/careers",

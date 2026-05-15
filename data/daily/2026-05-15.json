@@ -1,8 +1,8 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T13:07:37.350365+00:00",
-  "total_articles": 76,
-  "urgent_count": 9,
+  "generated_at": "2026-05-15T14:16:21.267844+00:00",
+  "total_articles": 81,
+  "urgent_count": 10,
   "urgent_items": [
     {
       "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
@@ -47,6 +47,13 @@
       "date": "2026-05-14T18:01:17+00:00"
     },
     {
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-15T13:39:54+00:00"
+    },
+    {
       "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
       "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
       "severity": "high",
@@ -71,12 +78,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 69,
+      "count": 74,
       "top_items": [
         {
           "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
           "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-          "score": 933,
+          "score": 954,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T17:08:00+00:00"
@@ -84,7 +91,7 @@
         {
           "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
           "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-          "score": 632,
+          "score": 641,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T15:47:31+00:00"
