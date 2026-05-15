@@ -1,9 +1,16 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T01:38:44.329926+00:00",
+  "generated_at": "2026-05-15T03:09:02.992104+00:00",
   "total_articles": 74,
   "urgent_count": 7,
   "urgent_items": [
+    {
+      "title": "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
+      "url": "https://github.com/AliAmmar15/Velonus",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-15T01:02:05+00:00"
+    },
     {
       "title": "More than sixty percent of the United States is experiencing drought conditions",
       "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
@@ -24,13 +31,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-14T18:01:17+00:00"
-    },
-    {
-      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-14T02:45:08+00:00"
     },
     {
       "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
@@ -57,12 +57,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 62,
+      "count": 64,
       "top_items": [
         {
           "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
           "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-          "score": 607,
+          "score": 658,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T17:08:00+00:00"
@@ -70,10 +70,26 @@
         {
           "title": "A message from President Kornbluth about funding and the talent pipeline",
           "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-          "score": 574,
+          "score": 581,
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T14:51:14+00:00"
+        },
+        {
+          "title": "Rewrite Bun in Rust has been merged",
+          "url": "https://github.com/oven-sh/bun/pull/30412",
+          "score": 512,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-14T08:15:31+00:00"
+        },
+        {
+          "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+          "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+          "score": 502,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-14T15:47:31+00:00"
         },
         {
           "title": "Claude for Small Business",
@@ -82,29 +98,21 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-14T03:59:35+00:00"
-        },
-        {
-          "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-          "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-          "score": 487,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T15:47:31+00:00"
-        },
-        {
-          "title": "Rewrite Bun in Rust has been merged",
-          "url": "https://github.com/oven-sh/bun/pull/30412",
-          "score": 369,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-14T08:15:31+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 10,
       "top_items": [
+        {
+          "title": "脳科学から見る、AI時代のエンジニアが成長する考え方",
+          "url": "https://qiita.com/Toyo_m/items/4e1dd272f6bd4b78131e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-15T11:49:34+09:00"
+        },
         {
           "title": "関数型プログラミングを知らない人向けに、「Haskellって何が面白いの?」と聞かれた時の回答",
           "url": "https://qiita.com/sigma_devsecops/items/3f2a397e944401fcc6cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -136,14 +144,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-14T20:41:08+09:00"
-        },
-        {
-          "title": "Claude Code はセッションをまたぐと記憶がリセットされる — 5分で永続記憶を仕込む方法",
-          "url": "https://qiita.com/jqit_suwa/items/8607bf9f2683fb8442de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-14T20:11:03+09:00"
         }
       ]
     }
