@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-15T03:09:03.032697+00:00",
+  "generated_at": "2026-05-15T04:47:08.486184+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 351,
@@ -8,7 +8,7 @@
   },
   "severity_counts": {
     "critical": 14,
-    "high": 10,
+    "high": 9,
     "medium": 3
   },
   "top_articles": [
@@ -83,6 +83,13 @@
       "date": "2026-05-12T15:08:40+00:00"
     },
     {
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "score": 712,
+      "source": "hn",
+      "date": "2026-05-14T17:08:00+00:00"
+    },
+    {
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
       "score": 692,
@@ -109,13 +116,6 @@
       "score": 665,
       "source": "hn",
       "date": "2026-05-09T02:41:42+00:00"
-    },
-    {
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 658,
-      "source": "hn",
-      "date": "2026-05-14T17:08:00+00:00"
     },
     {
       "title": "Incident Report: CVE-2024-YIKES",
@@ -314,13 +314,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-05-09T11:58:48+09:00"
-    },
-    {
-      "title": "Non-determinism is an issue with patching CVEs",
-      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-08T21:23:07+00:00"
     }
   ]
 }
