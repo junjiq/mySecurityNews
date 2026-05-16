@@ -1,9 +1,16 @@
 {
   "date": "2026-05-16",
-  "generated_at": "2026-05-16T12:49:17.395570+00:00",
-  "total_articles": 64,
-  "urgent_count": 3,
+  "generated_at": "2026-05-16T13:32:29.584484+00:00",
+  "total_articles": 62,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-16T12:06:21+00:00"
+    },
     {
       "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
       "url": "https://github.com/sleuth-io/sx",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 57,
       "top_items": [
         {
           "title": "I believe there are entire companies right now under AI psychosis",
           "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-          "score": 1486,
+          "score": 1517,
           "source": "hn",
           "severity": null,
           "date": "2026-05-15T20:26:47+00:00"
@@ -42,7 +49,7 @@
         {
           "title": "Project Gutenberg – keeps getting better",
           "url": "https://www.gutenberg.org/",
-          "score": 1003,
+          "score": 1013,
           "source": "hn",
           "severity": null,
           "date": "2026-05-15T16:15:36+00:00"
@@ -75,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
         {
           "title": "AI時代に生き残る「最強の武器」",
