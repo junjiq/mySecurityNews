@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-16T17:48:38.580769+00:00",
+  "generated_at": "2026-05-16T18:20:47.080892+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 357,
@@ -9,20 +9,13 @@
   "severity_counts": {
     "critical": 19,
     "medium": 1,
-    "high": 7
+    "high": 6
   },
   "top_articles": [
     {
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 2037,
-      "source": "hn",
-      "date": "2026-05-10T17:54:02+00:00"
-    },
-    {
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 1687,
+      "score": 1709,
       "source": "hn",
       "date": "2026-05-15T20:26:47+00:00"
     },
@@ -36,7 +29,7 @@
     {
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 1078,
+      "score": 1084,
       "source": "hn",
       "date": "2026-05-15T16:15:36+00:00"
     },
@@ -104,13 +97,6 @@
       "date": "2026-05-14T15:47:31+00:00"
     },
     {
-      "title": "Incident Report: CVE-2024-YIKES",
-      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 654,
-      "source": "hn",
-      "date": "2026-05-10T17:43:10+00:00"
-    },
-    {
       "title": "Rewrite Bun in Rust has been merged",
       "url": "https://github.com/oven-sh/bun/pull/30412",
       "score": 636,
@@ -151,6 +137,20 @@
       "score": 581,
       "source": "hn",
       "date": "2026-05-14T14:51:14+00:00"
+    },
+    {
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "score": 561,
+      "source": "hn",
+      "date": "2026-05-11T07:26:54+00:00"
+    },
+    {
+      "title": "Leaving GitHub for Forgejo",
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "score": 540,
+      "source": "hn",
+      "date": "2026-05-13T12:54:00+00:00"
     }
   ],
   "security_highlights": [
@@ -328,13 +328,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-11T06:39:08+00:00"
-    },
-    {
-      "title": "Incident Report: CVE-2024-YIKES",
-      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-10T17:43:10+00:00"
     }
   ]
 }
