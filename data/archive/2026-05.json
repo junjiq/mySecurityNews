@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-17T13:32:26.316342+00:00",
+  "generated_at": "2026-05-17T14:31:55.542176+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 351,
     "zennqiita": 99
   },
   "severity_counts": {
+    "high": 6,
     "critical": 22,
-    "medium": 1,
-    "high": 5
+    "medium": 1
   },
   "top_articles": [
     {
@@ -104,18 +104,18 @@
       "date": "2026-05-12T05:11:24+00:00"
     },
     {
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "score": 604,
+      "source": "hn",
+      "date": "2026-05-16T09:14:26+00:00"
+    },
+    {
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
       "score": 601,
       "source": "hn",
       "date": "2026-05-13T14:45:18+00:00"
-    },
-    {
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 592,
-      "source": "hn",
-      "date": "2026-05-16T09:14:26+00:00"
     },
     {
       "title": "A message from President Kornbluth about funding and the talent pipeline",
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-17T13:42:30+00:00"
+    },
     {
       "title": "Grafana Labs internal source code accessed",
       "url": "https://twitter.com/grafana/status/2055827123236171827",

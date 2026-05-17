@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-05-17T13:32:26.210397+00:00",
+  "updated_at": "2026-05-17T14:31:55.436059+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48168856",
+      "source": "hn",
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "score": 46,
+      "comments": 19,
+      "author": "nolok",
+      "tags": [],
+      "date": "2026-05-17T13:42:30+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48168626",
+      "source": "hn",
+      "title": "AI is a technology not a product",
+      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "score": 32,
+      "comments": 2,
+      "author": "ch_sm",
+      "tags": [],
+      "date": "2026-05-17T13:11:20+00:00"
+    },
     {
       "id": "hn-48168221",
       "source": "hn",
       "title": "I don't think AI will make your processes go faster",
       "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 58,
-      "comments": 37,
+      "score": 133,
+      "comments": 71,
       "author": "TheEdonian",
       "tags": [],
       "date": "2026-05-17T12:13:45+00:00"
@@ -18,19 +41,30 @@
       "source": "hn",
       "title": "Apple Silicon costs more than OpenRouter",
       "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-      "score": 60,
-      "comments": 35,
+      "score": 115,
+      "comments": 75,
       "author": "datadrivenangel",
       "tags": [],
       "date": "2026-05-17T12:09:23+00:00"
+    },
+    {
+      "id": "hn-48168159",
+      "source": "hn",
+      "title": "Scientists believe ibogaine can help veterans overcome PTSD",
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "score": 10,
+      "comments": 4,
+      "author": "bushwart",
+      "tags": [],
+      "date": "2026-05-17T12:03:04+00:00"
     },
     {
       "id": "hn-48168058",
       "source": "hn",
       "title": "Native all the way, until you need text",
       "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "score": 104,
-      "comments": 59,
+      "score": 175,
+      "comments": 113,
       "author": "dive",
       "tags": [],
       "date": "2026-05-17T11:49:46+00:00"
@@ -40,8 +74,8 @@
       "source": "hn",
       "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
       "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-      "score": 52,
-      "comments": 31,
+      "score": 104,
+      "comments": 72,
       "author": "mooreds",
       "tags": [],
       "date": "2026-05-17T11:49:31+00:00"
@@ -75,8 +109,8 @@
       "source": "hn",
       "title": "Playing Atari ST Music on the Amiga with Zero CPU",
       "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
-      "score": 73,
-      "comments": 25,
+      "score": 79,
+      "comments": 29,
       "author": "z303",
       "tags": [],
       "date": "2026-05-17T08:00:04+00:00"
@@ -112,8 +146,8 @@
       "source": "hn",
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
       "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 375,
-      "comments": 147,
+      "score": 410,
+      "comments": 162,
       "author": "WithinReason",
       "tags": [],
       "date": "2026-05-17T06:17:26+00:00"
@@ -211,8 +245,8 @@
       "source": "hn",
       "title": "Hosting a website on an 8-bit microcontroller",
       "url": "https://maurycyz.com/projects/mcusite/",
-      "score": 165,
-      "comments": 14,
+      "score": 175,
+      "comments": 15,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-17T01:25:26+00:00"
@@ -284,8 +318,8 @@
       "source": "hn",
       "title": "A nicer voltmeter clock",
       "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "score": 243,
-      "comments": 29,
+      "score": 253,
+      "comments": 30,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-16T22:45:16+00:00"
@@ -306,8 +340,8 @@
       "source": "hn",
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "url": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 463,
-      "comments": 235,
+      "score": 474,
+      "comments": 252,
       "author": "gidellav",
       "tags": [],
       "date": "2026-05-16T22:23:50+00:00"
@@ -329,7 +363,7 @@
       "source": "hn",
       "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
       "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
-      "score": 31,
+      "score": 32,
       "comments": 1,
       "author": "benbreen",
       "tags": [],
@@ -340,8 +374,8 @@
       "source": "hn",
       "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "score": 237,
-      "comments": 281,
+      "score": 249,
+      "comments": 295,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-05-16T20:14:06+00:00"
@@ -555,8 +589,8 @@
       "source": "hn",
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "url": "https://nvlabs.github.io/Sana/WM/",
-      "score": 364,
-      "comments": 142,
+      "score": 369,
+      "comments": 143,
       "author": "mjgil",
       "tags": [],
       "date": "2026-05-16T12:06:21+00:00",
@@ -681,8 +715,8 @@
       "source": "hn",
       "title": "Moving away from Tailwind, and learning to structure my CSS",
       "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 592,
-      "comments": 330,
+      "score": 604,
+      "comments": 333,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-05-16T09:14:26+00:00"
@@ -714,8 +748,8 @@
       "source": "hn",
       "title": "We've made the world too complicated",
       "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-      "score": 342,
-      "comments": 331,
+      "score": 354,
+      "comments": 342,
       "author": "James72689",
       "tags": [],
       "date": "2026-05-16T08:25:17+00:00"
@@ -902,8 +936,8 @@
       "source": "hn",
       "title": "How Diamonds Are Made",
       "url": "https://diamond.jaydip.me/",
-      "score": 22,
-      "comments": 2,
+      "score": 38,
+      "comments": 6,
       "author": "lemonberry",
       "tags": [],
       "date": "2026-05-15T23:18:39+00:00"
@@ -1467,8 +1501,8 @@
       "source": "hn",
       "title": "Prolog Basics Explained with Pokémon",
       "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-      "score": 58,
-      "comments": 9,
+      "score": 78,
+      "comments": 11,
       "author": "birdculture",
       "tags": [],
       "date": "2026-05-15T11:02:14+00:00"
@@ -1984,7 +2018,7 @@
       "source": "hn",
       "title": "Roman Letters",
       "url": "https://romanletters.org/",
-      "score": 54,
+      "score": 63,
       "comments": 10,
       "author": "diodorus",
       "tags": [],
@@ -1995,8 +2029,8 @@
       "source": "hn",
       "title": "Colossus: The Forbin Project",
       "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
-      "score": 138,
-      "comments": 47,
+      "score": 152,
+      "comments": 50,
       "author": "doener",
       "tags": [],
       "date": "2026-05-14T22:30:16+00:00"
@@ -2040,7 +2074,7 @@
       "source": "hn",
       "title": "Mado: Fast Markdown linter written in Rust",
       "url": "https://github.com/akiomik/mado",
-      "score": 14,
+      "score": 19,
       "comments": 2,
       "author": "nateb2022",
       "tags": [],
@@ -2140,8 +2174,8 @@
       "source": "hn",
       "title": "Illusions of understanding in the sciences",
       "url": "https://link.springer.com/article/10.1007/s42113-026-00271-1",
-      "score": 65,
-      "comments": 31,
+      "score": 71,
+      "comments": 34,
       "author": "sebg",
       "tags": [],
       "date": "2026-05-14T19:49:56+00:00"
@@ -2684,6 +2718,17 @@
       "author": "tosh",
       "tags": [],
       "date": "2026-05-14T10:37:54+00:00"
+    },
+    {
+      "id": "hn-48133293",
+      "source": "hn",
+      "title": "High-Entropy Alloy",
+      "url": "https://en.wikipedia.org/wiki/High-entropy_alloy",
+      "score": 13,
+      "comments": 2,
+      "author": "leonidasrup",
+      "tags": [],
+      "date": "2026-05-14T10:08:04+00:00"
     },
     {
       "id": "hn-48132488",
@@ -5135,50 +5180,6 @@
       "date": "2026-05-11T18:12:38+00:00"
     },
     {
-      "id": "hn-48098261",
-      "source": "hn",
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 412,
-      "comments": 82,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-05-11T17:53:08+00:00"
-    },
-    {
-      "id": "hn-48098122",
-      "source": "hn",
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "url": "https://bild.ai/jobs",
-      "score": 1,
-      "comments": 0,
-      "author": "rooppal",
-      "tags": [],
-      "date": "2026-05-11T17:43:12+00:00"
-    },
-    {
-      "id": "hn-48097796",
-      "source": "hn",
-      "title": "Microsoft Israel chief leaves amid ethical controversy",
-      "url": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
-      "score": 84,
-      "comments": 68,
-      "author": "bhouston",
-      "tags": [],
-      "date": "2026-05-11T17:18:11+00:00"
-    },
-    {
-      "id": "hn-48097786",
-      "source": "hn",
-      "title": "Porting 3D Movie Maker to Linux",
-      "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
-      "score": 126,
-      "comments": 26,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-05-11T17:17:20+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5389,6 +5390,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-21c396e1b6",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Markdownの表をExcelのように編集できるVS Code拡張機能を作りました",
+      "url": "https://zenn.dev/naoyuki1212/articles/20260506-visual-table-canvas-for-markdown",
+      "score": null,
+      "author": "Naoyuki",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 16 May 2026 16:19:56 GMT"
+    },
+    {
+      "id": "zenn-75bd2b96c0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Unityにおける最適化、高速化まとめ",
+      "url": "https://zenn.dev/miko_gamedev/articles/30d3794d701c21",
+      "score": null,
+      "author": "miko",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 16 May 2026 15:40:07 GMT"
+    },
+    {
       "id": "zenn-7fb06ffdf7",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5428,6 +5455,19 @@
       "date": "Sat, 16 May 2026 07:35:06 GMT"
     },
     {
+      "id": "zenn-2c1a016cad",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIに同じ質問を3経路で投げたら、入力トークンが約1,200倍違った — Claudeの「プログラム利用専用クレジット」と構造化APIの関係",
+      "url": "https://zenn.dev/edinetdb/articles/ai-cost-input-tokens-structured-db",
+      "score": null,
+      "author": "EDINET DB",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 16 May 2026 06:54:19 GMT"
+    },
+    {
       "id": "zenn-947057b70b",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5439,6 +5479,20 @@
         "Zenn"
       ],
       "date": "Sat, 16 May 2026 05:31:09 GMT"
+    },
+    {
+      "id": "zenn-bcfacfe2f4",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Vercelがシステムプログラミング言語「Zero」を公開した！ 悔しい悔しい悔しい！",
+      "url": "https://zenn.dev/tkithrta/articles/74b35b39c2bb5e",
+      "score": null,
+      "author": "黒ヰ樹",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 16 May 2026 05:07:48 GMT",
+      "severity": "critical"
     },
     {
       "id": "zenn-ebeca13407",
@@ -5480,17 +5534,17 @@
       "date": "Fri, 15 May 2026 09:47:21 GMT"
     },
     {
-      "id": "zenn-9d2e3db259",
+      "id": "zenn-461370fa53",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "【TypeScript】値・型・名前空間の「三重定義」でReactコンポーネントをより柔軟に設計する",
-      "url": "https://zenn.dev/bmth/articles/ts-companion-object",
+      "title": "Qwen3-30Bを動かし、社内LANにOpenAI互換APIとしてvLLMで公開してみた",
+      "url": "https://zenn.dev/fusic/articles/779af66b5810a9",
       "score": null,
-      "author": "じょうげん",
+      "author": "xthixsl_ml",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 15 May 2026 09:39:14 GMT"
+      "date": "Fri, 15 May 2026 09:47:06 GMT"
     },
     {
       "id": "zenn-4bb6f4648d",
@@ -5519,32 +5573,6 @@
       "date": "Fri, 15 May 2026 08:50:03 GMT"
     },
     {
-      "id": "zenn-e4f0016b9e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Terraformの複数人開発でdev環境を安全に回す方法",
-      "url": "https://zenn.dev/pksha/articles/terraform-multi-user-apply-conflict",
-      "score": null,
-      "author": "nshibata",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 15 May 2026 08:02:00 GMT"
-    },
-    {
-      "id": "zenn-99eb1e41d4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Copilot Studio × Work IQでTeamsに眠るナレッジを即活用～「15分で構築可能！問い合わせ対応エージェント」のご紹介",
-      "url": "https://zenn.dev/nttdata_tech/articles/75bebd16367ea4",
-      "score": null,
-      "author": "ZHANG",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 15 May 2026 07:43:41 GMT"
-    },
-    {
       "id": "zenn-191ed758cb",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5571,19 +5599,6 @@
       "date": "Fri, 15 May 2026 06:02:59 GMT"
     },
     {
-      "id": "zenn-eeccf1356b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeの1000 セッションを分析して、一週間目でリードタイムを10%縮めた話",
-      "url": "https://zenn.dev/globis/articles/94762dc8ec7914",
-      "score": null,
-      "author": "Developer",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 15 May 2026 02:54:18 GMT"
-    },
-    {
       "id": "zenn-5fbbd6e69d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5595,19 +5610,6 @@
         "Zenn"
       ],
       "date": "Fri, 15 May 2026 00:14:18 GMT"
-    },
-    {
-      "id": "zenn-fa529c7172",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitHub Copilot app を使って感じた、日々の摩擦が減る4つのこと",
-      "url": "https://zenn.dev/tomokusaba/articles/fd382738fee5e3",
-      "score": null,
-      "author": "くさば",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 14 May 2026 22:43:48 GMT"
     },
     {
       "id": "zenn-1ddfb9bf93",

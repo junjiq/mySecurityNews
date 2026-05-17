@@ -1,8 +1,8 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T13:32:26.273220+00:00",
+  "generated_at": "2026-05-17T14:31:55.499605+00:00",
   "total_articles": 45,
-  "urgent_count": 3,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "Grafana Labs internal source code accessed",
@@ -24,17 +24,24 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-16T22:13:54+00:00"
+    },
+    {
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-17T13:42:30+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 31,
+      "count": 32,
       "top_items": [
         {
           "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
           "url": "https://crates.io/crates/zerostack/1.0.0",
-          "score": 463,
+          "score": 474,
           "source": "hn",
           "severity": null,
           "date": "2026-05-16T22:23:50+00:00"
@@ -42,7 +49,7 @@
         {
           "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
           "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-          "score": 375,
+          "score": 410,
           "source": "hn",
           "severity": null,
           "date": "2026-05-17T06:17:26+00:00"
@@ -58,7 +65,7 @@
         {
           "title": "A nicer voltmeter clock",
           "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-          "score": 243,
+          "score": 253,
           "source": "hn",
           "severity": null,
           "date": "2026-05-16T22:45:16+00:00"
@@ -66,7 +73,7 @@
         {
           "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
           "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-          "score": 237,
+          "score": 249,
           "source": "hn",
           "severity": null,
           "date": "2026-05-16T20:14:06+00:00"
@@ -75,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "国会図書館のOCRをWebサービス化してみた - NDLOCR-Lite × Docker × FastAPI",
