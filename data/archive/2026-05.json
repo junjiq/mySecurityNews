@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-17T03:08:30.700951+00:00",
+  "generated_at": "2026-05-17T04:48:10.190849+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 357,
@@ -9,7 +9,7 @@
   "severity_counts": {
     "critical": 21,
     "medium": 1,
-    "high": 6
+    "high": 5
   },
   "top_articles": [
     {
@@ -335,13 +335,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-11T19:41:02+00:00"
-    },
-    {
-      "title": "Mythos Finds a Curl Vulnerability",
-      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-11T06:39:08+00:00"
     }
   ]
 }
