@@ -1,9 +1,9 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-17T19:30:24.433752+00:00",
-  "total_articles": 452,
+  "generated_at": "2026-05-17T19:55:06.089767+00:00",
+  "total_articles": 450,
   "source_counts": {
-    "hn": 354,
+    "hn": 352,
     "zennqiita": 98
   },
   "severity_counts": {
@@ -32,13 +32,6 @@
       "score": 1157,
       "source": "hn",
       "date": "2026-05-12T14:54:41+00:00"
-    },
-    {
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 1047,
-      "source": "hn",
-      "date": "2026-05-11T21:08:25+00:00"
     },
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
@@ -125,18 +118,18 @@
       "date": "2026-05-14T14:51:14+00:00"
     },
     {
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "score": 547,
+      "source": "hn",
+      "date": "2026-05-17T06:17:26+00:00"
+    },
+    {
       "title": "Leaving GitHub for Forgejo",
       "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
       "score": 540,
       "source": "hn",
       "date": "2026-05-13T12:54:00+00:00"
-    },
-    {
-      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 536,
-      "source": "hn",
-      "date": "2026-05-17T06:17:26+00:00"
     },
     {
       "title": "Learning Software Architecture",
@@ -148,9 +141,16 @@
     {
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "url": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 513,
+      "score": 517,
       "source": "hn",
       "date": "2026-05-16T22:23:50+00:00"
+    },
+    {
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "score": 505,
+      "source": "hn",
+      "date": "2026-05-12T13:26:46+00:00"
     }
   ],
   "security_highlights": [
