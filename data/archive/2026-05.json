@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-17T17:23:27.889848+00:00",
+  "generated_at": "2026-05-17T17:48:27.692583+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 352,
@@ -8,7 +8,7 @@
   },
   "severity_counts": {
     "high": 6,
-    "critical": 21,
+    "critical": 20,
     "medium": 2
   },
   "top_articles": [
@@ -146,11 +146,11 @@
       "date": "2026-05-11T20:51:57+00:00"
     },
     {
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 505,
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "score": 507,
       "source": "hn",
-      "date": "2026-05-12T13:26:46+00:00"
+      "date": "2026-05-17T06:17:26+00:00"
     }
   ],
   "security_highlights": [
@@ -335,13 +335,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-11T20:51:57+00:00"
-    },
-    {
-      "title": "Show HN: E2a – Open-source email gateway for AI agents",
-      "url": "https://github.com/Mnexa-AI/e2a",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-11T20:26:17+00:00"
     }
   ]
 }
