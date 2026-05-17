@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T22:19:43.843765+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-05-17T22:50:07.640900+00:00",
+  "total_articles": 52,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,23 +36,15 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 33,
       "top_items": [
         {
           "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
           "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-          "score": 587,
+          "score": 596,
           "source": "hn",
           "severity": null,
           "date": "2026-05-17T06:17:26+00:00"
-        },
-        {
-          "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-          "url": "https://crates.io/crates/zerostack/1.0.0",
-          "score": 531,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-16T22:23:50+00:00"
         },
         {
           "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
@@ -65,7 +57,7 @@
         {
           "title": "I don't think AI will make your processes go faster",
           "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-          "score": 446,
+          "score": 453,
           "source": "hn",
           "severity": null,
           "date": "2026-05-17T12:13:45+00:00"
@@ -77,6 +69,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-17T17:09:15+00:00"
+        },
+        {
+          "title": "Native all the way, until you need text",
+          "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+          "score": 362,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-17T11:49:46+00:00"
         }
       ]
     },
@@ -84,6 +84,14 @@
       "category": "日本語技術記事",
       "count": 19,
       "top_items": [
+        {
+          "title": "AHC065参加記・1位解法",
+          "url": "https://qiita.com/tanaka-a/items/c286e1d03fd7d7b419ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-18T07:38:53+09:00"
+        },
         {
           "title": "Node.jsでDateに代わる日時処理として実装された「Temporal」を触ってみた",
           "url": "https://qiita.com/shinkai_/items/42b52dfff934785c5f31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -107,14 +115,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-18T00:34:32+09:00"
-        },
-        {
-          "title": "AHC065参加記・1位解法",
-          "url": "https://qiita.com/tanaka-a/items/c286e1d03fd7d7b419ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-17T21:23:39+09:00"
         },
         {
           "title": "AIに丁寧に接したいので英語で話しかける",
