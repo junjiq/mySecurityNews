@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-17T00:41:05.215787+00:00",
+  "generated_at": "2026-05-17T01:37:13.254082+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 353,
-    "zennqiita": 97
+    "hn": 354,
+    "zennqiita": 96
   },
   "severity_counts": {
-    "critical": 20,
+    "critical": 21,
     "medium": 1,
     "high": 6
   },
@@ -15,7 +15,7 @@
     {
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 1815,
+      "score": 1879,
       "source": "hn",
       "date": "2026-05-15T20:26:47+00:00"
     },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-16T23:59:47+00:00"
+    },
     {
       "title": "I tried to make Claude make me money on open-source bounties",
       "url": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
