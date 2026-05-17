@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T08:17:20.835133+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-05-17T09:11:51.497838+00:00",
+  "total_articles": 54,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 38,
       "top_items": [
         {
           "title": "Moving away from Tailwind, and learning to structure my CSS",
           "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-          "score": 521,
+          "score": 532,
           "source": "hn",
           "severity": null,
           "date": "2026-05-16T09:14:26+00:00"
@@ -49,7 +49,7 @@
         {
           "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
           "url": "https://crates.io/crates/zerostack/1.0.0",
-          "score": 354,
+          "score": 382,
           "source": "hn",
           "severity": null,
           "date": "2026-05-16T22:23:50+00:00"
@@ -57,26 +57,26 @@
         {
           "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
           "url": "https://nvlabs.github.io/Sana/WM/",
-          "score": 331,
+          "score": 336,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-16T12:06:21+00:00"
         },
         {
-          "title": "We've made the world too complicated",
-          "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-          "score": 283,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-16T08:25:17+00:00"
-        },
-        {
           "title": "Accelerando (2005)",
           "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-          "score": 279,
+          "score": 286,
           "source": "hn",
           "severity": null,
           "date": "2026-05-16T11:36:32+00:00"
+        },
+        {
+          "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
+          "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+          "score": 277,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-16T09:27:59+00:00"
         }
       ]
     },
@@ -85,20 +85,20 @@
       "count": 16,
       "top_items": [
         {
+          "title": "国会図書館のOCRをWebサービス化してみた - NDLOCR-Lite × Docker × FastAPI",
+          "url": "https://qiita.com/ohtsuka-shota/items/b4ab80e6bc9f12549cad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-17T17:31:46+09:00"
+        },
+        {
           "title": "QiitaのContirbution推移を表示するツール",
           "url": "https://qiita.com/hokutoh/items/1e13a35b70e1ef16d969?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-17T16:42:59+09:00"
-        },
-        {
-          "title": "国会図書館のOCRをWebサービス化してみた - NDLOCR-Lite × Docker × FastAPI",
-          "url": "https://qiita.com/ohtsuka-shota/items/b4ab80e6bc9f12549cad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-17T16:25:42+09:00"
         },
         {
           "title": "EDINET DB MCPで生成AIと企業分析をする",
