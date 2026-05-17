@@ -1,9 +1,16 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T04:48:10.144305+00:00",
-  "total_articles": 47,
-  "urgent_count": 3,
+  "generated_at": "2026-05-17T06:06:52.732191+00:00",
+  "total_articles": 48,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Grafana Labs internal source code accessed",
+      "url": "https://twitter.com/grafana/status/2055827123236171827",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-17T03:48:15+00:00"
+    },
     {
       "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
       "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 39,
       "top_items": [
         {
           "title": "Moving away from Tailwind, and learning to structure my CSS",
           "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-          "score": 467,
+          "score": 482,
           "source": "hn",
           "severity": null,
           "date": "2026-05-16T09:14:26+00:00"
@@ -42,7 +49,7 @@
         {
           "title": "Frontier AI has broken the open CTF format",
           "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-          "score": 351,
+          "score": 356,
           "source": "hn",
           "severity": null,
           "date": "2026-05-16T07:01:55+00:00"
@@ -50,10 +57,18 @@
         {
           "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
           "url": "https://nvlabs.github.io/Sana/WM/",
-          "score": 316,
+          "score": 322,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-16T12:06:21+00:00"
+        },
+        {
+          "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+          "url": "https://crates.io/crates/zerostack/1.0.0",
+          "score": 286,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-16T22:23:50+00:00"
         },
         {
           "title": "Fecal transplants for autism deliver success in clinical trials (2019)",
@@ -62,14 +77,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-16T09:27:59+00:00"
-        },
-        {
-          "title": "HTML Lists",
-          "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
-          "score": 274,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-16T16:58:26+00:00"
         }
       ]
     },

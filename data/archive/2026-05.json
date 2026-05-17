@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-17T04:48:10.190849+00:00",
+  "generated_at": "2026-05-17T06:06:52.775247+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 357,
     "zennqiita": 93
   },
   "severity_counts": {
-    "critical": 21,
+    "critical": 22,
     "medium": 1,
     "high": 5
   },
@@ -125,13 +125,6 @@
       "date": "2026-05-14T14:51:14+00:00"
     },
     {
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 561,
-      "source": "hn",
-      "date": "2026-05-11T07:26:54+00:00"
-    },
-    {
       "title": "Leaving GitHub for Forgejo",
       "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
       "score": 540,
@@ -151,9 +144,23 @@
       "score": 527,
       "source": "hn",
       "date": "2026-05-11T20:51:57+00:00"
+    },
+    {
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "score": 505,
+      "source": "hn",
+      "date": "2026-05-12T13:26:46+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Grafana Labs internal source code accessed",
+      "url": "https://twitter.com/grafana/status/2055827123236171827",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-17T03:48:15+00:00"
+    },
     {
       "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
       "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
