@@ -1,9 +1,16 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T18:49:15.226827+00:00",
+  "generated_at": "2026-05-17T19:30:24.390877+00:00",
   "total_articles": 46,
-  "urgent_count": 4,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "Don't Outsource the Learning",
+      "url": "https://addyosmani.com/blog/dont-outsource-learning/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-17T16:04:08+00:00"
+    },
     {
       "title": "Grafana Labs internal source code accessed",
       "url": "https://twitter.com/grafana/status/2055827123236171827",
@@ -41,7 +48,7 @@
         {
           "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
           "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-          "score": 530,
+          "score": 536,
           "source": "hn",
           "severity": null,
           "date": "2026-05-17T06:17:26+00:00"
@@ -49,7 +56,7 @@
         {
           "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
           "url": "https://crates.io/crates/zerostack/1.0.0",
-          "score": 508,
+          "score": 513,
           "source": "hn",
           "severity": null,
           "date": "2026-05-16T22:23:50+00:00"
@@ -57,7 +64,7 @@
         {
           "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
           "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-          "score": 422,
+          "score": 451,
           "source": "hn",
           "severity": "high",
           "date": "2026-05-17T13:42:30+00:00"
@@ -65,18 +72,18 @@
         {
           "title": "I don't think AI will make your processes go faster",
           "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-          "score": 355,
+          "score": 382,
           "source": "hn",
           "severity": null,
           "date": "2026-05-17T12:13:45+00:00"
         },
         {
-          "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-          "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-          "score": 300,
+          "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
+          "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+          "score": 381,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-17T11:49:31+00:00"
+          "date": "2026-05-17T17:09:15+00:00"
         }
       ]
     },
