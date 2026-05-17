@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-17T16:21:59.290535+00:00",
+  "generated_at": "2026-05-17T16:47:47.934727+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 352,
@@ -8,8 +8,8 @@
   },
   "severity_counts": {
     "high": 6,
-    "critical": 22,
-    "medium": 1
+    "critical": 21,
+    "medium": 2
   },
   "top_articles": [
     {
@@ -106,7 +106,7 @@
     {
       "title": "Moving away from Tailwind, and learning to structure my CSS",
       "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 615,
+      "score": 618,
       "source": "hn",
       "date": "2026-05-16T09:14:26+00:00"
     },
@@ -342,13 +342,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-11T20:26:17+00:00"
-    },
-    {
-      "title": "The Tree House: A voyage to the source of a backyard dream",
-      "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-11T19:41:02+00:00"
     }
   ]
 }
