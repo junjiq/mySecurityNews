@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-17T18:23:31.059205+00:00",
+  "generated_at": "2026-05-17T18:49:15.271730+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 352,
@@ -8,7 +8,7 @@
   },
   "severity_counts": {
     "high": 6,
-    "critical": 20,
+    "critical": 19,
     "medium": 2
   },
   "top_articles": [
@@ -132,6 +132,13 @@
       "date": "2026-05-13T12:54:00+00:00"
     },
     {
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "score": 530,
+      "source": "hn",
+      "date": "2026-05-17T06:17:26+00:00"
+    },
+    {
       "title": "Learning Software Architecture",
       "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
       "score": 529,
@@ -139,18 +146,11 @@
       "date": "2026-05-12T09:30:21+00:00"
     },
     {
-      "title": "GitLab announces workforce reduction and end of their CREDIT values",
-      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "score": 527,
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "score": 508,
       "source": "hn",
-      "date": "2026-05-11T20:51:57+00:00"
-    },
-    {
-      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 523,
-      "source": "hn",
-      "date": "2026-05-17T06:17:26+00:00"
+      "date": "2026-05-16T22:23:50+00:00"
     }
   ],
   "security_highlights": [
@@ -328,13 +328,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-12T14:54:41+00:00"
-    },
-    {
-      "title": "GitLab announces workforce reduction and end of their CREDIT values",
-      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-11T20:51:57+00:00"
     }
   ]
 }
