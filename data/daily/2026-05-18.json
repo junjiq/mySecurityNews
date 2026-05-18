@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T22:22:48.977649+00:00",
-  "total_articles": 74,
+  "generated_at": "2026-05-18T22:48:44.466394+00:00",
+  "total_articles": 72,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 54,
       "top_items": [
         {
           "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
           "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-          "score": 634,
+          "score": 658,
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T17:38:22+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Show HN: Files.md – Open-source alternative to Obsidian",
           "url": "https://github.com/zakirullin/files.md",
-          "score": 478,
+          "score": 493,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-18T13:33:33+00:00"
@@ -43,10 +43,18 @@
         {
           "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
           "url": "https://archestra.ai/blog/only-responsible-ai",
-          "score": 357,
+          "score": 368,
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T15:24:19+00:00"
+        },
+        {
+          "title": "Anthropic acquires Stainless",
+          "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+          "score": 303,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-18T17:01:21+00:00"
         },
         {
           "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
@@ -55,20 +63,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T11:32:42+00:00"
-        },
-        {
-          "title": "Anthropic acquires Stainless",
-          "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-          "score": 293,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-18T17:01:21+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 19,
+      "count": 18,
       "top_items": [
         {
           "title": "Defender & Purview 管理センターと My Sign-ins のみを許可する条件付きアクセス",
