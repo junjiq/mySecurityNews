@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T06:27:41.441269+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-05-18T07:52:28.695066+00:00",
+  "total_articles": 50,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 38,
       "top_items": [
         {
           "title": "I don't think AI will make your processes go faster",
           "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-          "score": 549,
+          "score": 563,
           "source": "hn",
           "severity": null,
           "date": "2026-05-17T12:13:45+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 12,
       "top_items": [
+        {
+          "title": "クオンツトレーダーは「買われすぎ・売られすぎ」をどう判断するのか?",
+          "url": "https://qiita.com/tikeda123/items/8dfcc1c09e34d5304d49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-18T16:46:44+09:00"
+        },
         {
           "title": "社内カリキュラムが微妙だったので、「その前提知らないんだけど…」を解決する学習サイトを作った",
           "url": "https://qiita.com/ari_init/items/d7a26696d724f6e83830?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-18T07:38:53+09:00"
-        },
-        {
-          "title": "Node.jsでDateに代わる日時処理として実装された「Temporal」を触ってみた",
-          "url": "https://qiita.com/shinkai_/items/42b52dfff934785c5f31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-18T03:06:28+09:00"
         }
       ]
     }
