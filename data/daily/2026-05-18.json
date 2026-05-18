@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T07:52:28.695066+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-05-18T09:13:14.356251+00:00",
+  "total_articles": 54,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 37,
       "top_items": [
         {
           "title": "I don't think AI will make your processes go faster",
           "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-          "score": 563,
+          "score": 587,
           "source": "hn",
           "severity": null,
           "date": "2026-05-17T12:13:45+00:00"
@@ -57,19 +57,27 @@
           "date": "2026-05-17T17:09:15+00:00"
         },
         {
-          "title": "AI subscriptions are a ticking time bomb for enterprise",
-          "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-          "score": 336,
+          "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+          "url": "https://github.com/tech4bot/rk3562deb",
+          "score": 356,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-17T11:49:31+00:00"
+          "date": "2026-05-17T13:16:27+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 17,
       "top_items": [
+        {
+          "title": "# LLMの中には何があるのか？アーキテクチャから推論までを解説",
+          "url": "https://qiita.com/TOMOSIA-LinhND/items/d0652603267ab7a430d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-18T16:46:54+09:00"
+        },
         {
           "title": "クオンツトレーダーは「買われすぎ・売られすぎ」をどう判断するのか?",
           "url": "https://qiita.com/tikeda123/items/8dfcc1c09e34d5304d49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -77,6 +85,14 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-18T16:46:44+09:00"
+        },
+        {
+          "title": "[Frontend Performance - Part 18]. Core Web Vitals完全攻略：LCP・INP・CLSの実践的改善",
+          "url": "https://qiita.com/tuanphan/items/8f1b05c18aaa67531000?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-18T16:23:07+09:00"
         },
         {
           "title": "社内カリキュラムが微妙だったので、「その前提知らないんだけど…」を解決する学習サイトを作った",
@@ -87,28 +103,12 @@
           "date": "2026-05-18T14:19:50+09:00"
         },
         {
-          "title": "Microsoft Entra の登録キャンペーンを理解する ～パスキー導入に向けた挙動と展開のポイント～",
-          "url": "https://qiita.com/carol0226/items/4ad04ffe2141f43ad6a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "1割の“信頼される”エンジニアが実行している『ズレを防ぐ途中共有』",
+          "url": "https://qiita.com/hitomin_poke/items/5d00c7dd1d690ee4f9bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-18T10:20:43+09:00"
-        },
-        {
-          "title": "単一HTMLで作ったサイトを自己解凍形式にする試み",
-          "url": "https://qiita.com/uni928/items/39e8e3bbc327526ac20f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-18T09:35:34+09:00"
-        },
-        {
-          "title": "AHC065参加記・1位解法",
-          "url": "https://qiita.com/tanaka-a/items/c286e1d03fd7d7b419ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-18T07:38:53+09:00"
+          "date": "2026-05-18T14:05:48+09:00"
         }
       ]
     }
