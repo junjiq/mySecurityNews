@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-18T16:35:47.007855+00:00",
+  "generated_at": "2026-05-18T17:43:26.481145+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 356,
@@ -8,7 +8,7 @@
   },
   "severity_counts": {
     "critical": 20,
-    "high": 6,
+    "high": 5,
     "medium": 2
   },
   "top_articles": [
@@ -39,13 +39,6 @@
       "score": 884,
       "source": "hn",
       "date": "2026-05-13T11:42:20+00:00"
-    },
-    {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "score": 692,
-      "source": "hn",
-      "date": "2026-05-12T18:03:11+00:00"
     },
     {
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
@@ -151,6 +144,13 @@
       "score": 482,
       "source": "hn",
       "date": "2026-05-15T08:45:36+00:00"
+    },
+    {
+      "title": "Twin brothers wipe 96 government databases minutes after being fired",
+      "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "score": 457,
+      "source": "hn",
+      "date": "2026-05-12T22:28:07+00:00"
     }
   ],
   "security_highlights": [
@@ -328,13 +328,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-13T15:13:37+00:00"
-    },
-    {
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-12T18:12:28+00:00"
     }
   ]
 }
