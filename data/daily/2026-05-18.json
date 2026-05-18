@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T19:33:51.930439+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-05-18T20:33:13.201760+00:00",
+  "total_articles": 74,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,8 +22,24 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 55,
       "top_items": [
+        {
+          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+          "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+          "score": 505,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-18T17:38:22+00:00"
+        },
+        {
+          "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+          "url": "https://github.com/zakirullin/files.md",
+          "score": 425,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-05-18T13:33:33+00:00"
+        },
         {
           "title": "GenCAD",
           "url": "https://gencad.github.io/",
@@ -33,20 +49,12 @@
           "date": "2026-05-17T21:40:35+00:00"
         },
         {
-          "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-          "url": "https://github.com/zakirullin/files.md",
-          "score": 391,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-05-18T13:33:33+00:00"
-        },
-        {
-          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-          "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-          "score": 373,
+          "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+          "url": "https://archestra.ai/blog/only-responsible-ai",
+          "score": 318,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-18T17:38:22+00:00"
+          "date": "2026-05-18T15:24:19+00:00"
         },
         {
           "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
@@ -55,21 +63,21 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T11:32:42+00:00"
-        },
-        {
-          "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-          "url": "https://archestra.ai/blog/only-responsible-ai",
-          "score": 291,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-18T15:24:19+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 19,
       "top_items": [
+        {
+          "title": "Defender & Purview 管理センターと My Sign-ins のみを許可する条件付きアクセス",
+          "url": "https://qiita.com/carol0226/items/38eb858216bd855d687a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-18T22:31:26+09:00"
+        },
         {
           "title": "Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン",
           "url": "https://qiita.com/ennagara128/items/aeaee3e64e75076503fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,36 +87,28 @@
           "date": "2026-05-18T18:43:30+09:00"
         },
         {
-          "title": "# LLMの中には何があるのか？アーキテクチャから推論までを解説",
-          "url": "https://qiita.com/TOMOSIA-LinhND/items/d0652603267ab7a430d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "大企業が Microsoft 365 Copilot を選ぶ理由を、自分なりに整理してみる",
+          "url": "https://qiita.com/Takashi_Masumori/items/2ace83e1d37c13f01190?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-18T16:46:54+09:00"
+          "date": "2026-05-18T18:26:40+09:00"
         },
         {
-          "title": "クオンツトレーダーは「買われすぎ・売られすぎ」をどう判断するのか?",
-          "url": "https://qiita.com/tikeda123/items/8dfcc1c09e34d5304d49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "[Frontend Performance - Part 19] ユーザーが感じる遅さを可視化するWebパフォーマンス計測（RUM）",
+          "url": "https://qiita.com/tuanphan/items/ec91b03ed3ec2c9b0a87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-18T16:46:44+09:00"
+          "date": "2026-05-18T17:59:01+09:00"
         },
         {
-          "title": "[Frontend Performance - Part 18]. Core Web Vitals完全攻略：LCP・INP・CLSの実践的改善",
-          "url": "https://qiita.com/tuanphan/items/8f1b05c18aaa67531000?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Deep Data SecurityとEntra IDによるダイレクト・アクセス方式",
+          "url": "https://qiita.com/Western24/items/b736228fdb5154d97afc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-18T16:23:07+09:00"
-        },
-        {
-          "title": "社内カリキュラムが微妙だったので、「その前提知らないんだけど…」を解決する学習サイトを作った",
-          "url": "https://qiita.com/ari_init/items/d7a26696d724f6e83830?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-18T14:19:50+09:00"
+          "date": "2026-05-18T17:39:09+09:00"
         }
       ]
     }
