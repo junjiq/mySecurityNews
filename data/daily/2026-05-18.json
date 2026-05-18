@@ -1,41 +1,33 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T15:07:05.991977+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-05-18T16:35:46.972556+00:00",
+  "total_articles": 60,
   "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Show HN: InsForge – Open-source Heroku for coding agents",
+      "url": "https://github.com/InsForge/InsForge",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-18T15:40:42+00:00"
+    },
     {
       "title": "Show HN: Files.md – Open-source alternative to Obsidian",
       "url": "https://github.com/zakirullin/files.md",
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-18T13:33:33+00:00"
-    },
-    {
-      "title": "Don’t Outsource the Learning",
-      "url": "https://addyosmani.com/blog/dont-outsource-learning/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-17T16:04:08+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 47,
       "top_items": [
-        {
-          "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-          "url": "https://github.com/MinishLab/semble",
-          "score": 394,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-17T15:37:07+00:00"
-        },
         {
           "title": "GenCAD",
           "url": "https://gencad.github.io/",
-          "score": 391,
+          "score": 404,
           "source": "hn",
           "severity": null,
           "date": "2026-05-17T21:40:35+00:00"
@@ -51,24 +43,32 @@
         {
           "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
           "url": "https://github.com/stephenlthorn/auto-identity-remove",
-          "score": 283,
+          "score": 298,
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T11:32:42+00:00"
         },
         {
-          "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-          "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-          "score": 211,
+          "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+          "url": "https://github.com/zakirullin/files.md",
+          "score": 261,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-05-18T13:33:33+00:00"
+        },
+        {
+          "title": "It is time to give up the dualism introduced by the debate on consciousness",
+          "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+          "score": 214,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-17T21:45:30+00:00"
+          "date": "2026-05-18T02:59:34+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 13,
       "top_items": [
         {
           "title": "Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン",

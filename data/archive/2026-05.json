@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-18T15:07:06.034361+00:00",
+  "generated_at": "2026-05-18T16:35:47.007855+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 356,
@@ -32,13 +32,6 @@
       "score": 1015,
       "source": "hn",
       "date": "2026-05-14T17:08:00+00:00"
-    },
-    {
-      "title": "Googlebook",
-      "url": "https://googlebook.google/",
-      "score": 888,
-      "source": "hn",
-      "date": "2026-05-12T17:37:36+00:00"
     },
     {
       "title": "I moved my digital stack to Europe",
@@ -151,9 +144,23 @@
       "score": 490,
       "source": "hn",
       "date": "2026-05-14T03:59:35+00:00"
+    },
+    {
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "url": "https://explorer.samismith.com/",
+      "score": 482,
+      "source": "hn",
+      "date": "2026-05-15T08:45:36+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: InsForge – Open-source Heroku for coding agents",
+      "url": "https://github.com/InsForge/InsForge",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-18T15:40:42+00:00"
+    },
     {
       "title": "Show HN: Files.md – Open-source alternative to Obsidian",
       "url": "https://github.com/zakirullin/files.md",
@@ -328,13 +335,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-12T18:12:28+00:00"
-    },
-    {
-      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
-      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-12T17:52:34+00:00"
     }
   ]
 }
