@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-18T10:50:43.421276+00:00",
+  "generated_at": "2026-05-18T12:10:33.021658+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 354,
-    "zennqiita": 96
+    "hn": 355,
+    "zennqiita": 95
   },
   "severity_counts": {
-    "critical": 20,
+    "critical": 21,
     "high": 6,
     "medium": 2
   },
@@ -139,21 +139,28 @@
       "date": "2026-05-16T22:23:50+00:00"
     },
     {
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 505,
-      "source": "hn",
-      "date": "2026-05-12T13:26:46+00:00"
-    },
-    {
       "title": "New arXiv policy: 1-year ban for hallucinated references",
       "url": "https://twitter.com/tdietterich/status/2055000956144935055",
       "score": 504,
       "source": "hn",
       "date": "2026-05-14T20:39:12+00:00"
+    },
+    {
+      "title": "Bill to block publishers from killing online games advances in California",
+      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "score": 499,
+      "source": "hn",
+      "date": "2026-05-15T19:48:48+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "I automated opt-outs for 500 data broker sites (open source)",
+      "url": "https://github.com/stephenlthorn/auto-identity-remove",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-18T11:32:42+00:00"
+    },
     {
       "title": "Don’t Outsource the Learning",
       "url": "https://addyosmani.com/blog/dont-outsource-learning/",
