@@ -1,15 +1,15 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T13:46:45.011579+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-05-18T15:07:05.991977+00:00",
+  "total_articles": 58,
   "urgent_count": 2,
   "urgent_items": [
     {
-      "title": "I automated opt-outs for 500 data broker sites (open source)",
-      "url": "https://github.com/stephenlthorn/auto-identity-remove",
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "url": "https://github.com/zakirullin/files.md",
       "severity": "critical",
       "source": "hn",
-      "date": "2026-05-18T11:32:42+00:00"
+      "date": "2026-05-18T13:33:33+00:00"
     },
     {
       "title": "Don’t Outsource the Learning",
@@ -22,15 +22,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 39,
+      "count": 43,
       "top_items": [
         {
           "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
           "url": "https://github.com/MinishLab/semble",
-          "score": 383,
+          "score": 394,
           "source": "hn",
           "severity": null,
           "date": "2026-05-17T15:37:07+00:00"
+        },
+        {
+          "title": "GenCAD",
+          "url": "https://gencad.github.io/",
+          "score": 391,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-17T21:40:35+00:00"
         },
         {
           "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
@@ -41,12 +49,12 @@
           "date": "2026-05-17T17:09:15+00:00"
         },
         {
-          "title": "GenCAD",
-          "url": "https://gencad.github.io/",
-          "score": 377,
+          "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
+          "url": "https://github.com/stephenlthorn/auto-identity-remove",
+          "score": 283,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-17T21:40:35+00:00"
+          "date": "2026-05-18T11:32:42+00:00"
         },
         {
           "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
@@ -55,14 +63,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-17T21:45:30+00:00"
-        },
-        {
-          "title": "I automated opt-outs for 500 data broker sites (open source)",
-          "url": "https://github.com/stephenlthorn/auto-identity-remove",
-          "score": 194,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-05-18T11:32:42+00:00"
         }
       ]
     },
