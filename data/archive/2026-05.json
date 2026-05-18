@@ -1,13 +1,13 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-18T12:10:33.021658+00:00",
+  "generated_at": "2026-05-18T13:46:45.055061+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 355,
     "zennqiita": 95
   },
   "severity_counts": {
-    "critical": 21,
+    "critical": 20,
     "high": 6,
     "medium": 2
   },
@@ -25,13 +25,6 @@
       "score": 1157,
       "source": "hn",
       "date": "2026-05-15T16:15:36+00:00"
-    },
-    {
-      "title": "Bambu Lab is abusing the open source social contract",
-      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 1157,
-      "source": "hn",
-      "date": "2026-05-12T14:54:41+00:00"
     },
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
@@ -53,13 +46,6 @@
       "score": 884,
       "source": "hn",
       "date": "2026-05-13T11:42:20+00:00"
-    },
-    {
-      "title": "Why senior developers fail to communicate their expertise",
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 727,
-      "source": "hn",
-      "date": "2026-05-12T15:08:40+00:00"
     },
     {
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
@@ -151,6 +137,20 @@
       "score": 499,
       "source": "hn",
       "date": "2026-05-15T19:48:48+00:00"
+    },
+    {
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "score": 498,
+      "source": "hn",
+      "date": "2026-05-17T13:42:30+00:00"
+    },
+    {
+      "title": "Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "score": 490,
+      "source": "hn",
+      "date": "2026-05-14T03:59:35+00:00"
     }
   ],
   "security_highlights": [
@@ -335,13 +335,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-12T17:52:34+00:00"
-    },
-    {
-      "title": "Bambu Lab is abusing the open source social contract",
-      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-12T14:54:41+00:00"
     }
   ]
 }

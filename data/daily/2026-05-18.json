@@ -1,8 +1,8 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T12:10:32.973886+00:00",
+  "generated_at": "2026-05-18T13:46:45.011579+00:00",
   "total_articles": 54,
-  "urgent_count": 3,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "I automated opt-outs for 500 data broker sites (open source)",
@@ -17,13 +17,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-17T16:04:08+00:00"
-    },
-    {
-      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-17T13:42:30+00:00"
     }
   ],
   "categories": [
@@ -32,28 +25,12 @@
       "count": 39,
       "top_items": [
         {
-          "title": "I don't think AI will make your processes go faster",
-          "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-          "score": 602,
+          "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+          "url": "https://github.com/MinishLab/semble",
+          "score": 383,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-17T12:13:45+00:00"
-        },
-        {
-          "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-          "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-          "score": 498,
-          "source": "hn",
-          "severity": "high",
-          "date": "2026-05-17T13:42:30+00:00"
-        },
-        {
-          "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-          "url": "https://github.com/tech4bot/rk3562deb",
-          "score": 386,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-17T13:16:27+00:00"
+          "date": "2026-05-17T15:37:07+00:00"
         },
         {
           "title": "At least 25 Flock cameras have been destroyed in five states since April 2025",
@@ -64,12 +41,28 @@
           "date": "2026-05-17T17:09:15+00:00"
         },
         {
-          "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-          "url": "https://github.com/MinishLab/semble",
-          "score": 356,
+          "title": "GenCAD",
+          "url": "https://gencad.github.io/",
+          "score": 377,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-17T15:37:07+00:00"
+          "date": "2026-05-17T21:40:35+00:00"
+        },
+        {
+          "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+          "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+          "score": 211,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-17T21:45:30+00:00"
+        },
+        {
+          "title": "I automated opt-outs for 500 data broker sites (open source)",
+          "url": "https://github.com/stephenlthorn/auto-identity-remove",
+          "score": 194,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-05-18T11:32:42+00:00"
         }
       ]
     },
