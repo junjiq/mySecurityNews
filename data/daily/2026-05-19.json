@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19T07:46:42.093560+00:00",
-  "total_articles": 69,
+  "generated_at": "2026-05-19T09:11:14.730483+00:00",
+  "total_articles": 72,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 61,
+      "count": 59,
       "top_items": [
         {
           "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
           "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-          "score": 921,
+          "score": 943,
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T17:38:22+00:00"
@@ -58,64 +58,64 @@
         {
           "title": "Anthropic acquires Stainless",
           "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-          "score": 432,
+          "score": 448,
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T17:01:21+00:00"
         },
         {
-          "title": "Project Glasswing: what Mythos showed us",
-          "url": "https://blog.cloudflare.com/cyber-frontier-models/",
-          "score": 319,
+          "title": "The last six months in LLMs in five minutes",
+          "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+          "score": 398,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-18T13:37:11+00:00"
+          "date": "2026-05-19T01:30:42+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 13,
       "top_items": [
         {
-          "title": "大企業が Microsoft 365 Copilot を選ぶ理由を、自分なりに整理してみる",
-          "url": "https://qiita.com/Takashi_Masumori/items/2ace83e1d37c13f01190?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Oracle Interconnect for AWS のプレビュー版をためしてみてみた",
+          "url": "https://qiita.com/shirok/items/a9734df1336e46e83315?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-19T10:06:43+09:00"
+          "date": "2026-05-19T17:09:16+09:00"
         },
         {
-          "title": "Defender & Purview 管理センターと My Sign-ins のみを許可する条件付きアクセス",
-          "url": "https://qiita.com/carol0226/items/38eb858216bd855d687a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "New Relic で N+1などの隠れたボトルネックを自動検知！Performance Risks Inbox の使い方",
+          "url": "https://qiita.com/MarthaS/items/6f434ed7c6cd6ac617ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-18T22:31:26+09:00"
+          "date": "2026-05-19T13:40:34+09:00"
         },
         {
-          "title": "Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン",
-          "url": "https://qiita.com/ennagara128/items/aeaee3e64e75076503fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude CodeにPlaywrightでブラウザ操作を任せたら、社内Chromeで3連敗した話",
+          "url": "https://qiita.com/hirashima-gmoconnect/items/733d77bbeecfe69873a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-18T18:43:30+09:00"
+          "date": "2026-05-19T11:48:05+09:00"
         },
         {
-          "title": "[Frontend Performance - Part 19] ユーザーが感じる遅さを可視化するWebパフォーマンス計測（RUM）",
-          "url": "https://qiita.com/tuanphan/items/ec91b03ed3ec2c9b0a87?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AIを検索ツールで終わらせない：Javaコード解析スラッシュコマンド化で学んだ5つのTIPS",
+          "url": "https://qiita.com/inaba-yoshiko/items/5291d59af79fb91ff456?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-18T17:59:01+09:00"
+          "date": "2026-05-19T11:39:34+09:00"
         },
         {
-          "title": "Deep Data SecurityとEntra IDによるダイレクト・アクセス方式",
-          "url": "https://qiita.com/Western24/items/b736228fdb5154d97afc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Jira Cloudのタイムラインに「休日」を",
+          "url": "https://qiita.com/gmo-connect-ogawa/items/9423c08de5937f58a82f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-18T17:39:09+09:00"
+          "date": "2026-05-19T11:33:58+09:00"
         }
       ]
     }
