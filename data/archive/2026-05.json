@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-19T04:50:10.288171+00:00",
+  "generated_at": "2026-05-19T06:24:59.228576+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 89
+    "hn": 362,
+    "zennqiita": 88
   },
   "severity_counts": {
     "high": 6,
-    "critical": 20,
+    "critical": 19,
     "medium": 2
   },
   "top_articles": [
@@ -36,7 +36,7 @@
     {
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 861,
+      "score": 898,
       "source": "hn",
       "date": "2026-05-18T17:38:22+00:00"
     },
@@ -74,13 +74,6 @@
       "score": 602,
       "source": "hn",
       "date": "2026-05-17T12:13:45+00:00"
-    },
-    {
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 601,
-      "source": "hn",
-      "date": "2026-05-13T14:45:18+00:00"
     },
     {
       "title": "The Quiet Renovation at Bitwarden",
@@ -144,6 +137,13 @@
       "score": 482,
       "source": "hn",
       "date": "2026-05-15T08:45:36+00:00"
+    },
+    {
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "score": 454,
+      "source": "hn",
+      "date": "2026-05-18T15:24:19+00:00"
     },
     {
       "title": "Mullvad exit IPs are surprisingly identifying",
@@ -328,13 +328,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-13T15:26:27+00:00"
-    },
-    {
-      "title": "Open Source Resistance: keep OSS alive on company time",
-      "url": "https://ossresistance.com/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-13T15:13:37+00:00"
     }
   ]
 }
