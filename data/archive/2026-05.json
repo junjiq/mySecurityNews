@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-19T03:08:53.018752+00:00",
+  "generated_at": "2026-05-19T04:50:10.288171+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 361,
     "zennqiita": 89
   },
   "severity_counts": {
+    "high": 6,
     "critical": 20,
-    "high": 5,
     "medium": 2
   },
   "top_articles": [
@@ -36,7 +36,7 @@
     {
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 820,
+      "score": 861,
       "source": "hn",
       "date": "2026-05-18T17:38:22+00:00"
     },
@@ -83,32 +83,25 @@
       "date": "2026-05-13T14:45:18+00:00"
     },
     {
+      "title": "The Quiet Renovation at Bitwarden",
+      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+      "score": 589,
+      "source": "hn",
+      "date": "2026-05-16T20:13:41+00:00"
+    },
+    {
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "url": "https://github.com/zakirullin/files.md",
+      "score": 588,
+      "source": "hn",
+      "date": "2026-05-18T13:33:33+00:00"
+    },
+    {
       "title": "A message from President Kornbluth about funding and the talent pipeline",
       "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
       "score": 581,
       "source": "hn",
       "date": "2026-05-14T14:51:14+00:00"
-    },
-    {
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "url": "https://github.com/zakirullin/files.md",
-      "score": 561,
-      "source": "hn",
-      "date": "2026-05-18T13:33:33+00:00"
-    },
-    {
-      "title": "The Quiet Renovation at Bitwarden",
-      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-      "score": 549,
-      "source": "hn",
-      "date": "2026-05-16T20:13:41+00:00"
-    },
-    {
-      "title": "Leaving GitHub for Forgejo",
-      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 540,
-      "source": "hn",
-      "date": "2026-05-13T12:54:00+00:00"
     },
     {
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
@@ -151,9 +144,23 @@
       "score": 482,
       "source": "hn",
       "date": "2026-05-15T08:45:36+00:00"
+    },
+    {
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "score": 454,
+      "source": "hn",
+      "date": "2026-05-15T02:35:35+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "War game exposed U.S. vulnerability to low-tech warfare",
+      "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-19T02:25:29+00:00"
+    },
     {
       "title": "Show HN: InsForge – Open-source Heroku for coding agents",
       "url": "https://github.com/InsForge/InsForge",

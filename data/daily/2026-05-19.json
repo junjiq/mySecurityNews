@@ -1,8 +1,8 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19T03:08:52.972437+00:00",
-  "total_articles": 66,
-  "urgent_count": 2,
+  "generated_at": "2026-05-19T04:50:10.244495+00:00",
+  "total_articles": 67,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Show HN: InsForge – Open-source Heroku for coding agents",
@@ -17,17 +17,24 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-18T13:33:33+00:00"
+    },
+    {
+      "title": "War game exposed U.S. vulnerability to low-tech warfare",
+      "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-19T02:25:29+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 56,
       "top_items": [
         {
           "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
           "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-          "score": 820,
+          "score": 861,
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T17:38:22+00:00"
@@ -35,7 +42,7 @@
         {
           "title": "Show HN: Files.md – Open-source alternative to Obsidian",
           "url": "https://github.com/zakirullin/files.md",
-          "score": 561,
+          "score": 588,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-18T13:33:33+00:00"
@@ -43,7 +50,7 @@
         {
           "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
           "url": "https://archestra.ai/blog/only-responsible-ai",
-          "score": 427,
+          "score": 441,
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T15:24:19+00:00"
@@ -51,24 +58,24 @@
         {
           "title": "Anthropic acquires Stainless",
           "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-          "score": 376,
+          "score": 395,
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T17:01:21+00:00"
         },
         {
-          "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
-          "url": "https://github.com/stephenlthorn/auto-identity-remove",
-          "score": 298,
+          "title": "Project Glasswing: what Mythos showed us",
+          "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+          "score": 303,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-18T11:32:42+00:00"
+          "date": "2026-05-18T13:37:11+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "大企業が Microsoft 365 Copilot を選ぶ理由を、自分なりに整理してみる",
