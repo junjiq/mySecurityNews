@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19T10:42:09.407071+00:00",
-  "total_articles": 66,
+  "generated_at": "2026-05-19T12:02:48.821459+00:00",
+  "total_articles": 64,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 52,
       "top_items": [
         {
           "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
           "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-          "score": 966,
+          "score": 985,
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T17:38:22+00:00"
@@ -50,10 +50,18 @@
         {
           "title": "The last six months in LLMs in five minutes",
           "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-          "score": 470,
+          "score": 506,
           "source": "hn",
           "severity": null,
           "date": "2026-05-19T01:30:42+00:00"
+        },
+        {
+          "title": "Anthropic acquires Stainless",
+          "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+          "score": 469,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-18T17:01:21+00:00"
         },
         {
           "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
@@ -62,14 +70,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T15:24:19+00:00"
-        },
-        {
-          "title": "Anthropic acquires Stainless",
-          "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-          "score": 455,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-18T17:01:21+00:00"
         }
       ]
     },
