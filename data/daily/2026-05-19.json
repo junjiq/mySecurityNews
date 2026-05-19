@@ -1,8 +1,8 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19T12:02:48.821459+00:00",
-  "total_articles": 64,
-  "urgent_count": 3,
+  "generated_at": "2026-05-19T13:35:34.087923+00:00",
+  "total_articles": 59,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Show HN: InsForge – Open-source Heroku for coding agents",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-18T15:40:42+00:00"
-    },
-    {
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "url": "https://github.com/zakirullin/files.md",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-18T13:33:33+00:00"
     },
     {
       "title": "War game exposed U.S. vulnerability to low-tech warfare",
@@ -29,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 48,
       "top_items": [
         {
           "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
@@ -40,17 +33,9 @@
           "date": "2026-05-18T17:38:22+00:00"
         },
         {
-          "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-          "url": "https://github.com/zakirullin/files.md",
-          "score": 588,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-05-18T13:33:33+00:00"
-        },
-        {
           "title": "The last six months in LLMs in five minutes",
           "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-          "score": 506,
+          "score": 537,
           "source": "hn",
           "severity": null,
           "date": "2026-05-19T01:30:42+00:00"
@@ -58,7 +43,7 @@
         {
           "title": "Anthropic acquires Stainless",
           "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-          "score": 469,
+          "score": 484,
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T17:01:21+00:00"
@@ -70,12 +55,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-18T15:24:19+00:00"
+        },
+        {
+          "title": "Click (2016)",
+          "url": "https://clickclickclick.click/",
+          "score": 332,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-18T23:03:02+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "Oracle Interconnect for AWS のプレビュー版をためしてみてみた",
@@ -83,7 +76,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-19T17:09:16+09:00"
+          "date": "2026-05-19T22:32:23+09:00"
         },
         {
           "title": "New Relic で N+1などの隠れたボトルネックを自動検知！Performance Risks Inbox の使い方",
