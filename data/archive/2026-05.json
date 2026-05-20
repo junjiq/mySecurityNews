@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-20T22:06:10.298361+00:00",
+  "generated_at": "2026-05-20T22:57:02.942488+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 355,
-    "zennqiita": 95,
+    "hn": 356,
+    "zennqiita": 94,
     "project": 1
   },
   "severity_counts": {
+    "critical": 13,
     "medium": 5,
-    "critical": 12,
     "high": 3
   },
   "top_articles": [
@@ -58,7 +58,7 @@
     {
       "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
       "url": "https://www.alqst.org/ar/posts/1190",
-      "score": 867,
+      "score": 879,
       "source": "hn",
       "date": "2026-05-20T12:43:41+00:00"
     },
@@ -140,21 +140,28 @@
       "date": "2026-05-18T13:33:33+00:00"
     },
     {
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "score": 578,
+      "source": "hn",
+      "date": "2026-05-20T10:35:02+00:00"
+    },
+    {
       "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
       "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
       "score": 566,
       "source": "hn",
       "date": "2026-05-20T14:30:47+00:00"
-    },
-    {
-      "title": "Qwen3.7-Max: The Agent Frontier",
-      "url": "https://qwen.ai/blog?id=qwen3.7",
-      "score": 561,
-      "source": "hn",
-      "date": "2026-05-20T10:35:02+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+      "url": "https://legiscan.com/CO/bill/SB051/2026",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-20T20:28:18+00:00"
+    },
     {
       "title": "Dumb ways for an open source project to die",
       "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",

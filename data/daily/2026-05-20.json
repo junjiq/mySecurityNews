@@ -1,18 +1,26 @@
 {
   "date": "2026-05-20",
-  "generated_at": "2026-05-20T22:06:10.254221+00:00",
-  "total_articles": 65,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-05-20T22:57:02.898880+00:00",
+  "total_articles": 67,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+      "url": "https://legiscan.com/CO/bill/SB051/2026",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-20T20:28:18+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 54,
       "top_items": [
         {
           "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
           "url": "https://www.alqst.org/ar/posts/1190",
-          "score": 867,
+          "score": 879,
           "source": "hn",
           "severity": null,
           "date": "2026-05-20T12:43:41+00:00"
@@ -26,6 +34,14 @@
           "date": "2026-05-20T13:02:30+00:00"
         },
         {
+          "title": "Qwen3.7-Max: The Agent Frontier",
+          "url": "https://qwen.ai/blog?id=qwen3.7",
+          "score": 578,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-20T10:35:02+00:00"
+        },
+        {
           "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
           "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
           "score": 566,
@@ -34,26 +50,18 @@
           "date": "2026-05-20T14:30:47+00:00"
         },
         {
-          "title": "Qwen3.7-Max: The Agent Frontier",
-          "url": "https://qwen.ai/blog?id=qwen3.7",
-          "score": 561,
+          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+          "score": 548,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-20T10:35:02+00:00"
-        },
-        {
-          "title": "GitHub is investigating unauthorized access to their internal repositories",
-          "url": "https://twitter.com/github/status/2056884788179726685",
-          "score": 497,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-20T00:01:18+00:00"
+          "date": "2026-05-20T19:05:30+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "相続税は本当に格差是正になるのか？― 資産循環・成長・中間層をシミュレーションで考える : Pythonで学ぶ マクロ経済学入門 (82)",
