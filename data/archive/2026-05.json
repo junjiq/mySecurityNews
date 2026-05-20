@@ -1,10 +1,10 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-20T00:44:59.447731+00:00",
+  "generated_at": "2026-05-20T01:43:08.625239+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 89,
+    "hn": 362,
+    "zennqiita": 88,
     "project": 1
   },
   "severity_counts": {
@@ -21,18 +21,18 @@
       "date": "2026-05-15T20:26:47+00:00"
     },
     {
+      "title": "I’ve joined Anthropic",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "score": 1166,
+      "source": "hn",
+      "date": "2026-05-19T15:07:45+00:00"
+    },
+    {
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
       "score": 1157,
       "source": "hn",
       "date": "2026-05-15T16:15:36+00:00"
-    },
-    {
-      "title": "I’ve joined Anthropic",
-      "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "score": 1137,
-      "source": "hn",
-      "date": "2026-05-19T15:07:45+00:00"
     },
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
@@ -84,6 +84,20 @@
       "date": "2026-05-17T12:13:45+00:00"
     },
     {
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
+      "score": 592,
+      "source": "hn",
+      "date": "2026-05-19T15:53:38+00:00"
+    },
+    {
+      "title": "Apple unveils new accessibility features",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "score": 591,
+      "source": "hn",
+      "date": "2026-05-19T12:04:18+00:00"
+    },
+    {
       "title": "The Quiet Renovation at Bitwarden",
       "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
       "score": 589,
@@ -105,18 +119,11 @@
       "date": "2026-05-14T14:51:14+00:00"
     },
     {
-      "title": "Apple unveils new accessibility features",
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 580,
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 570,
       "source": "hn",
-      "date": "2026-05-19T12:04:18+00:00"
-    },
-    {
-      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
-      "url": "https://virtualosmuseum.org/",
-      "score": 564,
-      "source": "hn",
-      "date": "2026-05-19T15:53:38+00:00"
+      "date": "2026-05-19T17:43:45+00:00"
     },
     {
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
@@ -124,13 +131,6 @@
       "score": 532,
       "source": "hn",
       "date": "2026-05-16T22:23:50+00:00"
-    },
-    {
-      "title": "Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 520,
-      "source": "hn",
-      "date": "2026-05-19T17:43:45+00:00"
     },
     {
       "title": "New arXiv policy: 1-year ban for hallucinated references",
@@ -156,7 +156,7 @@
   ],
   "security_highlights": [
     {
-      "title": "Dumb Ways for an Open Source Project to Die",
+      "title": "Dumb ways for an open source project to die",
       "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
       "severity": "critical",
       "source": "hn",
