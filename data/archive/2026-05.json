@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-20T19:18:06.599012+00:00",
+  "generated_at": "2026-05-20T20:16:53.893374+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 354,
-    "zennqiita": 96,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 1
   },
   "severity_counts": {
     "medium": 5,
-    "critical": 13,
+    "critical": 12,
     "high": 3
   },
   "top_articles": [
@@ -58,7 +58,7 @@
     {
       "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
       "url": "https://www.alqst.org/ar/posts/1190",
-      "score": 783,
+      "score": 818,
       "source": "hn",
       "date": "2026-05-20T12:43:41+00:00"
     },
@@ -140,18 +140,18 @@
       "date": "2026-05-18T13:33:33+00:00"
     },
     {
+      "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
+      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
+      "score": 566,
+      "source": "hn",
+      "date": "2026-05-20T14:30:47+00:00"
+    },
+    {
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "url": "https://crates.io/crates/zerostack/1.0.0",
       "score": 532,
       "source": "hn",
       "date": "2026-05-16T22:23:50+00:00"
-    },
-    {
-      "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
-      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
-      "score": 524,
-      "source": "hn",
-      "date": "2026-05-20T14:30:47+00:00"
     }
   ],
   "security_highlights": [
@@ -259,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-15T12:00:31+00:00"
-    },
-    {
-      "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
-      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-15T04:48:23+00:00"
     }
   ]
 }
