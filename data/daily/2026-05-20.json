@@ -1,8 +1,8 @@
 {
   "date": "2026-05-20",
-  "generated_at": "2026-05-20T09:09:38.472326+00:00",
+  "generated_at": "2026-05-20T10:33:17.646383+00:00",
   "total_articles": 63,
-  "urgent_count": 2,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Dumb ways for an open source project to die",
@@ -10,19 +10,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-19T19:22:56+00:00"
-    },
-    {
-      "title": "Critical Rendering Path：ソースコードから画面上のピクセルまでの旅",
-      "url": "https://qiita.com/tms-phucvu/items/d0b8c99804f8d6fadb42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-05-19T18:33:44+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 50,
       "top_items": [
         {
           "title": "I’ve joined Anthropic",
@@ -35,7 +28,7 @@
         {
           "title": "Gemini 3.5 Flash",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-          "score": 765,
+          "score": 801,
           "source": "hn",
           "severity": null,
           "date": "2026-05-19T17:43:45+00:00"
@@ -43,7 +36,7 @@
         {
           "title": "I’ve built a virtual museum with nearly every operating system you can think of",
           "url": "https://virtualosmuseum.org/",
-          "score": 758,
+          "score": 787,
           "source": "hn",
           "severity": null,
           "date": "2026-05-19T15:53:38+00:00"
@@ -51,7 +44,7 @@
         {
           "title": "Apple unveils new accessibility features",
           "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-          "score": 667,
+          "score": 676,
           "source": "hn",
           "severity": null,
           "date": "2026-05-19T12:04:18+00:00"
@@ -59,7 +52,7 @@
         {
           "title": "Minnesota becomes first state to ban prediction markets",
           "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-          "score": 644,
+          "score": 665,
           "source": "hn",
           "severity": null,
           "date": "2026-05-19T19:13:26+00:00"
@@ -68,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "Gemini Omniを使ってみた【Gemini 3.5 Flash】",
