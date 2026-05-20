@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-20T15:45:41.909773+00:00",
+  "generated_at": "2026-05-20T17:05:23.209223+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 349,
-    "zennqiita": 101,
+    "hn": 351,
+    "zennqiita": 99,
     "project": 1
   },
   "severity_counts": {
     "medium": 5,
-    "critical": 14,
+    "critical": 13,
     "high": 3
   },
   "top_articles": [
@@ -42,18 +42,18 @@
       "date": "2026-05-18T17:38:22+00:00"
     },
     {
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 913,
+      "source": "hn",
+      "date": "2026-05-19T17:43:45+00:00"
+    },
+    {
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "url": "https://virtualosmuseum.org/",
       "score": 893,
       "source": "hn",
       "date": "2026-05-19T15:53:38+00:00"
-    },
-    {
-      "title": "Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 892,
-      "source": "hn",
-      "date": "2026-05-19T17:43:45+00:00"
     },
     {
       "title": "Apple unveils new accessibility features",
@@ -77,6 +77,20 @@
       "date": "2026-05-19T01:30:42+00:00"
     },
     {
+      "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
+      "url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
+      "score": 675,
+      "source": "hn",
+      "date": "2026-05-20T13:02:30+00:00"
+    },
+    {
+      "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
+      "url": "https://www.alqst.org/ar/posts/1190",
+      "score": 661,
+      "source": "hn",
+      "date": "2026-05-20T12:43:41+00:00"
+    },
+    {
       "title": "Google changes its search box",
       "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
       "score": 633,
@@ -98,18 +112,18 @@
       "date": "2026-05-16T09:14:26+00:00"
     },
     {
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "score": 612,
+      "source": "hn",
+      "date": "2026-05-19T12:23:07+00:00"
+    },
+    {
       "title": "I don't think AI will make your processes go faster",
       "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
       "score": 602,
       "source": "hn",
       "date": "2026-05-17T12:13:45+00:00"
-    },
-    {
-      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "url": "https://github.com/antoinezambelli/forge",
-      "score": 594,
-      "source": "hn",
-      "date": "2026-05-19T12:23:07+00:00"
     },
     {
       "title": "The Quiet Renovation at Bitwarden",
@@ -138,20 +152,6 @@
       "score": 499,
       "source": "hn",
       "date": "2026-05-15T19:48:48+00:00"
-    },
-    {
-      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "score": 498,
-      "source": "hn",
-      "date": "2026-05-17T13:42:30+00:00"
-    },
-    {
-      "title": "GitHub is investigating unauthorized access to their internal repositories",
-      "url": "https://twitter.com/github/status/2056884788179726685",
-      "score": 497,
-      "source": "hn",
-      "date": "2026-05-20T00:01:18+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-15T04:48:23+00:00"
-    },
-    {
-      "title": "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
-      "url": "https://github.com/AliAmmar15/Velonus",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-15T01:02:05+00:00"
     }
   ]
 }
