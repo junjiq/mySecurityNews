@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-20T11:58:27.293442+00:00",
+  "generated_at": "2026-05-20T13:11:01.328567+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 349,
@@ -9,8 +9,8 @@
   },
   "severity_counts": {
     "medium": 5,
-    "critical": 16,
-    "high": 4
+    "critical": 15,
+    "high": 3
   },
   "top_articles": [
     {
@@ -44,16 +44,23 @@
     {
       "title": "Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 834,
+      "score": 861,
       "source": "hn",
       "date": "2026-05-19T17:43:45+00:00"
     },
     {
       "title": "I’ve built a virtual museum with nearly every operating system you can think of",
       "url": "https://virtualosmuseum.org/",
-      "score": 822,
+      "score": 849,
       "source": "hn",
       "date": "2026-05-19T15:53:38+00:00"
+    },
+    {
+      "title": "Apple unveils new accessibility features",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "score": 694,
+      "source": "hn",
+      "date": "2026-05-19T12:04:18+00:00"
     },
     {
       "title": "Minnesota becomes first state to ban prediction markets",
@@ -61,13 +68,6 @@
       "score": 687,
       "source": "hn",
       "date": "2026-05-19T19:13:26+00:00"
-    },
-    {
-      "title": "Apple unveils new accessibility features",
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 685,
-      "source": "hn",
-      "date": "2026-05-19T12:04:18+00:00"
     },
     {
       "title": "The last six months in LLMs in five minutes",
@@ -91,6 +91,13 @@
       "date": "2026-05-16T09:14:26+00:00"
     },
     {
+      "title": "Google changes its search box",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "score": 605,
+      "source": "hn",
+      "date": "2026-05-19T18:34:27+00:00"
+    },
+    {
       "title": "I don't think AI will make your processes go faster",
       "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
       "score": 602,
@@ -112,11 +119,11 @@
       "date": "2026-05-18T13:33:33+00:00"
     },
     {
-      "title": "Google changes its search box",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "score": 582,
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "score": 552,
       "source": "hn",
-      "date": "2026-05-19T18:34:27+00:00"
+      "date": "2026-05-19T12:23:07+00:00"
     },
     {
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
@@ -124,20 +131,6 @@
       "score": 532,
       "source": "hn",
       "date": "2026-05-16T22:23:50+00:00"
-    },
-    {
-      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "url": "https://github.com/antoinezambelli/forge",
-      "score": 526,
-      "source": "hn",
-      "date": "2026-05-19T12:23:07+00:00"
-    },
-    {
-      "title": "New arXiv policy: 1-year ban for hallucinated references",
-      "url": "https://twitter.com/tdietterich/status/2055000956144935055",
-      "score": 504,
-      "source": "hn",
-      "date": "2026-05-14T20:39:12+00:00"
     },
     {
       "title": "Bill to block publishers from killing online games advances in California",
@@ -152,6 +145,13 @@
       "score": 498,
       "source": "hn",
       "date": "2026-05-17T13:42:30+00:00"
+    },
+    {
+      "title": "GitHub is investigating unauthorized access to their internal repositories",
+      "url": "https://twitter.com/github/status/2056884788179726685",
+      "score": 497,
+      "source": "hn",
+      "date": "2026-05-20T00:01:18+00:00"
     }
   ],
   "security_highlights": [
@@ -280,20 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-14T22:38:18+00:00"
-    },
-    {
-      "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
-      "url": "https://www.openvehicles.com/home",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-14T21:50:17+00:00"
-    },
-    {
-      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
-      "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-14T20:41:48+00:00"
     }
   ]
 }
