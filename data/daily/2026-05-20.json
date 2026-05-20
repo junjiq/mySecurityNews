@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
-  "generated_at": "2026-05-20T14:21:38.451745+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-05-20T15:45:41.864415+00:00",
+  "total_articles": 63,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -18,28 +18,20 @@
       "count": 52,
       "top_items": [
         {
-          "title": "I’ve joined Anthropic",
-          "url": "https://twitter.com/karpathy/status/2056753169888334312",
-          "score": 1311,
+          "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+          "url": "https://virtualosmuseum.org/",
+          "score": 893,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-19T15:07:45+00:00"
+          "date": "2026-05-19T15:53:38+00:00"
         },
         {
           "title": "Gemini 3.5 Flash",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-          "score": 874,
+          "score": 892,
           "source": "hn",
           "severity": null,
           "date": "2026-05-19T17:43:45+00:00"
-        },
-        {
-          "title": "I’ve built a virtual museum with nearly every operating system you can think of",
-          "url": "https://virtualosmuseum.org/",
-          "score": 873,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-19T15:53:38+00:00"
         },
         {
           "title": "Minnesota becomes first state to ban prediction markets",
@@ -52,10 +44,18 @@
         {
           "title": "Google changes its search box",
           "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-          "score": 618,
+          "score": 633,
           "source": "hn",
           "severity": null,
           "date": "2026-05-19T18:34:27+00:00"
+        },
+        {
+          "title": "GitHub is investigating unauthorized access to their internal repositories",
+          "url": "https://twitter.com/github/status/2056884788179726685",
+          "score": 497,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-20T00:01:18+00:00"
         }
       ]
     },
@@ -102,20 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-20T11:14:54+09:00"
-        }
-      ]
-    },
-    {
-      "category": "注目リリース",
-      "count": 1,
-      "top_items": [
-        {
-          "title": "Impacket impacket_0_13_1 — Impacket 0.13.1",
-          "url": "https://github.com/fortra/impacket/releases/tag/impacket_0_13_1",
-          "score": null,
-          "source": "project",
-          "severity": null,
-          "date": "2026-05-19T15:39:49Z"
         }
       ]
     }
