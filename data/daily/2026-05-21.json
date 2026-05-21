@@ -1,8 +1,8 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-21T10:45:10.356466+00:00",
-  "total_articles": 61,
-  "urgent_count": 2,
+  "generated_at": "2026-05-21T12:04:54.348621+00:00",
+  "total_articles": 63,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
@@ -10,27 +10,28 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-20T20:28:18+00:00"
-    },
-    {
-      "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
-      "url": "https://qiita.com/emi_ndk/items/6f1ddbe26cf5c5200aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-05-20T20:18:57+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 53,
       "top_items": [
         {
           "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
           "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-          "score": 1193,
+          "score": 1223,
           "source": "hn",
           "severity": null,
           "date": "2026-05-20T19:05:30+00:00"
+        },
+        {
+          "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+          "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+          "score": 895,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-20T13:43:37+00:00"
         },
         {
           "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
@@ -39,14 +40,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-20T12:43:41+00:00"
-        },
-        {
-          "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-          "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-          "score": 864,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-20T13:43:37+00:00"
         },
         {
           "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
@@ -68,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
         {
           "title": "New Relic アップデート(2026年4月)",
