@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-21T01:41:52.100275+00:00",
+  "generated_at": "2026-05-21T03:09:33.762353+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 358,
@@ -8,8 +8,8 @@
     "project": 1
   },
   "severity_counts": {
+    "medium": 6,
     "critical": 12,
-    "medium": 5,
     "high": 3
   },
   "top_articles": [
@@ -65,7 +65,7 @@
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 723,
+      "score": 801,
       "source": "hn",
       "date": "2026-05-20T19:05:30+00:00"
     },
@@ -105,6 +105,13 @@
       "date": "2026-05-19T18:34:27+00:00"
     },
     {
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "score": 627,
+      "source": "hn",
+      "date": "2026-05-20T10:35:02+00:00"
+    },
+    {
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
       "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
       "score": 625,
@@ -124,13 +131,6 @@
       "score": 612,
       "source": "hn",
       "date": "2026-05-19T12:23:07+00:00"
-    },
-    {
-      "title": "Qwen3.7-Max: The Agent Frontier",
-      "url": "https://qwen.ai/blog?id=qwen3.7",
-      "score": 607,
-      "source": "hn",
-      "date": "2026-05-20T10:35:02+00:00"
     },
     {
       "title": "I don't think AI will make your processes go faster",
