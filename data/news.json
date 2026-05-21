@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-05-21T15:06:51.900538+00:00",
+  "updated_at": "2026-05-21T16:27:17.137794+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48225040",
+      "source": "hn",
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "url": "https://www.runtm.com/",
+      "score": 6,
+      "comments": 0,
+      "author": "gustrigos",
+      "tags": [],
+      "date": "2026-05-21T16:07:13+00:00"
+    },
+    {
+      "id": "hn-48223693",
+      "source": "hn",
+      "title": "We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API",
+      "url": "https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/",
+      "score": 14,
+      "comments": 0,
+      "author": "yakkomajuri",
+      "tags": [],
+      "date": "2026-05-21T14:50:34+00:00"
+    },
+    {
       "id": "hn-48223303",
       "source": "hn",
-      "title": "Michael Keating has died at the age of 79 (1947–2026)",
+      "title": "Michael Keating has died",
       "url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
-      "score": 11,
-      "comments": 3,
+      "score": 43,
+      "comments": 23,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-21T14:31:33+00:00"
@@ -18,19 +40,30 @@
       "source": "hn",
       "title": "Get your passwords out of Bitwarden while you still can",
       "url": "https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/",
-      "score": 26,
-      "comments": 7,
+      "score": 113,
+      "comments": 72,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-21T14:29:14+00:00"
+    },
+    {
+      "id": "hn-48222733",
+      "source": "hn",
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "score": 59,
+      "comments": 19,
+      "author": "asenna",
+      "tags": [],
+      "date": "2026-05-21T14:01:37+00:00"
     },
     {
       "id": "hn-48222529",
       "source": "hn",
       "title": "Google's Antigravity Bait and Switch",
       "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "score": 112,
-      "comments": 61,
+      "score": 250,
+      "comments": 132,
       "author": "ssiddharth",
       "tags": [],
       "date": "2026-05-21T13:50:59+00:00"
@@ -40,8 +73,8 @@
       "source": "hn",
       "title": "AI is just unauthorised plagiarism at a bigger scale",
       "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "score": 374,
-      "comments": 228,
+      "score": 529,
+      "comments": 389,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-21T13:38:12+00:00"
@@ -72,9 +105,9 @@
       "id": "hn-48222105",
       "source": "hn",
       "title": "Magic the Gathering format: Fun 40",
-      "url": "https://fabiensanglard.net/mtg/fun//index.html",
-      "score": 27,
-      "comments": 25,
+      "url": "https://fabiensanglard.net/mtg/fun/",
+      "score": 48,
+      "comments": 39,
       "author": "ibobev",
       "tags": [],
       "date": "2026-05-21T13:13:36+00:00"
@@ -95,8 +128,8 @@
       "source": "hn",
       "title": "Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103",
-      "score": 29,
-      "comments": 18,
+      "score": 71,
+      "comments": 46,
       "author": "vcf",
       "tags": [],
       "date": "2026-05-21T12:55:16+00:00"
@@ -106,8 +139,8 @@
       "source": "hn",
       "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
       "url": "https://fatgid.io/",
-      "score": 35,
-      "comments": 3,
+      "score": 49,
+      "comments": 13,
       "author": "WhyNotHugo",
       "tags": [],
       "date": "2026-05-21T12:15:02+00:00",
@@ -140,8 +173,8 @@
       "source": "hn",
       "title": "Python 3.15: features that didn't make the headlines",
       "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "score": 158,
-      "comments": 68,
+      "score": 195,
+      "comments": 84,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-21T11:10:11+00:00"
@@ -151,8 +184,8 @@
       "source": "hn",
       "title": "Flipper One – we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 499,
-      "comments": 250,
+      "score": 660,
+      "comments": 303,
       "author": "sandebert",
       "tags": [],
       "date": "2026-05-21T11:03:38+00:00"
@@ -162,8 +195,8 @@
       "source": "hn",
       "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
       "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "score": 91,
-      "comments": 26,
+      "score": 135,
+      "comments": 43,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-05-21T11:02:26+00:00"
@@ -184,8 +217,8 @@
       "source": "hn",
       "title": "IBM invented semiconductor manufacturing automation",
       "url": "https://spectrum.ieee.org/semiconductor-fabrication",
-      "score": 34,
-      "comments": 0,
+      "score": 45,
+      "comments": 1,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-21T10:39:48+00:00"
@@ -193,10 +226,10 @@
     {
       "id": "hn-48220105",
       "source": "hn",
-      "title": "Google officially announces that ads will be included in AI Mode search results",
+      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
       "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "score": 384,
-      "comments": 320,
+      "score": 446,
+      "comments": 372,
       "author": "sofumel",
       "tags": [],
       "date": "2026-05-21T09:49:46+00:00"
@@ -217,8 +250,8 @@
       "source": "hn",
       "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
       "url": "https://github.com/helvesec/rmux",
-      "score": 126,
-      "comments": 62,
+      "score": 137,
+      "comments": 66,
       "author": "shideneyu",
       "tags": [],
       "date": "2026-05-21T09:22:00+00:00"
@@ -239,8 +272,8 @@
       "source": "hn",
       "title": "Vivaldi 8.0",
       "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "score": 176,
-      "comments": 97,
+      "score": 213,
+      "comments": 145,
       "author": "OuterVale",
       "tags": [],
       "date": "2026-05-21T07:21:55+00:00"
@@ -358,8 +391,8 @@
       "source": "hn",
       "title": "Show HN: I reverse engineered Apple's video wallpapers",
       "url": "https://github.com/kageroumado/phosphene",
-      "score": 359,
-      "comments": 84,
+      "score": 371,
+      "comments": 90,
       "author": "kageroumado",
       "tags": [],
       "date": "2026-05-20T23:54:06+00:00"
@@ -587,8 +620,8 @@
       "source": "hn",
       "title": "Flipper One Tech Specs",
       "url": "https://docs.flipper.net/one/general/tech-specs",
-      "score": 473,
-      "comments": 156,
+      "score": 483,
+      "comments": 160,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-05-20T18:33:56+00:00"
@@ -1610,8 +1643,8 @@
       "source": "hn",
       "title": "The Palomar Lights",
       "url": "https://comics.phillyharper.com/",
-      "score": 11,
-      "comments": 1,
+      "score": 25,
+      "comments": 12,
       "author": "tardismechanic",
       "tags": [],
       "date": "2026-05-19T14:05:34+00:00"
@@ -1761,6 +1794,17 @@
       "author": "LelouBil",
       "tags": [],
       "date": "2026-05-19T07:45:53+00:00"
+    },
+    {
+      "id": "hn-48190373",
+      "source": "hn",
+      "title": "Mounting Git commits as folders with NFS",
+      "url": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
+      "score": 25,
+      "comments": 7,
+      "author": "pvtmert",
+      "tags": [],
+      "date": "2026-05-19T07:32:56+00:00"
     },
     {
       "id": "hn-48190121",
@@ -2407,8 +2451,8 @@
       "source": "hn",
       "title": "What Do Gödel's Incompleteness Theorems Mean?",
       "url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
-      "score": 56,
-      "comments": 16,
+      "score": 76,
+      "comments": 30,
       "author": "baruchel",
       "tags": [],
       "date": "2026-05-18T17:59:53+00:00"
@@ -5140,52 +5184,6 @@
       "author": "FranckDernoncou",
       "tags": [],
       "date": "2026-05-15T22:38:58+00:00"
-    },
-    {
-      "id": "hn-48154796",
-      "source": "hn",
-      "title": "Archaeologists find Egyptian mummy buried with the 'Iliad'",
-      "url": "https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html",
-      "score": 153,
-      "comments": 113,
-      "author": "diodorus",
-      "tags": [],
-      "date": "2026-05-15T22:31:45+00:00"
-    },
-    {
-      "id": "hn-48154711",
-      "source": "hn",
-      "title": "How to Write to SSDs [pdf]",
-      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-      "score": 139,
-      "comments": 17,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-05-15T22:23:38+00:00"
-    },
-    {
-      "id": "hn-48154371",
-      "source": "hn",
-      "title": "Waymo driverless cars become trapped in Atlanta suburb after glitch",
-      "url": "https://www.bbc.com/news/videos/czx20g00ly1o",
-      "score": 10,
-      "comments": 0,
-      "author": "berkeleyjunk",
-      "tags": [],
-      "date": "2026-05-15T21:50:44+00:00"
-    },
-    {
-      "id": "qiita-03d000fccd",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AI が仕事を片付ける時代】Microsoft 365 Copilot Cowork 完全ガイド — 使い方からプラグイン開発まで",
-      "url": "https://qiita.com/hisaho/items/47d6f1d094dd9270b722?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hisaho",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-16T06:49:11+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
