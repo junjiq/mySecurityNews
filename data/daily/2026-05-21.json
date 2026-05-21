@@ -1,16 +1,9 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-21T20:09:55.012030+00:00",
-  "total_articles": 62,
-  "urgent_count": 2,
+  "generated_at": "2026-05-21T21:04:36.063969+00:00",
+  "total_articles": 61,
+  "urgent_count": 1,
   "urgent_items": [
-    {
-      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "url": "https://legiscan.com/CO/bill/SB051/2026",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-20T20:28:18+00:00"
-    },
     {
       "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
       "url": "https://fatgid.io/",
@@ -22,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 51,
       "top_items": [
         {
           "title": "Flipper One – we need your help",
           "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-          "score": 889,
+          "score": 930,
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T11:03:38+00:00"
@@ -43,32 +36,32 @@
         {
           "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
           "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-          "score": 508,
+          "score": 518,
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T09:49:46+00:00"
         },
         {
-          "title": "Google Declaring War on the Web",
-          "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
-          "score": 378,
+          "title": "Google's Antigravity bait and switch",
+          "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+          "score": 433,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-20T21:33:18+00:00"
+          "date": "2026-05-21T13:50:59+00:00"
         },
         {
-          "title": "Show HN: I reverse engineered Apple's video wallpapers",
-          "url": "https://github.com/kageroumado/phosphene",
-          "score": 371,
+          "title": "Throwing AI-generated walls of text into conversations",
+          "url": "https://noslopgrenade.com/",
+          "score": 415,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-20T23:54:06+00:00"
+          "date": "2026-05-21T09:31:15+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 10,
       "top_items": [
         {
           "title": "New Relic アップデート(2026年4月)",
@@ -77,6 +70,14 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-21T13:16:44+09:00"
+        },
+        {
+          "title": "ドキュメントが失われた AWS 環境を 1 日で再現 + 再構築手順書まで生成 ─ Claude Opus 4.7「infra delegate to」の威力",
+          "url": "https://qiita.com/ntaka329/items/b1d961ce5fab8541101f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-21T12:16:17+09:00"
         },
         {
           "title": "Oracle Interconnect for AWS のプレビュー版をためしてみてみた",
@@ -95,20 +96,12 @@
           "date": "2026-05-21T11:33:47+09:00"
         },
         {
-          "title": "勉強苦手なQAエンジニアがJSTQB AL-TAに挑んで爆死した話orz",
-          "url": "https://qiita.com/w_k0_0/items/6d68d128dea56602ab58?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "ようやく「Claude code」を使ってみた件　～勤怠管理アプリ編①～",
+          "url": "https://qiita.com/yukegineer/items/93b961e492d9e8f8dffe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-21T09:04:05+09:00"
-        },
-        {
-          "title": "楽曲のChordを推定する",
-          "url": "https://qiita.com/y_abe_bc/items/73778c9202ab4f8a7474?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-21T08:22:22+09:00"
+          "date": "2026-05-21T09:39:14+09:00"
         }
       ]
     }
