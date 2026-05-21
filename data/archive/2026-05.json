@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-21T00:46:53.698839+00:00",
-  "total_articles": 455,
+  "generated_at": "2026-05-21T01:41:52.100275+00:00",
+  "total_articles": 451,
   "source_counts": {
-    "hn": 360,
-    "zennqiita": 94,
+    "hn": 358,
+    "zennqiita": 92,
     "project": 1
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 12,
     "medium": 5,
     "high": 3
   },
@@ -63,6 +63,13 @@
       "date": "2026-05-19T15:53:38+00:00"
     },
     {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "score": 723,
+      "source": "hn",
+      "date": "2026-05-20T19:05:30+00:00"
+    },
+    {
       "title": "Apple unveils new accessibility features",
       "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
       "score": 701,
@@ -89,13 +96,6 @@
       "score": 675,
       "source": "hn",
       "date": "2026-05-20T13:02:30+00:00"
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 671,
-      "source": "hn",
-      "date": "2026-05-20T19:05:30+00:00"
     },
     {
       "title": "Google changes its search box",
@@ -126,18 +126,18 @@
       "date": "2026-05-19T12:23:07+00:00"
     },
     {
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "score": 607,
+      "source": "hn",
+      "date": "2026-05-20T10:35:02+00:00"
+    },
+    {
       "title": "I don't think AI will make your processes go faster",
       "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
       "score": 602,
       "source": "hn",
       "date": "2026-05-17T12:13:45+00:00"
-    },
-    {
-      "title": "Qwen3.7-Max: The Agent Frontier",
-      "url": "https://qwen.ai/blog?id=qwen3.7",
-      "score": 599,
-      "source": "hn",
-      "date": "2026-05-20T10:35:02+00:00"
     },
     {
       "title": "The Quiet Renovation at Bitwarden",
@@ -259,13 +259,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-15T13:39:54+00:00"
-    },
-    {
-      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
-      "url": "https://signoz.io/careers",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-15T12:00:31+00:00"
     }
   ]
 }
