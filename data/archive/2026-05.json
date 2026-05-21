@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-21T12:04:54.392263+00:00",
+  "generated_at": "2026-05-21T13:35:32.657494+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 349,
@@ -8,9 +8,9 @@
     "project": 1
   },
   "severity_counts": {
+    "high": 3,
     "medium": 5,
-    "critical": 11,
-    "high": 2
+    "critical": 11
   },
   "top_articles": [
     {
@@ -30,7 +30,7 @@
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1223,
+      "score": 1267,
       "source": "hn",
       "date": "2026-05-20T19:05:30+00:00"
     },
@@ -42,18 +42,18 @@
       "date": "2026-05-18T17:38:22+00:00"
     },
     {
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "score": 932,
+      "source": "hn",
+      "date": "2026-05-20T13:43:37+00:00"
+    },
+    {
       "title": "Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "score": 923,
       "source": "hn",
       "date": "2026-05-19T17:43:45+00:00"
-    },
-    {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 895,
-      "source": "hn",
-      "date": "2026-05-20T13:43:37+00:00"
     },
     {
       "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+      "url": "https://fatgid.io/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-21T12:15:02+00:00"
+    },
     {
       "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
       "url": "https://legiscan.com/CO/bill/SB051/2026",
