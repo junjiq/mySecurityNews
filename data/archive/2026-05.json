@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-21T07:51:07.725848+00:00",
+  "generated_at": "2026-05-21T09:09:57.200767+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 359,
-    "zennqiita": 91,
+    "hn": 349,
+    "zennqiita": 101,
     "project": 1
   },
   "severity_counts": {
     "medium": 6,
     "critical": 12,
-    "high": 3
+    "high": 2
   },
   "top_articles": [
     {
@@ -28,16 +28,9 @@
       "date": "2026-05-19T15:07:45+00:00"
     },
     {
-      "title": "Project Gutenberg – keeps getting better",
-      "url": "https://www.gutenberg.org/",
-      "score": 1157,
-      "source": "hn",
-      "date": "2026-05-15T16:15:36+00:00"
-    },
-    {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1061,
+      "score": 1129,
       "source": "hn",
       "date": "2026-05-20T19:05:30+00:00"
     },
@@ -72,7 +65,7 @@
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 767,
+      "score": 818,
       "source": "hn",
       "date": "2026-05-20T13:43:37+00:00"
     },
@@ -152,6 +145,13 @@
       "score": 589,
       "source": "hn",
       "date": "2026-05-16T20:13:41+00:00"
+    },
+    {
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "url": "https://github.com/zakirullin/files.md",
+      "score": 588,
+      "source": "hn",
+      "date": "2026-05-18T13:33:33+00:00"
     }
   ],
   "security_highlights": [
@@ -161,6 +161,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-20T20:28:18+00:00"
+    },
+    {
+      "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
+      "url": "https://qiita.com/emi_ndk/items/6f1ddbe26cf5c5200aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-05-20T20:18:57+09:00"
     },
     {
       "title": "Dumb ways for an open source project to die",
@@ -245,20 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-15T17:03:22+00:00"
-    },
-    {
-      "title": "Check Your Fucking Sources, People",
-      "url": "https://brodzinski.com/2026/05/check-fcking-sources.html",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-15T14:08:00+00:00"
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-15T13:39:54+00:00"
     }
   ]
 }
