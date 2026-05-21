@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-21T22:52:46.211563+00:00",
+  "generated_at": "2026-05-21T23:24:10.027404+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99,
+    "hn": 352,
+    "zennqiita": 98,
     "project": 1
   },
   "severity_counts": {
+    "critical": 12,
     "high": 3,
-    "medium": 4,
-    "critical": 11
+    "medium": 4
   },
   "top_articles": [
     {
@@ -30,7 +30,7 @@
     {
       "title": "Flipper One – we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 990,
+      "score": 1012,
       "source": "hn",
       "date": "2026-05-21T11:03:38+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Open-source .docx editor library for building document apps",
+      "url": "https://github.com/eigenpal/docx-editor",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-21T20:23:37+00:00"
+    },
     {
       "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
       "url": "https://fatgid.io/",
