@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-21T19:12:23.605068+00:00",
+  "updated_at": "2026-05-21T20:09:54.942832+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48227397",
+      "source": "hn",
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "score": 5,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-05-21T18:54:55+00:00"
+    },
     {
       "id": "hn-48226944",
       "source": "hn",
       "title": "BBEdit 16",
       "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
-      "score": 76,
-      "comments": 8,
+      "score": 127,
+      "comments": 26,
       "author": "qaz_plm",
       "tags": [],
       "date": "2026-05-21T18:21:37+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "Where are all the UK red telephone kiosks?",
       "url": "https://www.thek6project.co.uk/",
-      "score": 21,
-      "comments": 4,
+      "score": 34,
+      "comments": 21,
       "author": "Kaibeezy",
       "tags": [],
       "date": "2026-05-21T18:04:17+00:00"
@@ -27,10 +38,10 @@
     {
       "id": "hn-48226588",
       "source": "hn",
-      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
       "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "score": 207,
-      "comments": 61,
+      "score": 321,
+      "comments": 118,
       "author": "root-parent",
       "tags": [],
       "date": "2026-05-21T17:55:58+00:00"
@@ -40,8 +51,8 @@
       "source": "hn",
       "title": "Chewing gum restores dad's taste and smell years after Covid",
       "url": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
-      "score": 60,
-      "comments": 19,
+      "score": 85,
+      "comments": 40,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-21T17:14:56+00:00"
@@ -49,10 +60,10 @@
     {
       "id": "hn-48225838",
       "source": "hn",
-      "title": "More than 340 local news outlets are limiting the Internet Archive's access",
+      "title": "News outlets are limiting the Internet Archive’s access to their journalism",
       "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-      "score": 71,
-      "comments": 14,
+      "score": 120,
+      "comments": 38,
       "author": "jaredwiener",
       "tags": [],
       "date": "2026-05-21T16:59:27+00:00"
@@ -95,8 +106,8 @@
       "source": "hn",
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 182,
-      "comments": 51,
+      "score": 237,
+      "comments": 68,
       "author": "speleo",
       "tags": [],
       "date": "2026-05-21T16:23:11+00:00"
@@ -106,8 +117,8 @@
       "source": "hn",
       "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
       "url": "https://www.runtm.com/",
-      "score": 33,
-      "comments": 10,
+      "score": 41,
+      "comments": 15,
       "author": "gustrigos",
       "tags": [],
       "date": "2026-05-21T16:07:13+00:00"
@@ -117,8 +128,8 @@
       "source": "hn",
       "title": "Museum of Pocket Calculating Devices",
       "url": "https://www.calculators.de/",
-      "score": 34,
-      "comments": 6,
+      "score": 44,
+      "comments": 7,
       "author": "ohjeez",
       "tags": [],
       "date": "2026-05-21T15:50:04+00:00"
@@ -135,12 +146,23 @@
       "date": "2026-05-21T14:50:34+00:00"
     },
     {
+      "id": "hn-48223362",
+      "source": "hn",
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "url": "https://freenet.org/",
+      "score": 51,
+      "comments": 7,
+      "author": "sanity",
+      "tags": [],
+      "date": "2026-05-21T14:34:57+00:00"
+    },
+    {
       "id": "hn-48223303",
       "source": "hn",
       "title": "Michael Keating has died",
       "url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
-      "score": 73,
-      "comments": 34,
+      "score": 78,
+      "comments": 35,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-21T14:31:33+00:00"
@@ -161,8 +183,8 @@
       "source": "hn",
       "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
       "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-      "score": 174,
-      "comments": 60,
+      "score": 200,
+      "comments": 67,
       "author": "asenna",
       "tags": [],
       "date": "2026-05-21T14:01:37+00:00"
@@ -249,8 +271,8 @@
       "source": "hn",
       "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
       "url": "https://fatgid.io/",
-      "score": 69,
-      "comments": 30,
+      "score": 77,
+      "comments": 33,
       "author": "WhyNotHugo",
       "tags": [],
       "date": "2026-05-21T12:15:02+00:00",
@@ -283,8 +305,8 @@
       "source": "hn",
       "title": "Python 3.15: features that didn't make the headlines",
       "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "score": 249,
-      "comments": 120,
+      "score": 276,
+      "comments": 125,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-21T11:10:11+00:00"
@@ -294,8 +316,8 @@
       "source": "hn",
       "title": "Flipper One – we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 844,
-      "comments": 369,
+      "score": 889,
+      "comments": 379,
       "author": "sandebert",
       "tags": [],
       "date": "2026-05-21T11:03:38+00:00"
@@ -305,8 +327,8 @@
       "source": "hn",
       "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
       "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "score": 215,
-      "comments": 64,
+      "score": 233,
+      "comments": 71,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-05-21T11:02:26+00:00"
@@ -338,8 +360,8 @@
       "source": "hn",
       "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
       "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "score": 496,
-      "comments": 418,
+      "score": 508,
+      "comments": 429,
       "author": "sofumel",
       "tags": [],
       "date": "2026-05-21T09:49:46+00:00"
@@ -382,8 +404,8 @@
       "source": "hn",
       "title": "Vivaldi 8.0",
       "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "score": 271,
-      "comments": 207,
+      "score": 288,
+      "comments": 212,
       "author": "OuterVale",
       "tags": [],
       "date": "2026-05-21T07:21:55+00:00"
@@ -1439,8 +1461,8 @@
       "source": "hn",
       "title": "What Is Happening to Publishing?",
       "url": "https://resobscura.substack.com/p/what-is-happening-to-publishing",
-      "score": 47,
-      "comments": 17,
+      "score": 56,
+      "comments": 35,
       "author": "benbreen",
       "tags": [],
       "date": "2026-05-19T20:23:44+00:00"
@@ -1782,6 +1804,17 @@
       "date": "2026-05-19T14:04:19+00:00"
     },
     {
+      "id": "hn-48193089",
+      "source": "hn",
+      "title": "When Rails-way does not work anymore?",
+      "url": "https://paweldabrowski.com/farewell-to-rails-way/when-rails-way-does-not-work",
+      "score": 7,
+      "comments": 4,
+      "author": "pdabrowski6",
+      "tags": [],
+      "date": "2026-05-19T13:28:42+00:00"
+    },
+    {
       "id": "hn-48193055",
       "source": "hn",
       "title": "New Lifetime Plex Pass Pricing",
@@ -1899,8 +1932,8 @@
       "source": "hn",
       "title": "Bournegol???",
       "url": "https://oldhome.schmorp.de/marc/bournegol.html",
-      "score": 11,
-      "comments": 1,
+      "score": 21,
+      "comments": 3,
       "author": "greyface-",
       "tags": [],
       "date": "2026-05-19T09:32:58+00:00"
@@ -1932,8 +1965,8 @@
       "source": "hn",
       "title": "Mounting Git commits as folders with NFS",
       "url": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
-      "score": 57,
-      "comments": 35,
+      "score": 68,
+      "comments": 37,
       "author": "pvtmert",
       "tags": [],
       "date": "2026-05-19T07:32:56+00:00"
@@ -5148,40 +5181,6 @@
         "Qiita"
       ],
       "date": "2026-05-16T11:17:43+09:00"
-    },
-    {
-      "id": "hn-48156186",
-      "source": "hn",
-      "title": "Two computers, one monitor, zero fiddling (2025)",
-      "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
-      "score": 224,
-      "comments": 130,
-      "author": "ankitg12",
-      "tags": [],
-      "date": "2026-05-16T02:13:19+00:00"
-    },
-    {
-      "id": "hn-48155936",
-      "source": "hn",
-      "title": "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
-      "url": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
-      "score": 128,
-      "comments": 62,
-      "author": "walterbell",
-      "tags": [],
-      "date": "2026-05-16T01:25:29+00:00"
-    },
-    {
-      "id": "hn-48155768",
-      "source": "hn",
-      "title": "Legacy Update for Windows 8.1 for x64-based Systems",
-      "url": "https://legacyupdate.net/download-center/download/51025/update-for-windows-8.1-x64-kb3132080",
-      "score": 8,
-      "comments": 5,
-      "author": "kristianp",
-      "tags": [],
-      "date": "2026-05-16T00:53:27+00:00",
-      "severity": "medium"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
