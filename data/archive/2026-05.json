@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-21T09:09:57.200767+00:00",
+  "generated_at": "2026-05-21T10:45:10.401867+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 349,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 6,
-    "critical": 12,
+    "critical": 11,
     "high": 2
   },
   "top_articles": [
@@ -30,7 +30,7 @@
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1129,
+      "score": 1193,
       "source": "hn",
       "date": "2026-05-20T19:05:30+00:00"
     },
@@ -65,7 +65,7 @@
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 818,
+      "score": 864,
       "source": "hn",
       "date": "2026-05-20T13:43:37+00:00"
     },
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-16T12:06:21+00:00"
-    },
-    {
-      "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
-      "url": "https://github.com/sleuth-io/sx",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-15T17:03:22+00:00"
     }
   ]
 }
