@@ -1,7 +1,7 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-21T04:57:21.852298+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-05-21T06:28:18.838204+00:00",
+  "total_articles": 52,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,8 +15,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 50,
       "top_items": [
+        {
+          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+          "score": 992,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-20T19:05:30+00:00"
+        },
         {
           "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
           "url": "https://www.alqst.org/ar/posts/1190",
@@ -26,12 +34,12 @@
           "date": "2026-05-20T12:43:41+00:00"
         },
         {
-          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-          "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-          "score": 888,
+          "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+          "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+          "score": 723,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-20T19:05:30+00:00"
+          "date": "2026-05-20T13:43:37+00:00"
         },
         {
           "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
@@ -40,14 +48,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-20T13:02:30+00:00"
-        },
-        {
-          "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-          "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-          "score": 648,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-20T13:43:37+00:00"
         },
         {
           "title": "Qwen3.7-Max: The Agent Frontier",
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 2,
       "top_items": [
         {
           "title": "Oracle Interconnect for AWS のプレビュー版をためしてみてみた",
@@ -78,30 +78,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-21T00:02:03+09:00"
-        },
-        {
-          "title": "Gemini Omniを使ってみた【Gemini 3.5 Flash】",
-          "url": "https://qiita.com/mikaka/items/4e900383576636d63968?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-20T14:48:24+09:00"
-        },
-        {
-          "title": "Copilot Studio の新しいワークフローを試してみた",
-          "url": "https://qiita.com/Takashi_Masumori/items/c27ebe7c794b4c597957?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-20T14:32:11+09:00"
-        },
-        {
-          "title": "Google I/O 2026 初日に出てきたAndroid開発関連の情報まとめ",
-          "url": "https://qiita.com/Nabe1216/items/109d5a2feb173ae2045b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-20T14:30:46+09:00"
         }
       ]
     }
