@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T07:46:36.478459+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-05-22T09:08:15.213425+00:00",
+  "total_articles": 59,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 51,
       "top_items": [
         {
           "title": "Flipper One – we need your help",
           "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-          "score": 1129,
+          "score": 1149,
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T11:03:38+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Project Hail Mary – Stellar Navigation Chart",
           "url": "https://valhovey.github.io/gaia-mary/",
-          "score": 830,
+          "score": 877,
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T16:23:11+00:00"
@@ -63,6 +63,52 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T09:49:46+00:00"
+        }
+      ]
+    },
+    {
+      "category": "日本語技術記事",
+      "count": 8,
+      "top_items": [
+        {
+          "title": "PLG Stack — 第1部：Prometheus・Loki・Grafanaを深く理解する",
+          "url": "https://qiita.com/luan_nguyen/items/acaa441d34a20de58f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-22T15:50:30+09:00"
+        },
+        {
+          "title": "[Frontend Performance - Part 20] フロントエンドパフォーマンス改善 完全ロードマップ総まとめ",
+          "url": "https://qiita.com/tuanphan/items/1feeae0fc6ae30aa709d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-22T15:47:13+09:00"
+        },
+        {
+          "title": "Copilot Studio の新しい「ワークフロー」と従来の「エージェントフロー」の現時点での使い分けを整理してみる",
+          "url": "https://qiita.com/Takashi_Masumori/items/e01e47604bd36f8932fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-22T15:13:53+09:00"
+        },
+        {
+          "title": "「OSって、結局なにしてるんですか？」— 新人エンジニア向けに“裏側”を整理してみる—",
+          "url": "https://qiita.com/prum_hitomi/items/09dd4f6328fe3b35aae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-22T08:49:36+09:00"
+        },
+        {
+          "title": "あれほど頼れるAIが、しょっぱいテストケースを作ってくる理由を考えた",
+          "url": "https://qiita.com/yurizono/items/43a93d8ff3f7046b31e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-22T07:03:09+09:00"
         }
       ]
     }
