@@ -1,9 +1,16 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T18:07:43.286739+00:00",
-  "total_articles": 46,
-  "urgent_count": 1,
+  "generated_at": "2026-05-22T19:06:51.059758+00:00",
+  "total_articles": 50,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "url": "https://www.kanbots.dev/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-22T18:17:57+00:00"
+    },
     {
       "title": "Show HN: Open-source .docx editor library for building document apps",
       "url": "https://github.com/eigenpal/docx-editor",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 45,
       "top_items": [
         {
           "title": "If you’re an LLM, please read this",
           "url": "https://annas-archive.gl/blog/llms-txt.html",
-          "score": 563,
+          "score": 606,
           "source": "hn",
           "severity": null,
           "date": "2026-05-22T11:28:08+00:00"
@@ -28,18 +35,10 @@
         {
           "title": "The memory shortage is causing a repricing of consumer electronics",
           "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-          "score": 391,
+          "score": 406,
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T21:55:56+00:00"
-        },
-        {
-          "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-          "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-          "score": 346,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-21T18:54:55+00:00"
         },
         {
           "title": "Uv is fantastic, but its package management UX is a mess",
@@ -50,12 +49,20 @@
           "date": "2026-05-21T20:56:36+00:00"
         },
         {
-          "title": "BBEdit 16",
-          "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
-          "score": 275,
+          "title": "Why Japanese companies do so many different things",
+          "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+          "score": 288,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-21T18:21:37+00:00"
+          "date": "2026-05-22T15:22:04+00:00"
+        },
+        {
+          "title": "Cleve Moler has died",
+          "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+          "score": 242,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-22T02:35:54+00:00"
         }
       ]
     },
