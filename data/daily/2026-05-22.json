@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T10:32:06.458102+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-05-22T11:56:11.430719+00:00",
+  "total_articles": 51,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,20 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 45,
       "top_items": [
-        {
-          "title": "Flipper One – we need your help",
-          "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-          "score": 1161,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-21T11:03:38+00:00"
-        },
         {
           "title": "Project Hail Mary – Stellar Navigation Chart",
           "url": "https://valhovey.github.io/gaia-mary/",
-          "score": 935,
+          "score": 965,
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T16:23:11+00:00"
@@ -63,12 +55,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T17:55:58+00:00"
+        },
+        {
+          "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+          "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+          "score": 405,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-21T14:01:37+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 6,
       "top_items": [
         {
           "title": "PLG Stack — 第1部：Prometheus・Loki・Grafanaを深く理解する",

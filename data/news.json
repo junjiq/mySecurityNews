@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-05-22T10:32:06.389758+00:00",
+  "updated_at": "2026-05-22T11:56:11.352144+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48234252",
+      "source": "hn",
+      "title": "Chess Invariants",
+      "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+      "score": 4,
+      "comments": 1,
+      "author": "ingve",
+      "tags": [],
+      "date": "2026-05-22T11:06:52+00:00"
+    },
+    {
+      "id": "hn-48234128",
+      "source": "hn",
+      "title": "The case against boolean logic",
+      "url": "https://abuseofnotation.github.io/boolean-thinking/",
+      "score": 29,
+      "comments": 14,
+      "author": "boris_m",
+      "tags": [],
+      "date": "2026-05-22T10:45:16+00:00"
+    },
     {
       "id": "hn-48233939",
       "source": "hn",
       "title": "FSFE intervenes against Apple before EUCJ for the second time",
       "url": "https://fsfe.org/news/2026/news-20260519-01.en.html",
-      "score": 5,
-      "comments": 0,
+      "score": 32,
+      "comments": 2,
       "author": "M95D",
       "tags": [],
       "date": "2026-05-22T10:09:03+00:00"
@@ -79,8 +101,8 @@
       "source": "hn",
       "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
       "url": "https://arxiv.org/abs/2605.19269",
-      "score": 68,
-      "comments": 7,
+      "score": 80,
+      "comments": 8,
       "author": "matt_d",
       "tags": [],
       "date": "2026-05-22T04:54:33+00:00"
@@ -101,8 +123,8 @@
       "source": "hn",
       "title": "Slumber a TUI HTTP Client",
       "url": "https://slumber.lucaspickering.me",
-      "score": 83,
-      "comments": 29,
+      "score": 102,
+      "comments": 34,
       "author": "jicea",
       "tags": [],
       "date": "2026-05-22T04:29:23+00:00"
@@ -123,8 +145,8 @@
       "source": "hn",
       "title": "Cleve Moler has died",
       "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-      "score": 112,
-      "comments": 13,
+      "score": 138,
+      "comments": 14,
       "author": "mychele",
       "tags": [],
       "date": "2026-05-22T02:35:54+00:00"
@@ -193,8 +215,8 @@
       "source": "hn",
       "title": "The memory shortage is causing a repricing of consumer electronics",
       "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-      "score": 216,
-      "comments": 239,
+      "score": 250,
+      "comments": 299,
       "author": "d0ks",
       "tags": [],
       "date": "2026-05-21T21:55:56+00:00"
@@ -215,8 +237,8 @@
       "source": "hn",
       "title": "Uv is fantastic, but its package management UX is a mess",
       "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-      "score": 214,
-      "comments": 110,
+      "score": 234,
+      "comments": 113,
       "author": "nchagnet",
       "tags": [],
       "date": "2026-05-21T20:56:36+00:00"
@@ -238,8 +260,8 @@
       "source": "hn",
       "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
       "url": "https://arxiv.org/abs/2605.12460",
-      "score": 109,
-      "comments": 12,
+      "score": 120,
+      "comments": 13,
       "author": "atomicthumbs",
       "tags": [],
       "date": "2026-05-21T19:37:26+00:00"
@@ -249,8 +271,8 @@
       "source": "hn",
       "title": "Using Kagi Search with Low Vision",
       "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "score": 204,
-      "comments": 69,
+      "score": 213,
+      "comments": 71,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-21T19:32:16+00:00"
@@ -260,8 +282,8 @@
       "source": "hn",
       "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
       "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "score": 293,
-      "comments": 152,
+      "score": 307,
+      "comments": 157,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-21T18:54:55+00:00"
@@ -359,8 +381,8 @@
       "source": "hn",
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 935,
-      "comments": 201,
+      "score": 965,
+      "comments": 203,
       "author": "speleo",
       "tags": [],
       "date": "2026-05-21T16:23:11+00:00"
@@ -370,7 +392,7 @@
       "source": "hn",
       "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
       "url": "https://www.runtm.com/",
-      "score": 88,
+      "score": 92,
       "comments": 23,
       "author": "gustrigos",
       "tags": [],
@@ -416,8 +438,8 @@
       "source": "hn",
       "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
       "url": "https://freenet.org/",
-      "score": 289,
-      "comments": 175,
+      "score": 302,
+      "comments": 182,
       "author": "sanity",
       "tags": [],
       "date": "2026-05-21T14:34:57+00:00"
@@ -449,8 +471,8 @@
       "source": "hn",
       "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
       "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-      "score": 386,
-      "comments": 115,
+      "score": 405,
+      "comments": 119,
       "author": "asenna",
       "tags": [],
       "date": "2026-05-21T14:01:37+00:00"
@@ -597,8 +619,8 @@
       "source": "hn",
       "title": "Python 3.15: features that didn't make the headlines",
       "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "score": 378,
-      "comments": 190,
+      "score": 386,
+      "comments": 193,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-21T11:10:11+00:00"
@@ -608,8 +630,8 @@
       "source": "hn",
       "title": "Flipper One – we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 1161,
-      "comments": 444,
+      "score": 1179,
+      "comments": 452,
       "author": "sandebert",
       "tags": [],
       "date": "2026-05-21T11:03:38+00:00"
@@ -619,8 +641,8 @@
       "source": "hn",
       "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
       "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "score": 355,
-      "comments": 104,
+      "score": 364,
+      "comments": 107,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-05-21T11:02:26+00:00"
@@ -1160,8 +1182,8 @@
       "source": "hn",
       "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
       "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
-      "score": 98,
-      "comments": 12,
+      "score": 105,
+      "comments": 14,
       "author": "mooreds",
       "tags": [],
       "date": "2026-05-20T16:01:26+00:00"
@@ -1182,8 +1204,8 @@
       "source": "hn",
       "title": "The surprising story behind the first British person in space",
       "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
-      "score": 62,
-      "comments": 17,
+      "score": 70,
+      "comments": 26,
       "author": "xoxxala",
       "tags": [],
       "date": "2026-05-20T15:47:26+00:00"
@@ -1964,7 +1986,7 @@
       "source": "hn",
       "title": "Deciphering the Hashihara Castle Town Map",
       "url": "https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html",
-      "score": 49,
+      "score": 56,
       "comments": 0,
       "author": "1970-01-01",
       "tags": [],
@@ -2268,8 +2290,8 @@
       "source": "hn",
       "title": "The death of the brick and mortar toy store",
       "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
-      "score": 93,
-      "comments": 94,
+      "score": 100,
+      "comments": 108,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-19T12:48:20+00:00"
@@ -2955,8 +2977,8 @@
       "source": "hn",
       "title": "Was my $48K GPU server worth it?",
       "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "score": 459,
-      "comments": 334,
+      "score": 477,
+      "comments": 351,
       "author": "apwheele",
       "tags": [],
       "date": "2026-05-18T19:33:03+00:00"
@@ -5173,28 +5195,6 @@
       "date": "2026-05-16T17:31:35+00:00"
     },
     {
-      "id": "hn-48161997",
-      "source": "hn",
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "score": 116,
-      "comments": 79,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-05-16T17:12:58+00:00"
-    },
-    {
-      "id": "hn-48161974",
-      "source": "hn",
-      "title": "Technofascism",
-      "url": "https://third-bit.com/2026/05/15/technofascism/",
-      "score": 68,
-      "comments": 14,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-05-16T17:10:56+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-310617486",
       "source": "project",
       "proj_category": "Tools",
@@ -5391,18 +5391,17 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-486a313670",
+      "id": "zenn-3cd7b91d29",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Salesforceのセキュリティ強化に備えよう（確認・対応すべき項目ざっくりまとめ）",
-      "url": "https://zenn.dev/cariot_dev/articles/b86f16678bc31a",
+      "title": "Rustで自作可逆画像圧縮フォーマット「IVR」を実装したら、特定のVSCODEスクショでPNGの46%サイズになった!",
+      "url": "https://zenn.dev/mugideru/articles/35b209e934ba3e",
       "score": null,
-      "author": "t_endo",
+      "author": "むぎでる",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 21 May 2026 08:32:52 GMT",
-      "severity": "critical"
+      "date": "Thu, 21 May 2026 12:50:05 GMT"
     },
     {
       "id": "zenn-61279a5293",
@@ -5416,6 +5415,19 @@
         "Zenn"
       ],
       "date": "Thu, 21 May 2026 07:31:37 GMT"
+    },
+    {
+      "id": "zenn-1a37788a2d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "既存サービスにMCPサーバーを組み込む際の設計ポイント",
+      "url": "https://zenn.dev/finatext/articles/b404032aec58c4",
+      "score": null,
+      "author": "あつし",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 21 May 2026 06:32:42 GMT"
     },
     {
       "id": "zenn-713401181d",
@@ -5444,17 +5456,17 @@
       "date": "Thu, 21 May 2026 05:00:05 GMT"
     },
     {
-      "id": "zenn-d53a058b2b",
+      "id": "zenn-2bb7e330cf",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Clojurianが出会ったsimple志向なJVM関数型言語Flix ——ファーストインプレッション",
-      "url": "https://zenn.dev/lagenorhynque/articles/fd102acdedea21",
+      "title": "電話でメールアドレスを読まされる問題を6桁で解決した話",
+      "url": "https://zenn.dev/shuhei_kanki/articles/8fa8b87924bf50",
       "score": null,
-      "author": "lagénorhynque/カマイルカ",
+      "author": "Shuhei Kanki / パシる(PASHIRU)",
       "tags": [
         "Zenn"
       ],
-      "date": "Thu, 21 May 2026 04:21:40 GMT"
+      "date": "Thu, 21 May 2026 03:14:39 GMT"
     },
     {
       "id": "zenn-72d0726301",
@@ -5574,45 +5586,6 @@
       "date": "Wed, 20 May 2026 09:00:00 GMT"
     },
     {
-      "id": "zenn-d4a91f1527",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "個人開発 OSS など大抵は見向きもされないが、それでも4年かけて開発した地図アプリを今日、俺は公開する",
-      "url": "https://zenn.dev/marudev/articles/12e14d4f67c5b1",
-      "score": null,
-      "author": "itsuki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 20 May 2026 08:00:07 GMT"
-    },
-    {
-      "id": "zenn-66472aac1c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Code のサブエージェント構成は、業務形態で大きく変わる — 1人多案件横断者の設計例",
-      "url": "https://zenn.dev/sprix_it/articles/53c746eb9cf31c",
-      "score": null,
-      "author": "いけ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 20 May 2026 07:09:39 GMT"
-    },
-    {
-      "id": "zenn-c9b0ccfbd8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Local Coding Agent が身近なタスクをどれくらいこなせるのかを検証した",
-      "url": "https://zenn.dev/aishift/articles/5b048ff347fd7b",
-      "score": null,
-      "author": "t.toda",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 20 May 2026 00:26:49 GMT"
-    },
-    {
       "id": "zenn-3154de80ed",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5650,6 +5623,32 @@
         "Zenn"
       ],
       "date": "Tue, 19 May 2026 15:11:58 GMT"
+    },
+    {
+      "id": "zenn-a4550f3599",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "React CompilerをannotationモードとOxlintで漸進的に導入する",
+      "url": "https://zenn.dev/dress_code/articles/92dfb9206f50f3",
+      "score": null,
+      "author": "ぷーじ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 19 May 2026 10:00:00 GMT"
+    },
+    {
+      "id": "zenn-082211bed4",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "回帰分析って知ってる？―完全に理解した人へ贈る絶望の谷",
+      "url": "https://zenn.dev/green_tea/articles/0bce4d47ab0674",
+      "score": null,
+      "author": "redtea",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 19 May 2026 02:50:05 GMT"
     },
     {
       "id": "edb-b9aff2f39d",
