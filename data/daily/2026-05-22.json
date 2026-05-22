@@ -1,33 +1,33 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T20:10:05.242447+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-05-22T20:57:30.831365+00:00",
+  "total_articles": 57,
   "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "url": "https://github.com/anomalyco/models.dev",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-22T20:26:07+00:00"
+    },
     {
       "title": "Open source Kanban desktop app that runs parallel agents on every card",
       "url": "https://www.kanbots.dev/",
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-22T18:17:57+00:00"
-    },
-    {
-      "title": "Show HN: Open-source .docx editor library for building document apps",
-      "url": "https://github.com/eigenpal/docx-editor",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-21T20:23:37+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 49,
       "top_items": [
         {
           "title": "If you’re an LLM, please read this",
           "url": "https://annas-archive.gl/blog/llms-txt.html",
-          "score": 632,
+          "score": 652,
           "source": "hn",
           "severity": null,
           "date": "2026-05-22T11:28:08+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "The memory shortage is causing a repricing of consumer electronics",
           "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-          "score": 406,
+          "score": 422,
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T21:55:56+00:00"
@@ -43,18 +43,10 @@
         {
           "title": "Why Japanese companies do so many different things",
           "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-          "score": 330,
+          "score": 354,
           "source": "hn",
           "severity": null,
           "date": "2026-05-22T15:22:04+00:00"
-        },
-        {
-          "title": "Uv is fantastic, but its package management UX is a mess",
-          "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-          "score": 298,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-21T20:56:36+00:00"
         },
         {
           "title": "Cleve Moler has died",
@@ -63,13 +55,37 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-22T02:35:54+00:00"
+        },
+        {
+          "title": "Deno 2.8",
+          "url": "https://deno.com/blog/v2.8",
+          "score": 239,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-22T11:23:30+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 8,
       "top_items": [
+        {
+          "title": "DataScience&DataEngineering MeetUp #2 レポート",
+          "url": "https://qiita.com/mshdtksk/items/99757a2cd422e582bba9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-22T22:56:10+09:00"
+        },
+        {
+          "title": "Mac→Ubuntu（UTM）SSH接続で「Connection closed by port 22」が出たときの対処法",
+          "url": "https://qiita.com/inorin__62/items/6a15efcf60f954a89373?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-22T17:39:30+09:00"
+        },
         {
           "title": "PLG Stack — 第1部：Prometheus・Loki・Grafanaを深く理解する",
           "url": "https://qiita.com/luan_nguyen/items/acaa441d34a20de58f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -87,28 +103,12 @@
           "date": "2026-05-22T15:47:13+09:00"
         },
         {
-          "title": "Copilot Studio の新しい「ワークフロー」と従来の「エージェントフロー」の現時点での使い分けを整理してみる",
-          "url": "https://qiita.com/Takashi_Masumori/items/e01e47604bd36f8932fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "New Relic Synthetics Recorderを使って、ノーコードで高度なユーザー体験監視（外形監視）を始めよう！",
+          "url": "https://qiita.com/nr-mito/items/6021fb510d99df8d5e8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-22T15:13:53+09:00"
-        },
-        {
-          "title": "「OSって、結局なにしてるんですか？」— 新人エンジニア向けに“裏側”を整理してみる—",
-          "url": "https://qiita.com/prum_hitomi/items/09dd4f6328fe3b35aae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-22T08:49:36+09:00"
-        },
-        {
-          "title": "あれほど頼れるAIが、しょっぱいテストケースを作ってくる理由を考えた",
-          "url": "https://qiita.com/yurizono/items/43a93d8ff3f7046b31e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-22T07:03:09+09:00"
+          "date": "2026-05-22T15:33:26+09:00"
         }
       ]
     }

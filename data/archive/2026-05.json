@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-22T20:10:05.286491+00:00",
+  "generated_at": "2026-05-22T20:57:30.874204+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 353,
-    "zennqiita": 97,
+    "hn": 352,
+    "zennqiita": 98,
     "project": 1
   },
   "severity_counts": {
+    "critical": 10,
     "medium": 6,
-    "critical": 9,
     "high": 3
   },
   "top_articles": [
@@ -37,7 +37,7 @@
     {
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 1095,
+      "score": 1106,
       "source": "hn",
       "date": "2026-05-21T16:23:11+00:00"
     },
@@ -112,18 +112,18 @@
       "date": "2026-05-20T13:02:30+00:00"
     },
     {
+      "title": "If you’re an LLM, please read this",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "score": 652,
+      "source": "hn",
+      "date": "2026-05-22T11:28:08+00:00"
+    },
+    {
       "title": "Google changes its search box",
       "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
       "score": 633,
       "source": "hn",
       "date": "2026-05-19T18:34:27+00:00"
-    },
-    {
-      "title": "If you’re an LLM, please read this",
-      "url": "https://annas-archive.gl/blog/llms-txt.html",
-      "score": 632,
-      "source": "hn",
-      "date": "2026-05-22T11:28:08+00:00"
     },
     {
       "title": "Qwen3.7-Max: The Agent Frontier",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "url": "https://github.com/anomalyco/models.dev",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-22T20:26:07+00:00"
+    },
     {
       "title": "Open source Kanban desktop app that runs parallel agents on every card",
       "url": "https://www.kanbots.dev/",
