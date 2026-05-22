@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T16:18:17.019448+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-05-22T17:15:33.725695+00:00",
+  "total_articles": 45,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,20 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 40,
       "top_items": [
-        {
-          "title": "Project Hail Mary – Stellar Navigation Chart",
-          "url": "https://valhovey.github.io/gaia-mary/",
-          "score": 1045,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-21T16:23:11+00:00"
-        },
         {
           "title": "If you’re an LLM, please read this",
           "url": "https://annas-archive.gl/blog/llms-txt.html",
-          "score": 484,
+          "score": 527,
           "source": "hn",
           "severity": null,
           "date": "2026-05-22T11:28:08+00:00"
@@ -44,7 +36,7 @@
         {
           "title": "The memory shortage is causing a repricing of consumer electronics",
           "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-          "score": 359,
+          "score": 375,
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T21:55:56+00:00"
@@ -52,10 +44,18 @@
         {
           "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
           "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-          "score": 338,
+          "score": 342,
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T18:54:55+00:00"
+        },
+        {
+          "title": "Uv is fantastic, but its package management UX is a mess",
+          "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+          "score": 292,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-21T20:56:36+00:00"
         }
       ]
     },
