@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T15:04:40.345667+00:00",
-  "total_articles": 46,
+  "generated_at": "2026-05-22T16:18:17.019448+00:00",
+  "total_articles": 48,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,15 +15,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 43,
       "top_items": [
         {
           "title": "Project Hail Mary – Stellar Navigation Chart",
           "url": "https://valhovey.github.io/gaia-mary/",
-          "score": 1021,
+          "score": 1045,
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T16:23:11+00:00"
+        },
+        {
+          "title": "If you’re an LLM, please read this",
+          "url": "https://annas-archive.gl/blog/llms-txt.html",
+          "score": 484,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-22T11:28:08+00:00"
         },
         {
           "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
@@ -34,34 +42,26 @@
           "date": "2026-05-21T17:55:58+00:00"
         },
         {
-          "title": "If you’re an LLM, please read this",
-          "url": "https://annas-archive.gl/blog/llms-txt.html",
-          "score": 399,
+          "title": "The memory shortage is causing a repricing of consumer electronics",
+          "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+          "score": 359,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-22T11:28:08+00:00"
+          "date": "2026-05-21T21:55:56+00:00"
         },
         {
           "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
           "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-          "score": 329,
+          "score": 338,
           "source": "hn",
           "severity": null,
           "date": "2026-05-21T18:54:55+00:00"
-        },
-        {
-          "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-          "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-          "score": 322,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-21T16:30:47+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
         {
           "title": "PLG Stack — 第1部：Prometheus・Loki・Grafanaを深く理解する",
