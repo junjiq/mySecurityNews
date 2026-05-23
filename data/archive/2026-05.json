@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-23T22:19:37.874450+00:00",
+  "generated_at": "2026-05-23T22:48:08.993775+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 357,
-    "zennqiita": 93,
+    "hn": 359,
+    "zennqiita": 91,
     "project": 1
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 11,
     "medium": 4,
     "high": 2
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company",
+      "url": "https://zero-arr.vercel.app",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-23T22:25:34+00:00"
+    },
     {
       "title": "z386: An Open-Source 80386 Built Around Original Microcode",
       "url": "https://nand2mario.github.io/posts/2026/z386/",
