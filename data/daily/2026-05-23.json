@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "generated_at": "2026-05-23T09:11:18.079962+00:00",
+  "generated_at": "2026-05-23T10:07:35.339423+00:00",
   "total_articles": 68,
   "urgent_count": 3,
   "urgent_items": [
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 57,
       "top_items": [
         {
           "title": "If you’re an LLM, please read this",
@@ -42,10 +42,18 @@
         {
           "title": "Why Japanese companies do so many different things",
           "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-          "score": 665,
+          "score": 684,
           "source": "hn",
           "severity": null,
           "date": "2026-05-22T15:22:04+00:00"
+        },
+        {
+          "title": "Shipping a laptop to a refugee camp in Uganda",
+          "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+          "score": 461,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-22T21:36:55+00:00"
         },
         {
           "title": "Bun support is now limited and deprecated",
@@ -56,17 +64,9 @@
           "date": "2026-05-22T17:24:12+00:00"
         },
         {
-          "title": "Shipping a laptop to a refugee camp in Uganda",
-          "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-          "score": 431,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-22T21:36:55+00:00"
-        },
-        {
           "title": "Project Glasswing: An Initial Update",
           "url": "https://www.anthropic.com/research/glasswing-initial-update",
-          "score": 428,
+          "score": 433,
           "source": "hn",
           "severity": "medium",
           "date": "2026-05-22T19:31:45+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "日本株は本当に「モメンタムが効かない市場」なのか",
@@ -83,7 +83,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-23T12:41:16+09:00"
+          "date": "2026-05-23T18:47:21+09:00"
         },
         {
           "title": "2025 Japan AWS Jr.Champions としての活動を振り返る",
