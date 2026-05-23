@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-23T14:33:39.870007+00:00",
-  "total_articles": 451,
+  "generated_at": "2026-05-23T15:25:55.826908+00:00",
+  "total_articles": 456,
   "source_counts": {
-    "hn": 351,
+    "hn": 356,
     "zennqiita": 99,
     "project": 1
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 10,
     "medium": 5,
     "high": 2
   },
@@ -79,7 +79,7 @@
     {
       "title": "Why Japanese companies do so many different things",
       "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 760,
+      "score": 774,
       "source": "hn",
       "date": "2026-05-22T15:22:04+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "url": "https://nand2mario.github.io/posts/2026/z386/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-23T14:25:30+00:00"
+    },
     {
       "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
       "url": "https://qiita.com/emi_ndk/items/6f1ddbe26cf5c5200aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",

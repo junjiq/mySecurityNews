@@ -1,9 +1,16 @@
 {
   "date": "2026-05-23",
-  "generated_at": "2026-05-23T14:33:39.832065+00:00",
-  "total_articles": 56,
-  "urgent_count": 3,
+  "generated_at": "2026-05-23T15:25:55.783773+00:00",
+  "total_articles": 57,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "url": "https://nand2mario.github.io/posts/2026/z386/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-23T14:25:30+00:00"
+    },
     {
       "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
       "url": "https://qiita.com/emi_ndk/items/6f1ddbe26cf5c5200aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -32,17 +39,9 @@
       "count": 50,
       "top_items": [
         {
-          "title": "Why Japanese companies do so many different things",
-          "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-          "score": 760,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-22T15:22:04+00:00"
-        },
-        {
           "title": "Shipping a laptop to a refugee camp in Uganda",
           "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-          "score": 569,
+          "score": 583,
           "source": "hn",
           "severity": null,
           "date": "2026-05-22T21:36:55+00:00"
@@ -50,7 +49,7 @@
         {
           "title": "Project Glasswing: An Initial Update",
           "url": "https://www.anthropic.com/research/glasswing-initial-update",
-          "score": 473,
+          "score": 475,
           "source": "hn",
           "severity": "medium",
           "date": "2026-05-22T19:31:45+00:00"
@@ -66,17 +65,33 @@
         {
           "title": "Microsoft starts canceling Claude Code licenses",
           "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-          "score": 364,
+          "score": 376,
           "source": "hn",
           "severity": null,
           "date": "2026-05-22T17:32:04+00:00"
+        },
+        {
+          "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+          "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+          "score": 332,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-22T16:23:08+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 7,
       "top_items": [
+        {
+          "title": "VS Code - z/OS連携 (2)基本構成",
+          "url": "https://qiita.com/tomotagwork/items/063efb533f15d362a206?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-23T23:47:58+09:00"
+        },
         {
           "title": "日本株は本当に「モメンタムが効かない市場」なのか",
           "url": "https://qiita.com/pyon3/items/cfa64a6da695cbfaecf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-23T10:04:34+09:00"
-        },
-        {
-          "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
-          "url": "https://qiita.com/emi_ndk/items/6f1ddbe26cf5c5200aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "critical",
-          "date": "2026-05-23T09:28:45+09:00"
         }
       ]
     }
