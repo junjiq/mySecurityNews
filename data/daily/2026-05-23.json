@@ -1,8 +1,8 @@
 {
   "date": "2026-05-23",
-  "generated_at": "2026-05-23T20:20:58.776437+00:00",
-  "total_articles": 52,
-  "urgent_count": 3,
+  "generated_at": "2026-05-23T20:47:39.414299+00:00",
+  "total_articles": 50,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "z386: An Open-Source 80386 Built Around Original Microcode",
@@ -17,27 +17,28 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-05-23T09:28:45+09:00"
-    },
-    {
-      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "url": "https://github.com/anomalyco/models.dev",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-22T20:26:07+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 38,
       "top_items": [
         {
           "title": "Shipping a laptop to a refugee camp in Uganda",
           "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-          "score": 635,
+          "score": 642,
           "source": "hn",
           "severity": null,
           "date": "2026-05-22T21:36:55+00:00"
+        },
+        {
+          "title": "Texas woman arrested for Facebook post about town water quality",
+          "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+          "score": 365,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-23T18:02:42+00:00"
         },
         {
           "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
@@ -48,17 +49,9 @@
           "date": "2026-05-23T08:24:57+00:00"
         },
         {
-          "title": "Texas woman arrested for Facebook post about town water quality",
-          "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-          "score": 304,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-23T18:02:42+00:00"
-        },
-        {
           "title": "On The <dl> (2021)",
           "url": "https://benmyers.dev/blog/on-the-dl/",
-          "score": 295,
+          "score": 300,
           "source": "hn",
           "severity": null,
           "date": "2026-05-23T13:03:43+00:00"
@@ -66,7 +59,7 @@
         {
           "title": "SpaceX launches Starship v3 rocket",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
-          "score": 278,
+          "score": 284,
           "source": "hn",
           "severity": null,
           "date": "2026-05-22T23:41:55+00:00"
