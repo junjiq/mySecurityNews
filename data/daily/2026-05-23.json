@@ -1,7 +1,7 @@
 {
   "date": "2026-05-23",
-  "generated_at": "2026-05-23T17:23:29.133089+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-05-23T17:49:48.246005+00:00",
+  "total_articles": 49,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 43,
       "top_items": [
         {
           "title": "Shipping a laptop to a refugee camp in Uganda",
           "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-          "score": 611,
+          "score": 617,
           "source": "hn",
           "severity": null,
           "date": "2026-05-22T21:36:55+00:00"
@@ -55,34 +55,34 @@
           "date": "2026-05-22T19:31:45+00:00"
         },
         {
-          "title": "Bun support is now limited and deprecated",
-          "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-          "score": 453,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-22T17:24:12+00:00"
-        },
-        {
-          "title": "Microsoft starts canceling Claude Code licenses",
-          "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-          "score": 410,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-22T17:32:04+00:00"
-        },
-        {
           "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
           "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-          "score": 329,
+          "score": 337,
           "source": "hn",
           "severity": null,
           "date": "2026-05-23T08:24:57+00:00"
+        },
+        {
+          "title": "On The <dl>",
+          "url": "https://benmyers.dev/blog/on-the-dl/",
+          "score": 234,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-23T13:03:43+00:00"
+        },
+        {
+          "title": "Open source Kanban desktop app that runs parallel agents on every card",
+          "url": "https://www.kanbots.dev/",
+          "score": 229,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-05-22T18:17:57+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "VS Code - z/OS連携 (2)基本構成",
