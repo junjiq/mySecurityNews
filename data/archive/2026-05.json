@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-23T03:07:46.562887+00:00",
+  "generated_at": "2026-05-23T04:45:46.213104+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 356,
@@ -10,7 +10,7 @@
   "severity_counts": {
     "critical": 10,
     "medium": 5,
-    "high": 3
+    "high": 2
   },
   "top_articles": [
     {
@@ -238,13 +238,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-17T16:04:08+00:00"
-    },
-    {
-      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-17T13:42:30+00:00"
     }
   ]
 }
