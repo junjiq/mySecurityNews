@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T10:34:33.931677+00:00",
+  "generated_at": "2026-05-24T11:30:16.566169+00:00",
   "total_articles": 51,
   "urgent_count": 3,
   "urgent_items": [
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 45,
       "top_items": [
         {
           "title": "Texas woman arrested for Facebook post about town water quality",
@@ -42,7 +42,7 @@
         {
           "title": "On The <dl> (2021)",
           "url": "https://benmyers.dev/blog/on-the-dl/",
-          "score": 399,
+          "score": 400,
           "source": "hn",
           "severity": null,
           "date": "2026-05-23T13:03:43+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "Time to talk about my writerdeck",
           "url": "https://veronicaexplains.net/my-first-writerdeck/",
-          "score": 374,
+          "score": 383,
           "source": "hn",
           "severity": null,
           "date": "2026-05-23T18:45:37+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "The Art of Money Getting",
           "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-          "score": 294,
+          "score": 306,
           "source": "hn",
           "severity": null,
           "date": "2026-05-23T12:48:02+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
           "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-          "score": 264,
+          "score": 282,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-24T01:21:13+00:00"
@@ -75,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 6,
       "top_items": [
+        {
+          "title": "「OSって、結局なにしてるんですか？」— 新人エンジニア向けに“裏側”を整理してみる—",
+          "url": "https://qiita.com/prum_hitomi/items/09dd4f6328fe3b35aae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-24T20:06:42+09:00"
+        },
         {
           "title": "Claude Managed AgentsでLチカ！（エージェント時代のIoTはこれか？！）",
           "url": "https://qiita.com/moritalous/items/2f4787ef19221773e685?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-23T23:35:11+09:00"
-        },
-        {
-          "title": "「勝てるバックテスト」から「壊れにくい戦略」へ：クオンツ戦略を鍛える無料講義ガイド",
-          "url": "https://qiita.com/tikeda123/items/d9a4efd04959f365a98d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-23T20:48:48+09:00"
         }
       ]
     }
