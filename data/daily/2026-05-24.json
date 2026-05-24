@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T09:38:48.690684+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-05-24T10:34:33.931677+00:00",
+  "total_articles": 51,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 46,
       "top_items": [
         {
           "title": "Texas woman arrested for Facebook post about town water quality",
@@ -42,7 +42,7 @@
         {
           "title": "On The <dl> (2021)",
           "url": "https://benmyers.dev/blog/on-the-dl/",
-          "score": 395,
+          "score": 399,
           "source": "hn",
           "severity": null,
           "date": "2026-05-23T13:03:43+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "Time to talk about my writerdeck",
           "url": "https://veronicaexplains.net/my-first-writerdeck/",
-          "score": 371,
+          "score": 374,
           "source": "hn",
           "severity": null,
           "date": "2026-05-23T18:45:37+00:00"
@@ -58,24 +58,24 @@
         {
           "title": "The Art of Money Getting",
           "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-          "score": 282,
+          "score": 294,
           "source": "hn",
           "severity": null,
           "date": "2026-05-23T12:48:02+00:00"
         },
         {
-          "title": "80386 microcode disassembled",
-          "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-          "score": 251,
+          "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+          "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+          "score": 264,
           "source": "hn",
-          "severity": null,
-          "date": "2026-05-23T12:11:43+00:00"
+          "severity": "critical",
+          "date": "2026-05-24T01:21:13+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 5,
       "top_items": [
         {
           "title": "Claude Managed AgentsでLチカ！（エージェント時代のIoTはこれか？！）",
