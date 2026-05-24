@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-24T21:48:11.548222+00:00",
+  "generated_at": "2026-05-24T22:21:25.628895+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 98,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 1
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "medium": 5,
     "high": 2
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-24T15:25:43+00:00"
+    },
     {
       "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
       "url": "https://apple.github.io/ml-pico/",

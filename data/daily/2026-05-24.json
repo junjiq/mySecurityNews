@@ -1,9 +1,16 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T21:48:11.505551+00:00",
-  "total_articles": 55,
-  "urgent_count": 3,
+  "generated_at": "2026-05-24T22:21:25.577552+00:00",
+  "total_articles": 52,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-24T15:25:43+00:00"
+    },
     {
       "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
       "url": "https://apple.github.io/ml-pico/",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 42,
       "top_items": [
         {
           "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
           "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-          "score": 400,
+          "score": 404,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-24T01:21:13+00:00"
@@ -50,7 +57,7 @@
         {
           "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
           "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-          "score": 339,
+          "score": 361,
           "source": "hn",
           "severity": null,
           "date": "2026-05-24T13:02:06+00:00"
@@ -66,7 +73,7 @@
         {
           "title": "Scammers are abusing an internal Microsoft account to send spam links",
           "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-          "score": 256,
+          "score": 257,
           "source": "hn",
           "severity": null,
           "date": "2026-05-24T00:51:32+00:00"
