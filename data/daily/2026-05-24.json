@@ -1,8 +1,8 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T22:21:25.577552+00:00",
-  "total_articles": 52,
-  "urgent_count": 4,
+  "generated_at": "2026-05-24T22:48:32.945516+00:00",
+  "total_articles": 49,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
@@ -24,24 +24,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-24T01:21:13+00:00"
-    },
-    {
-      "title": "Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company",
-      "url": "https://zero-arr.vercel.app",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-23T22:25:34+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 40,
       "top_items": [
         {
           "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
           "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-          "score": 404,
+          "score": 407,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-24T01:21:13+00:00"
@@ -57,10 +50,18 @@
         {
           "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
           "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-          "score": 361,
+          "score": 376,
           "source": "hn",
           "severity": null,
           "date": "2026-05-24T13:02:06+00:00"
+        },
+        {
+          "title": "Scammers are abusing an internal Microsoft account to send spam links",
+          "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+          "score": 260,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-24T00:51:32+00:00"
         },
         {
           "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
@@ -69,20 +70,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-24T04:14:52+00:00"
-        },
-        {
-          "title": "Scammers are abusing an internal Microsoft account to send spam links",
-          "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-          "score": 257,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-24T00:51:32+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
         {
           "title": "「OSって、結局なにしてるんですか？」— 新人エンジニア向けに“裏側”を整理してみる—",
