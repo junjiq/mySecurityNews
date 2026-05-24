@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T07:34:14.519698+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-05-24T08:53:59.187661+00:00",
+  "total_articles": 54,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 45,
       "top_items": [
         {
           "title": "Texas woman arrested for Facebook post about town water quality",
@@ -42,7 +42,7 @@
         {
           "title": "On The <dl> (2021)",
           "url": "https://benmyers.dev/blog/on-the-dl/",
-          "score": 382,
+          "score": 389,
           "source": "hn",
           "severity": null,
           "date": "2026-05-23T13:03:43+00:00"
@@ -50,33 +50,41 @@
         {
           "title": "Time to talk about my writerdeck",
           "url": "https://veronicaexplains.net/my-first-writerdeck/",
-          "score": 357,
+          "score": 370,
           "source": "hn",
           "severity": null,
           "date": "2026-05-23T18:45:37+00:00"
         },
         {
-          "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-          "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-          "score": 337,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-23T08:24:57+00:00"
-        },
-        {
           "title": "The Art of Money Getting",
           "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-          "score": 267,
+          "score": 280,
           "source": "hn",
           "severity": null,
           "date": "2026-05-23T12:48:02+00:00"
+        },
+        {
+          "title": "80386 microcode disassembled",
+          "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+          "score": 249,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-23T12:11:43+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 9,
       "top_items": [
+        {
+          "title": "Claude Managed AgentsでLチカ！（エージェント時代のIoTはこれか？！）",
+          "url": "https://qiita.com/moritalous/items/2f4787ef19221773e685?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-24T11:37:36+09:00"
+        },
         {
           "title": "人を育てる企業ほど損をする？ ― “囚人のジレンマ”から考える日本経済の構造 : Pythonで学ぶ マクロ経済学入門 (83)",
           "url": "https://qiita.com/maskot1977/items/f3ea6b4dd29e327c0d43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,28 +102,20 @@
           "date": "2026-05-23T23:47:58+09:00"
         },
         {
-          "title": "Qiita記事の毎月投稿を三年間継続できたので振り返ります！",
-          "url": "https://qiita.com/ishi720/items/bac7a492b1b7d5ffe510?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Chandra の Cas A 画像を FFT して遊ぶ：振幅と位相から見る天体画像の構造",
+          "url": "https://qiita.com/sakaimaging/items/adf9eb03fb68531b1720?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-23T19:14:19+09:00"
+          "date": "2026-05-23T23:35:11+09:00"
         },
         {
-          "title": ".NETの不満を解消するStrings.resx編集＆Designer.cs自動生成VS Code拡張機能を作った",
-          "url": "https://qiita.com/hetima/items/a61a1d039e524fa79796?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「勝てるバックテスト」から「壊れにくい戦略」へ：クオンツ戦略を鍛える無料講義ガイド",
+          "url": "https://qiita.com/tikeda123/items/d9a4efd04959f365a98d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-23T19:00:32+09:00"
-        },
-        {
-          "title": "日本株は本当に「モメンタムが効かない市場」なのか",
-          "url": "https://qiita.com/pyon3/items/cfa64a6da695cbfaecf4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-23T18:47:21+09:00"
+          "date": "2026-05-23T20:48:48+09:00"
         }
       ]
     }
