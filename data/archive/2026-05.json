@@ -1,10 +1,10 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-24T19:31:41.141332+00:00",
+  "generated_at": "2026-05-24T20:22:16.606520+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 354,
-    "zennqiita": 96,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 1
   },
   "severity_counts": {
@@ -105,13 +105,6 @@
       "date": "2026-05-19T19:13:26+00:00"
     },
     {
-      "title": "The last six months in LLMs in five minutes",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 679,
-      "source": "hn",
-      "date": "2026-05-19T01:30:42+00:00"
-    },
-    {
       "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
       "url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
       "score": 675,
@@ -152,6 +145,13 @@
       "score": 612,
       "source": "hn",
       "date": "2026-05-19T12:23:07+00:00"
+    },
+    {
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "score": 606,
+      "source": "hn",
+      "date": "2026-05-23T18:02:42+00:00"
     }
   ],
   "security_highlights": [
@@ -182,6 +182,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-23T14:25:30+00:00"
+    },
+    {
+      "title": "OpenClawで脆弱性情報収集と自社システムチェック判定を定期自動稼働させた",
+      "url": "https://qiita.com/taks/items/5ba334aca2ecb8276e8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-05-23T16:49:24+09:00"
     },
     {
       "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
@@ -245,13 +252,6 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-05-19T18:33:44+09:00"
-    },
-    {
-      "title": "War game exposed U.S. vulnerability to low-tech warfare",
-      "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-19T02:25:29+00:00"
     }
   ]
 }
