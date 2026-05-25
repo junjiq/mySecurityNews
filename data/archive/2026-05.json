@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-25T19:02:20.382968+00:00",
+  "generated_at": "2026-05-25T20:04:15.432168+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 347,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 6,
-    "critical": 12,
+    "critical": 11,
     "high": 2
   },
   "top_articles": [
@@ -35,18 +35,18 @@
       "date": "2026-05-21T16:23:11+00:00"
     },
     {
+      "title": "Magnifica Humanitas",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "score": 1073,
+      "source": "hn",
+      "date": "2026-05-25T10:11:29+00:00"
+    },
+    {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
       "score": 959,
       "source": "hn",
       "date": "2026-05-20T13:43:37+00:00"
-    },
-    {
-      "title": "Magnifica Humanitas",
-      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "score": 943,
-      "source": "hn",
-      "date": "2026-05-25T10:11:29+00:00"
     },
     {
       "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
@@ -77,13 +77,6 @@
       "date": "2026-05-21T13:50:59+00:00"
     },
     {
-      "title": "Minnesota becomes first state to ban prediction markets",
-      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "score": 687,
-      "source": "hn",
-      "date": "2026-05-19T19:13:26+00:00"
-    },
-    {
       "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
       "url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
       "score": 675,
@@ -93,7 +86,7 @@
     {
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 660,
+      "score": 673,
       "source": "hn",
       "date": "2026-05-24T13:02:06+00:00"
     },
@@ -103,13 +96,6 @@
       "score": 651,
       "source": "hn",
       "date": "2026-05-22T21:36:55+00:00"
-    },
-    {
-      "title": "Google changes its search box",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "score": 633,
-      "source": "hn",
-      "date": "2026-05-19T18:34:27+00:00"
     },
     {
       "title": "Qwen3.7-Max: The Agent Frontier",
@@ -152,6 +138,20 @@
       "score": 581,
       "source": "hn",
       "date": "2026-05-21T09:49:46+00:00"
+    },
+    {
+      "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
+      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
+      "score": 566,
+      "source": "hn",
+      "date": "2026-05-20T14:30:47+00:00"
+    },
+    {
+      "title": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "score": 520,
+      "source": "hn",
+      "date": "2026-05-22T19:31:45+00:00"
     }
   ],
   "security_highlights": [
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-20T17:15:40+00:00"
-    },
-    {
-      "title": "Dumb ways for an open source project to die",
-      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-19T19:22:56+00:00"
     }
   ]
 }
