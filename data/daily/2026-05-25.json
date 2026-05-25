@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-25T12:10:10.246472+00:00",
-  "total_articles": 40,
+  "generated_at": "2026-05-25T13:41:33.111747+00:00",
+  "total_articles": 43,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,15 +15,15 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 28,
+      "count": 31,
       "top_items": [
         {
-          "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-          "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-          "score": 593,
+          "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+          "url": "https://audiomass.co/?multitrack=1",
+          "score": 424,
           "source": "hn",
-          "severity": null,
-          "date": "2026-05-24T13:02:06+00:00"
+          "severity": "critical",
+          "date": "2026-05-24T15:25:43+00:00"
         },
         {
           "title": "Memory has grown to nearly two-thirds of AI chip component costs",
@@ -34,17 +34,9 @@
           "date": "2026-05-24T16:31:29+00:00"
         },
         {
-          "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-          "url": "https://audiomass.co/?multitrack=1",
-          "score": 395,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-05-24T15:25:43+00:00"
-        },
-        {
           "title": "Migrating from Go to Rust",
           "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-          "score": 318,
+          "score": 337,
           "source": "hn",
           "severity": null,
           "date": "2026-05-24T18:31:42+00:00"
@@ -56,6 +48,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-25T03:47:24+00:00"
+        },
+        {
+          "title": "Magnifica Humanitas (Encyclical Letter)",
+          "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+          "score": 291,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-25T10:11:29+00:00"
         }
       ]
     },
