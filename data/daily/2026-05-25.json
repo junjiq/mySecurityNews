@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-25T06:55:54.562309+00:00",
-  "total_articles": 38,
+  "generated_at": "2026-05-25T08:33:01.227805+00:00",
+  "total_articles": 44,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 30,
+      "count": 28,
       "top_items": [
         {
           "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
           "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-          "score": 523,
+          "score": 545,
           "source": "hn",
           "severity": null,
           "date": "2026-05-24T13:02:06+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Memory has grown to nearly two-thirds of AI chip component costs",
           "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-          "score": 365,
+          "score": 377,
           "source": "hn",
           "severity": null,
           "date": "2026-05-24T16:31:29+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
           "url": "https://audiomass.co/?multitrack=1",
-          "score": 301,
+          "score": 336,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-24T15:25:43+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "The Eternal Sloptember",
           "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-          "score": 250,
+          "score": 302,
           "source": "hn",
           "severity": null,
           "date": "2026-05-25T03:47:24+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "Migrating from Go to Rust",
           "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-          "score": 221,
+          "score": 255,
           "source": "hn",
           "severity": null,
           "date": "2026-05-24T18:31:42+00:00"
@@ -68,8 +68,40 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 16,
       "top_items": [
+        {
+          "title": "ITって結局なんのためにあるの？",
+          "url": "https://qiita.com/prum_hitomi/items/9eafa7854f27055a7a07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-25T13:19:14+09:00"
+        },
+        {
+          "title": "モダンなシステム運用への道標 - 第1回 なぜ今、「監視」を見直す必要があるのか？～DevOpsと運用の真の目的～",
+          "url": "https://qiita.com/h_shinonome/items/6cec52fd07de55661160?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-25T11:57:05+09:00"
+        },
+        {
+          "title": "ログイン済みって、どこにあるの？",
+          "url": "https://qiita.com/ryo-ume/items/273ec187c675abc8e913?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-25T11:52:40+09:00"
+        },
+        {
+          "title": "実務未経験からチーム開発へ｜Git初心者がGitHub Copilotをバディにコンフリクトを乗り越えた話",
+          "url": "https://qiita.com/yu_asa/items/4627ede31d3c264db925?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-25T11:52:37+09:00"
+        },
         {
           "title": "揺れもの物理と専用エディタの実装",
           "url": "https://qiita.com/FujiiShintaro/items/9413ffd6fd57cc03d387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -77,38 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-25T10:53:37+09:00"
-        },
-        {
-          "title": "2025 Japan AWS Jr. Champions としての活動が終了しました",
-          "url": "https://qiita.com/har1101/items/ccbdbe70817ece37cfdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-25T09:23:54+09:00"
-        },
-        {
-          "title": "「OSって、結局なにしてるんですか？」— 新人エンジニア向けに“裏側”を整理してみる—",
-          "url": "https://qiita.com/prum_hitomi/items/09dd4f6328fe3b35aae3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-24T20:06:42+09:00"
-        },
-        {
-          "title": "Bedrock Tool Use から Aurora pgvector を直接叩く — Knowledge Bases を使わない RAG の組み立て",
-          "url": "https://qiita.com/asahide/items/3e35c460e3b18606f1f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-24T19:45:04+09:00"
-        },
-        {
-          "title": "学習アプリをTypeScriptで作成しました。",
-          "url": "https://qiita.com/kitamura371/items/34b6eeb451d0d4893769?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-24T17:58:09+09:00"
         }
       ]
     }
