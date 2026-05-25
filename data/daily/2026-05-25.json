@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-25T13:41:33.111747+00:00",
-  "total_articles": 43,
+  "generated_at": "2026-05-25T15:04:24.826144+00:00",
+  "total_articles": 47,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,15 +15,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 31,
+      "count": 35,
       "top_items": [
         {
           "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
           "url": "https://audiomass.co/?multitrack=1",
-          "score": 424,
+          "score": 437,
           "source": "hn",
           "severity": "critical",
           "date": "2026-05-24T15:25:43+00:00"
+        },
+        {
+          "title": "Magnifica Humanitas (Encyclical Letter)",
+          "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+          "score": 414,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-25T10:11:29+00:00"
         },
         {
           "title": "Memory has grown to nearly two-thirds of AI chip component costs",
@@ -36,26 +44,18 @@
         {
           "title": "Migrating from Go to Rust",
           "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-          "score": 337,
+          "score": 371,
           "source": "hn",
           "severity": null,
           "date": "2026-05-24T18:31:42+00:00"
         },
         {
-          "title": "The Eternal Sloptember",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-          "score": 302,
+          "title": "Search engines alternatives now that Google isn't Google anymore",
+          "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+          "score": 345,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-25T03:47:24+00:00"
-        },
-        {
-          "title": "Magnifica Humanitas (Encyclical Letter)",
-          "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-          "score": 291,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-25T10:11:29+00:00"
+          "date": "2026-05-25T12:27:11+00:00"
         }
       ]
     },
