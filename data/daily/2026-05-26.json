@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T22:54:36.104821+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-05-26T23:26:44.681433+00:00",
+  "total_articles": 56,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 41,
       "top_items": [
-        {
-          "title": "Using AI to write better code more slowly",
-          "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-          "score": 1025,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-25T23:16:59+00:00"
-        },
         {
           "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
           "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-          "score": 684,
+          "score": 709,
           "source": "hn",
           "severity": null,
           "date": "2026-05-26T13:08:13+00:00"
@@ -66,16 +58,24 @@
         {
           "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
           "url": "https://dynip.dev/",
-          "score": 311,
+          "score": 314,
           "source": "hn",
           "severity": null,
           "date": "2026-05-26T07:35:20+00:00"
+        },
+        {
+          "title": "Dropbox CEO Drew Houston to step down",
+          "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+          "score": 261,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-26T13:18:33+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 15,
       "top_items": [
         {
           "title": "【AI駆動開発】迷ったらこれ！OpenSpecチートシート【仕様駆動開発】",
