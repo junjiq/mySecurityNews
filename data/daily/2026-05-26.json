@@ -1,8 +1,8 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T19:17:45.409468+00:00",
-  "total_articles": 65,
-  "urgent_count": 2,
+  "generated_at": "2026-05-26T20:18:58.608204+00:00",
+  "total_articles": 67,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
@@ -10,6 +10,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-26T09:43:40+00:00"
+    },
+    {
+      "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
+      "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-05-26T18:51:29+09:00"
     },
     {
       "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 51,
       "top_items": [
         {
           "title": "Using AI to write better code more slowly",
@@ -41,6 +48,14 @@
           "date": "2026-05-26T11:42:58+00:00"
         },
         {
+          "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+          "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+          "score": 548,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-26T13:08:13+00:00"
+        },
+        {
           "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
           "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
           "score": 542,
@@ -49,17 +64,9 @@
           "date": "2026-05-25T22:30:27+00:00"
         },
         {
-          "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-          "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-          "score": 471,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-26T13:08:13+00:00"
-        },
-        {
           "title": "Netherlands blocks US takeover of vital digital supplier",
           "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-          "score": 409,
+          "score": 440,
           "source": "hn",
           "severity": null,
           "date": "2026-05-26T11:46:08+00:00"
@@ -68,8 +75,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 16,
       "top_items": [
+        {
+          "title": "【AI駆動開発】迷ったらこれ！OpenSpecチートシート【仕様駆動開発】",
+          "url": "https://qiita.com/Nana_777/items/aff2e56e4248cee1114e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-26T22:07:48+09:00"
+        },
+        {
+          "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
+          "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": "high",
+          "date": "2026-05-26T18:51:29+09:00"
+        },
         {
           "title": "Oracle AI Database@Google Cloud で Exadata を作成してみてみた",
           "url": "https://qiita.com/shirok/items/02fd327e01146f79c45c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -93,22 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-26T12:26:50+09:00"
-        },
-        {
-          "title": "会社が変わっても消えないスキルとスタートアップという選択肢",
-          "url": "https://qiita.com/masa20057/items/fa1f6b0db92e497796ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-26T11:42:24+09:00"
-        },
-        {
-          "title": "AWS AI-DLC Unicorn Gymに参加してきました！",
-          "url": "https://qiita.com/hyahyahyahyahoooi/items/e727e6b9500fa186d9e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-26T11:02:29+09:00"
         }
       ]
     }

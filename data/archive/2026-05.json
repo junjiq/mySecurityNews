@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-26T19:17:45.454351+00:00",
+  "generated_at": "2026-05-26T20:18:58.643743+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 348,
-    "zennqiita": 102,
+    "hn": 344,
+    "zennqiita": 106,
     "project": 1
   },
   "severity_counts": {
+    "high": 5,
     "critical": 11,
-    "high": 4,
     "medium": 6
   },
   "top_articles": [
@@ -19,13 +19,6 @@
       "score": 1422,
       "source": "hn",
       "date": "2026-05-25T10:11:29+00:00"
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1296,
-      "source": "hn",
-      "date": "2026-05-20T19:05:30+00:00"
     },
     {
       "title": "Flipper One – we need your help",
@@ -133,6 +126,13 @@
       "date": "2026-05-21T09:49:46+00:00"
     },
     {
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "score": 548,
+      "source": "hn",
+      "date": "2026-05-26T13:08:13+00:00"
+    },
+    {
       "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
       "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
       "score": 542,
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
+      "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-05-26T18:51:29+09:00"
+    },
     {
       "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
       "url": "https://ni5arga.com/blog/posts/hacking-cbse/",
