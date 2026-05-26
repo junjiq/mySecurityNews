@@ -1,31 +1,31 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-25T23:52:11.679077+00:00",
+  "generated_at": "2026-05-26T00:42:52.519174+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 346,
-    "zennqiita": 104,
+    "hn": 350,
+    "zennqiita": 100,
     "project": 1
   },
   "severity_counts": {
+    "high": 3,
     "medium": 6,
-    "critical": 11,
-    "high": 2
+    "critical": 11
   },
   "top_articles": [
+    {
+      "title": "Magnifica Humanitas",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "score": 1310,
+      "source": "hn",
+      "date": "2026-05-25T10:11:29+00:00"
+    },
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
       "score": 1296,
       "source": "hn",
       "date": "2026-05-20T19:05:30+00:00"
-    },
-    {
-      "title": "Magnifica Humanitas",
-      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "score": 1287,
-      "source": "hn",
-      "date": "2026-05-25T10:11:29+00:00"
     },
     {
       "title": "Flipper One – we need your help",
@@ -133,6 +133,13 @@
       "date": "2026-05-21T13:38:12+00:00"
     },
     {
+      "title": "California moves to exempt Linux from its age-verification law after backlash",
+      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+      "score": 586,
+      "source": "hn",
+      "date": "2026-05-25T18:19:58+00:00"
+    },
+    {
       "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
       "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
       "score": 581,
@@ -145,16 +152,16 @@
       "score": 566,
       "source": "hn",
       "date": "2026-05-20T14:30:47+00:00"
-    },
-    {
-      "title": "California moves to exempt Linux from its age-verification law after backlash",
-      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "score": 547,
-      "source": "hn",
-      "date": "2026-05-25T18:19:58+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "url": "https://support.apple.com/en-us/127115",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-25T23:40:40+00:00"
+    },
     {
       "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
       "url": "https://audiomass.co/?multitrack=1",
