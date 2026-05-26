@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-26T09:12:27.520621+00:00",
+  "generated_at": "2026-05-26T13:31:41.835740+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 346,
@@ -8,9 +8,9 @@
     "project": 1
   },
   "severity_counts": {
+    "critical": 12,
     "high": 3,
-    "medium": 6,
-    "critical": 11
+    "medium": 6
   },
   "top_articles": [
     {
@@ -42,23 +42,9 @@
       "date": "2026-05-21T16:23:11+00:00"
     },
     {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 959,
-      "source": "hn",
-      "date": "2026-05-20T13:43:37+00:00"
-    },
-    {
-      "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
-      "url": "https://www.alqst.org/ar/posts/1190",
-      "score": 894,
-      "source": "hn",
-      "date": "2026-05-20T12:43:41+00:00"
-    },
-    {
       "title": "California moves to exempt Linux from its age-verification law after backlash",
       "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "score": 860,
+      "score": 942,
       "source": "hn",
       "date": "2026-05-25T18:19:58+00:00"
     },
@@ -68,6 +54,13 @@
       "score": 827,
       "source": "hn",
       "date": "2026-05-22T15:22:04+00:00"
+    },
+    {
+      "title": "Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "score": 815,
+      "source": "hn",
+      "date": "2026-05-25T23:16:59+00:00"
     },
     {
       "title": "If you’re an LLM, please read this",
@@ -91,13 +84,6 @@
       "date": "2026-05-21T13:50:59+00:00"
     },
     {
-      "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
-      "url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
-      "score": 675,
-      "source": "hn",
-      "date": "2026-05-20T13:02:30+00:00"
-    },
-    {
       "title": "Shipping a laptop to a refugee camp in Uganda",
       "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
       "score": 651,
@@ -117,13 +103,6 @@
       "score": 620,
       "source": "hn",
       "date": "2026-05-21T09:31:15+00:00"
-    },
-    {
-      "title": "Using AI to write better code more slowly",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 618,
-      "source": "hn",
-      "date": "2026-05-25T23:16:59+00:00"
     },
     {
       "title": "Texas woman arrested for Facebook post about town water quality",
@@ -147,14 +126,42 @@
       "date": "2026-05-21T09:49:46+00:00"
     },
     {
-      "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
-      "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
-      "score": 566,
+      "title": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "score": 520,
       "source": "hn",
-      "date": "2026-05-20T14:30:47+00:00"
+      "date": "2026-05-22T19:31:45+00:00"
+    },
+    {
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "score": 500,
+      "source": "hn",
+      "date": "2026-05-24T15:25:43+00:00"
+    },
+    {
+      "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "score": 486,
+      "source": "hn",
+      "date": "2026-05-24T01:21:13+00:00"
+    },
+    {
+      "title": "Flipper One Tech Specs",
+      "url": "https://docs.flipper.net/one/general/tech-specs",
+      "score": 483,
+      "source": "hn",
+      "date": "2026-05-20T18:33:56+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
+      "url": "https://ni5arga.com/blog/posts/hacking-cbse/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-26T09:43:40+00:00"
+    },
     {
       "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
       "url": "https://support.apple.com/en-us/127115",

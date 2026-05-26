@@ -1,9 +1,16 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T09:12:27.476299+00:00",
-  "total_articles": 67,
-  "urgent_count": 1,
+  "generated_at": "2026-05-26T13:31:41.792690+00:00",
+  "total_articles": 62,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
+      "url": "https://ni5arga.com/blog/posts/hacking-cbse/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-26T09:43:40+00:00"
+    },
     {
       "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
       "url": "https://support.apple.com/en-us/127115",
@@ -15,20 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 50,
       "top_items": [
-        {
-          "title": "Magnifica Humanitas",
-          "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-          "score": 1422,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-25T10:11:29+00:00"
-        },
         {
           "title": "California moves to exempt Linux from its age-verification law after backlash",
           "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-          "score": 860,
+          "score": 942,
           "source": "hn",
           "severity": null,
           "date": "2026-05-25T18:19:58+00:00"
@@ -36,33 +35,49 @@
         {
           "title": "Using AI to write better code more slowly",
           "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-          "score": 618,
+          "score": 815,
           "source": "hn",
           "severity": null,
           "date": "2026-05-25T23:16:59+00:00"
         },
         {
+          "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+          "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+          "score": 397,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-25T22:30:27+00:00"
+        },
+        {
           "title": "Exit IP VPN servers mitigation rollout",
           "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-          "score": 354,
+          "score": 384,
           "source": "hn",
           "severity": null,
           "date": "2026-05-25T17:45:11+00:00"
         },
         {
-          "title": "Search engines alternatives now that Google isn't Google anymore",
-          "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-          "score": 345,
+          "title": "Ferrari Luce",
+          "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+          "score": 334,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-25T12:27:11+00:00"
+          "date": "2026-05-25T21:00:38+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
+        {
+          "title": "Oracle AI Database@Google Cloud で Exadata を作成してみてみた",
+          "url": "https://qiita.com/shirok/items/02fd327e01146f79c45c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-26T18:40:55+09:00"
+        },
         {
           "title": "【Part2】kintoneのget系APIで画面UIの「今」の状態を読み取ろう！",
           "url": "https://qiita.com/ashinohitooo/items/c691301fa319323add29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -78,14 +93,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-26T12:26:50+09:00"
-        },
-        {
-          "title": "Oracle AI Database@Google Cloud で Exadata を作成してみてみた",
-          "url": "https://qiita.com/shirok/items/02fd327e01146f79c45c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-26T11:48:45+09:00"
         },
         {
           "title": "会社が変わっても消えないスキルとスタートアップという選択肢",
