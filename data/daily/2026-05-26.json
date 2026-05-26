@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T07:46:45.585312+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-05-26T09:12:27.476299+00:00",
+  "total_articles": 67,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -20,7 +20,7 @@
         {
           "title": "Magnifica Humanitas",
           "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-          "score": 1331,
+          "score": 1422,
           "source": "hn",
           "severity": null,
           "date": "2026-05-25T10:11:29+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "California moves to exempt Linux from its age-verification law after backlash",
           "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-          "score": 832,
+          "score": 860,
           "source": "hn",
           "severity": null,
           "date": "2026-05-25T18:19:58+00:00"
@@ -36,10 +36,18 @@
         {
           "title": "Using AI to write better code more slowly",
           "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-          "score": 545,
+          "score": 618,
           "source": "hn",
           "severity": null,
           "date": "2026-05-25T23:16:59+00:00"
+        },
+        {
+          "title": "Exit IP VPN servers mitigation rollout",
+          "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+          "score": 354,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-25T17:45:11+00:00"
         },
         {
           "title": "Search engines alternatives now that Google isn't Google anymore",
@@ -48,21 +56,45 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-25T12:27:11+00:00"
-        },
-        {
-          "title": "Exit IP VPN servers mitigation rollout",
-          "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-          "score": 340,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-25T17:45:11+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 13,
       "top_items": [
+        {
+          "title": "【Part2】kintoneのget系APIで画面UIの「今」の状態を読み取ろう！",
+          "url": "https://qiita.com/ashinohitooo/items/c691301fa319323add29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-26T13:48:22+09:00"
+        },
+        {
+          "title": "WebRTCの基本：接続の仕組みとP2P・SFUの使い分けについて整理してみた",
+          "url": "https://qiita.com/keishin_nishiura/items/3802297463ff8098e13c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-26T12:26:50+09:00"
+        },
+        {
+          "title": "Oracle AI Database@Google Cloud で Exadata を作成してみてみた",
+          "url": "https://qiita.com/shirok/items/02fd327e01146f79c45c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-26T11:48:45+09:00"
+        },
+        {
+          "title": "会社が変わっても消えないスキルとスタートアップという選択肢",
+          "url": "https://qiita.com/masa20057/items/fa1f6b0db92e497796ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-26T11:42:24+09:00"
+        },
         {
           "title": "AWS AI-DLC Unicorn Gymに参加してきました！",
           "url": "https://qiita.com/hyahyahyahyahoooi/items/e727e6b9500fa186d9e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,22 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-26T11:02:29+09:00"
-        },
-        {
-          "title": "【お母さんでもわかる】eBPFによるオブザーバビリティ",
-          "url": "https://qiita.com/ashimada83/items/28b7d4cdd46d2717d48f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-25T17:42:04+09:00"
-        },
-        {
-          "title": "【React】Vitest + React Testing Library 入門 Part1 〜環境構築からテストの基礎まで〜",
-          "url": "https://qiita.com/nhatcaofedev/items/4f2586c9ff6426256fa6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-25T16:48:15+09:00"
         }
       ]
     }
