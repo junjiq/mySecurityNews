@@ -1,8 +1,8 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T23:26:44.681433+00:00",
-  "total_articles": 56,
-  "urgent_count": 3,
+  "generated_at": "2026-05-26T23:52:50.819214+00:00",
+  "total_articles": 55,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
@@ -16,25 +16,18 @@
       "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "severity": "high",
       "source": "zennqiita",
-      "date": "2026-05-26T18:51:29+09:00"
-    },
-    {
-      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
-      "url": "https://support.apple.com/en-us/127115",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-25T23:40:40+00:00"
+      "date": "2026-05-27T08:52:04+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 39,
       "top_items": [
         {
           "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
           "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-          "score": 709,
+          "score": 734,
           "source": "hn",
           "severity": null,
           "date": "2026-05-26T13:08:13+00:00"
@@ -50,7 +43,7 @@
         {
           "title": "Netherlands blocks US takeover of vital digital supplier",
           "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-          "score": 485,
+          "score": 513,
           "source": "hn",
           "severity": null,
           "date": "2026-05-26T11:46:08+00:00"
@@ -66,7 +59,7 @@
         {
           "title": "Dropbox CEO Drew Houston to step down",
           "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-          "score": 261,
+          "score": 268,
           "source": "hn",
           "severity": null,
           "date": "2026-05-26T13:18:33+00:00"
@@ -75,8 +68,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 16,
       "top_items": [
+        {
+          "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
+          "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": "high",
+          "date": "2026-05-27T08:52:04+09:00"
+        },
+        {
+          "title": "Claude Codeのスキルを書くときに便利だった3つの組み込みツール",
+          "url": "https://qiita.com/hiropon122/items/f4496113455b1161e872?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-27T08:43:40+09:00"
+        },
         {
           "title": "【AI駆動開発】迷ったらこれ！OpenSpecチートシート【仕様駆動開発】",
           "url": "https://qiita.com/Nana_777/items/aff2e56e4248cee1114e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -84,14 +93,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-27T06:31:41+09:00"
-        },
-        {
-          "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
-          "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "high",
-          "date": "2026-05-26T18:51:29+09:00"
         },
         {
           "title": "Oracle AI Database@Google Cloud で Exadata を作成してみてみた",
@@ -108,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-26T13:48:22+09:00"
-        },
-        {
-          "title": "WebRTCの基本：接続の仕組みとP2P・SFUの使い分けについて整理してみた",
-          "url": "https://qiita.com/keishin_nishiura/items/3802297463ff8098e13c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-26T12:26:50+09:00"
         }
       ]
     }
