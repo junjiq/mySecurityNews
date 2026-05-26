@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T15:03:31.971695+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-05-26T16:46:10.860754+00:00",
+  "total_articles": 67,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,8 +22,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 55,
       "top_items": [
+        {
+          "title": "Using AI to write better code more slowly",
+          "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+          "score": 988,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-25T23:16:59+00:00"
+        },
         {
           "title": "California moves to exempt Linux from its age-verification law after backlash",
           "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
@@ -33,17 +41,9 @@
           "date": "2026-05-25T18:19:58+00:00"
         },
         {
-          "title": "Using AI to write better code more slowly",
-          "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-          "score": 906,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-25T23:16:59+00:00"
-        },
-        {
           "title": "GitHub Actions down again today",
           "url": "https://www.githubstatus.com/?today",
-          "score": 460,
+          "score": 628,
           "source": "hn",
           "severity": null,
           "date": "2026-05-26T11:42:58+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
           "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-          "score": 446,
+          "score": 490,
           "source": "hn",
           "severity": null,
           "date": "2026-05-25T22:30:27+00:00"
