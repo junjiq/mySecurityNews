@@ -1,9 +1,16 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T15:46:37.239269+00:00",
-  "total_articles": 60,
-  "urgent_count": 2,
+  "generated_at": "2026-05-27T17:07:01.107699+00:00",
+  "total_articles": 63,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+      "url": "https://tinycld.org/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-27T14:36:41+00:00"
+    },
     {
       "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
       "url": "https://tsduck.io/",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 49,
       "top_items": [
         {
           "title": "I'm Tired of Talking to AI",
           "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-          "score": 1218,
+          "score": 1548,
           "source": "hn",
           "severity": null,
           "date": "2026-05-27T10:43:25+00:00"
@@ -49,20 +56,20 @@
           "date": "2026-05-26T19:25:16+00:00"
         },
         {
-          "title": "The real cost of owning a home",
-          "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
-          "score": 329,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-26T16:04:39+00:00"
-        },
-        {
           "title": "Cloudflare Flagship",
           "url": "https://developers.cloudflare.com/flagship/",
-          "score": 309,
+          "score": 317,
           "source": "hn",
           "severity": null,
           "date": "2026-05-26T23:36:06+00:00"
+        },
+        {
+          "title": "Private Equity Bought America's Essential Services",
+          "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+          "score": 300,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-27T12:00:53+00:00"
         }
       ]
     },

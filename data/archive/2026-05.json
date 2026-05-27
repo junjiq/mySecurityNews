@@ -1,31 +1,31 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-27T15:46:37.276619+00:00",
+  "generated_at": "2026-05-27T17:07:01.153905+00:00",
   "total_articles": 458,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 98,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 8
   },
   "severity_counts": {
-    "critical": 11,
-    "high": 4,
-    "medium": 4
+    "medium": 5,
+    "critical": 12,
+    "high": 4
   },
   "top_articles": [
+    {
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "score": 1548,
+      "source": "hn",
+      "date": "2026-05-27T10:43:25+00:00"
+    },
     {
       "title": "Magnifica Humanitas",
       "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
       "score": 1422,
       "source": "hn",
       "date": "2026-05-25T10:11:29+00:00"
-    },
-    {
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "score": 1218,
-      "source": "hn",
-      "date": "2026-05-27T10:43:25+00:00"
     },
     {
       "title": "Project Hail Mary – Stellar Navigation Chart",
@@ -91,13 +91,6 @@
       "date": "2026-05-26T11:42:58+00:00"
     },
     {
-      "title": "I spent 50 hours drawing a line graph",
-      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 626,
-      "source": "hn",
-      "date": "2026-05-21T15:05:28+00:00"
-    },
-    {
       "title": "Texas woman arrested for Facebook post about town water quality",
       "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
       "score": 606,
@@ -152,9 +145,23 @@
       "score": 453,
       "source": "hn",
       "date": "2026-05-22T17:24:12+00:00"
+    },
+    {
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "score": 449,
+      "source": "hn",
+      "date": "2026-05-21T17:55:58+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+      "url": "https://tinycld.org/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-27T14:36:41+00:00"
+    },
     {
       "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
       "url": "https://tsduck.io/",
