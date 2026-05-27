@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-27T17:07:01.153905+00:00",
+  "generated_at": "2026-05-27T18:18:42.211908+00:00",
   "total_articles": 458,
   "source_counts": {
     "hn": 353,
@@ -8,15 +8,15 @@
     "project": 8
   },
   "severity_counts": {
+    "high": 5,
     "medium": 5,
-    "critical": 12,
-    "high": 4
+    "critical": 12
   },
   "top_articles": [
     {
       "title": "I'm Tired of Talking to AI",
       "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "score": 1548,
+      "score": 1724,
       "source": "hn",
       "date": "2026-05-27T10:43:25+00:00"
     },
@@ -26,13 +26,6 @@
       "score": 1422,
       "source": "hn",
       "date": "2026-05-25T10:11:29+00:00"
-    },
-    {
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 1140,
-      "source": "hn",
-      "date": "2026-05-21T16:23:11+00:00"
     },
     {
       "title": "Using AI to write better code more slowly",
@@ -152,9 +145,23 @@
       "score": 449,
       "source": "hn",
       "date": "2026-05-21T17:55:58+00:00"
+    },
+    {
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+      "score": 444,
+      "source": "hn",
+      "date": "2026-05-21T21:55:56+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "url": "https://arxiv.org/abs/2605.21779",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-27T17:42:24+00:00"
+    },
     {
       "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
       "url": "https://tinycld.org/",
