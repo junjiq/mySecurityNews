@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-27T06:36:53.318334+00:00",
+  "generated_at": "2026-05-27T08:20:28.859366+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99,
+    "hn": 350,
+    "zennqiita": 100,
     "project": 1
   },
   "severity_counts": {
-    "high": 4,
-    "critical": 10,
+    "critical": 11,
+    "high": 5,
     "medium": 5
   },
   "top_articles": [
@@ -51,7 +51,7 @@
     {
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
       "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "score": 862,
+      "score": 897,
       "source": "hn",
       "date": "2026-05-26T13:08:13+00:00"
     },
@@ -105,13 +105,6 @@
       "date": "2026-05-21T15:05:28+00:00"
     },
     {
-      "title": "Throwing AI-generated walls of text into conversations",
-      "url": "https://noslopgrenade.com/",
-      "score": 620,
-      "source": "hn",
-      "date": "2026-05-21T09:31:15+00:00"
-    },
-    {
       "title": "Texas woman arrested for Facebook post about town water quality",
       "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
       "score": 606,
@@ -152,9 +145,23 @@
       "score": 513,
       "source": "hn",
       "date": "2026-05-26T11:46:08+00:00"
+    },
+    {
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "score": 500,
+      "source": "hn",
+      "date": "2026-05-24T15:25:43+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+      "url": "https://tsduck.io/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-27T02:22:59+00:00"
+    },
     {
       "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
       "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -168,6 +175,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-26T09:43:40+00:00"
+    },
+    {
+      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "url": "https://badhost.org/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-26T09:07:18+00:00"
     },
     {
       "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",

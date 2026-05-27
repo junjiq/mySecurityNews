@@ -1,9 +1,16 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T06:36:53.269728+00:00",
-  "total_articles": 46,
-  "urgent_count": 2,
+  "generated_at": "2026-05-27T08:20:28.816580+00:00",
+  "total_articles": 57,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+      "url": "https://tsduck.io/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-27T02:22:59+00:00"
+    },
     {
       "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
       "url": "https://ni5arga.com/blog/posts/hacking-cbse/",
@@ -17,17 +24,24 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-05-27T08:52:04+09:00"
+    },
+    {
+      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "url": "https://badhost.org/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-26T09:07:18+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 45,
       "top_items": [
         {
           "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
           "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-          "score": 862,
+          "score": 897,
           "source": "hn",
           "severity": null,
           "date": "2026-05-26T13:08:13+00:00"
@@ -51,7 +65,7 @@
         {
           "title": "Dropbox CEO Drew Houston to step down",
           "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-          "score": 332,
+          "score": 341,
           "source": "hn",
           "severity": null,
           "date": "2026-05-26T13:18:33+00:00"
@@ -68,39 +82,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 12,
       "top_items": [
         {
-          "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
-          "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "high",
-          "date": "2026-05-27T08:52:04+09:00"
-        },
-        {
-          "title": "Claude Codeのスキルを書くときに便利だった3つの組み込みツール",
-          "url": "https://qiita.com/hiropon122/items/f4496113455b1161e872?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」",
+          "url": "https://qiita.com/hitomin_poke/items/a8c2c14a72a417619c1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-27T08:43:40+09:00"
+          "date": "2026-05-27T14:52:27+09:00"
         },
         {
-          "title": "【AI駆動開発】迷ったらこれ！OpenSpecチートシート【仕様駆動開発】",
-          "url": "https://qiita.com/Nana_777/items/aff2e56e4248cee1114e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選",
+          "url": "https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-27T06:31:41+09:00"
+          "date": "2026-05-27T13:39:16+09:00"
         },
         {
-          "title": "Oracle AI Database@Google Cloud で Exadata を作成してみてみた",
-          "url": "https://qiita.com/shirok/items/02fd327e01146f79c45c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Linuxのテキストエディタ　viとnano",
+          "url": "https://qiita.com/steiji/items/0675640c728125a628c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-26T18:40:55+09:00"
+          "date": "2026-05-27T09:18:49+09:00"
+        },
+        {
+          "title": "コミュニケーションは大事",
+          "url": "https://qiita.com/Rikusato/items/d942ba887cf78ae0c937?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-27T09:04:24+09:00"
+        },
+        {
+          "title": "PythonとJavaのコードの違い",
+          "url": "https://qiita.com/karusifa2/items/75b8ff55095604bd48b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-27T09:03:10+09:00"
         }
       ]
     }
