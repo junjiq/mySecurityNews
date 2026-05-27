@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-27T11:13:52.143023+00:00",
-  "total_articles": 451,
+  "generated_at": "2026-05-27T14:09:57.277627+00:00",
+  "total_articles": 458,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99,
-    "project": 1
+    "hn": 352,
+    "zennqiita": 98,
+    "project": 8
   },
   "severity_counts": {
     "critical": 11,
-    "high": 5,
+    "high": 4,
     "medium": 5
   },
   "top_articles": [
@@ -54,6 +54,13 @@
       "score": 827,
       "source": "hn",
       "date": "2026-05-22T15:22:04+00:00"
+    },
+    {
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "score": 791,
+      "source": "hn",
+      "date": "2026-05-27T10:43:25+00:00"
     },
     {
       "title": "If you’re an LLM, please read this",
@@ -145,13 +152,6 @@
       "score": 486,
       "source": "hn",
       "date": "2026-05-24T01:21:13+00:00"
-    },
-    {
-      "title": "Bun support is now limited and deprecated",
-      "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-      "score": 453,
-      "source": "hn",
-      "date": "2026-05-22T17:24:12+00:00"
     }
   ],
   "security_highlights": [
@@ -259,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-21T20:23:37+00:00"
-    },
-    {
-      "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
-      "url": "https://fatgid.io/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-21T12:15:02+00:00"
     }
   ]
 }
