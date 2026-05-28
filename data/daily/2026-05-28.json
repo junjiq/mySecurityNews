@@ -1,7 +1,7 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T03:11:05.691879+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-05-28T04:55:55.044436+00:00",
+  "total_articles": 52,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -30,7 +30,7 @@
       "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "severity": "high",
       "source": "zennqiita",
-      "date": "2026-05-28T11:40:34+09:00"
+      "date": "2026-05-28T12:26:31+09:00"
     },
     {
       "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
@@ -43,7 +43,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 48,
       "top_items": [
         {
           "title": "I'm Tired of Talking to AI",
@@ -54,9 +54,17 @@
           "date": "2026-05-27T10:43:25+00:00"
         },
         {
+          "title": "Can we have the day off?",
+          "url": "https://mlsu.io/posts/day-off/",
+          "score": 789,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-28T00:40:26+00:00"
+        },
+        {
           "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
           "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-          "score": 700,
+          "score": 732,
           "source": "hn",
           "severity": null,
           "date": "2026-05-27T16:28:41+00:00"
@@ -64,7 +72,7 @@
         {
           "title": "I think Anthropic and OpenAI have found product-market fit",
           "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-          "score": 685,
+          "score": 718,
           "source": "hn",
           "severity": null,
           "date": "2026-05-27T16:39:13+00:00"
@@ -72,24 +80,16 @@
         {
           "title": "Last.fm is now independent",
           "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-          "score": 656,
+          "score": 680,
           "source": "hn",
           "severity": null,
           "date": "2026-05-27T15:36:09+00:00"
-        },
-        {
-          "title": "Tech CEOs are apparently suffering from AI psychosis",
-          "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-          "score": 602,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-27T15:20:47+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 2,
       "top_items": [
         {
           "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
@@ -97,7 +97,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": "high",
-          "date": "2026-05-28T11:40:34+09:00"
+          "date": "2026-05-28T12:26:31+09:00"
         },
         {
           "title": "1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」",
@@ -106,28 +106,12 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-27T14:52:27+09:00"
-        },
-        {
-          "title": "【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選",
-          "url": "https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-27T13:39:16+09:00"
-        },
-        {
-          "title": "文系東大生が、GPT型モデルをフルスクラッチで開発する話 Part.1 【株式会社ハイレゾ協力】",
-          "url": "https://qiita.com/UT_AI_CLUB/items/fae636ab3a9b75ebf930?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-27T13:06:02+09:00"
         }
       ]
     },
     {
       "category": "注目リリース",
-      "count": 4,
+      "count": 2,
       "top_items": [
         {
           "title": "HackTheBox - TwoMillion: A Complete Walkthrough",
@@ -144,22 +128,6 @@
           "source": "project",
           "severity": null,
           "date": "2026-05-27T06:18:28Z"
-        },
-        {
-          "title": "HackTheBox: MonitorsFour - Full Walkthrough",
-          "url": "https://dev.to/exploitnotes/htb-monitorsfour-full-walkthrough-445k",
-          "score": 0,
-          "source": "project",
-          "severity": null,
-          "date": "2026-05-27T04:54:03Z"
-        },
-        {
-          "title": "From Credentials to Domain Admin: Support Machine Writeup",
-          "url": "https://dev.to/exploitnotes/from-credentials-to-domain-admin-support-machine-writeup-1k2c",
-          "score": 0,
-          "source": "project",
-          "severity": null,
-          "date": "2026-05-27T04:35:34Z"
         }
       ]
     }
