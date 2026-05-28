@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-28T16:48:18.276683+00:00",
+  "generated_at": "2026-05-28T18:03:07.502546+00:00",
   "total_articles": 458,
   "source_counts": {
-    "hn": 356,
-    "zennqiita": 94,
+    "hn": 358,
+    "zennqiita": 92,
     "project": 8
   },
   "severity_counts": {
+    "critical": 15,
     "high": 5,
-    "medium": 5,
-    "critical": 14
+    "medium": 5
   },
   "top_articles": [
     {
@@ -30,7 +30,7 @@
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 1178,
+      "score": 1213,
       "source": "hn",
       "date": "2026-05-27T20:00:51+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+      "url": "https://github.com/Kaelio/ktx",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-28T15:05:06+00:00"
+    },
     {
       "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
       "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",

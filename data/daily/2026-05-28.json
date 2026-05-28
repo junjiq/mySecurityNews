@@ -1,9 +1,16 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T16:48:18.231079+00:00",
-  "total_articles": 44,
+  "generated_at": "2026-05-28T18:03:07.468355+00:00",
+  "total_articles": 42,
   "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+      "url": "https://github.com/Kaelio/ktx",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-28T15:05:06+00:00"
+    },
     {
       "title": "Show HN: Open-Source AI Racing Harness",
       "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
@@ -24,24 +31,17 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-05-28T16:20:24+09:00"
-    },
-    {
-      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-      "url": "https://arxiv.org/abs/2605.21779",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-27T17:42:24+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 35,
       "top_items": [
         {
           "title": "YouTube to automatically label AI-generated videos",
           "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-          "score": 1178,
+          "score": 1213,
           "source": "hn",
           "severity": null,
           "date": "2026-05-27T20:00:51+00:00"
@@ -55,28 +55,28 @@
           "date": "2026-05-28T00:40:26+00:00"
         },
         {
-          "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
-          "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
-          "score": 469,
+          "title": "Claude Opus 4.8",
+          "url": "https://www.anthropic.com/news/claude-opus-4-8",
+          "score": 470,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-27T16:53:25+00:00"
+          "date": "2026-05-28T16:49:14+00:00"
         },
         {
-          "title": "SimCity 3k in 4k (2025)",
-          "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-          "score": 453,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-27T17:36:29+00:00"
-        },
-        {
-          "title": "Disagreement Among Frontier LLMs on Real-World Fact-Checks",
+          "title": "Disagreement among frontier LLMs on real-world fact-checks",
           "url": "https://lenz.io/research/llm-disagreement",
-          "score": 432,
+          "score": 451,
           "source": "hn",
           "severity": null,
           "date": "2026-05-28T12:20:19+00:00"
+        },
+        {
+          "title": "What Apple and Google are doing to push notifications",
+          "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+          "score": 386,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-27T19:24:10+00:00"
         }
       ]
     },
