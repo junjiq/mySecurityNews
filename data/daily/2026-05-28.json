@@ -1,7 +1,7 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T19:24:27.186958+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-05-28T20:17:33.425654+00:00",
+  "total_articles": 53,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,16 +29,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 40,
       "top_items": [
-        {
-          "title": "YouTube to automatically label AI-generated videos",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-          "score": 1232,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-27T20:00:51+00:00"
-        },
         {
           "title": "Can we have the day off?",
           "url": "https://mlsu.io/posts/day-off/",
@@ -50,7 +42,7 @@
         {
           "title": "Claude Opus 4.8",
           "url": "https://www.anthropic.com/news/claude-opus-4-8",
-          "score": 742,
+          "score": 863,
           "source": "hn",
           "severity": null,
           "date": "2026-05-28T16:49:14+00:00"
@@ -66,17 +58,33 @@
         {
           "title": "Show HN: Hallucinate – Massively Multiplayer Online Rave",
           "url": "https://hallucinate.site",
-          "score": 370,
+          "score": 376,
           "source": "hn",
           "severity": null,
           "date": "2026-05-28T03:50:01+00:00"
+        },
+        {
+          "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+          "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+          "score": 313,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-28T10:56:55+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 13,
       "top_items": [
+        {
+          "title": "Bedrockのクオーターからrequests-per-minute (RPM)がなくなったらしい",
+          "url": "https://qiita.com/moritalous/items/9c7549920f96980120db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-28T21:26:35+09:00"
+        },
         {
           "title": "16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術",
           "url": "https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,36 +94,28 @@
           "date": "2026-05-28T20:26:20+09:00"
         },
         {
-          "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
-          "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "high",
-          "date": "2026-05-28T16:20:24+09:00"
-        },
-        {
-          "title": "【図解】IT初心者でもわかる！クリーンアーキテクチャの基本",
-          "url": "https://qiita.com/Yamashita_Sosuke/items/f4531c7266702b1419f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AWSアップデートから考える継続的な運用改善",
+          "url": "https://qiita.com/infra365/items/3ed2db95c4d0ecffa6be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-28T13:04:51+09:00"
+          "date": "2026-05-28T19:44:18+09:00"
         },
         {
-          "title": "AWS CDK入門 - Lambda × S3 署名URLでファイルアップロードAPIを作る",
-          "url": "https://qiita.com/sugumura/items/2b1bc35997d4c5d0d8d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude Code Skills のアンチパターン — 「なぜ Skills か」から考え直す設計の落とし穴",
+          "url": "https://qiita.com/nogataka/items/ea4e7d78651d6ed46796?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-28T12:27:26+09:00"
+          "date": "2026-05-28T18:03:35+09:00"
         },
         {
-          "title": "GCEで動かしていたRedisをMemorystore for Redisに移行した話",
-          "url": "https://qiita.com/kensuke2_suzuki/items/0ef794e0b0324998b7ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Codexのコンテキスト圧縮はなぜ優秀なのか — ソースコードから読み解く設計",
+          "url": "https://qiita.com/nogataka/items/9b71285a9dd448e53bb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-28T11:51:21+09:00"
+          "date": "2026-05-28T17:59:29+09:00"
         }
       ]
     }
