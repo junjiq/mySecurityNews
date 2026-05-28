@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-28T22:08:54.511490+00:00",
+  "generated_at": "2026-05-28T22:58:32.178170+00:00",
   "total_articles": 458,
   "source_counts": {
     "hn": 352,
@@ -10,7 +10,7 @@
   "severity_counts": {
     "critical": 14,
     "high": 5,
-    "medium": 5
+    "medium": 4
   },
   "top_articles": [
     {
@@ -35,18 +35,18 @@
       "date": "2026-05-27T20:00:51+00:00"
     },
     {
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "score": 1093,
+      "source": "hn",
+      "date": "2026-05-28T16:49:14+00:00"
+    },
+    {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
       "score": 1046,
       "source": "hn",
       "date": "2026-05-27T16:39:13+00:00"
-    },
-    {
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1037,
-      "source": "hn",
-      "date": "2026-05-28T16:49:14+00:00"
     },
     {
       "title": "Can we have the day off?",
@@ -133,13 +133,6 @@
       "date": "2026-05-25T22:30:27+00:00"
     },
     {
-      "title": "Project Glasswing: An Initial Update",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 520,
-      "source": "hn",
-      "date": "2026-05-22T19:31:45+00:00"
-    },
-    {
       "title": "Netherlands blocks US takeover of vital digital supplier",
       "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
       "score": 513,
@@ -152,9 +145,23 @@
       "score": 506,
       "source": "hn",
       "date": "2026-05-26T20:11:49+00:00"
+    },
+    {
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "score": 500,
+      "source": "hn",
+      "date": "2026-05-24T15:25:43+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-28T21:45:54+00:00"
+    },
     {
       "title": "Show HN: Ktx – Open-source executable context layer for data agents",
       "url": "https://github.com/Kaelio/ktx",
@@ -280,13 +287,6 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-05-23T09:28:45+09:00"
-    },
-    {
-      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "url": "https://github.com/anomalyco/models.dev",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-22T20:26:07+00:00"
     }
   ]
 }
