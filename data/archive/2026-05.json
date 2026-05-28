@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-28T01:37:04.309247+00:00",
+  "generated_at": "2026-05-28T03:11:05.738000+00:00",
   "total_articles": 458,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 98,
+    "hn": 354,
+    "zennqiita": 96,
     "project": 8
   },
   "severity_counts": {
+    "high": 5,
     "medium": 6,
-    "critical": 13,
-    "high": 5
+    "critical": 13
   },
   "top_articles": [
     {
@@ -63,6 +63,13 @@
       "date": "2026-05-22T11:28:08+00:00"
     },
     {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "score": 700,
+      "source": "hn",
+      "date": "2026-05-27T16:28:41+00:00"
+    },
+    {
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "score": 694,
@@ -70,11 +77,18 @@
       "date": "2026-05-24T13:02:06+00:00"
     },
     {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 665,
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "score": 685,
       "source": "hn",
-      "date": "2026-05-27T16:28:41+00:00"
+      "date": "2026-05-27T16:39:13+00:00"
+    },
+    {
+      "title": "Last.fm is now independent",
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "score": 656,
+      "source": "hn",
+      "date": "2026-05-27T15:36:09+00:00"
     },
     {
       "title": "Shipping a laptop to a refugee camp in Uganda",
@@ -84,25 +98,11 @@
       "date": "2026-05-22T21:36:55+00:00"
     },
     {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 642,
-      "source": "hn",
-      "date": "2026-05-27T16:39:13+00:00"
-    },
-    {
       "title": "GitHub Actions down again today",
       "url": "https://www.githubstatus.com/?today",
       "score": 628,
       "source": "hn",
       "date": "2026-05-26T11:42:58+00:00"
-    },
-    {
-      "title": "Last.fm is now independent",
-      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-      "score": 626,
-      "source": "hn",
-      "date": "2026-05-27T15:36:09+00:00"
     },
     {
       "title": "Texas woman arrested for Facebook post about town water quality",
@@ -114,9 +114,16 @@
     {
       "title": "Tech CEOs are apparently suffering from AI psychosis",
       "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "score": 567,
+      "score": 602,
       "source": "hn",
       "date": "2026-05-27T15:20:47+00:00"
+    },
+    {
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 574,
+      "source": "hn",
+      "date": "2026-05-27T20:00:51+00:00"
     },
     {
       "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
@@ -126,11 +133,11 @@
       "date": "2026-05-25T22:30:27+00:00"
     },
     {
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 530,
+      "title": "Can we have the day off?",
+      "url": "https://mlsu.io/posts/day-off/",
+      "score": 523,
       "source": "hn",
-      "date": "2026-05-27T20:00:51+00:00"
+      "date": "2026-05-28T00:40:26+00:00"
     },
     {
       "title": "Project Glasswing: An Initial Update",
@@ -145,16 +152,16 @@
       "score": 513,
       "source": "hn",
       "date": "2026-05-26T11:46:08+00:00"
-    },
-    {
-      "title": "The worst job interview I ever had",
-      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-      "score": 506,
-      "source": "hn",
-      "date": "2026-05-26T20:11:49+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
+      "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-05-28T11:40:34+09:00"
+    },
     {
       "title": "Show HN: Open-Source AI Racing Harness",
       "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
@@ -189,13 +196,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-27T02:22:59+00:00"
-    },
-    {
-      "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
-      "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-05-27T08:52:04+09:00"
     },
     {
       "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
