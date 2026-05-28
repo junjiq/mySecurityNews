@@ -1,7 +1,7 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T09:16:34.022674+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-05-28T10:48:03.293962+00:00",
+  "total_articles": 54,
   "urgent_count": 6,
   "urgent_items": [
     {
@@ -50,16 +50,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 45,
       "top_items": [
-        {
-          "title": "I'm Tired of Talking to AI",
-          "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-          "score": 1724,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-27T10:43:25+00:00"
-        },
         {
           "title": "Can we have the day off?",
           "url": "https://mlsu.io/posts/day-off/",
@@ -71,33 +63,49 @@
         {
           "title": "YouTube to automatically label AI-generated videos",
           "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-          "score": 855,
+          "score": 906,
           "source": "hn",
           "severity": null,
           "date": "2026-05-27T20:00:51+00:00"
         },
         {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "score": 884,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-27T16:39:13+00:00"
+        },
+        {
           "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
           "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-          "score": 853,
+          "score": 882,
           "source": "hn",
           "severity": null,
           "date": "2026-05-27T16:28:41+00:00"
         },
         {
-          "title": "I think Anthropic and OpenAI have found product-market fit",
-          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-          "score": 852,
+          "title": "Last.fm is now independent",
+          "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+          "score": 680,
           "source": "hn",
           "severity": null,
-          "date": "2026-05-27T16:39:13+00:00"
+          "date": "2026-05-27T15:36:09+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 9,
       "top_items": [
+        {
+          "title": "16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術",
+          "url": "https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-28T18:58:54+09:00"
+        },
         {
           "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する",
           "url": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -129,14 +137,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-28T11:51:21+09:00"
-        },
-        {
-          "title": "15万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術",
-          "url": "https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-28T11:18:08+09:00"
         }
       ]
     }
