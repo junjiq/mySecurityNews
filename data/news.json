@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-05-29T11:07:27.311244+00:00",
+  "updated_at": "2026-05-29T12:31:26.241224+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48322030",
+      "source": "hn",
+      "title": "Cedana (YC S23) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc",
+      "score": 1,
+      "comments": 0,
+      "author": "neelm",
+      "tags": [],
+      "date": "2026-05-29T12:01:00+00:00"
+    },
+    {
+      "id": "hn-48321956",
+      "source": "hn",
+      "title": "Tulip mania: when a single flower was worth more than a house",
+      "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
+      "score": 4,
+      "comments": 0,
+      "author": "dotcoma",
+      "tags": [],
+      "date": "2026-05-29T11:51:34+00:00"
+    },
+    {
+      "id": "hn-48321631",
+      "source": "hn",
+      "title": "Is AI causing a repeat of Front end's Lost Decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "score": 56,
+      "comments": 33,
+      "author": "xyzal",
+      "tags": [],
+      "date": "2026-05-29T11:09:32+00:00"
+    },
+    {
+      "id": "hn-48321421",
+      "source": "hn",
+      "title": "Digital Identity Management in Norway Is a Catastrophe",
+      "url": "https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html",
+      "score": 16,
+      "comments": 0,
+      "author": "giuliomagnifico",
+      "tags": [],
+      "date": "2026-05-29T10:42:53+00:00"
+    },
     {
       "id": "hn-48321264",
       "source": "hn",
       "title": "Is This Sustainable?",
       "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
-      "score": 3,
-      "comments": 0,
+      "score": 27,
+      "comments": 26,
       "author": "ColinEberhardt",
       "tags": [],
       "date": "2026-05-29T10:14:43+00:00"
@@ -18,8 +62,8 @@
       "source": "hn",
       "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
       "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "score": 20,
-      "comments": 18,
+      "score": 51,
+      "comments": 34,
       "author": "NicoConstant",
       "tags": [],
       "date": "2026-05-29T09:47:23+00:00"
@@ -29,8 +73,8 @@
       "source": "hn",
       "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
       "url": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
-      "score": 3,
-      "comments": 0,
+      "score": 46,
+      "comments": 56,
       "author": "steveharing1",
       "tags": [],
       "date": "2026-05-29T09:34:37+00:00"
@@ -73,8 +117,8 @@
       "source": "hn",
       "title": "Volkswagen blocks Home Assistant by requiring client assertion",
       "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-      "score": 192,
-      "comments": 97,
+      "score": 239,
+      "comments": 119,
       "author": "Kwastie",
       "tags": [],
       "date": "2026-05-29T05:45:36+00:00"
@@ -145,8 +189,8 @@
       "source": "hn",
       "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
       "url": "https://github.com/HeidiSQL/HeidiSQL",
-      "score": 30,
-      "comments": 11,
+      "score": 49,
+      "comments": 16,
       "author": "peter_d_sherman",
       "tags": [],
       "date": "2026-05-29T03:14:39+00:00"
@@ -156,8 +200,8 @@
       "source": "hn",
       "title": "Let's compile Quake like it's 1997",
       "url": "https://fabiensanglard.net/compile_like_1997/",
-      "score": 39,
-      "comments": 19,
+      "score": 67,
+      "comments": 28,
       "author": "goranmoomin",
       "tags": [],
       "date": "2026-05-29T03:07:22+00:00"
@@ -167,8 +211,8 @@
       "source": "hn",
       "title": "Cars collect a startling amount of data about you",
       "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-      "score": 350,
-      "comments": 165,
+      "score": 389,
+      "comments": 184,
       "author": "1vuio0pswjnm7",
       "tags": [],
       "date": "2026-05-29T03:01:00+00:00"
@@ -204,8 +248,8 @@
       "source": "hn",
       "title": "Italians and Dutch share the same gestural instinct for teaching",
       "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
-      "score": 72,
-      "comments": 28,
+      "score": 85,
+      "comments": 37,
       "author": "vi_sextus_vi",
       "tags": [],
       "date": "2026-05-29T02:33:13+00:00"
@@ -228,8 +272,8 @@
       "source": "hn",
       "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
       "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-      "score": 121,
-      "comments": 27,
+      "score": 174,
+      "comments": 33,
       "author": "ankitg12",
       "tags": [],
       "date": "2026-05-29T02:13:20+00:00"
@@ -252,8 +296,8 @@
       "source": "hn",
       "title": "Blue Origin's New Glenn blows up during static fire test",
       "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-      "score": 300,
-      "comments": 298,
+      "score": 319,
+      "comments": 318,
       "author": "enraged_camel",
       "tags": [],
       "date": "2026-05-29T01:16:38+00:00"
@@ -367,8 +411,8 @@
       "source": "hn",
       "title": "I made a million dollar product from my dorm room (2025)",
       "url": "https://nick.winans.io/blog/nice-nano/",
-      "score": 430,
-      "comments": 66,
+      "score": 464,
+      "comments": 70,
       "author": "mattrighetti",
       "tags": [],
       "date": "2026-05-28T20:25:21+00:00"
@@ -400,8 +444,8 @@
       "source": "hn",
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 996,
-      "comments": 462,
+      "score": 1056,
+      "comments": 489,
       "author": "philips",
       "tags": [],
       "date": "2026-05-28T19:24:09+00:00"
@@ -411,8 +455,8 @@
       "source": "hn",
       "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
       "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "score": 260,
-      "comments": 88,
+      "score": 272,
+      "comments": 91,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-28T19:15:54+00:00"
@@ -532,8 +576,8 @@
       "source": "hn",
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1558,
-      "comments": 1223,
+      "score": 1600,
+      "comments": 1254,
       "author": "craigmart",
       "tags": [],
       "date": "2026-05-28T16:49:14+00:00"
@@ -643,8 +687,8 @@
       "source": "hn",
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
-      "score": 330,
-      "comments": 135,
+      "score": 343,
+      "comments": 136,
       "author": "Wirbelwind",
       "tags": [],
       "date": "2026-05-28T13:02:00+00:00"
@@ -2018,8 +2062,8 @@
       "source": "hn",
       "title": "Barthelme, the Houstonian",
       "url": "https://www.theparisreview.org/blog/2026/05/22/barthelme-the-houstonian/",
-      "score": 4,
-      "comments": 0,
+      "score": 14,
+      "comments": 2,
       "author": "Caiero",
       "tags": [],
       "date": "2026-05-26T19:19:22+00:00"
@@ -2205,7 +2249,7 @@
       "source": "hn",
       "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
       "url": "https://coalton-lang.github.io/",
-      "score": 165,
+      "score": 168,
       "comments": 31,
       "author": "b-man",
       "tags": [],
@@ -2221,6 +2265,17 @@
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-26T14:30:21+00:00"
+    },
+    {
+      "id": "hn-48280231",
+      "source": "hn",
+      "title": "Show HN: Compile-time model-id validation with declared capability",
+      "url": "https://github.com/yujonglee/openrouter-toolkit",
+      "score": 4,
+      "comments": 2,
+      "author": "yujonglee",
+      "tags": [],
+      "date": "2026-05-26T14:20:07+00:00"
     },
     {
       "id": "hn-48279842",
@@ -2420,8 +2475,8 @@
       "source": "hn",
       "title": "News about Raspberry Pi 6 and Microcontroller Development",
       "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "score": 204,
-      "comments": 169,
+      "score": 210,
+      "comments": 174,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-26T08:02:52+00:00"
@@ -2453,8 +2508,8 @@
       "source": "hn",
       "title": "Orchestrating AI code review at scale",
       "url": "https://blog.cloudflare.com/ai-code-review/",
-      "score": 17,
-      "comments": 5,
+      "score": 31,
+      "comments": 16,
       "author": "pramodbiligiri",
       "tags": [],
       "date": "2026-05-26T07:06:28+00:00"
@@ -3888,8 +3943,8 @@
       "source": "hn",
       "title": "Ten Basic Clouds",
       "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "score": 127,
-      "comments": 34,
+      "score": 138,
+      "comments": 39,
       "author": "nopg",
       "tags": [],
       "date": "2026-05-24T21:52:55+00:00"
@@ -5204,67 +5259,6 @@
         "Qiita"
       ],
       "date": "2026-05-23T18:47:21+09:00"
-    },
-    {
-      "id": "hn-48246232",
-      "source": "hn",
-      "title": "-​-dangerously-skip-reading-code",
-      "url": "https://olano.dev/blog/dangerously-skip/",
-      "score": 118,
-      "comments": 124,
-      "author": "fagnerbrack",
-      "tags": [],
-      "date": "2026-05-23T09:37:16+00:00"
-    },
-    {
-      "id": "qiita-56f9ca7aed",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "MacStudio 上の vllm-mlx で Qwen 系モデルを動かしたベンチマーク結果",
-      "url": "https://qiita.com/rairaii/items/756ff06330dd430dd268?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "rairaii",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-23T18:09:29+09:00"
-    },
-    {
-      "id": "qiita-49d89e1e32",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "統計検定2級と準1級に2ヶ月で一発合格した",
-      "url": "https://qiita.com/levyx/items/d2b57170744dc12e5afb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "levyx",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-23T17:56:06+09:00"
-    },
-    {
-      "id": "qiita-03fe7541ae",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "微分方程式の右辺を眺める：dx/dt = 0, 1, x, x^2, x^3 の時間発展",
-      "url": "https://qiita.com/sakaimaging/items/82cd4a9098c5cf1269d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sakaimaging",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-23T17:39:22+09:00"
-    },
-    {
-      "id": "hn-48245916",
-      "source": "hn",
-      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-      "url": "https://ohwr.org/projects/white-rabbit/",
-      "score": 159,
-      "comments": 37,
-      "author": "michaelsbradley",
-      "tags": [],
-      "date": "2026-05-23T08:38:44+00:00"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",
