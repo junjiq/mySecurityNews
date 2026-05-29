@@ -1,9 +1,16 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T22:07:43.774199+00:00",
-  "total_articles": 74,
-  "urgent_count": 4,
+  "generated_at": "2026-05-29T22:56:26.187617+00:00",
+  "total_articles": 77,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "url": "https://github.com/secluso/core",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-29T22:32:29+00:00"
+    },
     {
       "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
       "url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
@@ -36,7 +43,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 61,
       "top_items": [
         {
           "title": "I am retiring from tech to live offline",
@@ -47,20 +54,20 @@
           "date": "2026-05-29T14:40:47+00:00"
         },
         {
-          "title": "GTA 6 Developers Unionize",
-          "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-          "score": 502,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-29T15:32:55+00:00"
-        },
-        {
           "title": "The dead economy theory",
           "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-          "score": 493,
+          "score": 557,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T15:46:24+00:00"
+        },
+        {
+          "title": "GTA 6 Developers Unionize",
+          "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+          "score": 519,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-29T15:32:55+00:00"
         },
         {
           "title": "Blue Origin's New Glenn blows up during static fire test",

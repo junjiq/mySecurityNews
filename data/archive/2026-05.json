@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-29T22:07:43.815959+00:00",
+  "generated_at": "2026-05-29T22:56:26.231267+00:00",
   "total_articles": 458,
   "source_counts": {
     "hn": 358,
@@ -8,9 +8,9 @@
     "project": 8
   },
   "severity_counts": {
+    "critical": 16,
     "high": 6,
-    "critical": 15,
-    "medium": 4
+    "medium": 3
   },
   "top_articles": [
     {
@@ -126,6 +126,13 @@
       "date": "2026-05-27T15:20:47+00:00"
     },
     {
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "score": 557,
+      "source": "hn",
+      "date": "2026-05-29T15:46:24+00:00"
+    },
+    {
       "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
       "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
       "score": 542,
@@ -133,28 +140,28 @@
       "date": "2026-05-25T22:30:27+00:00"
     },
     {
+      "title": "GTA 6 Developers Unionize",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "score": 519,
+      "source": "hn",
+      "date": "2026-05-29T15:32:55+00:00"
+    },
+    {
       "title": "Netherlands blocks US takeover of vital digital supplier",
       "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
       "score": 513,
       "source": "hn",
       "date": "2026-05-26T11:46:08+00:00"
-    },
-    {
-      "title": "The worst job interview I ever had",
-      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-      "score": 506,
-      "source": "hn",
-      "date": "2026-05-26T20:11:49+00:00"
-    },
-    {
-      "title": "GTA 6 Developers Unionize",
-      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "score": 502,
-      "source": "hn",
-      "date": "2026-05-29T15:32:55+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "url": "https://github.com/secluso/core",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-29T22:32:29+00:00"
+    },
     {
       "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
       "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
