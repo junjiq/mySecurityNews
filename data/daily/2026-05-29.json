@@ -1,8 +1,8 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T15:46:11.487345+00:00",
-  "total_articles": 66,
-  "urgent_count": 2,
+  "generated_at": "2026-05-29T17:11:09.161496+00:00",
+  "total_articles": 67,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
@@ -10,6 +10,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-29T14:15:41+00:00"
+    },
+    {
+      "title": "Someone used my open source project to phish 14,000 people",
+      "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-29T13:18:57+00:00"
     },
     {
       "title": "GitHub bans security researcher who posted zero-day Windows exploits",
@@ -22,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 58,
       "top_items": [
-        {
-          "title": "Claude Opus 4.8",
-          "url": "https://www.anthropic.com/news/claude-opus-4-8",
-          "score": 1667,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-28T16:49:14+00:00"
-        },
         {
           "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
           "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-          "score": 1197,
+          "score": 1226,
           "source": "hn",
           "severity": null,
           "date": "2026-05-28T19:24:09+00:00"
@@ -57,12 +56,20 @@
           "date": "2026-05-29T03:01:00+00:00"
         },
         {
-          "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-          "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+          "title": "Blue Origin's New Glenn blows up during static fire test",
+          "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+          "score": 426,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-29T01:16:38+00:00"
+        },
+        {
+          "title": "I Am Retiring from Tech to Live Offline",
+          "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
           "score": 419,
           "source": "hn",
-          "severity": "critical",
-          "date": "2026-05-28T21:45:54+00:00"
+          "severity": null,
+          "date": "2026-05-29T14:40:47+00:00"
         }
       ]
     },
@@ -70,6 +77,14 @@
       "category": "日本語技術記事",
       "count": 9,
       "top_items": [
+        {
+          "title": "出たてほやほやのClaude Opus 4.8を整理してみた",
+          "url": "https://qiita.com/kaichan_dot/items/a5234436a61194e24df7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-30T01:44:22+09:00"
+        },
         {
           "title": "1割の“信頼される”エンジニアが実行している『問題の出し方』",
           "url": "https://qiita.com/hitomin_poke/items/48b1eca9c48f05839692?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -93,14 +108,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-29T13:15:21+09:00"
-        },
-        {
-          "title": "出たてほやほやのClaude Opus 4.8を整理してみた",
-          "url": "https://qiita.com/kaichan_dot/items/a5234436a61194e24df7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-29T11:44:22+09:00"
         },
         {
           "title": "「Zustandがあれば Context はもう要らない」──そんな声をよく聞きます。本当にそうでしょうか？",
