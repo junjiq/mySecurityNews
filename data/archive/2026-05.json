@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-29T21:13:24.691220+00:00",
+  "generated_at": "2026-05-29T22:07:43.815959+00:00",
   "total_articles": 458,
   "source_counts": {
-    "hn": 357,
-    "zennqiita": 93,
+    "hn": 358,
+    "zennqiita": 92,
     "project": 8
   },
   "severity_counts": {
     "high": 6,
-    "critical": 14,
+    "critical": 15,
     "medium": 4
   },
   "top_articles": [
@@ -91,6 +91,13 @@
       "date": "2026-05-26T13:08:13+00:00"
     },
     {
+      "title": "I am retiring from tech to live offline",
+      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+      "score": 697,
+      "source": "hn",
+      "date": "2026-05-29T14:40:47+00:00"
+    },
+    {
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "score": 694,
@@ -103,13 +110,6 @@
       "score": 680,
       "source": "hn",
       "date": "2026-05-27T15:36:09+00:00"
-    },
-    {
-      "title": "I am retiring from tech to live offline",
-      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-      "score": 665,
-      "source": "hn",
-      "date": "2026-05-29T14:40:47+00:00"
     },
     {
       "title": "GitHub Actions down again today",
@@ -147,11 +147,11 @@
       "date": "2026-05-26T20:11:49+00:00"
     },
     {
-      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "url": "https://audiomass.co/?multitrack=1",
-      "score": 500,
+      "title": "GTA 6 Developers Unionize",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "score": 502,
       "source": "hn",
-      "date": "2026-05-24T15:25:43+00:00"
+      "date": "2026-05-29T15:32:55+00:00"
     }
   ],
   "security_highlights": [
@@ -252,6 +252,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-27T02:22:59+00:00"
+    },
+    {
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-26T18:05:42+00:00"
     },
     {
       "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
