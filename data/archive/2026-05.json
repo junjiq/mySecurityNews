@@ -1,10 +1,10 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-29T06:31:23.426541+00:00",
+  "generated_at": "2026-05-29T08:18:51.622954+00:00",
   "total_articles": 458,
   "source_counts": {
-    "hn": 353,
-    "zennqiita": 97,
+    "hn": 349,
+    "zennqiita": 101,
     "project": 8
   },
   "severity_counts": {
@@ -21,18 +21,18 @@
       "date": "2026-05-27T10:43:25+00:00"
     },
     {
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "score": 1475,
+      "source": "hn",
+      "date": "2026-05-28T16:49:14+00:00"
+    },
+    {
       "title": "Magnifica Humanitas",
       "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
       "score": 1422,
       "source": "hn",
       "date": "2026-05-25T10:11:29+00:00"
-    },
-    {
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1392,
-      "source": "hn",
-      "date": "2026-05-28T16:49:14+00:00"
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
@@ -86,7 +86,7 @@
     {
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 799,
+      "score": 891,
       "source": "hn",
       "date": "2026-05-28T19:24:09+00:00"
     },
@@ -212,6 +212,13 @@
       "date": "2026-05-27T19:55:34+09:00"
     },
     {
+      "title": "Franklin Pierce by David W. Blight",
+      "url": "https://inpursuit.substack.com/p/franklin-pierce-by-david-w-blight",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-27T07:17:14+00:00"
+    },
+    {
       "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
       "url": "https://tsduck.io/",
       "severity": "critical",
@@ -280,13 +287,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-05-23T16:49:24+09:00"
-    },
-    {
-      "title": "【緊急】GitHubが陥落した日 - VS Code拡張機能から始まった3,800リポジトリ流出事件の全貌",
-      "url": "https://qiita.com/emi_ndk/items/6f1ddbe26cf5c5200aa3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-05-23T09:28:45+09:00"
     }
   ]
 }
