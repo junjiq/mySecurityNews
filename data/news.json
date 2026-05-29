@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-05-29T09:47:32.115394+00:00",
+  "updated_at": "2026-05-29T11:07:27.311244+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48321264",
+      "source": "hn",
+      "title": "Is This Sustainable?",
+      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+      "score": 3,
+      "comments": 0,
+      "author": "ColinEberhardt",
+      "tags": [],
+      "date": "2026-05-29T10:14:43+00:00"
+    },
+    {
+      "id": "hn-48321076",
+      "source": "hn",
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "score": 20,
+      "comments": 18,
+      "author": "NicoConstant",
+      "tags": [],
+      "date": "2026-05-29T09:47:23+00:00"
+    },
+    {
+      "id": "hn-48320985",
+      "source": "hn",
+      "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
+      "url": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
+      "score": 3,
+      "comments": 0,
+      "author": "steveharing1",
+      "tags": [],
+      "date": "2026-05-29T09:34:37+00:00"
+    },
     {
       "id": "hn-48320639",
       "source": "hn",
       "title": "Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey",
       "url": "https://www.phoronix.com/review/cache-aware-scheduling-hedt",
-      "score": 9,
-      "comments": 0,
+      "score": 20,
+      "comments": 2,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-29T08:36:32+00:00"
@@ -40,8 +73,8 @@
       "source": "hn",
       "title": "Volkswagen blocks Home Assistant by requiring client assertion",
       "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-      "score": 155,
-      "comments": 77,
+      "score": 192,
+      "comments": 97,
       "author": "Kwastie",
       "tags": [],
       "date": "2026-05-29T05:45:36+00:00"
@@ -112,8 +145,8 @@
       "source": "hn",
       "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
       "url": "https://github.com/HeidiSQL/HeidiSQL",
-      "score": 18,
-      "comments": 5,
+      "score": 30,
+      "comments": 11,
       "author": "peter_d_sherman",
       "tags": [],
       "date": "2026-05-29T03:14:39+00:00"
@@ -123,8 +156,8 @@
       "source": "hn",
       "title": "Let's compile Quake like it's 1997",
       "url": "https://fabiensanglard.net/compile_like_1997/",
-      "score": 27,
-      "comments": 12,
+      "score": 39,
+      "comments": 19,
       "author": "goranmoomin",
       "tags": [],
       "date": "2026-05-29T03:07:22+00:00"
@@ -134,8 +167,8 @@
       "source": "hn",
       "title": "Cars collect a startling amount of data about you",
       "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-      "score": 325,
-      "comments": 150,
+      "score": 350,
+      "comments": 165,
       "author": "1vuio0pswjnm7",
       "tags": [],
       "date": "2026-05-29T03:01:00+00:00"
@@ -171,8 +204,8 @@
       "source": "hn",
       "title": "Italians and Dutch share the same gestural instinct for teaching",
       "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
-      "score": 61,
-      "comments": 20,
+      "score": 72,
+      "comments": 28,
       "author": "vi_sextus_vi",
       "tags": [],
       "date": "2026-05-29T02:33:13+00:00"
@@ -195,8 +228,8 @@
       "source": "hn",
       "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
       "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-      "score": 86,
-      "comments": 19,
+      "score": 121,
+      "comments": 27,
       "author": "ankitg12",
       "tags": [],
       "date": "2026-05-29T02:13:20+00:00"
@@ -219,8 +252,8 @@
       "source": "hn",
       "title": "Blue Origin's New Glenn blows up during static fire test",
       "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-      "score": 286,
-      "comments": 286,
+      "score": 300,
+      "comments": 298,
       "author": "enraged_camel",
       "tags": [],
       "date": "2026-05-29T01:16:38+00:00"
@@ -276,7 +309,7 @@
       "source": "hn",
       "title": "Garnix (A Nix CI) is shutting down",
       "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-      "score": 65,
+      "score": 66,
       "comments": 26,
       "author": "agnishom",
       "tags": [],
@@ -311,8 +344,8 @@
       "source": "hn",
       "title": "GitHub bans security researcher who posted zero-day Windows exploits",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-      "score": 391,
-      "comments": 173,
+      "score": 419,
+      "comments": 188,
       "author": "possibilistic",
       "tags": [],
       "date": "2026-05-28T21:45:54+00:00",
@@ -334,8 +367,8 @@
       "source": "hn",
       "title": "I made a million dollar product from my dorm room (2025)",
       "url": "https://nick.winans.io/blog/nice-nano/",
-      "score": 397,
-      "comments": 62,
+      "score": 430,
+      "comments": 66,
       "author": "mattrighetti",
       "tags": [],
       "date": "2026-05-28T20:25:21+00:00"
@@ -367,8 +400,8 @@
       "source": "hn",
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 945,
-      "comments": 434,
+      "score": 996,
+      "comments": 462,
       "author": "philips",
       "tags": [],
       "date": "2026-05-28T19:24:09+00:00"
@@ -378,8 +411,8 @@
       "source": "hn",
       "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
       "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "score": 247,
-      "comments": 83,
+      "score": 260,
+      "comments": 88,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-28T19:15:54+00:00"
@@ -499,8 +532,8 @@
       "source": "hn",
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1526,
-      "comments": 1190,
+      "score": 1558,
+      "comments": 1223,
       "author": "craigmart",
       "tags": [],
       "date": "2026-05-28T16:49:14+00:00"
@@ -532,7 +565,7 @@
       "source": "hn",
       "title": "The Permanent Upper Crow",
       "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "score": 185,
+      "score": 188,
       "comments": 74,
       "author": "whiteblossom",
       "tags": [],
@@ -610,8 +643,8 @@
       "source": "hn",
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
-      "score": 322,
-      "comments": 133,
+      "score": 330,
+      "comments": 135,
       "author": "Wirbelwind",
       "tags": [],
       "date": "2026-05-28T13:02:00+00:00"
@@ -1981,6 +2014,17 @@
       "date": "2026-05-26T19:25:13+00:00"
     },
     {
+      "id": "hn-48284604",
+      "source": "hn",
+      "title": "Barthelme, the Houstonian",
+      "url": "https://www.theparisreview.org/blog/2026/05/22/barthelme-the-houstonian/",
+      "score": 4,
+      "comments": 0,
+      "author": "Caiero",
+      "tags": [],
+      "date": "2026-05-26T19:19:22+00:00"
+    },
+    {
       "id": "hn-48283914",
       "source": "hn",
       "title": "Stop Advertising in Your Commits",
@@ -2128,8 +2172,8 @@
       "source": "hn",
       "title": "Avoid Using \"< [Cdata[ ]]>\" in RSS",
       "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
-      "score": 16,
-      "comments": 8,
+      "score": 20,
+      "comments": 12,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-26T15:15:02+00:00"
@@ -2161,8 +2205,8 @@
       "source": "hn",
       "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
       "url": "https://coalton-lang.github.io/",
-      "score": 158,
-      "comments": 28,
+      "score": 165,
+      "comments": 31,
       "author": "b-man",
       "tags": [],
       "date": "2026-05-26T14:36:20+00:00"
@@ -2376,8 +2420,8 @@
       "source": "hn",
       "title": "News about Raspberry Pi 6 and Microcontroller Development",
       "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "score": 198,
-      "comments": 161,
+      "score": 204,
+      "comments": 169,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-26T08:02:52+00:00"
@@ -2409,8 +2453,8 @@
       "source": "hn",
       "title": "Orchestrating AI code review at scale",
       "url": "https://blog.cloudflare.com/ai-code-review/",
-      "score": 3,
-      "comments": 0,
+      "score": 17,
+      "comments": 5,
       "author": "pramodbiligiri",
       "tags": [],
       "date": "2026-05-26T07:06:28+00:00"
@@ -3844,8 +3888,8 @@
       "source": "hn",
       "title": "Ten Basic Clouds",
       "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "score": 115,
-      "comments": 33,
+      "score": 127,
+      "comments": 34,
       "author": "nopg",
       "tags": [],
       "date": "2026-05-24T21:52:55+00:00"
@@ -5223,55 +5267,6 @@
       "date": "2026-05-23T08:38:44+00:00"
     },
     {
-      "id": "hn-48245862",
-      "source": "hn",
-      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-      "score": 337,
-      "comments": 123,
-      "author": "Tomte",
-      "tags": [],
-      "date": "2026-05-23T08:24:57+00:00"
-    },
-    {
-      "id": "qiita-1ce730e3fe",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "OpenClawで脆弱性情報収集と自社システムチェック判定を定期自動稼働させた",
-      "url": "https://qiita.com/taks/items/5ba334aca2ecb8276e8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "taks",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-23T16:49:24+09:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-48245571",
-      "source": "hn",
-      "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
-      "score": 136,
-      "comments": 37,
-      "author": "Michelangelo11",
-      "tags": [],
-      "date": "2026-05-23T07:34:33+00:00"
-    },
-    {
-      "id": "qiita-d9e25f409e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "個人開発アプリにカメラで文字を読み取るOCR機能をつけた",
-      "url": "https://qiita.com/fkmiso/items/c40dc0ed5356bed1b0a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "fkmiso",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-23T16:16:47+09:00"
-    },
-    {
       "id": "ghrel-fortra_impacket-325120279",
       "source": "project",
       "proj_category": "Tools",
@@ -5384,6 +5379,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-dc5c97e915",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "フロンティアAI による脅威変化を踏まえたFinatextグループとしての対応方針",
+      "url": "https://zenn.dev/finatext/articles/policy-for-frontier-ai",
+      "score": null,
+      "author": "s_tajima",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 29 May 2026 02:30:05 GMT"
+    },
+    {
       "id": "zenn-9a044407c7",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5397,6 +5405,32 @@
       "date": "Thu, 28 May 2026 16:08:17 GMT"
     },
     {
+      "id": "zenn-8323b6c961",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Agents！機能が多い！でもここだけ抑えたら便利に使える！",
+      "url": "https://zenn.dev/nana/articles/3fd7e9dffeb831",
+      "score": null,
+      "author": "Ugo",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 28 May 2026 13:37:21 GMT"
+    },
+    {
+      "id": "zenn-0ec30a5e1d",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "MCPでAgentのできることを増やすのをやめたら、Context Boundaryが残った",
+      "url": "https://zenn.dev/mofuteq/articles/be562471f96a68",
+      "score": null,
+      "author": "mofuteq",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 28 May 2026 12:05:51 GMT"
+    },
+    {
       "id": "zenn-af0015e6e6",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5408,19 +5442,6 @@
         "Zenn"
       ],
       "date": "Thu, 28 May 2026 08:19:28 GMT"
-    },
-    {
-      "id": "zenn-9422e97fe5",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【Laravel 13】Laravel AI SDK を試してみた",
-      "url": "https://zenn.dev/sdb_blog/articles/dded156f2106d3",
-      "score": null,
-      "author": "tatata-keshi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 28 May 2026 08:00:00 GMT"
     },
     {
       "id": "zenn-a4d79873be",
@@ -5488,6 +5509,19 @@
       "date": "Thu, 28 May 2026 02:30:05 GMT"
     },
     {
+      "id": "zenn-f04f939aac",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【Claude Code ✖Obsidian】自分用ルールをskillsを使ってAIに自動読み込み・更新させる仕組みを作ってみた",
+      "url": "https://zenn.dev/arm_techblog/articles/ea4a436c5b80bb",
+      "score": null,
+      "author": "もろ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 28 May 2026 02:03:28 GMT"
+    },
+    {
       "id": "zenn-8228de2776",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5499,6 +5533,19 @@
         "Zenn"
       ],
       "date": "Thu, 28 May 2026 01:01:10 GMT"
+    },
+    {
+      "id": "zenn-b4759686d3",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Gemma 4が4種類もあって混乱したので整理してみた！",
+      "url": "https://zenn.dev/tasshi441/articles/8a80daffac2556",
+      "score": null,
+      "author": "たっしー",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 27 May 2026 22:30:06 GMT"
     },
     {
       "id": "zenn-936ffc7368",
@@ -5553,46 +5600,6 @@
       "date": "Wed, 27 May 2026 07:31:11 GMT"
     },
     {
-      "id": "zenn-26c2106053",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "会議で知ったかするためのAIエージェント「知ったかくん」を作った",
-      "url": "https://zenn.dev/wildchild_hiro/articles/065ae3386d9c16",
-      "score": null,
-      "author": "Hirano",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 27 May 2026 05:03:26 GMT"
-    },
-    {
-      "id": "zenn-a472cf1adb",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "脆弱性診断はもう外注しなくていい ― ただし「独立性」だけは買い続ける理由",
-      "url": "https://zenn.dev/mshirakawa/articles/vulnerability-diagnosis-insourcing",
-      "score": null,
-      "author": "mshirakawa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 27 May 2026 04:42:51 GMT",
-      "severity": "high"
-    },
-    {
-      "id": "zenn-487e1e1a98",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "日本語OCRモデルを比較 ー 速度・性能・メモリから最適解を探る",
-      "url": "https://zenn.dev/acompany/articles/ddf8677f09e252",
-      "score": null,
-      "author": "luna_moonlight",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 27 May 2026 04:41:33 GMT"
-    },
-    {
       "id": "zenn-51d3b64fd6",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5630,19 +5637,6 @@
         "Zenn"
       ],
       "date": "Tue, 26 May 2026 09:00:05 GMT"
-    },
-    {
-      "id": "zenn-5c647ad06c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【GitHub Actions】actions/checkout には persist-credentials: false を設定するべき",
-      "url": "https://zenn.dev/kou_pg_0131/articles/gha-checkout-persist-credentials",
-      "score": null,
-      "author": "koki",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 25 May 2026 09:00:07 GMT"
     },
     {
       "id": "edb-f12984cfd7",
