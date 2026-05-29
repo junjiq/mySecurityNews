@@ -1,14 +1,49 @@
 {
-  "updated_at": "2026-05-29T20:17:32.019516+00:00",
+  "updated_at": "2026-05-29T21:13:24.581979+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48328932",
+      "source": "hn",
+      "title": "Why I collect DLES",
+      "url": "https://dles.gg/blog/dles-gg-manifesto",
+      "score": 9,
+      "comments": 2,
+      "author": "trizoza",
+      "tags": [],
+      "date": "2026-05-29T20:40:38+00:00"
+    },
+    {
+      "id": "hn-48328843",
+      "source": "hn",
+      "title": "A Trillion Characters",
+      "url": "https://characters.fastserial.com",
+      "score": 11,
+      "comments": 9,
+      "author": "andersmurphy",
+      "tags": [],
+      "date": "2026-05-29T20:32:56+00:00"
+    },
+    {
+      "id": "qiita-a1f810a6c0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド",
+      "url": "https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Un_titled",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-30T05:29:50+09:00"
+    },
     {
       "id": "hn-48328365",
       "source": "hn",
       "title": "The California State Assembly Has Passed the 'Protect Our Games Act'",
       "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-      "score": 22,
-      "comments": 4,
+      "score": 82,
+      "comments": 50,
       "author": "TechTechTech",
       "tags": [],
       "date": "2026-05-29T19:55:56+00:00"
@@ -18,11 +53,23 @@
       "source": "hn",
       "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
       "url": "https://github.com/jmaczan/tiny-vllm",
-      "score": 6,
-      "comments": 0,
+      "score": 22,
+      "comments": 2,
       "author": "yu3zhou4",
       "tags": [],
       "date": "2026-05-29T19:38:27+00:00"
+    },
+    {
+      "id": "hn-48328175",
+      "source": "hn",
+      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
+      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+      "score": 52,
+      "comments": 9,
+      "author": "Cider9986",
+      "tags": [],
+      "date": "2026-05-29T19:37:41+00:00",
+      "severity": "high"
     },
     {
       "id": "hn-48328088",
@@ -41,8 +88,8 @@
       "source": "hn",
       "title": "Shift will clean homes for free to train future robots",
       "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 9,
-      "comments": 13,
+      "score": 25,
+      "comments": 34,
       "author": "evilsimon",
       "tags": [],
       "date": "2026-05-29T19:16:32+00:00"
@@ -52,8 +99,8 @@
       "source": "hn",
       "title": "On Rendering Diffs",
       "url": "https://pierre.computer/writing/on-rendering-diffs",
-      "score": 54,
-      "comments": 12,
+      "score": 77,
+      "comments": 25,
       "author": "amadeus",
       "tags": [],
       "date": "2026-05-29T19:04:54+00:00"
@@ -63,8 +110,8 @@
       "source": "hn",
       "title": "Rothko for your current weather conditions",
       "url": "https://rothko.joonas.wtf/",
-      "score": 59,
-      "comments": 7,
+      "score": 81,
+      "comments": 9,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-05-29T18:31:52+00:00"
@@ -85,8 +132,8 @@
       "source": "hn",
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 154,
-      "comments": 78,
+      "score": 201,
+      "comments": 107,
       "author": "tomasol",
       "tags": [],
       "date": "2026-05-29T17:54:50+00:00"
@@ -96,8 +143,8 @@
       "source": "hn",
       "title": "Robinhood now lets your AI agents trade stocks",
       "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "score": 58,
-      "comments": 98,
+      "score": 71,
+      "comments": 126,
       "author": "wapasta",
       "tags": [],
       "date": "2026-05-29T17:46:27+00:00"
@@ -107,8 +154,8 @@
       "source": "hn",
       "title": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
       "url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
-      "score": 26,
-      "comments": 2,
+      "score": 29,
+      "comments": 6,
       "author": "backuprestore",
       "tags": [],
       "date": "2026-05-29T17:39:49+00:00"
@@ -131,8 +178,8 @@
       "source": "hn",
       "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
       "url": "https://tvexplorer.live",
-      "score": 51,
-      "comments": 8,
+      "score": 71,
+      "comments": 16,
       "author": "dtagames",
       "tags": [],
       "date": "2026-05-29T16:39:09+00:00"
@@ -142,8 +189,8 @@
       "source": "hn",
       "title": "Notes from the Mistral AI Now Summit in Paris",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 233,
-      "comments": 57,
+      "score": 258,
+      "comments": 66,
       "author": "vnglst",
       "tags": [],
       "date": "2026-05-29T16:22:01+00:00"
@@ -153,8 +200,8 @@
       "source": "hn",
       "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
       "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-      "score": 67,
-      "comments": 13,
+      "score": 90,
+      "comments": 23,
       "author": "simjnd",
       "tags": [],
       "date": "2026-05-29T16:19:54+00:00"
@@ -164,8 +211,8 @@
       "source": "hn",
       "title": "CAPTCHAs can still detect AI agents",
       "url": "https://research.roundtable.ai/captchas-detect-ai/",
-      "score": 52,
-      "comments": 33,
+      "score": 54,
+      "comments": 38,
       "author": "timshell",
       "tags": [],
       "date": "2026-05-29T15:57:37+00:00"
@@ -175,8 +222,8 @@
       "source": "hn",
       "title": "The dead economy theory",
       "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 360,
-      "comments": 491,
+      "score": 430,
+      "comments": 594,
       "author": "WillDaSilva",
       "tags": [],
       "date": "2026-05-29T15:46:24+00:00"
@@ -186,8 +233,8 @@
       "source": "hn",
       "title": "GTA 6 Developers Unionize",
       "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "score": 434,
-      "comments": 274,
+      "score": 473,
+      "comments": 298,
       "author": "AndrewKemendo",
       "tags": [],
       "date": "2026-05-29T15:32:55+00:00"
@@ -219,8 +266,8 @@
       "source": "hn",
       "title": "Bijou64: A variable-length integer encoding",
       "url": "https://www.inkandswitch.com/tangents/bijou64/",
-      "score": 175,
-      "comments": 64,
+      "score": 182,
+      "comments": 67,
       "author": "justinweiss",
       "tags": [],
       "date": "2026-05-29T15:03:32+00:00"
@@ -256,8 +303,8 @@
       "source": "hn",
       "title": "It's hard to justify buying a Framework 12",
       "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "score": 139,
-      "comments": 236,
+      "score": 160,
+      "comments": 281,
       "author": "watermelon0",
       "tags": [],
       "date": "2026-05-29T14:55:31+00:00"
@@ -267,8 +314,8 @@
       "source": "hn",
       "title": "I am retiring from tech to live offline",
       "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-      "score": 624,
-      "comments": 432,
+      "score": 665,
+      "comments": 455,
       "author": "PinkG",
       "tags": [],
       "date": "2026-05-29T14:40:47+00:00"
@@ -346,8 +393,8 @@
       "source": "hn",
       "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
       "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
-      "score": 130,
-      "comments": 48,
+      "score": 135,
+      "comments": 52,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-29T12:30:02+00:00"
@@ -368,8 +415,8 @@
       "source": "hn",
       "title": "We should be more tired than the model",
       "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-      "score": 124,
-      "comments": 102,
+      "score": 131,
+      "comments": 111,
       "author": "tosh",
       "tags": [],
       "date": "2026-05-29T12:12:16+00:00"
@@ -401,8 +448,8 @@
       "source": "hn",
       "title": "Is AI causing a repeat of frontend’s lost decade?",
       "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-      "score": 214,
-      "comments": 197,
+      "score": 230,
+      "comments": 205,
       "author": "xyzal",
       "tags": [],
       "date": "2026-05-29T11:09:32+00:00"
@@ -535,19 +582,6 @@
       "author": "joozio",
       "tags": [],
       "date": "2026-05-29T07:05:31+00:00"
-    },
-    {
-      "id": "qiita-a1f810a6c0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド",
-      "url": "https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Un_titled",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-29T14:50:59+09:00"
     },
     {
       "id": "hn-48319524",
@@ -2279,6 +2313,17 @@
       "author": "gingerlime",
       "tags": [],
       "date": "2026-05-27T00:40:05+00:00"
+    },
+    {
+      "id": "hn-48287963",
+      "source": "hn",
+      "title": "Notable Properties of Specific Numbers",
+      "url": "http://www.mrob.com/pub/math/numbers-19.html",
+      "score": 5,
+      "comments": 0,
+      "author": "rolph",
+      "tags": [],
+      "date": "2026-05-27T00:37:24+00:00"
     },
     {
       "id": "qiita-353c879ab2",
@@ -5214,51 +5259,6 @@
         "Qiita"
       ],
       "date": "2026-05-24T07:33:34+09:00"
-    },
-    {
-      "id": "hn-48252194",
-      "source": "hn",
-      "title": "Polsia raised $30M; source map: fake ARR, dead users, god-mode over your company",
-      "url": "https://zero-arr.vercel.app",
-      "score": 7,
-      "comments": 2,
-      "author": "not-chatgpt",
-      "tags": [],
-      "date": "2026-05-23T22:25:34+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48252192",
-      "source": "hn",
-      "title": "Don't Roll Your Own",
-      "url": "https://susam.net/do-not-roll-your-own.html",
-      "score": 81,
-      "comments": 62,
-      "author": "adunk",
-      "tags": [],
-      "date": "2026-05-23T22:25:05+00:00"
-    },
-    {
-      "id": "hn-48252146",
-      "source": "hn",
-      "title": "Byrne's Euclid",
-      "url": "https://www.c82.net/euclid/",
-      "score": 45,
-      "comments": 12,
-      "author": "layer8",
-      "tags": [],
-      "date": "2026-05-23T22:19:36+00:00"
-    },
-    {
-      "id": "hn-48252060",
-      "source": "hn",
-      "title": "Toxic chemical leak at a manufacturing facility in Orange County",
-      "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
-      "score": 105,
-      "comments": 74,
-      "author": "borski",
-      "tags": [],
-      "date": "2026-05-23T22:09:05+00:00"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",
