@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-29T19:21:48.952981+00:00",
+  "generated_at": "2026-05-29T20:17:32.143138+00:00",
   "total_articles": 458,
   "source_counts": {
-    "hn": 365,
-    "zennqiita": 85,
+    "hn": 357,
+    "zennqiita": 93,
     "project": 8
   },
   "severity_counts": {
+    "high": 5,
     "critical": 15,
-    "high": 4,
     "medium": 4
   },
   "top_articles": [
@@ -112,11 +112,11 @@
       "date": "2026-05-26T11:42:58+00:00"
     },
     {
-      "title": "Texas woman arrested for Facebook post about town water quality",
-      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-      "score": 606,
+      "title": "I am retiring from tech to live offline",
+      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+      "score": 624,
       "source": "hn",
-      "date": "2026-05-23T18:02:42+00:00"
+      "date": "2026-05-29T14:40:47+00:00"
     },
     {
       "title": "Tech CEOs are apparently suffering from AI psychosis",
@@ -124,13 +124,6 @@
       "score": 602,
       "source": "hn",
       "date": "2026-05-27T15:20:47+00:00"
-    },
-    {
-      "title": "I am retiring from tech to live offline",
-      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-      "score": 580,
-      "source": "hn",
-      "date": "2026-05-29T14:40:47+00:00"
     },
     {
       "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
@@ -152,9 +145,23 @@
       "score": 506,
       "source": "hn",
       "date": "2026-05-26T20:11:49+00:00"
+    },
+    {
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "score": 500,
+      "source": "hn",
+      "date": "2026-05-24T15:25:43+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "CVE-Bench: testing LLM agents on real-world vulnerability patches",
+      "url": "https://giovannigatti.github.io/cve-bench/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-05-29T19:28:55+00:00"
+    },
     {
       "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
       "url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
