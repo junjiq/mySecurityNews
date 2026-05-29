@@ -1,10 +1,10 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-29T17:11:09.203169+00:00",
+  "generated_at": "2026-05-29T18:22:19.030321+00:00",
   "total_articles": 458,
   "source_counts": {
-    "hn": 363,
-    "zennqiita": 87,
+    "hn": 365,
+    "zennqiita": 85,
     "project": 8
   },
   "severity_counts": {
@@ -133,6 +133,13 @@
       "date": "2026-05-25T22:30:27+00:00"
     },
     {
+      "title": "I am retiring from tech to live offline",
+      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+      "score": 515,
+      "source": "hn",
+      "date": "2026-05-29T14:40:47+00:00"
+    },
+    {
       "title": "Netherlands blocks US takeover of vital digital supplier",
       "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
       "score": 513,
@@ -145,13 +152,6 @@
       "score": 506,
       "source": "hn",
       "date": "2026-05-26T20:11:49+00:00"
-    },
-    {
-      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "url": "https://audiomass.co/?multitrack=1",
-      "score": 500,
-      "source": "hn",
-      "date": "2026-05-24T15:25:43+00:00"
     }
   ],
   "security_highlights": [
@@ -163,7 +163,7 @@
       "date": "2026-05-29T14:15:41+00:00"
     },
     {
-      "title": "Someone used my open source project to phish 14,000 people",
+      "title": "Someone used my open source project to phish people",
       "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
       "severity": "critical",
       "source": "hn",
