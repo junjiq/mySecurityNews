@@ -1,25 +1,58 @@
 {
-  "updated_at": "2026-05-29T01:41:50.861434+00:00",
+  "updated_at": "2026-05-29T03:11:57.917957+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48318481",
+      "source": "hn",
+      "title": "Cars are trying to spy on you, and it's only just the beginning",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "score": 7,
+      "comments": 0,
+      "author": "1vuio0pswjnm7",
+      "tags": [],
+      "date": "2026-05-29T03:01:00+00:00"
+    },
+    {
+      "id": "hn-48317774",
+      "source": "hn",
+      "title": "Blue Origin's New Glenn blows up during static fire test",
+      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+      "score": 91,
+      "comments": 37,
+      "author": "enraged_camel",
+      "tags": [],
+      "date": "2026-05-29T01:16:38+00:00"
+    },
     {
       "id": "hn-48317339",
       "source": "hn",
       "title": "Where are the economies of scale in homebuilding?",
       "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
-      "score": 10,
-      "comments": 1,
+      "score": 50,
+      "comments": 41,
       "author": "JumpCrisscross",
       "tags": [],
       "date": "2026-05-29T00:16:20+00:00"
+    },
+    {
+      "id": "hn-48317294",
+      "source": "hn",
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "score": 13,
+      "comments": 5,
+      "author": "freediver",
+      "tags": [],
+      "date": "2026-05-29T00:09:35+00:00"
     },
     {
       "id": "hn-48317093",
       "source": "hn",
       "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
       "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-      "score": 66,
-      "comments": 18,
+      "score": 110,
+      "comments": 51,
       "author": "drewda",
       "tags": [],
       "date": "2026-05-28T23:42:47+00:00"
@@ -29,19 +62,30 @@
       "source": "hn",
       "title": "Garnix (A Nix CI) is shutting down",
       "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-      "score": 30,
-      "comments": 11,
+      "score": 35,
+      "comments": 15,
       "author": "agnishom",
       "tags": [],
       "date": "2026-05-28T23:36:41+00:00"
+    },
+    {
+      "id": "hn-48315980",
+      "source": "hn",
+      "title": "Why Gentoo?",
+      "url": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
+      "score": 24,
+      "comments": 15,
+      "author": "akhuettel",
+      "tags": [],
+      "date": "2026-05-28T21:47:22+00:00"
     },
     {
       "id": "hn-48315968",
       "source": "hn",
       "title": "GitHub bans security researcher who posted zero-day Windows exploits",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-      "score": 165,
-      "comments": 75,
+      "score": 207,
+      "comments": 104,
       "author": "possibilistic",
       "tags": [],
       "date": "2026-05-28T21:45:54+00:00",
@@ -63,8 +107,8 @@
       "source": "hn",
       "title": "I made a million dollar product from my dorm room (2025)",
       "url": "https://nick.winans.io/blog/nice-nano/",
-      "score": 178,
-      "comments": 21,
+      "score": 227,
+      "comments": 29,
       "author": "mattrighetti",
       "tags": [],
       "date": "2026-05-28T20:25:21+00:00"
@@ -96,8 +140,8 @@
       "source": "hn",
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 594,
-      "comments": 323,
+      "score": 668,
+      "comments": 364,
       "author": "philips",
       "tags": [],
       "date": "2026-05-28T19:24:09+00:00"
@@ -107,8 +151,8 @@
       "source": "hn",
       "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
       "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "score": 147,
-      "comments": 56,
+      "score": 170,
+      "comments": 67,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-28T19:15:54+00:00"
@@ -129,8 +173,8 @@
       "source": "hn",
       "title": "Various LLM Smells",
       "url": "https://shvbsle.in/various-llm-smells/",
-      "score": 222,
-      "comments": 164,
+      "score": 243,
+      "comments": 182,
       "author": "speckx",
       "tags": [],
       "date": "2026-05-28T19:02:18+00:00"
@@ -140,8 +184,8 @@
       "source": "hn",
       "title": "Building durable workflows on Postgres",
       "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "score": 268,
-      "comments": 111,
+      "score": 280,
+      "comments": 118,
       "author": "KraftyOne",
       "tags": [],
       "date": "2026-05-28T18:41:46+00:00"
@@ -195,8 +239,8 @@
       "source": "hn",
       "title": "I hated writing until I learned there’s a science to it (2024)",
       "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-      "score": 139,
-      "comments": 60,
+      "score": 157,
+      "comments": 69,
       "author": "o4c",
       "tags": [],
       "date": "2026-05-28T17:36:47+00:00"
@@ -228,8 +272,8 @@
       "source": "hn",
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1217,
-      "comments": 990,
+      "score": 1283,
+      "comments": 1033,
       "author": "craigmart",
       "tags": [],
       "date": "2026-05-28T16:49:14+00:00"
@@ -250,7 +294,7 @@
       "source": "hn",
       "title": "Endive: A JVM native WebAssembly runtime",
       "url": "https://github.com/bytecodealliance/endive",
-      "score": 58,
+      "score": 67,
       "comments": 16,
       "author": "theanonymousone",
       "tags": [],
@@ -261,8 +305,8 @@
       "source": "hn",
       "title": "The Permanent Upper Crow",
       "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "score": 149,
-      "comments": 61,
+      "score": 152,
+      "comments": 63,
       "author": "whiteblossom",
       "tags": [],
       "date": "2026-05-28T15:23:04+00:00"
@@ -339,8 +383,8 @@
       "source": "hn",
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
-      "score": 241,
-      "comments": 111,
+      "score": 254,
+      "comments": 113,
       "author": "Wirbelwind",
       "tags": [],
       "date": "2026-05-28T13:02:00+00:00"
@@ -1733,8 +1777,8 @@
       "source": "hn",
       "title": "Indoor Wi-Fi Roaming with OpenWRT",
       "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-      "score": 208,
-      "comments": 106,
+      "score": 217,
+      "comments": 109,
       "author": "zdw",
       "tags": [],
       "date": "2026-05-26T16:41:58+00:00"
@@ -1854,8 +1898,8 @@
       "source": "hn",
       "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
       "url": "https://coalton-lang.github.io/",
-      "score": 90,
-      "comments": 13,
+      "score": 104,
+      "comments": 18,
       "author": "b-man",
       "tags": [],
       "date": "2026-05-26T14:36:20+00:00"
@@ -2058,8 +2102,8 @@
       "source": "hn",
       "title": "News about Raspberry Pi 6 and Microcontroller Development",
       "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "score": 143,
-      "comments": 107,
+      "score": 164,
+      "comments": 125,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-05-26T08:02:52+00:00"
@@ -2951,8 +2995,8 @@
       "source": "hn",
       "title": "The most unlikely school bag",
       "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
-      "score": 82,
-      "comments": 22,
+      "score": 97,
+      "comments": 27,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-25T13:45:05+00:00"
@@ -3068,6 +3112,17 @@
       "author": "theorchid",
       "tags": [],
       "date": "2026-05-25T12:03:10+00:00"
+    },
+    {
+      "id": "hn-48265849",
+      "source": "hn",
+      "title": "The Pack That Killed the Pack Mule",
+      "url": "https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/",
+      "score": 5,
+      "comments": 1,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-05-25T12:00:13+00:00"
     },
     {
       "id": "hn-48265745",
@@ -3504,8 +3559,8 @@
       "source": "hn",
       "title": "Ten Basic Clouds",
       "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "score": 30,
-      "comments": 10,
+      "score": 55,
+      "comments": 16,
       "author": "nopg",
       "tags": [],
       "date": "2026-05-24T21:52:55+00:00"
@@ -5790,81 +5845,6 @@
       ],
       "severity": "high",
       "date": "Tue, 26 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-afba975458",
-      "source": "msf",
-      "title": "[webapps] Wordpress Temporary Login Plugin  1.0.0 - 'temp-login-token' Authentication Bypass to Account Takeover",
-      "url": "https://www.exploit-db.com/exploits/52575",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 26 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-610ceab156",
-      "source": "msf",
-      "title": "[webapps] cPanel - CRLF Injection",
-      "url": "https://www.exploit-db.com/exploits/52574",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 26 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-57a4bd9cad",
-      "source": "msf",
-      "title": "[local] Linux Kernel 6.8 - Local Privilege Escalation",
-      "url": "https://www.exploit-db.com/exploits/52573",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 26 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-b9aff2f39d",
-      "source": "msf",
-      "title": "[webapps] Cockpit 359 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52572",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 21 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-ee903ae2f7",
-      "source": "msf",
-      "title": "[webapps] BookStack 25.12.1 - Denial of Service",
-      "url": "https://www.exploit-db.com/exploits/52571",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Thu, 21 May 2026 00:00:00 +0000"
     }
   ]
 }
