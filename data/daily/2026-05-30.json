@@ -1,8 +1,8 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T18:51:17.032727+00:00",
-  "total_articles": 48,
-  "urgent_count": 4,
+  "generated_at": "2026-05-30T19:31:44.874903+00:00",
+  "total_articles": 46,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
@@ -24,19 +24,12 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-29T19:37:41+00:00"
-    },
-    {
-      "title": "CVE-Bench: testing LLM agents on real-world vulnerability patches",
-      "url": "https://giovannigatti.github.io/cve-bench/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-29T19:28:55+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 42,
       "top_items": [
         {
           "title": "Danish pension fund excludes SpaceX citing governance and valuation",
@@ -63,20 +56,20 @@
           "date": "2026-05-29T22:56:49+00:00"
         },
         {
+          "title": "Pandoc Templates",
+          "url": "https://pandoc-templates.org/",
+          "score": 313,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-30T09:56:42+00:00"
+        },
+        {
           "title": "What Is a Dickover?",
           "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
           "score": 312,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T23:54:22+00:00"
-        },
-        {
-          "title": "Pandoc Templates",
-          "url": "https://pandoc-templates.org/",
-          "score": 293,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-30T09:56:42+00:00"
         }
       ]
     },
