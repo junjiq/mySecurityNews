@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T07:28:45.598313+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-05-30T08:22:17.755894+00:00",
+  "total_articles": 64,
   "urgent_count": 6,
   "urgent_items": [
     {
@@ -50,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 54,
       "top_items": [
         {
           "title": "The dead economy theory",
           "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-          "score": 923,
+          "score": 952,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T15:46:24+00:00"
@@ -79,7 +79,7 @@
         {
           "title": "SQLite is all you need for durable workflows",
           "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-          "score": 481,
+          "score": 503,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T17:54:50+00:00"
@@ -87,7 +87,7 @@
         {
           "title": "Notes from the Mistral AI Now Summit",
           "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-          "score": 344,
+          "score": 361,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T16:22:01+00:00"
@@ -96,8 +96,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 10,
       "top_items": [
+        {
+          "title": "Rails開発環境のDockerfileが「呪文」に見えたので初学者なりに分解してみた",
+          "url": "https://qiita.com/tota_0214/items/45d77ca1f905338a3a69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-30T11:14:38+09:00"
+        },
+        {
+          "title": "2025 Japan AWS Jr. Championsとしての活動を振り返る [ポエム]",
+          "url": "https://qiita.com/k_adachi_01/items/138f5b385f6ae1fc2e31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-30T11:14:11+09:00"
+        },
         {
           "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド",
           "url": "https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -115,28 +131,12 @@
           "date": "2026-05-30T01:44:22+09:00"
         },
         {
-          "title": "減税か給付か？ ― 財源幻想を超えて考える“需要”と“供給力” : Pythonで学ぶ マクロ経済学入門 (85)",
-          "url": "https://qiita.com/maskot1977/items/69517f456edda303cbe8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "コーディング歴1年、swift歴3ヶ月の学生がtry! Swift Tokyo 2026 に飛び込んだ話",
+          "url": "https://qiita.com/manasuta/items/6ebcf67d57b7cecd5d4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-30T00:00:26+09:00"
-        },
-        {
-          "title": "【色変記事】青色コーダーになりました！！！",
-          "url": "https://qiita.com/tau0529/items/69141c0ccae8d9c3737f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-29T23:57:46+09:00"
-        },
-        {
-          "title": "技術記事、AIに書かせるか、自分で書くか？〜それでも私が自分の手で書く理由〜 #QiitaConference",
-          "url": "https://qiita.com/jnchito/items/e4c2aa255819464fa18d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-29T19:58:11+09:00"
+          "date": "2026-05-30T01:04:04+09:00"
         }
       ]
     }
