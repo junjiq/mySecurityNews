@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T22:48:07.653415+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-05-30T23:23:38.056107+00:00",
+  "total_articles": 51,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 43,
       "top_items": [
         {
           "title": "Danish pension fund excludes SpaceX citing governance and valuation",
@@ -41,17 +41,9 @@
           "date": "2026-05-30T13:56:34+00:00"
         },
         {
-          "title": "MCP is dead?",
-          "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-          "score": 359,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-29T22:56:49+00:00"
-        },
-        {
           "title": "Pandoc Templates",
           "url": "https://pandoc-templates.org/",
-          "score": 347,
+          "score": 350,
           "source": "hn",
           "severity": null,
           "date": "2026-05-30T09:56:42+00:00"
@@ -59,16 +51,24 @@
         {
           "title": "OpenRouter raises $113M Series B",
           "url": "https://openrouter.ai/announcements/series-b",
-          "score": 322,
+          "score": 331,
           "source": "hn",
           "severity": null,
           "date": "2026-05-30T17:27:28+00:00"
+        },
+        {
+          "title": "Zig: Build System Reworked",
+          "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+          "score": 313,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-30T08:38:28+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "Google Antigravity 2.0入門 — Go製CLIとサンドボックスで安全なAI開発",
