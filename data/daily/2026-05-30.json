@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T01:38:57.544362+00:00",
-  "total_articles": 71,
+  "generated_at": "2026-05-30T03:07:57.838455+00:00",
+  "total_articles": 68,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,8 +43,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 57,
       "top_items": [
+        {
+          "title": "The dead economy theory",
+          "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+          "score": 749,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-29T15:46:24+00:00"
+        },
         {
           "title": "I am retiring from tech to live offline",
           "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
@@ -54,42 +62,34 @@
           "date": "2026-05-29T14:40:47+00:00"
         },
         {
-          "title": "The dead economy theory",
-          "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-          "score": 682,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-29T15:46:24+00:00"
-        },
-        {
           "title": "GTA 6 Developers Unionize",
           "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-          "score": 563,
+          "score": 582,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T15:32:55+00:00"
         },
         {
-          "title": "Cars collect a startling amount of data about you",
-          "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-          "score": 430,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-29T03:01:00+00:00"
-        },
-        {
           "title": "SQLite is all you need for durable workflows",
           "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-          "score": 352,
+          "score": 397,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T17:54:50+00:00"
+        },
+        {
+          "title": "Notes from the Mistral AI Now Summit",
+          "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+          "score": 314,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-29T16:22:01+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 11,
       "top_items": [
         {
           "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド",
