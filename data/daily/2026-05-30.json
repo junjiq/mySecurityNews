@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T11:00:09.311603+00:00",
+  "generated_at": "2026-05-30T11:37:09.233617+00:00",
   "total_articles": 61,
   "urgent_count": 6,
   "urgent_items": [
@@ -50,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 53,
       "top_items": [
         {
           "title": "The dead economy theory",
           "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-          "score": 1028,
+          "score": 1043,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T15:46:24+00:00"
@@ -79,7 +79,7 @@
         {
           "title": "SQLite is all you need for durable workflows",
           "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-          "score": 552,
+          "score": 560,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T17:54:50+00:00"
@@ -87,7 +87,7 @@
         {
           "title": "Notes from the Mistral AI Now Summit",
           "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-          "score": 384,
+          "score": 389,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T16:22:01+00:00"
@@ -96,8 +96,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 8,
       "top_items": [
+        {
+          "title": "自作言語「Rubihuru」で、さらに自作言語「Rhlisp」を作ってみた話",
+          "url": "https://qiita.com/tukinyanJP/items/3ee2a08f63c517d98da9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-30T20:20:58+09:00"
+        },
         {
           "title": "Rails開発環境のDockerfileが「呪文」に見えたので初学者なりに分解してみた",
           "url": "https://qiita.com/tota_0214/items/45d77ca1f905338a3a69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -129,14 +137,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-30T01:44:22+09:00"
-        },
-        {
-          "title": "コーディング歴1年、swift歴3ヶ月の学生がtry! Swift Tokyo 2026 に飛び込んだ話",
-          "url": "https://qiita.com/manasuta/items/6ebcf67d57b7cecd5d4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-30T01:04:04+09:00"
         }
       ]
     }
