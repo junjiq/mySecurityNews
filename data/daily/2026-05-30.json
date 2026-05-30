@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T15:54:25.880576+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-05-30T16:23:39.927641+00:00",
+  "total_articles": 46,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,28 +36,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 41,
       "top_items": [
         {
           "title": "SQLite is all you need for durable workflows",
           "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-          "score": 615,
+          "score": 620,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T17:54:50+00:00"
         },
         {
-          "title": "Notes from the Mistral AI Now Summit",
-          "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-          "score": 419,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-29T16:22:01+00:00"
-        },
-        {
           "title": "Danish pension fund excludes SpaceX citing governance and valuation",
           "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-          "score": 390,
+          "score": 404,
           "source": "hn",
           "severity": null,
           "date": "2026-05-30T08:00:20+00:00"
@@ -65,7 +57,7 @@
         {
           "title": "MCP is dead?",
           "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-          "score": 322,
+          "score": 326,
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T22:56:49+00:00"
@@ -77,12 +69,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-05-29T23:54:22+00:00"
+        },
+        {
+          "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+          "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+          "score": 286,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-30T13:56:34+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
         {
           "title": "自作言語「Rubihuru」で、さらに自作言語「Rhlisp」を作ってみた話",
