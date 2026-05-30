@@ -1,8 +1,8 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T19:31:44.874903+00:00",
-  "total_articles": 46,
-  "urgent_count": 3,
+  "generated_at": "2026-05-30T20:23:44.114938+00:00",
+  "total_articles": 55,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
@@ -17,19 +17,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-29T22:32:29+00:00"
-    },
-    {
-      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
-      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-29T19:37:41+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "Danish pension fund excludes SpaceX citing governance and valuation",
@@ -58,7 +51,7 @@
         {
           "title": "Pandoc Templates",
           "url": "https://pandoc-templates.org/",
-          "score": 313,
+          "score": 321,
           "source": "hn",
           "severity": null,
           "date": "2026-05-30T09:56:42+00:00"
@@ -75,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 12,
       "top_items": [
+        {
+          "title": "Google Antigravity 2.0入門 — Go製CLIとサンドボックスで安全なAI開発",
+          "url": "https://qiita.com/kai_kou/items/a900c59cdab87e18eae7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-31T02:02:00+09:00"
+        },
         {
           "title": "自作言語「Rubihuru」で、さらに自作言語「Rhlisp」を作ってみた話",
           "url": "https://qiita.com/tukinyanJP/items/3ee2a08f63c517d98da9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,28 +87,28 @@
           "date": "2026-05-30T20:20:58+09:00"
         },
         {
-          "title": "Rails開発環境のDockerfileが「呪文」に見えたので初学者なりに分解してみた",
-          "url": "https://qiita.com/tota_0214/items/45d77ca1f905338a3a69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "2025 Japan AWS Jr. Champions 任期を振り返って",
+          "url": "https://qiita.com/hirota_kodai/items/e1bed8b95626b94fa968?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-30T11:14:38+09:00"
+          "date": "2026-05-30T18:10:10+09:00"
         },
         {
-          "title": "2025 Japan AWS Jr. Championsとしての活動を振り返る [ポエム]",
-          "url": "https://qiita.com/k_adachi_01/items/138f5b385f6ae1fc2e31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "これを読めば分かるClaude Code 完全攻略ガイド",
+          "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-30T11:14:11+09:00"
+          "date": "2026-05-30T16:23:20+09:00"
         },
         {
-          "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド",
-          "url": "https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "CodeRabbitワークショップ「GitHubでPRレビュー体験」",
+          "url": "https://qiita.com/goofmint/items/ac0aaaa8eb7cb6fbae4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-05-30T05:29:50+09:00"
+          "date": "2026-05-30T14:15:25+09:00"
         }
       ]
     }
