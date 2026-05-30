@@ -1,6 +1,6 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-30T03:07:57.882586+00:00",
+  "generated_at": "2026-05-30T04:47:31.386701+00:00",
   "total_articles": 458,
   "source_counts": {
     "hn": 361,
@@ -8,7 +8,7 @@
     "project": 8
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 16,
     "high": 6,
     "medium": 3
   },
@@ -93,7 +93,7 @@
     {
       "title": "The dead economy theory",
       "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 749,
+      "score": 816,
       "source": "hn",
       "date": "2026-05-29T15:46:24+00:00"
     },
@@ -126,18 +126,18 @@
       "date": "2026-05-26T11:42:58+00:00"
     },
     {
+      "title": "GTA 6 Developers Unionize",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "score": 607,
+      "source": "hn",
+      "date": "2026-05-29T15:32:55+00:00"
+    },
+    {
       "title": "Tech CEOs are apparently suffering from AI psychosis",
       "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
       "score": 602,
       "source": "hn",
       "date": "2026-05-27T15:20:47+00:00"
-    },
-    {
-      "title": "GTA 6 Developers Unionize",
-      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "score": 582,
-      "source": "hn",
-      "date": "2026-05-29T15:32:55+00:00"
     },
     {
       "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
@@ -147,14 +147,21 @@
       "date": "2026-05-25T22:30:27+00:00"
     },
     {
-      "title": "Netherlands blocks US takeover of vital digital supplier",
-      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-      "score": 513,
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "score": 522,
       "source": "hn",
-      "date": "2026-05-26T11:46:08+00:00"
+      "date": "2026-05-28T14:13:00+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
+      "url": "https://github.com/vinhnx/VTCode",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-30T03:07:25+00:00"
+    },
     {
       "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
       "url": "https://github.com/secluso/core",
