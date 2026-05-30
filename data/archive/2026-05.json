@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-30T20:48:03.900644+00:00",
+  "generated_at": "2026-05-30T21:22:12.289132+00:00",
   "total_articles": 458,
   "source_counts": {
-    "hn": 359,
-    "zennqiita": 91,
+    "hn": 363,
+    "zennqiita": 87,
     "project": 8
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "high": 6,
     "medium": 3
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Kore: Binary File Format Optimized for Modern Data Systems (Open Source)",
+      "url": "https://github.com/arunkatherashala/Kore",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-05-30T20:54:22+00:00"
+    },
     {
       "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
       "url": "https://github.com/vinhnx/VTCode",
