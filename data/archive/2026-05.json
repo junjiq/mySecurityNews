@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-31T08:04:29.369398+00:00",
+  "generated_at": "2026-05-31T09:31:13.327674+00:00",
   "total_articles": 458,
   "source_counts": {
-    "hn": 368,
-    "zennqiita": 82,
+    "hn": 356,
+    "zennqiita": 94,
     "project": 8
   },
   "severity_counts": {
+    "high": 7,
     "critical": 15,
-    "high": 6,
-    "medium": 3
+    "medium": 2
   },
   "top_articles": [
     {
@@ -93,7 +93,7 @@
     {
       "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
       "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 812,
+      "score": 842,
       "source": "hn",
       "date": "2026-05-30T23:26:13+00:00"
     },
@@ -147,14 +147,21 @@
       "date": "2026-05-28T14:13:00+00:00"
     },
     {
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "score": 542,
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "score": 573,
       "source": "hn",
-      "date": "2026-05-25T22:30:27+00:00"
+      "date": "2026-05-30T20:40:57+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
+      "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-05-31T14:22:36+09:00"
+    },
     {
       "title": "Kore: Binary File Format Optimized for Modern Data Systems (Open Source)",
       "url": "https://github.com/arunkatherashala/Kore",
