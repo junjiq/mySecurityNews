@@ -1,7 +1,7 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T05:01:39.933026+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-05-31T06:48:21.474941+00:00",
+  "total_articles": 50,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,15 +15,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 46,
       "top_items": [
         {
-          "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+          "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
           "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-          "score": 673,
+          "score": 779,
           "source": "hn",
           "severity": null,
           "date": "2026-05-30T23:26:13+00:00"
+        },
+        {
+          "title": "Domain expertise has always been the real moat",
+          "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+          "score": 467,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-30T20:40:57+00:00"
         },
         {
           "title": "Danish pension fund excludes SpaceX citing governance and valuation",
@@ -36,23 +44,15 @@
         {
           "title": "OpenRouter raises $113M Series B",
           "url": "https://openrouter.ai/announcements/series-b",
-          "score": 385,
+          "score": 403,
           "source": "hn",
           "severity": null,
           "date": "2026-05-30T17:27:28+00:00"
         },
         {
-          "title": "Domain expertise has always been the real moat",
-          "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-          "score": 382,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-30T20:40:57+00:00"
-        },
-        {
           "title": "Pandoc Templates",
           "url": "https://pandoc-templates.org/",
-          "score": 376,
+          "score": 386,
           "source": "hn",
           "severity": null,
           "date": "2026-05-30T09:56:42+00:00"
@@ -61,8 +61,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 4,
       "top_items": [
+        {
+          "title": "Google Antigravity 2.0入門 — Go製CLIとサンドボックスで安全なAI開発",
+          "url": "https://qiita.com/kai_kou/items/a900c59cdab87e18eae7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-31T14:22:21+09:00"
+        },
         {
           "title": "これを読めば分かるClaude Code 完全攻略ガイド",
           "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,14 +78,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-31T11:14:45+09:00"
-        },
-        {
-          "title": "Google Antigravity 2.0入門 — Go製CLIとサンドボックスで安全なAI開発",
-          "url": "https://qiita.com/kai_kou/items/a900c59cdab87e18eae7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-31T02:02:00+09:00"
         },
         {
           "title": "自作言語「Rubihuru」で、さらに自作言語「Rhlisp」を作ってみた話",
@@ -94,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-30T18:10:10+09:00"
-        },
-        {
-          "title": "CodeRabbitワークショップ「GitHubでPRレビュー体験」",
-          "url": "https://qiita.com/goofmint/items/ac0aaaa8eb7cb6fbae4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-30T14:15:25+09:00"
         }
       ]
     }
