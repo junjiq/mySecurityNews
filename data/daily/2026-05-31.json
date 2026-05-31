@@ -1,8 +1,8 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T01:44:12.159019+00:00",
-  "total_articles": 53,
-  "urgent_count": 2,
+  "generated_at": "2026-05-31T03:09:53.394982+00:00",
+  "total_articles": 49,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Kore: Binary File Format Optimized for Modern Data Systems (Open Source)",
@@ -10,20 +10,21 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-30T20:54:22+00:00"
-    },
-    {
-      "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
-      "url": "https://github.com/vinhnx/VTCode",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-30T03:07:25+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 44,
       "top_items": [
+        {
+          "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+          "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+          "score": 471,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-30T23:26:13+00:00"
+        },
         {
           "title": "Danish pension fund excludes SpaceX citing governance and valuation",
           "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
@@ -33,43 +34,43 @@
           "date": "2026-05-30T08:00:20+00:00"
         },
         {
+          "title": "OpenRouter raises $113M Series B",
+          "url": "https://openrouter.ai/announcements/series-b",
+          "score": 368,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-30T17:27:28+00:00"
+        },
+        {
+          "title": "Pandoc Templates",
+          "url": "https://pandoc-templates.org/",
+          "score": 368,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-30T09:56:42+00:00"
+        },
+        {
           "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
           "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
           "score": 360,
           "source": "hn",
           "severity": null,
           "date": "2026-05-30T13:56:34+00:00"
-        },
-        {
-          "title": "Pandoc Templates",
-          "url": "https://pandoc-templates.org/",
-          "score": 360,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-30T09:56:42+00:00"
-        },
-        {
-          "title": "OpenRouter raises $113M Series B",
-          "url": "https://openrouter.ai/announcements/series-b",
-          "score": 355,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-30T17:27:28+00:00"
-        },
-        {
-          "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-          "url": "https://github.com/kristapsdz/openrsync",
-          "score": 320,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-30T10:51:48+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 5,
       "top_items": [
+        {
+          "title": "これを読めば分かるClaude Code 完全攻略ガイド",
+          "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-31T11:14:45+09:00"
+        },
         {
           "title": "Google Antigravity 2.0入門 — Go製CLIとサンドボックスで安全なAI開発",
           "url": "https://qiita.com/kai_kou/items/a900c59cdab87e18eae7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -93,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-30T18:10:10+09:00"
-        },
-        {
-          "title": "これを読めば分かるClaude Code 完全攻略ガイド",
-          "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-30T16:23:20+09:00"
         },
         {
           "title": "CodeRabbitワークショップ「GitHubでPRレビュー体験」",
