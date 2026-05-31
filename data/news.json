@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-05-31T09:31:13.210631+00:00",
+  "updated_at": "2026-05-31T10:40:12.978931+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-cbcac56bfd",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
+      "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kai_kou",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-05-31T18:52:07+09:00",
+      "severity": "high"
+    },
     {
       "id": "qiita-477810fa8a",
       "source": "zennqiita",
@@ -20,8 +34,8 @@
       "source": "hn",
       "title": "London's Free Roof Terraces",
       "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 24,
-      "comments": 2,
+      "score": 63,
+      "comments": 10,
       "author": "zeristor",
       "tags": [],
       "date": "2026-05-31T07:16:18+00:00"
@@ -31,8 +45,8 @@
       "source": "hn",
       "title": "The Website Specification",
       "url": "https://specification.website/",
-      "score": 122,
-      "comments": 40,
+      "score": 168,
+      "comments": 55,
       "author": "k1m",
       "tags": [],
       "date": "2026-05-31T07:09:50+00:00"
@@ -53,8 +67,8 @@
       "source": "hn",
       "title": "Avian Visitors",
       "url": "https://theodore.net/projects/AvianVisitors/",
-      "score": 34,
-      "comments": 3,
+      "score": 43,
+      "comments": 5,
       "author": "fdb",
       "tags": [],
       "date": "2026-05-31T06:13:59+00:00"
@@ -64,25 +78,11 @@
       "source": "hn",
       "title": "A pictorial introduction to differential geometry (2017)",
       "url": "https://arxiv.org/abs/1709.08492",
-      "score": 32,
+      "score": 51,
       "comments": 0,
       "author": "ricudis",
       "tags": [],
       "date": "2026-05-31T05:30:18+00:00"
-    },
-    {
-      "id": "qiita-cbcac56bfd",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
-      "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kai_kou",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-31T14:22:36+09:00",
-      "severity": "high"
     },
     {
       "id": "qiita-e1381032c2",
@@ -113,8 +113,8 @@
       "source": "hn",
       "title": "Ahoy, DECmate II the little PDP-8 that could",
       "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-      "score": 32,
-      "comments": 3,
+      "score": 34,
+      "comments": 5,
       "author": "TMWNN",
       "tags": [],
       "date": "2026-05-31T04:42:14+00:00"
@@ -135,8 +135,8 @@
       "source": "hn",
       "title": "Please Do Not Vibe Fuck Up This Software",
       "url": "https://github.com/RsyncProject/rsync/issues/929",
-      "score": 204,
-      "comments": 97,
+      "score": 272,
+      "comments": 161,
       "author": "justdotJS",
       "tags": [],
       "date": "2026-05-31T03:16:48+00:00"
@@ -183,8 +183,8 @@
       "source": "hn",
       "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
       "url": "https://mechanical-pencil.com/",
-      "score": 75,
-      "comments": 8,
+      "score": 86,
+      "comments": 9,
       "author": "Muhammad523",
       "tags": [],
       "date": "2026-05-31T00:25:12+00:00"
@@ -194,8 +194,8 @@
       "source": "hn",
       "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
       "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 842,
-      "comments": 297,
+      "score": 864,
+      "comments": 304,
       "author": "antipurist",
       "tags": [],
       "date": "2026-05-30T23:26:13+00:00"
@@ -216,8 +216,8 @@
       "source": "hn",
       "title": "Shantell Sans (2023)",
       "url": "https://shantellsans.com/process",
-      "score": 244,
-      "comments": 25,
+      "score": 262,
+      "comments": 26,
       "author": "aleda145",
       "tags": [],
       "date": "2026-05-30T22:06:38+00:00"
@@ -227,8 +227,8 @@
       "source": "hn",
       "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
       "url": "https://av2.aomedia.org",
-      "score": 190,
-      "comments": 74,
+      "score": 210,
+      "comments": 96,
       "author": "ksec",
       "tags": [],
       "date": "2026-05-30T21:46:18+00:00"
@@ -285,8 +285,8 @@
       "source": "hn",
       "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
       "url": "https://github.com/wolfSSL/wolfCOSE",
-      "score": 91,
-      "comments": 18,
+      "score": 92,
+      "comments": 23,
       "author": "aidangarske",
       "tags": [],
       "date": "2026-05-30T20:42:28+00:00"
@@ -296,8 +296,8 @@
       "source": "hn",
       "title": "Domain expertise has always been the real moat",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 573,
-      "comments": 330,
+      "score": 605,
+      "comments": 369,
       "author": "aaronbrethorst",
       "tags": [],
       "date": "2026-05-30T20:40:57+00:00"
@@ -307,8 +307,8 @@
       "source": "hn",
       "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
       "url": "https://github.com/marekkowalczyk/breathe-cli",
-      "score": 22,
-      "comments": 5,
+      "score": 41,
+      "comments": 4,
       "author": "marekkowalczyk",
       "tags": [],
       "date": "2026-05-30T20:30:53+00:00"
@@ -417,8 +417,8 @@
       "source": "hn",
       "title": "Zig ELF Linker Improvements Devlog",
       "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-      "score": 204,
-      "comments": 69,
+      "score": 206,
+      "comments": 70,
       "author": "kristoff_it",
       "tags": [],
       "date": "2026-05-30T17:29:22+00:00"
@@ -450,8 +450,8 @@
       "source": "hn",
       "title": "Accenture to acquire Ookla",
       "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "score": 280,
-      "comments": 144,
+      "score": 288,
+      "comments": 145,
       "author": "Garbage",
       "tags": [],
       "date": "2026-05-30T16:28:58+00:00"
@@ -544,8 +544,8 @@
       "source": "hn",
       "title": "Voxel Space (2017)",
       "url": "https://s-macke.github.io/VoxelSpace/",
-      "score": 283,
-      "comments": 58,
+      "score": 286,
+      "comments": 59,
       "author": "davikr",
       "tags": [],
       "date": "2026-05-30T14:25:50+00:00"
@@ -634,8 +634,8 @@
       "source": "hn",
       "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
       "url": "https://github.com/kristapsdz/openrsync",
-      "score": 397,
-      "comments": 151,
+      "score": 412,
+      "comments": 154,
       "author": "sph",
       "tags": [],
       "date": "2026-05-30T10:51:48+00:00"
@@ -1342,7 +1342,7 @@
       "source": "hn",
       "title": "One year of Roto, a compiled scripting language for Rust",
       "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-      "score": 25,
+      "score": 38,
       "comments": 7,
       "author": "Hasnep",
       "tags": [],
@@ -1748,8 +1748,8 @@
       "source": "hn",
       "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
       "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "score": 78,
-      "comments": 2,
+      "score": 88,
+      "comments": 4,
       "author": "jayhoon",
       "tags": [],
       "date": "2026-05-29T03:22:19+00:00"
@@ -1792,8 +1792,8 @@
       "source": "hn",
       "title": "I found a seashell in the middle of the desert",
       "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
-      "score": 322,
-      "comments": 85,
+      "score": 334,
+      "comments": 92,
       "author": "Hawzen",
       "tags": [],
       "date": "2026-05-29T02:49:43+00:00"
@@ -2104,8 +2104,8 @@
       "source": "hn",
       "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
       "url": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
-      "score": 33,
-      "comments": 14,
+      "score": 37,
+      "comments": 15,
       "author": "croes",
       "tags": [],
       "date": "2026-05-28T19:11:59+00:00"
@@ -2301,6 +2301,17 @@
       "date": "2026-05-28T14:42:04+00:00"
     },
     {
+      "id": "hn-48309623",
+      "source": "hn",
+      "title": "Soviet 80s supercomputer project \"Start\"",
+      "url": "https://start.iis.nsk.su/",
+      "score": 6,
+      "comments": 1,
+      "author": "phront",
+      "tags": [],
+      "date": "2026-05-28T14:40:38+00:00"
+    },
+    {
       "id": "hn-48309584",
       "source": "hn",
       "title": "New York Passes Tax on the Ultra-Wealthy",
@@ -2489,7 +2500,7 @@
       "source": "hn",
       "title": "Racket v9.2",
       "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-      "score": 114,
+      "score": 122,
       "comments": 14,
       "author": "spdegabrielle",
       "tags": [],
@@ -3906,8 +3917,8 @@
       "source": "hn",
       "title": "Mysteries of the Griffin iMate",
       "url": "https://www.projectgus.com/2023/04/griffin-imate/",
-      "score": 7,
-      "comments": 0,
+      "score": 12,
+      "comments": 3,
       "author": "geerlingguy",
       "tags": [],
       "date": "2026-05-26T20:07:35+00:00"
@@ -5250,17 +5261,6 @@
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-05-25T15:45:04+00:00"
-    },
-    {
-      "id": "hn-48267829",
-      "source": "hn",
-      "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
-      "url": "https://www.trychert.com",
-      "score": 50,
-      "comments": 176,
-      "author": "garygao",
-      "tags": [],
-      "date": "2026-05-25T15:12:33+00:00"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",
