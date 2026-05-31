@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-05-31T19:31:03.462796+00:00",
+  "generated_at": "2026-05-31T20:25:53.264558+00:00",
   "total_articles": 458,
   "source_counts": {
-    "hn": 356,
-    "zennqiita": 94,
+    "hn": 351,
+    "zennqiita": 99,
     "project": 8
   },
   "severity_counts": {
     "medium": 3,
-    "high": 7,
+    "high": 6,
     "critical": 15
   },
   "top_articles": [
@@ -61,13 +61,6 @@
       "score": 1028,
       "source": "hn",
       "date": "2026-05-28T00:40:26+00:00"
-    },
-    {
-      "title": "Using AI to write better code more slowly",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 1025,
-      "source": "hn",
-      "date": "2026-05-25T23:16:59+00:00"
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
@@ -152,6 +145,13 @@
       "score": 513,
       "source": "hn",
       "date": "2026-05-26T11:46:08+00:00"
+    },
+    {
+      "title": "The worst job interview I ever had",
+      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+      "score": 506,
+      "source": "hn",
+      "date": "2026-05-26T20:11:49+00:00"
     }
   ],
   "security_highlights": [
@@ -301,13 +301,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-26T09:07:18+00:00"
-    },
-    {
-      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
-      "url": "https://support.apple.com/en-us/127115",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-25T23:40:40+00:00"
     }
   ]
 }

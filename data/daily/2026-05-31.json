@@ -1,7 +1,7 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T19:31:03.420006+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-05-31T20:25:53.220457+00:00",
+  "total_articles": 59,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 48,
       "top_items": [
         {
           "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
@@ -41,6 +41,14 @@
           "date": "2026-05-30T20:40:57+00:00"
         },
         {
+          "title": "The Website Specification",
+          "url": "https://specification.website/",
+          "score": 387,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-31T07:09:50+00:00"
+        },
+        {
           "title": "Shantell Sans (2023)",
           "url": "https://shantellsans.com/process",
           "score": 376,
@@ -49,17 +57,9 @@
           "date": "2026-05-30T22:06:38+00:00"
         },
         {
-          "title": "The Website Specification",
-          "url": "https://specification.website/",
-          "score": 372,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-31T07:09:50+00:00"
-        },
-        {
           "title": "Dav2d",
           "url": "https://jbkempf.com/blog/2026/dav2d/",
-          "score": 335,
+          "score": 353,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T11:44:45+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 11,
       "top_items": [
         {
           "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
@@ -87,6 +87,14 @@
           "date": "2026-05-31T23:55:49+09:00"
         },
         {
+          "title": "2025 Japan AWS Jr. Championsの活動を振り返って",
+          "url": "https://qiita.com/hoshi7_n/items/abe368a2bfd5183aa15a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-05-31T23:19:33+09:00"
+        },
+        {
           "title": "AI が Windows を自律操作するって本当？ Project Opal (Frontier) を試して分かった「実用的な使いどころ」",
           "url": "https://qiita.com/carol0226/items/a78a888ce0c4d2364232?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-31T18:18:46+09:00"
-        },
-        {
-          "title": "Google Antigravity 2.0入門 — Go製CLIとサンドボックスで安全なAI開発",
-          "url": "https://qiita.com/kai_kou/items/a900c59cdab87e18eae7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-31T14:22:21+09:00"
         }
       ]
     }
