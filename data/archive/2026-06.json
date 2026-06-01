@@ -1,10 +1,10 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-01T09:18:09.936313+00:00",
-  "total_articles": 19,
+  "generated_at": "2026-06-01T11:18:09.838775+00:00",
+  "total_articles": 22,
   "source_counts": {
     "zennqiita": 12,
-    "hn": 7
+    "hn": 10
   },
   "severity_counts": {
     "critical": 1,
@@ -12,18 +12,18 @@
   },
   "top_articles": [
     {
+      "title": "A 10 year old Xeon is all you need",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "score": 180,
+      "source": "hn",
+      "date": "2026-06-01T06:38:42+00:00"
+    },
+    {
       "title": "Shift from a leader-follower to a leader-leader approach",
       "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a",
       "score": 58,
       "source": "hn",
       "date": "2026-06-01T02:03:03+00:00"
-    },
-    {
-      "title": "A 10 year old Xeon is all you need",
-      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "score": 50,
-      "source": "hn",
-      "date": "2026-06-01T06:38:42+00:00"
     },
     {
       "title": "Meta legal action forces Facebook whistleblower to sit in silence",
@@ -33,9 +33,16 @@
       "date": "2026-06-01T08:15:13+00:00"
     },
     {
+      "title": "Cessation of public development of Kefir C compiler",
+      "url": "https://kefir.protopopov.lv/posts/announce2.html",
+      "score": 35,
+      "source": "hn",
+      "date": "2026-06-01T08:52:05+00:00"
+    },
+    {
       "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
       "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
-      "score": 25,
+      "score": 32,
       "source": "hn",
       "date": "2026-06-01T04:08:02+00:00"
     },
@@ -45,6 +52,13 @@
       "score": 20,
       "source": "hn",
       "date": "2026-06-01T06:53:27+00:00"
+    },
+    {
+      "title": "Why are large language models so terrible at video games?",
+      "url": "https://spectrum.ieee.org/ai-video-games-llms-togelius",
+      "score": 18,
+      "source": "hn",
+      "date": "2026-06-01T09:14:26+00:00"
     },
     {
       "title": "Dune's Butlerian Jihad and the Future of AI",
@@ -59,6 +73,13 @@
       "score": 10,
       "source": "hn",
       "date": "2026-06-01T06:22:07+00:00"
+    },
+    {
+      "title": "two strangers. one call. no names",
+      "url": "https://just2voices.com/",
+      "score": 3,
+      "source": "hn",
+      "date": "2026-06-01T09:15:46+00:00"
     }
   ],
   "security_highlights": [
