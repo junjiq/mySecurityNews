@@ -1,10 +1,10 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-01T11:18:09.838775+00:00",
-  "total_articles": 22,
+  "generated_at": "2026-06-01T13:21:49.844131+00:00",
+  "total_articles": 29,
   "source_counts": {
-    "zennqiita": 12,
-    "hn": 10
+    "hn": 15,
+    "zennqiita": 14
   },
   "severity_counts": {
     "critical": 1,
@@ -14,9 +14,16 @@
     {
       "title": "A 10 year old Xeon is all you need",
       "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "score": 180,
+      "score": 329,
       "source": "hn",
       "date": "2026-06-01T06:38:42+00:00"
+    },
+    {
+      "title": "Cessation of public development of Kefir C compiler",
+      "url": "https://kefir.protopopov.lv/posts/announce2.html",
+      "score": 73,
+      "source": "hn",
+      "date": "2026-06-01T08:52:05+00:00"
     },
     {
       "title": "Shift from a leader-follower to a leader-leader approach",
@@ -26,6 +33,20 @@
       "date": "2026-06-01T02:03:03+00:00"
     },
     {
+      "title": "LLMs Are Closer to Religion Than They Appear",
+      "url": "https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189",
+      "score": 56,
+      "source": "hn",
+      "date": "2026-06-01T11:03:38+00:00"
+    },
+    {
+      "title": "When AI Crosses the Line: The Matplotlib Incident",
+      "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+      "score": 55,
+      "source": "hn",
+      "date": "2026-06-01T12:08:23+00:00"
+    },
+    {
       "title": "Meta legal action forces Facebook whistleblower to sit in silence",
       "url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
       "score": 42,
@@ -33,18 +54,32 @@
       "date": "2026-06-01T08:15:13+00:00"
     },
     {
-      "title": "Cessation of public development of Kefir C compiler",
-      "url": "https://kefir.protopopov.lv/posts/announce2.html",
-      "score": 35,
-      "source": "hn",
-      "date": "2026-06-01T08:52:05+00:00"
-    },
-    {
       "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
       "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
-      "score": 32,
+      "score": 39,
       "source": "hn",
       "date": "2026-06-01T04:08:02+00:00"
+    },
+    {
+      "title": "Blorp Language",
+      "url": "https://blorp-lang.org/",
+      "score": 36,
+      "source": "hn",
+      "date": "2026-06-01T07:35:15+00:00"
+    },
+    {
+      "title": "MacBook Pro Rival with the Nvidia Powered Surface Laptop Ultra",
+      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+      "score": 27,
+      "source": "hn",
+      "date": "2026-06-01T12:04:29+00:00"
+    },
+    {
+      "title": "Using Git's rerere feature to escape recurring conflict hell",
+      "url": "https://gist.github.com/skipcloud/f1033afb4fa5681d69fa63458cc95928",
+      "score": 20,
+      "source": "hn",
+      "date": "2026-06-01T07:06:21+00:00"
     },
     {
       "title": "Rift: Better Alternative to Git Worktrees",
