@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-01T05:11:46.621219+00:00",
-  "total_articles": 453,
+  "generated_at": "2026-06-01T07:14:35.078741+00:00",
+  "total_articles": 451,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 84,
+    "hn": 360,
+    "zennqiita": 83,
     "project": 8
   },
   "severity_counts": {
     "medium": 3,
-    "high": 6,
-    "critical": 15
+    "critical": 15,
+    "high": 5
   },
   "top_articles": [
     {
@@ -119,6 +119,13 @@
       "date": "2026-05-26T11:42:58+00:00"
     },
     {
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "score": 625,
+      "source": "hn",
+      "date": "2026-05-31T14:13:20+00:00"
+    },
+    {
       "title": "GTA 6 Developers Unionize",
       "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
       "score": 607,
@@ -140,13 +147,6 @@
       "date": "2026-05-28T14:13:00+00:00"
     },
     {
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 578,
-      "source": "hn",
-      "date": "2026-05-31T14:13:20+00:00"
-    },
-    {
       "title": "Netherlands blocks US takeover of vital digital supplier",
       "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
       "score": 513,
@@ -155,13 +155,6 @@
     }
   ],
   "security_highlights": [
-    {
-      "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
-      "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-06-01T02:07:07+09:00"
-    },
     {
       "title": "Kore: Binary File Format Optimized for Modern Data Systems (Open Source)",
       "url": "https://github.com/arunkatherashala/Kore",

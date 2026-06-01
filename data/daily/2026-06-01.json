@@ -1,7 +1,7 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-01T05:11:46.576545+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-06-01T07:14:35.024388+00:00",
+  "total_articles": 45,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -9,21 +9,29 @@
       "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "severity": "high",
       "source": "zennqiita",
-      "date": "2026-06-01T02:07:07+09:00"
+      "date": "2026-06-01T15:03:15+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 38,
       "top_items": [
         {
           "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
           "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-          "score": 578,
+          "score": 625,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T14:13:20+00:00"
+        },
+        {
+          "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+          "url": "https://twitter.com/i/status/2060746160558543217",
+          "score": 503,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-31T18:57:48+00:00"
         },
         {
           "title": "Creatine raises brain energy levels and slows cognitive decline: study",
@@ -34,35 +42,35 @@
           "date": "2026-05-31T16:19:34+00:00"
         },
         {
-          "title": "The Website Specification",
-          "url": "https://specification.website/",
-          "score": 465,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-31T07:09:50+00:00"
-        },
-        {
-          "title": "Codex just found a \"workaround\" of not having sudo on my PC",
-          "url": "https://twitter.com/i/status/2060746160558543217",
-          "score": 454,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-31T18:57:48+00:00"
-        },
-        {
           "title": "Dav2d",
           "url": "https://jbkempf.com/blog/2026/dav2d/",
-          "score": 420,
+          "score": 451,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T11:44:45+00:00"
+        },
+        {
+          "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+          "url": "https://prismml.com/news/bonsai-image-4b",
+          "score": 365,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-31T15:04:52+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 7,
       "top_items": [
+        {
+          "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
+          "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": "high",
+          "date": "2026-06-01T15:03:15+09:00"
+        },
         {
           "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
           "url": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-01T09:51:10+09:00"
-        },
-        {
-          "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
-          "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "high",
-          "date": "2026-06-01T02:07:07+09:00"
         }
       ]
     }

@@ -1,12 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-01T05:11:46.621219+00:00",
-  "total_articles": 5,
+  "generated_at": "2026-06-01T07:14:35.078741+00:00",
+  "total_articles": 7,
   "source_counts": {
-    "zennqiita": 4,
-    "hn": 1
+    "zennqiita": 5,
+    "hn": 2
   },
-  "severity_counts": {},
+  "severity_counts": {
+    "high": 1
+  },
   "top_articles": [
     {
       "title": "Shift from a leader-follower to a leader-leader approach",
@@ -14,7 +16,22 @@
       "score": 58,
       "source": "hn",
       "date": "2026-06-01T02:03:03+00:00"
+    },
+    {
+      "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "score": 16,
+      "source": "hn",
+      "date": "2026-06-01T04:08:02+00:00"
     }
   ],
-  "security_highlights": []
+  "security_highlights": [
+    {
+      "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
+      "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-06-01T15:03:15+09:00"
+    }
+  ]
 }
