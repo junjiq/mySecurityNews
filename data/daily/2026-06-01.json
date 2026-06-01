@@ -1,6 +1,6 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-01T00:48:19.057345+00:00",
+  "generated_at": "2026-06-01T01:48:53.477366+00:00",
   "total_articles": 55,
   "urgent_count": 1,
   "urgent_items": [
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 44,
       "top_items": [
         {
           "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
           "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-          "score": 486,
+          "score": 511,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T14:13:20+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Creatine raises brain energy levels and slows cognitive decline: study",
           "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-          "score": 451,
+          "score": 475,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T16:19:34+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "The Website Specification",
           "url": "https://specification.website/",
-          "score": 432,
+          "score": 436,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T07:09:50+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "Dav2d",
           "url": "https://jbkempf.com/blog/2026/dav2d/",
-          "score": 389,
+          "score": 395,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T11:44:45+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "Codex just found a \"workaround\" of not having sudo on my PC",
           "url": "https://twitter.com/i/status/2060746160558543217",
-          "score": 348,
+          "score": 378,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T18:57:48+00:00"
@@ -61,15 +61,23 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 11,
       "top_items": [
+        {
+          "title": "就活中のジュニアエンジニアが面接で痛感した「力不足」の話",
+          "url": "https://qiita.com/Yamada040/items/a8230f78084612e4e9e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-01T10:48:14+09:00"
+        },
         {
           "title": "AI が Windows を自律操作するって本当？ Project Opal (Frontier) を試して分かった「実用的な使いどころ」",
           "url": "https://qiita.com/carol0226/items/a78a888ce0c4d2364232?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-01T09:29:19+09:00"
+          "date": "2026-06-01T09:51:10+09:00"
         },
         {
           "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
@@ -94,14 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-05-31T23:19:33+09:00"
-        },
-        {
-          "title": "Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法",
-          "url": "https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-31T18:18:46+09:00"
         }
       ]
     }
