@@ -1,36 +1,99 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-01T15:36:33.718381+00:00",
-  "total_articles": 41,
+  "generated_at": "2026-06-01T18:02:09.650960+00:00",
+  "total_articles": 49,
   "source_counts": {
-    "hn": 27,
+    "hn": 35,
     "zennqiita": 14
   },
   "severity_counts": {
-    "critical": 1,
-    "high": 1
+    "high": 2,
+    "critical": 1
   },
   "top_articles": [
     {
-      "title": "A 10 year old Xeon is all you need",
-      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "score": 465,
-      "source": "hn",
-      "date": "2026-06-01T06:38:42+00:00"
-    },
-    {
-      "title": "NPM packages from Red Hat have been compromised",
+      "title": "Malicious npm packages detected across Red Hat Cloud Services",
       "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "score": 460,
+      "score": 634,
       "source": "hn",
       "date": "2026-06-01T13:30:21+00:00"
     },
     {
+      "title": "A 10 year old Xeon is all you need",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "score": 550,
+      "source": "hn",
+      "date": "2026-06-01T06:38:42+00:00"
+    },
+    {
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "score": 386,
+      "source": "hn",
+      "date": "2026-06-01T16:31:42+00:00"
+    },
+    {
       "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
       "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "score": 110,
+      "score": 295,
       "source": "hn",
       "date": "2026-06-01T14:16:41+00:00"
+    },
+    {
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "score": 204,
+      "source": "hn",
+      "date": "2026-06-01T16:00:40+00:00"
+    },
+    {
+      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "score": 185,
+      "source": "hn",
+      "date": "2026-06-01T16:33:59+00:00"
+    },
+    {
+      "title": "CS336: Language Modeling from Scratch",
+      "url": "https://cs336.stanford.edu/",
+      "score": 176,
+      "source": "hn",
+      "date": "2026-06-01T14:10:32+00:00"
+    },
+    {
+      "title": "Nvidia RTX Spark",
+      "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+      "score": 138,
+      "source": "hn",
+      "date": "2026-06-01T05:24:40+00:00"
+    },
+    {
+      "title": "Lifelike biochemistry continued to unfold in sterilized soil",
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "score": 104,
+      "source": "hn",
+      "date": "2026-06-01T15:11:35+00:00"
+    },
+    {
+      "title": "Windows GOG DOS Games on M-Series Macs",
+      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+      "score": 86,
+      "source": "hn",
+      "date": "2026-06-01T13:28:53+00:00"
+    },
+    {
+      "title": "Flipper Zero Zig Template",
+      "url": "https://github.com/NishantJoshi00/flipper-template",
+      "score": 85,
+      "source": "hn",
+      "date": "2026-06-01T13:20:54+00:00"
+    },
+    {
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "score": 82,
+      "source": "hn",
+      "date": "2026-06-01T16:41:49+00:00"
     },
     {
       "title": "Cessation of public development of Kefir C compiler",
@@ -38,6 +101,13 @@
       "score": 73,
       "source": "hn",
       "date": "2026-06-01T08:52:05+00:00"
+    },
+    {
+      "title": "Linux Basics for Hackers (2019)",
+      "url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
+      "score": 71,
+      "source": "hn",
+      "date": "2026-06-01T13:19:01+00:00"
     },
     {
       "title": "Nvidia Cosmos 3",
@@ -54,18 +124,18 @@
       "date": "2026-06-01T02:03:03+00:00"
     },
     {
-      "title": "CS336: Language Modeling from Scratch",
-      "url": "https://cs336.stanford.edu/",
-      "score": 57,
-      "source": "hn",
-      "date": "2026-06-01T14:10:32+00:00"
-    },
-    {
       "title": "LLMs Are Closer to Religion Than They Appear",
       "url": "https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189",
       "score": 56,
       "source": "hn",
       "date": "2026-06-01T11:03:38+00:00"
+    },
+    {
+      "title": "Surface Laptop Ultra",
+      "url": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/",
+      "score": 56,
+      "source": "hn",
+      "date": "2026-06-01T04:32:45+00:00"
     },
     {
       "title": "When AI Crosses the Line: The Matplotlib Incident",
@@ -75,84 +145,21 @@
       "date": "2026-06-01T12:08:23+00:00"
     },
     {
-      "title": "Flipper Zero Zig Template",
-      "url": "https://github.com/NishantJoshi00/flipper-template",
-      "score": 51,
-      "source": "hn",
-      "date": "2026-06-01T13:20:54+00:00"
-    },
-    {
-      "title": "Windows GOG DOS Games on M-Series Macs",
-      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
-      "score": 48,
-      "source": "hn",
-      "date": "2026-06-01T13:28:53+00:00"
-    },
-    {
-      "title": "Meta legal action forces Facebook whistleblower to sit in silence",
-      "url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
-      "score": 42,
-      "source": "hn",
-      "date": "2026-06-01T08:15:13+00:00"
-    },
-    {
-      "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
-      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
-      "score": 39,
-      "source": "hn",
-      "date": "2026-06-01T04:08:02+00:00"
-    },
-    {
       "title": "Sysadmining Like It's 2009",
       "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
-      "score": 36,
+      "score": 51,
       "source": "hn",
       "date": "2026-06-01T13:50:14+00:00"
-    },
-    {
-      "title": "Blorp Language",
-      "url": "https://blorp-lang.org/",
-      "score": 36,
-      "source": "hn",
-      "date": "2026-06-01T07:35:15+00:00"
-    },
-    {
-      "title": "KDE at 30",
-      "url": "https://kde.org/anniversaries/30/",
-      "score": 32,
-      "source": "hn",
-      "date": "2026-06-01T14:31:26+00:00"
-    },
-    {
-      "title": "Linux Basics for Hackers",
-      "url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
-      "score": 27,
-      "source": "hn",
-      "date": "2026-06-01T13:19:01+00:00"
-    },
-    {
-      "title": "MacBook Pro Rival with the Nvidia Powered Surface Laptop Ultra",
-      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-      "score": 27,
-      "source": "hn",
-      "date": "2026-06-01T12:04:29+00:00"
-    },
-    {
-      "title": "Using Git's rerere feature to escape recurring conflict hell",
-      "url": "https://gist.github.com/skipcloud/f1033afb4fa5681d69fa63458cc95928",
-      "score": 20,
-      "source": "hn",
-      "date": "2026-06-01T07:06:21+00:00"
-    },
-    {
-      "title": "Rift: Better Alternative to Git Worktrees",
-      "url": "https://github.com/anomalyco/rift",
-      "score": 20,
-      "source": "hn",
-      "date": "2026-06-01T06:53:27+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-01T16:31:42+00:00"
+    },
     {
       "title": "Meta legal action forces Facebook whistleblower to sit in silence",
       "url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
