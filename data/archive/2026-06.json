@@ -1,10 +1,10 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-01T20:01:35.317870+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-06-01T21:42:45.450400+00:00",
+  "total_articles": 61,
   "source_counts": {
-    "hn": 38,
-    "zennqiita": 14
+    "hn": 42,
+    "zennqiita": 19
   },
   "severity_counts": {
     "high": 2,
@@ -14,51 +14,58 @@
     {
       "title": "The newest Instagram “exploit” is the goofiest I've seen",
       "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 727,
+      "score": 991,
       "source": "hn",
       "date": "2026-06-01T16:31:42+00:00"
     },
     {
       "title": "Malicious npm packages detected across Red Hat Cloud Services",
       "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "score": 679,
+      "score": 695,
       "source": "hn",
       "date": "2026-06-01T13:30:21+00:00"
     },
     {
       "title": "A 10 year old Xeon is all you need",
       "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "score": 605,
+      "score": 640,
       "source": "hn",
       "date": "2026-06-01T06:38:42+00:00"
     },
     {
       "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
       "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "score": 375,
+      "score": 428,
       "source": "hn",
       "date": "2026-06-01T14:16:41+00:00"
     },
     {
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "score": 364,
+      "source": "hn",
+      "date": "2026-06-01T16:00:40+00:00"
+    },
+    {
       "title": "CS336: Language Modeling from Scratch",
       "url": "https://cs336.stanford.edu/",
-      "score": 236,
+      "score": 279,
       "source": "hn",
       "date": "2026-06-01T14:10:32+00:00"
     },
     {
       "title": "Nvidia RTX Spark",
       "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
-      "score": 207,
+      "score": 248,
       "source": "hn",
       "date": "2026-06-01T05:24:40+00:00"
     },
     {
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "score": 204,
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "score": 234,
       "source": "hn",
-      "date": "2026-06-01T16:00:40+00:00"
+      "date": "2026-06-01T16:41:49+00:00"
     },
     {
       "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
@@ -68,30 +75,44 @@
       "date": "2026-06-01T16:33:59+00:00"
     },
     {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 167,
-      "source": "hn",
-      "date": "2026-06-01T16:41:49+00:00"
-    },
-    {
-      "title": "Lifelike biochemistry continued to unfold in sterilized soil",
+      "title": "What appear to be biochemical processes may be a natural feature of geology",
       "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "score": 134,
+      "score": 158,
       "source": "hn",
       "date": "2026-06-01T15:11:35+00:00"
     },
     {
+      "title": "GitHub and the crime against software",
+      "url": "https://eblog.fly.dev/githubbad.html",
+      "score": 142,
+      "source": "hn",
+      "date": "2026-06-01T18:54:55+00:00"
+    },
+    {
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "score": 124,
+      "source": "hn",
+      "date": "2026-06-01T16:02:04+00:00"
+    },
+    {
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "url": "https://30fps.net/pages/255-vs-256-division/",
+      "score": 121,
+      "source": "hn",
+      "date": "2026-06-01T17:37:20+00:00"
+    },
+    {
       "title": "Windows GOG DOS Games on M-Series Macs",
       "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
-      "score": 108,
+      "score": 116,
       "source": "hn",
       "date": "2026-06-01T13:28:53+00:00"
     },
     {
       "title": "Flipper Zero Zig Template",
       "url": "https://github.com/NishantJoshi00/flipper-template",
-      "score": 102,
+      "score": 111,
       "source": "hn",
       "date": "2026-06-01T13:20:54+00:00"
     },
@@ -110,11 +131,11 @@
       "date": "2026-06-01T04:32:45+00:00"
     },
     {
-      "title": "GitHub and the Crime Against Software",
-      "url": "https://eblog.fly.dev/githubbad.html",
-      "score": 76,
+      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
+      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+      "score": 78,
       "source": "hn",
-      "date": "2026-06-01T18:54:55+00:00"
+      "date": "2026-06-01T12:04:29+00:00"
     },
     {
       "title": "Cessation of public development of Kefir C compiler",
@@ -129,27 +150,6 @@
       "score": 68,
       "source": "hn",
       "date": "2026-06-01T13:50:14+00:00"
-    },
-    {
-      "title": "Nvidia Cosmos 3",
-      "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
-      "score": 68,
-      "source": "hn",
-      "date": "2026-06-01T13:32:44+00:00"
-    },
-    {
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "url": "https://30fps.net/pages/255-vs-256-division/",
-      "score": 66,
-      "source": "hn",
-      "date": "2026-06-01T17:37:20+00:00"
-    },
-    {
-      "title": "Shift from a leader-follower to a leader-leader approach",
-      "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a",
-      "score": 58,
-      "source": "hn",
-      "date": "2026-06-01T02:03:03+00:00"
     }
   ],
   "security_highlights": [
