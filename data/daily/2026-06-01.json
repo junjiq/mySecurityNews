@@ -1,9 +1,16 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-01T07:14:35.024388+00:00",
-  "total_articles": 45,
-  "urgent_count": 1,
+  "generated_at": "2026-06-01T09:18:09.891791+00:00",
+  "total_articles": 60,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Meta legal action forces Facebook whistleblower to sit in silence",
+      "url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-01T08:15:13+00:00"
+    },
     {
       "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
       "url": "https://qiita.com/kai_kou/items/411e39ef6571379ec369?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 42,
       "top_items": [
         {
           "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
           "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-          "score": 625,
+          "score": 663,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T14:13:20+00:00"
@@ -44,7 +51,7 @@
         {
           "title": "Dav2d",
           "url": "https://jbkempf.com/blog/2026/dav2d/",
-          "score": 451,
+          "score": 483,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T11:44:45+00:00"
@@ -52,7 +59,7 @@
         {
           "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
           "url": "https://prismml.com/news/bonsai-image-4b",
-          "score": 365,
+          "score": 383,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T15:04:52+00:00"
@@ -61,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 18,
       "top_items": [
         {
           "title": "Claude Code security-guidance プラグイン入門 — リアルタイム脆弱性検出の仕組み",
@@ -72,6 +79,14 @@
           "date": "2026-06-01T15:03:15+09:00"
         },
         {
+          "title": "「CPU？メモリ？SSD？」PCが重い時、何を疑えばいいのか整理してみる",
+          "url": "https://qiita.com/prum_hitomi/items/8703b051c3b8519996d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-01T13:00:20+09:00"
+        },
+        {
           "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
           "url": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -80,28 +95,20 @@
           "date": "2026-06-01T12:21:29+09:00"
         },
         {
+          "title": "Anthropic の「環境中心」設計思想を読み解く - Claude Code / Agent Skills / MCP が同じ方向を向いている理由",
+          "url": "https://qiita.com/nogataka/items/b1771dbddf62c958acaf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-01T11:50:44+09:00"
+        },
+        {
           "title": "これを読めば分かるClaude Code 完全攻略ガイド",
           "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-01T11:50:22+09:00"
-        },
-        {
-          "title": "就活中のジュニアエンジニアが面接で痛感した「力不足」の話",
-          "url": "https://qiita.com/Yamada040/items/a8230f78084612e4e9e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-01T10:48:14+09:00"
-        },
-        {
-          "title": "AI が Windows を自律操作するって本当？ Project Opal (Frontier) を試して分かった「実用的な使いどころ」",
-          "url": "https://qiita.com/carol0226/items/a78a888ce0c4d2364232?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-01T09:51:10+09:00"
         }
       ]
     }
