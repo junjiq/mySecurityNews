@@ -1,7 +1,7 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-01T03:11:24.179914+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-06-01T05:11:46.576545+00:00",
+  "total_articles": 50,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 41,
       "top_items": [
         {
           "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
           "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-          "score": 540,
+          "score": 578,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T14:13:20+00:00"
@@ -36,26 +36,26 @@
         {
           "title": "The Website Specification",
           "url": "https://specification.website/",
-          "score": 444,
+          "score": 465,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T07:09:50+00:00"
         },
         {
-          "title": "Dav2d",
-          "url": "https://jbkempf.com/blog/2026/dav2d/",
-          "score": 406,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-05-31T11:44:45+00:00"
-        },
-        {
           "title": "Codex just found a \"workaround\" of not having sudo on my PC",
           "url": "https://twitter.com/i/status/2060746160558543217",
-          "score": 398,
+          "score": 454,
           "source": "hn",
           "severity": null,
           "date": "2026-05-31T18:57:48+00:00"
+        },
+        {
+          "title": "Dav2d",
+          "url": "https://jbkempf.com/blog/2026/dav2d/",
+          "score": 420,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-05-31T11:44:45+00:00"
         }
       ]
     },
@@ -63,6 +63,14 @@
       "category": "日本語技術記事",
       "count": 9,
       "top_items": [
+        {
+          "title": "ClaudeCodeとCodexにコーディングを全て任せて商用レベルのUnityゲーム開発を行う【後編】",
+          "url": "https://qiita.com/archeleeds/items/6ec24ba4942973a1ce0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-01T12:21:29+09:00"
+        },
         {
           "title": "これを読めば分かるClaude Code 完全攻略ガイド",
           "url": "https://qiita.com/s-furuya-nri/items/4385ac59ebefb923cf0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +102,6 @@
           "source": "zennqiita",
           "severity": "high",
           "date": "2026-06-01T02:07:07+09:00"
-        },
-        {
-          "title": "2025 Japan AWS Jr. Championsの活動を振り返って",
-          "url": "https://qiita.com/hoshi7_n/items/abe368a2bfd5183aa15a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-05-31T23:19:33+09:00"
         }
       ]
     }
