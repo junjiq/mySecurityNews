@@ -1,11 +1,20 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-01T01:48:53.519113+00:00",
-  "total_articles": 2,
+  "generated_at": "2026-06-01T03:11:24.218146+00:00",
+  "total_articles": 4,
   "source_counts": {
-    "zennqiita": 2
+    "zennqiita": 3,
+    "hn": 1
   },
   "severity_counts": {},
-  "top_articles": [],
+  "top_articles": [
+    {
+      "title": "Shift from a Leader-Follower to a Leader-Leader Approach",
+      "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a",
+      "score": 15,
+      "source": "hn",
+      "date": "2026-06-01T02:03:03+00:00"
+    }
+  ],
   "security_highlights": []
 }
