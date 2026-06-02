@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-02T21:31:57.639571+00:00",
-  "total_articles": 342,
+  "generated_at": "2026-06-02T22:42:46.501360+00:00",
+  "total_articles": 326,
   "source_counts": {
-    "hn": 271,
-    "zennqiita": 63,
+    "hn": 258,
+    "zennqiita": 60,
     "project": 8
   },
   "severity_counts": {
-    "medium": 2,
-    "critical": 8,
+    "medium": 1,
+    "critical": 7,
     "high": 3
   },
   "top_articles": [
@@ -33,13 +33,6 @@
       "score": 1155,
       "source": "hn",
       "date": "2026-05-29T15:46:24+00:00"
-    },
-    {
-      "title": "Can we have the day off?",
-      "url": "https://mlsu.io/posts/day-off/",
-      "score": 1028,
-      "source": "hn",
-      "date": "2026-05-28T00:40:26+00:00"
     },
     {
       "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
@@ -152,6 +145,13 @@
       "score": 442,
       "source": "hn",
       "date": "2026-05-29T16:22:01+00:00"
+    },
+    {
+      "title": "Cars collect a startling amount of data about you",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "score": 430,
+      "source": "hn",
+      "date": "2026-05-29T03:01:00+00:00"
     }
   ],
   "security_highlights": [
@@ -224,13 +224,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-05-28T16:20:24+09:00"
-    },
-    {
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-27T20:37:42+00:00"
     }
   ]
 }
