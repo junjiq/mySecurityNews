@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-02T03:11:42.535826+00:00",
-  "total_articles": 391,
+  "generated_at": "2026-06-02T05:05:05.979897+00:00",
+  "total_articles": 387,
   "source_counts": {
-    "hn": 308,
-    "zennqiita": 75,
+    "hn": 305,
+    "zennqiita": 74,
     "project": 8
   },
   "severity_counts": {
     "medium": 3,
-    "critical": 13,
+    "critical": 12,
     "high": 4
   },
   "top_articles": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-27T07:17:14+00:00"
-    },
-    {
-      "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
-      "url": "https://tsduck.io/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-27T02:22:59+00:00"
     }
   ]
 }
