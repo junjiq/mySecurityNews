@@ -1,21 +1,37 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T17:02:08.069575+00:00",
-  "total_articles": 39,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-06-02T18:45:55.406081+00:00",
+  "total_articles": 44,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15 countries",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-02T17:44:05+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 32,
+      "count": 39,
       "top_items": [
         {
           "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
           "url": "https://blog.adafruit.com/",
-          "score": 436,
+          "score": 490,
           "source": "hn",
           "severity": null,
           "date": "2026-06-02T10:00:56+00:00"
+        },
+        {
+          "title": "Why Janet? (2023)",
+          "url": "https://ianthehenry.com/posts/why-janet/",
+          "score": 377,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-02T09:34:31+00:00"
         },
         {
           "title": "macOS needs its grid back",
@@ -34,14 +50,6 @@
           "date": "2026-06-01T21:50:02+00:00"
         },
         {
-          "title": "Why Janet? (2023)",
-          "url": "https://ianthehenry.com/posts/why-janet/",
-          "score": 341,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-02T09:34:31+00:00"
-        },
-        {
           "title": "Chipotlai Max",
           "url": "https://github.com/cyberpapiii/chipotlai-max",
           "score": 335,
@@ -53,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 5,
       "top_items": [
         {
           "title": "離島に移住してニートしながら個人開発した話",
