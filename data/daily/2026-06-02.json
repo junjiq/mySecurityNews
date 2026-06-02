@@ -1,7 +1,7 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T20:03:26.571876+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-06-02T21:31:57.595202+00:00",
+  "total_articles": 57,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 47,
       "top_items": [
         {
           "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
           "url": "https://blog.adafruit.com/",
-          "score": 518,
+          "score": 551,
           "source": "hn",
           "severity": null,
           "date": "2026-06-02T10:00:56+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Why Janet? (2023)",
           "url": "https://ianthehenry.com/posts/why-janet/",
-          "score": 397,
+          "score": 408,
           "source": "hn",
           "severity": null,
           "date": "2026-06-02T09:34:31+00:00"
@@ -42,27 +42,35 @@
           "date": "2026-06-02T01:28:34+00:00"
         },
         {
+          "title": "Gmail thinks I'm stupid, so I left",
+          "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+          "score": 348,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-02T19:27:40+00:00"
+        },
+        {
           "title": "OpenAI frontier models and Codex are now available on AWS",
           "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
           "score": 343,
           "source": "hn",
           "severity": null,
           "date": "2026-06-01T21:50:02+00:00"
-        },
-        {
-          "title": "Chipotlai Max",
-          "url": "https://github.com/cyberpapiii/chipotlai-max",
-          "score": 335,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-01T23:06:35+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 10,
       "top_items": [
+        {
+          "title": "【Alacritty】ターミナルエミュレータ、みなさんは何度ご引っ越しされましたか？",
+          "url": "https://qiita.com/umekikazuya/items/e682bcd92be5a17ed71d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-03T02:37:37+09:00"
+        },
         {
           "title": "離島に移住してニートしながら個人開発した話",
           "url": "https://qiita.com/ysmb-wtsg/items/4e7c37c338fb41a275cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -80,28 +88,20 @@
           "date": "2026-06-02T22:38:35+09:00"
         },
         {
-          "title": "【初心者向け】シナリオテストとは？ユーザー視点でバグを減らす考え方",
-          "url": "https://qiita.com/sewiihidekikudo/items/fbc9d0d8b7d602c7fb20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "n8n で New Relic のカスタムパッケージ作ったら、思ったよりダウンロードされた話",
+          "url": "https://qiita.com/seamoooooo/items/03371ee57f9e7f149eb0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-02T12:00:11+09:00"
+          "date": "2026-06-02T19:51:24+09:00"
         },
         {
-          "title": "「コードを書く人」から「課題を解決するエンジニア」になるためには",
-          "url": "https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AWSでOpenAIモデルを使おう！（Bedrock APIとStrands編）",
+          "url": "https://qiita.com/minorun365/items/f83b3cf2df904ead28dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-02T11:28:48+09:00"
-        },
-        {
-          "title": "チーム開発の認識ズレを入口で潰す。OpenSpec に「AI が先に質問する」工程を足して比べてみた",
-          "url": "https://qiita.com/resound/items/b742f4afe06c2446ad6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-02T10:04:59+09:00"
+          "date": "2026-06-02T18:18:34+09:00"
         }
       ]
     }

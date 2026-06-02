@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-02T20:03:26.615780+00:00",
-  "total_articles": 116,
+  "generated_at": "2026-06-02T21:31:57.639571+00:00",
+  "total_articles": 130,
   "source_counts": {
-    "hn": 86,
-    "zennqiita": 30
+    "hn": 90,
+    "zennqiita": 40
   },
   "severity_counts": {
     "critical": 2,
-    "high": 2
+    "high": 3
   },
   "top_articles": [
     {
@@ -35,7 +35,7 @@
     {
       "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
       "url": "https://blog.adafruit.com/",
-      "score": 518,
+      "score": 551,
       "source": "hn",
       "date": "2026-06-02T10:00:56+00:00"
     },
@@ -70,7 +70,7 @@
     {
       "title": "Why Janet? (2023)",
       "url": "https://ianthehenry.com/posts/why-janet/",
-      "score": 397,
+      "score": 408,
       "source": "hn",
       "date": "2026-06-02T09:34:31+00:00"
     },
@@ -89,11 +89,25 @@
       "date": "2026-06-02T01:28:34+00:00"
     },
     {
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "score": 348,
+      "source": "hn",
+      "date": "2026-06-02T19:27:40+00:00"
+    },
+    {
       "title": "OpenAI frontier models and Codex are now available on AWS",
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
       "score": 343,
       "source": "hn",
       "date": "2026-06-01T21:50:02+00:00"
+    },
+    {
+      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "score": 339,
+      "source": "hn",
+      "date": "2026-06-02T13:24:32+00:00"
     },
     {
       "title": "Chipotlai Max",
@@ -103,11 +117,11 @@
       "date": "2026-06-01T23:06:35+00:00"
     },
     {
-      "title": "A walking tour of surveillance infrastructure in Seattle",
-      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-      "score": 320,
+      "title": "Love systemd timers",
+      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+      "score": 305,
       "source": "hn",
-      "date": "2026-06-02T13:24:32+00:00"
+      "date": "2026-06-02T09:34:11+00:00"
     },
     {
       "title": "Should you normalize RGB values by 255 or 256?",
@@ -117,11 +131,11 @@
       "date": "2026-06-01T17:37:20+00:00"
     },
     {
-      "title": "Love systemd timers",
-      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-      "score": 275,
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 253,
       "source": "hn",
-      "date": "2026-06-02T09:34:11+00:00"
+      "date": "2026-06-02T18:47:07+00:00"
     },
     {
       "title": "Age verification for social media, the beginning of the end for a free internet?",
@@ -136,20 +150,6 @@
       "score": 246,
       "source": "hn",
       "date": "2026-06-01T15:11:35+00:00"
-    },
-    {
-      "title": "Debug Project",
-      "url": "https://debug.com/",
-      "score": 244,
-      "source": "hn",
-      "date": "2026-06-01T20:40:13+00:00"
-    },
-    {
-      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
-      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-      "score": 235,
-      "source": "hn",
-      "date": "2026-06-01T12:04:29+00:00"
     }
   ],
   "security_highlights": [
@@ -166,6 +166,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-01T16:31:42+00:00"
+    },
+    {
+      "title": "【脆弱性】脆弱性が発見されてから攻撃されるまでの平均時間が5年前の1/188になってる",
+      "url": "https://qiita.com/rana_kualu/items/d9254d21aab9bbd25a6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-06-01T20:09:12+09:00"
     },
     {
       "title": "Meta legal action forces Facebook whistleblower to sit in silence",
