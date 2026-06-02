@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-02T18:45:55.446714+00:00",
-  "total_articles": 350,
+  "generated_at": "2026-06-02T20:03:26.615780+00:00",
+  "total_articles": 342,
   "source_counts": {
-    "hn": 278,
-    "zennqiita": 64,
+    "hn": 271,
+    "zennqiita": 63,
     "project": 8
   },
   "severity_counts": {
     "medium": 2,
-    "critical": 9,
-    "high": 4
+    "critical": 8,
+    "high": 3
   },
   "top_articles": [
     {
@@ -19,13 +19,6 @@
       "score": 1688,
       "source": "hn",
       "date": "2026-05-28T16:49:14+00:00"
-    },
-    {
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 1258,
-      "source": "hn",
-      "date": "2026-05-27T20:00:51+00:00"
     },
     {
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
@@ -152,6 +145,13 @@
       "score": 443,
       "source": "hn",
       "date": "2026-05-30T10:51:48+00:00"
+    },
+    {
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "score": 442,
+      "source": "hn",
+      "date": "2026-05-29T16:22:01+00:00"
     }
   ],
   "security_highlights": [
@@ -231,20 +231,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-27T20:37:42+00:00"
-    },
-    {
-      "title": "Germany Law to Force Algorithm Boost for State-Approved News",
-      "url": "https://nonogra.ph/germany-considers-law-to-force-social-media-algorithm-boost-for-state-approved-news-05-27-2026",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-27T18:57:36+00:00"
-    },
-    {
-      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-      "url": "https://arxiv.org/abs/2605.21779",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-27T17:42:24+00:00"
     }
   ]
 }
