@@ -1,7 +1,7 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T08:56:07.404017+00:00",
-  "total_articles": 47,
+  "generated_at": "2026-06-02T10:36:00.322432+00:00",
+  "total_articles": 51,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -20,7 +20,7 @@
         {
           "title": "The newest Instagram “exploit” is the goofiest I've seen",
           "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-          "score": 1757,
+          "score": 1844,
           "source": "hn",
           "severity": "high",
           "date": "2026-06-01T16:31:42+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "CS336: Language Modeling from Scratch",
           "url": "https://cs336.stanford.edu/",
-          "score": 459,
+          "score": 470,
           "source": "hn",
           "severity": null,
           "date": "2026-06-01T14:10:32+00:00"
@@ -61,8 +61,40 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 9,
       "top_items": [
+        {
+          "title": "【初心者向け】シナリオテストとは？ユーザー視点でバグを減らす考え方",
+          "url": "https://qiita.com/sewiihidekikudo/items/fbc9d0d8b7d602c7fb20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-02T12:00:11+09:00"
+        },
+        {
+          "title": "「コードを書く人」から「課題を解決するエンジニア」になるためには",
+          "url": "https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-02T11:28:48+09:00"
+        },
+        {
+          "title": "チーム開発の認識ズレを入口で潰す。OpenSpec に「AI が先に質問する」工程を足して比べてみた",
+          "url": "https://qiita.com/resound/items/b742f4afe06c2446ad6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-02T10:04:59+09:00"
+        },
+        {
+          "title": "Polyfill.ioを放置したサイトで不審なダイアログが表示されている件",
+          "url": "https://qiita.com/Robot-Inventor/items/2f32a66f087a3bf7eaa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-02T02:28:01+09:00"
+        },
         {
           "title": "競争か統制か？ ― “供給能力”から読み解く日本経済の落とし穴 : Pythonで学ぶ マクロ経済学入門 (86)",
           "url": "https://qiita.com/maskot1977/items/19965c21d55d28ee20da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,38 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-02T02:28:01+09:00"
-        },
-        {
-          "title": "Markdownの太字は、なぜ日本語の鉤括弧で壊れるのか",
-          "url": "https://qiita.com/comty/items/02973ecea78afb27e641?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-01T21:29:47+09:00"
-        },
-        {
-          "title": "AIエージェントを支える次世代データ基盤 - 物理グラフDBを独自開発するための変更管理と安定運用戦略",
-          "url": "https://qiita.com/yohei1126/items/2359c10d6c37be7f4fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-01T20:40:25+09:00"
-        },
-        {
-          "title": "AIエージェントを支える次世代データ基盤 - AIエージェントの知識表現と推論になぜグラフが使われるのか？",
-          "url": "https://qiita.com/yohei1126/items/19ecb7f37ac7ef9c3c80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-01T20:40:21+09:00"
-        },
-        {
-          "title": "【AI-DLC】aidlc-workflows の v2 が生えていたので差分を見てみた",
-          "url": "https://qiita.com/ryu-ki/items/6ed097f5bf99d3d2b5a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-01T19:02:46+09:00"
         }
       ]
     }
