@@ -1,25 +1,18 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-02T10:36:00.364121+00:00",
-  "total_articles": 372,
+  "generated_at": "2026-06-02T12:20:17.178730+00:00",
+  "total_articles": 368,
   "source_counts": {
-    "hn": 298,
-    "zennqiita": 66,
+    "hn": 295,
+    "zennqiita": 65,
     "project": 8
   },
   "severity_counts": {
     "medium": 3,
-    "critical": 11,
+    "critical": 10,
     "high": 4
   },
   "top_articles": [
-    {
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "score": 1724,
-      "source": "hn",
-      "date": "2026-05-27T10:43:25+00:00"
-    },
     {
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
@@ -152,6 +145,13 @@
       "score": 503,
       "source": "hn",
       "date": "2026-05-31T18:57:48+00:00"
+    },
+    {
+      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "score": 499,
+      "source": "hn",
+      "date": "2026-05-31T16:19:34+00:00"
     }
   ],
   "security_highlights": [
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-27T14:36:41+00:00"
-    },
-    {
-      "title": "Vercel公式「React Best Practices」Skillsでコードはどう変わるのか試してみた",
-      "url": "https://qiita.com/ma-ryu/items/32646ec31ef9fa1c4e0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-05-27T19:55:34+09:00"
     }
   ]
 }
