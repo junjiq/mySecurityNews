@@ -1,9 +1,9 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-03T18:28:24.556232+00:00",
-  "total_articles": 196,
+  "generated_at": "2026-06-03T19:50:46.178600+00:00",
+  "total_articles": 200,
   "source_counts": {
-    "hn": 146,
+    "hn": 150,
     "zennqiita": 50
   },
   "severity_counts": {
@@ -50,9 +50,23 @@
     {
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
       "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 606,
+      "score": 617,
       "source": "hn",
       "date": "2026-06-02T15:29:05+00:00"
+    },
+    {
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "score": 559,
+      "source": "hn",
+      "date": "2026-06-03T12:42:07+00:00"
+    },
+    {
+      "title": "Hacking your PC using your speaker without ever touching it",
+      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "score": 544,
+      "source": "hn",
+      "date": "2026-06-03T10:53:00+00:00"
     },
     {
       "title": "MAI-Code-1-Flash",
@@ -60,20 +74,6 @@
       "score": 514,
       "source": "hn",
       "date": "2026-06-02T18:47:07+00:00"
-    },
-    {
-      "title": "Meta workers can opt out of being tracked at work up to 30 min",
-      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "score": 512,
-      "source": "hn",
-      "date": "2026-06-03T12:42:07+00:00"
-    },
-    {
-      "title": "Hacking your PC using your speaker without ever touching it",
-      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 511,
-      "source": "hn",
-      "date": "2026-06-03T10:53:00+00:00"
     },
     {
       "title": "CS336: Language Modeling from Scratch",
@@ -88,6 +88,13 @@
       "score": 471,
       "source": "hn",
       "date": "2026-06-01T14:16:41+00:00"
+    },
+    {
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "score": 451,
+      "source": "hn",
+      "date": "2026-06-03T16:04:42+00:00"
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
@@ -144,13 +151,6 @@
       "score": 364,
       "source": "hn",
       "date": "2026-06-02T23:43:12+00:00"
-    },
-    {
-      "title": "Love systemd timers",
-      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-      "score": 358,
-      "source": "hn",
-      "date": "2026-06-02T09:34:11+00:00"
     }
   ],
   "security_highlights": [

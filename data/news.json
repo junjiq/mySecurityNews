@@ -1,13 +1,35 @@
 {
-  "updated_at": "2026-06-03T18:28:24.454198+00:00",
+  "updated_at": "2026-06-03T19:50:46.068279+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48388324",
+      "source": "hn",
+      "title": "Elixir v1.20 released: now a gradually typed language",
+      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "score": 110,
+      "comments": 20,
+      "author": "cloud8421",
+      "tags": [],
+      "date": "2026-06-03T19:02:26+00:00"
+    },
+    {
+      "id": "hn-48388253",
+      "source": "hn",
+      "title": "Rootshell: A new E2EE email service hosted in Iceland",
+      "url": "https://rootshell.is",
+      "score": 9,
+      "comments": 4,
+      "author": "sc0rt",
+      "tags": [],
+      "date": "2026-06-03T18:58:05+00:00"
+    },
     {
       "id": "hn-48387251",
       "source": "hn",
       "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
       "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
-      "score": 4,
+      "score": 16,
       "comments": 0,
       "author": "gmays",
       "tags": [],
@@ -16,10 +38,10 @@
     {
       "id": "hn-48387144",
       "source": "hn",
-      "title": "Bots have now passed human traffic online for the first time",
+      "title": "Bot vs human traffic",
       "url": "https://radar.cloudflare.com/traffic#bot-vs-human",
-      "score": 51,
-      "comments": 18,
+      "score": 104,
+      "comments": 43,
       "author": "jmsflknr",
       "tags": [],
       "date": "2026-06-03T17:43:00+00:00"
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "Gooey: A GPU-accelerated UI framework for Zig",
       "url": "https://github.com/duanebester/gooey",
-      "score": 25,
-      "comments": 0,
+      "score": 70,
+      "comments": 8,
       "author": "ksec",
       "tags": [],
       "date": "2026-06-03T17:12:27+00:00"
@@ -48,6 +70,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-48386463",
+      "source": "hn",
+      "title": "Angular v22",
+      "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
+      "score": 51,
+      "comments": 26,
+      "author": "Klaster_1",
+      "tags": [],
+      "date": "2026-06-03T16:51:49+00:00"
+    },
+    {
       "id": "hn-48386343",
       "source": "hn",
       "title": "Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
@@ -63,8 +96,8 @@
       "source": "hn",
       "title": "MacBook Neo Is So Popular That Apple Doubled Production",
       "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-      "score": 78,
-      "comments": 45,
+      "score": 172,
+      "comments": 136,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-03T16:33:17+00:00"
@@ -85,8 +118,8 @@
       "source": "hn",
       "title": "ESP32-S31",
       "url": "https://www.espressif.com/en/products/socs/esp32-s31",
-      "score": 137,
-      "comments": 66,
+      "score": 180,
+      "comments": 90,
       "author": "volemo",
       "tags": [],
       "date": "2026-06-03T16:10:25+00:00"
@@ -96,8 +129,8 @@
       "source": "hn",
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 327,
-      "comments": 121,
+      "score": 451,
+      "comments": 169,
       "author": "rvz",
       "tags": [],
       "date": "2026-06-03T16:04:42+00:00"
@@ -107,8 +140,8 @@
       "source": "hn",
       "title": "A Post-Quantum Future for Let's Encrypt",
       "url": "https://letsencrypt.org/2026/06/03/pq-certs",
-      "score": 123,
-      "comments": 49,
+      "score": 148,
+      "comments": 81,
       "author": "SGran",
       "tags": [],
       "date": "2026-06-03T15:06:09+00:00"
@@ -118,8 +151,8 @@
       "source": "hn",
       "title": "DaVinci Resolve 21",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-      "score": 228,
-      "comments": 125,
+      "score": 276,
+      "comments": 131,
       "author": "pentagrama",
       "tags": [],
       "date": "2026-06-03T14:18:39+00:00"
@@ -129,8 +162,8 @@
       "source": "hn",
       "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
       "url": "https://burntsushi.net/encephalitis/",
-      "score": 108,
-      "comments": 23,
+      "score": 253,
+      "comments": 55,
       "author": "Tomte",
       "tags": [],
       "date": "2026-06-03T14:10:06+00:00"
@@ -173,8 +206,8 @@
       "source": "hn",
       "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
       "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-      "score": 279,
-      "comments": 269,
+      "score": 314,
+      "comments": 292,
       "author": "papersail",
       "tags": [],
       "date": "2026-06-03T12:43:43+00:00"
@@ -184,8 +217,8 @@
       "source": "hn",
       "title": "Meta workers can opt out of being tracked at work up to 30 min",
       "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "score": 512,
-      "comments": 479,
+      "score": 559,
+      "comments": 523,
       "author": "reconnecting",
       "tags": [],
       "date": "2026-06-03T12:42:07+00:00"
@@ -195,8 +228,8 @@
       "source": "hn",
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 69,
-      "comments": 87,
+      "score": 156,
+      "comments": 199,
       "author": "pdyc",
       "tags": [],
       "date": "2026-06-03T12:25:14+00:00"
@@ -217,8 +250,8 @@
       "source": "hn",
       "title": "Every Byte Matters",
       "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-      "score": 192,
-      "comments": 94,
+      "score": 202,
+      "comments": 99,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-03T11:04:04+00:00"
@@ -228,8 +261,8 @@
       "source": "hn",
       "title": "Hacking your PC using your speaker without ever touching it",
       "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 511,
-      "comments": 84,
+      "score": 544,
+      "comments": 93,
       "author": "xx_ns",
       "tags": [],
       "date": "2026-06-03T10:53:00+00:00"
@@ -239,8 +272,8 @@
       "source": "hn",
       "title": "What I've learned about the trombone",
       "url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
-      "score": 63,
-      "comments": 51,
+      "score": 66,
+      "comments": 55,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-06-03T10:51:29+00:00"
@@ -250,8 +283,8 @@
       "source": "hn",
       "title": "PlayStation Architecture",
       "url": "https://www.copetti.org/writings/consoles/playstation/",
-      "score": 186,
-      "comments": 37,
+      "score": 203,
+      "comments": 41,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-06-03T10:24:25+00:00"
@@ -261,8 +294,8 @@
       "source": "hn",
       "title": "Mathematicians issue warning as AI rapidly gains ground",
       "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-      "score": 65,
-      "comments": 91,
+      "score": 94,
+      "comments": 128,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-06-03T10:05:48+00:00",
@@ -874,8 +907,8 @@
       "source": "hn",
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
       "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 606,
-      "comments": 92,
+      "score": 617,
+      "comments": 95,
       "author": "ammar2",
       "tags": [],
       "date": "2026-06-02T15:29:05+00:00"
@@ -1693,6 +1726,17 @@
       "author": "ibobev",
       "tags": [],
       "date": "2026-06-01T13:19:01+00:00"
+    },
+    {
+      "id": "hn-48356449",
+      "source": "hn",
+      "title": "Stop Killing Games",
+      "url": "https://jxself.org/stop-killing-games.shtml",
+      "score": 44,
+      "comments": 28,
+      "author": "amcclure",
+      "tags": [],
+      "date": "2026-06-01T13:16:51+00:00"
     },
     {
       "id": "qiita-14fb020dec",
@@ -3410,8 +3454,8 @@
       "source": "hn",
       "title": "Fluid Simulation for Dummies",
       "url": "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html",
-      "score": 28,
-      "comments": 6,
+      "score": 42,
+      "comments": 10,
       "author": "sebg",
       "tags": [],
       "date": "2026-05-30T16:46:38+00:00"
@@ -5113,52 +5157,6 @@
         "Qiita"
       ],
       "date": "2026-05-29T10:11:25+09:00"
-    },
-    {
-      "id": "qiita-796102479d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "学習が続かないエンジニアへ。仲間と一緒に成長できるコミュニティを作りました",
-      "url": "https://qiita.com/ari_init/items/747c997d65ac873addd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ari_init",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-29T09:33:43+09:00"
-    },
-    {
-      "id": "hn-48317339",
-      "source": "hn",
-      "title": "Where are the economies of scale in homebuilding?",
-      "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
-      "score": 50,
-      "comments": 41,
-      "author": "JumpCrisscross",
-      "tags": [],
-      "date": "2026-05-29T00:16:20+00:00"
-    },
-    {
-      "id": "hn-48317294",
-      "source": "hn",
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "score": 114,
-      "comments": 97,
-      "author": "freediver",
-      "tags": [],
-      "date": "2026-05-29T00:09:35+00:00"
-    },
-    {
-      "id": "hn-48317093",
-      "source": "hn",
-      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-      "score": 197,
-      "comments": 97,
-      "author": "drewda",
-      "tags": [],
-      "date": "2026-05-28T23:42:47+00:00"
     },
     {
       "id": "ctf-3761714",
