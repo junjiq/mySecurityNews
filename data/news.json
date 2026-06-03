@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-06-03T01:56:06.110203+00:00",
+  "updated_at": "2026-06-03T03:14:14.753674+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48378925",
+      "source": "hn",
+      "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+      "url": "https://www.capstone-engine.org/",
+      "score": 9,
+      "comments": 0,
+      "author": "gregsadetsky",
+      "tags": [],
+      "date": "2026-06-03T01:59:46+00:00"
+    },
+    {
+      "id": "hn-48378495",
+      "source": "hn",
+      "title": "Roku LT Operating System open source distribution",
+      "url": "https://blog.roku.com/developer/roku-lt-os",
+      "score": 18,
+      "comments": 7,
+      "author": "dpmdpm",
+      "tags": [],
+      "date": "2026-06-03T01:13:38+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48378099",
       "source": "hn",
@@ -40,8 +63,8 @@
       "source": "hn",
       "title": "More than 6 out of 10 people turn to AI for psychological support",
       "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
-      "score": 47,
-      "comments": 35,
+      "score": 65,
+      "comments": 56,
       "author": "mgh2",
       "tags": [],
       "date": "2026-06-02T23:55:04+00:00"
@@ -51,8 +74,8 @@
       "source": "hn",
       "title": "AI outperforms law professors in Stanford Law study",
       "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "score": 84,
-      "comments": 78,
+      "score": 115,
+      "comments": 112,
       "author": "berlianta",
       "tags": [],
       "date": "2026-06-02T23:43:12+00:00"
@@ -69,12 +92,23 @@
       "date": "2026-06-02T23:27:30+00:00"
     },
     {
+      "id": "hn-48377496",
+      "source": "hn",
+      "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+      "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+      "score": 33,
+      "comments": 1,
+      "author": "fons-p",
+      "tags": [],
+      "date": "2026-06-02T23:09:09+00:00"
+    },
+    {
       "id": "hn-48377404",
       "source": "hn",
       "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
       "url": "https://github.com/c0dejedi/nbd-vram",
-      "score": 122,
-      "comments": 38,
+      "score": 156,
+      "comments": 46,
       "author": "tanelpoder",
       "tags": [],
       "date": "2026-06-02T22:55:33+00:00"
@@ -82,10 +116,10 @@
     {
       "id": "hn-48377250",
       "source": "hn",
-      "title": "Paseo – Beautiful open-source coding agent interface (desktop, mobile, CLI)",
+      "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
       "url": "https://github.com/getpaseo/paseo",
-      "score": 8,
-      "comments": 2,
+      "score": 31,
+      "comments": 15,
       "author": "timhigins",
       "tags": [],
       "date": "2026-06-02T22:34:42+00:00",
@@ -96,8 +130,8 @@
       "source": "hn",
       "title": "4K years ago, Mohenjo-daro grew more equal over time",
       "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
-      "score": 45,
-      "comments": 20,
+      "score": 56,
+      "comments": 29,
       "author": "marojejian",
       "tags": [],
       "date": "2026-06-02T22:22:34+00:00"
@@ -118,8 +152,8 @@
       "source": "hn",
       "title": "CT scans of BYD car parts",
       "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "score": 217,
-      "comments": 84,
+      "score": 252,
+      "comments": 97,
       "author": "viasfo",
       "tags": [],
       "date": "2026-06-02T20:30:08+00:00"
@@ -140,8 +174,8 @@
       "source": "hn",
       "title": "My thoughts after using Clojure for about a month",
       "url": "https://www.acdw.net/clojure/",
-      "score": 105,
-      "comments": 56,
+      "score": 126,
+      "comments": 73,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-02T19:56:46+00:00"
@@ -162,7 +196,7 @@
       "source": "hn",
       "title": "Open Repair Data Standard – Open Repair Alliance",
       "url": "https://openrepair.org/open-data/open-standard/",
-      "score": 90,
+      "score": 103,
       "comments": 3,
       "author": "cassepipe",
       "tags": [],
@@ -173,8 +207,8 @@
       "source": "hn",
       "title": "Gmail thinks I'm stupid, so I left",
       "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "score": 616,
-      "comments": 385,
+      "score": 671,
+      "comments": 404,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-02T19:27:40+00:00"
@@ -184,8 +218,8 @@
       "source": "hn",
       "title": "HP re-releases classic computer science calculator: The HP-16C",
       "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-      "score": 122,
-      "comments": 77,
+      "score": 133,
+      "comments": 83,
       "author": "dm319",
       "tags": [],
       "date": "2026-06-02T19:02:40+00:00"
@@ -195,8 +229,8 @@
       "source": "hn",
       "title": "MAI-Code-1-Flash",
       "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 388,
-      "comments": 177,
+      "score": 404,
+      "comments": 178,
       "author": "EvanZhouDev",
       "tags": [],
       "date": "2026-06-02T18:47:07+00:00"
@@ -330,8 +364,8 @@
       "source": "hn",
       "title": "Trump signs downsized AI order after weeks of reversals",
       "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-      "score": 175,
-      "comments": 122,
+      "score": 182,
+      "comments": 128,
       "author": "_alternator_",
       "tags": [],
       "date": "2026-06-02T16:40:16+00:00"
@@ -352,8 +386,8 @@
       "source": "hn",
       "title": "How we index images for RAG",
       "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-      "score": 89,
-      "comments": 13,
+      "score": 95,
+      "comments": 14,
       "author": "mooreds",
       "tags": [],
       "date": "2026-06-02T16:13:41+00:00"
@@ -368,6 +402,17 @@
       "author": "felixzeller",
       "tags": [],
       "date": "2026-06-02T16:02:47+00:00"
+    },
+    {
+      "id": "hn-48371562",
+      "source": "hn",
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "score": 38,
+      "comments": 1,
+      "author": "ammar2",
+      "tags": [],
+      "date": "2026-06-02T15:29:05+00:00"
     },
     {
       "id": "hn-48371224",
@@ -398,8 +443,8 @@
       "source": "hn",
       "title": "Preparing for KDE Plasma's Last X11-Supported Release",
       "url": "https://blog.davidedmundson.co.uk/blog/596/",
-      "score": 148,
-      "comments": 180,
+      "score": 154,
+      "comments": 186,
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-06-02T14:16:30+00:00"
@@ -409,8 +454,8 @@
       "source": "hn",
       "title": "Fidonet: Technology, Use, Tools, and History (1993)",
       "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-      "score": 136,
-      "comments": 52,
+      "score": 153,
+      "comments": 63,
       "author": "BruceEel",
       "tags": [],
       "date": "2026-06-02T13:53:52+00:00"
@@ -433,8 +478,8 @@
       "source": "hn",
       "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
       "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-      "score": 376,
-      "comments": 240,
+      "score": 379,
+      "comments": 255,
       "author": "eustoria",
       "tags": [],
       "date": "2026-06-02T13:24:32+00:00"
@@ -445,7 +490,7 @@
       "title": "Expanding Project Glasswing",
       "url": "https://www.anthropic.com/news/expanding-project-glasswing",
       "score": 160,
-      "comments": 207,
+      "comments": 217,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-06-02T13:15:14+00:00"
@@ -534,8 +579,8 @@
       "source": "hn",
       "title": "Love systemd timers",
       "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-      "score": 346,
-      "comments": 225,
+      "score": 358,
+      "comments": 229,
       "author": "yacin",
       "tags": [],
       "date": "2026-06-02T09:34:11+00:00"
@@ -1026,8 +1071,8 @@
       "source": "hn",
       "title": "Are blue zones real? Answering that question is harder then ever",
       "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
-      "score": 17,
-      "comments": 10,
+      "score": 32,
+      "comments": 20,
       "author": "mfld",
       "tags": [],
       "date": "2026-06-01T13:40:35+00:00"
@@ -2183,8 +2228,8 @@
       "source": "hn",
       "title": "Multicore suppport for DOS is real – partly",
       "url": "https://www.vogons.org/viewtopic.php?t=111336",
-      "score": 58,
-      "comments": 10,
+      "score": 64,
+      "comments": 11,
       "author": "beebix",
       "tags": [],
       "date": "2026-05-31T08:06:33+00:00"
@@ -2827,7 +2872,7 @@
       "source": "hn",
       "title": "OpenFOV – Webcam head tracking for iRacing",
       "url": "https://www.openfov.com/",
-      "score": 86,
+      "score": 91,
       "comments": 50,
       "author": "mwit2023",
       "tags": [],
@@ -5398,266 +5443,6 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-ea3ef26431",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "デプロイ速度を約50%高速化した話",
-      "url": "https://zenn.dev/dress_code/articles/a0e4fbf842ebfd",
-      "score": null,
-      "author": "ぽこひで",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 02 Jun 2026 02:25:55 GMT"
-    },
-    {
-      "id": "zenn-5532d8c58f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AWS Lambda Web AdaptorがGAしたので触ってみる",
-      "url": "https://zenn.dev/kameoncloud/articles/361bb220f1c7f2",
-      "score": null,
-      "author": "kameoncloud",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 02 Jun 2026 01:53:36 GMT"
-    },
-    {
-      "id": "zenn-6ab4a02aca",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Polyfill.ioを放置したサイトで不審なダイアログが表示されている件",
-      "url": "https://zenn.dev/roboin/articles/43a205f1249889",
-      "score": null,
-      "author": "ろぼいん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 17:35:09 GMT"
-    },
-    {
-      "id": "zenn-fb7016e086",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Cloudflareは「AWSの代わり」になるのか？ ── インフラ経験者のための技術選定ガイド",
-      "url": "https://zenn.dev/fitness_densuke/articles/2026-06-01-cloudflare-vs-aws-selection-guide",
-      "score": null,
-      "author": "Tamtam",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 14:33:01 GMT"
-    },
-    {
-      "id": "zenn-526a22a1fd",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "whoisが無ェ、RDAPは何者だ？",
-      "url": "https://zenn.dev/digeon/articles/fb563703bcfc96",
-      "score": null,
-      "author": "結友",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 10:54:30 GMT"
-    },
-    {
-      "id": "zenn-9fa9ca4ee7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "PdMの脳みそをClaude Codeに移植した仕組み",
-      "url": "https://zenn.dev/tokium_dev/articles/pdm-brain-on-claude-code",
-      "score": null,
-      "author": "とみー",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 09:00:05 GMT"
-    },
-    {
-      "id": "zenn-0de1aa866c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "大規模なデータ基盤にdbtを導入して1から作り直すことでBigQueryのスキャン量を90%以上削減した話",
-      "url": "https://zenn.dev/macbee_planet/articles/85c8ef4aeb063b",
-      "score": null,
-      "author": "rami",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 07:47:45 GMT"
-    },
-    {
-      "id": "zenn-40dbc21071",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "負荷試験をやったことがない4年目エンジニアがk6を使って実施するまで",
-      "url": "https://zenn.dev/atamaplus/articles/2026-loadtest",
-      "score": null,
-      "author": "akira-0924",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 06:24:02 GMT"
-    },
-    {
-      "id": "zenn-d18b89b8af",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【入社エントリ】長年勤めたメーカーを辞めて松尾研究所に入社した話",
-      "url": "https://zenn.dev/mkj/articles/46168f1b5f73e2",
-      "score": null,
-      "author": "クリリン",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 02:50:05 GMT"
-    },
-    {
-      "id": "zenn-618b95296b",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Antigravity CLI × Chrome DevTools for AgentsでAIデバッグ開発体験（for LIFF）",
-      "url": "https://zenn.dev/n0bisuke/books/antigravitycli-chrome-dev-line",
-      "score": null,
-      "author": "n0bisuke",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 02:36:06 GMT"
-    },
-    {
-      "id": "zenn-ffdc8e8212",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "なぜスライド作りはClaude Designでやるべきなのか？",
-      "url": "https://zenn.dev/rakko_inc/articles/claude-design-company-deck",
-      "score": null,
-      "author": "maya honey",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 01:41:02 GMT"
-    },
-    {
-      "id": "zenn-0e48e1800c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ボトルネックの移動から見るソフトウェア開発の近未来",
-      "url": "https://zenn.dev/hiraoku/articles/bottleneck-shift-future-of-software",
-      "score": null,
-      "author": "hiraoku",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 00:54:39 GMT"
-    },
-    {
-      "id": "zenn-ee65fcb7ff",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "[AI] 2026年6月時点でBestな開発環境を本気で考えた",
-      "url": "https://zenn.dev/d0ne1s/articles/9422407b652a48",
-      "score": null,
-      "author": "DAN",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 00:00:06 GMT"
-    },
-    {
-      "id": "zenn-d43ece4a21",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeのために「臭うコード検出器」を開発し、Hooksに設定してみた話",
-      "url": "https://zenn.dev/manalink_dev/articles/coding-agent-with-syntax-tree-analyze",
-      "score": null,
-      "author": "meijin",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 31 May 2026 23:29:52 GMT"
-    },
-    {
-      "id": "zenn-5f87a44348",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "僕が AI にコーディングをさせなくなった理由（2026 年 5月版）",
-      "url": "https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja",
-      "score": null,
-      "author": "nishiken",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 31 May 2026 23:13:20 GMT"
-    },
-    {
-      "id": "zenn-18e170b08d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ローカルLLMにWebアプリを自律生成させた — 28秒で完成、セキュリティテスト22件全PASS",
-      "url": "https://zenn.dev/seeda_yuto/articles/local-llm-agent-harness-guide",
-      "score": null,
-      "author": "yuto[SEEDA]",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 31 May 2026 23:05:49 GMT"
-    },
-    {
-      "id": "zenn-1829fbc091",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "3D Gaussian Splatting ビューワを作る",
-      "url": "https://zenn.dev/abist_inno/articles/cb13d00751b2c9",
-      "score": null,
-      "author": "おおひら",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 31 May 2026 22:00:50 GMT"
-    },
-    {
-      "id": "zenn-2a1cce62cc",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "テスト計画・分析・設計・実装・実行・レポートまでを通しで自動実行するAI開発&公開",
-      "url": "https://zenn.dev/jam0824/articles/c84a2ef393ee70",
-      "score": null,
-      "author": "まつ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 31 May 2026 15:25:22 GMT"
-    },
-    {
-      "id": "zenn-390d3164c7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "自作データベース入門の入門：好きなプログラミング言語でSQLiteライクなDBを作ろう！",
-      "url": "https://zenn.dev/kaseken/articles/49c12113238ec4",
-      "score": null,
-      "author": "kaseken",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 31 May 2026 07:56:33 GMT"
-    },
-    {
-      "id": "zenn-5c23af1ae7",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Ubuntu 26.04 LTS を1ヶ月使って感じたメリット6選",
-      "url": "https://zenn.dev/zundamon_it/articles/8ed8520c0bc837",
-      "score": null,
-      "author": "zundamon_IT",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 31 May 2026 04:40:31 GMT"
-    },
-    {
       "id": "edb-f5d122f8a3",
       "source": "msf",
       "title": "[webapps] Drupal Core 10.5.5 - Error-Based SQL Injection",
@@ -5836,6 +5621,220 @@
       ],
       "severity": "high",
       "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e7ed248f76",
+      "source": "msf",
+      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
+      "url": "https://www.exploit-db.com/exploits/52594",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-fdf74e4c3e",
+      "source": "msf",
+      "title": "[local] ZTE ZXHN H188A V6 - Authentication Bypass",
+      "url": "https://www.exploit-db.com/exploits/52593",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-3120911e79",
+      "source": "msf",
+      "title": "[local] ZTE H298A / H108N - Unauthenticated Credential Exposure",
+      "url": "https://www.exploit-db.com/exploits/52592",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "zenn-ea3ef26431",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "デプロイ速度を約50%高速化した話",
+      "url": "https://zenn.dev/dress_code/articles/a0e4fbf842ebfd",
+      "score": null,
+      "author": "ぽこひで",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 02 Jun 2026 02:25:55 GMT"
+    },
+    {
+      "id": "zenn-5532d8c58f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AWS Lambda Web AdaptorがGAしたので触ってみる",
+      "url": "https://zenn.dev/kameoncloud/articles/361bb220f1c7f2",
+      "score": null,
+      "author": "kameoncloud",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 02 Jun 2026 01:53:36 GMT"
+    },
+    {
+      "id": "zenn-6ab4a02aca",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Polyfill.ioを放置したサイトで不審なダイアログが表示されている件",
+      "url": "https://zenn.dev/roboin/articles/43a205f1249889",
+      "score": null,
+      "author": "ろぼいん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 17:35:09 GMT"
+    },
+    {
+      "id": "zenn-fb7016e086",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Cloudflareは「AWSの代わり」になるのか？ ── インフラ経験者のための技術選定ガイド",
+      "url": "https://zenn.dev/fitness_densuke/articles/2026-06-01-cloudflare-vs-aws-selection-guide",
+      "score": null,
+      "author": "Tamtam",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 14:33:01 GMT"
+    },
+    {
+      "id": "zenn-526a22a1fd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "whoisが無ェ、RDAPは何者だ？",
+      "url": "https://zenn.dev/digeon/articles/fb563703bcfc96",
+      "score": null,
+      "author": "結友",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 10:54:30 GMT"
+    },
+    {
+      "id": "zenn-9fa9ca4ee7",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "PdMの脳みそをClaude Codeに移植した仕組み",
+      "url": "https://zenn.dev/tokium_dev/articles/pdm-brain-on-claude-code",
+      "score": null,
+      "author": "とみー",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 09:00:05 GMT"
+    },
+    {
+      "id": "zenn-0de1aa866c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "大規模なデータ基盤にdbtを導入して1から作り直すことでBigQueryのスキャン量を90%以上削減した話",
+      "url": "https://zenn.dev/macbee_planet/articles/85c8ef4aeb063b",
+      "score": null,
+      "author": "rami",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 07:47:45 GMT"
+    },
+    {
+      "id": "zenn-40dbc21071",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "負荷試験をやったことがない4年目エンジニアがk6を使って実施するまで",
+      "url": "https://zenn.dev/atamaplus/articles/2026-loadtest",
+      "score": null,
+      "author": "akira-0924",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 06:24:02 GMT"
+    },
+    {
+      "id": "zenn-d18b89b8af",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "【入社エントリ】長年勤めたメーカーを辞めて松尾研究所に入社した話",
+      "url": "https://zenn.dev/mkj/articles/46168f1b5f73e2",
+      "score": null,
+      "author": "クリリン",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 02:50:05 GMT"
+    },
+    {
+      "id": "zenn-618b95296b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Antigravity CLI × Chrome DevTools for AgentsでAIデバッグ開発体験（for LIFF）",
+      "url": "https://zenn.dev/n0bisuke/books/antigravitycli-chrome-dev-line",
+      "score": null,
+      "author": "n0bisuke",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 02:36:06 GMT"
+    },
+    {
+      "id": "zenn-ffdc8e8212",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "なぜスライド作りはClaude Designでやるべきなのか？",
+      "url": "https://zenn.dev/rakko_inc/articles/claude-design-company-deck",
+      "score": null,
+      "author": "maya honey",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 01:41:02 GMT"
+    },
+    {
+      "id": "zenn-0e48e1800c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ボトルネックの移動から見るソフトウェア開発の近未来",
+      "url": "https://zenn.dev/hiraoku/articles/bottleneck-shift-future-of-software",
+      "score": null,
+      "author": "hiraoku",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 00:54:39 GMT"
+    },
+    {
+      "id": "zenn-ee65fcb7ff",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "[AI] 2026年6月時点でBestな開発環境を本気で考えた",
+      "url": "https://zenn.dev/d0ne1s/articles/9422407b652a48",
+      "score": null,
+      "author": "DAN",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 01 Jun 2026 00:00:06 GMT"
     }
   ]
 }

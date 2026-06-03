@@ -1,11 +1,18 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T01:56:06.177500+00:00",
-  "total_articles": 55,
-  "urgent_count": 2,
+  "generated_at": "2026-06-03T03:14:14.818992+00:00",
+  "total_articles": 56,
+  "urgent_count": 3,
   "urgent_items": [
     {
-      "title": "Paseo – Beautiful open-source coding agent interface (desktop, mobile, CLI)",
+      "title": "Roku LT Operating System open source distribution",
+      "url": "https://blog.roku.com/developer/roku-lt-os",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-03T01:13:38+00:00"
+    },
+    {
+      "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
       "url": "https://github.com/getpaseo/paseo",
       "severity": "critical",
       "source": "hn",
@@ -22,8 +29,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 51,
       "top_items": [
+        {
+          "title": "Gmail thinks I'm stupid, so I left",
+          "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+          "score": 671,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-02T19:27:40+00:00"
+        },
         {
           "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
           "url": "https://blog.adafruit.com/",
@@ -31,14 +46,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-02T10:00:56+00:00"
-        },
-        {
-          "title": "Gmail thinks I'm stupid, so I left",
-          "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-          "score": 616,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-02T19:27:40+00:00"
         },
         {
           "title": "Why Janet? (2023)",
@@ -51,7 +58,7 @@
         {
           "title": "MAI-Code-1-Flash",
           "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-          "score": 388,
+          "score": 404,
           "source": "hn",
           "severity": null,
           "date": "2026-06-02T18:47:07+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
           "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-          "score": 376,
+          "score": 379,
           "source": "hn",
           "severity": null,
           "date": "2026-06-02T13:24:32+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 5,
       "top_items": [
         {
           "title": "【Alacritty】ターミナルエミュレータ、みなさんは何度ご引っ越しされましたか？",
