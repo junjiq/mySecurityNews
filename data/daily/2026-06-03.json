@@ -1,9 +1,16 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T09:07:39.001103+00:00",
-  "total_articles": 70,
-  "urgent_count": 3,
+  "generated_at": "2026-06-03T11:16:07.368919+00:00",
+  "total_articles": 68,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
+      "url": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-03T05:49:31+00:00"
+    },
     {
       "title": "Roku LT Operating System open source distribution",
       "url": "https://blog.roku.com/developer/roku-lt-os",
@@ -34,34 +41,34 @@
         {
           "title": "Gmail thinks I'm stupid, so I left",
           "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-          "score": 918,
+          "score": 995,
           "source": "hn",
           "severity": null,
           "date": "2026-06-02T19:27:40+00:00"
         },
         {
-          "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-          "url": "https://blog.adafruit.com/",
-          "score": 623,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-02T10:00:56+00:00"
-        },
-        {
           "title": "MAI-Code-1-Flash",
           "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-          "score": 463,
+          "score": 478,
           "source": "hn",
           "severity": null,
           "date": "2026-06-02T18:47:07+00:00"
         },
         {
-          "title": "Why Janet? (2023)",
-          "url": "https://ianthehenry.com/posts/why-janet/",
-          "score": 423,
+          "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+          "url": "https://blog.ammaraskar.com/github-token-stealing/",
+          "score": 454,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-02T09:34:31+00:00"
+          "date": "2026-06-02T15:29:05+00:00"
+        },
+        {
+          "title": "CT scans of BYD car parts",
+          "url": "https://www.lumafield.com/scan-of-the-month/byd",
+          "score": 397,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-02T20:30:08+00:00"
         },
         {
           "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
@@ -75,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 12,
       "top_items": [
         {
           "title": "New Relic Workflow Automation 実践ガイド ― Alert Trigger の正しい設定順序とテストのコツ",

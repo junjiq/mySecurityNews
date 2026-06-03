@@ -1,13 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-03T09:07:39.042445+00:00",
-  "total_articles": 165,
+  "generated_at": "2026-06-03T11:16:07.414110+00:00",
+  "total_articles": 171,
   "source_counts": {
-    "hn": 115,
+    "hn": 121,
     "zennqiita": 50
   },
   "severity_counts": {
-    "critical": 4,
+    "medium": 1,
+    "critical": 5,
     "high": 3
   },
   "top_articles": [
@@ -21,7 +22,7 @@
     {
       "title": "Gmail thinks I'm stupid, so I left",
       "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "score": 918,
+      "score": 995,
       "source": "hn",
       "date": "2026-06-02T19:27:40+00:00"
     },
@@ -54,6 +55,13 @@
       "date": "2026-06-01T14:10:32+00:00"
     },
     {
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 478,
+      "source": "hn",
+      "date": "2026-06-02T18:47:07+00:00"
+    },
+    {
       "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
       "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
       "score": 471,
@@ -61,11 +69,11 @@
       "date": "2026-06-01T14:16:41+00:00"
     },
     {
-      "title": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 463,
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "score": 454,
       "source": "hn",
-      "date": "2026-06-02T18:47:07+00:00"
+      "date": "2026-06-02T15:29:05+00:00"
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
@@ -89,6 +97,13 @@
       "date": "2026-06-02T09:34:31+00:00"
     },
     {
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "score": 397,
+      "source": "hn",
+      "date": "2026-06-02T20:30:08+00:00"
+    },
+    {
       "title": "Nvidia RTX Spark",
       "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
       "score": 384,
@@ -101,20 +116,6 @@
       "score": 379,
       "source": "hn",
       "date": "2026-06-02T13:24:32+00:00"
-    },
-    {
-      "title": "CT scans of BYD car parts",
-      "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "score": 374,
-      "source": "hn",
-      "date": "2026-06-02T20:30:08+00:00"
-    },
-    {
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 371,
-      "source": "hn",
-      "date": "2026-06-02T15:29:05+00:00"
     },
     {
       "title": "Love systemd timers",
@@ -138,21 +139,28 @@
       "date": "2026-06-01T21:50:02+00:00"
     },
     {
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "score": 337,
+      "source": "hn",
+      "date": "2026-06-02T22:55:33+00:00"
+    },
+    {
       "title": "Chipotlai Max",
       "url": "https://github.com/cyberpapiii/chipotlai-max",
       "score": 335,
       "source": "hn",
       "date": "2026-06-01T23:06:35+00:00"
-    },
-    {
-      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "url": "https://github.com/c0dejedi/nbd-vram",
-      "score": 291,
-      "source": "hn",
-      "date": "2026-06-02T22:55:33+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
+      "url": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-03T05:49:31+00:00"
+    },
     {
       "title": "Roku LT Operating System open source distribution",
       "url": "https://blog.roku.com/developer/roku-lt-os",
