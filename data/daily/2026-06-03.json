@@ -1,9 +1,16 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T22:18:55.809789+00:00",
-  "total_articles": 67,
+  "generated_at": "2026-06-03T23:11:38.437009+00:00",
+  "total_articles": 64,
   "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+      "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-03T21:55:23+00:00"
+    },
     {
       "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
       "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
@@ -24,19 +31,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-03T01:13:38+00:00"
-    },
-    {
-      "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
-      "url": "https://github.com/getpaseo/paseo",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-02T22:34:42+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 53,
       "top_items": [
         {
           "title": "Meta workers can opt out of being tracked at work up to 30 min",
@@ -47,33 +47,33 @@
           "date": "2026-06-03T12:42:07+00:00"
         },
         {
-          "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-          "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-          "score": 614,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-03T10:53:00+00:00"
-        },
-        {
           "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-          "score": 597,
+          "score": 625,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T16:04:42+00:00"
         },
         {
-          "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-          "url": "https://github.com/c0dejedi/nbd-vram",
-          "score": 412,
+          "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+          "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+          "score": 623,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-02T22:55:33+00:00"
+          "date": "2026-06-03T10:53:00+00:00"
+        },
+        {
+          "title": "Elixir v1.20: Now a gradually typed language",
+          "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+          "score": 430,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-03T19:02:26+00:00"
         },
         {
           "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
           "url": "https://burntsushi.net/encephalitis/",
-          "score": 393,
+          "score": 430,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T14:10:06+00:00"
@@ -82,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "Strands AgentsをLambdaにデプロイし、トレースをAgentCoreオブザーバビリティ（生成 AI オブザーバビリティ）に送るぜ",
