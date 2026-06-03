@@ -1,10 +1,10 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-03T07:10:16.711331+00:00",
-  "total_articles": 153,
+  "generated_at": "2026-06-03T09:07:39.042445+00:00",
+  "total_articles": 165,
   "source_counts": {
-    "hn": 113,
-    "zennqiita": 40
+    "hn": 115,
+    "zennqiita": 50
   },
   "severity_counts": {
     "critical": 4,
@@ -21,7 +21,7 @@
     {
       "title": "Gmail thinks I'm stupid, so I left",
       "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "score": 838,
+      "score": 918,
       "source": "hn",
       "date": "2026-06-02T19:27:40+00:00"
     },
@@ -61,18 +61,18 @@
       "date": "2026-06-01T14:16:41+00:00"
     },
     {
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 463,
+      "source": "hn",
+      "date": "2026-06-02T18:47:07+00:00"
+    },
+    {
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "score": 449,
       "source": "hn",
       "date": "2026-06-01T16:41:49+00:00"
-    },
-    {
-      "title": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 446,
-      "source": "hn",
-      "date": "2026-06-02T18:47:07+00:00"
     },
     {
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
@@ -103,6 +103,20 @@
       "date": "2026-06-02T13:24:32+00:00"
     },
     {
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "score": 374,
+      "source": "hn",
+      "date": "2026-06-02T20:30:08+00:00"
+    },
+    {
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "score": 371,
+      "source": "hn",
+      "date": "2026-06-02T15:29:05+00:00"
+    },
+    {
       "title": "Love systemd timers",
       "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
       "score": 358,
@@ -124,13 +138,6 @@
       "date": "2026-06-01T21:50:02+00:00"
     },
     {
-      "title": "CT scans of BYD car parts",
-      "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "score": 339,
-      "source": "hn",
-      "date": "2026-06-02T20:30:08+00:00"
-    },
-    {
       "title": "Chipotlai Max",
       "url": "https://github.com/cyberpapiii/chipotlai-max",
       "score": 335,
@@ -138,18 +145,11 @@
       "date": "2026-06-01T23:06:35+00:00"
     },
     {
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "url": "https://github.com/c0dejedi/nbd-vram",
       "score": 291,
       "source": "hn",
-      "date": "2026-06-02T15:29:05+00:00"
-    },
-    {
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "url": "https://30fps.net/pages/255-vs-256-division/",
-      "score": 291,
-      "source": "hn",
-      "date": "2026-06-01T17:37:20+00:00"
+      "date": "2026-06-02T22:55:33+00:00"
     }
   ],
   "security_highlights": [

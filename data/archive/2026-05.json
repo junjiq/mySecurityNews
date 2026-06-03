@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-03T07:10:16.711331+00:00",
-  "total_articles": 305,
+  "generated_at": "2026-06-03T09:07:39.042445+00:00",
+  "total_articles": 293,
   "source_counts": {
-    "hn": 249,
-    "zennqiita": 48,
+    "hn": 239,
+    "zennqiita": 46,
     "project": 8
   },
   "severity_counts": {
     "medium": 1,
-    "critical": 7,
+    "critical": 6,
     "high": 2
   },
   "top_articles": [
@@ -75,13 +75,6 @@
       "score": 607,
       "source": "hn",
       "date": "2026-05-29T15:32:55+00:00"
-    },
-    {
-      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "score": 589,
-      "source": "hn",
-      "date": "2026-05-28T14:13:00+00:00"
     },
     {
       "title": "Dav2d",
@@ -152,6 +145,13 @@
       "score": 425,
       "source": "hn",
       "date": "2026-05-30T08:00:20+00:00"
+    },
+    {
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "score": 420,
+      "source": "hn",
+      "date": "2026-05-31T15:04:52+00:00"
     }
   ],
   "security_highlights": [
@@ -210,13 +210,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-28T21:45:54+00:00"
-    },
-    {
-      "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-      "url": "https://github.com/Kaelio/ktx",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-28T15:05:06+00:00"
     }
   ]
 }
