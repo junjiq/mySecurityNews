@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-06-03T11:16:07.301247+00:00",
+  "updated_at": "2026-06-03T12:58:35.382290+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48383018",
+      "source": "hn",
+      "title": "Bun Has Been Converted to Rust. Now What?",
+      "url": "https://bytecode.news/posts/2026/06/bun-has-been-converted-to-rust-now-what",
+      "score": 39,
+      "comments": 39,
+      "author": "jottinger",
+      "tags": [],
+      "date": "2026-06-03T12:20:38+00:00"
+    },
     {
       "id": "hn-48382382",
       "source": "hn",
       "title": "Every Byte Matters",
       "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-      "score": 4,
-      "comments": 0,
+      "score": 70,
+      "comments": 19,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-03T11:04:04+00:00"
@@ -18,11 +29,33 @@
       "source": "hn",
       "title": "Hacking your PC using your speaker without ever touching it",
       "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 19,
-      "comments": 2,
+      "score": 166,
+      "comments": 34,
       "author": "xx_ns",
       "tags": [],
       "date": "2026-06-03T10:53:00+00:00"
+    },
+    {
+      "id": "hn-48382305",
+      "source": "hn",
+      "title": "What I've learned about the trombone",
+      "url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
+      "score": 11,
+      "comments": 4,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-06-03T10:51:29+00:00"
+    },
+    {
+      "id": "hn-48382142",
+      "source": "hn",
+      "title": "PlayStation Architecture",
+      "url": "https://www.copetti.org/writings/consoles/playstation/",
+      "score": 49,
+      "comments": 6,
+      "author": "gregsadetsky",
+      "tags": [],
+      "date": "2026-06-03T10:24:25+00:00"
     },
     {
       "id": "hn-48382052",
@@ -57,6 +90,17 @@
       "author": "Doch88",
       "tags": [],
       "date": "2026-06-03T07:27:20+00:00"
+    },
+    {
+      "id": "hn-48380670",
+      "source": "hn",
+      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "url": "https://leidendeclaration.ai/",
+      "score": 35,
+      "comments": 12,
+      "author": "zvr",
+      "tags": [],
+      "date": "2026-06-03T06:33:27+00:00"
     },
     {
       "id": "hn-48380516",
@@ -112,8 +156,8 @@
       "source": "hn",
       "title": "The Unreasonable Redundancy of Nature's Protein Folds",
       "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-      "score": 102,
-      "comments": 29,
+      "score": 120,
+      "comments": 33,
       "author": "ray__",
       "tags": [],
       "date": "2026-06-03T03:47:56+00:00"
@@ -123,8 +167,8 @@
       "source": "hn",
       "title": "U of T researchers demonstrate AI worm could target any online device",
       "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
-      "score": 51,
-      "comments": 13,
+      "score": 72,
+      "comments": 18,
       "author": "shscs911",
       "tags": [],
       "date": "2026-06-03T03:47:21+00:00"
@@ -193,8 +237,8 @@
       "source": "hn",
       "title": "Capstone – multi-platform, multi-architecture disassembly framework",
       "url": "https://www.capstone-engine.org/",
-      "score": 60,
-      "comments": 1,
+      "score": 70,
+      "comments": 2,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-06-03T01:59:46+00:00"
@@ -204,8 +248,8 @@
       "source": "hn",
       "title": "Roku LT Operating System open source distribution",
       "url": "https://blog.roku.com/developer/roku-lt-os",
-      "score": 79,
-      "comments": 26,
+      "score": 90,
+      "comments": 29,
       "author": "dpmdpm",
       "tags": [],
       "date": "2026-06-03T01:13:38+00:00",
@@ -273,8 +317,8 @@
       "source": "hn",
       "title": "AI outperforms law professors in Stanford Law study",
       "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "score": 273,
-      "comments": 216,
+      "score": 309,
+      "comments": 257,
       "author": "berlianta",
       "tags": [],
       "date": "2026-06-02T23:43:12+00:00"
@@ -295,8 +339,8 @@
       "source": "hn",
       "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
       "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
-      "score": 143,
-      "comments": 15,
+      "score": 162,
+      "comments": 20,
       "author": "fons-p",
       "tags": [],
       "date": "2026-06-02T23:09:09+00:00"
@@ -306,8 +350,8 @@
       "source": "hn",
       "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
       "url": "https://github.com/c0dejedi/nbd-vram",
-      "score": 337,
-      "comments": 88,
+      "score": 358,
+      "comments": 94,
       "author": "tanelpoder",
       "tags": [],
       "date": "2026-06-02T22:55:33+00:00"
@@ -364,8 +408,8 @@
       "source": "hn",
       "title": "CT scans of BYD car parts",
       "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "score": 397,
-      "comments": 240,
+      "score": 430,
+      "comments": 276,
       "author": "viasfo",
       "tags": [],
       "date": "2026-06-02T20:30:08+00:00"
@@ -386,8 +430,8 @@
       "source": "hn",
       "title": "My thoughts after using Clojure for about a month",
       "url": "https://www.acdw.net/clojure/",
-      "score": 227,
-      "comments": 113,
+      "score": 248,
+      "comments": 121,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-02T19:56:46+00:00"
@@ -430,8 +474,8 @@
       "source": "hn",
       "title": "HP re-releases classic computer science calculator: The HP-16C",
       "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-      "score": 177,
-      "comments": 107,
+      "score": 187,
+      "comments": 116,
       "author": "dm319",
       "tags": [],
       "date": "2026-06-02T19:02:40+00:00"
@@ -441,8 +485,8 @@
       "source": "hn",
       "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
       "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
-      "score": 73,
-      "comments": 16,
+      "score": 106,
+      "comments": 21,
       "author": "nathell",
       "tags": [],
       "date": "2026-06-02T18:52:52+00:00"
@@ -452,8 +496,8 @@
       "source": "hn",
       "title": "MAI-Code-1-Flash",
       "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 478,
-      "comments": 216,
+      "score": 493,
+      "comments": 223,
       "author": "EvanZhouDev",
       "tags": [],
       "date": "2026-06-02T18:47:07+00:00"
@@ -631,8 +675,8 @@
       "source": "hn",
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
       "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 454,
-      "comments": 66,
+      "score": 503,
+      "comments": 71,
       "author": "ammar2",
       "tags": [],
       "date": "2026-06-02T15:29:05+00:00"
@@ -1915,6 +1959,17 @@
       "date": "2026-06-01T10:31:07+09:00"
     },
     {
+      "id": "hn-48351579",
+      "source": "hn",
+      "title": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008",
+      "score": 31,
+      "comments": 4,
+      "author": "aragonite",
+      "tags": [],
+      "date": "2026-06-01T01:18:16+00:00"
+    },
+    {
       "id": "qiita-a4a157f77d",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2166,7 +2221,7 @@
       "source": "hn",
       "title": "Words of Type",
       "url": "https://wiki.wordsoftype.com/",
-      "score": 74,
+      "score": 88,
       "comments": 12,
       "author": "tobr",
       "tags": [],
@@ -2177,8 +2232,8 @@
       "source": "hn",
       "title": "Writing Portable ARM64 Assembly (2023)",
       "url": "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html",
-      "score": 25,
-      "comments": 7,
+      "score": 36,
+      "comments": 15,
       "author": "luu",
       "tags": [],
       "date": "2026-05-31T17:59:39+00:00"
@@ -2457,8 +2512,8 @@
       "source": "hn",
       "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
       "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
-      "score": 20,
-      "comments": 7,
+      "score": 39,
+      "comments": 10,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-05-31T13:11:02+00:00"
@@ -2534,8 +2589,8 @@
       "source": "hn",
       "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
       "url": "https://github.com/s-macke/Test-Drive-3-Maps",
-      "score": 118,
-      "comments": 31,
+      "score": 147,
+      "comments": 36,
       "author": "s-macke",
       "tags": [],
       "date": "2026-05-31T09:45:45+00:00"
@@ -5108,138 +5163,6 @@
       "date": "2026-05-28T18:33:54+00:00"
     },
     {
-      "id": "hn-48313219",
-      "source": "hn",
-      "title": "About LLMs at Zig Days",
-      "url": "https://kristoff.it/blog/llms-at-zig-days/",
-      "score": 36,
-      "comments": 13,
-      "author": "kristoff_it",
-      "tags": [],
-      "date": "2026-05-28T18:20:34+00:00"
-    },
-    {
-      "id": "hn-48313142",
-      "source": "hn",
-      "title": "The Lone Lisp Heap",
-      "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
-      "score": 35,
-      "comments": 11,
-      "author": "stevekemp",
-      "tags": [],
-      "date": "2026-05-28T18:16:20+00:00"
-    },
-    {
-      "id": "hn-48313048",
-      "source": "hn",
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "url": "https://www.anthropic.com/news/series-h",
-      "score": 251,
-      "comments": 258,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-05-28T18:09:44+00:00"
-    },
-    {
-      "id": "hn-48312616",
-      "source": "hn",
-      "title": "Bitburner, programming-based incremental game",
-      "url": "https://bitburner-official.github.io/",
-      "score": 79,
-      "comments": 15,
-      "author": "agmater",
-      "tags": [],
-      "date": "2026-05-28T17:43:36+00:00"
-    },
-    {
-      "id": "hn-48312528",
-      "source": "hn",
-      "title": "I hated writing until I learned there’s a science to it (2024)",
-      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-      "score": 195,
-      "comments": 77,
-      "author": "o4c",
-      "tags": [],
-      "date": "2026-05-28T17:36:47+00:00"
-    },
-    {
-      "id": "hn-48312443",
-      "source": "hn",
-      "title": "I made my phone slow on purpose",
-      "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
-      "score": 210,
-      "comments": 175,
-      "author": "gcampos",
-      "tags": [],
-      "date": "2026-05-28T17:30:46+00:00"
-    },
-    {
-      "id": "hn-48312082",
-      "source": "hn",
-      "title": "Legislation Killed Would Have Effectively Blocked Police LPR, Including Flock",
-      "url": "https://ipvm.com/reports/bipartisan-alpr-amendment-killed",
-      "score": 75,
-      "comments": 52,
-      "author": "jhonovich",
-      "tags": [],
-      "date": "2026-05-28T17:10:05+00:00"
-    },
-    {
-      "id": "hn-48311705",
-      "source": "hn",
-      "title": "Dynamic Workflows in Claude Code",
-      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-      "score": 121,
-      "comments": 93,
-      "author": "mil22",
-      "tags": [],
-      "date": "2026-05-28T16:52:21+00:00"
-    },
-    {
-      "id": "hn-48311647",
-      "source": "hn",
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1688,
-      "comments": 1312,
-      "author": "craigmart",
-      "tags": [],
-      "date": "2026-05-28T16:49:14+00:00"
-    },
-    {
-      "id": "hn-48311587",
-      "source": "hn",
-      "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-      "url": "https://blainsmith.com/articles/httptrace-with-go/",
-      "score": 140,
-      "comments": 9,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-05-28T16:46:10+00:00"
-    },
-    {
-      "id": "hn-48311539",
-      "source": "hn",
-      "title": "Trivial Pursuits",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits",
-      "score": 15,
-      "comments": 5,
-      "author": "diodorus",
-      "tags": [],
-      "date": "2026-05-28T16:43:24+00:00"
-    },
-    {
-      "id": "hn-48311490",
-      "source": "hn",
-      "title": "Endive: A JVM native WebAssembly runtime",
-      "url": "https://github.com/bytecodealliance/endive",
-      "score": 77,
-      "comments": 17,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-05-28T16:40:33+00:00"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5477,6 +5400,19 @@
       "date": "Tue, 02 Jun 2026 13:43:08 GMT"
     },
     {
+      "id": "zenn-7ac51e4359",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Codeのセッション履歴をfzf検索 & previewする技術（ccsession）",
+      "url": "https://zenn.dev/soramarjr/articles/4eb891ab20498e",
+      "score": null,
+      "author": "fujitani sora",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 02 Jun 2026 10:03:27 GMT"
+    },
+    {
       "id": "zenn-3d2f4d25b3",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5527,6 +5463,19 @@
         "Zenn"
       ],
       "date": "Tue, 02 Jun 2026 01:53:36 GMT"
+    },
+    {
+      "id": "zenn-ebc12e47ab",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Zennの記事一覧からAI関連の記事をAIの力によって滅ぼし、そして私も消えよう",
+      "url": "https://zenn.dev/sora_kumo/articles/zenn-ai-filter",
+      "score": null,
+      "author": "空雲",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 02 Jun 2026 00:04:48 GMT"
     },
     {
       "id": "zenn-040d3971c4",
@@ -5607,32 +5556,6 @@
       "date": "Mon, 01 Jun 2026 09:00:05 GMT"
     },
     {
-      "id": "zenn-0de1aa866c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "大規模なデータ基盤にdbtを導入して1から作り直すことでBigQueryのスキャン量を90%以上削減した話",
-      "url": "https://zenn.dev/macbee_planet/articles/85c8ef4aeb063b",
-      "score": null,
-      "author": "rami",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 07:47:45 GMT"
-    },
-    {
-      "id": "zenn-40dbc21071",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "負荷試験をやったことがない4年目エンジニアがk6を使って実施するまで",
-      "url": "https://zenn.dev/atamaplus/articles/2026-loadtest",
-      "score": null,
-      "author": "akira-0924",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 01 Jun 2026 06:24:02 GMT"
-    },
-    {
       "id": "zenn-618b95296b",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5698,17 +5621,17 @@
       "date": "Sun, 31 May 2026 15:25:22 GMT"
     },
     {
-      "id": "zenn-390d3164c7",
+      "id": "zenn-4e1a4b769f",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "自作データベース入門の入門：好きなプログラミング言語でSQLiteライクなDBを作ろう！",
-      "url": "https://zenn.dev/kaseken/articles/49c12113238ec4",
+      "title": "移動中でも就寝前でも、Codexと育てる「技術ノート」",
+      "url": "https://zenn.dev/ttaniguchi/articles/instant-question-html-notes",
       "score": null,
-      "author": "kaseken",
+      "author": "ttaniguchi",
       "tags": [
         "Zenn"
       ],
-      "date": "Sun, 31 May 2026 07:56:33 GMT"
+      "date": "Sun, 31 May 2026 13:40:53 GMT"
     },
     {
       "id": "edb-f5d122f8a3",
@@ -5820,6 +5743,111 @@
       "source": "msf",
       "title": "[webapps] MikroORM   7.0.13 - SQL Injection",
       "url": "https://www.exploit-db.com/exploits/52600",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-b44998ab02",
+      "source": "msf",
+      "title": "[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion",
+      "url": "https://www.exploit-db.com/exploits/52598",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-0b1081a580",
+      "source": "msf",
+      "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52597",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-7fd71d4802",
+      "source": "msf",
+      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52596",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e827c93897",
+      "source": "msf",
+      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
+      "url": "https://www.exploit-db.com/exploits/52595",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e7ed248f76",
+      "source": "msf",
+      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
+      "url": "https://www.exploit-db.com/exploits/52594",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-fdf74e4c3e",
+      "source": "msf",
+      "title": "[local] ZTE ZXHN H188A V6 - Authentication Bypass",
+      "url": "https://www.exploit-db.com/exploits/52593",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-3120911e79",
+      "source": "msf",
+      "title": "[local] ZTE H298A / H108N - Unauthenticated Credential Exposure",
+      "url": "https://www.exploit-db.com/exploits/52592",
       "score": null,
       "author": "Exploit-DB",
       "tags": [
