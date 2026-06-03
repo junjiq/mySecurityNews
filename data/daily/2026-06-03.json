@@ -1,7 +1,7 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T19:50:46.131809+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-06-03T21:06:16.025133+00:00",
+  "total_articles": 66,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 54,
       "top_items": [
         {
           "title": "Meta workers can opt out of being tracked at work up to 30 min",
           "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-          "score": 559,
+          "score": 599,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T12:42:07+00:00"
@@ -49,7 +49,7 @@
         {
           "title": "Hacking your PC using your speaker without ever touching it",
           "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-          "score": 544,
+          "score": 582,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T10:53:00+00:00"
@@ -57,18 +57,10 @@
         {
           "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-          "score": 451,
+          "score": 524,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T16:04:42+00:00"
-        },
-        {
-          "title": "CT scans of BYD car parts",
-          "url": "https://www.lumafield.com/scan-of-the-month/byd",
-          "score": 430,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-02T20:30:08+00:00"
         },
         {
           "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
@@ -77,13 +69,45 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-02T22:55:33+00:00"
+        },
+        {
+          "title": "AI outperforms law professors in Stanford Law study",
+          "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+          "score": 364,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-02T23:43:12+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 12,
       "top_items": [
+        {
+          "title": "Strands AgentsをLambdaにデプロイし、トレースをAgentCoreオブザーバビリティ（生成 AI オブザーバビリティ）に送るぜ",
+          "url": "https://qiita.com/moritalous/items/8fe30948b7fe39c37919?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-03T20:55:47+09:00"
+        },
+        {
+          "title": "Microsoft Build 2026 Keynote まとめ",
+          "url": "https://qiita.com/ManabuYamamoto/items/3564c9fea54d71c10e1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-03T15:53:10+09:00"
+        },
+        {
+          "title": "Microsoft Build 2026 の Keynote を見て感じたこと",
+          "url": "https://qiita.com/tomokusaba/items/67d35d3169dfc2ae5bad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-03T15:19:55+09:00"
+        },
         {
           "title": "New Relic Workflow Automation 実践ガイド ― Alert Trigger の正しい設定順序とテストのコツ",
           "url": "https://qiita.com/MarthaS/items/235fad968ebd16a256b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -93,36 +117,12 @@
           "date": "2026-06-03T14:57:57+09:00"
         },
         {
-          "title": "【環境構築不要】誰かのためにアプリを作ってみよう #1",
-          "url": "https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Microsoft Build 2026: Data / Analytics Latest Updates Summary",
+          "url": "https://qiita.com/yangjiayi/items/288aed4ac50e24d256ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-03T13:15:28+09:00"
-        },
-        {
-          "title": "🌻 この夏、kintone開発者のつながりをdevkin meetup! から始めよう",
-          "url": "https://qiita.com/muraya_jko/items/d385642eadd4cf80215b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-03T12:04:13+09:00"
-        },
-        {
-          "title": "Codex CLI × APEXLangで始めるOracle APEXアプリAI駆動開発",
-          "url": "https://qiita.com/ssfujita/items/68bb52511e97222f5b0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-03T11:28:42+09:00"
-        },
-        {
-          "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた",
-          "url": "https://qiita.com/shinkai_/items/61b10d10c63db47a64e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-03T09:41:10+09:00"
+          "severity": "medium",
+          "date": "2026-06-03T14:19:42+09:00"
         }
       ]
     }

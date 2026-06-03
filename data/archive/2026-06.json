@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-03T19:50:46.178600+00:00",
-  "total_articles": 200,
+  "generated_at": "2026-06-03T21:06:16.069100+00:00",
+  "total_articles": 210,
   "source_counts": {
-    "hn": 150,
-    "zennqiita": 50
+    "hn": 154,
+    "zennqiita": 56
   },
   "severity_counts": {
     "critical": 6,
-    "medium": 1,
+    "medium": 2,
     "high": 3
   },
   "top_articles": [
@@ -57,16 +57,23 @@
     {
       "title": "Meta workers can opt out of being tracked at work up to 30 min",
       "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "score": 559,
+      "score": 599,
       "source": "hn",
       "date": "2026-06-03T12:42:07+00:00"
     },
     {
       "title": "Hacking your PC using your speaker without ever touching it",
       "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 544,
+      "score": 582,
       "source": "hn",
       "date": "2026-06-03T10:53:00+00:00"
+    },
+    {
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "score": 524,
+      "source": "hn",
+      "date": "2026-06-03T16:04:42+00:00"
     },
     {
       "title": "MAI-Code-1-Flash",
@@ -88,13 +95,6 @@
       "score": 471,
       "source": "hn",
       "date": "2026-06-01T14:16:41+00:00"
-    },
-    {
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 451,
-      "source": "hn",
-      "date": "2026-06-03T16:04:42+00:00"
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
