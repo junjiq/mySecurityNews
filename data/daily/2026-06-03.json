@@ -1,9 +1,16 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T16:34:55.644996+00:00",
-  "total_articles": 66,
+  "generated_at": "2026-06-03T18:28:24.514698+00:00",
+  "total_articles": 63,
   "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
+      "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-03T17:01:00+00:00"
+    },
     {
       "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
       "url": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
@@ -24,19 +31,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-02T22:34:42+00:00"
-    },
-    {
-      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15 countries",
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-02T17:44:05+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 57,
       "top_items": [
         {
           "title": "Gmail thinks I'm stupid, so I left",
@@ -55,9 +55,17 @@
           "date": "2026-06-02T18:47:07+00:00"
         },
         {
+          "title": "Meta workers can opt out of being tracked at work up to 30 min",
+          "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+          "score": 512,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-03T12:42:07+00:00"
+        },
+        {
           "title": "Hacking your PC using your speaker without ever touching it",
           "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-          "score": 445,
+          "score": 511,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T10:53:00+00:00"
@@ -69,20 +77,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-02T20:30:08+00:00"
-        },
-        {
-          "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-          "url": "https://github.com/c0dejedi/nbd-vram",
-          "score": 412,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-02T22:55:33+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "New Relic Workflow Automation 実践ガイド ― Alert Trigger の正しい設定順序とテストのコツ",

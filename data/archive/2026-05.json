@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-03T16:34:55.688100+00:00",
-  "total_articles": 271,
+  "generated_at": "2026-06-03T18:28:24.556232+00:00",
+  "total_articles": 262,
   "source_counts": {
-    "hn": 217,
-    "zennqiita": 46,
+    "hn": 209,
+    "zennqiita": 45,
     "project": 8
   },
   "severity_counts": {
     "medium": 1,
-    "critical": 6,
+    "critical": 5,
     "high": 2
   },
   "top_articles": [
@@ -91,13 +91,6 @@
       "date": "2026-05-31T16:19:34+00:00"
     },
     {
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "url": "https://nick.winans.io/blog/nice-nano/",
-      "score": 481,
-      "source": "hn",
-      "date": "2026-05-28T20:25:21+00:00"
-    },
-    {
       "title": "Blue Origin's New Glenn blows up during static fire test",
       "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
       "score": 447,
@@ -140,18 +133,25 @@
       "date": "2026-05-31T15:04:52+00:00"
     },
     {
-      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-      "score": 419,
-      "source": "hn",
-      "date": "2026-05-28T21:45:54+00:00"
-    },
-    {
       "title": "Pandoc Templates",
       "url": "https://pandoc-templates.org/",
       "score": 409,
       "source": "hn",
       "date": "2026-05-30T09:56:42+00:00"
+    },
+    {
+      "title": "OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "score": 403,
+      "source": "hn",
+      "date": "2026-05-30T17:27:28+00:00"
+    },
+    {
+      "title": "I found a seashell in the middle of the desert",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
+      "score": 402,
+      "source": "hn",
+      "date": "2026-05-29T02:49:43+00:00"
     }
   ],
   "security_highlights": [
@@ -203,13 +203,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-29T13:18:57+00:00"
-    },
-    {
-      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-28T21:45:54+00:00"
     }
   ]
 }

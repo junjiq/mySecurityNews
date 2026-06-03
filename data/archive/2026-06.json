@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-03T16:34:55.688100+00:00",
-  "total_articles": 187,
+  "generated_at": "2026-06-03T18:28:24.556232+00:00",
+  "total_articles": 196,
   "source_counts": {
-    "hn": 137,
+    "hn": 146,
     "zennqiita": 50
   },
   "severity_counts": {
+    "critical": 6,
     "medium": 1,
-    "critical": 5,
     "high": 3
   },
   "top_articles": [
@@ -50,7 +50,7 @@
     {
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
       "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 583,
+      "score": 606,
       "source": "hn",
       "date": "2026-06-02T15:29:05+00:00"
     },
@@ -60,6 +60,20 @@
       "score": 514,
       "source": "hn",
       "date": "2026-06-02T18:47:07+00:00"
+    },
+    {
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "score": 512,
+      "source": "hn",
+      "date": "2026-06-03T12:42:07+00:00"
+    },
+    {
+      "title": "Hacking your PC using your speaker without ever touching it",
+      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "score": 511,
+      "source": "hn",
+      "date": "2026-06-03T10:53:00+00:00"
     },
     {
       "title": "CS336: Language Modeling from Scratch",
@@ -81,13 +95,6 @@
       "score": 449,
       "source": "hn",
       "date": "2026-06-01T16:41:49+00:00"
-    },
-    {
-      "title": "Hacking your PC using your speaker without ever touching it",
-      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 445,
-      "source": "hn",
-      "date": "2026-06-03T10:53:00+00:00"
     },
     {
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
@@ -116,13 +123,6 @@
       "score": 412,
       "source": "hn",
       "date": "2026-06-02T22:55:33+00:00"
-    },
-    {
-      "title": "Meta workers can opt out of being tracked at work up to 30 min",
-      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "score": 388,
-      "source": "hn",
-      "date": "2026-06-03T12:42:07+00:00"
     },
     {
       "title": "Nvidia RTX Spark",
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
+      "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-03T17:01:00+00:00"
+    },
     {
       "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
       "url": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
