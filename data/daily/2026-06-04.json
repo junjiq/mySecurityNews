@@ -1,7 +1,7 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T01:37:11.272858+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-06-04T03:10:58.901125+00:00",
+  "total_articles": 57,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -34,7 +34,7 @@
         {
           "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-          "score": 680,
+          "score": 721,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T16:04:42+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "Elixir v1.20: Now a gradually typed language",
           "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-          "score": 539,
+          "score": 591,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T19:02:26+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
           "url": "https://burntsushi.net/encephalitis/",
-          "score": 495,
+          "score": 519,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T14:10:06+00:00"
@@ -75,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 7,
       "top_items": [
+        {
+          "title": "Microsoft Build 2026: Data / Analytics Latest Updates Summary",
+          "url": "https://qiita.com/yangjiayi/items/288aed4ac50e24d256ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": "medium",
+          "date": "2026-06-04T10:32:36+09:00"
+        },
         {
           "title": "Strands AgentsをLambdaにデプロイし、トレースをAgentCoreオブザーバビリティ（生成 AI オブザーバビリティ）に送るぜ",
           "url": "https://qiita.com/moritalous/items/8fe30948b7fe39c37919?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-03T14:57:57+09:00"
-        },
-        {
-          "title": "Microsoft Build 2026: Data / Analytics Latest Updates Summary",
-          "url": "https://qiita.com/yangjiayi/items/288aed4ac50e24d256ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "medium",
-          "date": "2026-06-03T14:19:42+09:00"
         }
       ]
     }

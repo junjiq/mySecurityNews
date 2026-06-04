@@ -1,39 +1,86 @@
 {
-  "updated_at": "2026-06-04T01:37:11.206899+00:00",
+  "updated_at": "2026-06-04T03:10:58.835775+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-9670545b53",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Microsoft Build 2026: Data / Analytics Latest Updates Summary",
+      "url": "https://qiita.com/yangjiayi/items/288aed4ac50e24d256ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yangjiayi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-04T10:32:36+09:00",
+      "severity": "medium"
+    },
     {
       "id": "hn-48392343",
       "source": "hn",
       "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
       "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "score": 16,
-      "comments": 2,
+      "score": 74,
+      "comments": 30,
       "author": "jc4p",
       "tags": [],
       "date": "2026-06-04T00:56:32+00:00"
+    },
+    {
+      "id": "hn-48392232",
+      "source": "hn",
+      "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
+      "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
+      "score": 100,
+      "comments": 51,
+      "author": "rguiscard",
+      "tags": [],
+      "date": "2026-06-04T00:44:13+00:00"
     },
     {
       "id": "hn-48392082",
       "source": "hn",
       "title": "The ways we contain Claude across products",
       "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "score": 27,
-      "comments": 4,
+      "score": 56,
+      "comments": 24,
       "author": "jbredeche",
       "tags": [],
       "date": "2026-06-04T00:27:52+00:00"
+    },
+    {
+      "id": "hn-48392004",
+      "source": "hn",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "score": 22,
+      "comments": 3,
+      "author": "littlexsparkee",
+      "tags": [],
+      "date": "2026-06-04T00:18:02+00:00"
     },
     {
       "id": "hn-48391838",
       "source": "hn",
       "title": "The Ü Programming Language",
       "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
-      "score": 20,
-      "comments": 11,
+      "score": 34,
+      "comments": 18,
       "author": "deterministic",
       "tags": [],
       "date": "2026-06-04T00:00:04+00:00"
+    },
+    {
+      "id": "hn-48391611",
+      "source": "hn",
+      "title": "\"They're made out of weights\"",
+      "url": "https://maxleiter.com/blog/weights",
+      "score": 68,
+      "comments": 12,
+      "author": "MaxLeiter",
+      "tags": [],
+      "date": "2026-06-03T23:37:18+00:00"
     },
     {
       "id": "hn-48391153",
@@ -51,8 +98,8 @@
       "source": "hn",
       "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
       "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
-      "score": 35,
-      "comments": 17,
+      "score": 47,
+      "comments": 25,
       "author": "ledoge",
       "tags": [],
       "date": "2026-06-03T21:55:23+00:00",
@@ -63,7 +110,7 @@
       "source": "hn",
       "title": "A Mathematician's Lament – Paul Lockhart (2002) [pdf]",
       "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
-      "score": 29,
+      "score": 44,
       "comments": 1,
       "author": "xeonmc",
       "tags": [],
@@ -74,8 +121,8 @@
       "source": "hn",
       "title": "Ableton Extensions SDK",
       "url": "https://www.ableton.com/en/live/extensions/",
-      "score": 64,
-      "comments": 29,
+      "score": 74,
+      "comments": 32,
       "author": "bennett_dev",
       "tags": [],
       "date": "2026-06-03T20:39:34+00:00"
@@ -96,8 +143,8 @@
       "source": "hn",
       "title": "A Man Who Reads Books for a Living (One Every Two Days)",
       "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
-      "score": 75,
-      "comments": 49,
+      "score": 82,
+      "comments": 60,
       "author": "gmays",
       "tags": [],
       "date": "2026-06-03T20:08:33+00:00"
@@ -107,8 +154,8 @@
       "source": "hn",
       "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
       "url": "https://github.com/tastyeffectco/sandboxes",
-      "score": 48,
-      "comments": 10,
+      "score": 57,
+      "comments": 12,
       "author": "tastyeffectco",
       "tags": [],
       "date": "2026-06-03T19:43:37+00:00"
@@ -129,8 +176,8 @@
       "source": "hn",
       "title": "Elixir v1.20: Now a gradually typed language",
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 539,
-      "comments": 198,
+      "score": 591,
+      "comments": 222,
       "author": "cloud8421",
       "tags": [],
       "date": "2026-06-03T19:02:26+00:00"
@@ -173,8 +220,8 @@
       "source": "hn",
       "title": "Gooey: A GPU-accelerated UI framework for Zig",
       "url": "https://github.com/duanebester/gooey",
-      "score": 135,
-      "comments": 46,
+      "score": 141,
+      "comments": 49,
       "author": "ksec",
       "tags": [],
       "date": "2026-06-03T17:12:27+00:00"
@@ -240,8 +287,8 @@
       "source": "hn",
       "title": "ESP32-S31",
       "url": "https://www.espressif.com/en/products/socs/esp32-s31",
-      "score": 250,
-      "comments": 141,
+      "score": 257,
+      "comments": 145,
       "author": "volemo",
       "tags": [],
       "date": "2026-06-03T16:10:25+00:00"
@@ -251,8 +298,8 @@
       "source": "hn",
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 680,
-      "comments": 288,
+      "score": 721,
+      "comments": 296,
       "author": "rvz",
       "tags": [],
       "date": "2026-06-03T16:04:42+00:00"
@@ -262,8 +309,8 @@
       "source": "hn",
       "title": "A Post-Quantum Future for Let's Encrypt",
       "url": "https://letsencrypt.org/2026/06/03/pq-certs",
-      "score": 215,
-      "comments": 122,
+      "score": 225,
+      "comments": 134,
       "author": "SGran",
       "tags": [],
       "date": "2026-06-03T15:06:09+00:00"
@@ -273,8 +320,8 @@
       "source": "hn",
       "title": "DaVinci Resolve 21",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-      "score": 389,
-      "comments": 184,
+      "score": 401,
+      "comments": 188,
       "author": "pentagrama",
       "tags": [],
       "date": "2026-06-03T14:18:39+00:00"
@@ -284,8 +331,8 @@
       "source": "hn",
       "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
       "url": "https://burntsushi.net/encephalitis/",
-      "score": 495,
-      "comments": 147,
+      "score": 519,
+      "comments": 161,
       "author": "Tomte",
       "tags": [],
       "date": "2026-06-03T14:10:06+00:00"
@@ -361,8 +408,8 @@
       "source": "hn",
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 365,
-      "comments": 468,
+      "score": 383,
+      "comments": 498,
       "author": "pdyc",
       "tags": [],
       "date": "2026-06-03T12:25:14+00:00"
@@ -541,20 +588,6 @@
       "tags": [],
       "date": "2026-06-03T05:49:31+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "qiita-9670545b53",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Microsoft Build 2026: Data / Analytics Latest Updates Summary",
-      "url": "https://qiita.com/yangjiayi/items/288aed4ac50e24d256ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yangjiayi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-03T14:19:42+09:00",
-      "severity": "medium"
     },
     {
       "id": "qiita-380964262d",
@@ -1629,8 +1662,8 @@
       "source": "hn",
       "title": "Meteor Explodes over Massachusetts",
       "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
-      "score": 48,
-      "comments": 16,
+      "score": 60,
+      "comments": 37,
       "author": "1970-01-01",
       "tags": [],
       "date": "2026-06-01T20:31:24+00:00"
@@ -1984,6 +2017,17 @@
         "Qiita"
       ],
       "date": "2026-06-01T21:29:47+09:00"
+    },
+    {
+      "id": "hn-48355941",
+      "source": "hn",
+      "title": "Algorithmic Theming Engines",
+      "url": "https://www.smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+      "score": 7,
+      "comments": 0,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-06-01T12:29:20+00:00"
     },
     {
       "id": "hn-48355751",
@@ -2665,8 +2709,8 @@
       "source": "hn",
       "title": "Patching my guitar amp's firmware",
       "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
-      "score": 30,
-      "comments": 4,
+      "score": 42,
+      "comments": 7,
       "author": "birdculture",
       "tags": [],
       "date": "2026-05-31T20:26:43+00:00",
@@ -2737,6 +2781,17 @@
       "author": "tobr",
       "tags": [],
       "date": "2026-05-31T18:28:45+00:00"
+    },
+    {
+      "id": "hn-48348040",
+      "source": "hn",
+      "title": "CP/M-86 & MS-DOS Cross Development Environment",
+      "url": "https://github.com/tsupplis/cpm86-crossdev",
+      "score": 5,
+      "comments": 0,
+      "author": "elvis70",
+      "tags": [],
+      "date": "2026-05-31T18:05:37+00:00"
     },
     {
       "id": "hn-48347977",
@@ -5095,65 +5150,6 @@
         "Qiita"
       ],
       "date": "2026-05-29T18:30:00+09:00"
-    },
-    {
-      "id": "hn-48320667",
-      "source": "hn",
-      "title": "Wterm – Terminal Emulator for the Web",
-      "url": "https://wterm.dev/",
-      "score": 30,
-      "comments": 5,
-      "author": "m3h",
-      "tags": [],
-      "date": "2026-05-29T08:42:28+00:00"
-    },
-    {
-      "id": "hn-48320639",
-      "source": "hn",
-      "title": "Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey",
-      "url": "https://www.phoronix.com/review/cache-aware-scheduling-hedt",
-      "score": 20,
-      "comments": 2,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-05-29T08:36:32+00:00"
-    },
-    {
-      "id": "qiita-b4f04da136",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Raspberry Pi 5 で New Relic eBPF APM を試す：Go サーバーに負荷をかけると何が見えるのか",
-      "url": "https://qiita.com/seamoooooo/items/5d22a4ec4298b44b3770?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "seamoooooo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-29T16:39:06+09:00"
-    },
-    {
-      "id": "qiita-a6427c6c6e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "2025 Japan AWS  Jr. Champion としての1年を振り返る",
-      "url": "https://qiita.com/yosuke-suzuki/items/1fa43a4a63be7c684d39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yosuke-suzuki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-29T16:25:00+09:00"
-    },
-    {
-      "id": "hn-48319968",
-      "source": "hn",
-      "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
-      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-      "score": 24,
-      "comments": 18,
-      "author": "joozio",
-      "tags": [],
-      "date": "2026-05-29T07:05:31+00:00"
     },
     {
       "id": "ctf-3761714",
