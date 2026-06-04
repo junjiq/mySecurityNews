@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-04T22:55:33.364330+00:00",
-  "total_articles": 166,
+  "generated_at": "2026-06-04T23:30:42.126298+00:00",
+  "total_articles": 165,
   "source_counts": {
-    "hn": 136,
+    "hn": 135,
     "zennqiita": 22,
     "project": 8
   },
   "severity_counts": {
     "medium": 2,
-    "critical": 3
+    "critical": 2
   },
   "top_articles": [
     {
@@ -167,13 +167,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-30T03:07:25+00:00"
-    },
-    {
-      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
-      "url": "https://github.com/secluso/core",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-29T22:32:29+00:00"
     }
   ]
 }
