@@ -1,8 +1,8 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T05:08:25.812364+00:00",
-  "total_articles": 53,
-  "urgent_count": 3,
+  "generated_at": "2026-06-04T07:02:25.654553+00:00",
+  "total_articles": 49,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
@@ -17,27 +17,28 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-03T17:01:00+00:00"
-    },
-    {
-      "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
-      "url": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-03T05:49:31+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 46,
       "top_items": [
         {
           "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-          "score": 760,
+          "score": 796,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T16:04:42+00:00"
+        },
+        {
+          "title": "Elixir v1.20: Now a gradually typed language",
+          "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+          "score": 702,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-03T19:02:26+00:00"
         },
         {
           "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
@@ -46,14 +47,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T10:53:00+00:00"
-        },
-        {
-          "title": "Elixir v1.20: Now a gradually typed language",
-          "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-          "score": 643,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-03T19:02:26+00:00"
         },
         {
           "title": "Meta workers can opt out of being tracked at work up to 30 min",
@@ -66,7 +59,7 @@
         {
           "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
           "url": "https://burntsushi.net/encephalitis/",
-          "score": 546,
+          "score": 581,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T14:10:06+00:00"
@@ -75,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 3,
       "top_items": [
+        {
+          "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #1",
+          "url": "https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-04T12:48:26+09:00"
+        },
         {
           "title": "Microsoft Build 2026: Data / Analytics Latest Updates Summary",
           "url": "https://qiita.com/yangjiayi/items/288aed4ac50e24d256ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -92,30 +93,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-03T20:55:47+09:00"
-        },
-        {
-          "title": "Microsoft Build 2026 Keynote まとめ",
-          "url": "https://qiita.com/ManabuYamamoto/items/3564c9fea54d71c10e1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-03T15:53:10+09:00"
-        },
-        {
-          "title": "Microsoft Build 2026 の Keynote を見て感じたこと",
-          "url": "https://qiita.com/tomokusaba/items/67d35d3169dfc2ae5bad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-03T15:19:55+09:00"
-        },
-        {
-          "title": "New Relic Workflow Automation 実践ガイド ― Alert Trigger の正しい設定順序とテストのコツ",
-          "url": "https://qiita.com/MarthaS/items/235fad968ebd16a256b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-03T14:57:57+09:00"
         }
       ]
     }
