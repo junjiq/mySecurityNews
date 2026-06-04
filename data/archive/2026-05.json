@@ -1,15 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-04T11:31:53.954716+00:00",
-  "total_articles": 215,
+  "generated_at": "2026-06-04T13:06:03.019932+00:00",
+  "total_articles": 209,
   "source_counts": {
-    "hn": 178,
+    "hn": 172,
     "zennqiita": 29,
     "project": 8
   },
   "severity_counts": {
     "medium": 2,
-    "critical": 5,
+    "critical": 4,
     "high": 2
   },
   "top_articles": [
@@ -196,13 +196,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-29T14:15:41+00:00"
-    },
-    {
-      "title": "Someone used my open source project to phish people",
-      "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-29T13:18:57+00:00"
     }
   ]
 }
