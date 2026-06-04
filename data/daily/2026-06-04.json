@@ -1,8 +1,8 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T15:40:43.729747+00:00",
-  "total_articles": 49,
-  "urgent_count": 2,
+  "generated_at": "2026-06-04T17:04:09.483410+00:00",
+  "total_articles": 48,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
@@ -10,40 +10,25 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-03T21:55:23+00:00"
-    },
-    {
-      "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
-      "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-03T17:01:00+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 36,
       "top_items": [
         {
           "title": "They’re made out of weights",
           "url": "https://maxleiter.com/blog/weights",
-          "score": 1074,
+          "score": 1155,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T23:37:18+00:00"
         },
         {
-          "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-          "score": 945,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-03T16:04:42+00:00"
-        },
-        {
           "title": "Elixir v1.20: Now a gradually typed language",
           "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-          "score": 886,
+          "score": 908,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T19:02:26+00:00"
@@ -63,6 +48,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T00:44:13+00:00"
+        },
+        {
+          "title": "VoidZero Is Joining Cloudflare",
+          "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+          "score": 357,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-04T13:00:51+00:00"
         }
       ]
     },
@@ -70,6 +63,14 @@
       "category": "日本語技術記事",
       "count": 12,
       "top_items": [
+        {
+          "title": "俺的 Book of News キーノート編: Microsoft Build 2026 は『Agent を動かす層』が全部そろった回だった",
+          "url": "https://qiita.com/aktsmm/items/4cc75c8bf629edfd0413?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-05T00:58:55+09:00"
+        },
         {
           "title": "Codex + Oracle DB SkillsでOracle Databaseの実行計画レビューをしてみてみた",
           "url": "https://qiita.com/shirok/items/45e2c49630fd002cf493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-04T12:06:09+09:00"
-        },
-        {
-          "title": "User-Agent情報についての分析から分かること",
-          "url": "https://qiita.com/melkruri/items/3dd80adf6b6206e54fba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-04T11:19:39+09:00"
         }
       ]
     }
