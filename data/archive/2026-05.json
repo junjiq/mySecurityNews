@@ -1,16 +1,15 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-04T21:06:11.405367+00:00",
-  "total_articles": 175,
+  "generated_at": "2026-06-04T22:01:51.771650+00:00",
+  "total_articles": 173,
   "source_counts": {
-    "hn": 143,
+    "hn": 141,
     "zennqiita": 24,
     "project": 8
   },
   "severity_counts": {
     "medium": 2,
-    "critical": 3,
-    "high": 1
+    "critical": 3
   },
   "top_articles": [
     {
@@ -175,13 +174,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-05-29T22:32:29+00:00"
-    },
-    {
-      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
-      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-29T19:37:41+00:00"
     }
   ]
 }
