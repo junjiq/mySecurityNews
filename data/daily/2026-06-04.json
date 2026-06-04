@@ -1,7 +1,7 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T07:02:25.654553+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-06-04T08:46:43.637358+00:00",
+  "total_articles": 57,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 44,
       "top_items": [
         {
           "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
           "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-          "score": 796,
+          "score": 822,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T16:04:42+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Elixir v1.20: Now a gradually typed language",
           "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-          "score": 702,
+          "score": 743,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T19:02:26+00:00"
@@ -57,19 +57,27 @@
           "date": "2026-06-03T12:42:07+00:00"
         },
         {
-          "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-          "url": "https://burntsushi.net/encephalitis/",
-          "score": 581,
+          "title": "\"They're made out of weights\"",
+          "url": "https://maxleiter.com/blog/weights",
+          "score": 609,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-03T14:10:06+00:00"
+          "date": "2026-06-03T23:37:18+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 13,
       "top_items": [
+        {
+          "title": "Codex + Oracle DB SkillsでOracle Databaseの実行計画レビューをしてみてみた",
+          "url": "https://qiita.com/shirok/items/45e2c49630fd002cf493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-04T16:42:12+09:00"
+        },
         {
           "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #1",
           "url": "https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,20 +87,28 @@
           "date": "2026-06-04T12:48:26+09:00"
         },
         {
-          "title": "Microsoft Build 2026: Data / Analytics Latest Updates Summary",
-          "url": "https://qiita.com/yangjiayi/items/288aed4ac50e24d256ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "medium",
-          "date": "2026-06-04T10:32:36+09:00"
-        },
-        {
-          "title": "Strands AgentsをLambdaにデプロイし、トレースをAgentCoreオブザーバビリティ（生成 AI オブザーバビリティ）に送るぜ",
-          "url": "https://qiita.com/moritalous/items/8fe30948b7fe39c37919?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "New Relic Workflow Automationで変数とデータ受け渡しをマスターする",
+          "url": "https://qiita.com/MarthaS/items/1f8152c00ad176238fe8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-03T20:55:47+09:00"
+          "date": "2026-06-04T12:20:09+09:00"
+        },
+        {
+          "title": "GitHub DesktopのUIと共に履歴に関するコマンドを理解しようの会",
+          "url": "https://qiita.com/chaochire/items/f2875706712572f7174b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-04T12:06:09+09:00"
+        },
+        {
+          "title": "User-Agent情報についての分析から分かること",
+          "url": "https://qiita.com/melkruri/items/3dd80adf6b6206e54fba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-04T11:19:39+09:00"
         }
       ]
     }
