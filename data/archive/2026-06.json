@@ -1,13 +1,13 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-04T22:01:51.771650+00:00",
-  "total_articles": 285,
+  "generated_at": "2026-06-04T22:55:33.364330+00:00",
+  "total_articles": 292,
   "source_counts": {
-    "hn": 209,
+    "hn": 216,
     "zennqiita": 76
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "medium": 3,
     "high": 3
   },
@@ -113,7 +113,7 @@
     {
       "title": "VoidZero Is Joining Cloudflare",
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 528,
+      "score": 535,
       "source": "hn",
       "date": "2026-06-04T13:00:51+00:00"
     },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+      "url": "https://www.mercek.dev/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-04T21:15:16+00:00"
+    },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",

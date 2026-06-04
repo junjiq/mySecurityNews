@@ -1,14 +1,72 @@
 {
-  "updated_at": "2026-06-04T22:01:51.683104+00:00",
+  "updated_at": "2026-06-04T22:55:33.263071+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-7ec057290b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた",
+      "url": "https://qiita.com/shinkai_/items/61b10d10c63db47a64e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shinkai_",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-05T07:11:17+09:00"
+    },
+    {
+      "id": "hn-48405264",
+      "source": "hn",
+      "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "url": "https://github.com/schildep/verified-polygon-intersection",
+      "score": 25,
+      "comments": 2,
+      "author": "permute",
+      "tags": [],
+      "date": "2026-06-04T22:06:18+00:00"
+    },
+    {
+      "id": "hn-48405019",
+      "source": "hn",
+      "title": "IPv6 zones in URLs are a mistake",
+      "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+      "score": 26,
+      "comments": 11,
+      "author": "xena",
+      "tags": [],
+      "date": "2026-06-04T21:42:34+00:00"
+    },
+    {
+      "id": "hn-48404905",
+      "source": "hn",
+      "title": "Queen bees emerge from special wax chambers",
+      "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+      "score": 7,
+      "comments": 0,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-06-04T21:31:31+00:00"
+    },
+    {
+      "id": "hn-48404732",
+      "source": "hn",
+      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+      "url": "https://www.mercek.dev/",
+      "score": 6,
+      "comments": 0,
+      "author": "utibeumanah",
+      "tags": [],
+      "date": "2026-06-04T21:15:16+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48404224",
       "source": "hn",
       "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
       "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
-      "score": 37,
-      "comments": 8,
+      "score": 50,
+      "comments": 13,
       "author": "tejaswigowda",
       "tags": [],
       "date": "2026-06-04T20:32:18+00:00"
@@ -18,8 +76,8 @@
       "source": "hn",
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 127,
-      "comments": 42,
+      "score": 174,
+      "comments": 61,
       "author": "binyu",
       "tags": [],
       "date": "2026-06-04T20:11:20+00:00",
@@ -30,8 +88,8 @@
       "source": "hn",
       "title": "Castor: CERN Advanced STORage Manager",
       "url": "https://castor.web.cern.ch/content/home.html",
-      "score": 34,
-      "comments": 11,
+      "score": 37,
+      "comments": 14,
       "author": "naves",
       "tags": [],
       "date": "2026-06-04T19:52:02+00:00"
@@ -41,8 +99,8 @@
       "source": "hn",
       "title": "Meta's ships facial recognition on smart glasses",
       "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-      "score": 153,
-      "comments": 137,
+      "score": 171,
+      "comments": 160,
       "author": "buchodi",
       "tags": [],
       "date": "2026-06-04T19:36:48+00:00"
@@ -70,6 +128,17 @@
       "author": "amai",
       "tags": [],
       "date": "2026-06-04T18:09:39+00:00"
+    },
+    {
+      "id": "hn-48402082",
+      "source": "hn",
+      "title": "Show HN: Hitoku Draft – Context aware local assistant",
+      "url": "https://hitoku.me/draft/",
+      "score": 5,
+      "comments": 0,
+      "author": "lostathome",
+      "tags": [],
+      "date": "2026-06-04T17:48:58+00:00"
     },
     {
       "id": "hn-48402052",
@@ -120,8 +189,8 @@
       "source": "hn",
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "score": 208,
-      "comments": 249,
+      "score": 242,
+      "comments": 320,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-06-04T16:20:17+00:00"
@@ -131,8 +200,8 @@
       "source": "hn",
       "title": "Retro-Tech Parenting",
       "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "score": 204,
-      "comments": 138,
+      "score": 216,
+      "comments": 150,
       "author": "mawise",
       "tags": [],
       "date": "2026-06-04T16:02:35+00:00"
@@ -189,7 +258,7 @@
       "source": "hn",
       "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
       "url": "https://github.com/huawei-csl/KVarN",
-      "score": 99,
+      "score": 107,
       "comments": 10,
       "author": "theanonymousone",
       "tags": [],
@@ -213,8 +282,8 @@
       "source": "hn",
       "title": "AI, Ashby Engineering, and the future",
       "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-      "score": 27,
-      "comments": 16,
+      "score": 39,
+      "comments": 20,
       "author": "fredley",
       "tags": [],
       "date": "2026-06-04T14:48:44+00:00"
@@ -259,8 +328,8 @@
       "source": "hn",
       "title": "VoidZero Is Joining Cloudflare",
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 528,
-      "comments": 237,
+      "score": 535,
+      "comments": 242,
       "author": "coloneltcb",
       "tags": [],
       "date": "2026-06-04T13:00:51+00:00"
@@ -327,8 +396,8 @@
       "source": "hn",
       "title": "Ian's Secure Shoelace Knot",
       "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "score": 439,
-      "comments": 165,
+      "score": 461,
+      "comments": 179,
       "author": "mooreds",
       "tags": [],
       "date": "2026-06-04T11:17:34+00:00"
@@ -1301,19 +1370,6 @@
       "severity": "critical"
     },
     {
-      "id": "qiita-7ec057290b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた",
-      "url": "https://qiita.com/shinkai_/items/61b10d10c63db47a64e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shinkai_",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-03T09:41:10+09:00"
-    },
-    {
       "id": "hn-48378099",
       "source": "hn",
       "title": "I Don't Want My Search Engine to Think for Me",
@@ -1449,6 +1505,17 @@
       "date": "2026-06-02T22:16:20+00:00"
     },
     {
+      "id": "hn-48376008",
+      "source": "hn",
+      "title": "I'm skeptical about efforts to revolutionize schooling",
+      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+      "score": 12,
+      "comments": 2,
+      "author": "andrewstuart",
+      "tags": [],
+      "date": "2026-06-02T20:43:39+00:00"
+    },
+    {
       "id": "hn-48375824",
       "source": "hn",
       "title": "CT scans of BYD car parts",
@@ -1475,8 +1542,8 @@
       "source": "hn",
       "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
       "url": "https://tiki.li/blog/blqsort",
-      "score": 9,
-      "comments": 0,
+      "score": 27,
+      "comments": 6,
       "author": "birdculture",
       "tags": [],
       "date": "2026-06-02T20:00:54+00:00"
@@ -1519,8 +1586,8 @@
       "source": "hn",
       "title": "JLink JTAG Access on the Pinecil",
       "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
-      "score": 23,
-      "comments": 2,
+      "score": 28,
+      "comments": 5,
       "author": "hasheddan",
       "tags": [],
       "date": "2026-06-02T19:30:44+00:00"
@@ -1906,8 +1973,8 @@
       "source": "hn",
       "title": "Mornings and nights no longer exist at 47C: A day in the hottest place in India",
       "url": "https://www.bbc.co.uk/news/articles/crmp0krp98ro",
-      "score": 46,
-      "comments": 14,
+      "score": 70,
+      "comments": 38,
       "author": "mellosouls",
       "tags": [],
       "date": "2026-06-02T12:35:20+00:00"
@@ -2066,8 +2133,8 @@
       "source": "hn",
       "title": "Samurai City",
       "url": "https://worksinprogress.co/issue/samurai-city/",
-      "score": 60,
-      "comments": 5,
+      "score": 70,
+      "comments": 7,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-02T04:32:19+00:00"
@@ -2283,6 +2350,17 @@
       "date": "2026-06-01T23:06:35+00:00"
     },
     {
+      "id": "hn-48363683",
+      "source": "hn",
+      "title": "My two light switches got stuck in an infinite echo loop",
+      "url": "https://docodethatmatters.com/the-infinite-echo-state-mirror-bug/",
+      "score": 6,
+      "comments": 0,
+      "author": "skittleson",
+      "tags": [],
+      "date": "2026-06-01T22:57:06+00:00"
+    },
+    {
       "id": "hn-48363646",
       "source": "hn",
       "title": "Jonathan Franzen on Talent, Theatre, and His Next Novel",
@@ -2386,8 +2464,8 @@
       "source": "hn",
       "title": "Making Debian or Fedora persistent live images",
       "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
-      "score": 44,
-      "comments": 4,
+      "score": 47,
+      "comments": 6,
       "author": "henry_flower",
       "tags": [],
       "date": "2026-06-01T18:02:10+00:00"
@@ -3035,7 +3113,7 @@
       "title": "Sum-product, unit distances, and number fields",
       "url": "https://www.erdosproblems.com/forum/thread/blog:6",
       "score": 47,
-      "comments": 6,
+      "comments": 11,
       "author": "robinhouston",
       "tags": [],
       "date": "2026-06-01T05:54:27+00:00"
@@ -5089,87 +5167,6 @@
       "tags": [],
       "date": "2026-05-29T22:32:29+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "hn-48330088",
-      "source": "hn",
-      "title": "Free full BGP feed. IPv4 and IPv6 (2020)",
-      "url": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
-      "score": 27,
-      "comments": 11,
-      "author": "pm2222",
-      "tags": [],
-      "date": "2026-05-29T22:21:58+00:00"
-    },
-    {
-      "id": "qiita-e54530f24d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeで使うモデルを変更してみた検証メモ",
-      "url": "https://qiita.com/KNR109/items/aaa3ce165cb4efdabd18?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "KNR109",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-30T07:15:03+09:00"
-    },
-    {
-      "id": "hn-48329549",
-      "source": "hn",
-      "title": "EV Stupidity Checklist",
-      "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-      "score": 71,
-      "comments": 61,
-      "author": "pchristensen",
-      "tags": [],
-      "date": "2026-05-29T21:29:51+00:00"
-    },
-    {
-      "id": "hn-48328932",
-      "source": "hn",
-      "title": "Why I collect DLES",
-      "url": "https://dles.gg/blog/dles-gg-manifesto",
-      "score": 20,
-      "comments": 5,
-      "author": "trizoza",
-      "tags": [],
-      "date": "2026-05-29T20:40:38+00:00"
-    },
-    {
-      "id": "hn-48328843",
-      "source": "hn",
-      "title": "A Trillion Characters",
-      "url": "https://characters.fastserial.com",
-      "score": 11,
-      "comments": 9,
-      "author": "andersmurphy",
-      "tags": [],
-      "date": "2026-05-29T20:32:56+00:00"
-    },
-    {
-      "id": "qiita-a1f810a6c0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "プログラミング完全未経験から始める！競技プログラミング入門ガイド",
-      "url": "https://qiita.com/Un_titled/items/03b9b817bf2015321159?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Un_titled",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-30T05:29:50+09:00"
-    },
-    {
-      "id": "hn-48328365",
-      "source": "hn",
-      "title": "The California state assembly has passed the 'Protect Our Games Act'",
-      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-      "score": 200,
-      "comments": 201,
-      "author": "TechTechTech",
-      "tags": [],
-      "date": "2026-05-29T19:55:56+00:00"
     },
     {
       "id": "ctf-3761714",

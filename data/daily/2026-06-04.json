@@ -1,9 +1,16 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T22:01:51.735980+00:00",
-  "total_articles": 55,
-  "urgent_count": 1,
+  "generated_at": "2026-06-04T22:55:33.322871+00:00",
+  "total_articles": 59,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+      "url": "https://www.mercek.dev/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-04T21:15:16+00:00"
+    },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
@@ -15,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 36,
+      "count": 40,
       "top_items": [
         {
           "title": "They’re made out of weights",
@@ -36,7 +43,7 @@
         {
           "title": "VoidZero Is Joining Cloudflare",
           "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-          "score": 528,
+          "score": 535,
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T13:00:51+00:00"
@@ -52,7 +59,7 @@
         {
           "title": "Ian's Secure Shoelace Knot",
           "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-          "score": 439,
+          "score": 461,
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T11:17:34+00:00"
@@ -63,6 +70,14 @@
       "category": "日本語技術記事",
       "count": 19,
       "top_items": [
+        {
+          "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた",
+          "url": "https://qiita.com/shinkai_/items/61b10d10c63db47a64e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-05T07:11:17+09:00"
+        },
         {
           "title": "PythonをRustに「bit-exact」でトランスパイルする「SlimePython」がヤバいII",
           "url": "https://qiita.com/xyzzysasaki/items/fe8371a30b66c422c3c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-04T22:21:07+09:00"
-        },
-        {
-          "title": "AWS 全リージョンのデフォルト VPC を一括削除する CLI ツールを作った",
-          "url": "https://qiita.com/h0uk1st4r/items/286d58e4ce7dd3229d23?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-04T21:33:53+09:00"
         }
       ]
     }
