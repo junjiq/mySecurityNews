@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-04T19:18:04.319912+00:00",
-  "total_articles": 269,
+  "generated_at": "2026-06-04T20:15:11.222879+00:00",
+  "total_articles": 282,
   "source_counts": {
-    "hn": 201,
-    "zennqiita": 68
+    "hn": 206,
+    "zennqiita": 76
   },
   "severity_counts": {
+    "critical": 8,
     "medium": 3,
-    "critical": 7,
     "high": 3
   },
   "top_articles": [
@@ -22,9 +22,16 @@
     {
       "title": "They’re made out of weights",
       "url": "https://maxleiter.com/blog/weights",
-      "score": 1276,
+      "score": 1315,
       "source": "hn",
       "date": "2026-06-03T23:37:18+00:00"
+    },
+    {
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "score": 995,
+      "source": "hn",
+      "date": "2026-06-03T16:04:42+00:00"
     },
     {
       "title": "Gmail thinks I'm stupid, so I left",
@@ -34,16 +41,9 @@
       "date": "2026-06-02T19:27:40+00:00"
     },
     {
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 988,
-      "source": "hn",
-      "date": "2026-06-03T16:04:42+00:00"
-    },
-    {
       "title": "Elixir v1.20: Now a gradually typed language",
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 929,
+      "score": 937,
       "source": "hn",
       "date": "2026-06-03T19:02:26+00:00"
     },
@@ -62,6 +62,13 @@
       "date": "2026-06-03T14:10:06+00:00"
     },
     {
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "score": 666,
+      "source": "hn",
+      "date": "2026-06-04T00:18:02+00:00"
+    },
+    {
       "title": "A 10 year old Xeon is all you need",
       "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
       "score": 653,
@@ -74,13 +81,6 @@
       "score": 647,
       "source": "hn",
       "date": "2026-06-03T10:53:00+00:00"
-    },
-    {
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 639,
-      "source": "hn",
-      "date": "2026-06-04T00:18:02+00:00"
     },
     {
       "title": "Meta workers can opt out of being tracked at work up to 30 min",
@@ -132,6 +132,13 @@
       "date": "2026-06-03T14:18:39+00:00"
     },
     {
+      "title": "VoidZero Is Joining Cloudflare",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "score": 480,
+      "source": "hn",
+      "date": "2026-06-04T13:00:51+00:00"
+    },
+    {
       "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
       "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
       "score": 471,
@@ -144,16 +151,16 @@
       "score": 462,
       "source": "hn",
       "date": "2026-06-04T00:44:13+00:00"
-    },
-    {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 449,
-      "source": "hn",
-      "date": "2026-06-01T16:41:49+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-04T20:11:20+00:00"
+    },
     {
       "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
       "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",

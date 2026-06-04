@@ -1,9 +1,16 @@
 {
   "date": "2026-06-04",
-  "generated_at": "2026-06-04T19:18:04.275358+00:00",
-  "total_articles": 50,
-  "urgent_count": 1,
+  "generated_at": "2026-06-04T20:15:11.179529+00:00",
+  "total_articles": 58,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-04T20:11:20+00:00"
+    },
     {
       "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
       "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 39,
       "top_items": [
         {
           "title": "They’re made out of weights",
           "url": "https://maxleiter.com/blog/weights",
-          "score": 1276,
+          "score": 1315,
           "source": "hn",
           "severity": null,
           "date": "2026-06-03T23:37:18+00:00"
@@ -28,10 +35,18 @@
         {
           "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
           "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-          "score": 639,
+          "score": 666,
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T00:18:02+00:00"
+        },
+        {
+          "title": "VoidZero Is Joining Cloudflare",
+          "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+          "score": 480,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-04T13:00:51+00:00"
         },
         {
           "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
@@ -42,17 +57,9 @@
           "date": "2026-06-04T00:44:13+00:00"
         },
         {
-          "title": "VoidZero Is Joining Cloudflare",
-          "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-          "score": 440,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-04T13:00:51+00:00"
-        },
-        {
           "title": "Ian's Secure Shoelace Knot",
           "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-          "score": 359,
+          "score": 391,
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T11:17:34+00:00"
@@ -61,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 19,
       "top_items": [
+        {
+          "title": "PythonをRustに「bit-exact」でトランスパイルする「SlimePython」がヤバいII",
+          "url": "https://qiita.com/xyzzysasaki/items/fe8371a30b66c422c3c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-05T04:14:25+09:00"
+        },
         {
           "title": "俺的 Book of News キーノート編: Microsoft Build 2026 は『Agent を動かす層』が全部そろった回だった",
           "url": "https://qiita.com/aktsmm/items/4cc75c8bf629edfd0413?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,6 +85,14 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-05T00:58:55+09:00"
+        },
+        {
+          "title": "利権はなぜ生まれるのか？ ― 競争・統制・財源幻想を超えて考える“供給能力” : Pythonで学ぶ マクロ経済学入門 (87)",
+          "url": "https://qiita.com/maskot1977/items/ece21303a62f2664bcca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-05T00:00:28+09:00"
         },
         {
           "title": "Codex + Oracle DB SkillsでOracle Databaseの実行計画レビューをしてみてみた",
@@ -80,28 +103,12 @@
           "date": "2026-06-04T22:21:07+09:00"
         },
         {
-          "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #1",
-          "url": "https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AWS 全リージョンのデフォルト VPC を一括削除する CLI ツールを作った",
+          "url": "https://qiita.com/h0uk1st4r/items/286d58e4ce7dd3229d23?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-04T12:48:26+09:00"
-        },
-        {
-          "title": "New Relic Workflow Automationで変数とデータ受け渡しをマスターする",
-          "url": "https://qiita.com/MarthaS/items/1f8152c00ad176238fe8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-04T12:20:09+09:00"
-        },
-        {
-          "title": "GitHub DesktopのUIと共に履歴に関するコマンドを理解しようの会",
-          "url": "https://qiita.com/chaochire/items/f2875706712572f7174b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-04T12:06:09+09:00"
+          "date": "2026-06-04T21:33:53+09:00"
         }
       ]
     }

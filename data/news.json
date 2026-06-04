@@ -1,7 +1,54 @@
 {
-  "updated_at": "2026-06-04T19:18:04.175818+00:00",
+  "updated_at": "2026-06-04T20:15:11.117580+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48403980",
+      "source": "hn",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "score": 3,
+      "comments": 0,
+      "author": "binyu",
+      "tags": [],
+      "date": "2026-06-04T20:11:20+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48403753",
+      "source": "hn",
+      "title": "Castor: CERN Advanced STORage Manager",
+      "url": "https://castor.web.cern.ch/content/home.html",
+      "score": 4,
+      "comments": 0,
+      "author": "naves",
+      "tags": [],
+      "date": "2026-06-04T19:52:02+00:00"
+    },
+    {
+      "id": "hn-48403588",
+      "source": "hn",
+      "title": "Meta's ships facial recognition on smart glasses",
+      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+      "score": 11,
+      "comments": 5,
+      "author": "buchodi",
+      "tags": [],
+      "date": "2026-06-04T19:36:48+00:00"
+    },
+    {
+      "id": "qiita-d1baf4f36d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "PythonをRustに「bit-exact」でトランスパイルする「SlimePython」がヤバいII",
+      "url": "https://qiita.com/xyzzysasaki/items/fe8371a30b66c422c3c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "xyzzysasaki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-05T04:14:25+09:00"
+    },
     {
       "id": "hn-48402371",
       "source": "hn",
@@ -29,8 +76,8 @@
       "source": "hn",
       "title": "The desperation of NYTimes",
       "url": "https://rozumem.xyz/posts/16",
-      "score": 190,
-      "comments": 164,
+      "score": 230,
+      "comments": 209,
       "author": "rozumem",
       "tags": [],
       "date": "2026-06-04T17:39:13+00:00"
@@ -58,12 +105,23 @@
       "date": "2026-06-04T16:25:20+00:00"
     },
     {
+      "id": "hn-48400842",
+      "source": "hn",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "score": 105,
+      "comments": 119,
+      "author": "meetpateltech",
+      "tags": [],
+      "date": "2026-06-04T16:20:17+00:00"
+    },
+    {
       "id": "hn-48400588",
       "source": "hn",
       "title": "Retro-Tech Parenting",
       "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "score": 121,
-      "comments": 62,
+      "score": 161,
+      "comments": 98,
       "author": "mawise",
       "tags": [],
       "date": "2026-06-04T16:02:35+00:00"
@@ -120,19 +178,32 @@
       "source": "hn",
       "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
       "url": "https://github.com/huawei-csl/KVarN",
-      "score": 78,
-      "comments": 7,
+      "score": 91,
+      "comments": 8,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-06-04T15:18:00+00:00"
+    },
+    {
+      "id": "qiita-4667290cb5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "利権はなぜ生まれるのか？ ― 競争・統制・財源幻想を超えて考える“供給能力” : Pythonで学ぶ マクロ経済学入門 (87)",
+      "url": "https://qiita.com/maskot1977/items/ece21303a62f2664bcca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-05T00:00:28+09:00"
     },
     {
       "id": "hn-48399528",
       "source": "hn",
       "title": "AI, Ashby Engineering, and the future",
       "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-      "score": 5,
-      "comments": 0,
+      "score": 15,
+      "comments": 7,
       "author": "fredley",
       "tags": [],
       "date": "2026-06-04T14:48:44+00:00"
@@ -151,10 +222,10 @@
     {
       "id": "hn-48399332",
       "source": "hn",
-      "title": "In a first, wind and solar generated more power than gas globally in April 2026",
+      "title": "Wind and solar generated more power than gas globally in April 2026",
       "url": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
-      "score": 280,
-      "comments": 249,
+      "score": 312,
+      "comments": 272,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-04T14:36:39+00:00"
@@ -177,11 +248,24 @@
       "source": "hn",
       "title": "VoidZero Is Joining Cloudflare",
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 440,
-      "comments": 209,
+      "score": 480,
+      "comments": 229,
       "author": "coloneltcb",
       "tags": [],
       "date": "2026-06-04T13:00:51+00:00"
+    },
+    {
+      "id": "qiita-583b2cebfb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS 全リージョンのデフォルト VPC を一括削除する CLI ツールを作った",
+      "url": "https://qiita.com/h0uk1st4r/items/286d58e4ce7dd3229d23?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "h0uk1st4r",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-04T21:33:53+09:00"
     },
     {
       "id": "hn-48397435",
@@ -221,7 +305,7 @@
       "source": "hn",
       "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
       "url": "https://cost.dev/",
-      "score": 7,
+      "score": 12,
       "comments": 1,
       "author": "akh",
       "tags": [],
@@ -232,8 +316,8 @@
       "source": "hn",
       "title": "Ian's Secure Shoelace Knot",
       "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "score": 359,
-      "comments": 142,
+      "score": 391,
+      "comments": 156,
       "author": "mooreds",
       "tags": [],
       "date": "2026-06-04T11:17:34+00:00"
@@ -243,19 +327,45 @@
       "source": "hn",
       "title": "Gaussian Point Splatting",
       "url": "https://momentsingraphics.de/Siggraph2026.html",
-      "score": 152,
-      "comments": 56,
+      "score": 157,
+      "comments": 57,
       "author": "ibobev",
       "tags": [],
       "date": "2026-06-04T10:48:13+00:00"
+    },
+    {
+      "id": "qiita-80f7695eb1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "プロンプトのための最強のTeXチートシート",
+      "url": "https://qiita.com/KKTeX/items/3804743c60ef1bb04e07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "KKTeX",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-04T18:58:56+09:00"
+    },
+    {
+      "id": "qiita-a24e00e6c6",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Pythonが「とりあえず」に強い理由、ちゃんと説明できますか",
+      "url": "https://qiita.com/harupython/items/370a0422b59fdcd08f42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "harupython",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-04T18:52:12+09:00"
     },
     {
       "id": "hn-48396004",
       "source": "hn",
       "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
       "url": "https://uruky.com/?il=en",
-      "score": 168,
-      "comments": 163,
+      "score": 180,
+      "comments": 174,
       "author": "BrunoBernardino",
       "tags": [],
       "date": "2026-06-04T08:56:10+00:00"
@@ -270,6 +380,19 @@
       "author": "XzetaU8",
       "tags": [],
       "date": "2026-06-04T08:45:36+00:00"
+    },
+    {
+      "id": "qiita-0023a53e5d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【まとめ】AI生成コードのセキュリティレビューで見るべきポイント",
+      "url": "https://qiita.com/miruky/items/81d93feece154fb4b89a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "miruky",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-04T17:14:18+09:00"
     },
     {
       "id": "qiita-380964262d",
@@ -425,8 +548,8 @@
       "source": "hn",
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
       "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 639,
-      "comments": 603,
+      "score": 666,
+      "comments": 622,
       "author": "littlexsparkee",
       "tags": [],
       "date": "2026-06-04T00:18:02+00:00"
@@ -484,8 +607,8 @@
       "source": "hn",
       "title": "They’re made out of weights",
       "url": "https://maxleiter.com/blog/weights",
-      "score": 1276,
-      "comments": 548,
+      "score": 1315,
+      "comments": 570,
       "author": "MaxLeiter",
       "tags": [],
       "date": "2026-06-03T23:37:18+00:00"
@@ -500,6 +623,19 @@
       "author": "jay_kyburz",
       "tags": [],
       "date": "2026-06-03T22:46:57+00:00"
+    },
+    {
+      "id": "qiita-80b009f7bb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Google動画生成モデル3つを定性比較してみた（Veo 3.1 Quality / Fast / Omni Flash）",
+      "url": "https://qiita.com/Yumekawa-chan/items/3763ec931b8dcd51684b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Yumekawa-chan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-04T07:23:04+09:00"
     },
     {
       "id": "hn-48390688",
@@ -584,8 +720,8 @@
       "source": "hn",
       "title": "Elixir v1.20: Now a gradually typed language",
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 929,
-      "comments": 370,
+      "score": 937,
+      "comments": 374,
       "author": "cloud8421",
       "tags": [],
       "date": "2026-06-03T19:02:26+00:00"
@@ -706,8 +842,8 @@
       "source": "hn",
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 988,
-      "comments": 368,
+      "score": 995,
+      "comments": 369,
       "author": "rvz",
       "tags": [],
       "date": "2026-06-03T16:04:42+00:00"
@@ -889,6 +1025,19 @@
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-06-03T10:24:25+00:00"
+    },
+    {
+      "id": "qiita-529058c87b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "積極的に1on1や雑談をするべき理由",
+      "url": "https://qiita.com/kanegon1222/items/a31305725e87bf3a10ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kanegon1222",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-03T19:19:57+09:00"
     },
     {
       "id": "hn-48382052",
@@ -1344,6 +1493,17 @@
       "date": "2026-06-02T19:37:10+00:00"
     },
     {
+      "id": "hn-48375064",
+      "source": "hn",
+      "title": "JLink JTAG Access on the Pinecil",
+      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+      "score": 9,
+      "comments": 0,
+      "author": "hasheddan",
+      "tags": [],
+      "date": "2026-06-02T19:30:44+00:00"
+    },
+    {
       "id": "hn-48375016",
       "source": "hn",
       "title": "Gmail thinks I'm stupid, so I left",
@@ -1447,8 +1607,8 @@
       "source": "hn",
       "title": "U.S. Army Corps of Engineers Bay Model",
       "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-      "score": 173,
-      "comments": 45,
+      "score": 178,
+      "comments": 47,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-02T17:50:00+00:00"
@@ -1654,8 +1814,8 @@
       "source": "hn",
       "title": "3D-printed book turns its own G-code into raised lettering",
       "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
-      "score": 51,
-      "comments": 22,
+      "score": 56,
+      "comments": 24,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-06-02T14:15:15+00:00"
@@ -1873,7 +2033,7 @@
       "source": "hn",
       "title": "Samurai City",
       "url": "https://worksinprogress.co/issue/samurai-city/",
-      "score": 9,
+      "score": 30,
       "comments": 1,
       "author": "zdw",
       "tags": [],
@@ -2193,8 +2353,8 @@
       "source": "hn",
       "title": "Making Debian or Fedora persistent live images",
       "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
-      "score": 14,
-      "comments": 0,
+      "score": 27,
+      "comments": 2,
       "author": "henry_flower",
       "tags": [],
       "date": "2026-06-01T18:02:10+00:00"
@@ -2841,8 +3001,8 @@
       "source": "hn",
       "title": "Sum-product, unit distances, and number fields",
       "url": "https://www.erdosproblems.com/forum/thread/blog:6",
-      "score": 31,
-      "comments": 0,
+      "score": 38,
+      "comments": 2,
       "author": "robinhouston",
       "tags": [],
       "date": "2026-06-01T05:54:27+00:00"
@@ -5012,153 +5172,6 @@
       "tags": [],
       "date": "2026-05-29T19:28:55+00:00",
       "severity": "high"
-    },
-    {
-      "id": "hn-48327962",
-      "source": "hn",
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 159,
-      "comments": 228,
-      "author": "evilsimon",
-      "tags": [],
-      "date": "2026-05-29T19:16:32+00:00"
-    },
-    {
-      "id": "hn-48327809",
-      "source": "hn",
-      "title": "On Rendering Diffs",
-      "url": "https://pierre.computer/writing/on-rendering-diffs",
-      "score": 168,
-      "comments": 55,
-      "author": "amadeus",
-      "tags": [],
-      "date": "2026-05-29T19:04:54+00:00"
-    },
-    {
-      "id": "qiita-1e367fa66e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "同じ業務 Web UI を Vanilla HTML / Vue / React / Thymeleaf で実装して比較した — 4スタックの違いと選定指針",
-      "url": "https://qiita.com/y104autumn/items/6d560e5b87dd54136fe3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "y104autumn",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-30T03:49:02+09:00"
-    },
-    {
-      "id": "hn-48327453",
-      "source": "hn",
-      "title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
-      "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
-      "score": 196,
-      "comments": 41,
-      "author": "rawgabbit",
-      "tags": [],
-      "date": "2026-05-29T18:37:22+00:00"
-    },
-    {
-      "id": "hn-48327367",
-      "source": "hn",
-      "title": "Rothko for your current weather conditions",
-      "url": "https://rothko.joonas.wtf/",
-      "score": 120,
-      "comments": 12,
-      "author": "jxmorris12",
-      "tags": [],
-      "date": "2026-05-29T18:31:52+00:00"
-    },
-    {
-      "id": "hn-48327222",
-      "source": "hn",
-      "title": "AI will be used to estimate age of asylum seekers from next year",
-      "url": "https://www.bbc.co.uk/news/articles/ce3pe36qe7ro",
-      "score": 16,
-      "comments": 3,
-      "author": "vylorn",
-      "tags": [],
-      "date": "2026-05-29T18:23:03+00:00"
-    },
-    {
-      "id": "hn-48326802",
-      "source": "hn",
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 660,
-      "comments": 359,
-      "author": "tomasol",
-      "tags": [],
-      "date": "2026-05-29T17:54:50+00:00"
-    },
-    {
-      "id": "hn-48326659",
-      "source": "hn",
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "score": 71,
-      "comments": 126,
-      "author": "wapasta",
-      "tags": [],
-      "date": "2026-05-29T17:46:27+00:00"
-    },
-    {
-      "id": "hn-48326561",
-      "source": "hn",
-      "title": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
-      "url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
-      "score": 51,
-      "comments": 14,
-      "author": "backuprestore",
-      "tags": [],
-      "date": "2026-05-29T17:39:49+00:00"
-    },
-    {
-      "id": "hn-48326053",
-      "source": "hn",
-      "title": "Reconciling Kubernetes cost estimates with CUR / FOCUS billing data",
-      "url": "https://github.com/tanrikuluozlem/burn",
-      "score": 29,
-      "comments": 1,
-      "author": "OzlemT",
-      "tags": [],
-      "date": "2026-05-29T17:06:10+00:00"
-    },
-    {
-      "id": "qiita-ab96c0b0db",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "出たてほやほやのClaude Opus 4.8を整理してみた",
-      "url": "https://qiita.com/kaichan_dot/items/a5234436a61194e24df7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kaichan_dot",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-05-30T01:44:22+09:00"
-    },
-    {
-      "id": "hn-48325668",
-      "source": "hn",
-      "title": "Reviving Teletext for Ham Radio",
-      "url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
-      "score": 47,
-      "comments": 22,
-      "author": "yarapavan",
-      "tags": [],
-      "date": "2026-05-29T16:41:56+00:00"
-    },
-    {
-      "id": "hn-48325624",
-      "source": "hn",
-      "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
-      "url": "https://tvexplorer.live",
-      "score": 104,
-      "comments": 29,
-      "author": "dtagames",
-      "tags": [],
-      "date": "2026-05-29T16:39:09+00:00"
     },
     {
       "id": "ctf-3761714",
