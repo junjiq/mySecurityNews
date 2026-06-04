@@ -1,16 +1,16 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-04T20:15:11.222879+00:00",
-  "total_articles": 176,
+  "generated_at": "2026-06-04T21:06:11.405367+00:00",
+  "total_articles": 175,
   "source_counts": {
-    "hn": 144,
+    "hn": 143,
     "zennqiita": 24,
     "project": 8
   },
   "severity_counts": {
     "medium": 2,
     "critical": 3,
-    "high": 2
+    "high": 1
   },
   "top_articles": [
     {
@@ -182,13 +182,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-05-29T19:37:41+00:00"
-    },
-    {
-      "title": "CVE-Bench: testing LLM agents on real-world vulnerability patches",
-      "url": "https://giovannigatti.github.io/cve-bench/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-05-29T19:28:55+00:00"
     }
   ]
 }
