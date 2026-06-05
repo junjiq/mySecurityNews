@@ -1,9 +1,16 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T11:08:14.385870+00:00",
-  "total_articles": 67,
-  "urgent_count": 3,
+  "generated_at": "2026-06-05T12:25:42.451341+00:00",
+  "total_articles": 66,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-05T10:44:48+00:00"
+    },
     {
       "title": "Tracing a powerful GNSS interference source over Europe",
       "url": "https://arxiv.org/abs/2606.03673",
@@ -40,12 +47,12 @@
           "date": "2026-06-04T13:00:51+00:00"
         },
         {
-          "title": "Ian's Secure Shoelace Knot",
-          "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-          "score": 520,
+          "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+          "url": "https://github.com/anthropics/defending-code-reference-harness",
+          "score": 451,
           "source": "hn",
-          "severity": null,
-          "date": "2026-06-04T11:17:34+00:00"
+          "severity": "critical",
+          "date": "2026-06-04T20:11:20+00:00"
         },
         {
           "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
@@ -56,26 +63,26 @@
           "date": "2026-06-04T16:20:17+00:00"
         },
         {
-          "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-          "url": "https://github.com/anthropics/defending-code-reference-harness",
-          "score": 438,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-04T20:11:20+00:00"
-        },
-        {
-          "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
-          "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-          "score": 356,
+          "title": "Changing How We Develop Ladybird",
+          "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+          "score": 432,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-04T11:39:28+00:00"
+          "date": "2026-06-05T07:26:33+00:00"
+        },
+        {
+          "title": "Wind and solar generated more power than gas globally in April 2026",
+          "url": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
+          "score": 312,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-04T14:36:39+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "Microsoft 365 Copilot の ROI、どう考える？",
