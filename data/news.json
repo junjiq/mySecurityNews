@@ -1,14 +1,40 @@
 {
-  "updated_at": "2026-06-05T13:32:48.526705+00:00",
+  "updated_at": "2026-06-05T15:02:23.335342+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-81478f3d5f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Microsoft 365 Copilot の ROI、どう考える？",
+      "url": "https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Takashi_Masumori",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-05T22:47:32+09:00"
+    },
+    {
+      "id": "qiita-872dd079fb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
+      "url": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shinkai_",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-05T22:40:20+09:00"
+    },
     {
       "id": "hn-48411510",
       "source": "hn",
       "title": "Programmers will document for Claude, but not for each other",
       "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-      "score": 14,
-      "comments": 10,
+      "score": 79,
+      "comments": 82,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-06-05T12:30:17+00:00"
@@ -51,8 +77,8 @@
       "source": "hn",
       "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
       "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
-      "score": 55,
-      "comments": 30,
+      "score": 72,
+      "comments": 46,
       "author": "jrepinc",
       "tags": [],
       "date": "2026-06-05T10:44:48+00:00",
@@ -63,32 +89,19 @@
       "source": "hn",
       "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
       "url": "https://github.com/zdk/lowfat",
-      "score": 24,
-      "comments": 9,
+      "score": 40,
+      "comments": 28,
       "author": "zdkaster",
       "tags": [],
       "date": "2026-06-05T09:10:42+00:00"
-    },
-    {
-      "id": "qiita-81478f3d5f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Microsoft 365 Copilot の ROI、どう考える？",
-      "url": "https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Takashi_Masumori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-05T17:55:09+09:00"
     },
     {
       "id": "hn-48409675",
       "source": "hn",
       "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
       "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "score": 68,
-      "comments": 50,
+      "score": 100,
+      "comments": 81,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-06-05T08:33:37+00:00"
@@ -98,20 +111,31 @@
       "source": "hn",
       "title": "Tracing a powerful GNSS interference source over Europe",
       "url": "https://arxiv.org/abs/2606.03673",
-      "score": 183,
-      "comments": 59,
+      "score": 233,
+      "comments": 103,
       "author": "mimorigasaka",
       "tags": [],
       "date": "2026-06-05T08:32:16+00:00",
       "severity": "critical"
     },
     {
+      "id": "hn-48409331",
+      "source": "hn",
+      "title": "Show HN: I benchmarked LLM agents on fixing real-world security vulnerabilities",
+      "url": "https://giovannigatti.github.io/cve-bench/",
+      "score": 3,
+      "comments": 1,
+      "author": "ggattip",
+      "tags": [],
+      "date": "2026-06-05T07:43:48+00:00"
+    },
+    {
       "id": "hn-48409306",
       "source": "hn",
       "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
       "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "score": 66,
-      "comments": 31,
+      "score": 92,
+      "comments": 33,
       "author": "geotp",
       "tags": [],
       "date": "2026-06-05T07:40:04+00:00"
@@ -119,10 +143,10 @@
     {
       "id": "hn-48409191",
       "source": "hn",
-      "title": "Changing How We Develop Ladybird",
+      "title": "Changing how we develop Ladybird",
       "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 488,
-      "comments": 320,
+      "score": 591,
+      "comments": 391,
       "author": "EdwinHoksberg",
       "tags": [],
       "date": "2026-06-05T07:26:33+00:00"
@@ -130,10 +154,10 @@
     {
       "id": "hn-48409173",
       "source": "hn",
-      "title": "Lee Kuan Yew's Singapore Story",
+      "title": "Lee Kuan Yew's Singapore Story (2023)",
       "url": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
-      "score": 16,
-      "comments": 10,
+      "score": 81,
+      "comments": 73,
       "author": "pepys",
       "tags": [],
       "date": "2026-06-05T07:23:44+00:00"
@@ -154,8 +178,8 @@
       "source": "hn",
       "title": "Fine-tuning an LLM to write docs like it's 1995",
       "url": "https://passo.uno/fine-tuning-docs-llm/",
-      "score": 110,
-      "comments": 44,
+      "score": 135,
+      "comments": 49,
       "author": "taubek",
       "tags": [],
       "date": "2026-06-05T05:46:06+00:00"
@@ -176,8 +200,8 @@
       "source": "hn",
       "title": "The IsUpMap lets you check the status of over 100 major sites at once",
       "url": "https://isupmap.com/",
-      "score": 87,
-      "comments": 31,
+      "score": 98,
+      "comments": 36,
       "author": "mikelgan",
       "tags": [],
       "date": "2026-06-05T04:44:48+00:00"
@@ -224,8 +248,8 @@
       "source": "hn",
       "title": "C++: The Documentary",
       "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "score": 218,
-      "comments": 138,
+      "score": 257,
+      "comments": 166,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-05T04:37:01+00:00"
@@ -268,8 +292,8 @@
       "source": "hn",
       "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
       "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
-      "score": 106,
-      "comments": 76,
+      "score": 132,
+      "comments": 113,
       "author": "haydenbarnes",
       "tags": [],
       "date": "2026-06-05T03:14:28+00:00"
@@ -327,32 +351,19 @@
       "source": "hn",
       "title": "Meta enables ADB on deprecated Portal devices [video]",
       "url": "https://fb.watch/HxPu0fSyeH/",
-      "score": 250,
-      "comments": 95,
+      "score": 265,
+      "comments": 105,
       "author": "jenders",
       "tags": [],
       "date": "2026-06-05T00:44:38+00:00"
-    },
-    {
-      "id": "qiita-872dd079fb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
-      "url": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shinkai_",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-05T09:31:26+09:00"
     },
     {
       "id": "hn-48406358",
       "source": "hn",
       "title": "Open Code Review – An AI-powered code review CLI tool",
       "url": "https://github.com/alibaba/open-code-review",
-      "score": 215,
-      "comments": 62,
+      "score": 225,
+      "comments": 66,
       "author": "geoffbp",
       "tags": [],
       "date": "2026-06-05T00:04:29+00:00"
@@ -373,7 +384,7 @@
       "source": "hn",
       "title": "Do transformers need three projections? Systematic study of QKV variants",
       "url": "https://arxiv.org/abs/2606.04032",
-      "score": 187,
+      "score": 192,
       "comments": 36,
       "author": "Anon84",
       "tags": [],
@@ -464,8 +475,8 @@
       "source": "hn",
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 465,
-      "comments": 129,
+      "score": 478,
+      "comments": 134,
       "author": "binyu",
       "tags": [],
       "date": "2026-06-04T20:11:20+00:00",
@@ -533,8 +544,8 @@
       "source": "hn",
       "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
       "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
-      "score": 65,
-      "comments": 14,
+      "score": 81,
+      "comments": 17,
       "author": "natalcleft",
       "tags": [],
       "date": "2026-06-04T17:51:10+00:00"
@@ -1461,8 +1472,8 @@
       "source": "hn",
       "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
       "url": "https://mouseless.click",
-      "score": 33,
-      "comments": 15,
+      "score": 158,
+      "comments": 81,
       "author": "riddley",
       "tags": [],
       "date": "2026-06-03T13:22:06+00:00"
@@ -1622,8 +1633,8 @@
       "source": "hn",
       "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
       "url": "https://redis.io/blog/announcing-redis-8-8/",
-      "score": 66,
-      "comments": 21,
+      "score": 105,
+      "comments": 51,
       "author": "ksec",
       "tags": [],
       "date": "2026-06-03T10:05:11+00:00"
@@ -1737,6 +1748,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-48380174",
+      "source": "hn",
+      "title": "Cooldown Support for Ruby Bundler",
+      "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+      "score": 34,
+      "comments": 6,
+      "author": "calyhre",
+      "tags": [],
+      "date": "2026-06-03T05:15:09+00:00"
+    },
+    {
       "id": "hn-48379669",
       "source": "hn",
       "title": "The Unreasonable Redundancy of Nature's Protein Folds",
@@ -1822,7 +1844,7 @@
       "source": "hn",
       "title": "At the Autograph Show",
       "url": "https://oldster.substack.com/p/at-the-autograph-show",
-      "score": 11,
+      "score": 23,
       "comments": 1,
       "author": "NaOH",
       "tags": [],
@@ -1959,8 +1981,8 @@
       "source": "hn",
       "title": "databow: a Rust CLI to query any database with an ADBC driver",
       "url": "https://columnar.tech/blog/introducing-databow//",
-      "score": 74,
-      "comments": 16,
+      "score": 89,
+      "comments": 19,
       "author": "hckshr",
       "tags": [],
       "date": "2026-06-02T23:11:13+00:00"
@@ -2039,8 +2061,8 @@
       "source": "hn",
       "title": "I'm skeptical about efforts to revolutionize schooling",
       "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-      "score": 226,
-      "comments": 336,
+      "score": 248,
+      "comments": 387,
       "author": "andrewstuart",
       "tags": [],
       "date": "2026-06-02T20:43:39+00:00"
@@ -5147,28 +5169,6 @@
       "author": "freeCandy",
       "tags": [],
       "date": "2026-05-30T17:27:28+00:00"
-    },
-    {
-      "id": "hn-48338656",
-      "source": "hn",
-      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
-      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
-      "score": 110,
-      "comments": 18,
-      "author": "pwg",
-      "tags": [],
-      "date": "2026-05-30T17:27:13+00:00"
-    },
-    {
-      "id": "hn-48338215",
-      "source": "hn",
-      "title": "Fluid Simulation for Dummies (2006)",
-      "url": "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html",
-      "score": 47,
-      "comments": 12,
-      "author": "sebg",
-      "tags": [],
-      "date": "2026-05-30T16:46:38+00:00"
     },
     {
       "id": "ctf-3761714",
