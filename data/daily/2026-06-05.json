@@ -1,9 +1,16 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T08:23:00.867572+00:00",
-  "total_articles": 67,
-  "urgent_count": 2,
+  "generated_at": "2026-06-05T09:46:41.202253+00:00",
+  "total_articles": 69,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-05T08:32:16+00:00"
+    },
     {
       "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
       "url": "https://www.mercek.dev/",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 53,
       "top_items": [
         {
           "title": "VoidZero Is Joining Cloudflare",
@@ -51,7 +58,7 @@
         {
           "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
           "url": "https://github.com/anthropics/defending-code-reference-harness",
-          "score": 402,
+          "score": 418,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-04T20:11:20+00:00"
@@ -70,6 +77,14 @@
       "category": "日本語技術記事",
       "count": 16,
       "top_items": [
+        {
+          "title": "Microsoft 365 Copilot の ROI、どう考える？",
+          "url": "https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-05T17:55:09+09:00"
+        },
         {
           "title": "AI時代、“ITを知らない”が普通に危険になってきた話",
           "url": "https://qiita.com/prum_hitomi/items/01defe8188de2123b25c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-05T09:50:46+09:00"
-        },
-        {
-          "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
-          "url": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-05T09:31:26+09:00"
         }
       ]
     }

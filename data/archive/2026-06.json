@@ -1,13 +1,13 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-05T08:23:00.910387+00:00",
-  "total_articles": 328,
+  "generated_at": "2026-06-05T09:46:41.246403+00:00",
+  "total_articles": 333,
   "source_counts": {
-    "hn": 241,
+    "hn": 246,
     "zennqiita": 87
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 10,
     "medium": 3,
     "high": 3
   },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-05T08:32:16+00:00"
+    },
     {
       "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
       "url": "https://www.mercek.dev/",
