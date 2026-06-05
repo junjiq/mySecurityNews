@@ -1,9 +1,16 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T15:02:23.400827+00:00",
-  "total_articles": 61,
-  "urgent_count": 4,
+  "generated_at": "2026-06-05T16:21:11.579007+00:00",
+  "total_articles": 59,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-05T15:59:57+00:00"
+    },
     {
       "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
       "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
@@ -41,7 +48,7 @@
         {
           "title": "Changing how we develop Ladybird",
           "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-          "score": 591,
+          "score": 661,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T07:26:33+00:00"
@@ -49,40 +56,40 @@
         {
           "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
           "url": "https://github.com/anthropics/defending-code-reference-harness",
-          "score": 478,
+          "score": 488,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-04T20:11:20+00:00"
         },
         {
-          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-          "score": 444,
+          "title": "C++: The Documentary",
+          "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+          "score": 284,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-04T16:20:17+00:00"
-        },
-        {
-          "title": "Retro-Tech Parenting",
-          "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-          "score": 279,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-04T16:02:35+00:00"
+          "date": "2026-06-05T04:37:01+00:00"
         },
         {
           "title": "Meta enables ADB on deprecated Portal devices [video]",
           "url": "https://fb.watch/HxPu0fSyeH/",
-          "score": 265,
+          "score": 275,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T00:44:38+00:00"
+        },
+        {
+          "title": "Tracing a powerful GNSS interference source over Europe",
+          "url": "https://arxiv.org/abs/2606.03673",
+          "score": 263,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-06-05T08:32:16+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 8,
       "top_items": [
         {
           "title": "Microsoft 365 Copilot の ROI、どう考える？",

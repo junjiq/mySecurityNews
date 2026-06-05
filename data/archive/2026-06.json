@@ -1,13 +1,13 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-05T15:02:23.445899+00:00",
-  "total_articles": 346,
+  "generated_at": "2026-06-05T16:21:11.621118+00:00",
+  "total_articles": 352,
   "source_counts": {
-    "hn": 259,
+    "hn": 265,
     "zennqiita": 87
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "medium": 3,
     "high": 3
   },
@@ -69,6 +69,13 @@
       "date": "2026-06-03T14:10:06+00:00"
     },
     {
+      "title": "Changing how we develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "score": 661,
+      "source": "hn",
+      "date": "2026-06-05T07:26:33+00:00"
+    },
+    {
       "title": "A 10 year old Xeon is all you need",
       "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
       "score": 653,
@@ -111,13 +118,6 @@
       "date": "2026-06-02T15:29:05+00:00"
     },
     {
-      "title": "Changing how we develop Ladybird",
-      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 591,
-      "source": "hn",
-      "date": "2026-06-05T07:26:33+00:00"
-    },
-    {
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
       "score": 572,
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-05T15:59:57+00:00"
+    },
     {
       "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
       "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
