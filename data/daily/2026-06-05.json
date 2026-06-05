@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T03:10:00.535465+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-06-05T05:00:00.484641+00:00",
+  "total_articles": 51,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 42,
       "top_items": [
         {
           "title": "VoidZero Is Joining Cloudflare",
           "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-          "score": 583,
+          "score": 596,
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T13:00:51+00:00"
@@ -41,20 +41,20 @@
           "date": "2026-06-04T11:17:34+00:00"
         },
         {
+          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+          "score": 394,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-04T16:20:17+00:00"
+        },
+        {
           "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
           "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
           "score": 356,
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T11:39:28+00:00"
-        },
-        {
-          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-          "score": 351,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-04T16:20:17+00:00"
         },
         {
           "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 9,
       "top_items": [
         {
           "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた",
