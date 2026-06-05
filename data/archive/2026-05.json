@@ -1,15 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-05T19:11:18.894219+00:00",
-  "total_articles": 97,
+  "generated_at": "2026-06-05T20:10:17.863430+00:00",
+  "total_articles": 88,
   "source_counts": {
-    "hn": 77,
+    "hn": 68,
     "zennqiita": 12,
     "project": 8
   },
   "severity_counts": {
-    "medium": 2,
-    "critical": 1
+    "medium": 2
   },
   "top_articles": [
     {
@@ -69,25 +68,11 @@
       "date": "2026-05-31T12:41:19+00:00"
     },
     {
-      "title": "Shantell Sans (2023)",
-      "url": "https://shantellsans.com/process",
-      "score": 376,
-      "source": "hn",
-      "date": "2026-05-30T22:06:38+00:00"
-    },
-    {
       "title": "Chuwi Minibook X",
       "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
       "score": 353,
       "source": "hn",
       "date": "2026-05-31T22:59:50+00:00"
-    },
-    {
-      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-      "url": "https://av2.aomedia.org",
-      "score": 330,
-      "source": "hn",
-      "date": "2026-05-30T21:46:18+00:00"
     },
     {
       "title": "London's Free Roof Terraces",
@@ -151,15 +136,21 @@
       "score": 176,
       "source": "hn",
       "date": "2026-05-31T09:45:45+00:00"
+    },
+    {
+      "title": "Muxcard, a dyi credit card size computer",
+      "url": "https://github.com/krauseler/muxcard",
+      "score": 170,
+      "source": "hn",
+      "date": "2026-05-31T01:59:06+00:00"
+    },
+    {
+      "title": "The Speed of Prototyping in the Age of AI",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "score": 162,
+      "source": "hn",
+      "date": "2026-05-31T16:37:34+00:00"
     }
   ],
-  "security_highlights": [
-    {
-      "title": "Kore: Binary File Format Optimized for Modern Data Systems (Open Source)",
-      "url": "https://github.com/arunkatherashala/Kore",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-05-30T20:54:22+00:00"
-    }
-  ]
+  "security_highlights": []
 }

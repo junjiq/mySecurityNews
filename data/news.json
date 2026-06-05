@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-05T19:11:18.773590+00:00",
+  "updated_at": "2026-06-05T20:10:17.755043+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48416936",
+      "source": "hn",
+      "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
+      "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
+      "score": 71,
+      "comments": 26,
+      "author": "SparkyDogs",
+      "tags": [],
+      "date": "2026-06-05T19:15:36+00:00"
+    },
+    {
+      "id": "hn-48416845",
+      "source": "hn",
+      "title": "Three of our worst VC stories",
+      "url": "https://twitter.com/eastdakota/status/2062860530360959273",
+      "score": 17,
+      "comments": 3,
+      "author": "orgonon",
+      "tags": [],
+      "date": "2026-06-05T19:08:12+00:00"
+    },
+    {
+      "id": "hn-48416635",
+      "source": "hn",
+      "title": "Transformers Are Inherently Succinct",
+      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "score": 16,
+      "comments": 4,
+      "author": "brandonb",
+      "tags": [],
+      "date": "2026-06-05T18:50:26+00:00"
+    },
     {
       "id": "hn-48415987",
       "source": "hn",
@@ -51,8 +84,8 @@
       "source": "hn",
       "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 104,
-      "comments": 26,
+      "score": 160,
+      "comments": 40,
       "author": "toomuchtodo",
       "tags": [],
       "date": "2026-06-05T16:55:30+00:00"
@@ -62,19 +95,30 @@
       "source": "hn",
       "title": "Mantine-datatable (and others) compromised – owner account suspended",
       "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
-      "score": 43,
-      "comments": 10,
+      "score": 46,
+      "comments": 14,
       "author": "justsomehuman",
       "tags": [],
       "date": "2026-06-05T16:39:57+00:00"
+    },
+    {
+      "id": "hn-48414862",
+      "source": "hn",
+      "title": "The company I work for is losing all of its humanity, I don't know where to go",
+      "url": "https://superlemon.bearblog.dev/the-company-i-work-for-is-losing-all-of-its-humanity-but-i-dont-know-where-else-to-go/",
+      "score": 28,
+      "comments": 18,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-06-05T16:32:38+00:00"
     },
     {
       "id": "hn-48414653",
       "source": "hn",
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 122,
-      "comments": 21,
+      "score": 158,
+      "comments": 29,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-06-05T16:18:48+00:00"
@@ -95,8 +139,8 @@
       "source": "hn",
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "url": "https://github.com/microsoft/pg_durable",
-      "score": 171,
-      "comments": 41,
+      "score": 202,
+      "comments": 43,
       "author": "coffeemug",
       "tags": [],
       "date": "2026-06-05T15:59:57+00:00",
@@ -107,8 +151,8 @@
       "source": "hn",
       "title": "Conventional Commits encourages focus on the wrong things",
       "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "score": 174,
-      "comments": 126,
+      "score": 189,
+      "comments": 143,
       "author": "jsve",
       "tags": [],
       "date": "2026-06-05T15:39:38+00:00"
@@ -129,8 +173,8 @@
       "source": "hn",
       "title": "New method turns ocean water into drinking water, without waste",
       "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 65,
-      "comments": 37,
+      "score": 100,
+      "comments": 46,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-05T15:04:03+00:00"
@@ -140,8 +184,8 @@
       "source": "hn",
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 261,
-      "comments": 171,
+      "score": 288,
+      "comments": 187,
       "author": "janpot",
       "tags": [],
       "date": "2026-06-05T15:00:31+00:00"
@@ -151,8 +195,8 @@
       "source": "hn",
       "title": "Dutch gov't will only allow European company to operate DigiD platform",
       "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
-      "score": 174,
-      "comments": 59,
+      "score": 199,
+      "comments": 66,
       "author": "TechTechTech",
       "tags": [],
       "date": "2026-06-05T14:48:44+00:00"
@@ -162,8 +206,8 @@
       "source": "hn",
       "title": "I tested every IP KVM in my Homelab",
       "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-      "score": 152,
-      "comments": 45,
+      "score": 169,
+      "comments": 48,
       "author": "vquemener",
       "tags": [],
       "date": "2026-06-05T14:30:50+00:00"
@@ -199,8 +243,8 @@
       "source": "hn",
       "title": "Did Claude increase bugs in rsync?",
       "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 105,
-      "comments": 106,
+      "score": 151,
+      "comments": 147,
       "author": "logicprog",
       "tags": [],
       "date": "2026-06-05T12:43:33+00:00"
@@ -288,8 +332,8 @@
       "source": "hn",
       "title": "Tracing a powerful GNSS interference source over Europe",
       "url": "https://arxiv.org/abs/2606.03673",
-      "score": 315,
-      "comments": 166,
+      "score": 323,
+      "comments": 174,
       "author": "mimorigasaka",
       "tags": [],
       "date": "2026-06-05T08:32:16+00:00",
@@ -710,8 +754,8 @@
       "source": "hn",
       "title": "\"Maybe later\" was a feature",
       "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
-      "score": 11,
-      "comments": 1,
+      "score": 24,
+      "comments": 3,
       "author": "arnorhs",
       "tags": [],
       "date": "2026-06-04T18:31:55+00:00"
@@ -809,8 +853,8 @@
       "source": "hn",
       "title": "Do the Hardest Thing",
       "url": "https://justinjackson.ca/hard-thing",
-      "score": 23,
-      "comments": 7,
+      "score": 42,
+      "comments": 20,
       "author": "levhawk",
       "tags": [],
       "date": "2026-06-04T16:07:21+00:00"
@@ -948,8 +992,8 @@
       "source": "hn",
       "title": "My Agent Skill for Test-Driven Development",
       "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-      "score": 16,
-      "comments": 0,
+      "score": 42,
+      "comments": 6,
       "author": "laxmena",
       "tags": [],
       "date": "2026-06-04T14:10:40+00:00"
@@ -959,7 +1003,7 @@
       "source": "hn",
       "title": "Inside FAISS: Billion-Scale Similarity Search",
       "url": "https://fremaconsulting.ch/blog/faiss",
-      "score": 10,
+      "score": 16,
       "comments": 0,
       "author": "tohms",
       "tags": [],
@@ -1693,8 +1737,8 @@
       "source": "hn",
       "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
       "url": "https://mouseless.click",
-      "score": 322,
-      "comments": 158,
+      "score": 354,
+      "comments": 164,
       "author": "riddley",
       "tags": [],
       "date": "2026-06-03T13:22:06+00:00"
@@ -1854,8 +1898,8 @@
       "source": "hn",
       "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
       "url": "https://redis.io/blog/announcing-redis-8-8/",
-      "score": 177,
-      "comments": 80,
+      "score": 182,
+      "comments": 83,
       "author": "ksec",
       "tags": [],
       "date": "2026-06-03T10:05:11+00:00"
@@ -1973,8 +2017,8 @@
       "source": "hn",
       "title": "Cooldown Support for Ruby Bundler",
       "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-      "score": 113,
-      "comments": 27,
+      "score": 124,
+      "comments": 29,
       "author": "calyhre",
       "tags": [],
       "date": "2026-06-03T05:15:09+00:00"
@@ -5127,106 +5171,6 @@
       "date": "2026-05-30T22:58:41+00:00"
     },
     {
-      "id": "hn-48341377",
-      "source": "hn",
-      "title": "Building a custom mount for a telescoping webcam",
-      "url": "https://john.mercouris.online/webcam-mount.html",
-      "score": 8,
-      "comments": 2,
-      "author": "jmercouris",
-      "tags": [],
-      "date": "2026-05-30T22:54:13+00:00"
-    },
-    {
-      "id": "hn-48341285",
-      "source": "hn",
-      "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
-      "url": "https://matse.illinois.edu/news/85775",
-      "score": 46,
-      "comments": 25,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-05-30T22:38:48+00:00"
-    },
-    {
-      "id": "hn-48341062",
-      "source": "hn",
-      "title": "Shantell Sans (2023)",
-      "url": "https://shantellsans.com/process",
-      "score": 376,
-      "comments": 43,
-      "author": "aleda145",
-      "tags": [],
-      "date": "2026-05-30T22:06:38+00:00"
-    },
-    {
-      "id": "hn-48340910",
-      "source": "hn",
-      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-      "url": "https://av2.aomedia.org",
-      "score": 330,
-      "comments": 143,
-      "author": "ksec",
-      "tags": [],
-      "date": "2026-05-30T21:46:18+00:00"
-    },
-    {
-      "id": "hn-48340891",
-      "source": "hn",
-      "title": "Show HN: Phive, a Gomoku-like game to play with friends or solo",
-      "url": "https://phive.app",
-      "score": 6,
-      "comments": 5,
-      "author": "0xCA1EB",
-      "tags": [],
-      "date": "2026-05-30T21:43:00+00:00"
-    },
-    {
-      "id": "hn-48340616",
-      "source": "hn",
-      "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-      "url": "https://arxiv.org/abs/2605.29135",
-      "score": 23,
-      "comments": 4,
-      "author": "dryarzeg",
-      "tags": [],
-      "date": "2026-05-30T21:05:40+00:00"
-    },
-    {
-      "id": "hn-48340528",
-      "source": "hn",
-      "title": "Kore: Binary File Format Optimized for Modern Data Systems (Open Source)",
-      "url": "https://github.com/arunkatherashala/Kore",
-      "score": 7,
-      "comments": 5,
-      "author": "arunkore2026",
-      "tags": [],
-      "date": "2026-05-30T20:54:22+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48340448",
-      "source": "hn",
-      "title": "Design Engineering Magazine",
-      "url": "https://interfaces.dev/",
-      "score": 73,
-      "comments": 6,
-      "author": "hnhsh",
-      "tags": [],
-      "date": "2026-05-30T20:46:54+00:00"
-    },
-    {
-      "id": "hn-48340422",
-      "source": "hn",
-      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
-      "url": "https://github.com/wolfSSL/wolfCOSE",
-      "score": 93,
-      "comments": 24,
-      "author": "aidangarske",
-      "tags": [],
-      "date": "2026-05-30T20:42:28+00:00"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5571,7 +5515,7 @@
       "id": "zenn-f99401b35a",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "C++23入門 基本編",
+      "title": "Lucid C++ C++の輪郭 C++23入門 基本編",
       "url": "https://zenn.dev/yaito3014/books/introduction-to-cpp23-basic",
       "score": null,
       "author": "yaito3014",
@@ -5837,6 +5781,81 @@
       "source": "msf",
       "title": "[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion",
       "url": "https://www.exploit-db.com/exploits/52598",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-0b1081a580",
+      "source": "msf",
+      "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52597",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-7fd71d4802",
+      "source": "msf",
+      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52596",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e827c93897",
+      "source": "msf",
+      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
+      "url": "https://www.exploit-db.com/exploits/52595",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e7ed248f76",
+      "source": "msf",
+      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
+      "url": "https://www.exploit-db.com/exploits/52594",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-fdf74e4c3e",
+      "source": "msf",
+      "title": "[local] ZTE ZXHN H188A V6 - Authentication Bypass",
+      "url": "https://www.exploit-db.com/exploits/52593",
       "score": null,
       "author": "Exploit-DB",
       "tags": [
