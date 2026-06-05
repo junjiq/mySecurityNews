@@ -1,8 +1,8 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T21:02:59.370907+00:00",
-  "total_articles": 65,
-  "urgent_count": 4,
+  "generated_at": "2026-06-05T21:59:53.518282+00:00",
+  "total_articles": 62,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "pg_durable: Microsoft open sources in-database durable execution",
@@ -24,19 +24,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-05T08:32:16+00:00"
-    },
-    {
-      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
-      "url": "https://www.mercek.dev/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-04T21:15:16+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 53,
       "top_items": [
         {
           "title": "Changing how we develop Ladybird",
@@ -47,25 +40,25 @@
           "date": "2026-06-05T07:26:33+00:00"
         },
         {
-          "title": "Tracing a powerful GNSS interference source over Europe",
-          "url": "https://arxiv.org/abs/2606.03673",
-          "score": 330,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-05T08:32:16+00:00"
-        },
-        {
           "title": "C++: The Documentary",
           "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-          "score": 322,
+          "score": 348,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T04:37:01+00:00"
         },
         {
+          "title": "Tracing a powerful GNSS interference source over Europe",
+          "url": "https://arxiv.org/abs/2606.03673",
+          "score": 338,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-06-05T08:32:16+00:00"
+        },
+        {
           "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
           "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-          "score": 306,
+          "score": 316,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T15:00:31+00:00"
@@ -82,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
         {
           "title": "Microsoft 365 Copilot の ROI、どう考える？",
