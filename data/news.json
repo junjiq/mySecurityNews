@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-06-05T17:17:05.696086+00:00",
+  "updated_at": "2026-06-05T18:09:13.738768+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48415633",
+      "source": "hn",
+      "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
+      "url": "https://sakana.ai/rsi-lab/",
+      "score": 3,
+      "comments": 0,
+      "author": "hardmaru",
+      "tags": [],
+      "date": "2026-06-05T17:27:39+00:00"
+    },
+    {
+      "id": "hn-48415283",
+      "source": "hn",
+      "title": "Fake Money Built America",
+      "url": "https://mail.blockworks.com/p/how-fake-money-built-america",
+      "score": 18,
+      "comments": 8,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-06-05T17:00:28+00:00"
+    },
+    {
+      "id": "hn-48415279",
+      "source": "hn",
+      "title": "Adyen Selected as Payment Services Provider for GOV.UK Pay",
+      "url": "https://www.adyen.com/press-and-media/adyen-payments-gov-uk",
+      "score": 26,
+      "comments": 2,
+      "author": "ChrisArchitect",
+      "tags": [],
+      "date": "2026-06-05T17:00:06+00:00"
+    },
     {
       "id": "hn-48415217",
       "source": "hn",
       "title": "Gov.uk goes Dutch on payments as it dumps Stripe",
       "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 14,
-      "comments": 1,
+      "score": 57,
+      "comments": 11,
       "author": "toomuchtodo",
       "tags": [],
       "date": "2026-06-05T16:55:30+00:00"
@@ -18,8 +51,8 @@
       "source": "hn",
       "title": "Mantine-datatable (and others) compromised – owner account suspended",
       "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
-      "score": 9,
-      "comments": 0,
+      "score": 26,
+      "comments": 5,
       "author": "justsomehuman",
       "tags": [],
       "date": "2026-06-05T16:39:57+00:00"
@@ -29,8 +62,8 @@
       "source": "hn",
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 10,
-      "comments": 2,
+      "score": 64,
+      "comments": 14,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-06-05T16:18:48+00:00"
@@ -51,8 +84,8 @@
       "source": "hn",
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "url": "https://github.com/microsoft/pg_durable",
-      "score": 93,
-      "comments": 19,
+      "score": 130,
+      "comments": 33,
       "author": "coffeemug",
       "tags": [],
       "date": "2026-06-05T15:59:57+00:00",
@@ -61,10 +94,10 @@
     {
       "id": "hn-48414027",
       "source": "hn",
-      "title": "Stop Using Conventional Commits",
+      "title": "Conventional Commits encourages focus on the wrong things",
       "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "score": 109,
-      "comments": 78,
+      "score": 129,
+      "comments": 107,
       "author": "jsve",
       "tags": [],
       "date": "2026-06-05T15:39:38+00:00"
@@ -85,8 +118,8 @@
       "source": "hn",
       "title": "New method turns ocean water into drinking water, without waste",
       "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 9,
-      "comments": 1,
+      "score": 38,
+      "comments": 20,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-05T15:04:03+00:00"
@@ -96,8 +129,8 @@
       "source": "hn",
       "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 180,
-      "comments": 115,
+      "score": 213,
+      "comments": 141,
       "author": "janpot",
       "tags": [],
       "date": "2026-06-05T15:00:31+00:00"
@@ -107,8 +140,8 @@
       "source": "hn",
       "title": "Dutch gov't will only allow European company to operate DigiD platform",
       "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
-      "score": 106,
-      "comments": 37,
+      "score": 142,
+      "comments": 50,
       "author": "TechTechTech",
       "tags": [],
       "date": "2026-06-05T14:48:44+00:00"
@@ -118,8 +151,8 @@
       "source": "hn",
       "title": "I tested every IP KVM in my Homelab",
       "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-      "score": 88,
-      "comments": 20,
+      "score": 124,
+      "comments": 39,
       "author": "vquemener",
       "tags": [],
       "date": "2026-06-05T14:30:50+00:00"
@@ -149,6 +182,17 @@
         "Qiita"
       ],
       "date": "2026-06-05T22:40:20+09:00"
+    },
+    {
+      "id": "hn-48411635",
+      "source": "hn",
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "score": 63,
+      "comments": 62,
+      "author": "logicprog",
+      "tags": [],
+      "date": "2026-06-05T12:43:33+00:00"
     },
     {
       "id": "hn-48411510",
@@ -222,8 +266,8 @@
       "source": "hn",
       "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
       "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "score": 126,
-      "comments": 118,
+      "score": 129,
+      "comments": 129,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-06-05T08:33:37+00:00"
@@ -233,8 +277,8 @@
       "source": "hn",
       "title": "Tracing a powerful GNSS interference source over Europe",
       "url": "https://arxiv.org/abs/2606.03673",
-      "score": 289,
-      "comments": 134,
+      "score": 304,
+      "comments": 148,
       "author": "mimorigasaka",
       "tags": [],
       "date": "2026-06-05T08:32:16+00:00",
@@ -256,8 +300,8 @@
       "source": "hn",
       "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
       "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "score": 132,
-      "comments": 40,
+      "score": 149,
+      "comments": 44,
       "author": "geotp",
       "tags": [],
       "date": "2026-06-05T07:40:04+00:00"
@@ -267,8 +311,8 @@
       "source": "hn",
       "title": "Changing how we develop Ladybird",
       "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 704,
-      "comments": 462,
+      "score": 719,
+      "comments": 474,
       "author": "EdwinHoksberg",
       "tags": [],
       "date": "2026-06-05T07:26:33+00:00"
@@ -370,8 +414,8 @@
       "source": "hn",
       "title": "C++: The Documentary",
       "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "score": 299,
-      "comments": 213,
+      "score": 315,
+      "comments": 228,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-05T04:37:01+00:00"
@@ -1594,8 +1638,8 @@
       "source": "hn",
       "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
       "url": "https://mouseless.click",
-      "score": 279,
-      "comments": 140,
+      "score": 299,
+      "comments": 147,
       "author": "riddley",
       "tags": [],
       "date": "2026-06-03T13:22:06+00:00"
@@ -1755,8 +1799,8 @@
       "source": "hn",
       "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
       "url": "https://redis.io/blog/announcing-redis-8-8/",
-      "score": 152,
-      "comments": 70,
+      "score": 165,
+      "comments": 78,
       "author": "ksec",
       "tags": [],
       "date": "2026-06-03T10:05:11+00:00"
@@ -1874,8 +1918,8 @@
       "source": "hn",
       "title": "Cooldown Support for Ruby Bundler",
       "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-      "score": 91,
-      "comments": 17,
+      "score": 104,
+      "comments": 20,
       "author": "calyhre",
       "tags": [],
       "date": "2026-06-03T05:15:09+00:00"
@@ -5126,50 +5170,6 @@
       "author": "aidangarske",
       "tags": [],
       "date": "2026-05-30T20:42:28+00:00"
-    },
-    {
-      "id": "hn-48340411",
-      "source": "hn",
-      "title": "Domain expertise has always been the real moat",
-      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 767,
-      "comments": 480,
-      "author": "aaronbrethorst",
-      "tags": [],
-      "date": "2026-05-30T20:40:57+00:00"
-    },
-    {
-      "id": "hn-48340315",
-      "source": "hn",
-      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
-      "url": "https://github.com/marekkowalczyk/breathe-cli",
-      "score": 86,
-      "comments": 11,
-      "author": "marekkowalczyk",
-      "tags": [],
-      "date": "2026-05-30T20:30:53+00:00"
-    },
-    {
-      "id": "hn-48340262",
-      "source": "hn",
-      "title": "Dusklight – GC Twilight Princess Decompiled",
-      "url": "https://twilitrealm.dev/",
-      "score": 79,
-      "comments": 11,
-      "author": "shepherdjerred",
-      "tags": [],
-      "date": "2026-05-30T20:24:26+00:00"
-    },
-    {
-      "id": "hn-48340107",
-      "source": "hn",
-      "title": "A disappearing Service Processor (2025)",
-      "url": "https://oxide.computer/blog/cosmo-sp",
-      "score": 6,
-      "comments": 0,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-05-30T20:05:21+00:00"
     },
     {
       "id": "ctf-3761714",
