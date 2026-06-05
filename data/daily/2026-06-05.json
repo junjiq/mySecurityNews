@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T06:37:08.584690+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-06-05T08:23:00.867572+00:00",
+  "total_articles": 67,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 51,
       "top_items": [
         {
           "title": "VoidZero Is Joining Cloudflare",
           "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-          "score": 616,
+          "score": 630,
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T13:00:51+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
           "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-          "score": 420,
+          "score": 444,
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T16:20:17+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
           "url": "https://github.com/anthropics/defending-code-reference-harness",
-          "score": 365,
+          "score": 402,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-04T20:11:20+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 16,
       "top_items": [
+        {
+          "title": "AI時代、“ITを知らない”が普通に危険になってきた話",
+          "url": "https://qiita.com/prum_hitomi/items/01defe8188de2123b25c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-05T13:37:41+09:00"
+        },
         {
           "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #1",
           "url": "https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,36 +87,28 @@
           "date": "2026-06-05T13:37:15+09:00"
         },
         {
-          "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた",
-          "url": "https://qiita.com/shinkai_/items/61b10d10c63db47a64e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Codex の Remote Connections で OCI Compute インスタンスを活用！",
+          "url": "https://qiita.com/kanakani/items/0ebb2720c3a91dc74767?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-05T08:03:57+09:00"
+          "date": "2026-06-05T11:19:55+09:00"
         },
         {
-          "title": "PythonをRustに「bit-exact」でトランスパイルする「SlimePython」がヤバいII",
-          "url": "https://qiita.com/xyzzysasaki/items/fe8371a30b66c422c3c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "非エンジニアでもAIで小さなシステム修正はできる。Claude Code・Cursor時代の依頼術",
+          "url": "https://qiita.com/yamadagenki/items/bc59607d940a9e87c189?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-05T04:14:25+09:00"
+          "date": "2026-06-05T09:50:46+09:00"
         },
         {
-          "title": "俺的 Book of News キーノート編: Microsoft Build 2026 は『Agent を動かす層』が全部そろった回だった",
-          "url": "https://qiita.com/aktsmm/items/4cc75c8bf629edfd0413?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
+          "url": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-05T00:58:55+09:00"
-        },
-        {
-          "title": "利権はなぜ生まれるのか？ ― 競争・統制・財源幻想を超えて考える“供給能力” : Pythonで学ぶ マクロ経済学入門 (87)",
-          "url": "https://qiita.com/maskot1977/items/ece21303a62f2664bcca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-05T00:00:28+09:00"
+          "date": "2026-06-05T09:31:26+09:00"
         }
       ]
     }
