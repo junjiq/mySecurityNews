@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T01:46:02.120474+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-06-05T03:10:00.535465+00:00",
+  "total_articles": 49,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 38,
       "top_items": [
         {
           "title": "VoidZero Is Joining Cloudflare",
           "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-          "score": 570,
+          "score": 583,
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T13:00:51+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Ian's Secure Shoelace Knot",
           "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-          "score": 506,
+          "score": 520,
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T11:17:34+00:00"
@@ -49,26 +49,26 @@
           "date": "2026-06-04T11:39:28+00:00"
         },
         {
+          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+          "score": 351,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-04T16:20:17+00:00"
+        },
+        {
           "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
           "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
           "score": 335,
           "source": "hn",
           "severity": null,
           "date": "2026-06-04T08:45:36+00:00"
-        },
-        {
-          "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-          "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-          "score": 329,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-04T16:20:17+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 11,
       "top_items": [
         {
           "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた",
