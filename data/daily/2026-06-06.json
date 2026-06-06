@@ -1,9 +1,16 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T19:33:34.596408+00:00",
-  "total_articles": 37,
-  "urgent_count": 1,
+  "generated_at": "2026-06-06T20:26:46.462328+00:00",
+  "total_articles": 43,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-06T19:17:46+00:00"
+    },
     {
       "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
       "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
@@ -20,7 +27,7 @@
         {
           "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
           "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-          "score": 1194,
+          "score": 1230,
           "source": "hn",
           "severity": null,
           "date": "2026-06-06T04:38:36+00:00"
@@ -36,7 +43,7 @@
         {
           "title": "Google will pay SpaceX $920M per month for compute",
           "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-          "score": 298,
+          "score": 336,
           "source": "hn",
           "severity": null,
           "date": "2026-06-06T11:46:15+00:00"
@@ -44,24 +51,24 @@
         {
           "title": "The intracies of modern camera lens repair (2024)",
           "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-          "score": 226,
+          "score": 228,
           "source": "hn",
           "severity": null,
           "date": "2026-06-06T00:33:26+00:00"
         },
         {
-          "title": "Moving beyond fork() + exec()",
-          "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-          "score": 189,
+          "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+          "url": "https://pokeemerald.com/",
+          "score": 201,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-06T14:34:20+00:00"
+          "date": "2026-06-06T11:12:58+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 9,
       "top_items": [
         {
           "title": "【React】フォームにonChangeもvalueも不要！全てuseActionStateで解決する",
@@ -72,6 +79,22 @@
           "date": "2026-06-06T22:16:32+09:00"
         },
         {
+          "title": "【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する",
+          "url": "https://qiita.com/ktdatascience/items/4b35eb4e157becfac073?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-06T19:05:05+09:00"
+        },
+        {
+          "title": "Ollama + Hermes Agent環境構築をめざして、まずはセキュリティのためDockerでHermes Agentを動かすようにした",
+          "url": "https://qiita.com/self-learner/items/fbf593e4c48945ae2964?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-06T16:58:31+09:00"
+        },
+        {
           "title": "Codex + Oracle DB SkillsでOracle Databaseの実行計画レビューをしてみてみた",
           "url": "https://qiita.com/shirok/items/45e2c49630fd002cf493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -80,12 +103,12 @@
           "date": "2026-06-06T14:25:48+09:00"
         },
         {
-          "title": "「AIエージェントは作る人の話」と思っていたインフラ屋が、この本(Amazon Bedrock AgentCore 実践入門)を読んだら",
-          "url": "https://qiita.com/asahide/items/1e7966040e74476b0bba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "自己紹介",
+          "url": "https://qiita.com/weedy_seadragon/items/b667904b6ca1292a7136?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-06T07:48:34+09:00"
+          "date": "2026-06-06T12:35:52+09:00"
         }
       ]
     }
