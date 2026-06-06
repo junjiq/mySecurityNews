@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T08:55:09.179761+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-06-06T09:42:40.924843+00:00",
+  "total_articles": 50,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,20 +22,28 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 39,
+      "count": 41,
       "top_items": [
         {
           "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
           "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-          "score": 434,
+          "score": 446,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T16:55:30+00:00"
         },
         {
+          "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+          "score": 427,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-06T04:38:36+00:00"
+        },
+        {
           "title": "Did Claude increase bugs in rsync?",
           "url": "https://alexispurslane.github.io/rsync-analysis/",
-          "score": 402,
+          "score": 410,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T12:43:33+00:00"
@@ -43,7 +51,7 @@
         {
           "title": "pg_durable: Microsoft open sources in-database durable execution",
           "url": "https://github.com/microsoft/pg_durable",
-          "score": 391,
+          "score": 395,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-05T15:59:57+00:00"
@@ -51,18 +59,10 @@
         {
           "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
           "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-          "score": 390,
+          "score": 394,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T15:00:31+00:00"
-        },
-        {
-          "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-          "score": 363,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-06T04:38:36+00:00"
         }
       ]
     },
