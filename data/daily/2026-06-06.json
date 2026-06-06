@@ -1,8 +1,8 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T10:39:47.281486+00:00",
-  "total_articles": 49,
-  "urgent_count": 2,
+  "generated_at": "2026-06-06T11:32:21.531652+00:00",
+  "total_articles": 46,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "pg_durable: Microsoft open sources in-database durable execution",
@@ -10,24 +10,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-05T15:59:57+00:00"
-    },
-    {
-      "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-05T10:44:48+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 40,
       "top_items": [
         {
           "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
           "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-          "score": 510,
+          "score": 573,
           "source": "hn",
           "severity": null,
           "date": "2026-06-06T04:38:36+00:00"
@@ -35,7 +28,7 @@
         {
           "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
           "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-          "score": 460,
+          "score": 471,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T16:55:30+00:00"
@@ -43,7 +36,7 @@
         {
           "title": "Did Claude increase bugs in rsync?",
           "url": "https://alexispurslane.github.io/rsync-analysis/",
-          "score": 419,
+          "score": 433,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T12:43:33+00:00"
@@ -51,7 +44,7 @@
         {
           "title": "pg_durable: Microsoft open sources in-database durable execution",
           "url": "https://github.com/microsoft/pg_durable",
-          "score": 406,
+          "score": 408,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-05T15:59:57+00:00"
@@ -59,7 +52,7 @@
         {
           "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
           "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-          "score": 399,
+          "score": 402,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T15:00:31+00:00"
@@ -68,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 6,
       "top_items": [
         {
           "title": "【React】フォームにonChangeもvalueも不要！全てuseActionStateで解決する",
@@ -76,7 +69,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-06T18:12:11+09:00"
+          "date": "2026-06-06T19:48:41+09:00"
         },
         {
           "title": "Codex + Oracle DB SkillsでOracle Databaseの実行計画レビューをしてみてみた",
