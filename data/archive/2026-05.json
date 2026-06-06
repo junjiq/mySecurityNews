@@ -1,14 +1,14 @@
 {
   "month": "2026-05",
-  "generated_at": "2026-06-06T14:33:35.461400+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-06-06T15:29:07.249730+00:00",
+  "total_articles": 26,
   "source_counts": {
-    "hn": 20,
+    "hn": 16,
     "project": 8,
     "zennqiita": 2
   },
   "severity_counts": {
-    "medium": 2
+    "medium": 1
   },
   "top_articles": [
     {
@@ -75,25 +75,11 @@
       "date": "2026-05-31T20:41:10+00:00"
     },
     {
-      "title": "Words of Type",
-      "url": "https://wiki.wordsoftype.com/",
-      "score": 88,
-      "source": "hn",
-      "date": "2026-05-31T18:28:45+00:00"
-    },
-    {
       "title": "Patching my guitar amp's firmware",
       "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
       "score": 71,
       "source": "hn",
       "date": "2026-05-31T20:26:43+00:00"
-    },
-    {
-      "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
-      "url": "https://lwn.net/Articles/104185/",
-      "score": 70,
-      "source": "hn",
-      "date": "2026-05-31T17:58:15+00:00"
     },
     {
       "title": "New solar desalination breakthrough makes fresh water without toxic brine",
@@ -103,18 +89,11 @@
       "date": "2026-05-31T20:38:52+00:00"
     },
     {
-      "title": "CP/M-86 & MS-DOS Cross Development Environment",
-      "url": "https://github.com/tsupplis/cpm86-crossdev",
-      "score": 36,
+      "title": "Building Rust Procedural Macros from the Grounds Up",
+      "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+      "score": 28,
       "source": "hn",
-      "date": "2026-05-31T18:05:37+00:00"
-    },
-    {
-      "title": "Writing Portable ARM64 Assembly (2023)",
-      "url": "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html",
-      "score": 36,
-      "source": "hn",
-      "date": "2026-05-31T17:59:39+00:00"
+      "date": "2026-05-31T19:28:49+00:00"
     },
     {
       "title": "Steam Deck sells out in North America within 24 hours of price hike",
@@ -131,13 +110,6 @@
       "date": "2026-05-31T19:14:23+00:00"
     },
     {
-      "title": "Building Rust Procedural Macros from the Grounds Up",
-      "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
-      "score": 17,
-      "source": "hn",
-      "date": "2026-05-31T19:28:49+00:00"
-    },
-    {
       "title": "Review of the MoErgo Glove80 Keyboard (2024)",
       "url": "https://arslan.io/2024/04/22/review-of-the-moergo-glove80-keyboard/",
       "score": 12,
@@ -150,6 +122,13 @@
       "score": 7,
       "source": "hn",
       "date": "2026-05-31T21:38:38+00:00"
+    },
+    {
+      "title": "HackTheBox: MonitorsFour - Full Walkthrough",
+      "url": "https://dev.to/exploitnotes/htb-monitorsfour-full-walkthrough-445k",
+      "score": 1,
+      "source": "project",
+      "date": "2026-05-27T04:54:03Z"
     }
   ],
   "security_highlights": []
