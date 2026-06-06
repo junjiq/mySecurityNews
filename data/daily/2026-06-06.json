@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T13:36:44.387584+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-06-06T14:33:35.417350+00:00",
+  "total_articles": 47,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -20,7 +20,7 @@
         {
           "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
           "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-          "score": 765,
+          "score": 869,
           "source": "hn",
           "severity": null,
           "date": "2026-06-06T04:38:36+00:00"
@@ -28,26 +28,26 @@
         {
           "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
           "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-          "score": 490,
+          "score": 516,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T16:55:30+00:00"
         },
         {
-          "title": "pg_durable: Microsoft open sources in-database durable execution",
-          "url": "https://github.com/microsoft/pg_durable",
-          "score": 423,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-05T15:59:57+00:00"
-        },
-        {
           "title": "New method turns ocean water into drinking water, without waste",
           "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-          "score": 423,
+          "score": 437,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T15:04:03+00:00"
+        },
+        {
+          "title": "pg_durable: Microsoft open sources in-database durable execution",
+          "url": "https://github.com/microsoft/pg_durable",
+          "score": 428,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-06-05T15:59:57+00:00"
         },
         {
           "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 4,
       "top_items": [
         {
           "title": "【React】フォームにonChangeもvalueも不要！全てuseActionStateで解決する",
@@ -94,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-06T01:35:47+09:00"
-        },
-        {
-          "title": "Microsoft 365 Copilot の ROI、どう考える？",
-          "url": "https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-05T22:47:32+09:00"
         }
       ]
     }
