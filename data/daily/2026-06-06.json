@@ -1,26 +1,18 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T15:57:58.687284+00:00",
-  "total_articles": 45,
-  "urgent_count": 1,
-  "urgent_items": [
-    {
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-05T15:59:57+00:00"
-    }
-  ],
+  "generated_at": "2026-06-06T16:33:40.072140+00:00",
+  "total_articles": 44,
+  "urgent_count": 0,
+  "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 40,
       "top_items": [
         {
           "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
           "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-          "score": 991,
+          "score": 1028,
           "source": "hn",
           "severity": null,
           "date": "2026-06-06T04:38:36+00:00"
@@ -34,14 +26,6 @@
           "date": "2026-06-05T16:55:30+00:00"
         },
         {
-          "title": "pg_durable: Microsoft open sources in-database durable execution",
-          "url": "https://github.com/microsoft/pg_durable",
-          "score": 439,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-05T15:59:57+00:00"
-        },
-        {
           "title": "GrapheneOS user reported to authorities for using GrapheneOS",
           "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
           "score": 381,
@@ -50,12 +34,20 @@
           "date": "2026-06-06T08:43:59+00:00"
         },
         {
-          "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-          "score": 376,
+          "title": "Three of our worst VC stories",
+          "url": "https://twitter.com/eastdakota/status/2062860530360959273",
+          "score": 215,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-05T16:18:48+00:00"
+          "date": "2026-06-05T19:08:12+00:00"
+        },
+        {
+          "title": "The intracies of modern camera lens repair (2024)",
+          "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+          "score": 214,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-06T00:33:26+00:00"
         }
       ]
     },
