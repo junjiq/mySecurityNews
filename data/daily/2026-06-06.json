@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T04:47:50.770580+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-06-06T06:12:41.166616+00:00",
+  "total_articles": 51,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
         {
           "title": "Changing how we develop Ladybird",
@@ -42,7 +42,7 @@
         {
           "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
           "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-          "score": 386,
+          "score": 402,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T16:55:30+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
           "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-          "score": 371,
+          "score": 376,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T15:00:31+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "pg_durable: Microsoft open sources in-database durable execution",
           "url": "https://github.com/microsoft/pg_durable",
-          "score": 360,
+          "score": 375,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-05T15:59:57+00:00"
@@ -77,6 +77,14 @@
       "category": "日本語技術記事",
       "count": 5,
       "top_items": [
+        {
+          "title": "Codex + Oracle DB SkillsでOracle Databaseの実行計画レビューをしてみてみた",
+          "url": "https://qiita.com/shirok/items/45e2c49630fd002cf493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-06T14:25:48+09:00"
+        },
         {
           "title": "Microsoft 365 Copilot の ROI、どう考える？",
           "url": "https://qiita.com/Takashi_Masumori/items/70030a76b2b634f1166a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-05T17:04:48+09:00"
-        },
-        {
-          "title": "電力の海へ (入社エントリー)",
-          "url": "https://qiita.com/SC-irisawa/items/16b266fad10688a719cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-05T15:11:00+09:00"
         }
       ]
     }
