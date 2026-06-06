@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T06:12:41.166616+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-06-06T07:31:45.526692+00:00",
+  "total_articles": 48,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,47 +29,47 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 43,
       "top_items": [
-        {
-          "title": "Changing how we develop Ladybird",
-          "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-          "score": 719,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-05T07:26:33+00:00"
-        },
         {
           "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
           "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-          "score": 402,
+          "score": 414,
           "source": "hn",
           "severity": null,
           "date": "2026-06-05T16:55:30+00:00"
         },
         {
+          "title": "Did Claude increase bugs in rsync?",
+          "url": "https://alexispurslane.github.io/rsync-analysis/",
+          "score": 386,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-05T12:43:33+00:00"
+        },
+        {
           "title": "Tracing a powerful GNSS interference source over Europe",
           "url": "https://arxiv.org/abs/2606.03673",
-          "score": 377,
+          "score": 386,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-05T08:32:16+00:00"
         },
         {
-          "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-          "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-          "score": 376,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-05T15:00:31+00:00"
-        },
-        {
           "title": "pg_durable: Microsoft open sources in-database durable execution",
           "url": "https://github.com/microsoft/pg_durable",
-          "score": 375,
+          "score": 380,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-05T15:59:57+00:00"
+        },
+        {
+          "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+          "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+          "score": 378,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-05T15:00:31+00:00"
         }
       ]
     },
