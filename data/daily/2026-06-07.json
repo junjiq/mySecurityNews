@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T10:46:33.922474+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-06-07T11:34:54.955637+00:00",
+  "total_articles": 47,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 40,
       "top_items": [
         {
           "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
           "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-          "score": 605,
+          "score": 613,
           "source": "hn",
           "severity": null,
           "date": "2026-06-06T18:35:27+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
           "url": "https://ntsc.rs/",
-          "score": 350,
+          "score": 354,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-06T19:17:46+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "Moving beyond fork() + exec()",
           "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-          "score": 303,
+          "score": 311,
           "source": "hn",
           "severity": null,
           "date": "2026-06-06T14:34:20+00:00"
@@ -75,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
+        {
+          "title": "【React】フォームにonChangeもvalueも不要！全てuseActionStateで解決する",
+          "url": "https://qiita.com/BRSF/items/206c141f06cd94b724c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-07T20:12:29+09:00"
+        },
         {
           "title": "新卒2年目・独学のCISSP合格体験記（2026年6月）",
           "url": "https://qiita.com/Bibirina_hiyoko/items/c45179bcc35feda0041f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-07T09:07:19+09:00"
-        },
-        {
-          "title": "【React】フォームにonChangeもvalueも不要！全てuseActionStateで解決する",
-          "url": "https://qiita.com/BRSF/items/206c141f06cd94b724c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-07T08:59:18+09:00"
         }
       ]
     }
