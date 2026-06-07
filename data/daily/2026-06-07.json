@@ -1,8 +1,8 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T18:57:56.854380+00:00",
-  "total_articles": 50,
-  "urgent_count": 3,
+  "generated_at": "2026-06-07T19:37:27.120184+00:00",
+  "total_articles": 53,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Proliferate (YC S25) is hiring to building open source Codex",
@@ -17,19 +17,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-07T04:57:02+00:00"
-    },
-    {
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "url": "https://ntsc.rs/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-06T19:17:46+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 46,
       "top_items": [
         {
           "title": "LLMs are eroding my software engineering career and I don't know what to do",
@@ -40,17 +33,9 @@
           "date": "2026-06-07T12:49:29+00:00"
         },
         {
-          "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-          "url": "https://ntsc.rs/",
-          "score": 389,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-06T19:17:46+00:00"
-        },
-        {
           "title": "Anthropic, please ship an official Claude Desktop for Linux",
           "url": "https://github.com/anthropics/claude-code/issues/65697",
-          "score": 325,
+          "score": 349,
           "source": "hn",
           "severity": null,
           "date": "2026-06-07T13:06:52+00:00"
@@ -58,7 +43,7 @@
         {
           "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
           "url": "https://www.ioccc.org/2025/",
-          "score": 323,
+          "score": 327,
           "source": "hn",
           "severity": null,
           "date": "2026-06-07T05:47:54+00:00"
@@ -70,6 +55,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-07T03:21:52+00:00"
+        },
+        {
+          "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+          "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+          "score": 228,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-07T10:10:33+00:00"
         }
       ]
     },
