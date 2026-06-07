@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-07T06:51:40.030800+00:00",
+  "generated_at": "2026-06-07T08:12:14.895656+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99
+    "hn": 353,
+    "zennqiita": 97
   },
   "severity_counts": {
     "critical": 14,
     "medium": 5,
-    "high": 3
+    "high": 2
   },
   "top_articles": [
     {
@@ -132,18 +132,18 @@
       "date": "2026-06-03T12:25:14+00:00"
     },
     {
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "score": 561,
+      "source": "hn",
+      "date": "2026-06-06T18:35:27+00:00"
+    },
+    {
       "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
       "url": "https://mouseless.click",
       "score": 560,
       "source": "hn",
       "date": "2026-06-03T13:22:06+00:00"
-    },
-    {
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "score": 543,
-      "source": "hn",
-      "date": "2026-06-06T18:35:27+00:00"
     },
     {
       "title": "Ian's Secure Shoelace Knot",
@@ -265,13 +265,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-01T16:31:42+00:00"
-    },
-    {
-      "title": "【脆弱性】脆弱性が発見されてから攻撃されるまでの平均時間が5年前の1/188になってる",
-      "url": "https://qiita.com/rana_kualu/items/d9254d21aab9bbd25a6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-06-01T20:09:12+09:00"
     }
   ]
 }
