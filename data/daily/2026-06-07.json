@@ -1,8 +1,8 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T17:30:57.825913+00:00",
-  "total_articles": 48,
-  "urgent_count": 4,
+  "generated_at": "2026-06-07T18:28:57.316723+00:00",
+  "total_articles": 47,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Proliferate (YC S25) is hiring to building open source Codex",
@@ -24,20 +24,21 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-06T19:17:46+00:00"
-    },
-    {
-      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-06T18:21:06+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 40,
       "top_items": [
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "score": 628,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-07T12:49:29+00:00"
+        },
         {
           "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
           "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
@@ -45,22 +46,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-06T18:35:27+00:00"
-        },
-        {
-          "title": "LLMs are eroding my software engineering career and I don't know what to do",
-          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-          "score": 557,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-07T12:49:29+00:00"
-        },
-        {
-          "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-          "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-          "score": 407,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-06T18:21:06+00:00"
         },
         {
           "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
@@ -73,10 +58,18 @@
         {
           "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
           "url": "https://www.ioccc.org/2025/",
-          "score": 303,
+          "score": 316,
           "source": "hn",
           "severity": null,
           "date": "2026-06-07T05:47:54+00:00"
+        },
+        {
+          "title": "Anthropic, please ship an official Claude Desktop for Linux",
+          "url": "https://github.com/anthropics/claude-code/issues/65697",
+          "score": 292,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-07T13:06:52+00:00"
         }
       ]
     },
