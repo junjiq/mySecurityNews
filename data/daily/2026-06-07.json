@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T03:09:39.874469+00:00",
-  "total_articles": 44,
+  "generated_at": "2026-06-07T05:03:01.619227+00:00",
+  "total_articles": 46,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,20 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 39,
+      "count": 41,
       "top_items": [
-        {
-          "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-          "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-          "score": 1356,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-06T04:38:36+00:00"
-        },
         {
           "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
           "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-          "score": 458,
+          "score": 501,
           "source": "hn",
           "severity": null,
           "date": "2026-06-06T18:35:27+00:00"
@@ -63,6 +55,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-06T08:43:59+00:00"
+        },
+        {
+          "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+          "url": "https://ntsc.rs/",
+          "score": 303,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-06-06T19:17:46+00:00"
         }
       ]
     },
@@ -70,6 +70,14 @@
       "category": "日本語技術記事",
       "count": 5,
       "top_items": [
+        {
+          "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた",
+          "url": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-07T13:38:08+09:00"
+        },
         {
           "title": "【React】フォームにonChangeもvalueも不要！全てuseActionStateで解決する",
           "url": "https://qiita.com/BRSF/items/206c141f06cd94b724c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-06T14:25:48+09:00"
-        },
-        {
-          "title": "自己紹介",
-          "url": "https://qiita.com/weedy_seadragon/items/b667904b6ca1292a7136?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-06T12:35:52+09:00"
         }
       ]
     }
