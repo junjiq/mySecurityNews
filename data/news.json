@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-06-07T12:35:04.875427+00:00",
+  "updated_at": "2026-06-07T13:34:26.726482+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48434436",
+      "source": "hn",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "score": 19,
+      "comments": 8,
+      "author": "predkambrij",
+      "tags": [],
+      "date": "2026-06-07T13:06:52+00:00"
+    },
+    {
+      "id": "hn-48434342",
+      "source": "hn",
+      "title": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
+      "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
+      "score": 8,
+      "comments": 3,
+      "author": "gctwnl",
+      "tags": [],
+      "date": "2026-06-07T12:54:54+00:00"
+    },
+    {
+      "id": "hn-48434312",
+      "source": "hn",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "score": 134,
+      "comments": 72,
+      "author": "poisonfountain",
+      "tags": [],
+      "date": "2026-06-07T12:49:29+00:00"
+    },
     {
       "id": "hn-48433987",
       "source": "hn",
@@ -81,8 +114,8 @@
       "source": "hn",
       "title": "Scientists ejected from diabetes conference for distributing journal reprints",
       "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-      "score": 144,
-      "comments": 56,
+      "score": 192,
+      "comments": 107,
       "author": "BerislavLopac",
       "tags": [],
       "date": "2026-06-07T10:10:33+00:00"
@@ -92,19 +125,30 @@
       "source": "hn",
       "title": "Efficient and Training-Free Single-Image Diffusion Models",
       "url": "https://arxiv.org/abs/2606.04299",
-      "score": 11,
+      "score": 17,
       "comments": 0,
       "author": "yorwba",
       "tags": [],
       "date": "2026-06-07T09:43:45+00:00"
     },
     {
+      "id": "hn-48432722",
+      "source": "hn",
+      "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+      "url": "https://kyushu.dev/",
+      "score": 8,
+      "comments": 10,
+      "author": "le_chuck",
+      "tags": [],
+      "date": "2026-06-07T07:35:02+00:00"
+    },
+    {
       "id": "hn-48432199",
       "source": "hn",
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
       "url": "https://www.ioccc.org/2025/",
-      "score": 233,
-      "comments": 55,
+      "score": 248,
+      "comments": 58,
       "author": "matt_d",
       "tags": [],
       "date": "2026-06-07T05:47:54+00:00"
@@ -150,8 +194,8 @@
       "source": "hn",
       "title": "Valve P2P networking broken for more than 2 months",
       "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "score": 203,
-      "comments": 89,
+      "score": 210,
+      "comments": 96,
       "author": "babuskov",
       "tags": [],
       "date": "2026-06-07T03:21:52+00:00"
@@ -161,8 +205,8 @@
       "source": "hn",
       "title": "Field of clones: How horse replicas came to dominate polo",
       "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-      "score": 106,
-      "comments": 47,
+      "score": 113,
+      "comments": 50,
       "author": "gscott",
       "tags": [],
       "date": "2026-06-07T02:46:37+00:00"
@@ -183,8 +227,8 @@
       "source": "hn",
       "title": "How Liminalism Became the Defining Aesthetic of Our Time",
       "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
-      "score": 88,
-      "comments": 48,
+      "score": 98,
+      "comments": 53,
       "author": "zeech",
       "tags": [],
       "date": "2026-06-07T02:12:19+00:00"
@@ -205,8 +249,8 @@
       "source": "hn",
       "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
       "url": "https://arxiv.org/abs/2601.14470",
-      "score": 119,
-      "comments": 51,
+      "score": 128,
+      "comments": 55,
       "author": "Anon84",
       "tags": [],
       "date": "2026-06-07T01:37:11+00:00"
@@ -238,8 +282,8 @@
       "source": "hn",
       "title": "Public Domain Image Archive",
       "url": "https://pdimagearchive.org/",
-      "score": 152,
-      "comments": 23,
+      "score": 163,
+      "comments": 24,
       "author": "davidbarker",
       "tags": [],
       "date": "2026-06-07T00:22:51+00:00"
@@ -374,8 +418,8 @@
       "source": "hn",
       "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
       "url": "https://ntsc.rs/",
-      "score": 361,
-      "comments": 101,
+      "score": 365,
+      "comments": 106,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-06-06T19:17:46+00:00",
@@ -453,8 +497,8 @@
       "source": "hn",
       "title": "Moving beyond fork() + exec()",
       "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "score": 316,
-      "comments": 300,
+      "score": 319,
+      "comments": 301,
       "author": "jwilk",
       "tags": [],
       "date": "2026-06-06T14:34:20+00:00"
@@ -960,8 +1004,8 @@
       "source": "hn",
       "title": "Harness engineering: Leveraging Codex in an agent-first world",
       "url": "https://openai.com/index/harness-engineering/",
-      "score": 227,
-      "comments": 147,
+      "score": 238,
+      "comments": 155,
       "author": "pramodbiligiri",
       "tags": [],
       "date": "2026-06-05T18:20:06+00:00"
@@ -993,8 +1037,8 @@
       "source": "hn",
       "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
       "url": "https://symbolica.io/posts/symbolica_2_0_release/",
-      "score": 97,
-      "comments": 8,
+      "score": 102,
+      "comments": 9,
       "author": "mmastrac",
       "tags": [],
       "date": "2026-06-05T17:13:59+00:00"
@@ -1267,8 +1311,8 @@
       "source": "hn",
       "title": "Win16 Memory Management",
       "url": "http://www.os2museum.com/wp/win16-memory-management/",
-      "score": 57,
-      "comments": 21,
+      "score": 70,
+      "comments": 36,
       "author": "supermatou",
       "tags": [],
       "date": "2026-06-05T11:16:47+00:00"
@@ -1774,6 +1818,17 @@
       "date": "2026-06-05T00:44:38+00:00"
     },
     {
+      "id": "hn-48406530",
+      "source": "hn",
+      "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
+      "url": "https://yon-lang.org/",
+      "score": 14,
+      "comments": 2,
+      "author": "amenn",
+      "tags": [],
+      "date": "2026-06-05T00:28:17+00:00"
+    },
+    {
       "id": "qiita-0e7f3f32ce",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1848,8 +1903,8 @@
       "source": "hn",
       "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
       "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
-      "score": 93,
-      "comments": 23,
+      "score": 99,
+      "comments": 27,
       "author": "crescit_eundo",
       "tags": [],
       "date": "2026-06-04T22:58:48+00:00"
@@ -1969,6 +2024,17 @@
       "author": "buchodi",
       "tags": [],
       "date": "2026-06-04T19:36:48+00:00"
+    },
+    {
+      "id": "hn-48403488",
+      "source": "hn",
+      "title": "How Long Does It Take for a QQuickItem to Become Visible?",
+      "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+      "score": 4,
+      "comments": 0,
+      "author": "jandeboevrie",
+      "tags": [],
+      "date": "2026-06-04T19:29:29+00:00"
     },
     {
       "id": "hn-48403377",
@@ -2204,7 +2270,7 @@
       "source": "hn",
       "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
       "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-      "score": 71,
+      "score": 87,
       "comments": 12,
       "author": "kkm",
       "tags": [],
@@ -2283,8 +2349,8 @@
       "source": "hn",
       "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
       "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
-      "score": 8,
-      "comments": 2,
+      "score": 23,
+      "comments": 3,
       "author": "ChrisGammell",
       "tags": [],
       "date": "2026-06-04T13:55:39+00:00"
@@ -2652,8 +2718,8 @@
       "source": "hn",
       "title": "Biohub releases a world model of protein biology",
       "url": "https://biohub.org/news/world-model-of-protein-biology/",
-      "score": 98,
-      "comments": 15,
+      "score": 103,
+      "comments": 16,
       "author": "gmays",
       "tags": [],
       "date": "2026-06-04T03:12:05+00:00"
@@ -2985,8 +3051,8 @@
       "source": "hn",
       "title": "My Software North Star",
       "url": "https://kristoff.it/blog/north-star/",
-      "score": 114,
-      "comments": 57,
+      "score": 128,
+      "comments": 67,
       "author": "kristoff_it",
       "tags": [],
       "date": "2026-06-03T20:16:07+00:00"
@@ -5118,72 +5184,6 @@
       "date": "2026-06-02T00:50:07+09:00"
     },
     {
-      "id": "hn-48358339",
-      "source": "hn",
-      "title": "PyTorch Custom Operation",
-      "url": "https://leimao.github.io/blog/PyTorch-Custom-Operation/",
-      "score": 19,
-      "comments": 4,
-      "author": "eigenBasis",
-      "tags": [],
-      "date": "2026-06-01T15:39:29+00:00"
-    },
-    {
-      "id": "hn-48357905",
-      "source": "hn",
-      "title": "What appear to be biochemical processes may be a natural feature of geology",
-      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "score": 246,
-      "comments": 89,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-06-01T15:11:35+00:00"
-    },
-    {
-      "id": "hn-48357655",
-      "source": "hn",
-      "title": "SaySynth: A Brief History of Speaking Machines",
-      "url": "https://brian.abelson.live/log/2025/12/20/saysynth-composition-codes.html",
-      "score": 3,
-      "comments": 0,
-      "author": "evakhoury",
-      "tags": [],
-      "date": "2026-06-01T14:56:54+00:00"
-    },
-    {
-      "id": "hn-48357355",
-      "source": "hn",
-      "title": "KDE at 30",
-      "url": "https://kde.org/anniversaries/30/",
-      "score": 32,
-      "comments": 7,
-      "author": "Kye",
-      "tags": [],
-      "date": "2026-06-01T14:31:26+00:00"
-    },
-    {
-      "id": "hn-48357154",
-      "source": "hn",
-      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "score": 471,
-      "comments": 234,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-06-01T14:16:41+00:00"
-    },
-    {
-      "id": "hn-48357075",
-      "source": "hn",
-      "title": "CS336: Language Modeling from Scratch",
-      "url": "https://cs336.stanford.edu/",
-      "score": 508,
-      "comments": 49,
-      "author": "kristianpaul",
-      "tags": [],
-      "date": "2026-06-01T14:10:32+00:00"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5407,6 +5407,33 @@
       "date": "Sat, 06 Jun 2026 21:33:00 GMT"
     },
     {
+      "id": "zenn-3fd4e9b6b3",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "結局どっち？ E2Eで私が「Chrome DevTools 中心・Playwright 限定」に落ち着いた理由",
+      "url": "https://zenn.dev/minewo/articles/playwright-vs-chrome-devtools-e2e",
+      "score": null,
+      "author": "mine_take",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 06 Jun 2026 17:04:07 GMT"
+    },
+    {
+      "id": "zenn-6f1c3ad43f",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "未経験から脆弱性診断員になるには — 私はネットワークエンジニアから来た",
+      "url": "https://zenn.dev/rudy_candy/articles/how-to-become-vulnerability-assessor",
+      "score": null,
+      "author": "rudy_candy",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 06 Jun 2026 14:31:23 GMT",
+      "severity": "high"
+    },
+    {
       "id": "zenn-79364d948d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5432,6 +5459,32 @@
         "Zenn"
       ],
       "date": "Sat, 06 Jun 2026 11:49:09 GMT"
+    },
+    {
+      "id": "zenn-548a124fa7",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "個人開発の Go × gRPC マイクロサービス群を docker compose 一発でローカル起動する",
+      "url": "https://zenn.dev/qkitzero/articles/go-grpc-multi-service-docker-compose",
+      "score": null,
+      "author": "qkitzero",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 06 Jun 2026 11:41:33 GMT"
+    },
+    {
+      "id": "zenn-8eee3579ae",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "お前のフィラーを数えろ。AmiVoice APIで日本語フィラーを消さずに数えるCLIを作ってみた",
+      "url": "https://zenn.dev/kimifan/articles/ami-voice-filler-count-tools",
+      "score": null,
+      "author": "maro114510",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 06 Jun 2026 11:38:35 GMT"
     },
     {
       "id": "zenn-93470268a1",
@@ -5460,6 +5513,19 @@
       "date": "Sat, 06 Jun 2026 10:56:59 GMT"
     },
     {
+      "id": "zenn-a1219a6e05",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ultracode でアイデア出しを安く回す — Claude Code の workflow コストを実測で約7割削る手法",
+      "url": "https://zenn.dev/marvelousu/articles/claude-dynamic-workflows-cost",
+      "score": null,
+      "author": "Tom",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 06 Jun 2026 09:47:41 GMT"
+    },
+    {
       "id": "zenn-18521bb4fc",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5484,32 +5550,6 @@
         "Zenn"
       ],
       "date": "Sat, 06 Jun 2026 09:23:28 GMT"
-    },
-    {
-      "id": "zenn-5d7bec8571",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "RAGで詰まったのは、検索結果ではなく検索クエリだった",
-      "url": "https://zenn.dev/mofuteq/articles/2c5ca06a689140",
-      "score": null,
-      "author": "mofuteq",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 06 Jun 2026 07:31:03 GMT"
-    },
-    {
-      "id": "zenn-5d64c66e80",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "RDBで木構造の深さを制限したいときの設計パターン",
-      "url": "https://zenn.dev/tonbi_attack/articles/56de5502efb772",
-      "score": null,
-      "author": "tonbiattack",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 06 Jun 2026 07:18:21 GMT"
     },
     {
       "id": "zenn-ffd17ff904",
@@ -5538,30 +5578,17 @@
       "date": "Fri, 05 Jun 2026 17:41:29 GMT"
     },
     {
-      "id": "zenn-6ecc3811f4",
+      "id": "zenn-a03124301a",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Snowflake App Runtime 入門 - プロンプトひとつでデータの隣に本格Webアプリをデプロイする！",
-      "url": "https://zenn.dev/snowflakejp/articles/9e5b8fa393ccd8",
+      "title": "WASM な PHP でブラウザ内に Laravel 13 を立てる（php-wasm）",
+      "url": "https://zenn.dev/nogu_d626/articles/c3e1ced70ae7b3",
       "score": null,
-      "author": "tsubasa",
+      "author": "NOGU.D",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 05 Jun 2026 09:31:05 GMT"
-    },
-    {
-      "id": "zenn-24fe65ead4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "フロントエンド開発で使えるMCPサーバーを徹底的にまとめてみた",
-      "url": "https://zenn.dev/actbe_tech/articles/a0f1f3609cfc9d",
-      "score": null,
-      "author": "大野｜ACTBE Inc.",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 05 Jun 2026 08:30:05 GMT"
+      "date": "Fri, 05 Jun 2026 14:00:05 GMT"
     },
     {
       "id": "zenn-3badbcc1d7",
@@ -5616,19 +5643,6 @@
       "date": "Thu, 04 Jun 2026 11:10:31 GMT"
     },
     {
-      "id": "zenn-a4405acc30",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【失敗談】大規模開発をして残ったのは技術負債だけだった話 〜作らないことの重要性〜",
-      "url": "https://zenn.dev/innovation/articles/3fe337358aa759",
-      "score": null,
-      "author": "TAC",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 04 Jun 2026 06:00:07 GMT"
-    },
-    {
       "id": "zenn-136e7038a8",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5640,19 +5654,6 @@
         "Zenn"
       ],
       "date": "Thu, 04 Jun 2026 03:34:04 GMT"
-    },
-    {
-      "id": "zenn-f99401b35a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Lucid C++ C++の輪郭 C++23入門 基本編",
-      "url": "https://zenn.dev/yaito3014/books/introduction-to-cpp23-basic",
-      "score": null,
-      "author": "yaito3014",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 03 Jun 2026 17:59:27 GMT"
     },
     {
       "id": "edb-26a654a640",
