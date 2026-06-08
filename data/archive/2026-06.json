@@ -1,13 +1,13 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-07T23:51:09.632061+00:00",
+  "generated_at": "2026-06-08T00:48:50.763059+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 346,
-    "zennqiita": 104
+    "hn": 347,
+    "zennqiita": 103
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 16,
     "medium": 5,
     "high": 1
   },
@@ -57,7 +57,7 @@
     {
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
       "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "score": 764,
+      "score": 782,
       "source": "hn",
       "date": "2026-06-07T12:49:29+00:00"
     },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-08T00:28:37+00:00"
+    },
     {
       "title": "Proliferate (YC S25) is hiring to building open source Codex",
       "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
