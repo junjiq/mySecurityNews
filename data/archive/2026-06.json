@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-08T21:13:56.223582+00:00",
+  "generated_at": "2026-06-08T22:05:17.633958+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 340,
-    "zennqiita": 110
+    "hn": 341,
+    "zennqiita": 109
   },
   "severity_counts": {
     "medium": 7,
-    "critical": 15,
+    "critical": 14,
     "high": 1
   },
   "top_articles": [
@@ -90,18 +90,18 @@
       "date": "2026-06-03T14:10:06+00:00"
     },
     {
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 673,
+      "source": "hn",
+      "date": "2026-06-08T14:05:16+00:00"
+    },
+    {
       "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
       "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
       "score": 647,
       "source": "hn",
       "date": "2026-06-03T10:53:00+00:00"
-    },
-    {
-      "title": "Show HN: Performative-UI – a react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 639,
-      "source": "hn",
-      "date": "2026-06-08T14:05:16+00:00"
     },
     {
       "title": "Meta workers can opt out of being tracked at work up to 30 min",
@@ -139,18 +139,18 @@
       "date": "2026-06-03T13:22:06+00:00"
     },
     {
+      "title": "Stop the Apple Music app from launching",
+      "url": "https://lowtechguys.com/musicdecoy/",
+      "score": 529,
+      "source": "hn",
+      "date": "2026-06-08T17:01:43+00:00"
+    },
+    {
       "title": "Ian's Secure Shoelace Knot",
       "url": "https://www.fieggen.com/shoelace/secureknot.htm",
       "score": 520,
       "source": "hn",
       "date": "2026-06-04T11:17:34+00:00"
-    },
-    {
-      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 516,
-      "source": "hn",
-      "date": "2026-06-05T16:55:30+00:00"
     }
   ],
   "security_highlights": [
@@ -258,13 +258,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-03T17:01:00+00:00"
-    },
-    {
-      "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
-      "url": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-03T05:49:31+00:00"
     }
   ]
 }
