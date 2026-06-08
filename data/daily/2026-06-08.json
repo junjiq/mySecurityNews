@@ -1,7 +1,7 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T05:06:07.187656+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-06-08T07:07:24.351462+00:00",
+  "total_articles": 58,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 47,
       "top_items": [
         {
           "title": "LLMs are eroding my software engineering career and I don't know what to do",
@@ -35,7 +35,7 @@
         {
           "title": "Building from zero after addiction, prison, and a felony",
           "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-          "score": 514,
+          "score": 573,
           "source": "hn",
           "severity": null,
           "date": "2026-06-07T18:33:07+00:00"
@@ -49,20 +49,20 @@
           "date": "2026-06-07T13:06:52+00:00"
         },
         {
-          "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-          "url": "https://www.ioccc.org/2025/",
-          "score": 373,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-07T05:47:54+00:00"
-        },
-        {
           "title": "How's Linear so fast? A technical breakdown",
           "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-          "score": 359,
+          "score": 379,
           "source": "hn",
           "severity": null,
           "date": "2026-06-07T19:01:37+00:00"
+        },
+        {
+          "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+          "url": "https://github.com/devenjarvis/lathe",
+          "score": 293,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-07T11:16:46+00:00"
         }
       ]
     },
@@ -70,6 +70,14 @@
       "category": "日本語技術記事",
       "count": 11,
       "top_items": [
+        {
+          "title": "ClaudeCode の「The model's tool call could not be parsed」エラーを回避する方法",
+          "url": "https://qiita.com/natume_nat/items/76fe608d570caebb4f4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-08T15:30:41+09:00"
+        },
         {
           "title": "Webサイトに最低限入れるべきHTTPセキュリティヘッダ7種と設定例(nginx / Apache / WordPress対応・コピペOK)",
           "url": "https://qiita.com/jiis-sasaki/items/7a9e66ebe9d1f41cc588?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-08T02:01:29+09:00"
-        },
-        {
-          "title": "ping、tracerouteコマンドを使用した、SSHできない時の切り分け方",
-          "url": "https://qiita.com/M_waowaowao/items/803300d3453daaaf48ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-08T01:19:38+09:00"
         }
       ]
     }
