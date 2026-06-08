@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-08T20:16:47.191357+00:00",
+  "generated_at": "2026-06-08T21:13:56.223582+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 339,
-    "zennqiita": 111
+    "hn": 340,
+    "zennqiita": 110
   },
   "severity_counts": {
-    "medium": 6,
-    "critical": 14,
+    "medium": 7,
+    "critical": 15,
     "high": 1
   },
   "top_articles": [
@@ -97,6 +97,13 @@
       "date": "2026-06-03T10:53:00+00:00"
     },
     {
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 639,
+      "source": "hn",
+      "date": "2026-06-08T14:05:16+00:00"
+    },
+    {
       "title": "Meta workers can opt out of being tracked at work up to 30 min",
       "url": "https://www.bbc.com/news/articles/c93x0k194yno",
       "score": 633,
@@ -116,13 +123,6 @@
       "score": 613,
       "source": "hn",
       "date": "2026-06-06T18:35:27+00:00"
-    },
-    {
-      "title": "Show HN: Performative-UI – a react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 589,
-      "source": "hn",
-      "date": "2026-06-08T14:05:16+00:00"
     },
     {
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
+      "url": "https://gitdot.io/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-08T16:52:11+00:00"
+    },
     {
       "title": "The EU Open Source Strategy",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",

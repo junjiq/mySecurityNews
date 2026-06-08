@@ -1,9 +1,16 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T20:16:47.143948+00:00",
-  "total_articles": 75,
-  "urgent_count": 2,
+  "generated_at": "2026-06-08T21:13:56.174047+00:00",
+  "total_articles": 76,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
+      "url": "https://gitdot.io/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-08T16:52:11+00:00"
+    },
     {
       "title": "The EU Open Source Strategy",
       "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 57,
       "top_items": [
         {
           "title": "Dopamine Fracking",
@@ -35,7 +42,7 @@
         {
           "title": "Show HN: Performative-UI – a react component library of design tropes",
           "url": "https://vorpus.github.io/performativeUI/",
-          "score": 589,
+          "score": 639,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T14:05:16+00:00"
@@ -43,7 +50,7 @@
         {
           "title": "Stop the Apple Music app from launching",
           "url": "https://lowtechguys.com/musicdecoy/",
-          "score": 447,
+          "score": 509,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T17:01:43+00:00"
@@ -51,7 +58,7 @@
         {
           "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
           "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-          "score": 432,
+          "score": 465,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T11:58:02+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
           "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-          "score": 395,
+          "score": 423,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T15:27:33+00:00"

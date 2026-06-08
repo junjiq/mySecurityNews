@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-06-08T20:16:47.071459+00:00",
+  "updated_at": "2026-06-08T21:13:56.103809+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48450646",
+      "source": "hn",
+      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+      "score": 66,
+      "comments": 7,
+      "author": "g0xA52A2A",
+      "tags": [],
+      "date": "2026-06-08T19:42:28+00:00",
+      "severity": "medium"
+    },
     {
       "id": "hn-48450142",
       "source": "hn",
       "title": "Apple reveals new AI architecture built around Google Gemini models",
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "score": 61,
-      "comments": 22,
+      "score": 186,
+      "comments": 156,
       "author": "unclefuzzy",
       "tags": [],
       "date": "2026-06-08T19:14:47+00:00"
@@ -18,8 +30,8 @@
       "source": "hn",
       "title": "Why are cells small?",
       "url": "https://burrito.bio/essays/what-limits-a-cells-size",
-      "score": 34,
-      "comments": 15,
+      "score": 64,
+      "comments": 30,
       "author": "mailyk",
       "tags": [],
       "date": "2026-06-08T19:10:27+00:00"
@@ -29,11 +41,22 @@
       "source": "hn",
       "title": "Switzerland wil have a referendum to cap population at 10M",
       "url": "https://www.admin.ch/en/sustainability-initiative",
-      "score": 80,
-      "comments": 132,
+      "score": 137,
+      "comments": 268,
       "author": "napolux",
       "tags": [],
       "date": "2026-06-08T19:09:48+00:00"
+    },
+    {
+      "id": "hn-48449665",
+      "source": "hn",
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "score": 37,
+      "comments": 2,
+      "author": "hmokiguess",
+      "tags": [],
+      "date": "2026-06-08T18:47:38+00:00"
     },
     {
       "id": "hn-48449262",
@@ -51,8 +74,8 @@
       "source": "hn",
       "title": "Siri AI",
       "url": "https://www.apple.com/apple-intelligence/",
-      "score": 144,
-      "comments": 120,
+      "score": 210,
+      "comments": 155,
       "author": "0xedb",
       "tags": [],
       "date": "2026-06-08T18:17:53+00:00"
@@ -62,8 +85,8 @@
       "source": "hn",
       "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
       "url": "https://siraben.github.io/ti84p-re/",
-      "score": 89,
-      "comments": 11,
+      "score": 111,
+      "comments": 18,
       "author": "siraben",
       "tags": [],
       "date": "2026-06-08T17:41:33+00:00"
@@ -73,8 +96,8 @@
       "source": "hn",
       "title": "Thunderbird Littering My Home",
       "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
-      "score": 51,
-      "comments": 31,
+      "score": 65,
+      "comments": 37,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-08T17:31:34+00:00"
@@ -82,10 +105,10 @@
     {
       "id": "hn-48448106",
       "source": "hn",
-      "title": "Apple WWDC 2026 Livestream",
+      "title": "Apple WWDC 2026",
       "url": "https://www.apple.com/apple-events/event-stream/",
-      "score": 180,
-      "comments": 354,
+      "score": 207,
+      "comments": 390,
       "author": "nextstep",
       "tags": [],
       "date": "2026-06-08T17:14:24+00:00"
@@ -95,8 +118,8 @@
       "source": "hn",
       "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
       "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
-      "score": 132,
-      "comments": 21,
+      "score": 165,
+      "comments": 28,
       "author": "01-_-",
       "tags": [],
       "date": "2026-06-08T17:07:33+00:00"
@@ -106,19 +129,31 @@
       "source": "hn",
       "title": "Stop the Apple Music app from launching",
       "url": "https://lowtechguys.com/musicdecoy/",
-      "score": 447,
-      "comments": 178,
+      "score": 509,
+      "comments": 197,
       "author": "bobbiechen",
       "tags": [],
       "date": "2026-06-08T17:01:43+00:00"
+    },
+    {
+      "id": "hn-48447806",
+      "source": "hn",
+      "title": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
+      "url": "https://gitdot.io/",
+      "score": 34,
+      "comments": 19,
+      "author": "baepaul",
+      "tags": [],
+      "date": "2026-06-08T16:52:11+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48447062",
       "source": "hn",
       "title": "EU-banned pesticides found in rice, tea and spices",
       "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-      "score": 80,
-      "comments": 27,
+      "score": 123,
+      "comments": 46,
       "author": "john-titor",
       "tags": [],
       "date": "2026-06-08T15:59:04+00:00"
@@ -137,10 +172,10 @@
     {
       "id": "hn-48446893",
       "source": "hn",
-      "title": "AI Is Slowing Down",
+      "title": "AI is slowing down",
       "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-      "score": 210,
-      "comments": 242,
+      "score": 253,
+      "comments": 292,
       "author": "crescit_eundo",
       "tags": [],
       "date": "2026-06-08T15:46:37+00:00"
@@ -150,8 +185,8 @@
       "source": "hn",
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 395,
-      "comments": 274,
+      "score": 423,
+      "comments": 290,
       "author": "gainsurier",
       "tags": [],
       "date": "2026-06-08T15:27:33+00:00"
@@ -183,8 +218,8 @@
       "source": "hn",
       "title": "xAI is looking more like a datacentre REIT than a frontier lab",
       "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "score": 217,
-      "comments": 165,
+      "score": 280,
+      "comments": 211,
       "author": "martinald",
       "tags": [],
       "date": "2026-06-08T15:13:43+00:00"
@@ -244,8 +279,8 @@
       "source": "hn",
       "title": "Show HN: Performative-UI – a react component library of design tropes",
       "url": "https://vorpus.github.io/performativeUI/",
-      "score": 589,
-      "comments": 123,
+      "score": 639,
+      "comments": 130,
       "author": "lizhang",
       "tags": [],
       "date": "2026-06-08T14:05:16+00:00"
@@ -266,8 +301,8 @@
       "source": "hn",
       "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
       "url": "https://intunedhq.com",
-      "score": 89,
-      "comments": 41,
+      "score": 92,
+      "comments": 44,
       "author": "fkilaiwi",
       "tags": [],
       "date": "2026-06-08T13:35:27+00:00"
@@ -396,8 +431,8 @@
       "source": "hn",
       "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
       "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "score": 432,
-      "comments": 343,
+      "score": 465,
+      "comments": 362,
       "author": "1vuio0pswjnm7",
       "tags": [],
       "date": "2026-06-08T11:58:02+00:00"
@@ -1748,6 +1783,17 @@
       "date": "2026-06-06T14:00:52+00:00"
     },
     {
+      "id": "hn-48425166",
+      "source": "hn",
+      "title": "Fooling Go's X.509 Certificate Verification",
+      "url": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
+      "score": 8,
+      "comments": 4,
+      "author": "hasheddan",
+      "tags": [],
+      "date": "2026-06-06T13:52:42+00:00"
+    },
+    {
       "id": "hn-48425031",
       "source": "hn",
       "title": "US House lawmakers release draft bill to prohibit state AI rules",
@@ -2108,6 +2154,17 @@
       "author": "transistor-man",
       "tags": [],
       "date": "2026-06-06T00:33:26+00:00"
+    },
+    {
+      "id": "hn-48419823",
+      "source": "hn",
+      "title": "Show HN: Courtside – TUI for NBA Games",
+      "url": "https://github.com/NolanFogarty/courtside",
+      "score": 5,
+      "comments": 2,
+      "author": "nolanfogarty",
+      "tags": [],
+      "date": "2026-06-05T23:43:04+00:00"
     },
     {
       "id": "hn-48419821",
@@ -3467,8 +3524,8 @@
       "source": "hn",
       "title": "OCaml Onboarding: Introduction to the Dune build system",
       "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
-      "score": 119,
-      "comments": 11,
+      "score": 130,
+      "comments": 14,
       "author": "andrewstetsenko",
       "tags": [],
       "date": "2026-06-04T17:52:29+00:00"
@@ -3817,10 +3874,10 @@
     {
       "id": "hn-48397986",
       "source": "hn",
-      "title": "Using XDG-Compliant Config Files – WxWidgets",
+      "title": "Using XDG-Compliant Config Files (2024)",
       "url": "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/",
-      "score": 14,
-      "comments": 0,
+      "score": 19,
+      "comments": 1,
       "author": "ankitg12",
       "tags": [],
       "date": "2026-06-04T12:54:28+00:00"
@@ -5137,63 +5194,6 @@
       "tags": [],
       "date": "2026-06-03T05:49:31+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "hn-48380174",
-      "source": "hn",
-      "title": "Cooldown Support for Ruby Bundler",
-      "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-      "score": 147,
-      "comments": 41,
-      "author": "calyhre",
-      "tags": [],
-      "date": "2026-06-03T05:15:09+00:00"
-    },
-    {
-      "id": "hn-48379669",
-      "source": "hn",
-      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
-      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-      "score": 142,
-      "comments": 46,
-      "author": "ray__",
-      "tags": [],
-      "date": "2026-06-03T03:47:56+00:00"
-    },
-    {
-      "id": "hn-48379664",
-      "source": "hn",
-      "title": "U of T researchers demonstrate AI worm could target any online device",
-      "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
-      "score": 110,
-      "comments": 34,
-      "author": "shscs911",
-      "tags": [],
-      "date": "2026-06-03T03:47:21+00:00"
-    },
-    {
-      "id": "qiita-6e4fd939a8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "計画は願望、振り返りは事実 ― Contribution Arc の日報システム",
-      "url": "https://qiita.com/ari_init/items/a8c442b239b936893dbf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ari_init",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-03T12:37:30+09:00"
-    },
-    {
-      "id": "hn-48379580",
-      "source": "hn",
-      "title": "External Clock Generation on RTX 50 Series",
-      "url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
-      "score": 11,
-      "comments": 2,
-      "author": "mfro",
-      "tags": [],
-      "date": "2026-06-03T03:35:54+00:00"
     },
     {
       "id": "ctf-3761714",
