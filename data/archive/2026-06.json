@@ -1,13 +1,13 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-08T09:06:43.211567+00:00",
+  "generated_at": "2026-06-08T11:14:58.911590+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 343,
     "zennqiita": 107
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 17,
     "medium": 5,
     "high": 1
   },
@@ -83,6 +83,13 @@
       "date": "2026-06-03T14:10:06+00:00"
     },
     {
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "score": 662,
+      "source": "hn",
+      "date": "2026-06-07T18:33:07+00:00"
+    },
+    {
       "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
       "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
       "score": 647,
@@ -102,13 +109,6 @@
       "score": 630,
       "source": "hn",
       "date": "2026-06-04T13:00:51+00:00"
-    },
-    {
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 620,
-      "source": "hn",
-      "date": "2026-06-07T18:33:07+00:00"
     },
     {
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "The EU Open Source Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-08T08:00:01+00:00"
+    },
     {
       "title": "The Smallest Brain You Can Build: A Perceptron in Python",
       "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
