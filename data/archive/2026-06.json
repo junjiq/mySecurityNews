@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-08T11:14:58.911590+00:00",
+  "generated_at": "2026-06-08T12:51:49.155864+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 343,
-    "zennqiita": 107
+    "hn": 344,
+    "zennqiita": 106
   },
   "severity_counts": {
-    "critical": 17,
-    "medium": 5,
+    "medium": 6,
+    "critical": 16,
     "high": 1
   },
   "top_articles": [
@@ -69,6 +69,13 @@
       "date": "2026-06-05T07:26:33+00:00"
     },
     {
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "score": 713,
+      "source": "hn",
+      "date": "2026-06-07T18:33:07+00:00"
+    },
+    {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
       "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
       "score": 707,
@@ -81,13 +88,6 @@
       "score": 701,
       "source": "hn",
       "date": "2026-06-03T14:10:06+00:00"
-    },
-    {
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 662,
-      "source": "hn",
-      "date": "2026-06-07T18:33:07+00:00"
     },
     {
       "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
@@ -272,13 +272,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-02T22:34:42+00:00"
-    },
-    {
-      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15 countries",
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-02T17:44:05+00:00"
     }
   ]
 }

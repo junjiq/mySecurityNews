@@ -1,7 +1,7 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T11:14:58.870304+00:00",
-  "total_articles": 68,
+  "generated_at": "2026-06-08T12:51:49.113708+00:00",
+  "total_articles": 66,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,23 +29,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 50,
       "top_items": [
-        {
-          "title": "LLMs are eroding my software engineering career and I don't know what to do",
-          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-          "score": 864,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-07T12:49:29+00:00"
-        },
         {
           "title": "Building from zero after addiction, prison, and a felony",
           "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-          "score": 662,
+          "score": 713,
           "source": "hn",
           "severity": null,
           "date": "2026-06-07T18:33:07+00:00"
+        },
+        {
+          "title": "Dopamine Fracking",
+          "url": "https://igerman.cc/blog/dopamine-fracking/",
+          "score": 472,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-08T02:42:24+00:00"
         },
         {
           "title": "Anthropic, please ship an official Claude Desktop for Linux",
@@ -64,18 +64,18 @@
           "date": "2026-06-07T19:01:37+00:00"
         },
         {
-          "title": "Dopamine Fracking",
-          "url": "https://igerman.cc/blog/dopamine-fracking/",
-          "score": 361,
+          "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+          "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+          "score": 318,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-08T02:42:24+00:00"
+          "date": "2026-06-08T01:39:30+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 17,
+      "count": 16,
       "top_items": [
         {
           "title": "ClaudeCode の「The model's tool call could not be parsed」エラーを回避する方法",
@@ -83,7 +83,15 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-08T15:30:41+09:00"
+          "date": "2026-06-08T21:49:29+09:00"
+        },
+        {
+          "title": "ドキュメント作成ができるAIエージェントアプリをサクッと作ろうぜ【Next.js+Mastra+AI SDK+AI Elements】",
+          "url": "https://qiita.com/kyuko/items/b7f2dc0f2134d2539603?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-08T21:08:24+09:00"
         },
         {
           "title": "落語で学ぶ『AI時代のDDD』ドメインプリミティブ編",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-08T11:52:56+09:00"
-        },
-        {
-          "title": "「そのpromptちょうだい」と言われるけど、たぶん同じ設計書は出てこない ── engineer to delegate to で本当に効いていたもの",
-          "url": "https://qiita.com/ntaka329/items/c153d50810f2945897d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-08T11:36:29+09:00"
         }
       ]
     }
