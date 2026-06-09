@@ -1,7 +1,7 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T09:10:13.728738+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-06-09T10:40:29.718051+00:00",
+  "total_articles": 60,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -27,7 +27,7 @@
         {
           "title": "Show HN: Performative-UI – A react component library of design tropes",
           "url": "https://vorpus.github.io/performativeUI/",
-          "score": 966,
+          "score": 986,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T14:05:16+00:00"
@@ -35,23 +35,15 @@
         {
           "title": "Apple reveals new AI architecture built around Google Gemini models",
           "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-          "score": 580,
+          "score": 607,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T19:14:47+00:00"
         },
         {
-          "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-          "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-          "score": 568,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-08T11:58:02+00:00"
-        },
-        {
           "title": "Siri AI",
           "url": "https://www.apple.com/apple-intelligence/",
-          "score": 564,
+          "score": 592,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T18:17:53+00:00"
@@ -59,16 +51,24 @@
         {
           "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
           "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-          "score": 561,
+          "score": 576,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T15:27:33+00:00"
+        },
+        {
+          "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+          "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+          "score": 573,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-08T15:13:43+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 12,
       "top_items": [
         {
           "title": "[Bedrock AgentCore Gateway × Keycloak]MCP 2025-11-25 認可仕様に準拠したKeycloakでCIMDと認可コードフローを利用したMCP認可を試してみた",
