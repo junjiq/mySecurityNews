@@ -1,7 +1,7 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T14:25:40.518204+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-06-09T15:33:52.528863+00:00",
+  "total_articles": 50,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
         {
           "title": "Apple reveals new AI architecture built around Google Gemini models",
           "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-          "score": 662,
+          "score": 674,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T19:14:47+00:00"
@@ -35,26 +35,10 @@
         {
           "title": "Siri AI",
           "url": "https://www.apple.com/apple-intelligence/",
-          "score": 626,
+          "score": 633,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T18:17:53+00:00"
-        },
-        {
-          "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-          "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-          "score": 616,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-08T15:13:43+00:00"
-        },
-        {
-          "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-          "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-          "score": 590,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-08T15:27:33+00:00"
         },
         {
           "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
@@ -63,12 +47,28 @@
           "source": "hn",
           "severity": "medium",
           "date": "2026-06-08T19:42:28+00:00"
+        },
+        {
+          "title": "Stop the Apple Music app from launching",
+          "url": "https://lowtechguys.com/musicdecoy/",
+          "score": 549,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-08T17:01:43+00:00"
+        },
+        {
+          "title": "AI is slowing down",
+          "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+          "score": 510,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-08T15:46:37+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 4,
       "top_items": [
         {
           "title": "[Bedrock AgentCore Gateway × Keycloak]MCP 2025-11-25 認可仕様に準拠したKeycloakでCIMDと認可コードフローを利用したMCP認可を試してみた",
@@ -101,14 +101,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-09T07:11:37+09:00"
-        },
-        {
-          "title": "見ないふりのコストは誰が払うのか？― \"移民ではない移民\" と地下経済の構造 : Pythonで学ぶ マクロ経済学入門 (88)",
-          "url": "https://qiita.com/maskot1977/items/55177a61b1edc5f362f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-09T00:04:24+09:00"
         }
       ]
     }
