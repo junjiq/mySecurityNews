@@ -1,7 +1,7 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T13:28:31.460146+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-06-09T14:25:40.518204+00:00",
+  "total_articles": 54,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -25,17 +25,9 @@
       "count": 47,
       "top_items": [
         {
-          "title": "Show HN: Performative-UI – A react component library of design tropes",
-          "url": "https://vorpus.github.io/performativeUI/",
-          "score": 1048,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-08T14:05:16+00:00"
-        },
-        {
           "title": "Apple reveals new AI architecture built around Google Gemini models",
           "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-          "score": 649,
+          "score": 662,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T19:14:47+00:00"
@@ -43,7 +35,7 @@
         {
           "title": "Siri AI",
           "url": "https://www.apple.com/apple-intelligence/",
-          "score": 617,
+          "score": 626,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T18:17:53+00:00"
@@ -51,7 +43,7 @@
         {
           "title": "xAI is looking more like a datacentre REIT than a frontier lab",
           "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-          "score": 603,
+          "score": 616,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T15:13:43+00:00"
@@ -63,12 +55,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T15:27:33+00:00"
+        },
+        {
+          "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+          "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+          "score": 555,
+          "source": "hn",
+          "severity": "medium",
+          "date": "2026-06-08T19:42:28+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
         {
           "title": "[Bedrock AgentCore Gateway × Keycloak]MCP 2025-11-25 認可仕様に準拠したKeycloakでCIMDと認可コードフローを利用したMCP認可を試してみた",
