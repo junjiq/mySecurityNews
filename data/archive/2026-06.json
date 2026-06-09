@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-09T19:42:17.753628+00:00",
+  "generated_at": "2026-06-09T20:42:16.148120+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 341,
-    "zennqiita": 109
+    "hn": 340,
+    "zennqiita": 110
   },
   "severity_counts": {
     "critical": 16,
-    "medium": 5,
+    "medium": 4,
     "high": 1
   },
   "top_articles": [
@@ -20,18 +20,18 @@
       "date": "2026-06-06T04:38:36+00:00"
     },
     {
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "score": 1230,
+      "source": "hn",
+      "date": "2026-06-09T16:58:01+00:00"
+    },
+    {
       "title": "Show HN: Performative-UI – A react component library of design tropes",
       "url": "https://vorpus.github.io/performativeUI/",
       "score": 1085,
       "source": "hn",
       "date": "2026-06-08T14:05:16+00:00"
-    },
-    {
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 1017,
-      "source": "hn",
-      "date": "2026-06-09T16:58:01+00:00"
     },
     {
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
@@ -62,18 +62,18 @@
       "date": "2026-06-08T02:42:24+00:00"
     },
     {
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 707,
-      "source": "hn",
-      "date": "2026-06-04T00:18:02+00:00"
-    },
-    {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "score": 694,
       "source": "hn",
       "date": "2026-06-08T19:14:47+00:00"
+    },
+    {
+      "title": "Making Graphics Like it's 1993",
+      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "score": 646,
+      "source": "hn",
+      "date": "2026-06-09T10:46:14+00:00"
     },
     {
       "title": "xAI is looking more like a datacentre REIT than a frontier lab",
@@ -104,16 +104,9 @@
       "date": "2026-06-06T18:35:27+00:00"
     },
     {
-      "title": "Making Graphics Like it's 1993",
-      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "score": 597,
-      "source": "hn",
-      "date": "2026-06-09T10:46:14+00:00"
-    },
-    {
       "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "url": "https://opencv.org/opencv-5/",
-      "score": 591,
+      "score": 612,
       "source": "hn",
       "date": "2026-06-06T06:02:28+00:00"
     },
@@ -151,6 +144,13 @@
       "score": 520,
       "source": "hn",
       "date": "2026-06-04T11:17:34+00:00"
+    },
+    {
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "score": 516,
+      "source": "hn",
+      "date": "2026-06-05T16:55:30+00:00"
     }
   ],
   "security_highlights": [

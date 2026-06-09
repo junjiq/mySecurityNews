@@ -1,7 +1,7 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T19:42:17.718408+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-06-09T20:42:16.104584+00:00",
+  "total_articles": 61,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 48,
       "top_items": [
         {
           "title": "Claude Fable 5",
           "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-          "score": 1017,
+          "score": 1230,
           "source": "hn",
           "severity": null,
           "date": "2026-06-09T16:58:01+00:00"
@@ -35,23 +35,15 @@
         {
           "title": "Making Graphics Like it's 1993",
           "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-          "score": 597,
+          "score": 646,
           "source": "hn",
           "severity": null,
           "date": "2026-06-09T10:46:14+00:00"
         },
         {
-          "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-          "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-          "score": 555,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-06-08T19:42:28+00:00"
-        },
-        {
           "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
           "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-          "score": 480,
+          "score": 497,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-09T07:33:16+00:00"
@@ -63,12 +55,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-09T09:10:10+00:00"
+        },
+        {
+          "title": "Confidential submission of draft S-1 to the SEC",
+          "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+          "score": 321,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-08T21:22:43+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 13,
       "top_items": [
         {
           "title": "「OpenTelemetry...?」",
@@ -79,36 +79,36 @@
           "date": "2026-06-10T01:50:10+09:00"
         },
         {
-          "title": "[Bedrock AgentCore Gateway × Keycloak]MCP 2025-11-25 認可仕様に準拠したKeycloakでCIMDと認可コードフローを利用したMCP認可を試してみた",
-          "url": "https://qiita.com/mitsu3333/items/0ca5bd39c4dba6a8c6eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "[ハンズオン手順書] Claude + Microsoft Foundry で AI エージェントを構築する #CodeWithClaude",
+          "url": "https://qiita.com/chomado/items/a072528364883ae7bb96?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-09T16:11:42+09:00"
+          "date": "2026-06-09T20:13:38+09:00"
         },
         {
-          "title": "インフラしか分からん民がフロントエンドアプリを計測するためのエージェント導入手順をまとめてみた!やってみて!!",
-          "url": "https://qiita.com/khara-nrkk/items/5f335b2769215f6a0300?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "git pull したら \"divergent branches\" エラーが出た話",
+          "url": "https://qiita.com/yasuto_88/items/a79a9629a4e7ec70a1f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-09T11:33:54+09:00"
+          "date": "2026-06-09T18:27:23+09:00"
         },
         {
-          "title": "未経験からエンジニアになるために必要な3つの知識",
-          "url": "https://qiita.com/masa20057/items/39ad448983e2ba8406da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "PySAMACT向けAPIコーディング つまづき紹介",
+          "url": "https://qiita.com/ji-n/items/68259d84d73ec8b8a1b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-09T10:28:31+09:00"
+          "date": "2026-06-09T18:12:55+09:00"
         },
         {
-          "title": "なぜCatBoostはカテゴリ変数に強いのか？LightGBM・XGBoostとの違いから理解する",
-          "url": "https://qiita.com/KanNishida/items/72a7fd6854e99506cdff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？",
+          "url": "https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-09T07:11:37+09:00"
+          "date": "2026-06-09T17:51:01+09:00"
         }
       ]
     }
