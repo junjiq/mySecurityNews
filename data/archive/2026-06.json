@@ -1,10 +1,10 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-09T20:42:16.148120+00:00",
+  "generated_at": "2026-06-09T21:35:18.259397+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 340,
-    "zennqiita": 110
+    "hn": 343,
+    "zennqiita": 107
   },
   "severity_counts": {
     "critical": 16,
@@ -13,18 +13,18 @@
   },
   "top_articles": [
     {
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "score": 1406,
+      "source": "hn",
+      "date": "2026-06-09T16:58:01+00:00"
+    },
+    {
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
       "score": 1356,
       "source": "hn",
       "date": "2026-06-06T04:38:36+00:00"
-    },
-    {
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 1230,
-      "source": "hn",
-      "date": "2026-06-09T16:58:01+00:00"
     },
     {
       "title": "Show HN: Performative-UI – A react component library of design tropes",
@@ -71,7 +71,7 @@
     {
       "title": "Making Graphics Like it's 1993",
       "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "score": 646,
+      "score": 687,
       "source": "hn",
       "date": "2026-06-09T10:46:14+00:00"
     },
@@ -81,6 +81,13 @@
       "score": 637,
       "source": "hn",
       "date": "2026-06-08T15:13:43+00:00"
+    },
+    {
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "url": "https://opencv.org/opencv-5/",
+      "score": 637,
+      "source": "hn",
+      "date": "2026-06-06T06:02:28+00:00"
     },
     {
       "title": "Siri AI",
@@ -102,13 +109,6 @@
       "score": 613,
       "source": "hn",
       "date": "2026-06-06T18:35:27+00:00"
-    },
-    {
-      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-      "url": "https://opencv.org/opencv-5/",
-      "score": 612,
-      "source": "hn",
-      "date": "2026-06-06T06:02:28+00:00"
     },
     {
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
