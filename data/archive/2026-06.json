@@ -1,13 +1,13 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-09T17:42:48.473704+00:00",
+  "generated_at": "2026-06-09T18:45:37.414721+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 340,
-    "zennqiita": 110
+    "hn": 341,
+    "zennqiita": 109
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 16,
     "medium": 5,
     "high": 1
   },
@@ -18,13 +18,6 @@
       "score": 1356,
       "source": "hn",
       "date": "2026-06-06T04:38:36+00:00"
-    },
-    {
-      "title": "They’re made out of weights",
-      "url": "https://maxleiter.com/blog/weights",
-      "score": 1338,
-      "source": "hn",
-      "date": "2026-06-03T23:37:18+00:00"
     },
     {
       "title": "Show HN: Performative-UI – A react component library of design tropes",
@@ -46,6 +39,13 @@
       "score": 851,
       "source": "hn",
       "date": "2026-06-07T18:33:07+00:00"
+    },
+    {
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "score": 810,
+      "source": "hn",
+      "date": "2026-06-09T16:58:01+00:00"
     },
     {
       "title": "Changing how we develop Ladybird",
@@ -111,11 +111,25 @@
       "date": "2026-06-08T15:27:33+00:00"
     },
     {
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "url": "https://opencv.org/opencv-5/",
+      "score": 571,
+      "source": "hn",
+      "date": "2026-06-06T06:02:28+00:00"
+    },
+    {
       "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
       "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
       "score": 568,
       "source": "hn",
       "date": "2026-06-08T11:58:02+00:00"
+    },
+    {
+      "title": "Making Graphics Like it's 1993",
+      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "score": 565,
+      "source": "hn",
+      "date": "2026-06-09T10:46:14+00:00"
     },
     {
       "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
@@ -130,20 +144,6 @@
       "score": 549,
       "source": "hn",
       "date": "2026-06-08T17:01:43+00:00"
-    },
-    {
-      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-      "url": "https://opencv.org/opencv-5/",
-      "score": 542,
-      "source": "hn",
-      "date": "2026-06-06T06:02:28+00:00"
-    },
-    {
-      "title": "Making Graphics Like it's 1993",
-      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "score": 524,
-      "source": "hn",
-      "date": "2026-06-09T10:46:14+00:00"
     },
     {
       "title": "Ian's Secure Shoelace Knot",
@@ -216,6 +216,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-06T19:17:46+00:00"
+    },
+    {
+      "title": "Rayforce",
+      "url": "https://github.com/RayforceDB/rayforce",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-06T19:01:32+00:00"
     },
     {
       "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",

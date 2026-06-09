@@ -1,7 +1,7 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T17:42:48.429363+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-06-09T18:45:37.368678+00:00",
+  "total_articles": 53,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,8 +22,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 48,
       "top_items": [
+        {
+          "title": "Claude Fable 5",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "score": 810,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-09T16:58:01+00:00"
+        },
         {
           "title": "Apple reveals new AI architecture built around Google Gemini models",
           "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
@@ -33,12 +41,12 @@
           "date": "2026-06-08T19:14:47+00:00"
         },
         {
-          "title": "Siri AI",
-          "url": "https://www.apple.com/apple-intelligence/",
-          "score": 633,
+          "title": "Making Graphics Like it's 1993",
+          "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+          "score": 565,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-08T18:17:53+00:00"
+          "date": "2026-06-09T10:46:14+00:00"
         },
         {
           "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
@@ -49,20 +57,12 @@
           "date": "2026-06-08T19:42:28+00:00"
         },
         {
-          "title": "Making Graphics Like it's 1993",
-          "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-          "score": 524,
+          "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+          "score": 462,
           "source": "hn",
-          "severity": null,
-          "date": "2026-06-09T10:46:14+00:00"
-        },
-        {
-          "title": "Claude Fable 5",
-          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-          "score": 439,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-09T16:58:01+00:00"
+          "severity": "critical",
+          "date": "2026-06-09T07:33:16+00:00"
         }
       ]
     },
