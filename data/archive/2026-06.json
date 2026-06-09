@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-09T07:47:10.968796+00:00",
+  "generated_at": "2026-06-09T09:10:13.766437+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 346,
-    "zennqiita": 104
+    "hn": 337,
+    "zennqiita": 113
   },
   "severity_counts": {
+    "critical": 16,
     "medium": 6,
-    "critical": 14,
     "high": 1
   },
   "top_articles": [
@@ -34,18 +34,18 @@
       "date": "2026-06-03T16:04:42+00:00"
     },
     {
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 966,
+      "source": "hn",
+      "date": "2026-06-08T14:05:16+00:00"
+    },
+    {
       "title": "Elixir v1.20: Now a gradually typed language",
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
       "score": 953,
       "source": "hn",
       "date": "2026-06-03T19:02:26+00:00"
-    },
-    {
-      "title": "Show HN: Performative-UI – A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 933,
-      "source": "hn",
-      "date": "2026-06-08T14:05:16+00:00"
     },
     {
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
@@ -90,20 +90,6 @@
       "date": "2026-06-04T00:18:02+00:00"
     },
     {
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "url": "https://burntsushi.net/encephalitis/",
-      "score": 701,
-      "source": "hn",
-      "date": "2026-06-03T14:10:06+00:00"
-    },
-    {
-      "title": "Meta workers can opt out of being tracked at work up to 30 min",
-      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "score": 633,
-      "source": "hn",
-      "date": "2026-06-03T12:42:07+00:00"
-    },
-    {
       "title": "VoidZero Is Joining Cloudflare",
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
       "score": 630,
@@ -118,11 +104,11 @@
       "date": "2026-06-06T18:35:27+00:00"
     },
     {
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 572,
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "score": 580,
       "source": "hn",
-      "date": "2026-06-03T12:25:14+00:00"
+      "date": "2026-06-08T19:14:47+00:00"
     },
     {
       "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
@@ -132,11 +118,32 @@
       "date": "2026-06-08T11:58:02+00:00"
     },
     {
-      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-      "url": "https://mouseless.click",
-      "score": 560,
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "score": 564,
       "source": "hn",
-      "date": "2026-06-03T13:22:06+00:00"
+      "date": "2026-06-08T18:17:53+00:00"
+    },
+    {
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "score": 561,
+      "source": "hn",
+      "date": "2026-06-08T15:27:33+00:00"
+    },
+    {
+      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+      "score": 555,
+      "source": "hn",
+      "date": "2026-06-08T19:42:28+00:00"
+    },
+    {
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "score": 554,
+      "source": "hn",
+      "date": "2026-06-08T15:13:43+00:00"
     },
     {
       "title": "Stop the Apple Music app from launching",
@@ -144,16 +151,16 @@
       "score": 549,
       "source": "hn",
       "date": "2026-06-08T17:01:43+00:00"
-    },
-    {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 548,
-      "source": "hn",
-      "date": "2026-06-08T15:27:33+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-09T07:33:16+00:00"
+    },
     {
       "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
       "url": "https://gitdot.io/",
@@ -174,6 +181,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-08T00:28:37+00:00"
+    },
+    {
+      "title": "Thi.ng – open-source building blocks for computational design and art",
+      "url": "https://thi.ng",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-07T19:25:24+00:00"
     },
     {
       "title": "Proliferate (YC S25) is hiring to building open source Codex",

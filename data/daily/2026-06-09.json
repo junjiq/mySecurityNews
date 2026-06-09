@@ -1,36 +1,44 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T07:47:10.923226+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-06-09T09:10:13.728738+00:00",
+  "total_articles": 64,
   "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-09T07:33:16+00:00"
+    },
     {
       "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
       "url": "https://gitdot.io/",
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-08T16:52:11+00:00"
-    },
-    {
-      "title": "The EU Open Source Strategy",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-08T08:00:01+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 48,
       "top_items": [
         {
           "title": "Show HN: Performative-UI – A react component library of design tropes",
           "url": "https://vorpus.github.io/performativeUI/",
-          "score": 933,
+          "score": 966,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T14:05:16+00:00"
+        },
+        {
+          "title": "Apple reveals new AI architecture built around Google Gemini models",
+          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+          "score": 580,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-08T19:14:47+00:00"
         },
         {
           "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
@@ -41,35 +49,59 @@
           "date": "2026-06-08T11:58:02+00:00"
         },
         {
-          "title": "Stop the Apple Music app from launching",
-          "url": "https://lowtechguys.com/musicdecoy/",
-          "score": 549,
+          "title": "Siri AI",
+          "url": "https://www.apple.com/apple-intelligence/",
+          "score": 564,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-08T17:01:43+00:00"
+          "date": "2026-06-08T18:17:53+00:00"
         },
         {
           "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
           "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-          "score": 548,
+          "score": 561,
           "source": "hn",
           "severity": null,
           "date": "2026-06-08T15:27:33+00:00"
-        },
-        {
-          "title": "Siri AI",
-          "url": "https://www.apple.com/apple-intelligence/",
-          "score": 542,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-08T18:17:53+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 16,
       "top_items": [
+        {
+          "title": "[Bedrock AgentCore Gateway × Keycloak]MCP 2025-11-25 認可仕様に準拠したKeycloakでCIMDと認可コードフローを利用したMCP認可を試してみた",
+          "url": "https://qiita.com/mitsu3333/items/0ca5bd39c4dba6a8c6eb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-09T16:11:42+09:00"
+        },
+        {
+          "title": "インフラしか分からん民がフロントエンドアプリを計測するためのエージェント導入手順をまとめてみた!やってみて!!",
+          "url": "https://qiita.com/khara-nrkk/items/5f335b2769215f6a0300?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-09T11:33:54+09:00"
+        },
+        {
+          "title": "未経験からエンジニアになるために必要な3つの知識",
+          "url": "https://qiita.com/masa20057/items/39ad448983e2ba8406da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-09T10:28:31+09:00"
+        },
+        {
+          "title": "なぜCatBoostはカテゴリ変数に強いのか？LightGBM・XGBoostとの違いから理解する",
+          "url": "https://qiita.com/KanNishida/items/72a7fd6854e99506cdff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-09T07:11:37+09:00"
+        },
         {
           "title": "見ないふりのコストは誰が払うのか？― \"移民ではない移民\" と地下経済の構造 : Pythonで学ぶ マクロ経済学入門 (88)",
           "url": "https://qiita.com/maskot1977/items/55177a61b1edc5f362f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -77,38 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-09T00:04:24+09:00"
-        },
-        {
-          "title": "「The model's tool call could not be parsed」エラーを回避する方法【ClaudeCode】",
-          "url": "https://qiita.com/natume_nat/items/76fe608d570caebb4f4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-08T23:40:25+09:00"
-        },
-        {
-          "title": "落語で学ぶ『AI時代のDDD』ドメインプリミティブ編",
-          "url": "https://qiita.com/Yametaro/items/226e7c06bc9d5877e64e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-08T23:19:08+09:00"
-        },
-        {
-          "title": "60代店長が生成AIとMakeで「勤務確認LINEボット」を作ってみた",
-          "url": "https://qiita.com/sijima2440/items/cc55180ff1d45f365c44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-08T22:10:50+09:00"
-        },
-        {
-          "title": "z-indexに悩まないようにしたい人のための記事",
-          "url": "https://qiita.com/Shiro_Shihi/items/adbec10bfa55c470a489?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-08T21:32:07+09:00"
         }
       ]
     }
