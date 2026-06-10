@@ -1,14 +1,50 @@
 {
-  "updated_at": "2026-06-10T09:15:49.487047+00:00",
+  "updated_at": "2026-06-10T10:48:15.904186+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "ghrel-projectdiscovery_nuclei-337145344",
+      "source": "project",
+      "proj_category": "Tools",
+      "title": "Nuclei v3.9.0 — v3.9.0",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.9.0",
+      "score": null,
+      "author": "Nuclei",
+      "tags": [
+        "Nuclei",
+        "Release"
+      ],
+      "date": "2026-06-10T10:17:31Z"
+    },
+    {
+      "id": "hn-48473662",
+      "source": "hn",
+      "title": "Port React Compiler to Rust",
+      "url": "https://github.com/react/react/pull/36173",
+      "score": 42,
+      "comments": 24,
+      "author": "boudra",
+      "tags": [],
+      "date": "2026-06-10T09:19:55+00:00"
+    },
+    {
+      "id": "hn-48473204",
+      "source": "hn",
+      "title": "European sentiments towards the US hit an all-time low",
+      "url": "https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/",
+      "score": 56,
+      "comments": 32,
+      "author": "marcyb5st",
+      "tags": [],
+      "date": "2026-06-10T08:27:46+00:00"
+    },
     {
       "id": "hn-48472877",
       "source": "hn",
       "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
       "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-      "score": 27,
-      "comments": 2,
+      "score": 106,
+      "comments": 48,
       "author": "raffael_de",
       "tags": [],
       "date": "2026-06-10T07:44:49+00:00",
@@ -57,8 +93,8 @@
       "source": "hn",
       "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
       "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
-      "score": 103,
-      "comments": 36,
+      "score": 131,
+      "comments": 57,
       "author": "dmckinno",
       "tags": [],
       "date": "2026-06-10T03:27:47+00:00"
@@ -94,8 +130,8 @@
       "source": "hn",
       "title": "Rich Sutton on AI creativity and discovery",
       "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-      "score": 106,
-      "comments": 55,
+      "score": 128,
+      "comments": 62,
       "author": "yimby",
       "tags": [],
       "date": "2026-06-10T02:25:24+00:00"
@@ -105,8 +141,8 @@
       "source": "hn",
       "title": "German ruling declares Google liable for false answers in AI Overviews",
       "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "score": 511,
-      "comments": 297,
+      "score": 591,
+      "comments": 343,
       "author": "ahlCVA",
       "tags": [],
       "date": "2026-06-10T01:44:13+00:00"
@@ -116,8 +152,8 @@
       "source": "hn",
       "title": "macOS Container Machines",
       "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "score": 721,
-      "comments": 266,
+      "score": 791,
+      "comments": 287,
       "author": "timsneath",
       "tags": [],
       "date": "2026-06-10T00:29:01+00:00"
@@ -175,8 +211,8 @@
       "source": "hn",
       "title": "RIP software hackathons. Long live the hardware hackathon",
       "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-      "score": 162,
-      "comments": 66,
+      "score": 183,
+      "comments": 85,
       "author": "ozcap",
       "tags": [],
       "date": "2026-06-09T22:35:57+00:00"
@@ -186,8 +222,8 @@
       "source": "hn",
       "title": "Surprise, Pay $1000",
       "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
-      "score": 140,
-      "comments": 53,
+      "score": 174,
+      "comments": 66,
       "author": "apike",
       "tags": [],
       "date": "2026-06-09T22:01:15+00:00"
@@ -197,8 +233,8 @@
       "source": "hn",
       "title": "If Claude Fable stops helping you, you'll never know",
       "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "score": 796,
-      "comments": 386,
+      "score": 836,
+      "comments": 409,
       "author": "mips_avatar",
       "tags": [],
       "date": "2026-06-09T21:19:11+00:00"
@@ -230,8 +266,8 @@
       "source": "hn",
       "title": "Upcoming breaking changes for npm v12",
       "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-      "score": 353,
-      "comments": 134,
+      "score": 378,
+      "comments": 153,
       "author": "plasma",
       "tags": [],
       "date": "2026-06-09T21:01:00+00:00"
@@ -263,8 +299,8 @@
       "source": "hn",
       "title": "Grit: Rewriting Git in Rust with agents",
       "url": "https://blog.gitbutler.com/true-grit",
-      "score": 137,
-      "comments": 203,
+      "score": 148,
+      "comments": 217,
       "author": "cbrewster",
       "tags": [],
       "date": "2026-06-09T19:58:21+00:00"
@@ -274,8 +310,8 @@
       "source": "hn",
       "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
       "url": "https://aarushgupta.io/posts/kan-fpga/",
-      "score": 225,
-      "comments": 30,
+      "score": 231,
+      "comments": 34,
       "author": "ag2718",
       "tags": [],
       "date": "2026-06-09T19:21:45+00:00"
@@ -296,8 +332,8 @@
       "source": "hn",
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
       "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-      "score": 652,
-      "comments": 245,
+      "score": 684,
+      "comments": 250,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-09T18:45:59+00:00"
@@ -329,8 +365,8 @@
       "source": "hn",
       "title": "What it feels like to work with Mythos",
       "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-      "score": 265,
-      "comments": 224,
+      "score": 289,
+      "comments": 242,
       "author": "swolpers",
       "tags": [],
       "date": "2026-06-09T17:17:21+00:00"
@@ -351,8 +387,8 @@
       "source": "hn",
       "title": "Claude Fable 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 2208,
-      "comments": 1706,
+      "score": 2263,
+      "comments": 1749,
       "author": "Philpax",
       "tags": [],
       "date": "2026-06-09T16:58:01+00:00"
@@ -1304,8 +1340,8 @@
       "source": "hn",
       "title": "Lies we tell ourselves about email addresses",
       "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
-      "score": 117,
-      "comments": 89,
+      "score": 121,
+      "comments": 118,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-06-08T14:24:57+00:00"
@@ -1509,6 +1545,17 @@
       "date": "2026-06-08T11:58:02+00:00"
     },
     {
+      "id": "hn-48443644",
+      "source": "hn",
+      "title": "Reviving Papers with Code",
+      "url": "https://paperswithcode.co/",
+      "score": 29,
+      "comments": 6,
+      "author": "nielz_r",
+      "tags": [],
+      "date": "2026-06-08T10:44:44+00:00"
+    },
+    {
       "id": "qiita-b6e6d75270",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1526,8 +1573,8 @@
       "source": "hn",
       "title": "Premature Optimization Is Fun Sometimes",
       "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-      "score": 29,
-      "comments": 7,
+      "score": 35,
+      "comments": 9,
       "author": "throawayonthe",
       "tags": [],
       "date": "2026-06-08T10:01:31+00:00"
@@ -2459,6 +2506,17 @@
       "date": "2026-06-07T19:44:29+09:00"
     },
     {
+      "id": "hn-48433525",
+      "source": "hn",
+      "title": "Magnetoelectric antennas could transform how underwater robots talk",
+      "url": "https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/",
+      "score": 8,
+      "comments": 3,
+      "author": "breve",
+      "tags": [],
+      "date": "2026-06-07T10:38:31+00:00"
+    },
+    {
       "id": "qiita-e19c02c738",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2663,8 +2721,8 @@
       "source": "hn",
       "title": "The oldest surviving animated feature film at 100",
       "url": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
-      "score": 104,
-      "comments": 11,
+      "score": 113,
+      "comments": 14,
       "author": "1659447091",
       "tags": [],
       "date": "2026-06-07T02:35:20+00:00"
@@ -2980,7 +3038,7 @@
       "source": "hn",
       "title": "More Molly Guards",
       "url": "https://unsung.aresluna.org/more-molly-guards/",
-      "score": 119,
+      "score": 132,
       "comments": 15,
       "author": "zdw",
       "tags": [],
@@ -3393,8 +3451,8 @@
       "source": "hn",
       "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "url": "https://opencv.org/opencv-5/",
-      "score": 758,
-      "comments": 135,
+      "score": 767,
+      "comments": 139,
       "author": "ternaus",
       "tags": [],
       "date": "2026-06-06T06:02:28+00:00"
@@ -4066,7 +4124,7 @@
       "source": "hn",
       "title": "I Thought I Knew How Electrolysis Worked [video]",
       "url": "https://www.youtube.com/watch?v=eq7fR9ISuCw",
-      "score": 19,
+      "score": 32,
       "comments": 2,
       "author": "tambourine_man",
       "tags": [],
@@ -5398,6 +5456,58 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-d147bdb3dd",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "新規事業を牽引する技術選定 〜フルスタックTypeScript開発の実践事例〜",
+      "url": "https://zenn.dev/katsumanarisawa/articles/c3dd3e8371d4d7",
+      "score": null,
+      "author": "Katsuma Narisawa",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 10 Jun 2026 01:46:27 GMT"
+    },
+    {
+      "id": "zenn-e9eca069de",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ollama + qwenで、PDFを読み取る環境を構築",
+      "url": "https://zenn.dev/yuta_enginner/articles/4fb1d8b8d43923",
+      "score": null,
+      "author": "Yuta",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 09 Jun 2026 14:02:22 GMT"
+    },
+    {
+      "id": "zenn-7dccb207fc",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ログラス5daysインターンシップ参加体験記：価値のあるエンジニアとは",
+      "url": "https://zenn.dev/maropook/articles/b9697fc676d3be",
+      "score": null,
+      "author": "maropook",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 09 Jun 2026 12:14:26 GMT"
+    },
+    {
+      "id": "zenn-aae1643ede",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "プロダクトより先に「自分の環境」を守る ─ 今日からできるセキュリティ対策",
+      "url": "https://zenn.dev/contrea/articles/87aaecea6e8ae2",
+      "score": null,
+      "author": "てるてる",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 09 Jun 2026 10:17:52 GMT"
+    },
+    {
       "id": "zenn-7aea28916f",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5554,19 +5664,6 @@
       "date": "Mon, 08 Jun 2026 06:08:08 GMT"
     },
     {
-      "id": "zenn-069b8a32c3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GitHub Copilot FinOps戦略：Usage-Based Billingへの移行と最適化",
-      "url": "https://zenn.dev/microsoft/articles/ghcp-finops-01",
-      "score": null,
-      "author": "yuriemori",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 08 Jun 2026 04:37:16 GMT"
-    },
-    {
       "id": "zenn-e31ededa9c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5578,19 +5675,6 @@
         "Zenn"
       ],
       "date": "Mon, 08 Jun 2026 04:09:04 GMT"
-    },
-    {
-      "id": "zenn-033e5683af",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GPU プログラミングでも Modern C++ コードを書きたい: gpu-array ライブラリの紹介",
-      "url": "https://zenn.dev/amplify/articles/8cca314f87e8e2",
-      "score": null,
-      "author": "Yoshiki Matsuda",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 08 Jun 2026 04:06:20 GMT"
     },
     {
       "id": "zenn-000b3ecf5a",
@@ -5630,6 +5714,32 @@
         "Zenn"
       ],
       "date": "Sun, 07 Jun 2026 09:32:50 GMT"
+    },
+    {
+      "id": "zenn-069b8a32c3",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHub Copilot FinOps戦略：Usage-Based Billingへの移行と最適化",
+      "url": "https://zenn.dev/microsoft/articles/ghcp-finops-01",
+      "score": null,
+      "author": "yuriemori",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 08 Jun 2026 04:37:16 GMT"
+    },
+    {
+      "id": "zenn-033e5683af",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GPU プログラミングでも Modern C++ コードを書きたい: gpu-array ライブラリの紹介",
+      "url": "https://zenn.dev/amplify/articles/8cca314f87e8e2",
+      "score": null,
+      "author": "Yoshiki Matsuda",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 08 Jun 2026 04:06:20 GMT"
     },
     {
       "id": "zenn-5a4406e847",
@@ -5746,141 +5856,6 @@
       ],
       "severity": "high",
       "date": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-f30dc5c188",
-      "source": "msf",
-      "title": "[webapps] YAMCS yamcs-core  5.12.7 - User Enumeration",
-      "url": "https://www.exploit-db.com/exploits/52604",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-be7a420ae4",
-      "source": "msf",
-      "title": "[webapps] YAMCS yamcs-core  5.12.7 - LDAP Injection",
-      "url": "https://www.exploit-db.com/exploits/52603",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-f12984cfd7",
-      "source": "msf",
-      "title": "[remote] Microsoft - NTLMv2 Hash Capture",
-      "url": "https://www.exploit-db.com/exploits/52601",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-51d394b2f6",
-      "source": "msf",
-      "title": "[webapps] MikroORM   7.0.13 - SQL Injection",
-      "url": "https://www.exploit-db.com/exploits/52600",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-b44998ab02",
-      "source": "msf",
-      "title": "[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion",
-      "url": "https://www.exploit-db.com/exploits/52598",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0b1081a580",
-      "source": "msf",
-      "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52597",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-7fd71d4802",
-      "source": "msf",
-      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52596",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e827c93897",
-      "source": "msf",
-      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
-      "url": "https://www.exploit-db.com/exploits/52595",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e7ed248f76",
-      "source": "msf",
-      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
-      "url": "https://www.exploit-db.com/exploits/52594",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
     }
   ]
 }
