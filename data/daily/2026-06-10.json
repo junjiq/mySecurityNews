@@ -1,7 +1,7 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T19:21:58.520141+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-06-10T20:18:01.839767+00:00",
+  "total_articles": 62,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 48,
       "top_items": [
         {
           "title": "macOS Container Machines",
@@ -43,7 +43,7 @@
         {
           "title": "Building an HTML-first site doubled our users overnight",
           "url": "https://mohkohn.co.uk/writing/html-first/",
-          "score": 814,
+          "score": 865,
           "source": "hn",
           "severity": null,
           "date": "2026-06-10T12:45:47+00:00"
@@ -57,18 +57,18 @@
           "date": "2026-06-10T01:44:13+00:00"
         },
         {
-          "title": "Upcoming breaking changes for npm v12",
-          "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-          "score": 451,
+          "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+          "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+          "score": 463,
           "source": "hn",
-          "severity": null,
-          "date": "2026-06-09T21:01:00+00:00"
+          "severity": "critical",
+          "date": "2026-06-10T07:44:49+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 13,
       "top_items": [
         {
           "title": "落語で学ぶ『AI時代のDDD』ドメインプリミティブ編",
@@ -77,6 +77,22 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-10T20:44:02+09:00"
+        },
+        {
+          "title": "【CSS】FlexとGridのGapにBorderをつけることができるようになった！！",
+          "url": "https://qiita.com/degudegu2510/items/0c067a232719212c4bfe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-10T18:30:58+09:00"
+        },
+        {
+          "title": "各コーディングエージェントがコードを「どう把握」しているのか差異と特徴を調べた",
+          "url": "https://qiita.com/hokutoh/items/cb6344af8c76b2672338?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-10T17:14:20+09:00"
         },
         {
           "title": "Autonomous AI DatabaseからSharepoint上のファイルにアクセスしてみた",
@@ -93,22 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-10T14:57:35+09:00"
-        },
-        {
-          "title": "静的型付け言語を作った",
-          "url": "https://qiita.com/lechatthecat/items/a921ea3e0767e109dd49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-10T11:50:13+09:00"
-        },
-        {
-          "title": "Dart で モナド。Monadart !",
-          "url": "https://qiita.com/tomoki-miso/items/cdc8efad6994645a37d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-10T11:47:41+09:00"
         }
       ]
     },
