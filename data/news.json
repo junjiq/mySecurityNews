@@ -1,36 +1,80 @@
 {
-  "updated_at": "2026-06-10T18:01:28.437985+00:00",
+  "updated_at": "2026-06-10T19:21:58.451365+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48480852",
+      "source": "hn",
+      "title": "Anthropic's Model Naming, Extrapolated",
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "score": 12,
+      "comments": 2,
+      "author": "sammycdubs",
+      "tags": [],
+      "date": "2026-06-10T18:45:20+00:00"
+    },
+    {
+      "id": "hn-48480719",
+      "source": "hn",
+      "title": "Policy on the AI Exponential",
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "score": 13,
+      "comments": 4,
+      "author": "yjp20",
+      "tags": [],
+      "date": "2026-06-10T18:36:04+00:00"
+    },
     {
       "id": "hn-48479996",
       "source": "hn",
       "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
       "url": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
-      "score": 5,
-      "comments": 0,
+      "score": 17,
+      "comments": 3,
       "author": "simonpure",
       "tags": [],
       "date": "2026-06-10T17:47:46+00:00"
     },
     {
+      "id": "hn-48479947",
+      "source": "hn",
+      "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
+      "url": "https://www.matteast.io/spacex-escape-velocity.html",
+      "score": 101,
+      "comments": 68,
+      "author": "meast",
+      "tags": [],
+      "date": "2026-06-10T17:44:59+00:00"
+    },
+    {
       "id": "hn-48479705",
       "source": "hn",
-      "title": "How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science",
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
       "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-      "score": 7,
-      "comments": 0,
+      "score": 69,
+      "comments": 2,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-06-10T17:30:48+00:00"
+    },
+    {
+      "id": "hn-48479537",
+      "source": "hn",
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "score": 22,
+      "comments": 12,
+      "author": "gnabgib",
+      "tags": [],
+      "date": "2026-06-10T17:18:39+00:00"
     },
     {
       "id": "hn-48479452",
       "source": "hn",
       "title": "Claude Desktop spins up a VM without no way of stopping it",
       "url": "https://github.com/anthropics/claude-code/issues/29045",
-      "score": 10,
-      "comments": 4,
+      "score": 128,
+      "comments": 77,
       "author": "tonyrice",
       "tags": [],
       "date": "2026-06-10T17:11:56+00:00"
@@ -40,8 +84,8 @@
       "source": "hn",
       "title": "The Case for Free Online Books (2014)",
       "url": "http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html",
-      "score": 56,
-      "comments": 50,
+      "score": 73,
+      "comments": 65,
       "author": "jimsojim",
       "tags": [],
       "date": "2026-06-10T16:54:29+00:00"
@@ -62,11 +106,23 @@
       "source": "hn",
       "title": "DiffusionGemma: 4x Faster Text Generation",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
-      "score": 108,
-      "comments": 22,
+      "score": 171,
+      "comments": 37,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-06-10T16:09:37+00:00"
+    },
+    {
+      "id": "hn-48478469",
+      "source": "hn",
+      "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+      "url": "https://www.extend.ai/ui",
+      "score": 30,
+      "comments": 3,
+      "author": "kbyatnal",
+      "tags": [],
+      "date": "2026-06-10T16:09:26+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48478396",
@@ -95,8 +151,8 @@
       "source": "hn",
       "title": "Show HN: HelixDB – A graph database built on object storage",
       "url": "https://github.com/HelixDB/helix-db/tree/main",
-      "score": 15,
-      "comments": 13,
+      "score": 36,
+      "comments": 21,
       "author": "GeorgeCurtis",
       "tags": [],
       "date": "2026-06-10T15:47:31+00:00"
@@ -106,8 +162,8 @@
       "source": "hn",
       "title": "GitHub Authentication issues related to API requests",
       "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
-      "score": 77,
-      "comments": 16,
+      "score": 113,
+      "comments": 23,
       "author": "Multicomp",
       "tags": [],
       "date": "2026-06-10T15:29:52+00:00"
@@ -117,8 +173,8 @@
       "source": "hn",
       "title": "The iPad was on Tailscale: a WebRTC debugging story",
       "url": "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/",
-      "score": 15,
-      "comments": 8,
+      "score": 40,
+      "comments": 20,
       "author": "syllogistic",
       "tags": [],
       "date": "2026-06-10T15:13:16+00:00"
@@ -139,8 +195,8 @@
       "source": "hn",
       "title": "Apache Burr: Build reliable AI agents and applications",
       "url": "https://burr.apache.org/",
-      "score": 91,
-      "comments": 60,
+      "score": 117,
+      "comments": 74,
       "author": "anhldbk",
       "tags": [],
       "date": "2026-06-10T15:01:06+00:00"
@@ -161,8 +217,8 @@
       "source": "hn",
       "title": "PgDog is funded and coming to a database near you",
       "url": "https://pgdog.dev/blog/our-funding-announcement",
-      "score": 212,
-      "comments": 109,
+      "score": 270,
+      "comments": 134,
       "author": "levkk",
       "tags": [],
       "date": "2026-06-10T14:02:59+00:00"
@@ -172,8 +228,8 @@
       "source": "hn",
       "title": "A €0.01 bank transfer could compromise a banking AI agent",
       "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-      "score": 80,
-      "comments": 62,
+      "score": 111,
+      "comments": 88,
       "author": "tvissers",
       "tags": [],
       "date": "2026-06-10T13:39:11+00:00"
@@ -205,8 +261,8 @@
       "source": "hn",
       "title": "Building an HTML-first site doubled our users overnight",
       "url": "https://mohkohn.co.uk/writing/html-first/",
-      "score": 733,
-      "comments": 338,
+      "score": 814,
+      "comments": 373,
       "author": "edent",
       "tags": [],
       "date": "2026-06-10T12:45:47+00:00"
@@ -216,8 +272,8 @@
       "source": "hn",
       "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
       "url": "https://jivx.com/eki",
-      "score": 131,
-      "comments": 45,
+      "score": 144,
+      "comments": 52,
       "author": "momentmaker",
       "tags": [],
       "date": "2026-06-10T12:11:28+00:00"
@@ -287,8 +343,8 @@
       "source": "hn",
       "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
       "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-      "score": 423,
-      "comments": 252,
+      "score": 449,
+      "comments": 270,
       "author": "raffael_de",
       "tags": [],
       "date": "2026-06-10T07:44:49+00:00",
@@ -597,8 +653,8 @@
       "source": "hn",
       "title": "Who's the Smartest Corvid?",
       "url": "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/",
-      "score": 6,
-      "comments": 3,
+      "score": 25,
+      "comments": 14,
       "author": "NaOH",
       "tags": [],
       "date": "2026-06-09T17:37:11+00:00"
@@ -1051,6 +1107,17 @@
       "date": "2026-06-09T06:14:20+00:00"
     },
     {
+      "id": "hn-48456808",
+      "source": "hn",
+      "title": "L'Affaire Siloxane",
+      "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+      "score": 32,
+      "comments": 4,
+      "author": "idlewords",
+      "tags": [],
+      "date": "2026-06-09T05:21:39+00:00"
+    },
+    {
       "id": "hn-48456555",
       "source": "hn",
       "title": "CRDTs merge concurrent edits. Why not concurrent creation?",
@@ -1478,7 +1545,7 @@
       "source": "hn",
       "title": "'They take you out of life, out of time': a journey into Spain's cave paintings",
       "url": "https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira",
-      "score": 38,
+      "score": 45,
       "comments": 19,
       "author": "NaOH",
       "tags": [],
@@ -1638,8 +1705,8 @@
       "source": "hn",
       "title": "Who Runs Your Rust Future? Hands-On Intro to Async Rust",
       "url": "https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/",
-      "score": 71,
-      "comments": 12,
+      "score": 78,
+      "comments": 14,
       "author": "febin",
       "tags": [],
       "date": "2026-06-08T14:15:32+00:00"
@@ -1917,8 +1984,8 @@
       "source": "hn",
       "title": "Buy a train, bridge or tracks from the Swiss Railway",
       "url": "https://sbbresale.ch/",
-      "score": 133,
-      "comments": 62,
+      "score": 147,
+      "comments": 75,
       "author": "kisamoto",
       "tags": [],
       "date": "2026-06-08T09:05:29+00:00"
@@ -5116,78 +5183,6 @@
       "author": "gmays",
       "tags": [],
       "date": "2026-06-04T21:31:31+00:00"
-    },
-    {
-      "id": "hn-48404732",
-      "source": "hn",
-      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
-      "url": "https://www.mercek.dev/",
-      "score": 30,
-      "comments": 7,
-      "author": "utibeumanah",
-      "tags": [],
-      "date": "2026-06-04T21:15:16+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-87689a7f1c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS Organizations管理権限なしでSecurity Hub CSPMを集約管理する方法",
-      "url": "https://qiita.com/infra365/items/e2cd7657c41ec3fe2e1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "infra365",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-05T06:12:45+09:00"
-    },
-    {
-      "id": "qiita-a767561888",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【2026年最新】Multi-Agentフレームワーク徹底比較：CrewAI vs AutoGen vs LangGraph — SME（中小企業）が選ぶべき「最適解」とは？",
-      "url": "https://qiita.com/Sayaka_bnr/items/988600d1f47e56c2a2e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Sayaka_bnr",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-05T06:07:52+09:00"
-    },
-    {
-      "id": "hn-48404224",
-      "source": "hn",
-      "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
-      "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
-      "score": 71,
-      "comments": 23,
-      "author": "tejaswigowda",
-      "tags": [],
-      "date": "2026-06-04T20:32:18+00:00"
-    },
-    {
-      "id": "hn-48404070",
-      "source": "hn",
-      "title": "Crashing cars and improving hover detection",
-      "url": "https://motion.dev/magazine/collision-detection-in-hover-detection",
-      "score": 4,
-      "comments": 2,
-      "author": "azhenley",
-      "tags": [],
-      "date": "2026-06-04T20:19:39+00:00"
-    },
-    {
-      "id": "hn-48403980",
-      "source": "hn",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 488,
-      "comments": 138,
-      "author": "binyu",
-      "tags": [],
-      "date": "2026-06-04T20:11:20+00:00",
-      "severity": "critical"
     },
     {
       "id": "ctf-3761714",
