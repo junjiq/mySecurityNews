@@ -1,22 +1,22 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-10T15:06:53.178488+00:00",
+  "generated_at": "2026-06-10T16:42:55.875571+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 347,
-    "zennqiita": 103,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 1
   },
   "severity_counts": {
     "critical": 17,
-    "high": 2,
-    "medium": 3
+    "medium": 3,
+    "high": 1
   },
   "top_articles": [
     {
       "title": "Claude Fable 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 2429,
+      "score": 2483,
       "source": "hn",
       "date": "2026-06-09T16:58:01+00:00"
     },
@@ -37,7 +37,7 @@
     {
       "title": "macOS Container Machines",
       "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "score": 1000,
+      "score": 1066,
       "source": "hn",
       "date": "2026-06-10T00:29:01+00:00"
     },
@@ -147,11 +147,11 @@
       "date": "2026-06-08T11:58:02+00:00"
     },
     {
-      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-      "score": 555,
+      "title": "Building an HTML-first site doubled our users overnight",
+      "url": "https://mohkohn.co.uk/writing/html-first/",
+      "score": 557,
       "source": "hn",
-      "date": "2026-06-08T19:42:28+00:00"
+      "date": "2026-06-10T12:45:47+00:00"
     }
   ],
   "security_highlights": [
@@ -161,13 +161,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-10T07:44:49+00:00"
-    },
-    {
-      "title": "Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
-      "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-10T05:50:07+00:00"
     },
     {
       "title": "Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
