@@ -1,7 +1,7 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T20:18:01.839767+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-06-10T21:19:24.682220+00:00",
+  "total_articles": 60,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 46,
       "top_items": [
         {
           "title": "macOS Container Machines",
@@ -33,17 +33,9 @@
           "date": "2026-06-10T00:29:01+00:00"
         },
         {
-          "title": "If Claude Fable stops helping you, you'll never know",
-          "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-          "score": 868,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-09T21:19:11+00:00"
-        },
-        {
           "title": "Building an HTML-first site doubled our users overnight",
           "url": "https://mohkohn.co.uk/writing/html-first/",
-          "score": 865,
+          "score": 901,
           "source": "hn",
           "severity": null,
           "date": "2026-06-10T12:45:47+00:00"
@@ -59,10 +51,18 @@
         {
           "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
           "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-          "score": 463,
+          "score": 478,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-10T07:44:49+00:00"
+        },
+        {
+          "title": "Chrome is looking to permanently drop MV2 extension",
+          "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+          "score": 329,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-10T05:50:07+00:00"
         }
       ]
     },
