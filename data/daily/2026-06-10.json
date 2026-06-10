@@ -1,7 +1,7 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T01:21:25.384353+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-06-10T02:21:23.967118+00:00",
+  "total_articles": 59,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 51,
       "top_items": [
         {
           "title": "Claude Fable 5",
           "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-          "score": 1749,
+          "score": 1812,
           "source": "hn",
           "severity": null,
           "date": "2026-06-09T16:58:01+00:00"
@@ -35,10 +35,18 @@
         {
           "title": "Making Graphics Like it's 1993",
           "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-          "score": 761,
+          "score": 776,
           "source": "hn",
           "severity": null,
           "date": "2026-06-09T10:46:14+00:00"
+        },
+        {
+          "title": "If Claude Fable stops helping you, you'll never know",
+          "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+          "score": 519,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-09T21:19:11+00:00"
         },
         {
           "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
@@ -51,24 +59,16 @@
         {
           "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
           "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
-          "score": 438,
+          "score": 462,
           "source": "hn",
           "severity": null,
           "date": "2026-06-09T15:21:46+00:00"
-        },
-        {
-          "title": "If Claude Fable stops helping you, you'll never know",
-          "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-          "score": 437,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-09T21:19:11+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 8,
       "top_items": [
         {
           "title": "「OpenTelemetry...?」",
