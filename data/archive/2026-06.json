@@ -1,22 +1,22 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-10T12:06:18.346899+00:00",
+  "generated_at": "2026-06-10T13:43:26.718735+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 345,
-    "zennqiita": 105,
+    "hn": 346,
+    "zennqiita": 104,
     "project": 1
   },
   "severity_counts": {
     "critical": 17,
     "high": 2,
-    "medium": 4
+    "medium": 3
   },
   "top_articles": [
     {
       "title": "Claude Fable 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 2320,
+      "score": 2377,
       "source": "hn",
       "date": "2026-06-09T16:58:01+00:00"
     },
@@ -35,6 +35,13 @@
       "date": "2026-06-08T14:05:16+00:00"
     },
     {
+      "title": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "score": 928,
+      "source": "hn",
+      "date": "2026-06-10T00:29:01+00:00"
+    },
+    {
       "title": "If Claude Fable stops helping you, you'll never know",
       "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
       "score": 868,
@@ -47,13 +54,6 @@
       "score": 864,
       "source": "hn",
       "date": "2026-06-07T12:49:29+00:00"
-    },
-    {
-      "title": "macOS Container Machines",
-      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "score": 855,
-      "source": "hn",
-      "date": "2026-06-10T00:29:01+00:00"
     },
     {
       "title": "Building from zero after addiction, prison, and a felony",
@@ -72,9 +72,16 @@
     {
       "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "url": "https://opencv.org/opencv-5/",
-      "score": 774,
+      "score": 787,
       "source": "hn",
       "date": "2026-06-06T06:02:28+00:00"
+    },
+    {
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "score": 740,
+      "source": "hn",
+      "date": "2026-06-10T01:44:13+00:00"
     },
     {
       "title": "Changing how we develop Ladybird",
@@ -103,13 +110,6 @@
       "score": 694,
       "source": "hn",
       "date": "2026-06-08T19:14:47+00:00"
-    },
-    {
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "score": 660,
-      "source": "hn",
-      "date": "2026-06-10T01:44:13+00:00"
     },
     {
       "title": "xAI is looking more like a datacentre REIT than a frontier lab",
