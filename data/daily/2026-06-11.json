@@ -1,9 +1,23 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T14:45:14.949341+00:00",
-  "total_articles": 56,
-  "urgent_count": 3,
+  "generated_at": "2026-06-11T16:24:02.422494+00:00",
+  "total_articles": 52,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "The RCE that AMD wouldn't fix",
+      "url": "https://mrbruh.com/amd2/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-11T16:03:40+00:00"
+    },
+    {
+      "title": "Show HN: Open-source API Key server written in Go by Ory",
+      "url": "https://github.com/ory/talos/tree/master",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-11T15:09:42+00:00"
+    },
     {
       "title": "MiMo Code Is Now Released and Open-Source",
       "url": "https://mimo.xiaomi.com/mimocode",
@@ -12,11 +26,11 @@
       "date": "2026-06-11T14:27:19+00:00"
     },
     {
-      "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
-      "url": "https://www.extend.ai/ui",
+      "title": "Euro-Office: First version of the open-source web office is here",
+      "url": "https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html",
       "severity": "critical",
       "source": "hn",
-      "date": "2026-06-10T16:09:26+00:00"
+      "date": "2026-06-11T14:06:43+00:00"
     },
     {
       "title": "Are insecure code completions in PyCharm a vulnerability?",
@@ -29,36 +43,36 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 43,
       "top_items": [
         {
           "title": "πFS",
           "url": "https://github.com/philipl/pifs",
-          "score": 866,
+          "score": 906,
           "source": "hn",
           "severity": null,
           "date": "2026-06-10T18:54:54+00:00"
         },
         {
-          "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-          "score": 529,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-10T16:42:00+00:00"
-        },
-        {
           "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
           "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-          "score": 514,
+          "score": 573,
           "source": "hn",
           "severity": null,
           "date": "2026-06-11T06:42:06+00:00"
         },
         {
+          "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+          "score": 554,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-10T16:42:00+00:00"
+        },
+        {
           "title": "AI agent runs amok in Fedora and elsewhere",
           "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-          "score": 498,
+          "score": 526,
           "source": "hn",
           "severity": null,
           "date": "2026-06-11T00:10:08+00:00"
@@ -83,7 +97,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-11T20:53:29+09:00"
+          "date": "2026-06-12T01:23:04+09:00"
         },
         {
           "title": "信頼されるエンジニアが実践する「聴く技術」4選",

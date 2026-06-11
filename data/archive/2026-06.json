@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-11T14:45:14.996846+00:00",
+  "generated_at": "2026-06-11T16:24:02.465563+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 353,
-    "zennqiita": 97,
+    "hn": 354,
+    "zennqiita": 96,
     "project": 2
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 18,
     "high": 1,
     "medium": 3
   },
@@ -49,18 +49,18 @@
       "date": "2026-06-10T00:29:01+00:00"
     },
     {
+      "title": "πFS",
+      "url": "https://github.com/philipl/pifs",
+      "score": 906,
+      "source": "hn",
+      "date": "2026-06-10T18:54:54+00:00"
+    },
+    {
       "title": "If Claude Fable stops helping you, you'll never know",
       "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
       "score": 868,
       "source": "hn",
       "date": "2026-06-09T21:19:11+00:00"
-    },
-    {
-      "title": "πFS",
-      "url": "https://github.com/philipl/pifs",
-      "score": 866,
-      "source": "hn",
-      "date": "2026-06-10T18:54:54+00:00"
     },
     {
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
@@ -147,20 +147,41 @@
       "date": "2026-06-08T15:27:33+00:00"
     },
     {
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "score": 568,
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "score": 575,
       "source": "hn",
-      "date": "2026-06-08T11:58:02+00:00"
+      "date": "2026-06-09T17:23:40+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "The RCE that AMD wouldn't fix",
+      "url": "https://mrbruh.com/amd2/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-11T16:03:40+00:00"
+    },
+    {
+      "title": "Show HN: Open-source API Key server written in Go by Ory",
+      "url": "https://github.com/ory/talos/tree/master",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-11T15:09:42+00:00"
+    },
     {
       "title": "MiMo Code Is Now Released and Open-Source",
       "url": "https://mimo.xiaomi.com/mimocode",
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-11T14:27:19+00:00"
+    },
+    {
+      "title": "Euro-Office: First version of the open-source web office is here",
+      "url": "https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-11T14:06:43+00:00"
     },
     {
       "title": "Are insecure code completions in PyCharm a vulnerability?",
