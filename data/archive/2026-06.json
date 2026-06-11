@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-11T21:17:13.750234+00:00",
+  "generated_at": "2026-06-11T22:11:50.394674+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 353,
-    "zennqiita": 97,
+    "hn": 354,
+    "zennqiita": 96,
     "project": 2
   },
   "severity_counts": {
-    "critical": 18,
+    "critical": 19,
     "high": 1,
     "medium": 3
   },
@@ -91,6 +91,13 @@
       "date": "2026-06-10T01:44:13+00:00"
     },
     {
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "score": 804,
+      "source": "hn",
+      "date": "2026-06-11T13:24:29+00:00"
+    },
+    {
       "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "url": "https://opencv.org/opencv-5/",
       "score": 787,
@@ -110,13 +117,6 @@
       "score": 716,
       "source": "hn",
       "date": "2026-06-08T02:42:24+00:00"
-    },
-    {
-      "title": "Show HN: Homebrew 6.0.0",
-      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 712,
-      "source": "hn",
-      "date": "2026-06-11T13:24:29+00:00"
     },
     {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-11T21:04:47+00:00"
+    },
     {
       "title": "Who Runs the Ransomware Group 'The Gentlemen?'",
       "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
