@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-11T19:00:57.852842+00:00",
-  "total_articles": 451,
+  "generated_at": "2026-06-11T20:17:04.138290+00:00",
+  "total_articles": 452,
   "source_counts": {
-    "hn": 354,
-    "zennqiita": 95,
+    "hn": 352,
+    "zennqiita": 98,
     "project": 2
   },
   "severity_counts": {
-    "critical": 17,
+    "critical": 18,
     "high": 1,
     "medium": 3
   },
@@ -119,6 +119,13 @@
       "date": "2026-06-08T19:14:47+00:00"
     },
     {
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "score": 641,
+      "source": "hn",
+      "date": "2026-06-11T06:42:06+00:00"
+    },
+    {
       "title": "xAI is looking more like a datacentre REIT than a frontier lab",
       "url": "https://martinalderson.com/posts/xais-new-rental-business/",
       "score": 637,
@@ -133,13 +140,6 @@
       "date": "2026-06-08T18:17:53+00:00"
     },
     {
-      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-      "score": 619,
-      "source": "hn",
-      "date": "2026-06-11T06:42:06+00:00"
-    },
-    {
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "score": 613,
@@ -147,14 +147,21 @@
       "date": "2026-06-06T18:35:27+00:00"
     },
     {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 590,
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "score": 592,
       "source": "hn",
-      "date": "2026-06-08T15:27:33+00:00"
+      "date": "2026-06-11T13:24:29+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Who Runs the Ransomware Group 'The Gentlemen?'",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-11T19:23:52+00:00"
+    },
     {
       "title": "The RCE that AMD wouldn't fix",
       "url": "https://mrbruh.com/amd2/",

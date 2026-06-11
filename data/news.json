@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-06-11T19:00:57.741372+00:00",
+  "updated_at": "2026-06-11T20:17:04.028065+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48495197",
+      "source": "hn",
+      "title": "Who Runs the Ransomware Group 'The Gentlemen?'",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "score": 8,
+      "comments": 0,
+      "author": "Bender",
+      "tags": [],
+      "date": "2026-06-11T19:23:52+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48493447",
+      "source": "hn",
+      "title": "Building agents without harness engineering",
+      "url": "https://rajitkhanna.com/agents/",
+      "score": 8,
+      "comments": 0,
+      "author": "rajit",
+      "tags": [],
+      "date": "2026-06-11T17:28:52+00:00"
+    },
     {
       "id": "qiita-ff6751f405",
       "source": "zennqiita",
@@ -20,8 +43,8 @@
       "source": "hn",
       "title": "Software Is Made Between Commits",
       "url": "https://zed.dev/blog/introducing-deltadb",
-      "score": 93,
-      "comments": 60,
+      "score": 133,
+      "comments": 79,
       "author": "jeremy_k",
       "tags": [],
       "date": "2026-06-11T16:28:24+00:00"
@@ -31,8 +54,8 @@
       "source": "hn",
       "title": "Solar generates more energy in US than coal for first time",
       "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-      "score": 236,
-      "comments": 100,
+      "score": 308,
+      "comments": 134,
       "author": "neilfrndes",
       "tags": [],
       "date": "2026-06-11T16:10:05+00:00"
@@ -42,8 +65,8 @@
       "source": "hn",
       "title": "Waymo Premier",
       "url": "https://waymo.com/blog/2026/06/waymo-premier/",
-      "score": 64,
-      "comments": 116,
+      "score": 103,
+      "comments": 218,
       "author": "boulos",
       "tags": [],
       "date": "2026-06-11T16:10:02+00:00"
@@ -53,20 +76,44 @@
       "source": "hn",
       "title": "The RCE that AMD wouldn't fix",
       "url": "https://mrbruh.com/amd2/",
-      "score": 105,
-      "comments": 33,
+      "score": 149,
+      "comments": 42,
       "author": "MrBruh",
       "tags": [],
       "date": "2026-06-11T16:03:40+00:00",
       "severity": "critical"
     },
     {
+      "id": "hn-48492210",
+      "source": "hn",
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "score": 73,
+      "comments": 19,
+      "author": "bugvader",
+      "tags": [],
+      "date": "2026-06-11T16:03:21+00:00"
+    },
+    {
+      "id": "qiita-6dc75737cb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "負担は誰が払い、利益は誰が得るのか？― 中間層・人材育成・移民政策を構造から考える : Pythonで学ぶ マクロ経済学入門 (89)",
+      "url": "https://qiita.com/maskot1977/items/d01ec530f959322082f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-12T00:40:50+09:00"
+    },
+    {
       "id": "hn-48491830",
       "source": "hn",
       "title": "Petition to Withdraw Canada's Bill C-22",
       "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-      "score": 151,
-      "comments": 57,
+      "score": 216,
+      "comments": 79,
       "author": "hmokiguess",
       "tags": [],
       "date": "2026-06-11T15:37:23+00:00"
@@ -76,8 +123,8 @@
       "source": "hn",
       "title": "FPS.cob: A first person shooter in COBOL",
       "url": "https://github.com/icitry/FPS.cob",
-      "score": 68,
-      "comments": 35,
+      "score": 77,
+      "comments": 45,
       "author": "MBCook",
       "tags": [],
       "date": "2026-06-11T15:13:57+00:00"
@@ -99,8 +146,8 @@
       "source": "hn",
       "title": "MiMo Code is now released and open-source",
       "url": "https://mimo.xiaomi.com/mimocode",
-      "score": 294,
-      "comments": 160,
+      "score": 337,
+      "comments": 181,
       "author": "apeters",
       "tags": [],
       "date": "2026-06-11T14:27:19+00:00",
@@ -111,8 +158,8 @@
       "source": "hn",
       "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
       "url": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
-      "score": 103,
-      "comments": 72,
+      "score": 109,
+      "comments": 81,
       "author": "doener",
       "tags": [],
       "date": "2026-06-11T14:17:47+00:00"
@@ -156,8 +203,8 @@
       "source": "hn",
       "title": "Show HN: Homebrew 6.0.0",
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 389,
-      "comments": 91,
+      "score": 592,
+      "comments": 141,
       "author": "mikemcquaid",
       "tags": [],
       "date": "2026-06-11T13:24:29+00:00"
@@ -167,7 +214,7 @@
       "source": "hn",
       "title": "Open Reproduction of DeepSeek-R1",
       "url": "https://github.com/huggingface/open-r1",
-      "score": 143,
+      "score": 162,
       "comments": 15,
       "author": "yogthos",
       "tags": [],
@@ -178,8 +225,8 @@
       "source": "hn",
       "title": "Lines of code got a better publicist",
       "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "score": 293,
-      "comments": 188,
+      "score": 312,
+      "comments": 204,
       "author": "RyeCombinator",
       "tags": [],
       "date": "2026-06-11T12:26:42+00:00"
@@ -229,6 +276,19 @@
       "date": "2026-06-11T08:47:36+00:00"
     },
     {
+      "id": "qiita-ae52389fdb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【きっと分かる】TDDってなに？陣取りゲームでサクッと理解してみないか？",
+      "url": "https://qiita.com/tomoki-miso/items/2bea01d8d642b47bf1fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tomoki-miso",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-11T17:09:25+09:00"
+    },
+    {
       "id": "hn-48487540",
       "source": "hn",
       "title": "Why AI hasn't replaced software engineers, and won't",
@@ -255,8 +315,8 @@
       "source": "hn",
       "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
       "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-      "score": 619,
-      "comments": 286,
+      "score": 641,
+      "comments": 296,
       "author": "vrganj",
       "tags": [],
       "date": "2026-06-11T06:42:06+00:00"
@@ -791,8 +851,8 @@
       "source": "hn",
       "title": "Fully autonomous drones have killed human soldiers for the first time",
       "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
-      "score": 91,
-      "comments": 64,
+      "score": 131,
+      "comments": 101,
       "author": "deadgopher",
       "tags": [],
       "date": "2026-06-10T13:46:14+00:00"
@@ -894,8 +954,8 @@
       "source": "hn",
       "title": "Emacs appearances in pop culture",
       "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-      "score": 112,
-      "comments": 13,
+      "score": 152,
+      "comments": 25,
       "author": "ggcr",
       "tags": [],
       "date": "2026-06-10T10:37:45+00:00"
@@ -1280,8 +1340,8 @@
       "source": "hn",
       "title": "Programming a GBA Game on an iPhone",
       "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
-      "score": 15,
-      "comments": 1,
+      "score": 26,
+      "comments": 4,
       "author": "akkartik",
       "tags": [],
       "date": "2026-06-09T22:12:20+00:00"
@@ -1548,8 +1608,8 @@
       "source": "hn",
       "title": "Show HN: Claw Patrol, a security firewall for agents",
       "url": "https://github.com/denoland/clawpatrol",
-      "score": 45,
-      "comments": 17,
+      "score": 62,
+      "comments": 19,
       "author": "rough-sea",
       "tags": [],
       "date": "2026-06-09T16:06:50+00:00"
@@ -1603,8 +1663,8 @@
       "source": "hn",
       "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
       "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-      "score": 103,
-      "comments": 38,
+      "score": 146,
+      "comments": 61,
       "author": "josephcsible",
       "tags": [],
       "date": "2026-06-09T15:01:43+00:00"
@@ -2190,6 +2250,19 @@
       "date": "2026-06-08T22:02:47+00:00"
     },
     {
+      "id": "qiita-0aa3020e32",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Pythonを5年使って後悔したこと、正直に書く",
+      "url": "https://qiita.com/harupython/items/06d5f0ec9906d54d7a4f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "harupython",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-09T06:35:56+09:00"
+    },
+    {
       "id": "hn-48452317",
       "source": "hn",
       "title": "Confidential submission of draft S-1 to the SEC",
@@ -2201,12 +2274,23 @@
       "date": "2026-06-08T21:22:43+00:00"
     },
     {
+      "id": "hn-48452174",
+      "source": "hn",
+      "title": "Pozzo: A Fast Lucky Number Checker",
+      "url": "https://github.com/Robert-Cunningham/pozzo",
+      "score": 5,
+      "comments": 0,
+      "author": "robertvc",
+      "tags": [],
+      "date": "2026-06-08T21:13:33+00:00"
+    },
+    {
       "id": "hn-48452001",
       "source": "hn",
       "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
       "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
-      "score": 92,
-      "comments": 27,
+      "score": 127,
+      "comments": 36,
       "author": "ljf",
       "tags": [],
       "date": "2026-06-08T21:02:01+00:00"
@@ -2491,6 +2575,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-48447598",
+      "source": "hn",
+      "title": "Ear Training Practice Exercises",
+      "url": "https://tonedear.com/",
+      "score": 37,
+      "comments": 21,
+      "author": "mattbit",
+      "tags": [],
+      "date": "2026-06-08T16:38:07+00:00"
+    },
+    {
       "id": "hn-48447378",
       "source": "hn",
       "title": "'They take you out of life, out of time': a journey into Spain's cave paintings",
@@ -2550,8 +2645,8 @@
       "source": "hn",
       "title": "How Terry Tao became an evangelist for AI in math",
       "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-      "score": 69,
-      "comments": 36,
+      "score": 87,
+      "comments": 57,
       "author": "Tomte",
       "tags": [],
       "date": "2026-06-08T15:30:09+00:00"
@@ -4295,8 +4390,8 @@
       "source": "hn",
       "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
       "url": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
-      "score": 54,
-      "comments": 9,
+      "score": 62,
+      "comments": 14,
       "author": "andrewstuart",
       "tags": [],
       "date": "2026-06-06T21:00:31+00:00"
@@ -5104,83 +5199,6 @@
       "date": "2026-06-06T05:45:00+09:00"
     },
     {
-      "id": "hn-48417916",
-      "source": "hn",
-      "title": "Hacker News, Sans AI",
-      "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
-      "score": 87,
-      "comments": 50,
-      "author": "chilipepperhott",
-      "tags": [],
-      "date": "2026-06-05T20:38:40+00:00"
-    },
-    {
-      "id": "hn-48417490",
-      "source": "hn",
-      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-      "score": 263,
-      "comments": 854,
-      "author": "toephu2",
-      "tags": [],
-      "date": "2026-06-05T20:06:36+00:00"
-    },
-    {
-      "id": "hn-48416936",
-      "source": "hn",
-      "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
-      "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
-      "score": 107,
-      "comments": 41,
-      "author": "SparkyDogs",
-      "tags": [],
-      "date": "2026-06-05T19:15:36+00:00"
-    },
-    {
-      "id": "hn-48416845",
-      "source": "hn",
-      "title": "Three of our worst VC stories",
-      "url": "https://twitter.com/eastdakota/status/2062860530360959273",
-      "score": 215,
-      "comments": 104,
-      "author": "orgonon",
-      "tags": [],
-      "date": "2026-06-05T19:08:12+00:00"
-    },
-    {
-      "id": "hn-48416635",
-      "source": "hn",
-      "title": "Transformers are inherently succinct",
-      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-      "score": 104,
-      "comments": 31,
-      "author": "brandonb",
-      "tags": [],
-      "date": "2026-06-05T18:50:26+00:00"
-    },
-    {
-      "id": "hn-48416392",
-      "source": "hn",
-      "title": "Aging and Eye Problems",
-      "url": "https://ldstephens.net/posts/aging-and-eye-problems/",
-      "score": 61,
-      "comments": 28,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-06-05T18:30:31+00:00"
-    },
-    {
-      "id": "hn-48416264",
-      "source": "hn",
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
-      "score": 258,
-      "comments": 170,
-      "author": "pramodbiligiri",
-      "tags": [],
-      "date": "2026-06-05T18:20:06+00:00"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5333,20 +5351,6 @@
         "Release"
       ],
       "date": "2026-02-23T14:52:17Z"
-    },
-    {
-      "id": "ctf-3246876",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox Media writeup",
-      "url": "https://dev.to/mohamed_mo_f0979dd80f48c7/hackthebox-media-writeup-58i6",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-02-10T15:56:33Z"
     },
     {
       "id": "ghrel-chroma-core_chroma-209726505",
