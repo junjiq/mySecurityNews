@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T16:24:02.358798+00:00",
+  "updated_at": "2026-06-11T17:42:55.892426+00:00",
   "count": 500,
   "items": [
     {
@@ -13,38 +13,71 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-06-12T01:23:04+09:00"
+      "date": "2026-06-12T01:44:53+09:00"
+    },
+    {
+      "id": "hn-48492533",
+      "source": "hn",
+      "title": "Software Is Made Between Commits",
+      "url": "https://zed.dev/blog/introducing-deltadb",
+      "score": 31,
+      "comments": 8,
+      "author": "jeremy_k",
+      "tags": [],
+      "date": "2026-06-11T16:28:24+00:00"
     },
     {
       "id": "hn-48492306",
       "source": "hn",
       "title": "Solar generates more energy in US than coal for first time",
       "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-      "score": 15,
-      "comments": 2,
+      "score": 149,
+      "comments": 36,
       "author": "neilfrndes",
       "tags": [],
       "date": "2026-06-11T16:10:05+00:00"
+    },
+    {
+      "id": "hn-48492304",
+      "source": "hn",
+      "title": "Waymo Premier",
+      "url": "https://waymo.com/blog/2026/06/waymo-premier/",
+      "score": 27,
+      "comments": 39,
+      "author": "boulos",
+      "tags": [],
+      "date": "2026-06-11T16:10:02+00:00"
     },
     {
       "id": "hn-48492215",
       "source": "hn",
       "title": "The RCE that AMD wouldn't fix",
       "url": "https://mrbruh.com/amd2/",
-      "score": 8,
-      "comments": 1,
+      "score": 62,
+      "comments": 25,
       "author": "MrBruh",
       "tags": [],
       "date": "2026-06-11T16:03:40+00:00",
       "severity": "critical"
     },
     {
+      "id": "hn-48491830",
+      "source": "hn",
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+      "score": 78,
+      "comments": 34,
+      "author": "hmokiguess",
+      "tags": [],
+      "date": "2026-06-11T15:37:23+00:00"
+    },
+    {
       "id": "hn-48491486",
       "source": "hn",
       "title": "FPS.cob: A first person shooter in COBOL",
       "url": "https://github.com/icitry/FPS.cob",
-      "score": 37,
-      "comments": 9,
+      "score": 55,
+      "comments": 19,
       "author": "MBCook",
       "tags": [],
       "date": "2026-06-11T15:13:57+00:00"
@@ -64,10 +97,10 @@
     {
       "id": "hn-48490826",
       "source": "hn",
-      "title": "MiMo Code Is Now Released and Open-Source",
+      "title": "MiMo Code is now released and open-source",
       "url": "https://mimo.xiaomi.com/mimocode",
-      "score": 147,
-      "comments": 60,
+      "score": 240,
+      "comments": 126,
       "author": "apeters",
       "tags": [],
       "date": "2026-06-11T14:27:19+00:00",
@@ -78,8 +111,8 @@
       "source": "hn",
       "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
       "url": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
-      "score": 72,
-      "comments": 37,
+      "score": 92,
+      "comments": 54,
       "author": "doener",
       "tags": [],
       "date": "2026-06-11T14:17:47+00:00"
@@ -99,10 +132,10 @@
     {
       "id": "hn-48490532",
       "source": "hn",
-      "title": "MapComplete – Contibute to OpenStreetMaps",
+      "title": "MapComplete: Maps about various topics which you can contribute to",
       "url": "https://mapcomplete.org/",
-      "score": 113,
-      "comments": 21,
+      "score": 146,
+      "comments": 27,
       "author": "GTP",
       "tags": [],
       "date": "2026-06-11T14:04:05+00:00"
@@ -119,12 +152,23 @@
       "date": "2026-06-11T13:42:42+00:00"
     },
     {
+      "id": "hn-48490024",
+      "source": "hn",
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "score": 146,
+      "comments": 11,
+      "author": "mikemcquaid",
+      "tags": [],
+      "date": "2026-06-11T13:24:29+00:00"
+    },
+    {
       "id": "hn-48489917",
       "source": "hn",
       "title": "Open Reproduction of DeepSeek-R1",
       "url": "https://github.com/huggingface/open-r1",
-      "score": 85,
-      "comments": 11,
+      "score": 116,
+      "comments": 14,
       "author": "yogthos",
       "tags": [],
       "date": "2026-06-11T13:14:31+00:00"
@@ -132,13 +176,24 @@
     {
       "id": "hn-48489402",
       "source": "hn",
-      "title": "Lines of Code Got a Better Publicist",
+      "title": "Lines of code got a better publicist",
       "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "score": 233,
-      "comments": 149,
+      "score": 277,
+      "comments": 181,
       "author": "RyeCombinator",
       "tags": [],
       "date": "2026-06-11T12:26:42+00:00"
+    },
+    {
+      "id": "hn-48489229",
+      "source": "hn",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "score": 132,
+      "comments": 123,
+      "author": "rarisma",
+      "tags": [],
+      "date": "2026-06-11T12:05:02+00:00"
     },
     {
       "id": "hn-48489004",
@@ -200,8 +255,8 @@
       "source": "hn",
       "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
       "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-      "score": 573,
-      "comments": 263,
+      "score": 600,
+      "comments": 275,
       "author": "vrganj",
       "tags": [],
       "date": "2026-06-11T06:42:06+00:00"
@@ -553,6 +608,17 @@
       "date": "2026-06-10T17:11:56+00:00"
     },
     {
+      "id": "hn-48479314",
+      "source": "hn",
+      "title": "Reading for pleasure is sharply down among schoolkids, report shows",
+      "url": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
+      "score": 32,
+      "comments": 13,
+      "author": "freejoe76",
+      "tags": [],
+      "date": "2026-06-10T17:03:48+00:00"
+    },
+    {
       "id": "qiita-5d9235724b",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -721,6 +787,17 @@
       "date": "2026-06-10T14:02:59+00:00"
     },
     {
+      "id": "hn-48476214",
+      "source": "hn",
+      "title": "Fully autonomous drones have killed human soldiers for the first time",
+      "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
+      "score": 50,
+      "comments": 22,
+      "author": "deadgopher",
+      "tags": [],
+      "date": "2026-06-10T13:46:14+00:00"
+    },
+    {
       "id": "hn-48476136",
       "source": "hn",
       "title": "A €0.01 bank transfer could compromise a banking AI agent",
@@ -752,6 +829,17 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-06-10T13:22:52+00:00"
+    },
+    {
+      "id": "hn-48475898",
+      "source": "hn",
+      "title": "Oh good, screwworms are back (2025)",
+      "url": "https://www.marginallycompelling.com/p/oh-good-screwworms-are-back",
+      "score": 49,
+      "comments": 22,
+      "author": "timr",
+      "tags": [],
+      "date": "2026-06-10T13:20:23+00:00"
     },
     {
       "id": "hn-48475483",
@@ -800,6 +888,17 @@
         "Qiita"
       ],
       "date": "2026-06-10T20:44:02+09:00"
+    },
+    {
+      "id": "hn-48474274",
+      "source": "hn",
+      "title": "Emacs appearances in pop culture",
+      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "score": 59,
+      "comments": 1,
+      "author": "ggcr",
+      "tags": [],
+      "date": "2026-06-10T10:37:45+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-337145344",
@@ -1434,6 +1533,17 @@
       "date": "2026-06-09T16:12:52+00:00"
     },
     {
+      "id": "hn-48462928",
+      "source": "hn",
+      "title": "Show HN: Claw Patrol, a security firewall for agents",
+      "url": "https://github.com/denoland/clawpatrol",
+      "score": 33,
+      "comments": 8,
+      "author": "rough-sea",
+      "tags": [],
+      "date": "2026-06-09T16:06:50+00:00"
+    },
+    {
       "id": "hn-48462823",
       "source": "hn",
       "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
@@ -1476,6 +1586,17 @@
       "author": "vrganj",
       "tags": [],
       "date": "2026-06-09T15:09:38+00:00"
+    },
+    {
+      "id": "hn-48462070",
+      "source": "hn",
+      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+      "score": 60,
+      "comments": 19,
+      "author": "josephcsible",
+      "tags": [],
+      "date": "2026-06-09T15:01:43+00:00"
     },
     {
       "id": "hn-48462066",
@@ -2069,6 +2190,17 @@
       "date": "2026-06-08T21:22:43+00:00"
     },
     {
+      "id": "hn-48452001",
+      "source": "hn",
+      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+      "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+      "score": 47,
+      "comments": 17,
+      "author": "ljf",
+      "tags": [],
+      "date": "2026-06-08T21:02:01+00:00"
+    },
+    {
       "id": "hn-48452000",
       "source": "hn",
       "title": "Apple bets cheaper AI will woo small developers",
@@ -2401,6 +2533,17 @@
       "author": "crescit_eundo",
       "tags": [],
       "date": "2026-06-08T15:46:37+00:00"
+    },
+    {
+      "id": "hn-48446673",
+      "source": "hn",
+      "title": "How Terry Tao became an evangelist for AI in math",
+      "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+      "score": 42,
+      "comments": 18,
+      "author": "Tomte",
+      "tags": [],
+      "date": "2026-06-08T15:30:09+00:00"
     },
     {
       "id": "hn-48446639",
@@ -4137,6 +4280,17 @@
       "date": "2026-06-06T23:06:06+00:00"
     },
     {
+      "id": "hn-48428959",
+      "source": "hn",
+      "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
+      "url": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
+      "score": 29,
+      "comments": 3,
+      "author": "andrewstuart",
+      "tags": [],
+      "date": "2026-06-06T21:00:31+00:00"
+    },
+    {
       "id": "hn-48428796",
       "source": "hn",
       "title": "Universal Memory Protocol – a shared format for agent memory",
@@ -4292,6 +4446,17 @@
       "author": "arjf",
       "tags": [],
       "date": "2026-06-06T18:09:59+00:00"
+    },
+    {
+      "id": "hn-48427421",
+      "source": "hn",
+      "title": "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
+      "url": "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/",
+      "score": 34,
+      "comments": 7,
+      "author": "sneela",
+      "tags": [],
+      "date": "2026-06-06T18:09:53+00:00"
     },
     {
       "id": "hn-48427324",
@@ -5016,185 +5181,6 @@
       "date": "2026-06-05T17:56:19+00:00"
     },
     {
-      "id": "hn-48415828",
-      "source": "hn",
-      "title": "Tiny hackable CUDA language model implementation",
-      "url": "https://github.com/markusheimerl/gpt",
-      "score": 42,
-      "comments": 3,
-      "author": "markusheimerl",
-      "tags": [],
-      "date": "2026-06-05T17:41:58+00:00"
-    },
-    {
-      "id": "hn-48415633",
-      "source": "hn",
-      "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
-      "url": "https://sakana.ai/rsi-lab/",
-      "score": 14,
-      "comments": 7,
-      "author": "hardmaru",
-      "tags": [],
-      "date": "2026-06-05T17:27:39+00:00"
-    },
-    {
-      "id": "hn-48415457",
-      "source": "hn",
-      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
-      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
-      "score": 133,
-      "comments": 11,
-      "author": "mmastrac",
-      "tags": [],
-      "date": "2026-06-05T17:13:59+00:00"
-    },
-    {
-      "id": "hn-48415283",
-      "source": "hn",
-      "title": "Fake Money Built America",
-      "url": "https://mail.blockworks.com/p/how-fake-money-built-america",
-      "score": 18,
-      "comments": 8,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-06-05T17:00:28+00:00"
-    },
-    {
-      "id": "hn-48415279",
-      "source": "hn",
-      "title": "Adyen Selected as Payment Services Provider for GOV.UK Pay",
-      "url": "https://www.adyen.com/press-and-media/adyen-payments-gov-uk",
-      "score": 26,
-      "comments": 2,
-      "author": "ChrisArchitect",
-      "tags": [],
-      "date": "2026-06-05T17:00:06+00:00"
-    },
-    {
-      "id": "hn-48415217",
-      "source": "hn",
-      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 516,
-      "comments": 197,
-      "author": "toomuchtodo",
-      "tags": [],
-      "date": "2026-06-05T16:55:30+00:00"
-    },
-    {
-      "id": "hn-48414978",
-      "source": "hn",
-      "title": "Mantine-datatable (and others) compromised – owner account suspended",
-      "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
-      "score": 60,
-      "comments": 23,
-      "author": "justsomehuman",
-      "tags": [],
-      "date": "2026-06-05T16:39:57+00:00"
-    },
-    {
-      "id": "qiita-e7042c5ad8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "やっとわかった！AIの「MCP」と「Skill」の違い",
-      "url": "https://qiita.com/arinnnnnn/items/bbeb21ba22a349b4a4ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "arinnnnnn",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-06T01:35:47+09:00"
-    },
-    {
-      "id": "hn-48414862",
-      "source": "hn",
-      "title": "The company I work for is losing all of its humanity, I don't know where to go",
-      "url": "https://superlemon.bearblog.dev/the-company-i-work-for-is-losing-all-of-its-humanity-but-i-dont-know-where-else-to-go/",
-      "score": 28,
-      "comments": 18,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-06-05T16:32:38+00:00"
-    },
-    {
-      "id": "hn-48414653",
-      "source": "hn",
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 376,
-      "comments": 114,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-06-05T16:18:48+00:00"
-    },
-    {
-      "id": "hn-48414479",
-      "source": "hn",
-      "title": "U.S. Military Turned GPS into a Global \"Numbers Station\"",
-      "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
-      "score": 39,
-      "comments": 17,
-      "author": "awkwardpotato",
-      "tags": [],
-      "date": "2026-06-05T16:06:36+00:00"
-    },
-    {
-      "id": "hn-48414367",
-      "source": "hn",
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "score": 440,
-      "comments": 102,
-      "author": "coffeemug",
-      "tags": [],
-      "date": "2026-06-05T15:59:57+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48414027",
-      "source": "hn",
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "score": 314,
-      "comments": 233,
-      "author": "jsve",
-      "tags": [],
-      "date": "2026-06-05T15:39:38+00:00"
-    },
-    {
-      "id": "hn-48413924",
-      "source": "hn",
-      "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
-      "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
-      "score": 24,
-      "comments": 7,
-      "author": "thm",
-      "tags": [],
-      "date": "2026-06-05T15:32:58+00:00"
-    },
-    {
-      "id": "hn-48413655",
-      "source": "hn",
-      "title": "Looking Forward to Postgres 19: Query Hints",
-      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-      "score": 176,
-      "comments": 29,
-      "author": "jjgreen",
-      "tags": [],
-      "date": "2026-06-05T15:15:35+00:00"
-    },
-    {
-      "id": "hn-48413645",
-      "source": "hn",
-      "title": "A Family Project (2022)",
-      "url": "https://bittersoutherner.com/feature/2022/a-family-project",
-      "score": 68,
-      "comments": 7,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-06-05T15:15:03+00:00"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5347,6 +5333,20 @@
         "Release"
       ],
       "date": "2026-02-23T14:52:17Z"
+    },
+    {
+      "id": "ctf-3246876",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox Media writeup",
+      "url": "https://dev.to/mohamed_mo_f0979dd80f48c7/hackthebox-media-writeup-58i6",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-02-10T15:56:33Z"
     },
     {
       "id": "ghrel-chroma-core_chroma-209726505",

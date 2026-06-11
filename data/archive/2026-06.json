@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-11T16:24:02.465563+00:00",
-  "total_articles": 452,
+  "generated_at": "2026-06-11T17:42:56.010641+00:00",
+  "total_articles": 451,
   "source_counts": {
     "hn": 354,
-    "zennqiita": 96,
+    "zennqiita": 95,
     "project": 2
   },
   "severity_counts": {
-    "critical": 18,
+    "critical": 17,
     "high": 1,
     "medium": 3
   },
@@ -140,18 +140,18 @@
       "date": "2026-06-06T18:35:27+00:00"
     },
     {
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "score": 600,
+      "source": "hn",
+      "date": "2026-06-11T06:42:06+00:00"
+    },
+    {
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
       "score": 590,
       "source": "hn",
       "date": "2026-06-08T15:27:33+00:00"
-    },
-    {
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "score": 575,
-      "source": "hn",
-      "date": "2026-06-09T17:23:40+00:00"
     }
   ],
   "security_highlights": [
@@ -170,7 +170,7 @@
       "date": "2026-06-11T15:09:42+00:00"
     },
     {
-      "title": "MiMo Code Is Now Released and Open-Source",
+      "title": "MiMo Code is now released and open-source",
       "url": "https://mimo.xiaomi.com/mimocode",
       "severity": "critical",
       "source": "hn",
@@ -280,13 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-06T18:21:06+00:00"
-    },
-    {
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-05T15:59:57+00:00"
     }
   ]
 }
