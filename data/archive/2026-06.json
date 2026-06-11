@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-11T13:19:53.188860+00:00",
+  "generated_at": "2026-06-11T14:45:14.996846+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 350,
-    "zennqiita": 100,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 2
   },
   "severity_counts": {
-    "high": 2,
-    "critical": 14,
+    "critical": 15,
+    "high": 1,
     "medium": 3
   },
   "top_articles": [
@@ -56,6 +56,13 @@
       "date": "2026-06-09T21:19:11+00:00"
     },
     {
+      "title": "πFS",
+      "url": "https://github.com/philipl/pifs",
+      "score": 866,
+      "source": "hn",
+      "date": "2026-06-10T18:54:54+00:00"
+    },
+    {
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
       "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
       "score": 864,
@@ -68,13 +75,6 @@
       "score": 851,
       "source": "hn",
       "date": "2026-06-07T18:33:07+00:00"
-    },
-    {
-      "title": "πFS",
-      "url": "https://github.com/philipl/pifs",
-      "score": 837,
-      "source": "hn",
-      "date": "2026-06-10T18:54:54+00:00"
     },
     {
       "title": "Making Graphics Like it's 1993",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "MiMo Code Is Now Released and Open-Source",
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-11T14:27:19+00:00"
+    },
     {
       "title": "Are insecure code completions in PyCharm a vulnerability?",
       "url": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
@@ -259,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-05T15:59:57+00:00"
-    },
-    {
-      "title": "CVE-2026-49975「HTTP/2 Bomb」をわかりやすく解説——AIが人間より先に気づいた脆弱性",
-      "url": "https://qiita.com/long-910/items/76779fc1d8602dab73b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-06-05T21:33:14+09:00"
     }
   ]
 }
