@@ -1,8 +1,8 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T07:42:30.219087+00:00",
-  "total_articles": 51,
-  "urgent_count": 3,
+  "generated_at": "2026-06-11T09:31:17.872151+00:00",
+  "total_articles": 57,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-10T16:09:26+00:00"
-    },
-    {
-      "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
-      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-10T07:44:49+00:00"
     },
     {
       "title": "Are insecure code completions in PyCharm a vulnerability?",
@@ -29,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
         {
           "title": "Building an HTML-first site doubled our users overnight",
           "url": "https://mohkohn.co.uk/writing/html-first/",
-          "score": 1051,
+          "score": 1126,
           "source": "hn",
           "severity": null,
           "date": "2026-06-10T12:45:47+00:00"
@@ -42,26 +35,26 @@
         {
           "title": "πFS",
           "url": "https://github.com/philipl/pifs",
-          "score": 705,
+          "score": 737,
           "source": "hn",
           "severity": null,
           "date": "2026-06-10T18:54:54+00:00"
         },
         {
-          "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
-          "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-          "score": 504,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-10T07:44:49+00:00"
-        },
-        {
           "title": "PgDog is funded and coming to a database near you",
           "url": "https://pgdog.dev/blog/our-funding-announcement",
-          "score": 438,
+          "score": 459,
           "source": "hn",
           "severity": null,
           "date": "2026-06-10T14:02:59+00:00"
+        },
+        {
+          "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+          "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+          "score": 429,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-10T16:42:00+00:00"
         },
         {
           "title": "Farmer donates land for a park, city sells it for $10M as data center land",
@@ -75,31 +68,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 10,
       "top_items": [
         {
-          "title": "落語で学ぶ『AI時代のDDD』ドメインプリミティブ編",
-          "url": "https://qiita.com/Yametaro/items/226e7c06bc9d5877e64e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Oracle AI Database@AWS で Autonomous AI Database Serverless  を作成してみてみた",
+          "url": "https://qiita.com/shirok/items/06f3bca71ae6378a844e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-10T20:44:02+09:00"
+          "date": "2026-06-11T18:10:02+09:00"
         },
         {
-          "title": "【CSS】FlexとGridのGapにBorderをつけることができるようになった！！",
-          "url": "https://qiita.com/degudegu2510/items/0c067a232719212c4bfe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "信頼されるエンジニアが実践する「聴く技術」4選",
+          "url": "https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-10T18:30:58+09:00"
+          "date": "2026-06-11T15:28:12+09:00"
         },
         {
-          "title": "各コーディングエージェントがコードを「どう把握」しているのか差異と特徴を調べた",
-          "url": "https://qiita.com/hokutoh/items/cb6344af8c76b2672338?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【第2回】電力システムの運用 ＝ ロケットサイエンス！？",
+          "url": "https://qiita.com/sc-nikita/items/bf1d4244b0cfd0773762?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-10T17:14:20+09:00"
+          "date": "2026-06-11T11:42:40+09:00"
+        },
+        {
+          "title": "【freee MCP】経理にClaudeを雇う時代？請求書下書きワークフローをSkill化してみた",
+          "url": "https://qiita.com/TMiyamoto/items/62dd7aabb4e043c61046?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-11T10:49:32+09:00"
+        },
+        {
+          "title": "AIが文法を肩代わりする時代に、未経験者がClaude Codeより先に自分で鍛えるべき3つの土台",
+          "url": "https://qiita.com/ennagara128/items/29cd869d67225faecc0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-11T10:02:44+09:00"
         }
       ]
     },

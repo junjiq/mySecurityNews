@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-11T07:42:30.265856+00:00",
+  "generated_at": "2026-06-11T09:31:17.923508+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 354,
-    "zennqiita": 96,
+    "hn": 350,
+    "zennqiita": 100,
     "project": 1
   },
   "severity_counts": {
     "high": 2,
-    "critical": 16,
+    "critical": 14,
     "medium": 3
   },
   "top_articles": [
@@ -28,6 +28,13 @@
       "date": "2026-06-06T04:38:36+00:00"
     },
     {
+      "title": "Building an HTML-first site doubled our users overnight",
+      "url": "https://mohkohn.co.uk/writing/html-first/",
+      "score": 1126,
+      "source": "hn",
+      "date": "2026-06-10T12:45:47+00:00"
+    },
+    {
       "title": "Show HN: Performative-UI – A react component library of design tropes",
       "url": "https://vorpus.github.io/performativeUI/",
       "score": 1085,
@@ -40,13 +47,6 @@
       "score": 1066,
       "source": "hn",
       "date": "2026-06-10T00:29:01+00:00"
-    },
-    {
-      "title": "Building an HTML-first site doubled our users overnight",
-      "url": "https://mohkohn.co.uk/writing/html-first/",
-      "score": 1051,
-      "source": "hn",
-      "date": "2026-06-10T12:45:47+00:00"
     },
     {
       "title": "If Claude Fable stops helping you, you'll never know",
@@ -91,6 +91,13 @@
       "date": "2026-06-06T06:02:28+00:00"
     },
     {
+      "title": "πFS",
+      "url": "https://github.com/philipl/pifs",
+      "score": 737,
+      "source": "hn",
+      "date": "2026-06-10T18:54:54+00:00"
+    },
+    {
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
       "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
       "score": 718,
@@ -103,13 +110,6 @@
       "score": 716,
       "source": "hn",
       "date": "2026-06-08T02:42:24+00:00"
-    },
-    {
-      "title": "πFS",
-      "url": "https://github.com/philipl/pifs",
-      "score": 705,
-      "source": "hn",
-      "date": "2026-06-10T18:54:54+00:00"
     },
     {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
@@ -266,20 +266,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-06-05T21:33:14+09:00"
-    },
-    {
-      "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-05T10:44:48+00:00"
-    },
-    {
-      "title": "Tracing a powerful GNSS interference source over Europe",
-      "url": "https://arxiv.org/abs/2606.03673",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-05T08:32:16+00:00"
     }
   ]
 }
