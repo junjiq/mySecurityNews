@@ -1,16 +1,16 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-11T03:46:47.747394+00:00",
-  "total_articles": 453,
+  "generated_at": "2026-06-11T05:36:40.997880+00:00",
+  "total_articles": 451,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 100,
+    "hn": 354,
+    "zennqiita": 96,
     "project": 1
   },
   "severity_counts": {
+    "high": 2,
     "critical": 16,
-    "medium": 3,
-    "high": 1
+    "medium": 3
   },
   "top_articles": [
     {
@@ -44,7 +44,7 @@
     {
       "title": "Building an HTML-first site doubled our users overnight",
       "url": "https://mohkohn.co.uk/writing/html-first/",
-      "score": 1022,
+      "score": 1051,
       "source": "hn",
       "date": "2026-06-10T12:45:47+00:00"
     },
@@ -133,6 +133,13 @@
       "date": "2026-06-08T18:17:53+00:00"
     },
     {
+      "title": "πFS",
+      "url": "https://github.com/philipl/pifs",
+      "score": 632,
+      "source": "hn",
+      "date": "2026-06-10T18:54:54+00:00"
+    },
+    {
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "score": 613,
@@ -145,16 +152,16 @@
       "score": 590,
       "source": "hn",
       "date": "2026-06-08T15:27:33+00:00"
-    },
-    {
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "score": 568,
-      "source": "hn",
-      "date": "2026-06-08T11:58:02+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Are insecure code completions in PyCharm a vulnerability?",
+      "url": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-11T01:26:03+00:00"
+    },
     {
       "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
       "url": "https://www.extend.ai/ui",
