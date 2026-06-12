@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-12T10:32:23.134581+00:00",
+  "generated_at": "2026-06-12T12:06:01.652405+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 352,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 19,
+    "critical": 20,
     "high": 1,
     "medium": 2
   },
@@ -23,7 +23,7 @@
     {
       "title": "Show HN: Homebrew 6.0.0",
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 1243,
+      "score": 1281,
       "source": "hn",
       "date": "2026-06-11T13:24:29+00:00"
     },
@@ -54,6 +54,13 @@
       "score": 906,
       "source": "hn",
       "date": "2026-06-10T18:54:54+00:00"
+    },
+    {
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "score": 897,
+      "source": "hn",
+      "date": "2026-06-11T23:01:55+00:00"
     },
     {
       "title": "If Claude Fable stops helping you, you'll never know",
@@ -91,11 +98,11 @@
       "date": "2026-06-10T01:44:13+00:00"
     },
     {
-      "title": "If you are asking for human attention, demonstrate human effort",
-      "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 773,
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "score": 763,
       "source": "hn",
-      "date": "2026-06-11T23:01:55+00:00"
+      "date": "2026-06-12T04:42:53+00:00"
     },
     {
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
@@ -140,13 +147,6 @@
       "date": "2026-06-08T18:17:53+00:00"
     },
     {
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "score": 616,
-      "source": "hn",
-      "date": "2026-06-12T04:42:53+00:00"
-    },
-    {
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "score": 613,
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-12T10:42:50+00:00"
+    },
     {
       "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
       "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
