@@ -1,8 +1,8 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T15:04:49.348931+00:00",
-  "total_articles": 52,
-  "urgent_count": 5,
+  "generated_at": "2026-06-12T16:31:07.271067+00:00",
+  "total_articles": 51,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
@@ -24,20 +24,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-11T19:23:52+00:00"
-    },
-    {
-      "title": "The RCE that AMD wouldn't fix",
-      "url": "https://mrbruh.com/amd2/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-11T16:03:40+00:00"
-    },
-    {
-      "title": "Show HN: Open-source API Key server written in Go by Ory",
-      "url": "https://github.com/ory/talos/tree/master",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-11T15:09:42+00:00"
     }
   ],
   "categories": [
@@ -48,7 +34,7 @@
         {
           "title": "If you are asking for human attention, demonstrate human effort",
           "url": "https://tombedor.dev/human-attention-and-human-effort/",
-          "score": 1159,
+          "score": 1267,
           "source": "hn",
           "severity": null,
           "date": "2026-06-11T23:01:55+00:00"
@@ -56,7 +42,7 @@
         {
           "title": "AI agent bankrupted their operator while trying to scan DN42",
           "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-          "score": 1097,
+          "score": 1215,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T04:42:53+00:00"
@@ -64,7 +50,7 @@
         {
           "title": "Claude Fable is relentlessly proactive",
           "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-          "score": 622,
+          "score": 676,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T01:06:51+00:00"
@@ -72,25 +58,33 @@
         {
           "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
           "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-          "score": 609,
+          "score": 655,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T00:38:11+00:00"
         },
         {
-          "title": "Petition to Withdraw Canada's Bill C-22",
-          "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-          "score": 471,
+          "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+          "url": "https://fablepool.com",
+          "score": 486,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-11T15:37:23+00:00"
+          "date": "2026-06-11T21:17:30+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
+        {
+          "title": "Deep Data Securityで実現するNL2SQLのアクセス制御",
+          "url": "https://qiita.com/Western24/items/100c5b4f878f8b3a9185?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-13T00:39:18+09:00"
+        },
         {
           "title": "Oracle AI Database@AWS で Autonomous AI Database Serverless  を作成してみてみた",
           "url": "https://qiita.com/shirok/items/06f3bca71ae6378a844e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -122,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-12T13:50:04+09:00"
-        },
-        {
-          "title": "TSKaigi 2026に参加＆登壇してきました！ #TSKaigi2026",
-          "url": "https://qiita.com/okuto_oyama/items/6b93d82a7da79f7e3d15?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-12T13:41:20+09:00"
         }
       ]
     }
