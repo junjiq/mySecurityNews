@@ -1,9 +1,16 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T22:32:50.949421+00:00",
-  "total_articles": 61,
-  "urgent_count": 2,
+  "generated_at": "2026-06-12T23:32:26.351874+00:00",
+  "total_articles": 64,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-12T22:13:29+00:00"
+    },
     {
       "title": "Law Enforcement's \"Warrior\" Problem (2015)",
       "url": "https://harvardlawreview.org/forum/vol-128/law-enforcements-warrior-problem/",
@@ -22,16 +29,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 54,
       "top_items": [
-        {
-          "title": "If you are asking for human attention, demonstrate human effort",
-          "url": "https://tombedor.dev/human-attention-and-human-effort/",
-          "score": 1461,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-11T23:01:55+00:00"
-        },
         {
           "title": "AI agent bankrupted their operator while trying to scan DN42",
           "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
@@ -59,10 +58,18 @@
         {
           "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
           "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-          "score": 593,
+          "score": 647,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T15:15:24+00:00"
+        },
+        {
+          "title": "A Call to Action: Stop the FCC's KYC Regime",
+          "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+          "score": 296,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-12T14:33:29+00:00"
         }
       ]
     },

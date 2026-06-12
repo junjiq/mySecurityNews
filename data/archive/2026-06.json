@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-12T22:32:50.991549+00:00",
+  "generated_at": "2026-06-12T23:32:26.389300+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 98,
+    "hn": 355,
+    "zennqiita": 95,
     "project": 2
   },
   "severity_counts": {
-    "critical": 17,
+    "critical": 18,
     "medium": 3,
     "high": 1
   },
@@ -23,7 +23,7 @@
     {
       "title": "If you are asking for human attention, demonstrate human effort",
       "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 1461,
+      "score": 1479,
       "source": "hn",
       "date": "2026-06-11T23:01:55+00:00"
     },
@@ -147,14 +147,21 @@
       "date": "2026-06-12T00:38:11+00:00"
     },
     {
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "score": 637,
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "score": 647,
       "source": "hn",
-      "date": "2026-06-08T15:13:43+00:00"
+      "date": "2026-06-12T15:15:24+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-12T22:13:29+00:00"
+    },
     {
       "title": "Law Enforcement's \"Warrior\" Problem (2015)",
       "url": "https://harvardlawreview.org/forum/vol-128/law-enforcements-warrior-problem/",
