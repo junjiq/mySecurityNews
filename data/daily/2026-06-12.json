@@ -1,8 +1,8 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T13:41:13.542819+00:00",
-  "total_articles": 55,
-  "urgent_count": 7,
+  "generated_at": "2026-06-12T15:04:49.348931+00:00",
+  "total_articles": 52,
+  "urgent_count": 5,
   "urgent_items": [
     {
       "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
@@ -38,31 +38,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-11T15:09:42+00:00"
-    },
-    {
-      "title": "MiMo Code is now released and open-source",
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-11T14:27:19+00:00"
-    },
-    {
-      "title": "Euro-Office: First version of the open-source web office is here",
-      "url": "https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-11T14:06:43+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 45,
       "top_items": [
         {
           "title": "If you are asking for human attention, demonstrate human effort",
           "url": "https://tombedor.dev/human-attention-and-human-effort/",
-          "score": 1034,
+          "score": 1159,
           "source": "hn",
           "severity": null,
           "date": "2026-06-11T23:01:55+00:00"
@@ -70,7 +56,7 @@
         {
           "title": "AI agent bankrupted their operator while trying to scan DN42",
           "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-          "score": 925,
+          "score": 1097,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T04:42:53+00:00"
@@ -78,7 +64,7 @@
         {
           "title": "Claude Fable is relentlessly proactive",
           "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-          "score": 572,
+          "score": 622,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T01:06:51+00:00"
@@ -86,24 +72,24 @@
         {
           "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
           "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-          "score": 565,
+          "score": 609,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T00:38:11+00:00"
         },
         {
-          "title": "MiMo Code is now released and open-source",
-          "url": "https://mimo.xiaomi.com/mimocode",
-          "score": 521,
+          "title": "Petition to Withdraw Canada's Bill C-22",
+          "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+          "score": 471,
           "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-11T14:27:19+00:00"
+          "severity": null,
+          "date": "2026-06-11T15:37:23+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 7,
       "top_items": [
         {
           "title": "Oracle AI Database@AWS で Autonomous AI Database Serverless  を作成してみてみた",
