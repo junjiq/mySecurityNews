@@ -1,7 +1,7 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T12:06:01.607172+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-06-12T13:41:13.542819+00:00",
+  "total_articles": 55,
   "urgent_count": 7,
   "urgent_items": [
     {
@@ -57,20 +57,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
-        {
-          "title": "Show HN: Homebrew 6.0.0",
-          "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-          "score": 1281,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-11T13:24:29+00:00"
-        },
         {
           "title": "If you are asking for human attention, demonstrate human effort",
           "url": "https://tombedor.dev/human-attention-and-human-effort/",
-          "score": 897,
+          "score": 1034,
           "source": "hn",
           "severity": null,
           "date": "2026-06-11T23:01:55+00:00"
@@ -78,26 +70,34 @@
         {
           "title": "AI agent bankrupted their operator while trying to scan DN42",
           "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-          "score": 763,
+          "score": 925,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T04:42:53+00:00"
         },
         {
+          "title": "Claude Fable is relentlessly proactive",
+          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+          "score": 572,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-12T01:06:51+00:00"
+        },
+        {
           "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
           "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-          "score": 513,
+          "score": 565,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T00:38:11+00:00"
         },
         {
-          "title": "Claude Fable is relentlessly proactive",
-          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-          "score": 512,
+          "title": "MiMo Code is now released and open-source",
+          "url": "https://mimo.xiaomi.com/mimocode",
+          "score": 521,
           "source": "hn",
-          "severity": null,
-          "date": "2026-06-12T01:06:51+00:00"
+          "severity": "critical",
+          "date": "2026-06-11T14:27:19+00:00"
         }
       ]
     },
