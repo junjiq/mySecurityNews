@@ -1,7 +1,7 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T07:02:32.672268+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-06-12T08:49:58.366509+00:00",
+  "total_articles": 56,
   "urgent_count": 6,
   "urgent_items": [
     {
@@ -50,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 45,
       "top_items": [
         {
           "title": "Show HN: Homebrew 6.0.0",
           "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-          "score": 1151,
+          "score": 1199,
           "source": "hn",
           "severity": null,
           "date": "2026-06-11T13:24:29+00:00"
@@ -63,7 +63,7 @@
         {
           "title": "If you are asking for human attention, demonstrate human effort",
           "url": "https://tombedor.dev/human-attention-and-human-effort/",
-          "score": 551,
+          "score": 666,
           "source": "hn",
           "severity": null,
           "date": "2026-06-11T23:01:55+00:00"
@@ -71,32 +71,32 @@
         {
           "title": "MiMo Code is now released and open-source",
           "url": "https://mimo.xiaomi.com/mimocode",
-          "score": 468,
+          "score": 485,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-11T14:27:19+00:00"
         },
         {
-          "title": "Petition to Withdraw Canada's Bill C-22",
-          "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-          "score": 416,
+          "title": "AI agent bankrupted their operator while trying to scan DN42",
+          "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+          "score": 452,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-11T15:37:23+00:00"
+          "date": "2026-06-12T04:42:53+00:00"
         },
         {
-          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-          "score": 388,
+          "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+          "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+          "score": 436,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-11T12:05:02+00:00"
+          "date": "2026-06-12T00:38:11+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 11,
       "top_items": [
         {
           "title": "【AI駆動開発】OpenSpecを既存プロジェクトに導入したときにやったこと ~選定理由・初期構築・利用ルール・感想など~",
@@ -107,28 +107,36 @@
           "date": "2026-06-12T15:37:42+09:00"
         },
         {
-          "title": "Oracle AI Database@AWS で Autonomous AI Database Serverless  を作成してみてみた",
-          "url": "https://qiita.com/shirok/items/06f3bca71ae6378a844e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Godot：当たり判定でキャラが吹き飛ぶ原因と解決（Area2Dを使う理由）",
+          "url": "https://qiita.com/aoi_haru/items/b9f749f963204fac057b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-12T09:23:08+09:00"
+          "date": "2026-06-12T14:08:42+09:00"
         },
         {
-          "title": "負担は誰が払い、利益は誰が得るのか？― 中間層・人材育成・移民政策を構造から考える : Pythonで学ぶ マクロ経済学入門 (89)",
-          "url": "https://qiita.com/maskot1977/items/d01ec530f959322082f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "コーディングエージェント、続けて話すか? 立て直すか?",
+          "url": "https://qiita.com/hokutoh/items/5d05145f8c0bf351a457?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-12T00:40:50+09:00"
+          "date": "2026-06-12T13:50:04+09:00"
         },
         {
-          "title": "【きっと分かる】TDDってなに？陣取りゲームでサクッと理解してみないか？",
-          "url": "https://qiita.com/tomoki-miso/items/2bea01d8d642b47bf1fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "TSKaigi 2026に参加＆登壇してきました！ #TSKaigi2026",
+          "url": "https://qiita.com/okuto_oyama/items/6b93d82a7da79f7e3d15?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-11T17:09:25+09:00"
+          "date": "2026-06-12T13:41:20+09:00"
+        },
+        {
+          "title": "Deep Data Securityで実現するNL2SQLのアクセス制御",
+          "url": "https://qiita.com/Western24/items/100c5b4f878f8b3a9185?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-12T12:30:17+09:00"
         }
       ]
     }
