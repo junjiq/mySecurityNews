@@ -1,7 +1,7 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T08:49:58.366509+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-06-12T10:32:23.091519+00:00",
+  "total_articles": 58,
   "urgent_count": 6,
   "urgent_items": [
     {
@@ -50,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 48,
       "top_items": [
         {
           "title": "Show HN: Homebrew 6.0.0",
           "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-          "score": 1199,
+          "score": 1243,
           "source": "hn",
           "severity": null,
           "date": "2026-06-11T13:24:29+00:00"
@@ -63,31 +63,31 @@
         {
           "title": "If you are asking for human attention, demonstrate human effort",
           "url": "https://tombedor.dev/human-attention-and-human-effort/",
-          "score": 666,
+          "score": 773,
           "source": "hn",
           "severity": null,
           "date": "2026-06-11T23:01:55+00:00"
         },
         {
-          "title": "MiMo Code is now released and open-source",
-          "url": "https://mimo.xiaomi.com/mimocode",
-          "score": 485,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-11T14:27:19+00:00"
-        },
-        {
           "title": "AI agent bankrupted their operator while trying to scan DN42",
           "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-          "score": 452,
+          "score": 616,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T04:42:53+00:00"
         },
         {
+          "title": "MiMo Code is now released and open-source",
+          "url": "https://mimo.xiaomi.com/mimocode",
+          "score": 501,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-06-11T14:27:19+00:00"
+        },
+        {
           "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
           "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-          "score": 436,
+          "score": 476,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T00:38:11+00:00"
@@ -96,7 +96,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
         {
           "title": "【AI駆動開発】OpenSpecを既存プロジェクトに導入したときにやったこと ~選定理由・初期構築・利用ルール・感想など~",
