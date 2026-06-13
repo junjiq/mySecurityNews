@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-13T08:08:48.253141+00:00",
+  "generated_at": "2026-06-13T09:37:14.496955+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 89,
+    "hn": 349,
+    "zennqiita": 101,
     "project": 2
   },
   "severity_counts": {
-    "critical": 20,
+    "critical": 19,
     "medium": 3,
     "high": 1
   },
@@ -23,7 +23,7 @@
     {
       "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
       "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "score": 2057,
+      "score": 2242,
       "source": "hn",
       "date": "2026-06-13T00:51:30+00:00"
     },
@@ -77,18 +77,18 @@
       "date": "2026-06-10T18:54:54+00:00"
     },
     {
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "score": 896,
+      "source": "hn",
+      "date": "2026-06-13T02:14:24+00:00"
+    },
+    {
       "title": "If Claude Fable stops helping you, you'll never know",
       "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
       "score": 868,
       "source": "hn",
       "date": "2026-06-09T21:19:11+00:00"
-    },
-    {
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 851,
-      "source": "hn",
-      "date": "2026-06-07T18:33:07+00:00"
     },
     {
       "title": "Making Graphics Like it's 1993",
@@ -98,25 +98,18 @@
       "date": "2026-06-09T10:46:14+00:00"
     },
     {
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "score": 815,
+      "source": "hn",
+      "date": "2026-06-12T15:15:24+00:00"
+    },
+    {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
       "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
       "score": 806,
       "source": "hn",
       "date": "2026-06-10T01:44:13+00:00"
-    },
-    {
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 802,
-      "source": "hn",
-      "date": "2026-06-13T02:14:24+00:00"
-    },
-    {
-      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "score": 799,
-      "source": "hn",
-      "date": "2026-06-12T15:15:24+00:00"
     },
     {
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
@@ -152,6 +145,13 @@
       "score": 661,
       "source": "hn",
       "date": "2026-06-11T06:42:06+00:00"
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 655,
+      "source": "hn",
+      "date": "2026-06-12T00:38:11+00:00"
     }
   ],
   "security_highlights": [
@@ -294,13 +294,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-07T19:25:24+00:00"
-    },
-    {
-      "title": "Proliferate (YC S25) is hiring to building open source Codex",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-07T17:01:17+00:00"
     }
   ]
 }
