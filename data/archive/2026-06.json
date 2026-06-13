@@ -1,10 +1,10 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-13T19:32:25.770324+00:00",
+  "generated_at": "2026-06-13T20:30:03.669514+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 358,
-    "zennqiita": 92,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 2
   },
   "severity_counts": {
@@ -16,7 +16,7 @@
     {
       "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
       "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "score": 3001,
+      "score": 3026,
       "source": "hn",
       "date": "2026-06-13T00:51:30+00:00"
     },
@@ -119,13 +119,6 @@
       "date": "2026-06-09T18:45:59+00:00"
     },
     {
-      "title": "Dopamine Fracking",
-      "url": "https://igerman.cc/blog/dopamine-fracking/",
-      "score": 716,
-      "source": "hn",
-      "date": "2026-06-08T02:42:24+00:00"
-    },
-    {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "score": 694,
@@ -152,6 +145,13 @@
       "score": 661,
       "source": "hn",
       "date": "2026-06-11T06:42:06+00:00"
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 655,
+      "source": "hn",
+      "date": "2026-06-12T00:38:11+00:00"
     }
   ],
   "security_highlights": [
@@ -189,6 +189,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-12T10:42:50+00:00"
+    },
+    {
+      "title": "Codex for open source",
+      "url": "https://openai.com/form/codex-for-oss/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-11T22:20:03+00:00"
     },
     {
       "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
@@ -273,13 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-08T16:52:11+00:00"
-    },
-    {
-      "title": "The EU Open Source Strategy",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-08T08:00:01+00:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T19:32:25.727969+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-06-13T20:30:03.624088+00:00",
+  "total_articles": 54,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 40,
       "top_items": [
         {
           "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
           "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "score": 3001,
+          "score": 3026,
           "source": "hn",
           "severity": null,
           "date": "2026-06-13T00:51:30+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "US bans differential privacy in Census data",
           "url": "https://desfontain.es/blog/banning-noise.html",
-          "score": 466,
+          "score": 542,
           "source": "hn",
           "severity": null,
           "date": "2026-06-13T13:54:56+00:00"
@@ -75,8 +75,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 14,
       "top_items": [
+        {
+          "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
+          "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-13T23:05:19+09:00"
+        },
+        {
+          "title": "拝啓 AI様 「人類」を主語にして話すのはやめてください。敬具 人類",
+          "url": "https://qiita.com/tomoki-miso/items/3a7352dea05f380c38fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-13T19:35:50+09:00"
+        },
         {
           "title": "IaC 入門シリーズ 第1回: Terraform で「インフラをコードで管理する」を体験する",
           "url": "https://qiita.com/tanaka_taro_JP_KYUSYU/items/d9150a89f6b3b8fb12bc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,36 +102,20 @@
           "date": "2026-06-13T19:27:16+09:00"
         },
         {
-          "title": "VRAM16GBで爆速ローカルLLMを召喚する",
-          "url": "https://qiita.com/rS_alonewolf/items/7859599ed282facb05d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "身近なGradleについてちゃんと理解する(タスクとビルドライフサイクル編)",
+          "url": "https://qiita.com/TJ_droid/items/a9b14468886cc916be99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-13T18:15:06+09:00"
+          "date": "2026-06-13T19:16:09+09:00"
         },
         {
-          "title": "AIタロット占いアプリを作ったら、AIが想像以上のポエマーだった話",
-          "url": "https://qiita.com/senle1024/items/10faf54207af42fe8100?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【React × TypeScript】デジタル名刺アプリをつくってみた",
+          "url": "https://qiita.com/takahiro_honda/items/e1cecc89fdc6fa524a95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-13T13:56:29+09:00"
-        },
-        {
-          "title": "Claude Code × OpenSCAD × 3Dプリンターで、憧れの3Dプリンター住宅を施工してみた",
-          "url": "https://qiita.com/issey_dotlog/items/19b84d3a38c1c9aa9567?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-13T13:27:40+09:00"
-        },
-        {
-          "title": "Smithyがすごい！AgentCoreゲートウェイとBedrockナレッジベースが直接つながる！！（LambdaやAgentCoreランタイムいらない）",
-          "url": "https://qiita.com/moritalous/items/a3ac103480966ccec75d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-13T12:06:53+09:00"
+          "date": "2026-06-13T18:26:31+09:00"
         }
       ]
     }
