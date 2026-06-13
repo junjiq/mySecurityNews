@@ -1,8 +1,8 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T16:32:08.889872+00:00",
-  "total_articles": 61,
-  "urgent_count": 4,
+  "generated_at": "2026-06-13T17:31:50.017525+00:00",
+  "total_articles": 56,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Open source AI must win",
@@ -24,24 +24,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-12T22:13:29+00:00"
-    },
-    {
-      "title": "Law Enforcement's \"Warrior\" Problem (2015)",
-      "url": "https://harvardlawreview.org/forum/vol-128/law-enforcements-warrior-problem/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-12T17:04:09+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 47,
       "top_items": [
         {
           "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
           "url": "https://www.anthropic.com/news/fable-mythos-access",
-          "score": 2875,
+          "score": 2933,
           "source": "hn",
           "severity": null,
           "date": "2026-06-13T00:51:30+00:00"
@@ -49,7 +42,7 @@
         {
           "title": "Open source AI must win",
           "url": "https://opensourceaimustwin.com/?share=v2",
-          "score": 1334,
+          "score": 1383,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-13T02:14:24+00:00"
@@ -57,7 +50,7 @@
         {
           "title": "Electric motors with no rare earths",
           "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-          "score": 628,
+          "score": 643,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T22:08:03+00:00"
@@ -65,7 +58,7 @@
         {
           "title": "How to setup a local coding agent on macOS",
           "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-          "score": 437,
+          "score": 449,
           "source": "hn",
           "severity": null,
           "date": "2026-06-12T17:34:55+00:00"
@@ -82,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
         {
           "title": "IaC 入門シリーズ 第1回: Terraform で「インフラをコードで管理する」を体験する",
