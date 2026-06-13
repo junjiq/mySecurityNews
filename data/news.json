@@ -1,17 +1,40 @@
 {
-  "updated_at": "2026-06-13T03:08:45.589665+00:00",
+  "updated_at": "2026-06-13T05:01:49.041105+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48512915",
+      "source": "hn",
+      "title": "Our response to the US ban on Fable 5 and Mythos 5",
+      "url": "https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5",
+      "score": 3,
+      "comments": 0,
+      "author": "ubutler",
+      "tags": [],
+      "date": "2026-06-13T03:59:45+00:00"
+    },
+    {
       "id": "hn-48511908",
       "source": "hn",
-      "title": "Open Source AI Must Win",
+      "title": "Open source AI must win",
       "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 147,
-      "comments": 33,
+      "score": 478,
+      "comments": 158,
       "author": "vednig",
       "tags": [],
       "date": "2026-06-13T02:14:24+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48511773",
+      "source": "hn",
+      "title": "TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
+      "url": "https://github.com/vrtnis/tycoon-learning-environment",
+      "score": 5,
+      "comments": 1,
+      "author": "vrtnis",
+      "tags": [],
+      "date": "2026-06-13T02:02:07+00:00",
       "severity": "critical"
     },
     {
@@ -19,8 +42,8 @@
       "source": "hn",
       "title": "As a result of a US Government directive, we are suspending access to Fable 5",
       "url": "https://twitter.com/ClaudeDevs/status/2065597942602531163",
-      "score": 55,
-      "comments": 15,
+      "score": 81,
+      "comments": 20,
       "author": "plonkus",
       "tags": [],
       "date": "2026-06-13T01:02:41+00:00"
@@ -39,10 +62,10 @@
     {
       "id": "hn-48511072",
       "source": "hn",
-      "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
       "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "score": 1078,
-      "comments": 667,
+      "score": 1516,
+      "comments": 1158,
       "author": "Dylan1312",
       "tags": [],
       "date": "2026-06-13T00:51:30+00:00"
@@ -74,8 +97,8 @@
       "source": "hn",
       "title": "Show HN: Putt.day a daily mini golf game",
       "url": "https://putt.day/",
-      "score": 85,
-      "comments": 56,
+      "score": 113,
+      "comments": 63,
       "author": "ellg",
       "tags": [],
       "date": "2026-06-12T22:56:06+00:00"
@@ -85,8 +108,8 @@
       "source": "hn",
       "title": "Twenty One Zero-Days in FFmpeg",
       "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-      "score": 119,
-      "comments": 58,
+      "score": 146,
+      "comments": 78,
       "author": "redbell",
       "tags": [],
       "date": "2026-06-12T22:13:29+00:00",
@@ -95,10 +118,10 @@
     {
       "id": "hn-48510010",
       "source": "hn",
-      "title": "Renault: Electric motors with no rare earths",
+      "title": "EWlectric motors with no rare earths",
       "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "score": 248,
-      "comments": 67,
+      "score": 314,
+      "comments": 80,
       "author": "bestouff",
       "tags": [],
       "date": "2026-06-12T22:08:03+00:00"
@@ -108,7 +131,7 @@
       "source": "hn",
       "title": "SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
-      "score": 18,
+      "score": 25,
       "comments": 4,
       "author": "taubek",
       "tags": [],
@@ -119,8 +142,8 @@
       "source": "hn",
       "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
       "url": "https://github.com/DanMcInerney/architect-loop",
-      "score": 60,
-      "comments": 30,
+      "score": 83,
+      "comments": 33,
       "author": "DanMcInerney",
       "tags": [],
       "date": "2026-06-12T20:33:22+00:00"
@@ -141,8 +164,8 @@
       "source": "hn",
       "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
       "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-      "score": 153,
-      "comments": 66,
+      "score": 175,
+      "comments": 68,
       "author": "DASD",
       "tags": [],
       "date": "2026-06-12T19:54:27+00:00"
@@ -196,7 +219,7 @@
       "source": "hn",
       "title": "Most Beautiful Will Ever Made (1936)",
       "url": "https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43",
-      "score": 51,
+      "score": 58,
       "comments": 13,
       "author": "cf100clunk",
       "tags": [],
@@ -240,8 +263,8 @@
       "source": "hn",
       "title": "How to setup a local coding agent on macOS",
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "score": 287,
-      "comments": 72,
+      "score": 310,
+      "comments": 77,
       "author": "kkm",
       "tags": [],
       "date": "2026-06-12T17:34:55+00:00"
@@ -251,8 +274,8 @@
       "source": "hn",
       "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
       "url": "https://piwodlaiwo.github.io/pirates/",
-      "score": 207,
-      "comments": 73,
+      "score": 224,
+      "comments": 75,
       "author": "iweczek",
       "tags": [],
       "date": "2026-06-12T17:07:46+00:00"
@@ -410,8 +433,8 @@
       "source": "hn",
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "score": 721,
-      "comments": 183,
+      "score": 754,
+      "comments": 186,
       "author": "gmays",
       "tags": [],
       "date": "2026-06-12T15:15:24+00:00"
@@ -432,8 +455,8 @@
       "source": "hn",
       "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
       "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
-      "score": 81,
-      "comments": 26,
+      "score": 88,
+      "comments": 28,
       "author": "jtlebigot",
       "tags": [],
       "date": "2026-06-12T14:50:06+00:00"
@@ -443,8 +466,8 @@
       "source": "hn",
       "title": "Slightly reducing the sloppiness of AI generated front end",
       "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "score": 167,
-      "comments": 111,
+      "score": 176,
+      "comments": 112,
       "author": "FergusArgyll",
       "tags": [],
       "date": "2026-06-12T14:48:38+00:00"
@@ -801,8 +824,8 @@
       "source": "hn",
       "title": "If you are asking for human attention, demonstrate human effort",
       "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 1514,
-      "comments": 466,
+      "score": 1535,
+      "comments": 467,
       "author": "jjfoooo4",
       "tags": [],
       "date": "2026-06-11T23:01:55+00:00"
@@ -901,8 +924,8 @@
       "source": "hn",
       "title": "Malware developers added nuclear and biological weapons text to to their spyware",
       "url": "https://twitter.com/jsrailton/status/2064661778978533571",
-      "score": 326,
-      "comments": 192,
+      "score": 348,
+      "comments": 198,
       "author": "marc__1",
       "tags": [],
       "date": "2026-06-11T20:24:18+00:00",
@@ -1599,8 +1622,8 @@
       "source": "hn",
       "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
       "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
-      "score": 148,
-      "comments": 45,
+      "score": 177,
+      "comments": 56,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-06-11T00:00:42+00:00"
@@ -1799,8 +1822,8 @@
       "source": "hn",
       "title": "A key remapping daemon for Linux",
       "url": "https://github.com/rvaiya/keyd",
-      "score": 9,
-      "comments": 3,
+      "score": 26,
+      "comments": 11,
       "author": "joooscha",
       "tags": [],
       "date": "2026-06-10T17:27:56+00:00"
@@ -2411,6 +2434,17 @@
       "date": "2026-06-10T10:35:30+09:00"
     },
     {
+      "id": "hn-48470152",
+      "source": "hn",
+      "title": "Why a Computer Science Degree Still Opens Hidden Doors",
+      "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
+      "score": 29,
+      "comments": 22,
+      "author": "jnord",
+      "tags": [],
+      "date": "2026-06-10T01:33:43+00:00"
+    },
+    {
       "id": "qiita-592c0756b4",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2601,8 +2635,8 @@
       "source": "hn",
       "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
       "url": "https://tectonic-typesetting.github.io/en-US/",
-      "score": 8,
-      "comments": 2,
+      "score": 28,
+      "comments": 3,
       "author": "maxloh",
       "tags": [],
       "date": "2026-06-09T21:00:39+00:00"
@@ -2672,6 +2706,17 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-06-09T18:45:59+00:00"
+    },
+    {
+      "id": "hn-48465634",
+      "source": "hn",
+      "title": "The Future of wasi-gfx and wasi:webgpu",
+      "url": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
+      "score": 7,
+      "comments": 0,
+      "author": "mendyberger",
+      "tags": [],
+      "date": "2026-06-09T18:42:58+00:00"
     },
     {
       "id": "hn-48464484",
@@ -5780,66 +5825,6 @@
       "source": "msf",
       "title": "[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion",
       "url": "https://www.exploit-db.com/exploits/52598",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0b1081a580",
-      "source": "msf",
-      "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52597",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-7fd71d4802",
-      "source": "msf",
-      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52596",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e827c93897",
-      "source": "msf",
-      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
-      "url": "https://www.exploit-db.com/exploits/52595",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e7ed248f76",
-      "source": "msf",
-      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
-      "url": "https://www.exploit-db.com/exploits/52594",
       "score": null,
       "author": "Exploit-DB",
       "tags": [
