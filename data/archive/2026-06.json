@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-14T13:06:51.462695+00:00",
+  "generated_at": "2026-06-14T14:15:31.098938+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 349,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 3,
-    "critical": 18,
+    "critical": 17,
     "high": 1
   },
   "top_articles": [
@@ -93,7 +93,7 @@
     {
       "title": "Noise infusion banned from statistical products published by Census Bureau",
       "url": "https://desfontain.es/blog/banning-noise.html",
-      "score": 847,
+      "score": 854,
       "source": "hn",
       "date": "2026-06-13T13:54:56+00:00"
     },
@@ -114,7 +114,7 @@
     {
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "score": 776,
+      "score": 790,
       "source": "hn",
       "date": "2026-06-13T11:40:20+00:00"
     },
@@ -133,6 +133,13 @@
       "date": "2026-06-08T19:14:47+00:00"
     },
     {
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "score": 683,
+      "source": "hn",
+      "date": "2026-06-13T16:18:31+00:00"
+    },
+    {
       "title": "Claude Fable is relentlessly proactive",
       "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
       "score": 676,
@@ -145,13 +152,6 @@
       "score": 661,
       "source": "hn",
       "date": "2026-06-12T22:08:03+00:00"
-    },
-    {
-      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-      "score": 661,
-      "source": "hn",
-      "date": "2026-06-11T06:42:06+00:00"
     }
   ],
   "security_highlights": [
@@ -280,13 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-09T07:33:16+00:00"
-    },
-    {
-      "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
-      "url": "https://gitdot.io/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-08T16:52:11+00:00"
     }
   ]
 }
