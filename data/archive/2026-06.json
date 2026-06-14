@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-13T23:51:48.628774+00:00",
+  "generated_at": "2026-06-14T00:49:30.101431+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 98,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 2
   },
   "severity_counts": {
     "medium": 4,
-    "critical": 17,
+    "critical": 18,
     "high": 1
   },
   "top_articles": [
@@ -119,18 +119,18 @@
       "date": "2026-06-09T18:45:59+00:00"
     },
     {
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "score": 701,
+      "source": "hn",
+      "date": "2026-06-13T13:54:56+00:00"
+    },
+    {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "score": 694,
       "source": "hn",
       "date": "2026-06-08T19:14:47+00:00"
-    },
-    {
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
-      "score": 679,
-      "source": "hn",
-      "date": "2026-06-13T13:54:56+00:00"
     },
     {
       "title": "Claude Fable is relentlessly proactive",
@@ -224,6 +224,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-11T15:09:42+00:00"
+    },
+    {
+      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+      "url": "https://github.com/kekcleader/FreeOberon",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-11T14:34:46+00:00"
     },
     {
       "title": "MiMo Code is now released and open-source",
