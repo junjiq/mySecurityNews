@@ -1,18 +1,18 @@
 {
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T05:08:47.099751+00:00",
+  "generated_at": "2026-06-14T07:03:41.256273+00:00",
   "total_articles": 49,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 41,
       "top_items": [
         {
           "title": "Noise infusion banned from statistical products published by Census Bureau",
           "url": "https://desfontain.es/blog/banning-noise.html",
-          "score": 780,
+          "score": 798,
           "source": "hn",
           "severity": null,
           "date": "2026-06-13T13:54:56+00:00"
@@ -20,10 +20,18 @@
         {
           "title": "Every Frame Perfect",
           "url": "https://tonsky.me/blog/every-frame-perfect/",
-          "score": 634,
+          "score": 661,
           "source": "hn",
           "severity": null,
           "date": "2026-06-13T11:40:20+00:00"
+        },
+        {
+          "title": "GLM 5.2 Is Out",
+          "url": "https://twitter.com/jietang/status/2065784751345287314",
+          "score": 506,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-13T16:18:31+00:00"
         },
         {
           "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
@@ -34,26 +42,18 @@
           "date": "2026-06-13T07:45:39+00:00"
         },
         {
-          "title": "GLM 5.2 Is Out",
-          "url": "https://twitter.com/jietang/status/2065784751345287314",
-          "score": 446,
+          "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+          "score": 273,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-13T16:18:31+00:00"
-        },
-        {
-          "title": "Leaving Mozilla",
-          "url": "https://blog.unitedheroes.net/5751",
-          "score": 396,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-13T05:57:14+00:00"
+          "date": "2026-06-13T19:54:55+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった",

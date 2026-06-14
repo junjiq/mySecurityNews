@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-06-14T05:08:47.037103+00:00",
+  "updated_at": "2026-06-14T07:03:41.184846+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48524620",
+      "source": "hn",
+      "title": "Don't trust large context windows",
+      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+      "score": 6,
+      "comments": 2,
+      "author": "computersuck",
+      "tags": [],
+      "date": "2026-06-14T06:07:09+00:00"
+    },
+    {
+      "id": "hn-48524447",
+      "source": "hn",
+      "title": "Consciousness likely not unique to earthlings, paper says",
+      "url": "https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says",
+      "score": 6,
+      "comments": 0,
+      "author": "giuliomagnifico",
+      "tags": [],
+      "date": "2026-06-14T05:27:45+00:00"
+    },
+    {
+      "id": "hn-48524434",
+      "source": "hn",
+      "title": "Tribblix: The retro Illumos distribution",
+      "url": "http://tribblix.org/",
+      "score": 21,
+      "comments": 6,
+      "author": "naturalmovement",
+      "tags": [],
+      "date": "2026-06-14T05:23:12+00:00"
+    },
+    {
+      "id": "hn-48524293",
+      "source": "hn",
+      "title": "Phoenix LiveView 1.2 Released",
+      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+      "score": 20,
+      "comments": 0,
+      "author": "ksec",
+      "tags": [],
+      "date": "2026-06-14T04:53:51+00:00"
+    },
+    {
       "id": "hn-48524135",
       "source": "hn",
-      "title": "Pac-Man, but You're the Ghost",
+      "title": "Pac-Man, but you're the ghost",
       "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-      "score": 3,
-      "comments": 1,
+      "score": 56,
+      "comments": 23,
       "author": "mindracer",
       "tags": [],
       "date": "2026-06-14T04:18:45+00:00"
@@ -16,10 +60,10 @@
     {
       "id": "hn-48524084",
       "source": "hn",
-      "title": "Software Architecture Guide",
+      "title": "Software Architecture Guide (2019)",
       "url": "https://martinfowler.com/architecture/",
-      "score": 9,
-      "comments": 1,
+      "score": 49,
+      "comments": 18,
       "author": "laxmena",
       "tags": [],
       "date": "2026-06-14T04:07:37+00:00"
@@ -29,8 +73,8 @@
       "source": "hn",
       "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
       "url": "https://sqltoerdiagram.com/",
-      "score": 4,
-      "comments": 1,
+      "score": 46,
+      "comments": 12,
       "author": "robhati",
       "tags": [],
       "date": "2026-06-14T03:43:30+00:00"
@@ -47,12 +91,23 @@
       "date": "2026-06-14T02:59:34+00:00"
     },
     {
+      "id": "hn-48523752",
+      "source": "hn",
+      "title": "Making Claude a Chemist",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "score": 24,
+      "comments": 15,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-06-14T02:55:36+00:00"
+    },
+    {
       "id": "hn-48523705",
       "source": "hn",
       "title": "Weave: Merging based on language structure and not lines",
       "url": "https://ataraxy-labs.github.io/weave/",
-      "score": 11,
-      "comments": 2,
+      "score": 21,
+      "comments": 9,
       "author": "rohanat",
       "tags": [],
       "date": "2026-06-14T02:45:38+00:00"
@@ -62,7 +117,7 @@
       "source": "hn",
       "title": "Building a serial and VGA \"everything console\"",
       "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-      "score": 10,
+      "score": 22,
       "comments": 0,
       "author": "classichasclass",
       "tags": [],
@@ -106,14 +161,13 @@
     {
       "id": "hn-48523080",
       "source": "hn",
-      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "title": "Honda Civics and the Evil Valet",
       "url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "score": 136,
-      "comments": 19,
+      "score": 214,
+      "comments": 35,
       "author": "librick",
       "tags": [],
-      "date": "2026-06-14T00:49:46+00:00",
-      "severity": "medium"
+      "date": "2026-06-14T00:49:46+00:00"
     },
     {
       "id": "hn-48522555",
@@ -131,7 +185,7 @@
       "source": "hn",
       "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
       "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
-      "score": 142,
+      "score": 179,
       "comments": 25,
       "author": "jeditobe",
       "tags": [],
@@ -186,8 +240,8 @@
       "source": "hn",
       "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
       "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-      "score": 84,
-      "comments": 19,
+      "score": 89,
+      "comments": 20,
       "author": "rasz",
       "tags": [],
       "date": "2026-06-13T18:32:22+00:00"
@@ -208,8 +262,8 @@
       "source": "hn",
       "title": "GameBoy Workboy",
       "url": "https://tcrf.net/Workboy",
-      "score": 173,
-      "comments": 59,
+      "score": 179,
+      "comments": 62,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-13T17:43:02+00:00"
@@ -252,8 +306,8 @@
       "source": "hn",
       "title": "GLM 5.2 Is Out",
       "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "score": 446,
-      "comments": 243,
+      "score": 506,
+      "comments": 271,
       "author": "aloknnikhil",
       "tags": [],
       "date": "2026-06-13T16:18:31+00:00"
@@ -287,8 +341,8 @@
       "source": "hn",
       "title": "Noise infusion banned from statistical products published by Census Bureau",
       "url": "https://desfontain.es/blog/banning-noise.html",
-      "score": 780,
-      "comments": 482,
+      "score": 798,
+      "comments": 496,
       "author": "nl",
       "tags": [],
       "date": "2026-06-13T13:54:56+00:00"
@@ -376,8 +430,8 @@
       "source": "hn",
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "score": 634,
-      "comments": 204,
+      "score": 661,
+      "comments": 220,
       "author": "ravenical",
       "tags": [],
       "date": "2026-06-13T11:40:20+00:00"
@@ -1298,8 +1352,8 @@
       "source": "hn",
       "title": "Python 3.14 garbage collection rigamarole",
       "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
-      "score": 24,
-      "comments": 14,
+      "score": 39,
+      "comments": 22,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-06-12T11:59:40+00:00"
@@ -1631,8 +1685,8 @@
       "source": "hn",
       "title": "Codex for open source",
       "url": "https://openai.com/form/codex-for-oss/",
-      "score": 202,
-      "comments": 67,
+      "score": 219,
+      "comments": 75,
       "author": "EvgeniyZh",
       "tags": [],
       "date": "2026-06-11T22:20:03+00:00",
@@ -1980,7 +2034,7 @@
       "source": "hn",
       "title": "(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]",
       "url": "https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf",
-      "score": 3,
+      "score": 13,
       "comments": 1,
       "author": "not_a9",
       "tags": [],
@@ -2015,8 +2069,8 @@
       "source": "hn",
       "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
       "url": "https://github.com/kekcleader/FreeOberon",
-      "score": 54,
-      "comments": 19,
+      "score": 71,
+      "comments": 26,
       "author": "peter_d_sherman",
       "tags": [],
       "date": "2026-06-11T14:34:46+00:00",
@@ -2576,6 +2630,17 @@
       "author": "mananaysiempre",
       "tags": [],
       "date": "2026-06-10T22:48:58+00:00"
+    },
+    {
+      "id": "hn-48483841",
+      "source": "hn",
+      "title": "LaserWriter Seeds",
+      "url": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
+      "score": 7,
+      "comments": 0,
+      "author": "frizlab",
+      "tags": [],
+      "date": "2026-06-10T22:47:46+00:00"
     },
     {
       "id": "hn-48483387",
@@ -3920,8 +3985,8 @@
       "source": "hn",
       "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
       "url": "https://blog.pyodide.org/posts/314-release/",
-      "score": 101,
-      "comments": 24,
+      "score": 113,
+      "comments": 26,
       "author": "agriyakhetarpal",
       "tags": [],
       "date": "2026-06-09T15:54:31+00:00"
@@ -5122,74 +5187,6 @@
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-06-08T14:24:57+00:00"
-    },
-    {
-      "id": "hn-48445702",
-      "source": "hn",
-      "title": "Who Runs Your Rust Future? Hands-On Intro to Async Rust",
-      "url": "https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/",
-      "score": 78,
-      "comments": 14,
-      "author": "febin",
-      "tags": [],
-      "date": "2026-06-08T14:15:32+00:00"
-    },
-    {
-      "id": "hn-48445554",
-      "source": "hn",
-      "title": "Show HN: Performative-UI – A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 1085,
-      "comments": 195,
-      "author": "lizhang",
-      "tags": [],
-      "date": "2026-06-08T14:05:16+00:00"
-    },
-    {
-      "id": "hn-48445469",
-      "source": "hn",
-      "title": "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
-      "url": "https://github.com/convictional/souls-only",
-      "score": 5,
-      "comments": 3,
-      "author": "billtarbell",
-      "tags": [],
-      "date": "2026-06-08T14:00:22+00:00"
-    },
-    {
-      "id": "hn-48445171",
-      "source": "hn",
-      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
-      "url": "https://intunedhq.com",
-      "score": 106,
-      "comments": 47,
-      "author": "fkilaiwi",
-      "tags": [],
-      "date": "2026-06-08T13:35:27+00:00"
-    },
-    {
-      "id": "hn-48445075",
-      "source": "hn",
-      "title": "The Butlerian Jihad Has Begun",
-      "url": "https://syndekit.substack.com/p/the-butlerian-jihad-has-begun",
-      "score": 34,
-      "comments": 33,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-06-08T13:26:55+00:00"
-    },
-    {
-      "id": "qiita-fb0dee49cc",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "60代店長が生成AIとMakeで「勤務確認LINEボット」を作ってみた",
-      "url": "https://qiita.com/sijima2440/items/cc55180ff1d45f365c44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sijima2440",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-08T22:10:50+09:00"
     },
     {
       "id": "ctf-3761714",
