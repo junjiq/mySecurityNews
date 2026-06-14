@@ -1,41 +1,18 @@
 {
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T01:49:41.299150+00:00",
+  "generated_at": "2026-06-14T03:10:47.192827+00:00",
   "total_articles": 48,
-  "urgent_count": 2,
-  "urgent_items": [
-    {
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-13T02:14:24+00:00"
-    },
-    {
-      "title": "TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
-      "url": "https://github.com/vrtnis/tycoon-learning-environment",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-13T02:02:07+00:00"
-    }
-  ],
+  "urgent_count": 0,
+  "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
       "count": 37,
       "top_items": [
         {
-          "title": "Open source AI must win",
-          "url": "https://opensourceaimustwin.com/?share=v2",
-          "score": 1456,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-13T02:14:24+00:00"
-        },
-        {
           "title": "Noise infusion banned from statistical products published by Census Bureau",
           "url": "https://desfontain.es/blog/banning-noise.html",
-          "score": 727,
+          "score": 758,
           "source": "hn",
           "severity": null,
           "date": "2026-06-13T13:54:56+00:00"
@@ -43,7 +20,7 @@
         {
           "title": "Every Frame Perfect",
           "url": "https://tonsky.me/blog/every-frame-perfect/",
-          "score": 557,
+          "score": 595,
           "source": "hn",
           "severity": null,
           "date": "2026-06-13T11:40:20+00:00"
@@ -55,6 +32,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-13T07:45:39+00:00"
+        },
+        {
+          "title": "GLM 5.2 Is Out",
+          "url": "https://twitter.com/jietang/status/2065784751345287314",
+          "score": 397,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-13T16:18:31+00:00"
         },
         {
           "title": "Leaving Mozilla",
@@ -70,6 +55,14 @@
       "category": "日本語技術記事",
       "count": 11,
       "top_items": [
+        {
+          "title": "Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった",
+          "url": "https://qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-14T10:50:17+09:00"
+        },
         {
           "title": "【解説】実際の値をもとに、ベクトル化などのRAGの仕組みを根本から理解しましょう",
           "url": "https://qiita.com/miruky/items/c3d6277ff99afb214b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-13T19:16:09+09:00"
-        },
-        {
-          "title": "【React × TypeScript】デジタル名刺アプリをつくってみた",
-          "url": "https://qiita.com/takahiro_honda/items/e1cecc89fdc6fa524a95?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-13T18:26:31+09:00"
         }
       ]
     }
