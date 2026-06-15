@@ -1,16 +1,16 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-15T07:17:14.450887+00:00",
+  "generated_at": "2026-06-15T09:37:50.849442+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 354,
-    "zennqiita": 96,
+    "hn": 344,
+    "zennqiita": 106,
     "project": 2
   },
   "severity_counts": {
-    "high": 2,
+    "high": 3,
     "medium": 2,
-    "critical": 16
+    "critical": 15
   },
   "top_articles": [
     {
@@ -98,6 +98,13 @@
       "date": "2026-06-13T13:54:56+00:00"
     },
     {
+      "title": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/",
+      "score": 819,
+      "source": "hn",
+      "date": "2026-06-10T05:01:31+00:00"
+    },
+    {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
       "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
       "score": 806,
@@ -110,13 +117,6 @@
       "score": 790,
       "source": "hn",
       "date": "2026-06-13T11:40:20+00:00"
-    },
-    {
-      "title": "Firewood Splitting Simulator",
-      "url": "https://screen.toys/firewood/",
-      "score": 762,
-      "source": "hn",
-      "date": "2026-06-10T05:01:31+00:00"
     },
     {
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
@@ -161,6 +161,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-15T06:02:57+00:00"
+    },
+    {
+      "title": "CVSS 9.8ってどれくらい危ない？脆弱性情報を読むためのものさし",
+      "url": "https://qiita.com/mo__mo/items/49f9601481aec596f545?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-06-15T10:56:34+09:00"
     },
     {
       "title": "Open source AI must win",
@@ -273,13 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-10T07:44:49+00:00"
-    },
-    {
-      "title": "Show HN: 3D print Z reinforcement via injected loops",
-      "url": "https://mgunlogson.github.io/magma/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-09T13:17:53+00:00"
     }
   ]
 }
