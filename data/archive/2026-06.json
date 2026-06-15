@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-15T21:31:54.029904+00:00",
+  "generated_at": "2026-06-15T22:41:51.783123+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 346,
-    "zennqiita": 104,
+    "hn": 349,
+    "zennqiita": 101,
     "project": 2
   },
   "severity_counts": {
-    "critical": 17,
+    "critical": 18,
     "high": 5,
     "medium": 2
   },
@@ -93,7 +93,7 @@
     {
       "title": "Iroh 1.0",
       "url": "https://www.iroh.computer/blog/v1",
-      "score": 790,
+      "score": 833,
       "source": "hn",
       "date": "2026-06-15T15:13:06+00:00"
     },
@@ -196,6 +196,13 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-06-15T10:56:34+09:00"
+    },
+    {
+      "title": "Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive",
+      "url": "https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-13T19:53:41+00:00"
     },
     {
       "title": "Open source AI must win",
