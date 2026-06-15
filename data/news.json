@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-06-15T12:03:41.500015+00:00",
+  "updated_at": "2026-06-15T14:37:34.629698+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48540945",
+      "source": "hn",
+      "title": "Google Flight Simulator",
+      "url": "https://developers.google.com/maps/documentation/earth/flight-simulator",
+      "score": 31,
+      "comments": 7,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-06-15T13:26:08+00:00"
+    },
+    {
+      "id": "hn-48540854",
+      "source": "hn",
+      "title": "CrankGPT",
+      "url": "https://crankgpt.com",
+      "score": 36,
+      "comments": 11,
+      "author": "rishikeshs",
+      "tags": [],
+      "date": "2026-06-15T13:20:13+00:00"
+    },
+    {
+      "id": "hn-48540813",
+      "source": "hn",
+      "title": "Applying Brevity and Language Efficiency in Prompt Engineering",
+      "url": "https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html",
+      "score": 22,
+      "comments": 12,
+      "author": "pyeri",
+      "tags": [],
+      "date": "2026-06-15T13:16:20+00:00"
+    },
+    {
+      "id": "hn-48540126",
+      "source": "hn",
+      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+      "score": 154,
+      "comments": 94,
+      "author": "colesantiago",
+      "tags": [],
+      "date": "2026-06-15T12:08:59+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48539859",
       "source": "hn",
@@ -31,8 +76,8 @@
       "source": "hn",
       "title": "Anthropic's Safety Superpower",
       "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-      "score": 67,
-      "comments": 42,
+      "score": 149,
+      "comments": 115,
       "author": "swolpers",
       "tags": [],
       "date": "2026-06-15T10:06:35+00:00"
@@ -42,8 +87,8 @@
       "source": "hn",
       "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
       "url": "https://github.com/themartiano/luz",
-      "score": 17,
-      "comments": 4,
+      "score": 84,
+      "comments": 28,
       "author": "martiano",
       "tags": [],
       "date": "2026-06-15T09:34:10+00:00"
@@ -53,8 +98,8 @@
       "source": "hn",
       "title": "What the Fuck Happened to Nerds",
       "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-      "score": 295,
-      "comments": 195,
+      "score": 585,
+      "comments": 360,
       "author": "vrnvu",
       "tags": [],
       "date": "2026-06-15T08:23:52+00:00"
@@ -90,8 +135,8 @@
       "source": "hn",
       "title": "Openrouter Fusion API",
       "url": "https://openrouter.ai/openrouter/fusion",
-      "score": 65,
-      "comments": 24,
+      "score": 119,
+      "comments": 48,
       "author": "tdchaitanya",
       "tags": [],
       "date": "2026-06-15T07:10:57+00:00"
@@ -106,6 +151,17 @@
       "author": "sebastianvoelkl",
       "tags": [],
       "date": "2026-06-15T07:00:22+00:00"
+    },
+    {
+      "id": "hn-48537512",
+      "source": "hn",
+      "title": "Successful Psilocybin Treatment of Alzheimer",
+      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
+      "score": 63,
+      "comments": 43,
+      "author": "cl3misch",
+      "tags": [],
+      "date": "2026-06-15T06:52:21+00:00"
     },
     {
       "id": "qiita-29287bd959",
@@ -125,8 +181,8 @@
       "source": "hn",
       "title": "Curl will not accept vulnerability reports during July 2026",
       "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-      "score": 486,
-      "comments": 197,
+      "score": 601,
+      "comments": 232,
       "author": "secret-noun",
       "tags": [],
       "date": "2026-06-15T06:02:57+00:00",
@@ -137,8 +193,8 @@
       "source": "hn",
       "title": "Apple Foundation Models",
       "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "score": 220,
-      "comments": 82,
+      "score": 299,
+      "comments": 130,
       "author": "MehrdadKhnzd",
       "tags": [],
       "date": "2026-06-15T04:55:34+00:00"
@@ -200,8 +256,8 @@
       "source": "hn",
       "title": "Even more batteries included with Emacs",
       "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "score": 236,
-      "comments": 55,
+      "score": 278,
+      "comments": 81,
       "author": "signa11",
       "tags": [],
       "date": "2026-06-15T02:30:25+00:00"
@@ -262,8 +318,8 @@
       "source": "hn",
       "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
       "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
-      "score": 100,
-      "comments": 22,
+      "score": 118,
+      "comments": 34,
       "author": "teleforce",
       "tags": [],
       "date": "2026-06-15T00:07:32+00:00"
@@ -297,8 +353,8 @@
       "source": "hn",
       "title": "Your ePub Is fine",
       "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 679,
-      "comments": 223,
+      "score": 768,
+      "comments": 251,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-06-14T22:54:55+00:00"
@@ -475,8 +531,8 @@
       "source": "hn",
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "url": "https://github.com/tamnd/kage",
-      "score": 586,
-      "comments": 116,
+      "score": 622,
+      "comments": 121,
       "author": "tamnd",
       "tags": [],
       "date": "2026-06-14T17:25:38+00:00"
@@ -508,8 +564,8 @@
       "source": "hn",
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "score": 363,
-      "comments": 193,
+      "score": 376,
+      "comments": 198,
       "author": "unrvl22",
       "tags": [],
       "date": "2026-06-14T15:37:31+00:00"
@@ -2021,8 +2077,8 @@
       "source": "hn",
       "title": "Ported my C game to WASM, here's everybug that I hit",
       "url": "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
-      "score": 21,
-      "comments": 4,
+      "score": 59,
+      "comments": 41,
       "author": "birdculture",
       "tags": [],
       "date": "2026-06-12T17:30:57+00:00"
@@ -2112,8 +2168,8 @@
       "source": "hn",
       "title": "Exploring building a tiny FUSE filesystem",
       "url": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
-      "score": 25,
-      "comments": 4,
+      "score": 48,
+      "comments": 6,
       "author": "shayonj",
       "tags": [],
       "date": "2026-06-12T16:38:10+00:00"
@@ -2645,6 +2701,17 @@
       "date": "2026-06-12T13:41:20+09:00"
     },
     {
+      "id": "hn-48499993",
+      "source": "hn",
+      "title": "Asciline – real-time ASCII video rendering engine",
+      "url": "https://github.com/YusufB5/ASCILINE",
+      "score": 32,
+      "comments": 11,
+      "author": "godot",
+      "tags": [],
+      "date": "2026-06-12T04:39:46+00:00"
+    },
+    {
       "id": "hn-48499898",
       "source": "hn",
       "title": "Foreign business owners are scrambling to raise capital to stay in Japan",
@@ -2853,7 +2920,7 @@
       "source": "hn",
       "title": "Bitsy",
       "url": "https://bitsy.org/",
-      "score": 219,
+      "score": 243,
       "comments": 6,
       "author": "tosh",
       "tags": [],
@@ -3294,8 +3361,8 @@
       "source": "hn",
       "title": "There Is(Ǝ) – Such That (∋)",
       "url": "https://www.fractalkitty.com/there-is-3-such-that/",
-      "score": 55,
-      "comments": 20,
+      "score": 74,
+      "comments": 22,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-06-11T14:13:03+00:00"
@@ -3721,6 +3788,17 @@
         "Qiita"
       ],
       "date": "2026-06-11T11:42:40+09:00"
+    },
+    {
+      "id": "hn-48485527",
+      "source": "hn",
+      "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
+      "url": "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/",
+      "score": 57,
+      "comments": 12,
+      "author": "thunderbong",
+      "tags": [],
+      "date": "2026-06-11T02:22:06+00:00"
     },
     {
       "id": "qiita-addd432aae",
@@ -4667,8 +4745,8 @@
       "source": "hn",
       "title": "Firewood Splitting Simulator",
       "url": "https://screen.toys/firewood/",
-      "score": 855,
-      "comments": 249,
+      "score": 903,
+      "comments": 263,
       "author": "memalign",
       "tags": [],
       "date": "2026-06-10T05:01:31+00:00"
@@ -5121,96 +5199,15 @@
       "date": "2026-06-09T17:37:11+00:00"
     },
     {
-      "id": "hn-48464333",
+      "id": "hn-48463519",
       "source": "hn",
-      "title": "Where is the AI jobs crisis?",
-      "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
-      "score": 112,
-      "comments": 163,
-      "author": "bwestergard",
+      "title": "It used to be hard",
+      "url": "https://www.praf.me/it-used-to-be-hard",
+      "score": 28,
+      "comments": 14,
+      "author": "_praf",
       "tags": [],
-      "date": "2026-06-09T17:29:17+00:00"
-    },
-    {
-      "id": "hn-48464330",
-      "source": "hn",
-      "title": "The LD_DEBUG environment variable (2012)",
-      "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
-      "score": 56,
-      "comments": 1,
-      "author": "tanelpoder",
-      "tags": [],
-      "date": "2026-06-09T17:29:05+00:00"
-    },
-    {
-      "id": "hn-48464258",
-      "source": "hn",
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "score": 575,
-      "comments": 290,
-      "author": "lebovic",
-      "tags": [],
-      "date": "2026-06-09T17:23:40+00:00"
-    },
-    {
-      "id": "qiita-49cf8e4b25",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "会社で Microsoft 365 Copilot しか使えない人のための「エージェントビルダー」入門 ── 宣言型エージェントを最新版で作る",
-      "url": "https://qiita.com/sukimaengineer/items/15ddf5601ff29ef8d376?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sukimaengineer",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-10T02:17:46+09:00"
-    },
-    {
-      "id": "hn-48464140",
-      "source": "hn",
-      "title": "What it feels like to work with Mythos",
-      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-      "score": 336,
-      "comments": 294,
-      "author": "swolpers",
-      "tags": [],
-      "date": "2026-06-09T17:17:21+00:00"
-    },
-    {
-      "id": "hn-48463811",
-      "source": "hn",
-      "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
-      "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
-      "score": 186,
-      "comments": 64,
-      "author": "scrlk",
-      "tags": [],
-      "date": "2026-06-09T16:58:13+00:00"
-    },
-    {
-      "id": "hn-48463808",
-      "source": "hn",
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 2483,
-      "comments": 1988,
-      "author": "Philpax",
-      "tags": [],
-      "date": "2026-06-09T16:58:01+00:00"
-    },
-    {
-      "id": "qiita-433a668bdb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「OpenTelemetry...?」",
-      "url": "https://qiita.com/ntk221/items/6fd70f4ad52d1e9edc75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ntk221",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-10T01:50:10+09:00"
+      "date": "2026-06-09T16:43:54+00:00"
     },
     {
       "id": "ctf-3761714",

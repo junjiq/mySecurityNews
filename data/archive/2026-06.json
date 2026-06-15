@@ -1,16 +1,16 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-15T12:03:41.602124+00:00",
+  "generated_at": "2026-06-15T14:37:34.737772+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 344,
-    "zennqiita": 106,
+    "hn": 346,
+    "zennqiita": 104,
     "project": 2
   },
   "severity_counts": {
+    "critical": 16,
     "high": 3,
-    "medium": 2,
-    "critical": 15
+    "medium": 2
   },
   "top_articles": [
     {
@@ -19,13 +19,6 @@
       "score": 3026,
       "source": "hn",
       "date": "2026-06-13T00:51:30+00:00"
-    },
-    {
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 2483,
-      "source": "hn",
-      "date": "2026-06-09T16:58:01+00:00"
     },
     {
       "title": "If you are asking for human attention, demonstrate human effort",
@@ -84,18 +77,18 @@
       "date": "2026-06-10T18:54:54+00:00"
     },
     {
+      "title": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/",
+      "score": 903,
+      "source": "hn",
+      "date": "2026-06-10T05:01:31+00:00"
+    },
+    {
       "title": "If Claude Fable stops helping you, you'll never know",
       "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
       "score": 868,
       "source": "hn",
       "date": "2026-06-09T21:19:11+00:00"
-    },
-    {
-      "title": "Firewood Splitting Simulator",
-      "url": "https://screen.toys/firewood/",
-      "score": 855,
-      "source": "hn",
-      "date": "2026-06-10T05:01:31+00:00"
     },
     {
       "title": "Noise infusion banned from statistical products published by Census Bureau",
@@ -119,6 +112,13 @@
       "date": "2026-06-13T11:40:20+00:00"
     },
     {
+      "title": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "score": 768,
+      "source": "hn",
+      "date": "2026-06-14T22:54:55+00:00"
+    },
+    {
       "title": "CEOs who think AI replaces their employees are just bad CEOs",
       "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
       "score": 718,
@@ -133,13 +133,6 @@
       "date": "2026-06-13T16:18:31+00:00"
     },
     {
-      "title": "Your ePub Is fine",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 679,
-      "source": "hn",
-      "date": "2026-06-14T22:54:55+00:00"
-    },
-    {
       "title": "Claude Fable is relentlessly proactive",
       "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
       "score": 676,
@@ -152,9 +145,23 @@
       "score": 661,
       "source": "hn",
       "date": "2026-06-12T22:08:03+00:00"
+    },
+    {
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "score": 661,
+      "source": "hn",
+      "date": "2026-06-11T06:42:06+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-15T12:08:59+00:00"
+    },
     {
       "title": "Curl will not accept vulnerability reports during July 2026",
       "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
