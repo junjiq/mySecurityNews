@@ -1,14 +1,60 @@
 {
-  "updated_at": "2026-06-15T09:37:50.732052+00:00",
+  "updated_at": "2026-06-15T12:03:41.500015+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48539859",
+      "source": "hn",
+      "title": "Belgian politicians would rather risk treason charges than trust engineers",
+      "url": "http://mikhailian.mova.org/node/325",
+      "score": 14,
+      "comments": 4,
+      "author": "sam_lowry_",
+      "tags": [],
+      "date": "2026-06-15T11:41:18+00:00"
+    },
+    {
+      "id": "qiita-a4816046a7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS ANS は持っているけど Direct Connect を触ったことがなかったので、JAWS-UG 茨城のハンズオンに参加してきた",
+      "url": "https://qiita.com/k_adachi_01/items/18935b9dbd98e68da0ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "k_adachi_01",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-15T19:44:57+09:00"
+    },
+    {
+      "id": "hn-48539078",
+      "source": "hn",
+      "title": "Anthropic's Safety Superpower",
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+      "score": 67,
+      "comments": 42,
+      "author": "swolpers",
+      "tags": [],
+      "date": "2026-06-15T10:06:35+00:00"
+    },
+    {
+      "id": "hn-48538833",
+      "source": "hn",
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "url": "https://github.com/themartiano/luz",
+      "score": 17,
+      "comments": 4,
+      "author": "martiano",
+      "tags": [],
+      "date": "2026-06-15T09:34:10+00:00"
+    },
     {
       "id": "hn-48538229",
       "source": "hn",
       "title": "What the Fuck Happened to Nerds",
       "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-      "score": 101,
-      "comments": 52,
+      "score": 295,
+      "comments": 195,
       "author": "vrnvu",
       "tags": [],
       "date": "2026-06-15T08:23:52+00:00"
@@ -40,6 +86,17 @@
       "date": "2026-06-15T16:22:40+09:00"
     },
     {
+      "id": "hn-48537641",
+      "source": "hn",
+      "title": "Openrouter Fusion API",
+      "url": "https://openrouter.ai/openrouter/fusion",
+      "score": 65,
+      "comments": 24,
+      "author": "tdchaitanya",
+      "tags": [],
+      "date": "2026-06-15T07:10:57+00:00"
+    },
+    {
       "id": "hn-48537556",
       "source": "hn",
       "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
@@ -68,8 +125,8 @@
       "source": "hn",
       "title": "Curl will not accept vulnerability reports during July 2026",
       "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-      "score": 383,
-      "comments": 136,
+      "score": 486,
+      "comments": 197,
       "author": "secret-noun",
       "tags": [],
       "date": "2026-06-15T06:02:57+00:00",
@@ -80,8 +137,8 @@
       "source": "hn",
       "title": "Apple Foundation Models",
       "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "score": 121,
-      "comments": 34,
+      "score": 220,
+      "comments": 82,
       "author": "MehrdadKhnzd",
       "tags": [],
       "date": "2026-06-15T04:55:34+00:00"
@@ -143,8 +200,8 @@
       "source": "hn",
       "title": "Even more batteries included with Emacs",
       "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "score": 194,
-      "comments": 38,
+      "score": 236,
+      "comments": 55,
       "author": "signa11",
       "tags": [],
       "date": "2026-06-15T02:30:25+00:00"
@@ -205,8 +262,8 @@
       "source": "hn",
       "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
       "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
-      "score": 87,
-      "comments": 15,
+      "score": 100,
+      "comments": 22,
       "author": "teleforce",
       "tags": [],
       "date": "2026-06-15T00:07:32+00:00"
@@ -240,8 +297,8 @@
       "source": "hn",
       "title": "Your ePub Is fine",
       "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 583,
-      "comments": 195,
+      "score": 679,
+      "comments": 223,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-06-14T22:54:55+00:00"
@@ -418,8 +475,8 @@
       "source": "hn",
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "url": "https://github.com/tamnd/kage",
-      "score": 563,
-      "comments": 110,
+      "score": 586,
+      "comments": 116,
       "author": "tamnd",
       "tags": [],
       "date": "2026-06-14T17:25:38+00:00"
@@ -451,8 +508,8 @@
       "source": "hn",
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "score": 350,
-      "comments": 188,
+      "score": 363,
+      "comments": 193,
       "author": "unrvl22",
       "tags": [],
       "date": "2026-06-14T15:37:31+00:00"
@@ -664,8 +721,8 @@
       "source": "hn",
       "title": "Formal methods and the future of programming",
       "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-      "score": 266,
-      "comments": 94,
+      "score": 286,
+      "comments": 95,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-06-14T12:35:27+00:00"
@@ -693,19 +750,6 @@
       "author": "rmadriz",
       "tags": [],
       "date": "2026-06-14T12:15:27+00:00"
-    },
-    {
-      "id": "qiita-a4816046a7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS ANS は持っているけど Direct Connect を触ったことがなかったので、JAWS-UG 茨城のハンズオンに参加してきた",
-      "url": "https://qiita.com/k_adachi_01/items/18935b9dbd98e68da0ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "k_adachi_01",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-14T21:04:24+09:00"
     },
     {
       "id": "hn-48526360",
@@ -1088,8 +1132,8 @@
       "source": "hn",
       "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
       "url": "https://traceapp.info",
-      "score": 163,
-      "comments": 59,
+      "score": 176,
+      "comments": 65,
       "author": "AG342",
       "tags": [],
       "date": "2026-06-13T20:41:58+00:00"
@@ -1110,8 +1154,8 @@
       "source": "hn",
       "title": "Why does paper fold so well?",
       "url": "https://www.bbc.co.uk/programmes/w3ct8k70",
-      "score": 42,
-      "comments": 14,
+      "score": 60,
+      "comments": 26,
       "author": "zeristor",
       "tags": [],
       "date": "2026-06-13T19:31:54+00:00"
@@ -1856,8 +1900,8 @@
       "source": "hn",
       "title": "Being an old school web-based sports sim dev in the era of vibe coded games",
       "url": "https://zengm.com/blog/2026/06/vibecoded-games/",
-      "score": 6,
-      "comments": 2,
+      "score": 29,
+      "comments": 19,
       "author": "YesBox",
       "tags": [],
       "date": "2026-06-12T18:52:44+00:00"
@@ -1973,6 +2017,17 @@
       "date": "2026-06-12T17:34:55+00:00"
     },
     {
+      "id": "hn-48506980",
+      "source": "hn",
+      "title": "Ported my C game to WASM, here's everybug that I hit",
+      "url": "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
+      "score": 21,
+      "comments": 4,
+      "author": "birdculture",
+      "tags": [],
+      "date": "2026-06-12T17:30:57+00:00"
+    },
+    {
       "id": "hn-48506659",
       "source": "hn",
       "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
@@ -2057,8 +2112,8 @@
       "source": "hn",
       "title": "Exploring building a tiny FUSE filesystem",
       "url": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
-      "score": 9,
-      "comments": 2,
+      "score": 25,
+      "comments": 4,
       "author": "shayonj",
       "tags": [],
       "date": "2026-06-12T16:38:10+00:00"
@@ -2590,6 +2645,17 @@
       "date": "2026-06-12T13:41:20+09:00"
     },
     {
+      "id": "hn-48499898",
+      "source": "hn",
+      "title": "Foreign business owners are scrambling to raise capital to stay in Japan",
+      "url": "https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling",
+      "score": 53,
+      "comments": 22,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-06-12T04:24:53+00:00"
+    },
+    {
       "id": "hn-48499890",
       "source": "hn",
       "title": "Device Clock Generation (2025)",
@@ -2787,7 +2853,7 @@
       "source": "hn",
       "title": "Bitsy",
       "url": "https://bitsy.org/",
-      "score": 197,
+      "score": 219,
       "comments": 6,
       "author": "tosh",
       "tags": [],
@@ -3228,8 +3294,8 @@
       "source": "hn",
       "title": "There Is(Ǝ) – Such That (∋)",
       "url": "https://www.fractalkitty.com/there-is-3-such-that/",
-      "score": 34,
-      "comments": 12,
+      "score": 55,
+      "comments": 20,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-06-11T14:13:03+00:00"
@@ -3723,8 +3789,8 @@
       "source": "hn",
       "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
       "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
-      "score": 43,
-      "comments": 16,
+      "score": 50,
+      "comments": 22,
       "author": "joebig",
       "tags": [],
       "date": "2026-06-11T00:25:05+00:00"
@@ -4601,8 +4667,8 @@
       "source": "hn",
       "title": "Firewood Splitting Simulator",
       "url": "https://screen.toys/firewood/",
-      "score": 819,
-      "comments": 242,
+      "score": 855,
+      "comments": 249,
       "author": "memalign",
       "tags": [],
       "date": "2026-06-10T05:01:31+00:00"
@@ -5147,72 +5213,6 @@
       "date": "2026-06-10T01:50:10+09:00"
     },
     {
-      "id": "hn-48463430",
-      "source": "hn",
-      "title": "I Think Rutger Bregman and the School for Moral Ambition Are Full of Shit",
-      "url": "https://louwrentius.com/i-think-rutger-bregman-the-school-for-moral-ambition-are-full-of-shit.html",
-      "score": 4,
-      "comments": 1,
-      "author": "louwrentius",
-      "tags": [],
-      "date": "2026-06-09T16:38:38+00:00"
-    },
-    {
-      "id": "hn-48463024",
-      "source": "hn",
-      "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
-      "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
-      "score": 352,
-      "comments": 583,
-      "author": "flanged",
-      "tags": [],
-      "date": "2026-06-09T16:13:10+00:00"
-    },
-    {
-      "id": "hn-48463018",
-      "source": "hn",
-      "title": "Biff.core: system composition for Clojure web apps",
-      "url": "https://biffweb.com/p/core/",
-      "score": 104,
-      "comments": 21,
-      "author": "jacobobryant",
-      "tags": [],
-      "date": "2026-06-09T16:12:52+00:00"
-    },
-    {
-      "id": "hn-48462928",
-      "source": "hn",
-      "title": "Show HN: Claw Patrol, a security firewall for agents",
-      "url": "https://github.com/denoland/clawpatrol",
-      "score": 62,
-      "comments": 19,
-      "author": "rough-sea",
-      "tags": [],
-      "date": "2026-06-09T16:06:50+00:00"
-    },
-    {
-      "id": "hn-48462823",
-      "source": "hn",
-      "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
-      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
-      "score": 118,
-      "comments": 56,
-      "author": "doener",
-      "tags": [],
-      "date": "2026-06-09T15:59:41+00:00"
-    },
-    {
-      "id": "hn-48462759",
-      "source": "hn",
-      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-      "url": "https://blog.pyodide.org/posts/314-release/",
-      "score": 150,
-      "comments": 35,
-      "author": "agriyakhetarpal",
-      "tags": [],
-      "date": "2026-06-09T15:54:31+00:00"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5395,6 +5395,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-9a62999d45",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AI 開発合宿で見えたのは普段の開発文化だった",
+      "url": "https://zenn.dev/dress_code/articles/dresscode-ai-dev-camp",
+      "score": null,
+      "author": "ないとー",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 15 Jun 2026 02:30:08 GMT"
+    },
+    {
       "id": "zenn-af5a36196d",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5408,6 +5421,32 @@
       "date": "Mon, 15 Jun 2026 02:27:32 GMT"
     },
     {
+      "id": "zenn-bf29b3c708",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Minecraft自宅鯖がDDNSからKubernetesとWireGuardに進化した話",
+      "url": "https://zenn.dev/alecjp02/articles/minecraft-home-server-infra-evolution",
+      "score": null,
+      "author": "アレク",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 14 Jun 2026 16:28:53 GMT"
+    },
+    {
+      "id": "zenn-c4a9225b95",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Editor拡張を綺麗に実装したい！！！（Unity）",
+      "url": "https://zenn.dev/daikichi228/articles/872c73dd3df7e2",
+      "score": null,
+      "author": "ダイキチ",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 14 Jun 2026 16:14:36 GMT"
+    },
+    {
       "id": "zenn-d66135b087",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5419,6 +5458,32 @@
         "Zenn"
       ],
       "date": "Sun, 14 Jun 2026 14:11:29 GMT"
+    },
+    {
+      "id": "zenn-ca8002588c",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "逆引きアクセシビリティ 〜見た目も妥協しない UI コンポーネント実装カタログ〜",
+      "url": "https://zenn.dev/kagan/books/accessible-ui-catalog",
+      "score": null,
+      "author": "かがん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 14 Jun 2026 13:42:08 GMT"
+    },
+    {
+      "id": "zenn-ae03a23517",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Snowflake Summit26に参加してブースを全部回ってみた話",
+      "url": "https://zenn.dev/truestar/articles/4d026fdd4d39fa",
+      "score": null,
+      "author": "mizuho",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 14 Jun 2026 11:56:12 GMT"
     },
     {
       "id": "zenn-4fb19e686d",
@@ -5447,6 +5512,19 @@
       "date": "Sun, 14 Jun 2026 10:42:54 GMT"
     },
     {
+      "id": "zenn-80073d1d5b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "どうすれば月2億円分のトークンを燃やせるのか",
+      "url": "https://zenn.dev/r_kaga/articles/340fba67527789",
+      "score": null,
+      "author": "r.kagaya",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 14 Jun 2026 10:26:09 GMT"
+    },
+    {
       "id": "zenn-3a442455c9",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5460,19 +5538,6 @@
       "date": "Sun, 14 Jun 2026 08:08:31 GMT"
     },
     {
-      "id": "zenn-e96734768e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ミニモニター用ダッシュボードから始まった、Rust製ハードウェア監視ツール「HardwareVisualizer」",
-      "url": "https://zenn.dev/shm_7ec/articles/hardwarevisualizer-dev-story",
-      "score": null,
-      "author": "shm",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 14 Jun 2026 05:50:51 GMT"
-    },
-    {
       "id": "zenn-524d414ae0",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5484,19 +5549,6 @@
         "Zenn"
       ],
       "date": "Sun, 14 Jun 2026 04:05:29 GMT"
-    },
-    {
-      "id": "zenn-9ebb473a5f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "「生成AIで属人性を解消」には、違和感を感じる。",
-      "url": "https://zenn.dev/ncdc/articles/8f8f3bf16017f7",
-      "score": null,
-      "author": "いばらき",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 14 Jun 2026 04:00:08 GMT"
     },
     {
       "id": "zenn-8660930f08",
@@ -5551,19 +5603,6 @@
       "date": "Sat, 13 Jun 2026 21:37:29 GMT"
     },
     {
-      "id": "zenn-e9ca135afc",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIエージェント時代の品質保証 ― 監査駆動フィードバック開発という考え方",
-      "url": "https://zenn.dev/ichikawa_y/articles/audit-driven-feedback-development",
-      "score": null,
-      "author": "ichikawa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 13 Jun 2026 17:53:22 GMT"
-    },
-    {
       "id": "zenn-4e30135dd9",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5603,19 +5642,6 @@
       "date": "Sat, 13 Jun 2026 14:35:32 GMT"
     },
     {
-      "id": "zenn-976645a1f2",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "なぜAI生成コードは危ないのか — スキャナを作って見えた現実",
-      "url": "https://zenn.dev/numarn/articles/73fa473c161361",
-      "score": null,
-      "author": "ぬまーんのZenn記事",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 13 Jun 2026 11:51:05 GMT"
-    },
-    {
       "id": "zenn-95e9ec4ad1",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5627,32 +5653,6 @@
         "Zenn"
       ],
       "date": "Sat, 13 Jun 2026 07:22:33 GMT"
-    },
-    {
-      "id": "zenn-86e78f532e",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Next.js を作るガイドライン解説 -10本の実践アプリで学ぶ App Router 時代の設計指針-",
-      "url": "https://zenn.dev/yun_bow/books/bbd75c256479b0",
-      "score": null,
-      "author": "ゆんぼう",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 13 Jun 2026 07:14:59 GMT"
-    },
-    {
-      "id": "zenn-0fa79f48a6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "メイン環境をUbuntuにして2年経っての感想",
-      "url": "https://zenn.dev/paradoia/articles/312ff4e71b7f35",
-      "score": null,
-      "author": "パラドイア",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 12 Jun 2026 08:05:38 GMT"
     },
     {
       "id": "edb-3a6bcc02f2",

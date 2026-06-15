@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T09:37:50.802633+00:00",
+  "generated_at": "2026-06-15T12:03:41.560525+00:00",
   "total_articles": 65,
   "urgent_count": 2,
   "urgent_items": [
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 49,
       "top_items": [
         {
           "title": "Your ePub Is fine",
           "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-          "score": 583,
+          "score": 679,
           "source": "hn",
           "severity": null,
           "date": "2026-06-14T22:54:55+00:00"
@@ -35,18 +35,18 @@
         {
           "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
           "url": "https://github.com/tamnd/kage",
-          "score": 563,
+          "score": 586,
           "source": "hn",
           "severity": null,
           "date": "2026-06-14T17:25:38+00:00"
         },
         {
-          "title": "How to earn a billion dollars",
-          "url": "https://paulgraham.com/earn.html",
-          "score": 436,
+          "title": "Curl will not accept vulnerability reports during July 2026",
+          "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+          "score": 486,
           "source": "hn",
-          "severity": null,
-          "date": "2026-06-14T11:50:48+00:00"
+          "severity": "high",
+          "date": "2026-06-15T06:02:57+00:00"
         },
         {
           "title": "Not everyone is using AI for everything",
@@ -57,19 +57,27 @@
           "date": "2026-06-14T14:44:29+00:00"
         },
         {
-          "title": "Curl will not accept vulnerability reports during July 2026",
-          "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-          "score": 383,
+          "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+          "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+          "score": 363,
           "source": "hn",
-          "severity": "high",
-          "date": "2026-06-15T06:02:57+00:00"
+          "severity": null,
+          "date": "2026-06-14T15:37:31+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 19,
+      "count": 16,
       "top_items": [
+        {
+          "title": "AWS ANS は持っているけど Direct Connect を触ったことがなかったので、JAWS-UG 茨城のハンズオンに参加してきた",
+          "url": "https://qiita.com/k_adachi_01/items/18935b9dbd98e68da0ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-15T19:44:57+09:00"
+        },
         {
           "title": "Deep Data Securityで実現する Select AI with RAG のアクセス制御",
           "url": "https://qiita.com/Western24/items/8754afe240ec86df3b61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-15T13:25:25+09:00"
-        },
-        {
-          "title": "Hono × Zod OpenAPI × Swagger UIでAPIドキュメント簡単自動生成",
-          "url": "https://qiita.com/tomo-ryo/items/3f88009e5342fca03ffd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-15T13:08:13+09:00"
         }
       ]
     }
