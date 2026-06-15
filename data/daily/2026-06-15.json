@@ -1,8 +1,8 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T16:37:38.450863+00:00",
-  "total_articles": 51,
-  "urgent_count": 4,
+  "generated_at": "2026-06-15T18:32:07.649621+00:00",
+  "total_articles": 57,
+  "urgent_count": 5,
   "urgent_items": [
     {
       "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
@@ -10,6 +10,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-15T12:08:59+00:00"
+    },
+    {
+      "title": "Memory safety CVEs differ between Rust and C/C++",
+      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-15T16:11:02+00:00"
     },
     {
       "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
@@ -36,12 +43,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 43,
       "top_items": [
         {
           "title": "Your ePub Is fine",
           "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-          "score": 807,
+          "score": 839,
           "source": "hn",
           "severity": null,
           "date": "2026-06-14T22:54:55+00:00"
@@ -55,14 +62,6 @@
           "date": "2026-06-15T06:02:57+00:00"
         },
         {
-          "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-          "url": "https://github.com/tamnd/kage",
-          "score": 639,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-14T17:25:38+00:00"
-        },
-        {
           "title": "What the Fuck Happened to Nerds",
           "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
           "score": 585,
@@ -71,12 +70,20 @@
           "date": "2026-06-15T08:23:52+00:00"
         },
         {
-          "title": "Apple Foundation Models",
-          "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-          "score": 372,
+          "title": "Iroh 1.0",
+          "url": "https://www.iroh.computer/blog/v1",
+          "score": 522,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-15T04:55:34+00:00"
+          "date": "2026-06-15T15:13:06+00:00"
+        },
+        {
+          "title": "CrankGPT",
+          "url": "https://crankgpt.com",
+          "score": 460,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-15T13:20:13+00:00"
         }
       ]
     },

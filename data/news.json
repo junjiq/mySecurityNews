@@ -1,7 +1,85 @@
 {
-  "updated_at": "2026-06-15T16:37:38.382159+00:00",
+  "updated_at": "2026-06-15T18:32:07.588725+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48544781",
+      "source": "hn",
+      "title": "Game Engine White Papers Commander Keen",
+      "url": "https://forgottenbytes.net/commander_keen.html",
+      "score": 10,
+      "comments": 1,
+      "author": "mfiguiere",
+      "tags": [],
+      "date": "2026-06-15T17:52:39+00:00"
+    },
+    {
+      "id": "hn-48544451",
+      "source": "hn",
+      "title": "How TimescaleDB compresses time-series data",
+      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+      "score": 30,
+      "comments": 4,
+      "author": "lkanwoqwp",
+      "tags": [],
+      "date": "2026-06-15T17:29:17+00:00"
+    },
+    {
+      "id": "hn-48544396",
+      "source": "hn",
+      "title": "Typst 0.15.0",
+      "url": "https://typst.app/docs/changelog/0.15.0/",
+      "score": 12,
+      "comments": 1,
+      "author": "schu",
+      "tags": [],
+      "date": "2026-06-15T17:24:17+00:00"
+    },
+    {
+      "id": "hn-48543475",
+      "source": "hn",
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "score": 216,
+      "comments": 45,
+      "author": "tinywind",
+      "tags": [],
+      "date": "2026-06-15T16:15:53+00:00"
+    },
+    {
+      "id": "hn-48543392",
+      "source": "hn",
+      "title": "Memory safety CVEs differ between Rust and C/C++",
+      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+      "score": 49,
+      "comments": 37,
+      "author": "nicoburns",
+      "tags": [],
+      "date": "2026-06-15T16:11:02+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48543269",
+      "source": "hn",
+      "title": "Boot Naked Linux",
+      "url": "https://nick.zoic.org/art/boot-naked-linux/",
+      "score": 29,
+      "comments": 10,
+      "author": "abnercoimbre",
+      "tags": [],
+      "date": "2026-06-15T16:03:26+00:00"
+    },
+    {
+      "id": "hn-48543245",
+      "source": "hn",
+      "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+      "url": "https://machine0.io",
+      "score": 34,
+      "comments": 10,
+      "author": "bwm",
+      "tags": [],
+      "date": "2026-06-15T16:01:43+00:00"
+    },
     {
       "id": "qiita-d925e9474d",
       "source": "zennqiita",
@@ -20,8 +98,8 @@
       "source": "hn",
       "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
       "url": "https://v1c.rocks/log/exploiting-slack-video/",
-      "score": 9,
-      "comments": 1,
+      "score": 19,
+      "comments": 2,
       "author": "victorio",
       "tags": [],
       "date": "2026-06-15T15:43:17+00:00",
@@ -32,8 +110,8 @@
       "source": "hn",
       "title": "Iroh 1.0",
       "url": "https://www.iroh.computer/blog/v1",
-      "score": 268,
-      "comments": 73,
+      "score": 522,
+      "comments": 177,
       "author": "chadfowler",
       "tags": [],
       "date": "2026-06-15T15:13:06+00:00"
@@ -43,8 +121,8 @@
       "source": "hn",
       "title": "My Homelab AI Dev Platform",
       "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 28,
-      "comments": 6,
+      "score": 103,
+      "comments": 29,
       "author": "rsgm",
       "tags": [],
       "date": "2026-06-15T15:09:40+00:00"
@@ -54,11 +132,22 @@
       "source": "hn",
       "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
       "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
-      "score": 69,
-      "comments": 18,
+      "score": 147,
+      "comments": 53,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-06-15T14:48:47+00:00"
+    },
+    {
+      "id": "hn-48541014",
+      "source": "hn",
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "url": "https://github.com/sammysltd/euromesh",
+      "score": 52,
+      "comments": 67,
+      "author": "smashini",
+      "tags": [],
+      "date": "2026-06-15T13:31:09+00:00"
     },
     {
       "id": "hn-48540945",
@@ -76,11 +165,22 @@
       "source": "hn",
       "title": "CrankGPT",
       "url": "https://crankgpt.com",
-      "score": 366,
-      "comments": 150,
+      "score": 460,
+      "comments": 185,
       "author": "rishikeshs",
       "tags": [],
       "date": "2026-06-15T13:20:13+00:00"
+    },
+    {
+      "id": "hn-48540844",
+      "source": "hn",
+      "title": "Hetzner Price Adjustment",
+      "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+      "score": 116,
+      "comments": 254,
+      "author": "tuhtah",
+      "tags": [],
+      "date": "2026-06-15T13:19:39+00:00"
     },
     {
       "id": "hn-48540813",
@@ -193,8 +293,8 @@
       "source": "hn",
       "title": "Openrouter Fusion API",
       "url": "https://openrouter.ai/openrouter/fusion",
-      "score": 153,
-      "comments": 59,
+      "score": 173,
+      "comments": 65,
       "author": "tdchaitanya",
       "tags": [],
       "date": "2026-06-15T07:10:57+00:00"
@@ -251,8 +351,8 @@
       "source": "hn",
       "title": "Apple Foundation Models",
       "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "score": 372,
-      "comments": 171,
+      "score": 414,
+      "comments": 195,
       "author": "MehrdadKhnzd",
       "tags": [],
       "date": "2026-06-15T04:55:34+00:00"
@@ -314,8 +414,8 @@
       "source": "hn",
       "title": "Even more batteries included with Emacs",
       "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "score": 305,
-      "comments": 100,
+      "score": 323,
+      "comments": 113,
       "author": "signa11",
       "tags": [],
       "date": "2026-06-15T02:30:25+00:00"
@@ -411,8 +511,8 @@
       "source": "hn",
       "title": "Your ePub Is fine",
       "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 807,
-      "comments": 275,
+      "score": 839,
+      "comments": 283,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-06-14T22:54:55+00:00"
@@ -622,8 +722,8 @@
       "source": "hn",
       "title": "Making glass-to-metal seals for home­made vacuum tubes",
       "url": "https://maurycyz.com/projects/glass/1/",
-      "score": 24,
-      "comments": 8,
+      "score": 76,
+      "comments": 24,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-14T15:52:09+00:00"
@@ -2633,6 +2733,17 @@
       "date": "2026-06-12T17:08:51+09:00"
     },
     {
+      "id": "hn-48501044",
+      "source": "hn",
+      "title": "Building a plugin system without runtime, storage, or shared JavaScript context",
+      "url": "https://tolgee.io/blog/building-a-plugin-system-for-tolgee-without-a-runtime-storage-or-shared-js-context",
+      "score": 4,
+      "comments": 1,
+      "author": "jancizmar",
+      "tags": [],
+      "date": "2026-06-12T07:39:46+00:00"
+    },
+    {
       "id": "hn-48501012",
       "source": "hn",
       "title": "Report on an Unidentified Space Station",
@@ -3572,6 +3683,17 @@
       "date": "2026-06-11T12:05:02+00:00"
     },
     {
+      "id": "hn-48489163",
+      "source": "hn",
+      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "url": "https://fata.dev",
+      "score": 14,
+      "comments": 6,
+      "author": "djoume",
+      "tags": [],
+      "date": "2026-06-11T11:57:03+00:00"
+    },
+    {
       "id": "hn-48489151",
       "source": "hn",
       "title": "A Commons of Software Productive Infrastructure, by and for Capital",
@@ -3861,8 +3983,8 @@
       "source": "hn",
       "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
       "url": "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/",
-      "score": 103,
-      "comments": 49,
+      "score": 136,
+      "comments": 69,
       "author": "thunderbong",
       "tags": [],
       "date": "2026-06-11T02:22:06+00:00"
@@ -5090,127 +5212,6 @@
       "date": "2026-06-09T21:59:41+00:00"
     },
     {
-      "id": "hn-48467896",
-      "source": "hn",
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "score": 868,
-      "comments": 418,
-      "author": "mips_avatar",
-      "tags": [],
-      "date": "2026-06-09T21:19:11+00:00"
-    },
-    {
-      "id": "hn-48467759",
-      "source": "hn",
-      "title": "Exif Smuggling (2025)",
-      "url": "https://github.com/signalblur/exifsmugglingpoc",
-      "score": 75,
-      "comments": 24,
-      "author": "rolph",
-      "tags": [],
-      "date": "2026-06-09T21:06:00+00:00"
-    },
-    {
-      "id": "hn-48467712",
-      "source": "hn",
-      "title": "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs",
-      "url": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
-      "score": 75,
-      "comments": 22,
-      "author": "Cider9986",
-      "tags": [],
-      "date": "2026-06-09T21:01:40+00:00"
-    },
-    {
-      "id": "hn-48467705",
-      "source": "hn",
-      "title": "Upcoming breaking changes for npm v12",
-      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-      "score": 451,
-      "comments": 186,
-      "author": "plasma",
-      "tags": [],
-      "date": "2026-06-09T21:01:00+00:00"
-    },
-    {
-      "id": "hn-48467697",
-      "source": "hn",
-      "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
-      "url": "https://tectonic-typesetting.github.io/en-US/",
-      "score": 60,
-      "comments": 27,
-      "author": "maxloh",
-      "tags": [],
-      "date": "2026-06-09T21:00:39+00:00"
-    },
-    {
-      "id": "hn-48467570",
-      "source": "hn",
-      "title": "Alpine Linux 3.24.0 Released",
-      "url": "https://alpinelinux.org/posts/Alpine-3.24.0-released.html",
-      "score": 79,
-      "comments": 16,
-      "author": "fossdd",
-      "tags": [],
-      "date": "2026-06-09T20:50:54+00:00"
-    },
-    {
-      "id": "hn-48467437",
-      "source": "hn",
-      "title": "Appreciating Exif",
-      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-      "score": 166,
-      "comments": 35,
-      "author": "burnto",
-      "tags": [],
-      "date": "2026-06-09T20:41:44+00:00"
-    },
-    {
-      "id": "hn-48467028",
-      "source": "hn",
-      "title": "Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires",
-      "url": "https://www.motor1.com/news/798011/route-66-missouri-musical-road/",
-      "score": 8,
-      "comments": 1,
-      "author": "rmason",
-      "tags": [],
-      "date": "2026-06-09T20:14:42+00:00"
-    },
-    {
-      "id": "hn-48466917",
-      "source": "hn",
-      "title": "Google's 20% 'project' has become AI's 120% 'attention'",
-      "url": "https://joe.dev/posts/new-20pct-time/",
-      "score": 3,
-      "comments": 0,
-      "author": "scottdbuchanan",
-      "tags": [],
-      "date": "2026-06-09T20:06:24+00:00"
-    },
-    {
-      "id": "hn-48466812",
-      "source": "hn",
-      "title": "Grit: Rewriting Git in Rust with agents",
-      "url": "https://blog.gitbutler.com/true-grit",
-      "score": 148,
-      "comments": 217,
-      "author": "cbrewster",
-      "tags": [],
-      "date": "2026-06-09T19:58:21+00:00"
-    },
-    {
-      "id": "hn-48466277",
-      "source": "hn",
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
-      "score": 264,
-      "comments": 39,
-      "author": "ag2718",
-      "tags": [],
-      "date": "2026-06-09T19:21:45+00:00"
-    },
-    {
       "id": "ctf-3761714",
       "source": "project",
       "proj_category": "CTF",
@@ -5393,6 +5394,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-162a0641e8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Local LLMでのデータ分析を試してみた",
+      "url": "https://zenn.dev/aishift/articles/5a5383987efee6",
+      "score": null,
+      "author": "t.toda",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 15 Jun 2026 03:15:58 GMT"
+    },
+    {
       "id": "zenn-9a62999d45",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5430,19 +5444,6 @@
         "Zenn"
       ],
       "date": "Sun, 14 Jun 2026 16:28:53 GMT"
-    },
-    {
-      "id": "zenn-c4a9225b95",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Editor拡張を綺麗に実装したい！！！（Unity）",
-      "url": "https://zenn.dev/daikichi228/articles/872c73dd3df7e2",
-      "score": null,
-      "author": "ダイキチ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 14 Jun 2026 16:14:36 GMT"
     },
     {
       "id": "zenn-d66135b087",

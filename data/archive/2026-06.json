@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-15T16:37:38.501175+00:00",
+  "generated_at": "2026-06-15T18:32:07.691031+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 346,
@@ -8,7 +8,7 @@
     "project": 2
   },
   "severity_counts": {
-    "high": 4,
+    "high": 5,
     "critical": 16,
     "medium": 2
   },
@@ -84,13 +84,6 @@
       "date": "2026-06-10T18:54:54+00:00"
     },
     {
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "score": 868,
-      "source": "hn",
-      "date": "2026-06-09T21:19:11+00:00"
-    },
-    {
       "title": "Noise infusion banned from statistical products published by Census Bureau",
       "url": "https://desfontain.es/blog/banning-noise.html",
       "score": 854,
@@ -100,7 +93,7 @@
     {
       "title": "Your ePub Is fine",
       "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 807,
+      "score": 839,
       "source": "hn",
       "date": "2026-06-14T22:54:55+00:00"
     },
@@ -152,9 +145,23 @@
       "score": 661,
       "source": "hn",
       "date": "2026-06-11T06:42:06+00:00"
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 655,
+      "source": "hn",
+      "date": "2026-06-12T00:38:11+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Memory safety CVEs differ between Rust and C/C++",
+      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-15T16:11:02+00:00"
+    },
     {
       "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
       "url": "https://v1c.rocks/log/exploiting-slack-video/",
