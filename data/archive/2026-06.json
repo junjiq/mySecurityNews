@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-15T20:09:35.502505+00:00",
+  "generated_at": "2026-06-15T21:31:54.029904+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 346,
@@ -8,8 +8,8 @@
     "project": 2
   },
   "severity_counts": {
+    "critical": 17,
     "high": 5,
-    "critical": 16,
     "medium": 2
   },
   "top_articles": [
@@ -56,13 +56,6 @@
       "date": "2026-06-10T12:45:47+00:00"
     },
     {
-      "title": "macOS Container Machines",
-      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "score": 1066,
-      "source": "hn",
-      "date": "2026-06-10T00:29:01+00:00"
-    },
-    {
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
       "score": 942,
@@ -98,11 +91,11 @@
       "date": "2026-06-14T22:54:55+00:00"
     },
     {
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "score": 806,
+      "title": "Iroh 1.0",
+      "url": "https://www.iroh.computer/blog/v1",
+      "score": 790,
       "source": "hn",
-      "date": "2026-06-10T01:44:13+00:00"
+      "date": "2026-06-15T15:13:06+00:00"
     },
     {
       "title": "Every Frame Perfect",
@@ -117,13 +110,6 @@
       "score": 701,
       "source": "hn",
       "date": "2026-06-13T16:18:31+00:00"
-    },
-    {
-      "title": "Iroh 1.0",
-      "url": "https://www.iroh.computer/blog/v1",
-      "score": 697,
-      "source": "hn",
-      "date": "2026-06-15T15:13:06+00:00"
     },
     {
       "title": "Claude Fable is relentlessly proactive",
@@ -152,11 +138,32 @@
       "score": 661,
       "source": "hn",
       "date": "2026-06-11T06:42:06+00:00"
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 655,
+      "source": "hn",
+      "date": "2026-06-12T00:38:11+00:00"
+    },
+    {
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
+      "score": 639,
+      "source": "hn",
+      "date": "2026-06-14T17:25:38+00:00"
     }
   ],
   "security_highlights": [
     {
-      "title": "Memory safety CVEs differ between Rust and C/C++",
+      "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-15T20:02:02+00:00"
+    },
+    {
+      "title": "How memory safety CVEs differ between Rust and C/C++",
       "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
       "severity": "high",
       "source": "hn",
