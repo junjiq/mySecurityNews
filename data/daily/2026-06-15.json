@@ -1,8 +1,8 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T14:37:34.693736+00:00",
-  "total_articles": 57,
-  "urgent_count": 3,
+  "generated_at": "2026-06-15T16:37:38.450863+00:00",
+  "total_articles": 51,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
@@ -10,6 +10,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-15T12:08:59+00:00"
+    },
+    {
+      "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
+      "url": "https://v1c.rocks/log/exploiting-slack-video/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-15T15:43:17+00:00"
     },
     {
       "title": "Curl will not accept vulnerability reports during July 2026",
@@ -29,31 +36,31 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 37,
       "top_items": [
         {
           "title": "Your ePub Is fine",
           "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-          "score": 768,
+          "score": 807,
           "source": "hn",
           "severity": null,
           "date": "2026-06-14T22:54:55+00:00"
         },
         {
-          "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-          "url": "https://github.com/tamnd/kage",
-          "score": 622,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-14T17:25:38+00:00"
-        },
-        {
           "title": "Curl will not accept vulnerability reports during July 2026",
           "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-          "score": 601,
+          "score": 665,
           "source": "hn",
           "severity": "high",
           "date": "2026-06-15T06:02:57+00:00"
+        },
+        {
+          "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+          "url": "https://github.com/tamnd/kage",
+          "score": 639,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-14T17:25:38+00:00"
         },
         {
           "title": "What the Fuck Happened to Nerds",
@@ -64,19 +71,27 @@
           "date": "2026-06-15T08:23:52+00:00"
         },
         {
-          "title": "Not everyone is using AI for everything",
-          "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-          "score": 416,
+          "title": "Apple Foundation Models",
+          "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+          "score": 372,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-14T14:44:29+00:00"
+          "date": "2026-06-15T04:55:34+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 14,
       "top_items": [
+        {
+          "title": "AI Readyな設計書を目指して。人もAIも読みやすい設計書管理",
+          "url": "https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-16T00:51:12+09:00"
+        },
         {
           "title": "AWS ANS は持っているけど Direct Connect を触ったことがなかったので、JAWS-UG 茨城のハンズオンに参加してきた",
           "url": "https://qiita.com/k_adachi_01/items/18935b9dbd98e68da0ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-15T15:19:06+09:00"
-        },
-        {
-          "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #3",
-          "url": "https://qiita.com/hitomin_poke/items/621a19d6a1a6500eaca6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-15T13:25:25+09:00"
         }
       ]
     }

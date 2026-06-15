@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-15T14:37:34.737772+00:00",
+  "generated_at": "2026-06-15T16:37:38.501175+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 346,
@@ -8,8 +8,8 @@
     "project": 2
   },
   "severity_counts": {
+    "high": 4,
     "critical": 16,
-    "high": 3,
     "medium": 2
   },
   "top_articles": [
@@ -70,18 +70,18 @@
       "date": "2026-06-12T15:15:24+00:00"
     },
     {
+      "title": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/",
+      "score": 934,
+      "source": "hn",
+      "date": "2026-06-10T05:01:31+00:00"
+    },
+    {
       "title": "πFS",
       "url": "https://github.com/philipl/pifs",
       "score": 906,
       "source": "hn",
       "date": "2026-06-10T18:54:54+00:00"
-    },
-    {
-      "title": "Firewood Splitting Simulator",
-      "url": "https://screen.toys/firewood/",
-      "score": 903,
-      "source": "hn",
-      "date": "2026-06-10T05:01:31+00:00"
     },
     {
       "title": "If Claude Fable stops helping you, you'll never know",
@@ -98,6 +98,13 @@
       "date": "2026-06-13T13:54:56+00:00"
     },
     {
+      "title": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "score": 807,
+      "source": "hn",
+      "date": "2026-06-14T22:54:55+00:00"
+    },
+    {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
       "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
       "score": 806,
@@ -112,20 +119,6 @@
       "date": "2026-06-13T11:40:20+00:00"
     },
     {
-      "title": "Your ePub Is fine",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 768,
-      "source": "hn",
-      "date": "2026-06-14T22:54:55+00:00"
-    },
-    {
-      "title": "CEOs who think AI replaces their employees are just bad CEOs",
-      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-      "score": 718,
-      "source": "hn",
-      "date": "2026-06-09T18:45:59+00:00"
-    },
-    {
       "title": "GLM 5.2 Is Out",
       "url": "https://twitter.com/jietang/status/2065784751345287314",
       "score": 701,
@@ -138,6 +131,13 @@
       "score": 676,
       "source": "hn",
       "date": "2026-06-12T01:06:51+00:00"
+    },
+    {
+      "title": "Curl will not accept vulnerability reports during July 2026",
+      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+      "score": 665,
+      "source": "hn",
+      "date": "2026-06-15T06:02:57+00:00"
     },
     {
       "title": "Electric motors with no rare earths",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
+      "url": "https://v1c.rocks/log/exploiting-slack-video/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-15T15:43:17+00:00"
+    },
     {
       "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
       "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
