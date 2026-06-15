@@ -1,14 +1,22 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T03:11:46.722153+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-06-15T05:15:23.423674+00:00",
+  "total_articles": 59,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 45,
       "top_items": [
+        {
+          "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+          "url": "https://github.com/tamnd/kage",
+          "score": 471,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-14T17:25:38+00:00"
+        },
         {
           "title": "How to earn a billion dollars",
           "url": "https://paulgraham.com/earn.html",
@@ -16,14 +24,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-14T11:50:48+00:00"
-        },
-        {
-          "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-          "url": "https://github.com/tamnd/kage",
-          "score": 430,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-14T17:25:38+00:00"
         },
         {
           "title": "Not everyone is using AI for everything",
@@ -34,17 +34,17 @@
           "date": "2026-06-14T14:44:29+00:00"
         },
         {
-          "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-          "url": "https://sqltoerdiagram.com/",
-          "score": 325,
+          "title": "Your ePub Is fine",
+          "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+          "score": 346,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-14T03:43:30+00:00"
+          "date": "2026-06-14T22:54:55+00:00"
         },
         {
           "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
           "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-          "score": 294,
+          "score": 309,
           "source": "hn",
           "severity": null,
           "date": "2026-06-14T15:37:31+00:00"
@@ -53,8 +53,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 14,
       "top_items": [
+        {
+          "title": "Amazon Bedrock AgentCore ハーネスでRAG検索機能付きAIエージェントを爆速で構築する",
+          "url": "https://qiita.com/kamo-shika/items/edad802613b45b3d18f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-15T12:18:01+09:00"
+        },
         {
           "title": "ハンズオン！夢が詰まったサンドボックスシステム、Microsoft Execution Containers（MXC）とは",
           "url": "https://qiita.com/ymd65536/items/1f8b1ac21186d841cd48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-14T22:40:04+09:00"
-        },
-        {
-          "title": "K-Meansのクラスタ数はどう決める？シルエット法で最適なKを見つける方法",
-          "url": "https://qiita.com/KanNishida/items/3779701ad40b74b491c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-14T21:22:44+09:00"
         }
       ]
     }
