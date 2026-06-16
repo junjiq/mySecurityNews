@@ -1,7 +1,7 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T07:18:11.328622+00:00",
-  "total_articles": 46,
+  "generated_at": "2026-06-16T09:18:28.281909+00:00",
+  "total_articles": 52,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -41,7 +41,7 @@
         {
           "title": "Iroh 1.0",
           "url": "https://www.iroh.computer/blog/v1",
-          "score": 1113,
+          "score": 1163,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T15:13:06+00:00"
@@ -49,7 +49,7 @@
         {
           "title": "A backdoor in a LinkedIn job offer",
           "url": "https://roman.pt/posts/linkedin-backdoor/",
-          "score": 1022,
+          "score": 1135,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T20:00:57+00:00"
@@ -57,18 +57,10 @@
         {
           "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
           "url": "https://tinywind.io",
-          "score": 760,
+          "score": 818,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T16:15:53+00:00"
-        },
-        {
-          "title": "What the Fuck Happened to Nerds",
-          "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-          "score": 585,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-15T08:23:52+00:00"
         },
         {
           "title": "CrankGPT",
@@ -77,12 +69,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T13:20:13+00:00"
+        },
+        {
+          "title": "Hetzner Price Adjustment",
+          "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+          "score": 428,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-15T13:19:39+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 11,
       "top_items": [
         {
           "title": "AIエージェントに組み込んだAgent SkillsをSkillOpsで評価する",
@@ -93,36 +93,36 @@
           "date": "2026-06-16T14:43:36+09:00"
         },
         {
-          "title": "AI Readyな設計書を目指して。人もAIも読みやすい設計書管理",
-          "url": "https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "非エンジニアが関心の分離について調べて感じた、仕事をアップデートする必要性",
+          "url": "https://qiita.com/yatabekei/items/9f8dac59bd5f2d0af8fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-16T00:51:12+09:00"
+          "date": "2026-06-16T14:41:03+09:00"
         },
         {
-          "title": "AWS ANS は持っているけど Direct Connect を触ったことがなかったので、JAWS-UG 茨城のハンズオンに参加してきた",
-          "url": "https://qiita.com/k_adachi_01/items/18935b9dbd98e68da0ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "非エンジニアがGeminiをOCRツールとして活用してみる～名刺情報編",
+          "url": "https://qiita.com/fukayama-masato/items/42ec89c6944aa85919a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-15T19:44:57+09:00"
+          "date": "2026-06-16T14:07:46+09:00"
         },
         {
-          "title": "Deep Data Securityで実現する Select AI with RAG のアクセス制御",
-          "url": "https://qiita.com/Western24/items/8754afe240ec86df3b61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "大量ファイル移行を実装して見えた、バッチ処理で考慮すべきこと",
+          "url": "https://qiita.com/AkiraTakasaki/items/c6541d1ae1458d5dcae1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-15T16:32:43+09:00"
+          "date": "2026-06-16T12:02:31+09:00"
         },
         {
-          "title": "その指標は、何を映していないか — PdMがフレームワークを使うときに気をつけたいこと",
-          "url": "https://qiita.com/yoshimi-yzrh/items/0bccb60ebc165199dc19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【まとめ】世は大AIブラウザ時代！12種類全部使って徹底レビュー！【乗るしかねえ、このBIG WAVEに🌊】",
+          "url": "https://qiita.com/issey_dotlog/items/b59c083cf053e605e8e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-15T16:22:40+09:00"
+          "date": "2026-06-16T11:57:20+09:00"
         }
       ]
     }
