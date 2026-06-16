@@ -1,16 +1,16 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-16T22:21:34.211181+00:00",
+  "generated_at": "2026-06-16T23:02:30.586035+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 347,
-    "zennqiita": 103,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 2
   },
   "severity_counts": {
     "medium": 3,
     "critical": 16,
-    "high": 5
+    "high": 4
   },
   "top_articles": [
     {
@@ -79,7 +79,7 @@
     {
       "title": "Running local models is good now",
       "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 870,
+      "score": 915,
       "source": "hn",
       "date": "2026-06-16T14:36:57+00:00"
     },
@@ -114,7 +114,7 @@
     {
       "title": "SpaceX to buy Cursor for $60B",
       "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "score": 760,
+      "score": 789,
       "source": "hn",
       "date": "2026-06-16T10:44:24+00:00"
     },
@@ -294,13 +294,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-11T14:06:43+00:00"
-    },
-    {
-      "title": "Are insecure code completions in PyCharm a vulnerability?",
-      "url": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-11T01:26:03+00:00"
     }
   ]
 }
