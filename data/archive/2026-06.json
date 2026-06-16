@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-16T23:02:30.586035+00:00",
+  "generated_at": "2026-06-16T23:59:39.447365+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 348,
-    "zennqiita": 102,
+    "hn": 350,
+    "zennqiita": 100,
     "project": 2
   },
   "severity_counts": {
+    "critical": 17,
     "medium": 3,
-    "critical": 16,
     "high": 4
   },
   "top_articles": [
@@ -63,6 +63,13 @@
       "date": "2026-06-15T15:13:06+00:00"
     },
     {
+      "title": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "score": 950,
+      "source": "hn",
+      "date": "2026-06-16T14:36:57+00:00"
+    },
+    {
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
       "score": 942,
@@ -75,13 +82,6 @@
       "score": 937,
       "source": "hn",
       "date": "2026-06-15T16:15:53+00:00"
-    },
-    {
-      "title": "Running local models is good now",
-      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 915,
-      "source": "hn",
-      "date": "2026-06-16T14:36:57+00:00"
     },
     {
       "title": "Noise infusion banned from statistical products published by Census Bureau",
@@ -105,18 +105,18 @@
       "date": "2026-06-16T04:58:15+00:00"
     },
     {
+      "title": "SpaceX to buy Cursor for $60B",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "score": 823,
+      "source": "hn",
+      "date": "2026-06-16T10:44:24+00:00"
+    },
+    {
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
       "score": 790,
       "source": "hn",
       "date": "2026-06-13T11:40:20+00:00"
-    },
-    {
-      "title": "SpaceX to buy Cursor for $60B",
-      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "score": 789,
-      "source": "hn",
-      "date": "2026-06-16T10:44:24+00:00"
     },
     {
       "title": "GLM 5.2 Is Out",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "NLnet announces funding for 67 more open-source projects",
+      "url": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-16T23:12:09+00:00"
+    },
     {
       "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
       "url": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
