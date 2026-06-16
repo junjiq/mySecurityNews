@@ -1,8 +1,8 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T15:15:47.933498+00:00",
-  "total_articles": 53,
-  "urgent_count": 3,
+  "generated_at": "2026-06-16T17:15:37.008952+00:00",
+  "total_articles": 55,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
@@ -10,55 +10,33 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-15T20:02:02+00:00"
-    },
-    {
-      "title": "How memory safety CVEs differ between Rust and C/C++",
-      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-15T16:11:02+00:00"
-    },
-    {
-      "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
-      "url": "https://v1c.rocks/log/exploiting-slack-video/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-15T15:43:17+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 46,
       "top_items": [
         {
           "title": "A backdoor in a LinkedIn job offer",
           "url": "https://roman.pt/posts/linkedin-backdoor/",
-          "score": 1422,
+          "score": 1485,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T20:00:57+00:00"
         },
         {
-          "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-          "url": "https://tinywind.io",
-          "score": 937,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-15T16:15:53+00:00"
-        },
-        {
           "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
           "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-          "score": 590,
+          "score": 713,
           "source": "hn",
           "severity": null,
           "date": "2026-06-16T04:58:15+00:00"
         },
         {
-          "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+          "title": "Banned book library in a wi-fi smart light bulb",
           "url": "https://www.richardosgood.com/posts/banned-book-library/",
-          "score": 497,
+          "score": 534,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T22:37:55+00:00"
@@ -66,17 +44,33 @@
         {
           "title": "Mechanical Watch (2022)",
           "url": "https://ciechanow.ski/mechanical-watch/",
-          "score": 369,
+          "score": 476,
           "source": "hn",
           "severity": null,
           "date": "2026-06-16T11:26:27+00:00"
+        },
+        {
+          "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+          "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+          "score": 445,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-16T09:26:09+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
+        {
+          "title": "非エンジニアがGeminiをOCRツールとして活用してみる～名刺情報編",
+          "url": "https://qiita.com/fukayama-masato/items/42ec89c6944aa85919a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-17T01:52:46+09:00"
+        },
         {
           "title": "【PHP】PHP最大の問題点はこれだ！！",
           "url": "https://qiita.com/rana_kualu/items/d1c08a55a373897d38d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -100,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-16T14:41:03+09:00"
-        },
-        {
-          "title": "非エンジニアがGeminiをOCRツールとして活用してみる～名刺情報編",
-          "url": "https://qiita.com/fukayama-masato/items/42ec89c6944aa85919a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-16T14:07:46+09:00"
         },
         {
           "title": "大量ファイル移行を実装して見えた、バッチ処理で考慮すべきこと",
