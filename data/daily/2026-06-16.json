@@ -1,8 +1,8 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T00:56:32.282164+00:00",
-  "total_articles": 57,
-  "urgent_count": 6,
+  "generated_at": "2026-06-16T01:58:06.095062+00:00",
+  "total_articles": 54,
+  "urgent_count": 5,
   "urgent_items": [
     {
       "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
@@ -38,27 +38,28 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-15T06:02:57+00:00"
-    },
-    {
-      "title": "CVSS 9.8ってどれくらい危ない？脆弱性情報を読むためのものさし",
-      "url": "https://qiita.com/mo__mo/items/49f9601481aec596f545?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-06-15T10:56:34+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "Iroh 1.0",
           "url": "https://www.iroh.computer/blog/v1",
-          "score": 911,
+          "score": 943,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T15:13:06+00:00"
+        },
+        {
+          "title": "A backdoor in a LinkedIn job offer",
+          "url": "https://roman.pt/posts/linkedin-backdoor/",
+          "score": 698,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-15T20:00:57+00:00"
         },
         {
           "title": "Curl will not accept vulnerability reports during July 2026",
@@ -69,12 +70,12 @@
           "date": "2026-06-15T06:02:57+00:00"
         },
         {
-          "title": "A backdoor in a LinkedIn job offer",
-          "url": "https://roman.pt/posts/linkedin-backdoor/",
-          "score": 624,
+          "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+          "url": "https://tinywind.io",
+          "score": 604,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-15T20:00:57+00:00"
+          "date": "2026-06-15T16:15:53+00:00"
         },
         {
           "title": "What the Fuck Happened to Nerds",
@@ -83,20 +84,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T08:23:52+00:00"
-        },
-        {
-          "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-          "url": "https://tinywind.io",
-          "score": 574,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-15T16:15:53+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 11,
       "top_items": [
         {
           "title": "AI Readyな設計書を目指して。人もAIも読みやすい設計書管理",
