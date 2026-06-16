@@ -1,7 +1,7 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T09:18:28.281909+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-06-16T11:16:12.084590+00:00",
+  "total_articles": 51,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,28 +36,28 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 42,
       "top_items": [
-        {
-          "title": "Iroh 1.0",
-          "url": "https://www.iroh.computer/blog/v1",
-          "score": 1163,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-15T15:13:06+00:00"
-        },
         {
           "title": "A backdoor in a LinkedIn job offer",
           "url": "https://roman.pt/posts/linkedin-backdoor/",
-          "score": 1135,
+          "score": 1240,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T20:00:57+00:00"
         },
         {
+          "title": "Iroh 1.0",
+          "url": "https://www.iroh.computer/blog/v1",
+          "score": 1220,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-15T15:13:06+00:00"
+        },
+        {
           "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
           "url": "https://tinywind.io",
-          "score": 818,
+          "score": 864,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T16:15:53+00:00"
@@ -73,7 +73,7 @@
         {
           "title": "Hetzner Price Adjustment",
           "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-          "score": 428,
+          "score": 458,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T13:19:39+00:00"
@@ -82,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 9,
       "top_items": [
         {
           "title": "AIエージェントに組み込んだAgent SkillsをSkillOpsで評価する",
