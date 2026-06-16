@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-16T13:06:45.454419+00:00",
+  "generated_at": "2026-06-16T15:15:47.980526+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 348,
@@ -8,9 +8,9 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 17,
-    "high": 5,
-    "medium": 2
+    "medium": 3,
+    "critical": 16,
+    "high": 5
   },
   "top_articles": [
     {
@@ -35,6 +35,13 @@
       "date": "2026-06-13T02:14:24+00:00"
     },
     {
+      "title": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "score": 1422,
+      "source": "hn",
+      "date": "2026-06-15T20:00:57+00:00"
+    },
+    {
       "title": "Show HN: Homebrew 6.0.0",
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
       "score": 1349,
@@ -49,16 +56,9 @@
       "date": "2026-06-12T04:42:53+00:00"
     },
     {
-      "title": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 1319,
-      "source": "hn",
-      "date": "2026-06-15T20:00:57+00:00"
-    },
-    {
       "title": "Iroh 1.0",
       "url": "https://www.iroh.computer/blog/v1",
-      "score": 1263,
+      "score": 1314,
       "source": "hn",
       "date": "2026-06-15T15:13:06+00:00"
     },
@@ -70,18 +70,18 @@
       "date": "2026-06-12T15:15:24+00:00"
     },
     {
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "score": 937,
+      "source": "hn",
+      "date": "2026-06-15T16:15:53+00:00"
+    },
+    {
       "title": "πFS",
       "url": "https://github.com/philipl/pifs",
       "score": 906,
       "source": "hn",
       "date": "2026-06-10T18:54:54+00:00"
-    },
-    {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "score": 900,
-      "source": "hn",
-      "date": "2026-06-15T16:15:53+00:00"
     },
     {
       "title": "Noise infusion banned from statistical products published by Census Bureau",
@@ -301,13 +301,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-11T01:26:03+00:00"
-    },
-    {
-      "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
-      "url": "https://www.extend.ai/ui",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-10T16:09:26+00:00"
     }
   ]
 }
