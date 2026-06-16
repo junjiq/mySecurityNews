@@ -1,8 +1,8 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T11:16:12.084590+00:00",
-  "total_articles": 51,
-  "urgent_count": 4,
+  "generated_at": "2026-06-16T13:06:45.405550+00:00",
+  "total_articles": 53,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-15T20:02:02+00:00"
-    },
-    {
-      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
-      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-15T12:08:59+00:00"
     },
     {
       "title": "How memory safety CVEs differ between Rust and C/C++",
@@ -36,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "A backdoor in a LinkedIn job offer",
           "url": "https://roman.pt/posts/linkedin-backdoor/",
-          "score": 1240,
+          "score": 1319,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T20:00:57+00:00"
@@ -49,7 +42,7 @@
         {
           "title": "Iroh 1.0",
           "url": "https://www.iroh.computer/blog/v1",
-          "score": 1220,
+          "score": 1263,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T15:13:06+00:00"
@@ -57,7 +50,7 @@
         {
           "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
           "url": "https://tinywind.io",
-          "score": 864,
+          "score": 900,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T16:15:53+00:00"
@@ -73,7 +66,7 @@
         {
           "title": "Hetzner Price Adjustment",
           "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-          "score": 458,
+          "score": 495,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T13:19:39+00:00"
@@ -82,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 10,
       "top_items": [
+        {
+          "title": "【PHP】PHP最大の問題点はこれだ！！",
+          "url": "https://qiita.com/rana_kualu/items/d1c08a55a373897d38d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-16T21:42:52+09:00"
+        },
         {
           "title": "AIエージェントに組み込んだAgent SkillsをSkillOpsで評価する",
           "url": "https://qiita.com/licux/items/9c640601a1dde7c18d9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -115,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-16T12:02:31+09:00"
-        },
-        {
-          "title": "【まとめ】世は大AIブラウザ時代！12種類全部使って徹底レビュー！【乗るしかねえ、このBIG WAVEに🌊】",
-          "url": "https://qiita.com/issey_dotlog/items/b59c083cf053e605e8e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-16T11:57:20+09:00"
         }
       ]
     }
