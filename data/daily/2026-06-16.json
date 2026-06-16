@@ -1,8 +1,8 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T05:16:12.811008+00:00",
-  "total_articles": 49,
-  "urgent_count": 5,
+  "generated_at": "2026-06-16T07:18:11.328622+00:00",
+  "total_articles": 46,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
@@ -31,24 +31,17 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-15T15:43:17+00:00"
-    },
-    {
-      "title": "Curl will not accept vulnerability reports during July 2026",
-      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-15T06:02:57+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 41,
       "top_items": [
         {
           "title": "Iroh 1.0",
           "url": "https://www.iroh.computer/blog/v1",
-          "score": 1047,
+          "score": 1113,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T15:13:06+00:00"
@@ -56,7 +49,7 @@
         {
           "title": "A backdoor in a LinkedIn job offer",
           "url": "https://roman.pt/posts/linkedin-backdoor/",
-          "score": 901,
+          "score": 1022,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T20:00:57+00:00"
@@ -64,18 +57,10 @@
         {
           "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
           "url": "https://tinywind.io",
-          "score": 688,
+          "score": 760,
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T16:15:53+00:00"
-        },
-        {
-          "title": "Curl will not accept vulnerability reports during July 2026",
-          "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-          "score": 665,
-          "source": "hn",
-          "severity": "high",
-          "date": "2026-06-15T06:02:57+00:00"
         },
         {
           "title": "What the Fuck Happened to Nerds",
@@ -84,13 +69,29 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-15T08:23:52+00:00"
+        },
+        {
+          "title": "CrankGPT",
+          "url": "https://crankgpt.com",
+          "score": 497,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-15T13:20:13+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
+        {
+          "title": "AIエージェントに組み込んだAgent SkillsをSkillOpsで評価する",
+          "url": "https://qiita.com/licux/items/9c640601a1dde7c18d9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-16T14:43:36+09:00"
+        },
         {
           "title": "AI Readyな設計書を目指して。人もAIも読みやすい設計書管理",
           "url": "https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -106,14 +107,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-15T19:44:57+09:00"
-        },
-        {
-          "title": "AIエージェントに組み込んだAgent SkillsをSkillOpsで評価する",
-          "url": "https://qiita.com/licux/items/9c640601a1dde7c18d9f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-15T18:06:18+09:00"
         },
         {
           "title": "Deep Data Securityで実現する Select AI with RAG のアクセス制御",
