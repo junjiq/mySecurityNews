@@ -1,7 +1,7 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T07:52:57.704768+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-06-17T09:40:38.709991+00:00",
+  "total_articles": 64,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 50,
       "top_items": [
         {
           "title": "Running local models is good now",
           "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-          "score": 1252,
+          "score": 1319,
           "source": "hn",
           "severity": null,
           "date": "2026-06-16T14:36:57+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "SpaceX to buy Cursor for $60B",
           "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-          "score": 996,
+          "score": 1022,
           "source": "hn",
           "severity": null,
           "date": "2026-06-16T10:44:24+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "GrapheneOS has been ported to Android 17",
           "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-          "score": 697,
+          "score": 757,
           "source": "hn",
           "severity": null,
           "date": "2026-06-16T20:34:35+00:00"
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 14,
       "top_items": [
         {
           "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話",
@@ -72,6 +72,22 @@
           "date": "2026-06-17T15:33:55+09:00"
         },
         {
+          "title": "「冪等」とは何か？___その「冪等」、本当に？「安全」と「純粋」との違いから理解してみよう！【初心者向け】",
+          "url": "https://qiita.com/tomoki-miso/items/368fb80d85f47d3fb384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-17T13:50:11+09:00"
+        },
+        {
+          "title": "技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選",
+          "url": "https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-17T13:41:31+09:00"
+        },
+        {
           "title": "【まとめ】名前がカッコいい、アンチパターン6選！どこがアカンの？を爆速解説",
           "url": "https://qiita.com/tomoki-miso/items/9fc54ce86fe6ac2e453c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -80,28 +96,12 @@
           "date": "2026-06-17T13:10:20+09:00"
         },
         {
-          "title": "9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #3",
-          "url": "https://qiita.com/hitomin_poke/items/621a19d6a1a6500eaca6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "キオクシアって一体何なんだ！時価総額日本一になった\"メモリ\"の会社は何が凄いのか？",
+          "url": "https://qiita.com/issey_dotlog/items/1193da3bfee4f891137d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-17T08:55:38+09:00"
-        },
-        {
-          "title": "非エンジニアがGeminiをOCRツールとして活用してみる～名刺情報編",
-          "url": "https://qiita.com/fukayama-masato/items/42ec89c6944aa85919a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-17T01:52:46+09:00"
-        },
-        {
-          "title": "Claude Codeでつくる「並列ループエージェント」実践！ハンズオンガイド",
-          "url": "https://qiita.com/kumai_yu/items/54ded70a5a68a5ca15d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-16T22:45:28+09:00"
+          "date": "2026-06-17T12:33:39+09:00"
         }
       ]
     }
