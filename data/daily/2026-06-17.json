@@ -1,7 +1,7 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T19:18:48.144147+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-06-17T20:16:46.764328+00:00",
+  "total_articles": 54,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 41,
       "top_items": [
         {
           "title": "GrapheneOS has been ported to Android 17",
@@ -57,7 +57,7 @@
         {
           "title": "Epic Games announces Lore version control system",
           "url": "https://lore.org/",
-          "score": 645,
+          "score": 724,
           "source": "hn",
           "severity": null,
           "date": "2026-06-17T14:30:27+00:00"
@@ -65,7 +65,7 @@
         {
           "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
           "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-          "score": 637,
+          "score": 670,
           "source": "hn",
           "severity": null,
           "date": "2026-06-17T09:12:00+00:00"
@@ -73,7 +73,7 @@
         {
           "title": "Want your images back? That'll be $5",
           "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-          "score": 523,
+          "score": 539,
           "source": "hn",
           "severity": null,
           "date": "2026-06-17T13:05:03+00:00"
@@ -82,8 +82,40 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 13,
       "top_items": [
+        {
+          "title": "OpenCode × Ollama でローカル完結のセルフホスト型コーディングエージェントを構築する",
+          "url": "https://qiita.com/kai_kou/items/16362b2eacb9d597f3d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-18T01:44:23+09:00"
+        },
+        {
+          "title": "初心者でもわかる！ Python で学ぶマクロ経済学入門 全90回 総復習",
+          "url": "https://qiita.com/maskot1977/items/21f4ef58e82ebb1042b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-18T00:14:19+09:00"
+        },
+        {
+          "title": "FastAPI + asyncpg でプロファイリングを用いたパフォーマンス改善",
+          "url": "https://qiita.com/aaaabbbbb/items/bc230f0d5cdaebccfd05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-17T19:30:48+09:00"
+        },
+        {
+          "title": "【Frontend CSS – パート10】ブラウザから見たSubgrid：ネストしたレイアウトはどう同期されるのか？",
+          "url": "https://qiita.com/tuanphan/items/50c94213129681955cb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-17T16:41:32+09:00"
+        },
         {
           "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話",
           "url": "https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -91,38 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-17T15:33:55+09:00"
-        },
-        {
-          "title": "「冪等」とは何か？___その「冪等」、本当に？「安全」と「純粋」との違いから理解してみよう！【初心者向け】",
-          "url": "https://qiita.com/tomoki-miso/items/368fb80d85f47d3fb384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-17T13:50:11+09:00"
-        },
-        {
-          "title": "技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選",
-          "url": "https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-17T13:41:31+09:00"
-        },
-        {
-          "title": "【まとめ】名前がカッコいい、アンチパターン6選！どこがアカンの？を爆速解説",
-          "url": "https://qiita.com/tomoki-miso/items/9fc54ce86fe6ac2e453c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-17T13:10:20+09:00"
-        },
-        {
-          "title": "キオクシアって一体何なんだ！時価総額日本一になった\"メモリ\"の会社は何が凄いのか？",
-          "url": "https://qiita.com/issey_dotlog/items/1193da3bfee4f891137d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-17T12:33:39+09:00"
         }
       ]
     }
