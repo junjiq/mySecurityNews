@@ -1,8 +1,8 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T23:00:53.301896+00:00",
-  "total_articles": 55,
-  "urgent_count": 5,
+  "generated_at": "2026-06-17T23:59:39.646372+00:00",
+  "total_articles": 53,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
@@ -31,20 +31,21 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-17T12:11:27+00:00"
-    },
-    {
-      "title": "NLnet announces funding for 67 more open-source projects",
-      "url": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-16T23:12:09+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 41,
       "top_items": [
+        {
+          "title": "Lore – Open source version control system designed for scalability",
+          "url": "https://lore.org/",
+          "score": 915,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-06-17T14:30:27+00:00"
+        },
         {
           "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
           "url": "https://wpvip.com/future-of-the-web-2026/",
@@ -54,42 +55,34 @@
           "date": "2026-06-17T12:11:27+00:00"
         },
         {
-          "title": "Lore – Open source version control system designed for scalability",
-          "url": "https://lore.org/",
-          "score": 877,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-17T14:30:27+00:00"
-        },
-        {
           "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
           "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-          "score": 734,
+          "score": 757,
           "source": "hn",
           "severity": null,
           "date": "2026-06-17T09:12:00+00:00"
         },
         {
-          "title": "Want your images back? That'll be $5",
-          "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-          "score": 585,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-17T13:05:03+00:00"
-        },
-        {
           "title": "U.S. science is in chaos",
           "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-          "score": 574,
+          "score": 612,
           "source": "hn",
           "severity": null,
           "date": "2026-06-17T09:54:21+00:00"
+        },
+        {
+          "title": "Want your images back? That'll be $5",
+          "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+          "score": 593,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-17T13:05:03+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "OpenCode × Ollama でローカル完結のセルフホスト型コーディングエージェントを構築する",
