@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-06-17T05:41:08.218672+00:00",
+  "updated_at": "2026-06-17T07:52:57.650861+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48566832",
+      "source": "hn",
+      "title": "The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "score": 24,
+      "comments": 17,
+      "author": "e2e4",
+      "tags": [],
+      "date": "2026-06-17T07:04:42+00:00"
+    },
+    {
+      "id": "qiita-84eed8ddc8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話",
+      "url": "https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Shiro_Shihi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-17T15:33:55+09:00"
+    },
     {
       "id": "hn-48565685",
       "source": "hn",
       "title": "NetNewsWire Status",
       "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-      "score": 18,
-      "comments": 1,
+      "score": 52,
+      "comments": 9,
       "author": "droidjj",
       "tags": [],
       "date": "2026-06-17T04:30:49+00:00"
@@ -27,6 +51,17 @@
       "date": "2026-06-17T13:10:20+09:00"
     },
     {
+      "id": "hn-48565326",
+      "source": "hn",
+      "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
+      "url": "https://arxiv.org/abs/2606.14806",
+      "score": 15,
+      "comments": 4,
+      "author": "ascarshen",
+      "tags": [],
+      "date": "2026-06-17T03:25:51+00:00"
+    },
+    {
       "id": "hn-48565130",
       "source": "hn",
       "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
@@ -42,8 +77,8 @@
       "source": "hn",
       "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
       "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-      "score": 99,
-      "comments": 26,
+      "score": 187,
+      "comments": 69,
       "author": "slymax",
       "tags": [],
       "date": "2026-06-17T01:40:22+00:00"
@@ -66,8 +101,8 @@
       "source": "hn",
       "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
       "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-      "score": 125,
-      "comments": 42,
+      "score": 153,
+      "comments": 68,
       "author": "alok-g",
       "tags": [],
       "date": "2026-06-16T23:15:44+00:00"
@@ -89,8 +124,8 @@
       "source": "hn",
       "title": "Humiliating IIS servers for fun and jail time",
       "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-      "score": 167,
-      "comments": 34,
+      "score": 216,
+      "comments": 52,
       "author": "denysvitali",
       "tags": [],
       "date": "2026-06-16T22:53:34+00:00"
@@ -122,8 +157,8 @@
       "source": "hn",
       "title": "GrapheneOS has been ported to Android 17",
       "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "score": 559,
-      "comments": 234,
+      "score": 697,
+      "comments": 299,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-06-16T20:34:35+00:00"
@@ -133,7 +168,7 @@
       "source": "hn",
       "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
       "url": "https://github.com/nvlabs/cutile-rs",
-      "score": 57,
+      "score": 67,
       "comments": 12,
       "author": "melihelibol",
       "tags": [],
@@ -210,8 +245,8 @@
       "source": "hn",
       "title": "GPT‑NL: a sovereign language model for the Netherlands",
       "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "score": 172,
-      "comments": 150,
+      "score": 197,
+      "comments": 181,
       "author": "root-parent",
       "tags": [],
       "date": "2026-06-16T17:54:02+00:00"
@@ -221,8 +256,8 @@
       "source": "hn",
       "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
       "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-      "score": 120,
-      "comments": 115,
+      "score": 133,
+      "comments": 124,
       "author": "gpjt",
       "tags": [],
       "date": "2026-06-16T17:48:42+00:00"
@@ -265,8 +300,8 @@
       "source": "hn",
       "title": "Has AI already killed self-help nonfiction books?",
       "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-      "score": 222,
-      "comments": 235,
+      "score": 271,
+      "comments": 291,
       "author": "imakwana",
       "tags": [],
       "date": "2026-06-16T17:11:05+00:00"
@@ -300,8 +335,8 @@
       "source": "hn",
       "title": "Stop Using JWTs",
       "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-      "score": 317,
-      "comments": 179,
+      "score": 360,
+      "comments": 209,
       "author": "dzonga",
       "tags": [],
       "date": "2026-06-16T16:49:46+00:00"
@@ -322,8 +357,8 @@
       "source": "hn",
       "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
       "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-      "score": 341,
-      "comments": 163,
+      "score": 388,
+      "comments": 182,
       "author": "mrshu",
       "tags": [],
       "date": "2026-06-16T16:40:58+00:00"
@@ -377,8 +412,8 @@
       "source": "hn",
       "title": "Calvin and Hobbes and the price of integrity",
       "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-      "score": 349,
-      "comments": 157,
+      "score": 398,
+      "comments": 173,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-06-16T15:44:44+00:00"
@@ -410,8 +445,8 @@
       "source": "hn",
       "title": "Running local models is good now",
       "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 1159,
-      "comments": 465,
+      "score": 1252,
+      "comments": 493,
       "author": "jfb",
       "tags": [],
       "date": "2026-06-16T14:36:57+00:00"
@@ -421,7 +456,7 @@
       "source": "hn",
       "title": "But yak shaving is fun (2019)",
       "url": "https://parksb.github.io/en/article/32.html",
-      "score": 236,
+      "score": 251,
       "comments": 71,
       "author": "parksb",
       "tags": [],
@@ -479,8 +514,8 @@
       "source": "hn",
       "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
       "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-      "score": 147,
-      "comments": 23,
+      "score": 166,
+      "comments": 28,
       "author": "ilreb",
       "tags": [],
       "date": "2026-06-16T13:15:15+00:00"
@@ -547,8 +582,8 @@
       "source": "hn",
       "title": "SpaceX to buy Cursor for $60B",
       "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "score": 959,
-      "comments": 1452,
+      "score": 996,
+      "comments": 1499,
       "author": "itsmarcelg",
       "tags": [],
       "date": "2026-06-16T10:44:24+00:00"
@@ -1332,8 +1367,8 @@
       "source": "hn",
       "title": "A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
       "url": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/",
-      "score": 59,
-      "comments": 12,
+      "score": 71,
+      "comments": 29,
       "author": "jensgk",
       "tags": [],
       "date": "2026-06-15T04:37:42+00:00"
@@ -1771,6 +1806,17 @@
       "date": "2026-06-14T15:37:31+00:00"
     },
     {
+      "id": "hn-48528111",
+      "source": "hn",
+      "title": "Chameleon Ultra: a flashdrive sized NFC toolkit",
+      "url": "https://github.com/RfidResearchGroup/ChameleonUltra",
+      "score": 10,
+      "comments": 1,
+      "author": "elisaado",
+      "tags": [],
+      "date": "2026-06-14T15:18:33+00:00"
+    },
+    {
       "id": "hn-48528025",
       "source": "hn",
       "title": "Measles surge in Utah sparks fears US could undo decades of progress",
@@ -2060,7 +2106,7 @@
       "source": "hn",
       "title": "A Nipkow Disk Mechanical TV Simulator",
       "url": "https://analogtv.net/mechanical-lab",
-      "score": 35,
+      "score": 41,
       "comments": 5,
       "author": "ambanmba",
       "tags": [],
@@ -2115,19 +2161,6 @@
       "author": "mchav",
       "tags": [],
       "date": "2026-06-14T08:33:22+00:00"
-    },
-    {
-      "id": "qiita-84eed8ddc8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話",
-      "url": "https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Shiro_Shihi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-14T17:08:05+09:00"
     },
     {
       "id": "qiita-269ccf430b",
@@ -4396,6 +4429,17 @@
       "date": "2026-06-11T20:52:26+00:00"
     },
     {
+      "id": "hn-48496233",
+      "source": "hn",
+      "title": "Subterranean fungi networks more than 100 quadrillion km in length",
+      "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
+      "score": 37,
+      "comments": 3,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-06-11T20:51:11+00:00"
+    },
+    {
       "id": "hn-48496156",
       "source": "hn",
       "title": "Cooling in Space",
@@ -4468,8 +4512,8 @@
       "source": "hn",
       "title": "Working in Glass",
       "url": "https://www.asimov.press/p/glass",
-      "score": 11,
-      "comments": 0,
+      "score": 27,
+      "comments": 1,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-06-11T19:15:29+00:00"
@@ -5112,67 +5156,6 @@
       "date": "2026-06-11T17:11:01+09:00"
     },
     {
-      "id": "qiita-1b829ec7a5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "10歳娘「パパ、AI時代にはDDDなんて要らないの？」",
-      "url": "https://qiita.com/Yametaro/items/a239fedfae8bb4a0a5ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Yametaro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-11T17:10:02+09:00"
-    },
-    {
-      "id": "qiita-ae52389fdb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【きっと分かる】TDDってなに？陣取りゲームでサクッと理解してみないか？",
-      "url": "https://qiita.com/tomoki-miso/items/2bea01d8d642b47bf1fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tomoki-miso",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-11T17:09:25+09:00"
-    },
-    {
-      "id": "qiita-8b218044d3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【保存版】Linux作業を爆速化する便利コマンド5選",
-      "url": "https://qiita.com/K_TAKETO/items/66d70ce4ed54139998a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "K_TAKETO",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-11T17:09:12+09:00"
-    },
-    {
-      "id": "hn-48487540",
-      "source": "hn",
-      "title": "Why AI hasn't replaced software engineers, and won't",
-      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-      "score": 212,
-      "comments": 254,
-      "author": "trueduke",
-      "tags": [],
-      "date": "2026-06-11T07:51:17+00:00"
-    },
-    {
-      "id": "hn-48487435",
-      "source": "hn",
-      "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
-      "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
-      "score": 237,
-      "comments": 102,
-      "author": "epaga",
-      "tags": [],
-      "date": "2026-06-11T07:35:12+00:00"
-    },
-    {
       "id": "ctf-3871364",
       "source": "project",
       "proj_category": "CTF",
@@ -5185,6 +5168,17 @@
         "Security"
       ],
       "date": "2026-06-11T06:35:56Z"
+    },
+    {
+      "id": "hn-48484608",
+      "source": "hn",
+      "title": "Lattice Triangles Are Rare",
+      "url": "https://axiommath.ai/territory/the-reveal",
+      "score": 10,
+      "comments": 3,
+      "author": "skogstokig",
+      "tags": [],
+      "date": "2026-06-11T00:13:12+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-337145344",
@@ -5383,6 +5377,32 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-673b6a0fbb",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GLM-5.2は本当にオープンソースになったのか？月18ドルからClaude Codeに挿して試す",
+      "url": "https://zenn.dev/ino_h/articles/2026-06-16-glm-5-2-opensource-cost",
+      "score": null,
+      "author": "井ノ実",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 16 Jun 2026 09:31:22 GMT"
+    },
+    {
+      "id": "zenn-6fc107c7ff",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "テスト駆動開発（TDD）をやってみた",
+      "url": "https://zenn.dev/wwwave/articles/fba5f88cf5f52b",
+      "score": null,
+      "author": "あーもんど",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 16 Jun 2026 08:24:03 GMT"
+    },
+    {
       "id": "zenn-bba76819e9",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5425,7 +5445,7 @@
       "id": "zenn-8e930e50d4",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Hono で API バックエンドを作るときの個人的ベストプラクティス",
+      "title": "Hono でバックエンド API を作るときの個人的ベストプラクティス",
       "url": "https://zenn.dev/ashunar0/articles/1ba94a110d8622",
       "score": null,
       "author": "あさひ",
@@ -5433,6 +5453,32 @@
         "Zenn"
       ],
       "date": "Tue, 16 Jun 2026 06:05:05 GMT"
+    },
+    {
+      "id": "zenn-1be94cf873",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "URLパスと型で\"認可\"を実装パターンにする",
+      "url": "https://zenn.dev/macopy/articles/551dcf5ba8c6ac",
+      "score": null,
+      "author": "macopy",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 16 Jun 2026 05:01:07 GMT"
+    },
+    {
+      "id": "zenn-066b7ba136",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Unity 6.6 の Dictionary シリアライズサポートについて調べてみた",
+      "url": "https://zenn.dev/monry/articles/20260616-unity66-serializable-dictionary",
+      "score": null,
+      "author": "monry",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 16 Jun 2026 03:20:20 GMT"
     },
     {
       "id": "zenn-8e47e36626",
@@ -5539,19 +5585,6 @@
       "date": "Mon, 15 Jun 2026 12:15:48 GMT"
     },
     {
-      "id": "zenn-c253e770b5",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？",
-      "url": "https://zenn.dev/aldagram_tech/articles/124d14d59bc595",
-      "score": null,
-      "author": "hiroyahorai",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 15 Jun 2026 07:30:05 GMT"
-    },
-    {
       "id": "zenn-810fcf4b38",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5565,31 +5598,17 @@
       "date": "Mon, 15 Jun 2026 05:42:37 GMT"
     },
     {
-      "id": "zenn-162a0641e8",
+      "id": "zenn-8d39b25062",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Local LLMでのデータ分析を試してみた",
-      "url": "https://zenn.dev/aishift/articles/5a5383987efee6",
+      "title": "フロントエンドエンジニアがFigmaのオートレイアウトを駆使して、実装に直結するUIを設計した話",
+      "url": "https://zenn.dev/gakken_leap/articles/71256fe15dd354",
       "score": null,
-      "author": "t.toda",
+      "author": "Kuma",
       "tags": [
         "Zenn"
       ],
-      "date": "Mon, 15 Jun 2026 03:15:58 GMT"
-    },
-    {
-      "id": "zenn-7d41afa918",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Agent Threat Rules (ATR) とは？ MCP や SKILL.md を守る新しいオープンな検出フォーマットを試してみた",
-      "url": "https://zenn.dev/cscloud_blog/articles/agent-threat-rules-intro",
-      "score": null,
-      "author": "平木 佳介",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 15 Jun 2026 02:31:48 GMT",
-      "severity": "medium"
+      "date": "Mon, 15 Jun 2026 04:00:09 GMT"
     },
     {
       "id": "zenn-af5a36196d",
@@ -5616,32 +5635,6 @@
         "Zenn"
       ],
       "date": "Sun, 14 Jun 2026 16:06:13 GMT"
-    },
-    {
-      "id": "zenn-524d414ae0",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "JavaScriptのClass離れの歴史をたどる話",
-      "url": "https://zenn.dev/sjbworks/articles/41a5c76dce4b36",
-      "score": null,
-      "author": "sjbworks",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 14 Jun 2026 04:05:29 GMT"
-    },
-    {
-      "id": "zenn-82a6248171",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "個人開発はなぜ誰も使わないのか──AIで「作る壁」が消えた時代に大事になること",
-      "url": "https://zenn.dev/yun_bow/articles/6e6bcbf127072a",
-      "score": null,
-      "author": "ゆんぼう",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 14 Jun 2026 00:14:20 GMT"
     },
     {
       "id": "edb-3a6bcc02f2",
