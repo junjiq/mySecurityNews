@@ -1,9 +1,16 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T14:34:26.551461+00:00",
-  "total_articles": 61,
-  "urgent_count": 2,
+  "generated_at": "2026-06-17T16:18:16.217564+00:00",
+  "total_articles": 59,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-17T16:14:04+00:00"
+    },
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
       "url": "https://wpvip.com/future-of-the-web-2026/",
@@ -25,28 +32,28 @@
       "count": 49,
       "top_items": [
         {
-          "title": "Running local models is good now",
-          "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-          "score": 1437,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-16T14:36:57+00:00"
-        },
-        {
           "title": "GrapheneOS has been ported to Android 17",
           "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-          "score": 895,
+          "score": 941,
           "source": "hn",
           "severity": null,
           "date": "2026-06-16T20:34:35+00:00"
         },
         {
-          "title": "Apple's weird anti-nausea dots cured my car sickness",
-          "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-          "score": 677,
+          "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+          "url": "https://wpvip.com/future-of-the-web-2026/",
+          "score": 636,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-06-17T12:11:27+00:00"
+        },
+        {
+          "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+          "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+          "score": 528,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-16T16:12:06+00:00"
+          "date": "2026-06-17T09:12:00+00:00"
         },
         {
           "title": "Is Meta destroying its engineering organization?",
@@ -57,18 +64,18 @@
           "date": "2026-06-16T16:42:32+00:00"
         },
         {
-          "title": "Calvin and Hobbes and the price of integrity",
-          "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-          "score": 498,
+          "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+          "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+          "score": 491,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-16T15:44:44+00:00"
+          "date": "2026-06-16T16:40:58+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 10,
       "top_items": [
         {
           "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話",

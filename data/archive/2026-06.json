@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-17T14:34:26.593778+00:00",
+  "generated_at": "2026-06-17T16:18:16.245063+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99,
+    "hn": 352,
+    "zennqiita": 98,
     "project": 3
   },
   "severity_counts": {
-    "critical": 17,
+    "critical": 16,
     "medium": 3,
     "high": 4
   },
@@ -35,18 +35,18 @@
       "date": "2026-06-15T20:00:57+00:00"
     },
     {
+      "title": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "score": 1476,
+      "source": "hn",
+      "date": "2026-06-16T14:36:57+00:00"
+    },
+    {
       "title": "Open source AI must win",
       "url": "https://opensourceaimustwin.com/?share=v2",
       "score": 1456,
       "source": "hn",
       "date": "2026-06-13T02:14:24+00:00"
-    },
-    {
-      "title": "Running local models is good now",
-      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 1437,
-      "source": "hn",
-      "date": "2026-06-16T14:36:57+00:00"
     },
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
@@ -77,18 +77,18 @@
       "date": "2026-06-12T15:15:24+00:00"
     },
     {
+      "title": "GrapheneOS has been ported to Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "score": 941,
+      "source": "hn",
+      "date": "2026-06-16T20:34:35+00:00"
+    },
+    {
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "url": "https://tinywind.io",
       "score": 937,
       "source": "hn",
       "date": "2026-06-15T16:15:53+00:00"
-    },
-    {
-      "title": "GrapheneOS has been ported to Android 17",
-      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "score": 895,
-      "source": "hn",
-      "date": "2026-06-16T20:34:35+00:00"
     },
     {
       "title": "Noise infusion banned from statistical products published by Census Bureau",
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-17T16:14:04+00:00"
+    },
+    {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
       "url": "https://wpvip.com/future-of-the-web-2026/",
       "severity": "critical",
@@ -210,6 +217,13 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-06-15T10:56:34+09:00"
+    },
+    {
+      "title": "Open-source React UI and D-pad focus engine for Meta Ray-Ban Display",
+      "url": "https://glasskit.app/ui",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-14T18:40:09+00:00"
     },
     {
       "title": "Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive",
@@ -280,27 +294,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-11T16:03:40+00:00"
-    },
-    {
-      "title": "Show HN: Open-source API Key server written in Go by Ory",
-      "url": "https://github.com/ory/talos/tree/master",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-11T15:09:42+00:00"
-    },
-    {
-      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
-      "url": "https://github.com/kekcleader/FreeOberon",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-11T14:34:46+00:00"
-    },
-    {
-      "title": "MiMo Code is now released and open-source",
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-11T14:27:19+00:00"
     }
   ]
 }
