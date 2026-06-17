@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-17T21:15:57.110512+00:00",
+  "generated_at": "2026-06-17T22:10:58.747669+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 347,
@@ -8,8 +8,8 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 17,
-    "medium": 3,
+    "critical": 16,
+    "medium": 2,
     "high": 4
   },
   "top_articles": [
@@ -112,18 +112,18 @@
       "date": "2026-06-14T22:54:55+00:00"
     },
     {
+      "title": "Lore – Open source version control system designed for scalability",
+      "url": "https://lore.org/",
+      "score": 835,
+      "source": "hn",
+      "date": "2026-06-17T14:30:27+00:00"
+    },
+    {
       "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
       "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
       "score": 829,
       "source": "hn",
       "date": "2026-06-16T04:58:15+00:00"
-    },
-    {
-      "title": "Lore – Open source version control system designed for scalability",
-      "url": "https://lore.org/",
-      "score": 798,
-      "source": "hn",
-      "date": "2026-06-17T14:30:27+00:00"
     },
     {
       "title": "Every Frame Perfect",
@@ -135,7 +135,7 @@
     {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 701,
+      "score": 722,
       "source": "hn",
       "date": "2026-06-17T09:12:00+00:00"
     },
@@ -294,13 +294,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-11T21:04:47+00:00"
-    },
-    {
-      "title": "Who Runs the Ransomware Group 'The Gentlemen?'",
-      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-11T19:23:52+00:00"
     }
   ]
 }
