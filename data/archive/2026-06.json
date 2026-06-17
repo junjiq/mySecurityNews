@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-17T20:16:46.811125+00:00",
+  "generated_at": "2026-06-17T21:15:57.110512+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 347,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 17,
     "medium": 3,
     "high": 4
   },
@@ -119,6 +119,13 @@
       "date": "2026-06-16T04:58:15+00:00"
     },
     {
+      "title": "Lore – Open source version control system designed for scalability",
+      "url": "https://lore.org/",
+      "score": 798,
+      "source": "hn",
+      "date": "2026-06-17T14:30:27+00:00"
+    },
+    {
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
       "score": 790,
@@ -126,11 +133,11 @@
       "date": "2026-06-13T11:40:20+00:00"
     },
     {
-      "title": "Epic Games announces Lore version control system",
-      "url": "https://lore.org/",
-      "score": 724,
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "score": 701,
       "source": "hn",
-      "date": "2026-06-17T14:30:27+00:00"
+      "date": "2026-06-17T09:12:00+00:00"
     },
     {
       "title": "GLM 5.2 Is Out",
@@ -145,13 +152,6 @@
       "score": 677,
       "source": "hn",
       "date": "2026-06-16T16:12:06+00:00"
-    },
-    {
-      "title": "Claude Fable is relentlessly proactive",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "score": 676,
-      "source": "hn",
-      "date": "2026-06-12T01:06:51+00:00"
     }
   ],
   "security_highlights": [
@@ -168,6 +168,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-17T16:14:04+00:00"
+    },
+    {
+      "title": "Lore – Open source version control system designed for scalability",
+      "url": "https://lore.org/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-17T14:30:27+00:00"
     },
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",

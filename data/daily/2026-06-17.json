@@ -1,8 +1,8 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T20:16:46.764328+00:00",
-  "total_articles": 54,
-  "urgent_count": 4,
+  "generated_at": "2026-06-17T21:15:57.070957+00:00",
+  "total_articles": 53,
+  "urgent_count": 5,
   "urgent_items": [
     {
       "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
@@ -17,6 +17,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-17T16:14:04+00:00"
+    },
+    {
+      "title": "Lore – Open source version control system designed for scalability",
+      "url": "https://lore.org/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-17T14:30:27+00:00"
     },
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
@@ -36,16 +43,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 40,
       "top_items": [
-        {
-          "title": "GrapheneOS has been ported to Android 17",
-          "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-          "score": 956,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-16T20:34:35+00:00"
-        },
         {
           "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
           "url": "https://wpvip.com/future-of-the-web-2026/",
@@ -55,17 +54,17 @@
           "date": "2026-06-17T12:11:27+00:00"
         },
         {
-          "title": "Epic Games announces Lore version control system",
+          "title": "Lore – Open source version control system designed for scalability",
           "url": "https://lore.org/",
-          "score": 724,
+          "score": 798,
           "source": "hn",
-          "severity": null,
+          "severity": "critical",
           "date": "2026-06-17T14:30:27+00:00"
         },
         {
           "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
           "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-          "score": 670,
+          "score": 701,
           "source": "hn",
           "severity": null,
           "date": "2026-06-17T09:12:00+00:00"
@@ -73,10 +72,18 @@
         {
           "title": "Want your images back? That'll be $5",
           "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-          "score": 539,
+          "score": 561,
           "source": "hn",
           "severity": null,
           "date": "2026-06-17T13:05:03+00:00"
+        },
+        {
+          "title": "U.S. science is in chaos",
+          "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+          "score": 486,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-17T09:54:21+00:00"
         }
       ]
     },
