@@ -1,9 +1,16 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T11:35:47.581139+00:00",
+  "generated_at": "2026-06-17T13:17:21.296825+00:00",
   "total_articles": 64,
-  "urgent_count": 1,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-17T12:11:27+00:00"
+    },
     {
       "title": "NLnet announces funding for 67 more open-source projects",
       "url": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 51,
       "top_items": [
         {
           "title": "Running local models is good now",
           "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-          "score": 1372,
+          "score": 1405,
           "source": "hn",
           "severity": null,
           "date": "2026-06-16T14:36:57+00:00"
@@ -28,7 +35,7 @@
         {
           "title": "GrapheneOS has been ported to Android 17",
           "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-          "score": 814,
+          "score": 867,
           "source": "hn",
           "severity": null,
           "date": "2026-06-16T20:34:35+00:00"
@@ -52,7 +59,7 @@
         {
           "title": "Calvin and Hobbes and the price of integrity",
           "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-          "score": 446,
+          "score": 478,
           "source": "hn",
           "severity": null,
           "date": "2026-06-16T15:44:44+00:00"
@@ -61,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話",
