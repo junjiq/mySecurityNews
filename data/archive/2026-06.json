@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-18T18:18:46.378621+00:00",
+  "generated_at": "2026-06-18T19:18:33.555160+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 351,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "medium": 3,
     "high": 4
   },
@@ -168,6 +168,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-17T17:07:32+00:00"
+    },
+    {
+      "title": "Agentic Resource Discovery Specification",
+      "url": "https://agenticresourcediscovery.org/introduction/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-17T17:03:17+00:00"
     },
     {
       "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
