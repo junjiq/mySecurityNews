@@ -1,7 +1,7 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T09:32:10.125738+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-06-18T11:24:05.777547+00:00",
+  "total_articles": 58,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 45,
       "top_items": [
         {
           "title": "Lore – Open source version control system designed for scalability",
           "url": "https://lore.org/",
-          "score": 1132,
+          "score": 1156,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-17T14:30:27+00:00"
@@ -55,17 +55,9 @@
           "date": "2026-06-17T12:11:27+00:00"
         },
         {
-          "title": "U.S. science is in chaos",
-          "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-          "score": 727,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-17T09:54:21+00:00"
-        },
-        {
           "title": "Midjourney Medical",
           "url": "https://www.midjourney.com/medical/blogpost",
-          "score": 716,
+          "score": 834,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T01:59:51+00:00"
@@ -77,12 +69,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-17T15:04:47+00:00"
+        },
+        {
+          "title": "Want your images back? That'll be $5",
+          "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+          "score": 593,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-17T13:05:03+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 13,
       "top_items": [
         {
           "title": "メモリ管理の基本と、Railsで省メモリに書くための実装Tips",
