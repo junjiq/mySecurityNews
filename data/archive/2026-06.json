@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-18T19:18:33.555160+00:00",
+  "generated_at": "2026-06-18T20:17:49.217231+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99,
+    "hn": 346,
+    "zennqiita": 104,
     "project": 3
   },
   "severity_counts": {
-    "critical": 15,
     "medium": 3,
+    "critical": 13,
     "high": 4
   },
   "top_articles": [
@@ -156,13 +156,6 @@
   ],
   "security_highlights": [
     {
-      "title": "Has W Social switched to closed source?",
-      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-18T12:46:04+00:00"
-    },
-    {
       "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
       "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
       "severity": "critical",
@@ -280,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-12T22:13:29+00:00"
-    },
-    {
-      "title": "Law Enforcement's \"Warrior\" Problem (2015)",
-      "url": "https://harvardlawreview.org/forum/vol-128/law-enforcements-warrior-problem/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-12T17:04:09+00:00"
     }
   ]
 }
