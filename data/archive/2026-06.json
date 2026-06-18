@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-18T02:20:54.556045+00:00",
-  "total_articles": 457,
+  "generated_at": "2026-06-18T03:47:10.810942+00:00",
+  "total_articles": 453,
   "source_counts": {
-    "hn": 351,
+    "hn": 347,
     "zennqiita": 103,
     "project": 3
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 14,
     "medium": 2,
     "high": 4
   },
@@ -72,7 +72,7 @@
     {
       "title": "Lore – Open source version control system designed for scalability",
       "url": "https://lore.org/",
-      "score": 989,
+      "score": 1027,
       "source": "hn",
       "date": "2026-06-17T14:30:27+00:00"
     },
@@ -126,6 +126,13 @@
       "date": "2026-06-16T04:58:15+00:00"
     },
     {
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "score": 815,
+      "source": "hn",
+      "date": "2026-06-17T09:12:00+00:00"
+    },
+    {
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
       "score": 790,
@@ -133,11 +140,11 @@
       "date": "2026-06-13T11:40:20+00:00"
     },
     {
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 783,
+      "title": "U.S. science is in chaos",
+      "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "score": 727,
       "source": "hn",
-      "date": "2026-06-17T09:12:00+00:00"
+      "date": "2026-06-17T09:54:21+00:00"
     },
     {
       "title": "GLM 5.2 Is Out",
@@ -145,13 +152,6 @@
       "score": 701,
       "source": "hn",
       "date": "2026-06-13T16:18:31+00:00"
-    },
-    {
-      "title": "U.S. science is in chaos",
-      "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-      "score": 685,
-      "source": "hn",
-      "date": "2026-06-17T09:54:21+00:00"
     }
   ],
   "security_highlights": [
@@ -280,13 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-12T10:42:50+00:00"
-    },
-    {
-      "title": "Codex for open source",
-      "url": "https://openai.com/form/codex-for-oss/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-11T22:20:03+00:00"
     }
   ]
 }
