@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-18T12:34:10.582241+00:00",
+  "generated_at": "2026-06-18T14:02:57.139010+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 348,
-    "zennqiita": 102,
+    "hn": 350,
+    "zennqiita": 100,
     "project": 3
   },
   "severity_counts": {
-    "critical": 13,
-    "medium": 2,
+    "critical": 14,
+    "medium": 3,
     "high": 4
   },
   "top_articles": [
@@ -51,7 +51,7 @@
     {
       "title": "Lore – Open source version control system designed for scalability",
       "url": "https://lore.org/",
-      "score": 1170,
+      "score": 1185,
       "source": "hn",
       "date": "2026-06-17T14:30:27+00:00"
     },
@@ -61,6 +61,13 @@
       "score": 1043,
       "source": "hn",
       "date": "2026-06-16T10:44:24+00:00"
+    },
+    {
+      "title": "Midjourney Medical",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "score": 1014,
+      "source": "hn",
+      "date": "2026-06-18T01:59:51+00:00"
     },
     {
       "title": "GrapheneOS has been ported to Android 17",
@@ -82,13 +89,6 @@
       "score": 937,
       "source": "hn",
       "date": "2026-06-15T16:15:53+00:00"
-    },
-    {
-      "title": "Midjourney Medical",
-      "url": "https://www.midjourney.com/medical/blogpost",
-      "score": 920,
-      "source": "hn",
-      "date": "2026-06-18T01:59:51+00:00"
     },
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Has W Social switched to closed source?",
+      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-18T12:46:04+00:00"
+    },
     {
       "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
       "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
