@@ -1,13 +1,21 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T20:17:49.170782+00:00",
-  "total_articles": 70,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-06-18T21:18:22.398873+00:00",
+  "total_articles": 69,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-18T18:31:23+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 52,
       "top_items": [
         {
           "title": "Midjourney Medical",
@@ -20,7 +28,7 @@
         {
           "title": "Swiss parliament lifts ban on new nuclear power plants",
           "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-          "score": 512,
+          "score": 581,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T14:17:07+00:00"
@@ -28,10 +36,18 @@
         {
           "title": "I found 10k GitHub repositories distributing Trojan malware",
           "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-          "score": 476,
+          "score": 545,
           "source": "hn",
           "severity": "medium",
           "date": "2026-06-18T11:45:43+00:00"
+        },
+        {
+          "title": "DeepSeek Introduces Vision",
+          "url": "https://chat.deepseek.com/",
+          "score": 434,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-18T06:17:40+00:00"
         },
         {
           "title": "Local Qwen isn't a worse Opus, it's a different tool",
@@ -40,14 +56,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T03:04:20+00:00"
-        },
-        {
-          "title": "DeepSeek Introduces Vision",
-          "url": "https://chat.deepseek.com/",
-          "score": 424,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-18T06:17:40+00:00"
         }
       ]
     },
