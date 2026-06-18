@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T03:47:10.767819+00:00",
+  "generated_at": "2026-06-18T05:38:11.126236+00:00",
   "total_articles": 54,
   "urgent_count": 4,
   "urgent_items": [
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 47,
       "top_items": [
         {
           "title": "Lore – Open source version control system designed for scalability",
           "url": "https://lore.org/",
-          "score": 1027,
+          "score": 1067,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-17T14:30:27+00:00"
@@ -82,8 +82,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 7,
       "top_items": [
+        {
+          "title": "OSSのコードを読む習慣が、コードレビュー力を爆上げした話",
+          "url": "https://qiita.com/fe1ix/items/148bcdb1f7ef315bf5f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-18T13:14:43+09:00"
+        },
         {
           "title": "Reactをビギナーに教える前に知っておきたかった「技術より大切なこと」",
           "url": "https://qiita.com/monotein/items/789b0b2250d1ed2e8acf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -115,14 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-17T19:30:48+09:00"
-        },
-        {
-          "title": "【Frontend CSS – パート10】ブラウザから見たSubgrid：ネストしたレイアウトはどう同期されるのか？",
-          "url": "https://qiita.com/tuanphan/items/50c94213129681955cb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-17T16:41:32+09:00"
         }
       ]
     }
