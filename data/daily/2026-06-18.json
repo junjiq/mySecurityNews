@@ -1,8 +1,8 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T14:02:57.095187+00:00",
-  "total_articles": 65,
-  "urgent_count": 4,
+  "generated_at": "2026-06-18T15:45:16.679316+00:00",
+  "total_articles": 64,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Has W Social switched to closed source?",
@@ -24,13 +24,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-17T16:14:04+00:00"
-    },
-    {
-      "title": "Lore – Open source version control system designed for scalability",
-      "url": "https://lore.org/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-17T14:30:27+00:00"
     }
   ],
   "categories": [
@@ -39,36 +32,28 @@
       "count": 52,
       "top_items": [
         {
-          "title": "Lore – Open source version control system designed for scalability",
-          "url": "https://lore.org/",
-          "score": 1185,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-17T14:30:27+00:00"
-        },
-        {
           "title": "Midjourney Medical",
           "url": "https://www.midjourney.com/medical/blogpost",
-          "score": 1014,
+          "score": 1099,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T01:59:51+00:00"
         },
         {
-          "title": "Volkswagen started blocking GrapheneOS users",
-          "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
-          "score": 639,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-17T15:04:47+00:00"
-        },
-        {
           "title": "Local Qwen isn't a worse Opus, it's a different tool",
           "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-          "score": 324,
+          "score": 357,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T03:04:20+00:00"
+        },
+        {
+          "title": "DeepSeek Introduces Vision",
+          "url": "https://chat.deepseek.com/",
+          "score": 334,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-18T06:17:40+00:00"
         },
         {
           "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
@@ -77,12 +62,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-17T21:31:35+00:00"
+        },
+        {
+          "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+          "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+          "score": 303,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-06-17T17:07:32+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "メモリ管理の基本と、Railsで省メモリに書くための実装Tips",
