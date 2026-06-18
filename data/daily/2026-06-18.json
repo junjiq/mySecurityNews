@@ -1,8 +1,8 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T15:45:16.679316+00:00",
+  "generated_at": "2026-06-18T17:04:50.250346+00:00",
   "total_articles": 64,
-  "urgent_count": 3,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Has W Social switched to closed source?",
@@ -17,13 +17,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-17T17:07:32+00:00"
-    },
-    {
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "url": "https://github.com/Adam-CAD/CADAM",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-17T16:14:04+00:00"
     }
   ],
   "categories": [
@@ -34,7 +27,7 @@
         {
           "title": "Midjourney Medical",
           "url": "https://www.midjourney.com/medical/blogpost",
-          "score": 1099,
+          "score": 1165,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T01:59:51+00:00"
@@ -42,7 +35,7 @@
         {
           "title": "Local Qwen isn't a worse Opus, it's a different tool",
           "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-          "score": 357,
+          "score": 382,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T03:04:20+00:00"
@@ -50,10 +43,18 @@
         {
           "title": "DeepSeek Introduces Vision",
           "url": "https://chat.deepseek.com/",
-          "score": 334,
+          "score": 367,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T06:17:40+00:00"
+        },
+        {
+          "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+          "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+          "score": 333,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-18T12:19:05+00:00"
         },
         {
           "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
@@ -62,14 +63,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-17T21:31:35+00:00"
-        },
-        {
-          "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-          "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-          "score": 303,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-17T17:07:32+00:00"
         }
       ]
     },
