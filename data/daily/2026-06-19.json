@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T23:24:52.918171+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-06-19T23:52:58.169013+00:00",
+  "total_articles": 49,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -20,7 +20,7 @@
         {
           "title": "Hyundai buys Boston Dynamics",
           "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-          "score": 579,
+          "score": 595,
           "source": "hn",
           "severity": null,
           "date": "2026-06-19T16:28:20+00:00"
@@ -28,10 +28,18 @@
         {
           "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
           "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-          "score": 525,
+          "score": 531,
           "source": "hn",
           "severity": null,
           "date": "2026-06-19T06:35:57+00:00"
+        },
+        {
+          "title": "Google workspace threatening to block Firefox access",
+          "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+          "score": 394,
+          "source": "hn",
+          "severity": "medium",
+          "date": "2026-06-19T16:30:49+00:00"
         },
         {
           "title": "Amateur may have cracked Linear A",
@@ -42,17 +50,9 @@
           "date": "2026-06-19T16:04:42+00:00"
         },
         {
-          "title": "Google workspace threatening to block Firefox access",
-          "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-          "score": 384,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-06-19T16:30:49+00:00"
-        },
-        {
           "title": "There are no instances in ATProto",
           "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-          "score": 302,
+          "score": 317,
           "source": "hn",
           "severity": null,
           "date": "2026-06-19T15:10:02+00:00"
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
         {
           "title": "AIが先か、人間が先か — AI時代のJr.エンジニアの成長とは",
