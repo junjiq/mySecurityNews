@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-19T11:02:15.057490+00:00",
+  "generated_at": "2026-06-19T12:46:53.898412+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 345,
-    "zennqiita": 105,
+    "hn": 349,
+    "zennqiita": 101,
     "project": 3
   },
   "severity_counts": {
     "medium": 6,
-    "critical": 13,
+    "critical": 14,
     "high": 4
   },
   "top_articles": [
@@ -91,6 +91,13 @@
       "date": "2026-06-14T22:54:55+00:00"
     },
     {
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "score": 834,
+      "source": "hn",
+      "date": "2026-06-18T11:45:43+00:00"
+    },
+    {
       "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
       "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
       "score": 829,
@@ -103,13 +110,6 @@
       "score": 815,
       "source": "hn",
       "date": "2026-06-17T09:12:00+00:00"
-    },
-    {
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 810,
-      "source": "hn",
-      "date": "2026-06-18T11:45:43+00:00"
     },
     {
       "title": "Every Frame Perfect",
@@ -238,6 +238,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-15T15:43:17+00:00"
+    },
+    {
+      "title": "Akse3D – open-source 3D modelling anyone can master",
+      "url": "https://akse3d-en.skaperiet.no",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-15T13:13:38+00:00"
     },
     {
       "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",

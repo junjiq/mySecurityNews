@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T11:02:15.010679+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-06-19T12:46:53.855391+00:00",
+  "total_articles": 50,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,16 +22,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 40,
       "top_items": [
-        {
-          "title": "I found 10k GitHub repositories distributing Trojan malware",
-          "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-          "score": 810,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-06-18T11:45:43+00:00"
-        },
         {
           "title": "Swiss parliament lifts ban on new nuclear power plants",
           "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
@@ -39,14 +31,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T14:17:07+00:00"
-        },
-        {
-          "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
-          "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
-          "score": 421,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-18T12:19:05+00:00"
         },
         {
           "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
@@ -57,18 +41,34 @@
           "date": "2026-06-18T18:31:23+00:00"
         },
         {
-          "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-          "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-          "score": 379,
+          "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+          "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+          "score": 357,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-18T12:10:53+00:00"
+          "date": "2026-06-18T14:24:30+00:00"
+        },
+        {
+          "title": "A website that lists websites to submit your website to",
+          "url": "https://www.submission.directory/",
+          "score": 355,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-18T15:12:43+00:00"
+        },
+        {
+          "title": "The founder of Craigslist has given away half a billion dollars",
+          "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+          "score": 296,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-18T16:55:25+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
         {
           "title": "AIコーディングをシニアエンジニアに変える「Agent Skills」 – SDLCへの実践的適用",
