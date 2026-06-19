@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T00:03:42.271063+00:00",
-  "total_articles": 67,
+  "generated_at": "2026-06-19T01:38:40.092782+00:00",
+  "total_articles": 64,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 51,
       "top_items": [
         {
           "title": "Midjourney Medical",
@@ -28,7 +28,7 @@
         {
           "title": "Swiss parliament lifts ban on new nuclear power plants",
           "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-          "score": 662,
+          "score": 686,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T14:17:07+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "I found 10k GitHub repositories distributing Trojan malware",
           "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-          "score": 634,
+          "score": 661,
           "source": "hn",
           "severity": "medium",
           "date": "2026-06-18T11:45:43+00:00"
@@ -61,8 +61,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 17,
+      "count": 13,
       "top_items": [
+        {
+          "title": "AWS Summit New York 2026 での新発表まとめメモ",
+          "url": "https://qiita.com/hayao_k/items/44b25e2a51d12482a308?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-19T09:27:10+09:00"
+        },
         {
           "title": "後輩に伝えたい「配属先選び」のリアル",
           "url": "https://qiita.com/kimura_c/items/d0c796305869c32091a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-18T15:06:04+09:00"
-        },
-        {
-          "title": "OpenCode × Ollama でローカル完結のセルフホスト型コーディングエージェントを構築する",
-          "url": "https://qiita.com/kai_kou/items/16362b2eacb9d597f3d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-18T14:40:13+09:00"
         }
       ]
     }
