@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T05:15:43.869259+00:00",
+  "generated_at": "2026-06-19T07:15:45.611532+00:00",
   "total_articles": 53,
   "urgent_count": 2,
   "urgent_items": [
@@ -22,8 +22,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 50,
       "top_items": [
+        {
+          "title": "I found 10k GitHub repositories distributing Trojan malware",
+          "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+          "score": 762,
+          "source": "hn",
+          "severity": "medium",
+          "date": "2026-06-18T11:45:43+00:00"
+        },
         {
           "title": "Swiss parliament lifts ban on new nuclear power plants",
           "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
@@ -33,28 +41,20 @@
           "date": "2026-06-18T14:17:07+00:00"
         },
         {
-          "title": "I found 10k GitHub repositories distributing Trojan malware",
-          "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-          "score": 730,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-06-18T11:45:43+00:00"
-        },
-        {
-          "title": "DeepSeek Introduces Vision",
-          "url": "https://chat.deepseek.com/",
-          "score": 445,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-18T06:17:40+00:00"
-        },
-        {
           "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
           "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
           "score": 421,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T12:19:05+00:00"
+        },
+        {
+          "title": ".gitignore Isn't the only way to ignore files in Git",
+          "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+          "score": 380,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-18T10:29:20+00:00"
         },
         {
           "title": "Emacs 31 is around the corner: The changes I'm daily driving",
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 3,
       "top_items": [
         {
           "title": "AWS Summit New York 2026 での新発表まとめメモ",
@@ -93,22 +93,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-18T17:10:23+09:00"
-        },
-        {
-          "title": "メモリ管理の基本と、Railsで省メモリに書くための実装Tips",
-          "url": "https://qiita.com/akachiryo/items/30c076850c90e50da118?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-18T15:30:18+09:00"
-        },
-        {
-          "title": "UberEats に置き換えて、ネットワークを5分爆速理解！",
-          "url": "https://qiita.com/haru1113/items/35b4f1efdd67ecea0322?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-18T15:06:04+09:00"
         }
       ]
     }

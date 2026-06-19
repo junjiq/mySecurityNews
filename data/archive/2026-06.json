@@ -1,10 +1,10 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-19T05:15:43.914342+00:00",
+  "generated_at": "2026-06-19T07:15:45.660178+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 349,
-    "zennqiita": 101,
+    "hn": 351,
+    "zennqiita": 99,
     "project": 3
   },
   "severity_counts": {
@@ -13,13 +13,6 @@
     "high": 4
   },
   "top_articles": [
-    {
-      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "score": 3026,
-      "source": "hn",
-      "date": "2026-06-13T00:51:30+00:00"
-    },
     {
       "title": "A backdoor in a LinkedIn job offer",
       "url": "https://roman.pt/posts/linkedin-backdoor/",
@@ -126,18 +119,18 @@
       "date": "2026-06-13T11:40:20+00:00"
     },
     {
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "score": 762,
+      "source": "hn",
+      "date": "2026-06-18T11:45:43+00:00"
+    },
+    {
       "title": "Swiss parliament lifts ban on new nuclear power plants",
       "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
       "score": 731,
       "source": "hn",
       "date": "2026-06-18T14:17:07+00:00"
-    },
-    {
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 730,
-      "source": "hn",
-      "date": "2026-06-18T11:45:43+00:00"
     },
     {
       "title": "U.S. science is in chaos",
@@ -152,6 +145,13 @@
       "score": 701,
       "source": "hn",
       "date": "2026-06-13T16:18:31+00:00"
+    },
+    {
+      "title": "Apple's weird anti-nausea dots cured my car sickness",
+      "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+      "score": 677,
+      "source": "hn",
+      "date": "2026-06-16T16:12:06+00:00"
     }
   ],
   "security_highlights": [
