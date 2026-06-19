@@ -1,18 +1,26 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T22:22:23.011571+00:00",
-  "total_articles": 49,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-06-19T22:47:59.832544+00:00",
+  "total_articles": 51,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Think of the Children: How to Force Real ID for All Internet Traffic (2023)",
+      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-19T20:19:57+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 39,
       "top_items": [
         {
           "title": "Hyundai buys Boston Dynamics",
           "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-          "score": 534,
+          "score": 556,
           "source": "hn",
           "severity": null,
           "date": "2026-06-19T16:28:20+00:00"
@@ -20,7 +28,7 @@
         {
           "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
           "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-          "score": 518,
+          "score": 524,
           "source": "hn",
           "severity": null,
           "date": "2026-06-19T06:35:57+00:00"
@@ -28,10 +36,18 @@
         {
           "title": "Amateur may have cracked Linear A",
           "url": "https://aiclambake.com/clamtakes/linear-a/",
-          "score": 375,
+          "score": 385,
           "source": "hn",
           "severity": null,
           "date": "2026-06-19T16:04:42+00:00"
+        },
+        {
+          "title": "Google workspace threatening to block Firefox access",
+          "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+          "score": 377,
+          "source": "hn",
+          "severity": "medium",
+          "date": "2026-06-19T16:30:49+00:00"
         },
         {
           "title": "The AirPods Effect",
@@ -40,14 +56,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T23:08:35+00:00"
-        },
-        {
-          "title": "Google workspace threatening to block Firefox access",
-          "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-          "score": 355,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-06-19T16:30:49+00:00"
         }
       ]
     },
