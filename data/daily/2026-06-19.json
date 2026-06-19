@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T09:12:15.630571+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-06-19T11:02:15.010679+00:00",
+  "total_articles": 57,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
         {
           "title": "I found 10k GitHub repositories distributing Trojan malware",
           "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-          "score": 782,
+          "score": 810,
           "source": "hn",
           "severity": "medium",
           "date": "2026-06-18T11:45:43+00:00"
@@ -49,20 +49,20 @@
           "date": "2026-06-18T12:19:05+00:00"
         },
         {
-          "title": ".gitignore Isn't the only way to ignore files in Git",
-          "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-          "score": 411,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-18T10:29:20+00:00"
-        },
-        {
           "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
           "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
           "score": 379,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-18T18:31:23+00:00"
+        },
+        {
+          "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+          "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+          "score": 379,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-18T12:10:53+00:00"
         }
       ]
     },

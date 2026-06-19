@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-19T09:12:15.670356+00:00",
+  "generated_at": "2026-06-19T11:02:15.057490+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 345,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 6,
-    "critical": 12,
+    "critical": 13,
     "high": 4
   },
   "top_articles": [
@@ -105,18 +105,18 @@
       "date": "2026-06-17T09:12:00+00:00"
     },
     {
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "score": 810,
+      "source": "hn",
+      "date": "2026-06-18T11:45:43+00:00"
+    },
+    {
       "title": "Every Frame Perfect",
       "url": "https://tonsky.me/blog/every-frame-perfect/",
       "score": 790,
       "source": "hn",
       "date": "2026-06-13T11:40:20+00:00"
-    },
-    {
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 782,
-      "source": "hn",
-      "date": "2026-06-18T11:45:43+00:00"
     },
     {
       "title": "Swiss parliament lifts ban on new nuclear power plants",
@@ -210,6 +210,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-16T23:12:09+00:00"
+    },
+    {
+      "title": "Ten years of ClickHouse in open source",
+      "url": "https://clickhouse.com/blog/open-source-10",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-15T20:51:54+00:00"
     },
     {
       "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
