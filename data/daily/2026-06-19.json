@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T15:40:31.908462+00:00",
-  "total_articles": 41,
+  "generated_at": "2026-06-19T16:51:00.378264+00:00",
+  "total_articles": 39,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,8 +15,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 31,
+      "count": 30,
       "top_items": [
+        {
+          "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+          "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+          "score": 410,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-19T06:35:57+00:00"
+        },
         {
           "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
           "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
@@ -24,14 +32,6 @@
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-18T18:31:23+00:00"
-        },
-        {
-          "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-          "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-          "score": 364,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-19T06:35:57+00:00"
         },
         {
           "title": "The founder of Craigslist has given away half a billion dollars",
@@ -52,7 +52,7 @@
         {
           "title": "The AirPods Effect",
           "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-          "score": 237,
+          "score": 275,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T23:08:35+00:00"
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
         {
           "title": "AIコーディングをシニアエンジニアに変える「Agent Skills」 – SDLCへの実践的適用",
