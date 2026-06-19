@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-19T19:34:29.838845+00:00",
+  "generated_at": "2026-06-19T20:32:54.404765+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 353,
-    "zennqiita": 97,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 3
   },
   "severity_counts": {
     "medium": 7,
-    "critical": 14,
+    "critical": 13,
     "high": 4
   },
   "top_articles": [
@@ -72,7 +72,7 @@
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 911,
+      "score": 918,
       "source": "hn",
       "date": "2026-06-18T11:45:43+00:00"
     },
@@ -273,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-14T18:40:09+00:00"
-    },
-    {
-      "title": "Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive",
-      "url": "https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-13T19:53:41+00:00"
     }
   ]
 }

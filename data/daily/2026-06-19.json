@@ -1,37 +1,45 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T19:34:29.794699+00:00",
-  "total_articles": 42,
+  "generated_at": "2026-06-19T20:32:54.359582+00:00",
+  "total_articles": 46,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 33,
+      "count": 34,
       "top_items": [
         {
           "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
           "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-          "score": 482,
+          "score": 496,
           "source": "hn",
           "severity": null,
           "date": "2026-06-19T06:35:57+00:00"
         },
         {
+          "title": "Hyundai buys Boston Dynamics",
+          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+          "score": 419,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-19T16:28:20+00:00"
+        },
+        {
           "title": "The AirPods Effect",
           "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-          "score": 329,
+          "score": 339,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T23:08:35+00:00"
         },
         {
-          "title": "Hyundai buys Boston Dynamics",
-          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-          "score": 293,
+          "title": "Amateur may have cracked Linear A",
+          "url": "https://aiclambake.com/clamtakes/linear-a/",
+          "score": 283,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-19T16:28:20+00:00"
+          "date": "2026-06-19T16:04:42+00:00"
         },
         {
           "title": "Show HN: Are You in the Weights?",
@@ -40,21 +48,29 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T20:49:03+00:00"
-        },
-        {
-          "title": "Zero-Touch OAuth for MCP",
-          "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-          "score": 248,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-18T21:54:10+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 12,
       "top_items": [
+        {
+          "title": "AIが先か、人間が先か — AI時代のJr.エンジニアの成長とは",
+          "url": "https://qiita.com/Yamada040/items/205358b81979266e83d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-19T20:24:24+09:00"
+        },
+        {
+          "title": "OCI (Oracle Cloud Infrastructure) の🔥🔥無料枠変更🔥🔥 (2026/6/15から)",
+          "url": "https://qiita.com/Bacalhau/items/bcfffc3a92605c47ddec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-19T19:47:51+09:00"
+        },
         {
           "title": "AIコーディングをシニアエンジニアに変える「Agent Skills」 – SDLCへの実践的適用",
           "url": "https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -78,22 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-19T11:45:06+09:00"
-        },
-        {
-          "title": "「あ、気づいたらauto-compact...」を防ぐ。Claude Codeのコンテキスト使用率をmacOS通知してみる",
-          "url": "https://qiita.com/_kuma/items/39607de8bd7c950f3136?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-19T11:26:06+09:00"
-        },
-        {
-          "title": "未経験からエンジニアを目指す。そもそも「デジタル」が何か分からなかったのでまとめてみた！",
-          "url": "https://qiita.com/teppei-dotlog/items/93e01ef02aa41c4690e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-19T10:57:51+09:00"
         }
       ]
     }
