@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-19T07:15:45.660178+00:00",
+  "generated_at": "2026-06-19T09:12:15.670356+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 351,
-    "zennqiita": 99,
+    "hn": 345,
+    "zennqiita": 105,
     "project": 3
   },
   "severity_counts": {
     "medium": 6,
-    "critical": 14,
+    "critical": 12,
     "high": 4
   },
   "top_articles": [
@@ -26,13 +26,6 @@
       "score": 1476,
       "source": "hn",
       "date": "2026-06-16T14:36:57+00:00"
-    },
-    {
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 1456,
-      "source": "hn",
-      "date": "2026-06-13T02:14:24+00:00"
     },
     {
       "title": "Iroh 1.0",
@@ -121,7 +114,7 @@
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 762,
+      "score": 782,
       "source": "hn",
       "date": "2026-06-18T11:45:43+00:00"
     },
@@ -152,6 +145,13 @@
       "score": 677,
       "source": "hn",
       "date": "2026-06-16T16:12:06+00:00"
+    },
+    {
+      "title": "Curl will not accept vulnerability reports during July 2026",
+      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+      "score": 665,
+      "source": "hn",
+      "date": "2026-06-15T06:02:57+00:00"
     }
   ],
   "security_highlights": [
@@ -266,20 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-13T19:53:41+00:00"
-    },
-    {
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-13T02:14:24+00:00"
-    },
-    {
-      "title": "TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
-      "url": "https://github.com/vrtnis/tycoon-learning-environment",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-13T02:02:07+00:00"
     }
   ]
 }

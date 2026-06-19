@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T07:15:45.611532+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-06-19T09:12:15.630571+00:00",
+  "total_articles": 58,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 47,
       "top_items": [
         {
           "title": "I found 10k GitHub repositories distributing Trojan malware",
           "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-          "score": 762,
+          "score": 782,
           "source": "hn",
           "severity": "medium",
           "date": "2026-06-18T11:45:43+00:00"
@@ -51,48 +51,64 @@
         {
           "title": ".gitignore Isn't the only way to ignore files in Git",
           "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-          "score": 380,
+          "score": 411,
           "source": "hn",
           "severity": null,
           "date": "2026-06-18T10:29:20+00:00"
         },
         {
-          "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-          "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+          "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+          "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
           "score": 379,
           "source": "hn",
-          "severity": null,
-          "date": "2026-06-18T12:10:53+00:00"
+          "severity": "critical",
+          "date": "2026-06-18T18:31:23+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 11,
       "top_items": [
         {
-          "title": "AWS Summit New York 2026 での新発表まとめメモ",
-          "url": "https://qiita.com/hayao_k/items/44b25e2a51d12482a308?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AIコーディングをシニアエンジニアに変える「Agent Skills」 – SDLCへの実践的適用",
+          "url": "https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-19T09:27:10+09:00"
+          "date": "2026-06-19T16:08:41+09:00"
         },
         {
-          "title": "後輩に伝えたい「配属先選び」のリアル",
-          "url": "https://qiita.com/kimura_c/items/d0c796305869c32091a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「なぜ評価されないんだろ…」と悩むそこの君へ。優秀なエンジニアに共通する考え方。",
+          "url": "https://qiita.com/issey_dotlog/items/2f57fda20f559b2e54ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-18T17:28:41+09:00"
+          "date": "2026-06-19T15:07:30+09:00"
         },
         {
-          "title": "ポンコツエンジニアがPing-tを使ってSAAに合格した話",
-          "url": "https://qiita.com/inorin__62/items/656ac64faa0f973febbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "先人に学ぶ、初学者エンジニアのアーキテクチャ選定のすゝめ",
+          "url": "https://qiita.com/mn329/items/dc6a24d18196b4e402ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-18T17:10:23+09:00"
+          "date": "2026-06-19T11:45:06+09:00"
+        },
+        {
+          "title": "「あ、気づいたらauto-compact...」を防ぐ。Claude Codeのコンテキスト使用率をmacOS通知してみる",
+          "url": "https://qiita.com/_kuma/items/39607de8bd7c950f3136?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-19T11:26:06+09:00"
+        },
+        {
+          "title": "未経験からエンジニアを目指す。そもそも「デジタル」が何か分からなかったのでまとめてみた！",
+          "url": "https://qiita.com/teppei-dotlog/items/93e01ef02aa41c4690e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-19T10:57:51+09:00"
         }
       ]
     }
