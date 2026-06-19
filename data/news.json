@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T01:38:40.040104+00:00",
+  "updated_at": "2026-06-19T03:11:20.621201+00:00",
   "count": 500,
   "items": [
     {
@@ -7,8 +7,8 @@
       "source": "hn",
       "title": "Datasette Apps: Host custom HTML applications inside Datasette",
       "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-      "score": 11,
-      "comments": 2,
+      "score": 35,
+      "comments": 9,
       "author": "lumpa",
       "tags": [],
       "date": "2026-06-19T01:06:27+00:00"
@@ -65,8 +65,8 @@
       "source": "hn",
       "title": "Zero-Touch OAuth for MCP",
       "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "score": 85,
-      "comments": 30,
+      "score": 116,
+      "comments": 54,
       "author": "niyikiza",
       "tags": [],
       "date": "2026-06-18T21:54:10+00:00"
@@ -87,8 +87,8 @@
       "source": "hn",
       "title": "Show HN: Are You in the Weights?",
       "url": "https://www.intheweights.com/",
-      "score": 176,
-      "comments": 117,
+      "score": 207,
+      "comments": 128,
       "author": "turtlesoup",
       "tags": [],
       "date": "2026-06-18T20:49:03+00:00"
@@ -98,8 +98,8 @@
       "source": "hn",
       "title": "Zork name origin got an update on Wikipedia",
       "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
-      "score": 47,
-      "comments": 7,
+      "score": 63,
+      "comments": 9,
       "author": "dpola",
       "tags": [],
       "date": "2026-06-18T20:27:28+00:00",
@@ -121,8 +121,8 @@
       "source": "hn",
       "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
       "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "score": 229,
-      "comments": 90,
+      "score": 255,
+      "comments": 109,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-18T18:31:23+00:00",
@@ -144,8 +144,8 @@
       "source": "hn",
       "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
       "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
-      "score": 76,
-      "comments": 87,
+      "score": 80,
+      "comments": 89,
       "author": "lackoftactics",
       "tags": [],
       "date": "2026-06-18T17:37:00+00:00"
@@ -217,12 +217,23 @@
       "date": "2026-06-18T15:12:43+00:00"
     },
     {
+      "id": "hn-48586329",
+      "source": "hn",
+      "title": "Building a robotics research setup that lives next to my desk",
+      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "score": 9,
+      "comments": 0,
+      "author": "mplappert",
+      "tags": [],
+      "date": "2026-06-18T14:51:53+00:00"
+    },
+    {
       "id": "hn-48586299",
       "source": "hn",
       "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
       "url": "https://tester.army",
-      "score": 97,
-      "comments": 45,
+      "score": 107,
+      "comments": 47,
       "author": "okwasniewski",
       "tags": [],
       "date": "2026-06-18T14:49:44+00:00"
@@ -254,8 +265,8 @@
       "source": "hn",
       "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
       "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "score": 251,
-      "comments": 235,
+      "score": 268,
+      "comments": 248,
       "author": "ksec",
       "tags": [],
       "date": "2026-06-18T14:24:30+00:00"
@@ -265,8 +276,8 @@
       "source": "hn",
       "title": "Swiss parliament lifts ban on new nuclear power plants",
       "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "score": 686,
-      "comments": 558,
+      "score": 712,
+      "comments": 592,
       "author": "leonidasrup",
       "tags": [],
       "date": "2026-06-18T14:17:07+00:00"
@@ -294,12 +305,24 @@
       "date": "2026-06-18T13:21:28+00:00"
     },
     {
+      "id": "hn-48584761",
+      "source": "hn",
+      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+      "url": "https://github.com/cajal-technologies/talos",
+      "score": 15,
+      "comments": 2,
+      "author": "mfornet",
+      "tags": [],
+      "date": "2026-06-18T13:10:44+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-48584709",
       "source": "hn",
       "title": "How Alberta Eradicated Rats",
       "url": "https://worksinprogress.co/issue/albertas-war-on-rats/",
-      "score": 127,
-      "comments": 91,
+      "score": 141,
+      "comments": 105,
       "author": "tzury",
       "tags": [],
       "date": "2026-06-18T13:05:58+00:00"
@@ -342,8 +365,8 @@
       "source": "hn",
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 661,
-      "comments": 149,
+      "score": 684,
+      "comments": 160,
       "author": "theorchid",
       "tags": [],
       "date": "2026-06-18T11:45:43+00:00",
@@ -354,8 +377,8 @@
       "source": "hn",
       "title": "Modos Color Monitor Pushes E-Paper Displays Further",
       "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
-      "score": 226,
-      "comments": 65,
+      "score": 233,
+      "comments": 66,
       "author": "Vinnl",
       "tags": [],
       "date": "2026-06-18T11:41:21+00:00"
@@ -387,8 +410,8 @@
       "source": "hn",
       "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
       "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-      "score": 300,
-      "comments": 44,
+      "score": 320,
+      "comments": 46,
       "author": "ibobev",
       "tags": [],
       "date": "2026-06-18T11:04:31+00:00"
@@ -398,8 +421,8 @@
       "source": "hn",
       "title": "Hospitals and universities repurposing drugs at lower cost",
       "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-      "score": 281,
-      "comments": 119,
+      "score": 288,
+      "comments": 125,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-06-18T10:33:22+00:00"
@@ -409,8 +432,8 @@
       "source": "hn",
       "title": ".gitignore Isn't the only way to ignore files in Git",
       "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-      "score": 279,
-      "comments": 96,
+      "score": 300,
+      "comments": 102,
       "author": "FergusArgyll",
       "tags": [],
       "date": "2026-06-18T10:29:20+00:00"
@@ -793,8 +816,8 @@
       "source": "hn",
       "title": "Noam Shazeer Joins OpenAI",
       "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "score": 279,
-      "comments": 270,
+      "score": 297,
+      "comments": 287,
       "author": "lukasgross",
       "tags": [],
       "date": "2026-06-18T00:26:06+00:00"
@@ -1131,8 +1154,8 @@
       "source": "hn",
       "title": "How Japan's railways stayed one while splitting apart",
       "url": "https://arun.is/blog/jr-logo/",
-      "score": 18,
-      "comments": 2,
+      "score": 47,
+      "comments": 28,
       "author": "ddrmaxgt37",
       "tags": [],
       "date": "2026-06-17T14:03:58+00:00"
@@ -2405,8 +2428,8 @@
       "source": "hn",
       "title": "Cell-based architecture for resilient payment systems",
       "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-      "score": 82,
-      "comments": 30,
+      "score": 95,
+      "comments": 37,
       "author": "birdculture",
       "tags": [],
       "date": "2026-06-15T22:36:33+00:00"
@@ -2615,8 +2638,8 @@
       "source": "hn",
       "title": "If your product is Great, it doesn't need to be Good (2010)",
       "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
-      "score": 24,
-      "comments": 20,
+      "score": 32,
+      "comments": 28,
       "author": "skogstokig",
       "tags": [],
       "date": "2026-06-15T17:26:52+00:00"
@@ -2665,6 +2688,17 @@
       "tags": [],
       "date": "2026-06-15T16:11:02+00:00",
       "severity": "high"
+    },
+    {
+      "id": "hn-48543311",
+      "source": "hn",
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "score": 27,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-06-15T16:06:22+00:00"
     },
     {
       "id": "hn-48543269",
@@ -4148,6 +4182,17 @@
       "date": "2026-06-14T03:43:30+00:00"
     },
     {
+      "id": "hn-48523800",
+      "source": "hn",
+      "title": "Automating my job away",
+      "url": "https://austinhenley.com/blog/automatingmyjob.html",
+      "score": 21,
+      "comments": 7,
+      "author": "azhenley",
+      "tags": [],
+      "date": "2026-06-14T03:05:12+00:00"
+    },
+    {
       "id": "hn-48523773",
       "source": "hn",
       "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
@@ -5149,53 +5194,6 @@
         "Qiita"
       ],
       "date": "2026-06-13T07:45:25+09:00"
-    },
-    {
-      "id": "hn-48510046",
-      "source": "hn",
-      "title": "Twenty One Zero-Days in FFmpeg",
-      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-      "score": 251,
-      "comments": 164,
-      "author": "redbell",
-      "tags": [],
-      "date": "2026-06-12T22:13:29+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48510010",
-      "source": "hn",
-      "title": "Electric motors with no rare earths",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "score": 661,
-      "comments": 186,
-      "author": "bestouff",
-      "tags": [],
-      "date": "2026-06-12T22:08:03+00:00"
-    },
-    {
-      "id": "hn-48509844",
-      "source": "hn",
-      "title": "SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "score": 25,
-      "comments": 4,
-      "author": "taubek",
-      "tags": [],
-      "date": "2026-06-12T21:49:49+00:00"
-    },
-    {
-      "id": "qiita-7acbbd6be6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「わからないまま実装」をやめると、チームは速くなる",
-      "url": "https://qiita.com/mhamadajp/items/4bddd63d0d82b9e81043?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "mhamadajp",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-13T05:35:48+09:00"
     },
     {
       "id": "ctf-3871364",
