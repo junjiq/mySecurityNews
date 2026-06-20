@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-20T12:38:14.857197+00:00",
+  "generated_at": "2026-06-20T13:35:19.842188+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 351,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 17,
+    "critical": 18,
     "medium": 7,
     "high": 4
   },
@@ -86,7 +86,7 @@
     {
       "title": "Hyundai buys Boston Dynamics",
       "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 860,
+      "score": 874,
       "source": "hn",
       "date": "2026-06-19T16:28:20+00:00"
     },
@@ -119,18 +119,18 @@
       "date": "2026-06-18T14:17:07+00:00"
     },
     {
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "score": 730,
+      "source": "hn",
+      "date": "2026-06-19T16:03:15+00:00"
+    },
+    {
       "title": "U.S. science is in chaos",
       "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
       "score": 727,
       "source": "hn",
       "date": "2026-06-17T09:54:21+00:00"
-    },
-    {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 719,
-      "source": "hn",
-      "date": "2026-06-19T16:03:15+00:00"
     },
     {
       "title": "Apple's weird anti-nausea dots cured my car sickness",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
+      "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-20T11:58:32+00:00"
+    },
     {
       "title": "最近のSource Generator開発",
       "url": "https://qiita.com/ikuzak/items/46fecf3136c53ff4da9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
