@@ -1,16 +1,16 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-20T22:27:31.119555+00:00",
+  "generated_at": "2026-06-20T22:53:11.231932+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 345,
-    "zennqiita": 105,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 3
   },
   "severity_counts": {
     "medium": 11,
     "critical": 17,
-    "high": 4
+    "high": 3
   },
   "top_articles": [
     {
@@ -294,13 +294,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-15T06:02:57+00:00"
-    },
-    {
-      "title": "CVSS 9.8ってどれくらい危ない？脆弱性情報を読むためのものさし",
-      "url": "https://qiita.com/mo__mo/items/49f9601481aec596f545?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-06-15T10:56:34+09:00"
     }
   ]
 }
