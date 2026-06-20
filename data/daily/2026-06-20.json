@@ -1,8 +1,8 @@
 {
   "date": "2026-06-20",
-  "generated_at": "2026-06-20T15:34:51.391183+00:00",
-  "total_articles": 53,
-  "urgent_count": 4,
+  "generated_at": "2026-06-20T16:33:48.488731+00:00",
+  "total_articles": 51,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
@@ -24,44 +24,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-19T20:19:57+00:00"
-    },
-    {
-      "title": "緊急アクセス用管理アカウント (Break glass) 入門： 基本構成からセオリー外の追加構成まで解説",
-      "url": "https://qiita.com/carol0226/items/bbd69bdc907a48f0e67f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-06-20T01:21:36+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 44,
       "top_items": [
-        {
-          "title": "Hyundai buys Boston Dynamics",
-          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-          "score": 889,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-19T16:28:20+00:00"
-        },
-        {
-          "title": "Norway imposes near ban on AI in elementary school",
-          "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-          "score": 730,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-19T16:03:15+00:00"
-        },
-        {
-          "title": "Google workspace threatening to block Firefox access",
-          "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-          "score": 431,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-06-19T16:30:49+00:00"
-        },
         {
           "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
           "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
@@ -77,13 +46,45 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-19T17:34:18+00:00"
+        },
+        {
+          "title": "Where to Find the Colors Your Screen Can't Show You",
+          "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+          "score": 330,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-20T03:36:49+00:00"
+        },
+        {
+          "title": "CSSQuake",
+          "url": "https://cssquake.com/",
+          "score": 288,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-20T10:49:53+00:00"
+        },
+        {
+          "title": "I Stored a Website in a Favicon",
+          "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+          "score": 248,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-20T05:33:59+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
+        {
+          "title": "ベテランさんが教えてくれない「クリーンアーキテクチャー」を小学生でもわかるように解説",
+          "url": "https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-21T00:49:23+09:00"
+        },
         {
           "title": "AIでアプリを量産する時代の「出す前5分」セキュリティ最低限ガイド｜コピペ・チェックリスト付き（2026）",
           "url": "https://qiita.com/sleepycat_web3/items/ce2e3f881f3bb578df14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -115,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-20T11:56:29+09:00"
-        },
-        {
-          "title": "最近のSource Generator開発",
-          "url": "https://qiita.com/ikuzak/items/46fecf3136c53ff4da9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "critical",
-          "date": "2026-06-20T11:19:53+09:00"
         }
       ]
     }
