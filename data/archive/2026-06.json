@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-20T08:10:41.292815+00:00",
+  "generated_at": "2026-06-20T09:40:02.749044+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 352,
-    "zennqiita": 98,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 3
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 17,
     "medium": 7,
     "high": 4
   },
@@ -98,18 +98,18 @@
       "date": "2026-06-16T04:58:15+00:00"
     },
     {
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "score": 828,
+      "source": "hn",
+      "date": "2026-06-19T16:28:20+00:00"
+    },
+    {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
       "score": 815,
       "source": "hn",
       "date": "2026-06-17T09:12:00+00:00"
-    },
-    {
-      "title": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 789,
-      "source": "hn",
-      "date": "2026-06-19T16:28:20+00:00"
     },
     {
       "title": "Swiss parliament lifts ban on new nuclear power plants",
@@ -140,27 +140,41 @@
       "date": "2026-06-15T06:02:57+00:00"
     },
     {
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "score": 664,
+      "source": "hn",
+      "date": "2026-06-19T16:03:15+00:00"
+    },
+    {
       "title": "Mechanical Watch (2022)",
       "url": "https://ciechanow.ski/mechanical-watch/",
       "score": 663,
       "source": "hn",
       "date": "2026-06-16T11:26:27+00:00"
-    },
-    {
-      "title": "Volkswagen started blocking GrapheneOS users",
-      "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
-      "score": 639,
-      "source": "hn",
-      "date": "2026-06-17T15:04:47+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "最近のSource Generator開発",
+      "url": "https://qiita.com/ikuzak/items/46fecf3136c53ff4da9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-06-20T11:19:53+09:00"
+    },
     {
       "title": "Think of the children: How to force real ID for all internet traffic (2023)",
       "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-19T20:19:57+00:00"
+    },
+    {
+      "title": "緊急アクセス用管理アカウント (Break glass) 入門： 基本構成からセオリー外の追加構成まで解説",
+      "url": "https://qiita.com/carol0226/items/bbd69bdc907a48f0e67f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-06-20T01:21:36+09:00"
     },
     {
       "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
