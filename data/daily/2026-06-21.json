@@ -1,7 +1,7 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T22:27:58.902675+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-06-21T22:54:02.949362+00:00",
+  "total_articles": 54,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 44,
       "top_items": [
         {
           "title": "Identity verification on Claude",
           "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-          "score": 472,
+          "score": 483,
           "source": "hn",
           "severity": null,
           "date": "2026-06-21T12:44:13+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
           "url": "https://www.beyondallreason.info",
-          "score": 400,
+          "score": 409,
           "source": "hn",
           "severity": null,
           "date": "2026-06-21T11:38:01+00:00"
@@ -50,10 +50,18 @@
         {
           "title": "Prefer duplication over the wrong abstraction (2016)",
           "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-          "score": 391,
+          "score": 396,
           "source": "hn",
           "severity": null,
           "date": "2026-06-21T16:08:23+00:00"
+        },
+        {
+          "title": "Developers don't understand CORS (2019)",
+          "url": "https://fosterelli.co/developers-dont-understand-cors",
+          "score": 349,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-21T01:35:40+00:00"
         },
         {
           "title": "Google Hits 50% IPv6",
@@ -62,14 +70,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-21T08:21:22+00:00"
-        },
-        {
-          "title": "Developers don't understand CORS (2019)",
-          "url": "https://fosterelli.co/developers-dont-understand-cors",
-          "score": 334,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-21T01:35:40+00:00"
         }
       ]
     },
