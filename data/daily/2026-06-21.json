@@ -1,7 +1,7 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T07:09:16.450714+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-06-21T08:51:41.688316+00:00",
+  "total_articles": 71,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 59,
       "top_items": [
         {
           "title": "CSSQuake",
@@ -41,9 +41,17 @@
           "date": "2026-06-20T18:05:31+00:00"
         },
         {
+          "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+          "url": "https://github.com/mysk-research/loupe",
+          "score": 265,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-20T12:08:23+00:00"
+        },
+        {
           "title": "SMPTE Makes Its Standards Freely Accessible",
           "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-          "score": 246,
+          "score": 257,
           "source": "hn",
           "severity": null,
           "date": "2026-06-20T17:01:36+00:00"
@@ -51,25 +59,33 @@
         {
           "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
           "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-          "score": 234,
+          "score": 248,
           "source": "hn",
           "severity": null,
           "date": "2026-06-20T15:10:03+00:00"
-        },
-        {
-          "title": "VPN ban update for UK households as government looks at 'age-gate'",
-          "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
-          "score": 231,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-06-20T14:14:35+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 12,
       "top_items": [
+        {
+          "title": "入門から実践 -「🔁 ループエンジニアリング」",
+          "url": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-21T16:50:14+09:00"
+        },
+        {
+          "title": "Kiroの仕様駆動開発でチーム分けアプリを1時間で作ってみた",
+          "url": "https://qiita.com/YSasago/items/2ed101acdacd5c9e3fc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-21T11:47:34+09:00"
+        },
         {
           "title": "AtCoderで入水しました",
           "url": "https://qiita.com/taka743/items/e0be10494a1bb4c5af6c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -93,22 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-21T00:07:14+09:00"
-        },
-        {
-          "title": "AIでアプリを量産する時代の「出す前5分」セキュリティ最低限ガイド｜コピペ・チェックリスト付き（2026）",
-          "url": "https://qiita.com/sleepycat_web3/items/ce2e3f881f3bb578df14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-20T22:56:33+09:00"
-        },
-        {
-          "title": "RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた",
-          "url": "https://qiita.com/engchina/items/3060140b10a9a35021f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-20T20:27:41+09:00"
         }
       ]
     }

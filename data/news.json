@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-06-21T07:09:16.380313+00:00",
+  "updated_at": "2026-06-21T08:51:41.616589+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48616713",
+      "source": "hn",
+      "title": "A 3D voxel game engine written in APL",
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "score": 19,
+      "comments": 3,
+      "author": "sph",
+      "tags": [],
+      "date": "2026-06-21T08:04:54+00:00"
+    },
+    {
+      "id": "qiita-0eadedb19c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "入門から実践 -「🔁 ループエンジニアリング」",
+      "url": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Syoitu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-21T16:50:14+09:00"
+    },
     {
       "id": "hn-48616017",
       "source": "hn",
       "title": "The 100k Whys of AI",
       "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-      "score": 41,
-      "comments": 11,
+      "score": 95,
+      "comments": 47,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-06-21T05:45:21+00:00"
@@ -25,12 +49,23 @@
       "date": "2026-06-21T05:15:33+00:00"
     },
     {
+      "id": "hn-48615776",
+      "source": "hn",
+      "title": "Public Service Announcement: Don't Say You Use AI for Writing",
+      "url": "https://www.satisfice.com/blog/archives/488148",
+      "score": 34,
+      "comments": 16,
+      "author": "satisfice",
+      "tags": [],
+      "date": "2026-06-21T04:50:46+00:00"
+    },
+    {
       "id": "hn-48615680",
       "source": "hn",
       "title": "Building reliable agentic AI systems",
       "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "score": 59,
-      "comments": 11,
+      "score": 86,
+      "comments": 19,
       "author": "sarangk90",
       "tags": [],
       "date": "2026-06-21T04:28:39+00:00"
@@ -40,8 +75,8 @@
       "source": "hn",
       "title": "Your brain was never designed for this much bad news",
       "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-      "score": 104,
-      "comments": 68,
+      "score": 162,
+      "comments": 106,
       "author": "colinprince",
       "tags": [],
       "date": "2026-06-21T04:02:08+00:00"
@@ -51,19 +86,32 @@
       "source": "hn",
       "title": "Armstrong Effect",
       "url": "https://en.wikipedia.org/wiki/Armstrong_effect",
-      "score": 22,
-      "comments": 1,
+      "score": 25,
+      "comments": 2,
       "author": "userbinator",
       "tags": [],
       "date": "2026-06-21T03:54:22+00:00"
+    },
+    {
+      "id": "qiita-33dc541c9d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Kiroの仕様駆動開発でチーム分けアプリを1時間で作ってみた",
+      "url": "https://qiita.com/YSasago/items/2ed101acdacd5c9e3fc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "YSasago",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-21T11:47:34+09:00"
     },
     {
       "id": "hn-48614844",
       "source": "hn",
       "title": "Developers don't understand CORS (2019)",
       "url": "https://fosterelli.co/developers-dont-understand-cors",
-      "score": 123,
-      "comments": 51,
+      "score": 177,
+      "comments": 88,
       "author": "toilet",
       "tags": [],
       "date": "2026-06-21T01:35:40+00:00"
@@ -85,8 +133,8 @@
       "source": "hn",
       "title": "When I reject AI code even if it works",
       "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-      "score": 144,
-      "comments": 81,
+      "score": 169,
+      "comments": 93,
       "author": "vnbrs",
       "tags": [],
       "date": "2026-06-21T00:58:13+00:00"
@@ -107,8 +155,8 @@
       "source": "hn",
       "title": "Project Fetch: Phase Two",
       "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "score": 54,
-      "comments": 20,
+      "score": 57,
+      "comments": 21,
       "author": "stopachka",
       "tags": [],
       "date": "2026-06-21T00:00:25+00:00"
@@ -129,8 +177,8 @@
       "source": "hn",
       "title": "Epoll vs. io_uring in Linux",
       "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "score": 124,
-      "comments": 35,
+      "score": 147,
+      "comments": 37,
       "author": "Sibexico",
       "tags": [],
       "date": "2026-06-20T23:07:09+00:00"
@@ -140,8 +188,8 @@
       "source": "hn",
       "title": "Renting a sewing machine from the library",
       "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "score": 193,
-      "comments": 98,
+      "score": 218,
+      "comments": 110,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-06-20T22:54:11+00:00"
@@ -173,8 +221,8 @@
       "source": "hn",
       "title": "Slow breathing modulates brain function and risk behavior",
       "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "score": 155,
-      "comments": 33,
+      "score": 182,
+      "comments": 39,
       "author": "croes",
       "tags": [],
       "date": "2026-06-20T22:22:52+00:00"
@@ -217,8 +265,8 @@
       "source": "hn",
       "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
       "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
-      "score": 171,
-      "comments": 141,
+      "score": 196,
+      "comments": 167,
       "author": "simonpure",
       "tags": [],
       "date": "2026-06-20T20:59:40+00:00",
@@ -262,8 +310,8 @@
       "source": "hn",
       "title": "Unauthorized alert sent to cell phones across Brazil",
       "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
-      "score": 120,
-      "comments": 85,
+      "score": 128,
+      "comments": 91,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-20T20:05:03+00:00"
@@ -351,8 +399,8 @@
       "source": "hn",
       "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
       "url": "https://www.lispm.net/apps/uhf-x11/",
-      "score": 192,
-      "comments": 33,
+      "score": 202,
+      "comments": 37,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-20T17:04:24+00:00"
@@ -373,8 +421,8 @@
       "source": "hn",
       "title": "SMPTE Makes Its Standards Freely Accessible",
       "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "score": 246,
-      "comments": 73,
+      "score": 257,
+      "comments": 76,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-20T17:01:36+00:00"
@@ -432,8 +480,8 @@
       "source": "hn",
       "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
       "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "score": 234,
-      "comments": 62,
+      "score": 248,
+      "comments": 64,
       "author": "LowLevelMahn",
       "tags": [],
       "date": "2026-06-20T15:10:03+00:00"
@@ -591,8 +639,8 @@
       "source": "hn",
       "title": "Loupe – A iOS app that raises awareness about what native apps can see",
       "url": "https://github.com/mysk-research/loupe",
-      "score": 204,
-      "comments": 55,
+      "score": 265,
+      "comments": 90,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-06-20T12:08:23+00:00"
@@ -625,8 +673,8 @@
       "source": "hn",
       "title": "Show HN: TownSquare, a tiny presence layer for websites",
       "url": "https://townsquare.cauenapier.com/",
-      "score": 142,
-      "comments": 72,
+      "score": 164,
+      "comments": 83,
       "author": "cauenapier",
       "tags": [],
       "date": "2026-06-20T11:55:03+00:00"
@@ -678,6 +726,19 @@
       "date": "2026-06-20T11:19:05+00:00"
     },
     {
+      "id": "qiita-728b50def5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "カーネルの深淵を覗いた男、USBハブを抜いて帰る",
+      "url": "https://qiita.com/wetty_serial/items/3696bbae80b38bc14a74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "wetty_serial",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-20T20:05:36+09:00"
+    },
+    {
       "id": "hn-48608255",
       "source": "hn",
       "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
@@ -711,6 +772,32 @@
         "Qiita"
       ],
       "date": "2026-06-20T19:39:13+09:00"
+    },
+    {
+      "id": "qiita-5dc1ef6aa3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AgentCore GatewayにWebSearchが登場！検索結果が英語ばかりなので言語指定できないか調査した",
+      "url": "https://qiita.com/R-You/items/6084d813ff2c2b73eca3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "R-You",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-20T19:23:27+09:00"
+    },
+    {
+      "id": "qiita-f522ce5e93",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "VPC Flow Logsでタグ情報やネクストホップ情報が取得可能に",
+      "url": "https://qiita.com/infra365/items/81174c2b05df0cfbaf59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "infra365",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-20T19:23:06+09:00"
     },
     {
       "id": "qiita-1ab3579a43",
@@ -750,19 +837,6 @@
         "Qiita"
       ],
       "date": "2026-06-20T15:59:56+09:00"
-    },
-    {
-      "id": "qiita-0eadedb19c",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "入門から実践 -「🔁 ループエンジニアリング」",
-      "url": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Syoitu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-20T15:32:57+09:00"
     },
     {
       "id": "qiita-76ed5c737f",
@@ -1283,6 +1357,17 @@
       "date": "2026-06-19T15:19:14+00:00"
     },
     {
+      "id": "hn-48599555",
+      "source": "hn",
+      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
+      "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
+      "score": 18,
+      "comments": 1,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-06-19T15:13:11+00:00"
+    },
+    {
       "id": "hn-48599515",
       "source": "hn",
       "title": "There are no instances in ATProto",
@@ -1749,7 +1834,7 @@
       "source": "hn",
       "title": "Guide to the TD4 4-bit DIY CPU",
       "url": "https://www.philipzucker.com/td4-4bit-cpu/",
-      "score": 24,
+      "score": 31,
       "comments": 3,
       "author": "andrewstuart",
       "tags": [],
@@ -2053,8 +2138,8 @@
       "source": "hn",
       "title": "15-minute at-home Lyme disease tick test",
       "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-      "score": 90,
-      "comments": 33,
+      "score": 106,
+      "comments": 50,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-06-18T12:22:36+00:00"
@@ -2155,8 +2240,8 @@
       "source": "hn",
       "title": "Excessive nil pointer checks in Go",
       "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
-      "score": 10,
-      "comments": 3,
+      "score": 22,
+      "comments": 16,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-18T10:36:32+00:00"
@@ -2188,8 +2273,8 @@
       "source": "hn",
       "title": "Whole cross-sectional human ultrasound tomography",
       "url": "https://www.nature.com/articles/s41551-026-01660-4",
-      "score": 61,
-      "comments": 10,
+      "score": 67,
+      "comments": 11,
       "author": "lnyan",
       "tags": [],
       "date": "2026-06-18T09:23:16+00:00"
@@ -2788,8 +2873,8 @@
       "source": "hn",
       "title": "Zigzag Decoding with AVX-512",
       "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-      "score": 38,
-      "comments": 0,
+      "score": 64,
+      "comments": 4,
       "author": "luu",
       "tags": [],
       "date": "2026-06-17T17:43:22+00:00"
@@ -5098,89 +5183,6 @@
       "tags": [],
       "date": "2026-06-15T12:08:59+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "hn-48539971",
-      "source": "hn",
-      "title": "Unity vs. Floating Point",
-      "url": "https://aras-p.info/blog/2026/06/11/Unity-vs-floating-point/",
-      "score": 34,
-      "comments": 4,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-06-15T11:53:47+00:00"
-    },
-    {
-      "id": "hn-48539859",
-      "source": "hn",
-      "title": "Belgian politicians would rather risk treason charges than trust engineers",
-      "url": "http://mikhailian.mova.org/node/325",
-      "score": 14,
-      "comments": 4,
-      "author": "sam_lowry_",
-      "tags": [],
-      "date": "2026-06-15T11:41:18+00:00"
-    },
-    {
-      "id": "qiita-5a25c80337",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「コードは1行も書かない」と決めた4ヶ月 — 完全AI駆動で300ページをNext.jsに移植した話",
-      "url": "https://qiita.com/bsj-k-hioki/items/8d75accb932bb2988fb9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "bsj-k-hioki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-15T20:27:32+09:00"
-    },
-    {
-      "id": "qiita-a4816046a7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS ANS は持っているけど Direct Connect を触ったことがなかったので、JAWS-UG 茨城のハンズオンに参加してきた",
-      "url": "https://qiita.com/k_adachi_01/items/18935b9dbd98e68da0ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "k_adachi_01",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-15T19:44:57+09:00"
-    },
-    {
-      "id": "hn-48539078",
-      "source": "hn",
-      "title": "Anthropic's Safety Superpower",
-      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-      "score": 149,
-      "comments": 115,
-      "author": "swolpers",
-      "tags": [],
-      "date": "2026-06-15T10:06:35+00:00"
-    },
-    {
-      "id": "hn-48538833",
-      "source": "hn",
-      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "url": "https://github.com/themartiano/luz",
-      "score": 119,
-      "comments": 48,
-      "author": "martiano",
-      "tags": [],
-      "date": "2026-06-15T09:34:10+00:00"
-    },
-    {
-      "id": "qiita-28354f4312",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【完全ローカル】AIに記憶を持たせる5ステップ — Ollama×RAGでつくる長期記憶チャットボット",
-      "url": "https://qiita.com/hatsukaze/items/192403c9ff6a433fe0b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hatsukaze",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-15T18:21:46+09:00"
     },
     {
       "id": "ctf-3871364",
