@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-21T16:34:32.263587+00:00",
+  "generated_at": "2026-06-21T17:33:12.334581+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 358,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "high": 2,
+    "high": 1,
     "medium": 10,
     "critical": 15
   },
@@ -54,13 +54,6 @@
       "score": 956,
       "source": "hn",
       "date": "2026-06-16T20:34:35+00:00"
-    },
-    {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "score": 937,
-      "source": "hn",
-      "date": "2026-06-15T16:15:53+00:00"
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
@@ -152,6 +145,13 @@
       "score": 593,
       "source": "hn",
       "date": "2026-06-17T13:05:03+00:00"
+    },
+    {
+      "title": "Banned book library in a wi-fi smart light bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "score": 534,
+      "source": "hn",
+      "date": "2026-06-15T22:37:55+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-15T20:02:02+00:00"
-    },
-    {
-      "title": "How memory safety CVEs differ between Rust and C/C++",
-      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-15T16:11:02+00:00"
     }
   ]
 }
