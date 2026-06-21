@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-21T01:51:41.424619+00:00",
-  "total_articles": 456,
+  "generated_at": "2026-06-21T03:11:22.760608+00:00",
+  "total_articles": 453,
   "source_counts": {
-    "hn": 356,
-    "zennqiita": 97,
+    "hn": 354,
+    "zennqiita": 96,
     "project": 3
   },
   "severity_counts": {
-    "high": 4,
+    "high": 3,
     "medium": 10,
     "critical": 17
   },
@@ -133,13 +133,6 @@
       "date": "2026-06-16T16:12:06+00:00"
     },
     {
-      "title": "Curl will not accept vulnerability reports during July 2026",
-      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-      "score": 665,
-      "source": "hn",
-      "date": "2026-06-15T06:02:57+00:00"
-    },
-    {
       "title": "Mechanical Watch (2022)",
       "url": "https://ciechanow.ski/mechanical-watch/",
       "score": 663,
@@ -152,6 +145,13 @@
       "score": 639,
       "source": "hn",
       "date": "2026-06-17T15:04:47+00:00"
+    },
+    {
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "score": 622,
+      "source": "hn",
+      "date": "2026-06-19T06:35:57+00:00"
     }
   ],
   "security_highlights": [
@@ -294,13 +294,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-15T12:08:59+00:00"
-    },
-    {
-      "title": "Curl will not accept vulnerability reports during July 2026",
-      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-15T06:02:57+00:00"
     }
   ]
 }
