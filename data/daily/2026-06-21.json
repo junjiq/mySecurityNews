@@ -1,16 +1,9 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T11:31:17.016011+00:00",
-  "total_articles": 66,
-  "urgent_count": 2,
+  "generated_at": "2026-06-21T12:42:15.351260+00:00",
+  "total_articles": 62,
+  "urgent_count": 1,
   "urgent_items": [
-    {
-      "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
-      "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-20T11:58:32+00:00"
-    },
     {
       "title": "White House delays US voting-machine vulnerability report",
       "url": "https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/",
@@ -22,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 55,
       "top_items": [
         {
           "title": "The Wholesale Plagiarism of Obscure Sorrows",
@@ -33,17 +26,9 @@
           "date": "2026-06-20T18:05:31+00:00"
         },
         {
-          "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-          "url": "https://github.com/mysk-research/loupe",
-          "score": 326,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-20T12:08:23+00:00"
-        },
-        {
           "title": "SMPTE Makes Its Standards Freely Accessible",
           "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-          "score": 266,
+          "score": 267,
           "source": "hn",
           "severity": null,
           "date": "2026-06-20T17:01:36+00:00"
@@ -51,7 +36,7 @@
         {
           "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
           "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-          "score": 259,
+          "score": 262,
           "source": "hn",
           "severity": null,
           "date": "2026-06-20T15:10:03+00:00"
@@ -59,10 +44,18 @@
         {
           "title": "Renting a sewing machine from the library",
           "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-          "score": 246,
+          "score": 255,
           "source": "hn",
           "severity": null,
           "date": "2026-06-20T22:54:11+00:00"
+        },
+        {
+          "title": "Developers don't understand CORS (2019)",
+          "url": "https://fosterelli.co/developers-dont-understand-cors",
+          "score": 242,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-21T01:35:40+00:00"
         }
       ]
     },
