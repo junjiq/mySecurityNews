@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-21T14:47:52.509422+00:00",
+  "generated_at": "2026-06-21T15:36:18.441062+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 357,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "high": 3,
+    "high": 2,
     "medium": 10,
     "critical": 15
   },
@@ -273,13 +273,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-15T16:11:02+00:00"
-    },
-    {
-      "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
-      "url": "https://v1c.rocks/log/exploiting-slack-video/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-15T15:43:17+00:00"
     }
   ]
 }
