@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-21T21:30:39.335555+00:00",
+  "generated_at": "2026-06-21T22:27:58.947361+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 348,
-    "zennqiita": 102,
+    "hn": 349,
+    "zennqiita": 101,
     "project": 3
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 15,
     "high": 1,
     "medium": 10
   },
@@ -140,18 +140,18 @@
       "date": "2026-06-17T13:05:03+00:00"
     },
     {
-      "title": "Banned book library in a wi-fi smart light bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
-      "score": 534,
-      "source": "hn",
-      "date": "2026-06-15T22:37:55+00:00"
-    },
-    {
       "title": "Hacker News but for independent blogs",
       "url": "https://bubbles.town/",
       "score": 529,
       "source": "hn",
       "date": "2026-06-17T07:49:44+00:00"
+    },
+    {
+      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "score": 515,
+      "source": "hn",
+      "date": "2026-06-18T10:29:20+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-16T23:12:09+00:00"
-    },
-    {
-      "title": "Ten years of ClickHouse in open source",
-      "url": "https://clickhouse.com/blog/open-source-10",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-15T20:51:54+00:00"
     }
   ]
 }
