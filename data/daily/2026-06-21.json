@@ -1,8 +1,8 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T00:51:10.023976+00:00",
-  "total_articles": 72,
-  "urgent_count": 2,
+  "generated_at": "2026-06-21T01:51:41.378250+00:00",
+  "total_articles": 69,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
@@ -17,17 +17,24 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-06-20T11:19:53+09:00"
+    },
+    {
+      "title": "White House delays US voting-machine vulnerability report",
+      "url": "https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-21T01:29:53+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 54,
       "top_items": [
         {
           "title": "CSSQuake",
           "url": "https://cssquake.com/",
-          "score": 454,
+          "score": 461,
           "source": "hn",
           "severity": null,
           "date": "2026-06-20T10:49:53+00:00"
@@ -43,7 +50,7 @@
         {
           "title": "The Wholesale Plagiarism of Obscure Sorrows",
           "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-          "score": 312,
+          "score": 321,
           "source": "hn",
           "severity": null,
           "date": "2026-06-20T18:05:31+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 15,
       "top_items": [
         {
           "title": "AtCoderで入水しました",
