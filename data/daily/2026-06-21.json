@@ -1,8 +1,8 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T19:32:46.745899+00:00",
-  "total_articles": 50,
-  "urgent_count": 2,
+  "generated_at": "2026-06-21T20:33:55.066080+00:00",
+  "total_articles": 54,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Burnout is real for open source maintainers",
@@ -10,6 +10,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-21T16:56:18+00:00"
+    },
+    {
+      "title": "PrivateLinkとResource Gatewayで既存IPv4環境を変更せずにIPv6環境へ接続する",
+      "url": "https://qiita.com/infra365/items/94c359afab6508e2c657?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-06-21T15:39:51+09:00"
     },
     {
       "title": "White House delays US voting-machine vulnerability report",
@@ -22,8 +29,24 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 44,
       "top_items": [
+        {
+          "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+          "url": "https://www.beyondallreason.info",
+          "score": 364,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-21T11:38:01+00:00"
+        },
+        {
+          "title": "Slow breathing modulates brain function and risk behavior",
+          "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+          "score": 350,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-20T22:22:52+00:00"
+        },
         {
           "title": "Google Hits 50% IPv6",
           "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
@@ -33,43 +56,35 @@
           "date": "2026-06-21T08:21:22+00:00"
         },
         {
-          "title": "Slow breathing modulates brain function and risk behavior",
-          "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-          "score": 341,
+          "title": "Prefer duplication over the wrong abstraction (2016)",
+          "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "score": 335,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-20T22:22:52+00:00"
+          "date": "2026-06-21T16:08:23+00:00"
         },
         {
-          "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-          "url": "https://www.beyondallreason.info",
-          "score": 339,
+          "title": "Identity verification on Claude",
+          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+          "score": 324,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-21T11:38:01+00:00"
-        },
-        {
-          "title": "Renting a sewing machine from the library",
-          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-          "score": 315,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-20T22:54:11+00:00"
-        },
-        {
-          "title": "Developers don't understand CORS (2019)",
-          "url": "https://fosterelli.co/developers-dont-understand-cors",
-          "score": 312,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-21T01:35:40+00:00"
+          "date": "2026-06-21T12:44:13+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 10,
       "top_items": [
+        {
+          "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
+          "url": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-21T23:17:03+09:00"
+        },
         {
           "title": "AIでアプリを量産する時代の「出す前5分」セキュリティ最低限ガイド｜コピペ・チェックリスト付き（2026）",
           "url": "https://qiita.com/sleepycat_web3/items/ce2e3f881f3bb578df14?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,28 +94,28 @@
           "date": "2026-06-21T23:03:53+09:00"
         },
         {
+          "title": "Qwopus v2ってほんまにQwenよりすごいんか？【ローカルLLMベンチ】",
+          "url": "https://qiita.com/rS_alonewolf/items/03ec544c3bcab0d7784a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-21T22:53:09+09:00"
+        },
+        {
+          "title": "商業書籍の出版をCodexで爆速化するノウハウ",
+          "url": "https://qiita.com/minorun365/items/9059f26629e0976bc0e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-21T20:55:41+09:00"
+        },
+        {
           "title": "米国がオランダの規制当局メールを読んだ日 ―「データ国内保管なら安全」を覆すデータ主権の正体と、日本のクラウド調達への教訓",
           "url": "https://qiita.com/bon_eng/items/e12adb074a9350ecaaf2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-21T19:52:21+09:00"
-        },
-        {
-          "title": "入門から実践 -「🔁 ループエンジニアリング」",
-          "url": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-21T16:50:14+09:00"
-        },
-        {
-          "title": "Kiroの仕様駆動開発でチーム分けアプリを1時間で作ってみた",
-          "url": "https://qiita.com/YSasago/items/2ed101acdacd5c9e3fc7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-21T11:47:34+09:00"
         }
       ]
     }

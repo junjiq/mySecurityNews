@@ -1,10 +1,10 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-21T19:32:46.792465+00:00",
+  "generated_at": "2026-06-21T20:33:55.102294+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 358,
-    "zennqiita": 92,
+    "hn": 348,
+    "zennqiita": 102,
     "project": 3
   },
   "severity_counts": {
@@ -13,13 +13,6 @@
     "medium": 10
   },
   "top_articles": [
-    {
-      "title": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 1485,
-      "source": "hn",
-      "date": "2026-06-15T20:00:57+00:00"
-    },
     {
       "title": "Running local models is good now",
       "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
@@ -152,6 +145,13 @@
       "score": 534,
       "source": "hn",
       "date": "2026-06-15T22:37:55+00:00"
+    },
+    {
+      "title": "Hacker News but for independent blogs",
+      "url": "https://bubbles.town/",
+      "score": 529,
+      "source": "hn",
+      "date": "2026-06-17T07:49:44+00:00"
     }
   ],
   "security_highlights": [
@@ -161,6 +161,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-21T16:56:18+00:00"
+    },
+    {
+      "title": "PrivateLinkとResource Gatewayで既存IPv4環境を変更せずにIPv6環境へ接続する",
+      "url": "https://qiita.com/infra365/items/94c359afab6508e2c657?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-06-21T15:39:51+09:00"
     },
     {
       "title": "White House delays US voting-machine vulnerability report",
@@ -266,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-15T20:51:54+00:00"
-    },
-    {
-      "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
-      "url": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-15T20:02:02+00:00"
     }
   ]
 }
