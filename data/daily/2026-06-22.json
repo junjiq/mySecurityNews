@@ -1,21 +1,29 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T20:03:40.785976+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-06-22T21:24:38.089857+00:00",
+  "total_articles": 63,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 52,
       "top_items": [
         {
           "title": "Deno Desktop",
           "url": "https://docs.deno.com/runtime/desktop/",
-          "score": 936,
+          "score": 974,
           "source": "hn",
           "severity": null,
           "date": "2026-06-22T05:38:40+00:00"
+        },
+        {
+          "title": "Steam Machine launches today",
+          "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+          "score": 833,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-22T17:09:51+00:00"
         },
         {
           "title": "Did my old job only exist because of fraud?",
@@ -28,18 +36,10 @@
         {
           "title": "Pledging another $400k to the Zig software foundation",
           "url": "https://mitchellh.com/writing/zig-donation-2026",
-          "score": 617,
+          "score": 656,
           "source": "hn",
           "severity": null,
           "date": "2026-06-22T13:43:01+00:00"
-        },
-        {
-          "title": "Steam Machine",
-          "url": "https://store.steampowered.com/hardware/steammachine",
-          "score": 610,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-22T17:09:51+00:00"
         },
         {
           "title": "Never Give Them Your Face",
@@ -53,7 +53,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 11,
       "top_items": [
         {
           "title": "未経験エンジニアなら、キーボードよりノートを汚せ",
@@ -62,6 +62,14 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-22T21:53:47+09:00"
+        },
+        {
+          "title": "キャッチアップしないと不安。── AI時代のエンジニアが罹る病 「FOMO」 と付き合う。",
+          "url": "https://qiita.com/tomoki-miso/items/8290227346c099e84b1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-22T18:36:07+09:00"
         },
         {
           "title": "Qwopus v2 お前は、ほんまにQwenよりすごいんか？【ローカルLLMベンチ】",
@@ -80,20 +88,12 @@
           "date": "2026-06-22T14:59:10+09:00"
         },
         {
-          "title": "AI時代のPMスキルはプロンプトではない ― 判断を「資産」に変えるループエンジニアリング",
-          "url": "https://qiita.com/nogataka/items/2a94504c1b273c5f1005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「URLを貼るだけでOSSを精査させる」仕組みを作ってみた",
+          "url": "https://qiita.com/BaspisKawaE/items/a5f9ddad9c2b9bad76af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-22T12:37:27+09:00"
-        },
-        {
-          "title": "【超入門】ループエンジニアリングとは ― 5つの要素と進め方を初心者向けに整理",
-          "url": "https://qiita.com/nogataka/items/bad6d9e769d9a0e41c19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-22T12:34:47+09:00"
+          "date": "2026-06-22T14:53:43+09:00"
         }
       ]
     }
