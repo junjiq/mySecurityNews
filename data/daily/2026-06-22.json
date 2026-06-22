@@ -1,7 +1,7 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T13:22:32.840796+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-06-22T15:18:19.447663+00:00",
+  "total_articles": 52,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,23 +15,31 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 44,
       "top_items": [
+        {
+          "title": "Deno Desktop",
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "score": 754,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-22T05:38:40+00:00"
+        },
         {
           "title": "Did my old job only exist because of fraud?",
           "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-          "score": 667,
+          "score": 718,
           "source": "hn",
           "severity": null,
           "date": "2026-06-21T21:40:53+00:00"
         },
         {
-          "title": "Deno Desktop",
-          "url": "https://docs.deno.com/runtime/desktop/",
-          "score": 642,
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
+          "url": "https://apertvs.ai/",
+          "score": 485,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-22T05:38:40+00:00"
+          "date": "2026-06-21T21:29:43+00:00"
         },
         {
           "title": "Prefer duplication over the wrong abstraction (2016)",
@@ -42,26 +50,18 @@
           "date": "2026-06-21T16:08:23+00:00"
         },
         {
-          "title": "Apertus – Open Foundation Model for Sovereign AI",
-          "url": "https://apertvs.ai/",
-          "score": 453,
+          "title": "There is minimal downside to switching to open models",
+          "url": "https://www.marble.onl/posts/cancel_claude.html",
+          "score": 323,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-21T21:29:43+00:00"
-        },
-        {
-          "title": "Danish privacy activist Lars Andersen raided by police",
-          "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-          "score": 313,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-22T04:50:26+00:00"
+          "date": "2026-06-21T20:56:01+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 8,
       "top_items": [
         {
           "title": "未経験エンジニアなら、キーボードよりノートを汚せ",
