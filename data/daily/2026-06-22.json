@@ -1,8 +1,8 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T05:17:43.229101+00:00",
-  "total_articles": 51,
-  "urgent_count": 2,
+  "generated_at": "2026-06-22T07:17:36.472730+00:00",
+  "total_articles": 49,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Burnout is real for open source maintainers",
@@ -10,32 +10,33 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-21T16:56:18+00:00"
-    },
-    {
-      "title": "PrivateLinkとResource Gatewayで既存IPv4環境を変更せずにIPv6環境へ接続する",
-      "url": "https://qiita.com/infra365/items/94c359afab6508e2c657?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-06-21T15:39:51+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 42,
       "top_items": [
         {
           "title": "Identity verification on Claude",
           "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-          "score": 655,
+          "score": 700,
           "source": "hn",
           "severity": null,
           "date": "2026-06-21T12:44:13+00:00"
         },
         {
+          "title": "Did my old job only exist because of fraud?",
+          "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+          "score": 471,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-21T21:40:53+00:00"
+        },
+        {
           "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
           "url": "https://www.beyondallreason.info",
-          "score": 458,
+          "score": 470,
           "source": "hn",
           "severity": null,
           "date": "2026-06-21T11:38:01+00:00"
@@ -43,18 +44,10 @@
         {
           "title": "Prefer duplication over the wrong abstraction (2016)",
           "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-          "score": 449,
+          "score": 462,
           "source": "hn",
           "severity": null,
           "date": "2026-06-21T16:08:23+00:00"
-        },
-        {
-          "title": "Did my old job only exist because of fraud?",
-          "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-          "score": 368,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-21T21:40:53+00:00"
         },
         {
           "title": "Google Hits 50% IPv6",
@@ -68,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
         {
           "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
