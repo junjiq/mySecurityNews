@@ -1,7 +1,7 @@
 {
   "date": "2026-06-22",
-  "generated_at": "2026-06-22T09:30:00.131739+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-06-22T11:26:05.462412+00:00",
+  "total_articles": 55,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 41,
       "top_items": [
         {
           "title": "Identity verification on Claude",
           "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-          "score": 745,
+          "score": 778,
           "source": "hn",
           "severity": null,
           "date": "2026-06-21T12:44:13+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Did my old job only exist because of fraud?",
           "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-          "score": 543,
+          "score": 599,
           "source": "hn",
           "severity": null,
           "date": "2026-06-21T21:40:53+00:00"
@@ -42,27 +42,35 @@
           "date": "2026-06-21T11:38:01+00:00"
         },
         {
+          "title": "Deno Desktop",
+          "url": "https://docs.deno.com/runtime/desktop/",
+          "score": 469,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-22T05:38:40+00:00"
+        },
+        {
           "title": "Prefer duplication over the wrong abstraction (2016)",
           "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
           "score": 462,
           "source": "hn",
           "severity": null,
           "date": "2026-06-21T16:08:23+00:00"
-        },
-        {
-          "title": "Apertus – Open Foundation Model for Sovereign AI",
-          "url": "https://apertvs.ai/",
-          "score": 371,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-21T21:29:43+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 14,
       "top_items": [
+        {
+          "title": "未経験エンジニアなら、キーボードよりノートを汚せ",
+          "url": "https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-22T20:11:45+09:00"
+        },
         {
           "title": "Qwopus v2 お前は、ほんまにQwenよりすごいんか？【ローカルLLMベンチ】",
           "url": "https://qiita.com/rS_alonewolf/items/03ec544c3bcab0d7784a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,14 +78,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-22T17:41:30+09:00"
-        },
-        {
-          "title": "未経験エンジニアなら、キーボードよりノートを汚せ",
-          "url": "https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-22T16:07:11+09:00"
         },
         {
           "title": "あれ、このプロバイダだけおかしくない？と思った時にみる NewRelic Browser",
