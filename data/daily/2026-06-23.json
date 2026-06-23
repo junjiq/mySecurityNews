@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T19:37:38.985724+00:00",
-  "total_articles": 71,
+  "generated_at": "2026-06-23T20:45:22.177946+00:00",
+  "total_articles": 81,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 60,
       "top_items": [
         {
           "title": "GLM-5.2 – How to Run Locally",
@@ -28,10 +28,18 @@
         {
           "title": "F3",
           "url": "https://github.com/future-file-format/f3",
-          "score": 437,
+          "score": 513,
           "source": "hn",
           "severity": null,
           "date": "2026-06-23T16:53:32+00:00"
+        },
+        {
+          "title": "Unlimited OCR: One-shot long-horizon parsing",
+          "url": "https://github.com/baidu/Unlimited-OCR",
+          "score": 395,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-23T11:35:05+00:00"
         },
         {
           "title": "Spying on kids to save kids from spying is stupid",
@@ -42,17 +50,9 @@
           "date": "2026-06-23T14:04:43+00:00"
         },
         {
-          "title": "Unlimited OCR: One-shot long-horizon parsing",
-          "url": "https://github.com/baidu/Unlimited-OCR",
-          "score": 369,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-23T11:35:05+00:00"
-        },
-        {
           "title": "Mistral OCR 4",
           "url": "https://mistral.ai/news/ocr-4/",
-          "score": 339,
+          "score": 368,
           "source": "hn",
           "severity": null,
           "date": "2026-06-23T14:03:19+00:00"
@@ -61,8 +61,40 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 20,
       "top_items": [
+        {
+          "title": "\"外国人がいないと回らない\" は本当か ― 補助金が作る経済構造を考える : Pythonで学ぶ マクロ経済学入門 (92)",
+          "url": "https://qiita.com/maskot1977/items/cb279e08e9a72a775547?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-24T00:01:35+09:00"
+        },
+        {
+          "title": "個人開発で AI デスクトップ作ったら、チャットから cron / 並列バッチ / 編集可能な .pptx まで吐けるようになった",
+          "url": "https://qiita.com/gen99/items/b5ee04644ff6da7e7671?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-23T21:20:10+09:00"
+        },
+        {
+          "title": "【解説】PQC移行は「計画」から「期限付き実装」へ — 米国の新たな大統領令「Securing the Nation Against Advanced Cryptographic Attacks」を読む",
+          "url": "https://qiita.com/satokan3/items/16096e2a0aa600375d5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-23T16:06:08+09:00"
+        },
+        {
+          "title": "工数では見積もれない時代へ—AI時代の受託開発の見積もり・契約・成果物定義",
+          "url": "https://qiita.com/nogataka/items/b76868fbabb1aa2d81e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-23T15:56:16+09:00"
+        },
         {
           "title": "Railsで学ぶ計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜",
           "url": "https://qiita.com/akachiryo/items/90db7bf21b6546fce911?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,38 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-23T15:08:19+09:00"
-        },
-        {
-          "title": "AWS CDKとTerraformで書き比べてみた - Lambda × S3 署名URLアップロードAPI編",
-          "url": "https://qiita.com/sugumura/items/69028815af846493ec79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-23T13:53:13+09:00"
-        },
-        {
-          "title": "なぜプロンプトインジェクションは無くならないのか — LLMに構造的に埋め込まれた欠陥「ロール混同」",
-          "url": "https://qiita.com/nogataka/items/463c33beaee69618e30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-23T13:50:01+09:00"
-        },
-        {
-          "title": "【超入門】ループエンジニアリングとは ― 5つの要素と進め方を初心者向けに整理",
-          "url": "https://qiita.com/nogataka/items/bad6d9e769d9a0e41c19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-23T12:45:39+09:00"
-        },
-        {
-          "title": "Claude CodeでExcel仕様書を効率的に解析・引き継ぎするための命名・管理術",
-          "url": "https://qiita.com/oguri-gmoconnect/items/ff7546e2eef855ef6aa1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-23T11:18:36+09:00"
         }
       ]
     },

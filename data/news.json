@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-06-23T19:37:38.915232+00:00",
+  "updated_at": "2026-06-23T20:45:22.125198+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48650311",
+      "source": "hn",
+      "title": "Anthropic updates their terms to verify age or identity",
+      "url": "https://www.anthropic.com/legal/privacy",
+      "score": 129,
+      "comments": 93,
+      "author": "arunc",
+      "tags": [],
+      "date": "2026-06-23T19:45:07+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-48649673",
+      "source": "hn",
+      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+      "score": 56,
+      "comments": 32,
+      "author": "sizzle",
+      "tags": [],
+      "date": "2026-06-23T18:56:19+00:00"
+    },
     {
       "id": "hn-48649435",
       "source": "hn",
       "title": "Jerry's Map",
       "url": "http://www.jerrysmap.com/the-map",
-      "score": 72,
-      "comments": 9,
+      "score": 156,
+      "comments": 20,
       "author": "turtleyacht",
       "tags": [],
       "date": "2026-06-23T18:40:22+00:00"
@@ -62,11 +85,22 @@
       "source": "hn",
       "title": "Swift Package Index joins Apple",
       "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 66,
-      "comments": 19,
+      "score": 102,
+      "comments": 30,
       "author": "JDevlieghere",
       "tags": [],
       "date": "2026-06-23T18:00:58+00:00"
+    },
+    {
+      "id": "hn-48648619",
+      "source": "hn",
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "score": 67,
+      "comments": 17,
+      "author": "futohq",
+      "tags": [],
+      "date": "2026-06-23T17:50:22+00:00"
     },
     {
       "id": "hn-48648558",
@@ -84,8 +118,8 @@
       "source": "hn",
       "title": "Claude Tag",
       "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "score": 137,
-      "comments": 65,
+      "score": 178,
+      "comments": 97,
       "author": "adocomplete",
       "tags": [],
       "date": "2026-06-23T17:09:18+00:00"
@@ -95,8 +129,8 @@
       "source": "hn",
       "title": "San Diego photologs from the 1970s",
       "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-      "score": 104,
-      "comments": 23,
+      "score": 117,
+      "comments": 31,
       "author": "jonathanmkeegan",
       "tags": [],
       "date": "2026-06-23T16:55:26+00:00"
@@ -106,8 +140,8 @@
       "source": "hn",
       "title": "F3",
       "url": "https://github.com/future-file-format/f3",
-      "score": 437,
-      "comments": 113,
+      "score": 513,
+      "comments": 121,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-23T16:53:32+00:00"
@@ -117,8 +151,8 @@
       "source": "hn",
       "title": "The worthlessness of Vitamin D is mildly exaggerated",
       "url": "https://dynomight.net/vitamin-d/",
-      "score": 35,
-      "comments": 13,
+      "score": 93,
+      "comments": 61,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-06-23T16:30:18+00:00"
@@ -146,6 +180,17 @@
       "date": "2026-06-23T16:21:49+00:00"
     },
     {
+      "id": "hn-48646511",
+      "source": "hn",
+      "title": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+      "url": "https://atomprophet.io/tools/cascade/",
+      "score": 5,
+      "comments": 0,
+      "author": "antisyzygy",
+      "tags": [],
+      "date": "2026-06-23T15:22:41+00:00"
+    },
+    {
       "id": "hn-48646276",
       "source": "hn",
       "title": "AI's Affordability Crisis",
@@ -168,11 +213,24 @@
       "date": "2026-06-23T15:07:30+00:00"
     },
     {
+      "id": "qiita-98c431ecb8",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "\"外国人がいないと回らない\" は本当か ― 補助金が作る経済構造を考える : Pythonで学ぶ マクロ経済学入門 (92)",
+      "url": "https://qiita.com/maskot1977/items/cb279e08e9a72a775547?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-24T00:01:35+09:00"
+    },
+    {
       "id": "hn-48645721",
       "source": "hn",
       "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
       "url": "https://lift4d.github.io/",
-      "score": 81,
+      "score": 87,
       "comments": 7,
       "author": "ilreb",
       "tags": [],
@@ -183,8 +241,8 @@
       "source": "hn",
       "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
       "url": "https://tikz.dev/editor/",
-      "score": 258,
-      "comments": 54,
+      "score": 276,
+      "comments": 56,
       "author": "DominikPeters",
       "tags": [],
       "date": "2026-06-23T14:24:21+00:00"
@@ -194,7 +252,7 @@
       "source": "hn",
       "title": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
       "url": "https://github.com/ilbertt/bun-sqlgen",
-      "score": 48,
+      "score": 50,
       "comments": 23,
       "author": "ilbert",
       "tags": [],
@@ -205,8 +263,8 @@
       "source": "hn",
       "title": "Elevated error rate across multiple models",
       "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-      "score": 181,
-      "comments": 228,
+      "score": 188,
+      "comments": 241,
       "author": "rob",
       "tags": [],
       "date": "2026-06-23T14:19:47+00:00"
@@ -227,8 +285,8 @@
       "source": "hn",
       "title": "Mistral OCR 4",
       "url": "https://mistral.ai/news/ocr-4/",
-      "score": 339,
-      "comments": 87,
+      "score": 368,
+      "comments": 94,
       "author": "meetpateltech",
       "tags": [],
       "date": "2026-06-23T14:03:19+00:00"
@@ -238,8 +296,8 @@
       "source": "hn",
       "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
       "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
-      "score": 245,
-      "comments": 67,
+      "score": 254,
+      "comments": 69,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-06-23T13:36:10+00:00"
@@ -265,6 +323,19 @@
       "author": "nand2mario",
       "tags": [],
       "date": "2026-06-23T12:37:04+00:00"
+    },
+    {
+      "id": "qiita-9c7674235f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "個人開発で AI デスクトップ作ったら、チャットから cron / 並列バッチ / 編集可能な .pptx まで吐けるようになった",
+      "url": "https://qiita.com/gen99/items/b5ee04644ff6da7e7671?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "gen99",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-23T21:20:10+09:00"
     },
     {
       "id": "hn-48643620",
@@ -293,8 +364,8 @@
       "source": "hn",
       "title": "Unlimited OCR: One-shot long-horizon parsing",
       "url": "https://github.com/baidu/Unlimited-OCR",
-      "score": 369,
-      "comments": 91,
+      "score": 395,
+      "comments": 92,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-23T11:35:05+00:00"
@@ -326,8 +397,8 @@
       "source": "hn",
       "title": "The Coming Loop",
       "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-      "score": 218,
-      "comments": 169,
+      "score": 237,
+      "comments": 185,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-23T11:06:41+00:00"
@@ -422,6 +493,32 @@
       "date": "2026-06-23T08:16:45+00:00"
     },
     {
+      "id": "qiita-6c50bc93e5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【解説】PQC移行は「計画」から「期限付き実装」へ — 米国の新たな大統領令「Securing the Nation Against Advanced Cryptographic Attacks」を読む",
+      "url": "https://qiita.com/satokan3/items/16096e2a0aa600375d5b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "satokan3",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-23T16:06:08+09:00"
+    },
+    {
+      "id": "qiita-55eeb655fe",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "工数では見積もれない時代へ—AI時代の受託開発の見積もり・契約・成果物定義",
+      "url": "https://qiita.com/nogataka/items/b76868fbabb1aa2d81e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-23T15:56:16+09:00"
+    },
+    {
       "id": "ctf-3967721",
       "source": "project",
       "proj_category": "CTF",
@@ -458,6 +555,32 @@
       "author": "CommonGuy",
       "tags": [],
       "date": "2026-06-23T06:05:37+00:00"
+    },
+    {
+      "id": "qiita-7573e4feab",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code コンテキスト管理パターン集：need-to-know だけ読ませる設計",
+      "url": "https://qiita.com/nogataka/items/99b1ea9ba20877d54dba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-23T14:02:16+09:00"
+    },
+    {
+      "id": "qiita-cb2f430d81",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code セキュリティガードレール 実装テンプレ集 — コピペで使える settings.json と hook スクリプト",
+      "url": "https://qiita.com/nogataka/items/bab35c7b58a664d3b8f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-23T14:01:00+09:00"
     },
     {
       "id": "qiita-5d12e890c8",
@@ -519,6 +642,19 @@
       "date": "2026-06-23T04:15:04+00:00"
     },
     {
+      "id": "qiita-2b3e4d7b1a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI時代のPMスキルはプロンプトではない ― 判断を「資産」に変えるループエンジニアリング",
+      "url": "https://qiita.com/nogataka/items/2a94504c1b273c5f1005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-23T12:54:39+09:00"
+    },
+    {
       "id": "qiita-0ef73e3086",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -554,6 +690,19 @@
         "Qiita"
       ],
       "date": "2026-06-23T11:18:36+09:00"
+    },
+    {
+      "id": "qiita-281062626d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Rails】給湯器のサンプルアプリで学ぶDelegatedType",
+      "url": "https://qiita.com/jnchito/items/180292de6cbb83a9672b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jnchito",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-23T11:05:20+09:00"
     },
     {
       "id": "hn-48639240",
@@ -882,8 +1031,8 @@
       "source": "hn",
       "title": "Five monitors on a Commodore 128 [video]",
       "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
-      "score": 66,
-      "comments": 12,
+      "score": 77,
+      "comments": 15,
       "author": "EvanAnderson",
       "tags": [],
       "date": "2026-06-22T18:39:22+00:00"
@@ -1334,17 +1483,17 @@
       "date": "2026-06-22T04:50:26+00:00"
     },
     {
-      "id": "qiita-2b3e4d7b1a",
+      "id": "qiita-1974dd8283",
       "source": "zennqiita",
       "sub_source": "Qiita",
-      "title": "AI時代のPMスキルはプロンプトではない ― 判断を「資産」に変えるループエンジニアリング",
-      "url": "https://qiita.com/nogataka/items/2a94504c1b273c5f1005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "title": "バイブコーディングが「RPA問題」を再演している。属人化・重複・ブラックボックスを防ぐ最小ガバナンス設計",
+      "url": "https://qiita.com/hirashima-gmoconnect/items/cfe5ba40a56b3dbf6a4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "score": null,
-      "author": "nogataka",
+      "author": "hirashima-gmoconnect",
       "tags": [
         "Qiita"
       ],
-      "date": "2026-06-22T12:37:27+09:00"
+      "date": "2026-06-22T12:12:13+09:00"
     },
     {
       "id": "hn-48624782",
@@ -1787,7 +1936,7 @@
       "source": "hn",
       "title": "Performance Improvements in Libffi",
       "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
-      "score": 22,
+      "score": 27,
       "comments": 6,
       "author": "atgreen",
       "tags": [],
@@ -1888,6 +2037,17 @@
       "author": "paytonjjones",
       "tags": [],
       "date": "2026-06-21T12:49:48+00:00"
+    },
+    {
+      "id": "hn-48618481",
+      "source": "hn",
+      "title": "Printing Gaussian Splats",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "score": 19,
+      "comments": 0,
+      "author": "ilnmtlbnm",
+      "tags": [],
+      "date": "2026-06-21T12:49:02+00:00"
     },
     {
       "id": "hn-48618455",
@@ -2343,8 +2503,8 @@
       "source": "hn",
       "title": "Solving Wordle using information theory",
       "url": "https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle",
-      "score": 34,
-      "comments": 45,
+      "score": 45,
+      "comments": 49,
       "author": "hhs",
       "tags": [],
       "date": "2026-06-20T22:38:46+00:00"
@@ -3868,8 +4028,8 @@
       "source": "hn",
       "title": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
       "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
-      "score": 47,
-      "comments": 19,
+      "score": 60,
+      "comments": 21,
       "author": "its_ajseven",
       "tags": [],
       "date": "2026-06-19T11:03:52+00:00"
@@ -3925,8 +4085,8 @@
       "source": "hn",
       "title": "Plotnine",
       "url": "https://plotnine.org/",
-      "score": 228,
-      "comments": 68,
+      "score": 237,
+      "comments": 69,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-19T09:08:00+00:00"
@@ -5042,161 +5202,6 @@
       "date": "2026-06-18T13:14:43+09:00"
     },
     {
-      "id": "hn-48580686",
-      "source": "hn",
-      "title": "SteamOS Linux 3.8 released as stable",
-      "url": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
-      "score": 103,
-      "comments": 8,
-      "author": "jrepinc",
-      "tags": [],
-      "date": "2026-06-18T04:05:06+00:00"
-    },
-    {
-      "id": "qiita-8603e60dda",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "グランメゾン東京を観た後にMicrosoftの社長が何を言っているのか完全理解した件",
-      "url": "https://qiita.com/kaichan_dot/items/12851eddd7dd3de02bf7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kaichan_dot",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-18T13:04:32+09:00"
-    },
-    {
-      "id": "hn-48580504",
-      "source": "hn",
-      "title": "Nim Conf 2026 (Online, Sat June 20)",
-      "url": "https://conf.nim-lang.org/",
-      "score": 53,
-      "comments": 7,
-      "author": "pietroppeter",
-      "tags": [],
-      "date": "2026-06-18T03:38:31+00:00"
-    },
-    {
-      "id": "hn-48580466",
-      "source": "hn",
-      "title": "Apple boss Tim Cook says prices to rise due to memory chip costs",
-      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo",
-      "score": 65,
-      "comments": 71,
-      "author": "ilreb",
-      "tags": [],
-      "date": "2026-06-18T03:34:54+00:00"
-    },
-    {
-      "id": "qiita-218894196e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "友人の会社の「既存の勤怠アプリが高すぎる」問題を、Firebase + Reactの完全無料なWebアプリを作って解決した話",
-      "url": "https://qiita.com/keishin_nishiura/items/607804ea831416b49ee4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "keishin_nishiura",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-18T12:13:11+09:00"
-    },
-    {
-      "id": "hn-48580209",
-      "source": "hn",
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-      "score": 427,
-      "comments": 225,
-      "author": "alphabettsy",
-      "tags": [],
-      "date": "2026-06-18T03:04:20+00:00"
-    },
-    {
-      "id": "qiita-676cd382a5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ゼロから始めるClickHouse生活",
-      "url": "https://qiita.com/Syoitu/items/d463c58d15db90303392?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Syoitu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-18T11:40:01+09:00"
-    },
-    {
-      "id": "hn-48579913",
-      "source": "hn",
-      "title": "AI Compute Extensions (ACE) Specification",
-      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
-      "score": 36,
-      "comments": 16,
-      "author": "matt_d",
-      "tags": [],
-      "date": "2026-06-18T02:32:01+00:00"
-    },
-    {
-      "id": "hn-48579718",
-      "source": "hn",
-      "title": "Midjourney Ultrasonic CT Scanner",
-      "url": "https://www.midjourney.com/medical/blogpost",
-      "score": 6,
-      "comments": 1,
-      "author": "lnyan",
-      "tags": [],
-      "date": "2026-06-18T02:08:59+00:00"
-    },
-    {
-      "id": "hn-48579650",
-      "source": "hn",
-      "title": "Midjourney Medical",
-      "url": "https://www.midjourney.com/medical/blogpost",
-      "score": 1203,
-      "comments": 814,
-      "author": "ricochet11",
-      "tags": [],
-      "date": "2026-06-18T01:59:51+00:00"
-    },
-    {
-      "id": "qiita-e4a9c99fd9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Reactをビギナーに教える前に知っておきたかった「技術より大切なこと」",
-      "url": "https://qiita.com/monotein/items/789b0b2250d1ed2e8acf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "monotein",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-18T10:51:43+09:00"
-    },
-    {
-      "id": "qiita-e63c1e388e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「テスト対象がない」をAIで解決した話 ─ QAエンジニアがPlaywright・APIテスト・CI/CDを学ぶまで",
-      "url": "https://qiita.com/kenji-m/items/e5afce6610de40734443?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kenji-m",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-18T10:26:24+09:00"
-    },
-    {
-      "id": "qiita-8c182ecb46",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた",
-      "url": "https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "KYoshiyama",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-18T10:24:07+09:00"
-    },
-    {
       "id": "ctf-3911979",
       "source": "project",
       "proj_category": "CTF",
@@ -5403,19 +5408,6 @@
         "Zenn"
       ],
       "date": "Mon, 22 Jun 2026 15:26:02 GMT"
-    },
-    {
-      "id": "zenn-c3eb09e8df",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "「動くが面白くない」を解決するGame Feelガイド",
-      "url": "https://zenn.dev/kapi0622/books/0d107732880fc8",
-      "score": null,
-      "author": "カピ",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 22 Jun 2026 09:30:23 GMT"
     },
     {
       "id": "zenn-e8fefdc952",
@@ -5638,6 +5630,19 @@
         "Zenn"
       ],
       "date": "Sun, 21 Jun 2026 04:49:42 GMT"
+    },
+    {
+      "id": "zenn-66ff7469f0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "バグハンター視点で学ぶ Caido 実践入門",
+      "url": "https://zenn.dev/scgajge12/books/119c83fa281d04",
+      "score": null,
+      "author": "morioka12",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sun, 21 Jun 2026 03:05:13 GMT"
     },
     {
       "id": "edb-3a6bcc02f2",
