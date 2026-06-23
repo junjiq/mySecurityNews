@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-23T23:25:51.301040+00:00",
+  "generated_at": "2026-06-23T23:49:02.768514+00:00",
   "total_articles": 455,
   "source_counts": {
     "hn": 356,
@@ -9,8 +9,8 @@
   },
   "severity_counts": {
     "medium": 9,
-    "critical": 11,
-    "high": 2
+    "critical": 10,
+    "high": 3
   },
   "top_articles": [
     {
@@ -233,18 +233,18 @@
       "date": "2026-06-18T18:31:23+00:00"
     },
     {
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-18T14:23:38+00:00"
+    },
+    {
       "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
       "url": "https://github.com/cajal-technologies/talos",
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-18T13:10:44+00:00"
-    },
-    {
-      "title": "A Perceptron in Age of Empires II",
-      "url": "https://adewynter.github.io/notes/aoe2-circuits",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-18T07:50:12+00:00"
     }
   ]
 }
