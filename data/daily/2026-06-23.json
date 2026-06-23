@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T14:20:34.073343+00:00",
-  "total_articles": 67,
+  "generated_at": "2026-06-23T15:32:19.477367+00:00",
+  "total_articles": 72,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,15 +15,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 60,
       "top_items": [
         {
           "title": "Steam Machine launches today",
           "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-          "score": 1756,
+          "score": 1798,
           "source": "hn",
           "severity": null,
           "date": "2026-06-22T17:09:51+00:00"
+        },
+        {
+          "title": "GLM-5.2 – How to Run Locally",
+          "url": "https://unsloth.ai/docs/models/glm-5.2",
+          "score": 509,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-22T21:21:01+00:00"
         },
         {
           "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
@@ -42,17 +50,9 @@
           "date": "2026-06-22T19:06:48+00:00"
         },
         {
-          "title": "GLM-5.2 – How to Run Locally",
-          "url": "https://unsloth.ai/docs/models/glm-5.2",
-          "score": 479,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-22T21:21:01+00:00"
-        },
-        {
           "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
           "url": "https://arxiv.org/abs/2606.16140",
-          "score": 279,
+          "score": 297,
           "source": "hn",
           "severity": null,
           "date": "2026-06-23T02:01:25+00:00"
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "Railsで学ぶ計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜",
