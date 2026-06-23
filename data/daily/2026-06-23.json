@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T16:51:04.470499+00:00",
-  "total_articles": 70,
+  "generated_at": "2026-06-23T17:36:34.285619+00:00",
+  "total_articles": 72,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,20 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 59,
       "top_items": [
-        {
-          "title": "Steam Machine launches today",
-          "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-          "score": 1825,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-22T17:09:51+00:00"
-        },
         {
           "title": "GLM-5.2 – How to Run Locally",
           "url": "https://unsloth.ai/docs/models/glm-5.2",
-          "score": 530,
+          "score": 540,
           "source": "hn",
           "severity": null,
           "date": "2026-06-22T21:21:01+00:00"
@@ -52,10 +44,18 @@
         {
           "title": "Spying on kids to save kids from spying is stupid",
           "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-          "score": 323,
+          "score": 391,
           "source": "hn",
           "severity": null,
           "date": "2026-06-23T14:04:43+00:00"
+        },
+        {
+          "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+          "url": "https://github.com/baidu/Unlimited-OCR",
+          "score": 327,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-23T11:35:05+00:00"
         }
       ]
     },
@@ -102,6 +102,20 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-23T11:18:36+09:00"
+        }
+      ]
+    },
+    {
+      "category": "注目リリース",
+      "count": 1,
+      "top_items": [
+        {
+          "title": "HackTheBox: Barrier Writeup",
+          "url": "https://dev.to/exploitnotes/hackthebox-barrier-writeup-hcb",
+          "score": 0,
+          "source": "project",
+          "severity": null,
+          "date": "2026-06-23T06:55:56Z"
         }
       ]
     }
