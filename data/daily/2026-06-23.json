@@ -1,18 +1,18 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T03:09:05.266762+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-06-23T04:50:32.284419+00:00",
+  "total_articles": 58,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 51,
       "top_items": [
         {
           "title": "Steam Machine launches today",
           "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-          "score": 1285,
+          "score": 1354,
           "source": "hn",
           "severity": null,
           "date": "2026-06-22T17:09:51+00:00"
@@ -53,8 +53,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
+        {
+          "title": "【超入門】ループエンジニアリングとは ― 5つの要素と進め方を初心者向けに整理",
+          "url": "https://qiita.com/nogataka/items/bad6d9e769d9a0e41c19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-23T12:45:39+09:00"
+        },
         {
           "title": "AIを定期実行するベストプラクティス：Cron・launchd・/loop・GitHub Actions 徹底比較",
           "url": "https://qiita.com/degudegu2510/items/e15edc063e19ef82604c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-22T17:41:30+09:00"
-        },
-        {
-          "title": "あれ、このプロバイダだけおかしくない？と思った時にみる NewRelic Browser",
-          "url": "https://qiita.com/seamoooooo/items/5fc5f1921243a50948ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-22T14:59:10+09:00"
         }
       ]
     }
