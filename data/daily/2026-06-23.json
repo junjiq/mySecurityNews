@@ -1,18 +1,18 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T07:47:29.506156+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-06-23T09:09:52.454125+00:00",
+  "total_articles": 69,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 52,
       "top_items": [
         {
           "title": "Steam Machine launches today",
           "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-          "score": 1494,
+          "score": 1564,
           "source": "hn",
           "severity": null,
           "date": "2026-06-22T17:09:51+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
           "url": "https://ipvm.com/reports/police-chiefs-track",
-          "score": 491,
+          "score": 509,
           "source": "hn",
           "severity": null,
           "date": "2026-06-22T19:13:46+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
           "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-          "score": 444,
+          "score": 468,
           "source": "hn",
           "severity": null,
           "date": "2026-06-22T19:06:48+00:00"
@@ -53,8 +53,32 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 17,
       "top_items": [
+        {
+          "title": "Railsで学ぶ計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜",
+          "url": "https://qiita.com/akachiryo/items/90db7bf21b6546fce911?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-23T15:08:19+09:00"
+        },
+        {
+          "title": "AWS CDKとTerraformで書き比べてみた - Lambda × S3 署名URLアップロードAPI編",
+          "url": "https://qiita.com/sugumura/items/69028815af846493ec79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-23T13:53:13+09:00"
+        },
+        {
+          "title": "なぜプロンプトインジェクションは無くならないのか — LLMに構造的に埋め込まれた欠陥「ロール混同」",
+          "url": "https://qiita.com/nogataka/items/463c33beaee69618e30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-23T13:50:01+09:00"
+        },
         {
           "title": "【超入門】ループエンジニアリングとは ― 5つの要素と進め方を初心者向けに整理",
           "url": "https://qiita.com/nogataka/items/bad6d9e769d9a0e41c19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -64,36 +88,12 @@
           "date": "2026-06-23T12:45:39+09:00"
         },
         {
-          "title": "AIを定期実行するベストプラクティス：Cron・launchd・/loop・GitHub Actions 徹底比較",
-          "url": "https://qiita.com/degudegu2510/items/e15edc063e19ef82604c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude CodeでExcel仕様書を効率的に解析・引き継ぎするための命名・管理術",
+          "url": "https://qiita.com/oguri-gmoconnect/items/ff7546e2eef855ef6aa1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-23T10:49:41+09:00"
-        },
-        {
-          "title": "未経験エンジニアなら、キーボードよりノートを汚せ",
-          "url": "https://qiita.com/maketahara_ise/items/8b8c3116f07fcefe2047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-22T21:53:47+09:00"
-        },
-        {
-          "title": "キャッチアップしないと不安。── AI時代のエンジニアが罹る病 「FOMO」 と付き合う。",
-          "url": "https://qiita.com/tomoki-miso/items/8290227346c099e84b1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-22T18:36:07+09:00"
-        },
-        {
-          "title": "Qwopus v2 お前は、ほんまにQwenよりすごいんか？【ローカルLLMベンチ】",
-          "url": "https://qiita.com/rS_alonewolf/items/03ec544c3bcab0d7784a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-22T17:41:30+09:00"
+          "date": "2026-06-23T11:18:36+09:00"
         }
       ]
     }
