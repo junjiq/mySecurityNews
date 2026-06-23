@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T20:45:22.177946+00:00",
-  "total_articles": 81,
+  "generated_at": "2026-06-23T21:34:34.552016+00:00",
+  "total_articles": 78,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,20 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 60,
+      "count": 57,
       "top_items": [
-        {
-          "title": "GLM-5.2 – How to Run Locally",
-          "url": "https://unsloth.ai/docs/models/glm-5.2",
-          "score": 559,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-22T21:21:01+00:00"
-        },
         {
           "title": "F3",
           "url": "https://github.com/future-file-format/f3",
-          "score": 513,
+          "score": 546,
           "source": "hn",
           "severity": null,
           "date": "2026-06-23T16:53:32+00:00"
@@ -36,7 +28,7 @@
         {
           "title": "Unlimited OCR: One-shot long-horizon parsing",
           "url": "https://github.com/baidu/Unlimited-OCR",
-          "score": 395,
+          "score": 402,
           "source": "hn",
           "severity": null,
           "date": "2026-06-23T11:35:05+00:00"
@@ -52,10 +44,18 @@
         {
           "title": "Mistral OCR 4",
           "url": "https://mistral.ai/news/ocr-4/",
-          "score": 368,
+          "score": 388,
           "source": "hn",
           "severity": null,
           "date": "2026-06-23T14:03:19+00:00"
+        },
+        {
+          "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+          "url": "https://arxiv.org/abs/2606.16140",
+          "score": 325,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-23T02:01:25+00:00"
         }
       ]
     },

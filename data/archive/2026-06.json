@@ -1,16 +1,16 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-23T20:45:22.213724+00:00",
+  "generated_at": "2026-06-23T21:34:34.597567+00:00",
   "total_articles": 455,
   "source_counts": {
-    "hn": 350,
-    "zennqiita": 100,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 5
   },
   "severity_counts": {
     "medium": 9,
     "critical": 11,
-    "high": 1
+    "high": 2
   },
   "top_articles": [
     {
@@ -98,18 +98,18 @@
       "date": "2026-06-22T21:21:01+00:00"
     },
     {
+      "title": "F3",
+      "url": "https://github.com/future-file-format/f3",
+      "score": 546,
+      "source": "hn",
+      "date": "2026-06-23T16:53:32+00:00"
+    },
+    {
       "title": ".gitignore Isn't the only way to ignore files in Git",
       "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
       "score": 515,
       "source": "hn",
       "date": "2026-06-18T10:29:20+00:00"
-    },
-    {
-      "title": "F3",
-      "url": "https://github.com/future-file-format/f3",
-      "score": 513,
-      "source": "hn",
-      "date": "2026-06-23T16:53:32+00:00"
     },
     {
       "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
@@ -161,6 +161,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-23T10:02:54+00:00"
+    },
+    {
+      "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
+      "url": "https://github.com/dmtrKovalenko/ffs",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-21T20:44:33+00:00"
     },
     {
       "title": "Burnout is real for open source maintainers",
