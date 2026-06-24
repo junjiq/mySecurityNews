@@ -1,7 +1,7 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T07:46:31.748073+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-06-24T09:08:24.502954+00:00",
+  "total_articles": 67,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 55,
       "top_items": [
         {
           "title": "F3",
@@ -35,10 +35,26 @@
         {
           "title": "FUTO Swipe – A new swipe typing model",
           "url": "https://swipe.futo.tech/",
-          "score": 489,
+          "score": 531,
           "source": "hn",
           "severity": null,
           "date": "2026-06-23T17:50:22+00:00"
+        },
+        {
+          "title": "Fired by Google for creating the Google workspace CLI",
+          "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+          "score": 516,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-23T18:13:40+00:00"
+        },
+        {
+          "title": "Jerry's Map",
+          "url": "http://www.jerrysmap.com/the-map",
+          "score": 461,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-23T18:40:22+00:00"
         },
         {
           "title": "Unlimited OCR: One-shot long-horizon parsing",
@@ -47,28 +63,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-23T11:35:05+00:00"
-        },
-        {
-          "title": "Jerry's Map",
-          "url": "http://www.jerrysmap.com/the-map",
-          "score": 445,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-23T18:40:22+00:00"
-        },
-        {
-          "title": "Fired by Google for creating the Google workspace CLI",
-          "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-          "score": 419,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-23T18:13:40+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 12,
       "top_items": [
         {
           "title": "並列で思考を分けたら、AIレビューの精度もコンテキスト効率も同時に上がった話",
@@ -79,6 +79,14 @@
           "date": "2026-06-24T16:23:20+09:00"
         },
         {
+          "title": "oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた",
+          "url": "https://qiita.com/shirok/items/3b9ccefff059ff1ab40d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-24T15:11:06+09:00"
+        },
+        {
           "title": "個人開発で AI デスクトップ作ったら、チャットから cron / 並列バッチ / 編集可能な .pptx まで吐けるようになった",
           "url": "https://qiita.com/gen99/items/b5ee04644ff6da7e7671?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -87,12 +95,20 @@
           "date": "2026-06-24T13:24:35+09:00"
         },
         {
-          "title": "\"外国人がいないと回らない\" は本当か ― 補助金が作る経済構造を考える : Pythonで学ぶ マクロ経済学入門 (92)",
-          "url": "https://qiita.com/maskot1977/items/cb279e08e9a72a775547?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「言った・言わない」を防ぐ。要件定義で使うべき質問の技術",
+          "url": "https://qiita.com/prum_hitomi/items/d06e7479122150ee0ad9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-24T00:01:35+09:00"
+          "date": "2026-06-24T13:19:01+09:00"
+        },
+        {
+          "title": "Unity AI × Claude Code でゲームを作ってみた",
+          "url": "https://qiita.com/TsuchiyaK/items/a3de1ac034bf94cf905b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-24T11:38:26+09:00"
         }
       ]
     }
