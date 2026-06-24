@@ -1,16 +1,16 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-24T06:23:57.487537+00:00",
-  "total_articles": 457,
+  "generated_at": "2026-06-24T07:46:31.790708+00:00",
+  "total_articles": 455,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 91,
+    "hn": 360,
+    "zennqiita": 90,
     "project": 5
   },
   "severity_counts": {
     "high": 4,
     "medium": 9,
-    "critical": 10
+    "critical": 9
   },
   "top_articles": [
     {
@@ -133,6 +133,13 @@
       "date": "2026-06-19T15:10:02+00:00"
     },
     {
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "score": 489,
+      "source": "hn",
+      "date": "2026-06-23T17:50:22+00:00"
+    },
+    {
       "title": "Help I accidentally a wigglegram",
       "url": "https://lmao.center/blog/wiggle-accidents/",
       "score": 487,
@@ -145,13 +152,6 @@
       "score": 474,
       "source": "hn",
       "date": "2026-06-22T07:22:03+00:00"
-    },
-    {
-      "title": "CSSQuake",
-      "url": "https://cssquake.com/",
-      "score": 474,
-      "source": "hn",
-      "date": "2026-06-20T10:49:53+00:00"
     }
   ],
   "security_highlights": [
@@ -245,13 +245,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-18T14:23:38+00:00"
-    },
-    {
-      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
-      "url": "https://github.com/cajal-technologies/talos",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-18T13:10:44+00:00"
     }
   ]
 }
