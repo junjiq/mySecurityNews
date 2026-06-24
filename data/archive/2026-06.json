@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-24T19:33:59.236132+00:00",
+  "generated_at": "2026-06-24T20:36:03.265443+00:00",
   "total_articles": 455,
   "source_counts": {
-    "hn": 362,
-    "zennqiita": 88,
+    "hn": 361,
+    "zennqiita": 89,
     "project": 5
   },
   "severity_counts": {
+    "high": 4,
     "critical": 11,
-    "high": 3,
     "medium": 7
   },
   "top_articles": [
@@ -49,6 +49,13 @@
       "date": "2026-06-21T21:40:53+00:00"
     },
     {
+      "title": "We’re making Bunny DNS free",
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "score": 750,
+      "source": "hn",
+      "date": "2026-06-24T08:50:41+00:00"
+    },
+    {
       "title": "Norway imposes near ban on AI in elementary school",
       "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
       "score": 730,
@@ -63,25 +70,11 @@
       "date": "2026-06-22T13:43:01+00:00"
     },
     {
-      "title": "We’re making Bunny DNS free",
-      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 718,
-      "source": "hn",
-      "date": "2026-06-24T08:50:41+00:00"
-    },
-    {
       "title": "FUTO Swipe – A new swipe typing model",
       "url": "https://swipe.futo.tech/",
       "score": 629,
       "source": "hn",
       "date": "2026-06-23T17:50:22+00:00"
-    },
-    {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 622,
-      "source": "hn",
-      "date": "2026-06-19T06:35:57+00:00"
     },
     {
       "title": "F3",
@@ -152,9 +145,23 @@
       "score": 493,
       "source": "hn",
       "date": "2026-06-19T15:10:02+00:00"
+    },
+    {
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "score": 487,
+      "source": "hn",
+      "date": "2026-06-20T01:55:16+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Exploiting vulnerabilities in Johnson and Johnson web apps",
+      "url": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-24T16:33:48+00:00"
+    },
     {
       "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
       "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",

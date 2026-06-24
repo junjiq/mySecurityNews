@@ -1,25 +1,47 @@
 {
-  "updated_at": "2026-06-24T19:33:59.114106+00:00",
+  "updated_at": "2026-06-24T20:36:03.148524+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48665130",
+      "source": "hn",
+      "title": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
+      "url": "https://statusdude.com/blog/zero-downtime-docker-compose",
+      "score": 3,
+      "comments": 0,
+      "author": "canto",
+      "tags": [],
+      "date": "2026-06-24T20:20:33+00:00"
+    },
     {
       "id": "hn-48664384",
       "source": "hn",
       "title": "Thomann takes legal action against Fender",
       "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
-      "score": 19,
-      "comments": 2,
+      "score": 97,
+      "comments": 38,
       "author": "Audiophilip",
       "tags": [],
       "date": "2026-06-24T19:08:22+00:00"
+    },
+    {
+      "id": "hn-48663861",
+      "source": "hn",
+      "title": "Wikipedia Workers to Seek Union Recognition",
+      "url": "https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/",
+      "score": 56,
+      "comments": 15,
+      "author": "addshore",
+      "tags": [],
+      "date": "2026-06-24T18:27:16+00:00"
     },
     {
       "id": "hn-48663544",
       "source": "hn",
       "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
       "url": "https://posthog.com/blog/sql-parser",
-      "score": 27,
-      "comments": 3,
+      "score": 61,
+      "comments": 28,
       "author": "robbie-c",
       "tags": [],
       "date": "2026-06-24T18:05:33+00:00"
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 189,
-      "comments": 160,
+      "score": 272,
+      "comments": 209,
       "author": "jamdesk",
       "tags": [],
       "date": "2026-06-24T17:47:00+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Computer use in Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 75,
-      "comments": 32,
+      "score": 90,
+      "comments": 53,
       "author": "swolpers",
       "tags": [],
       "date": "2026-06-24T17:21:34+00:00"
@@ -69,12 +91,24 @@
       "date": "2026-06-24T16:35:56+00:00"
     },
     {
+      "id": "hn-48662347",
+      "source": "hn",
+      "title": "Exploiting vulnerabilities in Johnson and Johnson web apps",
+      "url": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
+      "score": 17,
+      "comments": 0,
+      "author": "EatonZ",
+      "tags": [],
+      "date": "2026-06-24T16:33:48+00:00",
+      "severity": "high"
+    },
+    {
       "id": "hn-48661938",
       "source": "hn",
       "title": "I taught a bucket to speak Git",
       "url": "https://www.tigrisdata.com/blog/objgit/",
-      "score": 54,
-      "comments": 11,
+      "score": 62,
+      "comments": 15,
       "author": "xena",
       "tags": [],
       "date": "2026-06-24T16:04:26+00:00"
@@ -95,8 +129,8 @@
       "source": "hn",
       "title": "There are a few things that I look back on as my mistakes in the early days",
       "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-      "score": 382,
-      "comments": 190,
+      "score": 407,
+      "comments": 205,
       "author": "shadowtree",
       "tags": [],
       "date": "2026-06-24T15:56:19+00:00"
@@ -173,8 +207,8 @@
       "source": "hn",
       "title": "RubyLLM: A Ruby framework for all major AI providers",
       "url": "https://rubyllm.com/",
-      "score": 261,
-      "comments": 38,
+      "score": 282,
+      "comments": 42,
       "author": "doener",
       "tags": [],
       "date": "2026-06-24T14:41:41+00:00"
@@ -184,8 +218,8 @@
       "source": "hn",
       "title": "Running Windows Games on a Hobby OS with Wine",
       "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-      "score": 67,
-      "comments": 20,
+      "score": 76,
+      "comments": 22,
       "author": "avaliosdev",
       "tags": [],
       "date": "2026-06-24T14:38:30+00:00"
@@ -195,8 +229,8 @@
       "source": "hn",
       "title": "PR spam today looks like email spam in the early 2000s",
       "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 84,
-      "comments": 59,
+      "score": 106,
+      "comments": 79,
       "author": "dakshgupta",
       "tags": [],
       "date": "2026-06-24T14:32:12+00:00"
@@ -206,11 +240,22 @@
       "source": "hn",
       "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
       "url": "https://github.com/nubjs/nub",
-      "score": 147,
-      "comments": 38,
+      "score": 161,
+      "comments": 40,
       "author": "colinmcd",
       "tags": [],
       "date": "2026-06-24T14:14:18+00:00"
+    },
+    {
+      "id": "hn-48659483",
+      "source": "hn",
+      "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
+      "url": "https://lookaway.com",
+      "score": 12,
+      "comments": 0,
+      "author": "_kush",
+      "tags": [],
+      "date": "2026-06-24T13:29:18+00:00"
     },
     {
       "id": "hn-48659451",
@@ -239,8 +284,8 @@
       "source": "hn",
       "title": "Stealing Is a Skill",
       "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-      "score": 153,
-      "comments": 97,
+      "score": 167,
+      "comments": 107,
       "author": "bewal416",
       "tags": [],
       "date": "2026-06-24T13:08:52+00:00"
@@ -377,8 +422,8 @@
       "source": "hn",
       "title": "We’re making Bunny DNS free",
       "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 718,
-      "comments": 232,
+      "score": 750,
+      "comments": 240,
       "author": "dabinat",
       "tags": [],
       "date": "2026-06-24T08:50:41+00:00"
@@ -419,6 +464,19 @@
       "date": "2026-06-24T07:01:21+00:00"
     },
     {
+      "id": "qiita-02cbeeb3d3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "私が経験してきた、データの闇 ― Snowflakeのセマンティックビューで「データ品質の壁」と向き合う",
+      "url": "https://qiita.com/akari_sugiyama/items/88153a1e8d262f132abc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "akari_sugiyama",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-24T15:56:43+09:00"
+    },
+    {
       "id": "qiita-9c7674235f",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -454,6 +512,19 @@
       "author": "byb",
       "tags": [],
       "date": "2026-06-24T03:17:47+00:00"
+    },
+    {
+      "id": "qiita-d8e60c70f5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWSの\"俯瞰\"構成図を自動生成する ── 見やすさを機械チェックしながら量産した話",
+      "url": "https://qiita.com/ntaka329/items/d457f309e33c4602a693?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ntaka329",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-24T12:02:25+09:00"
     },
     {
       "id": "hn-48654465",
@@ -511,6 +582,19 @@
       "author": "ilreb",
       "tags": [],
       "date": "2026-06-24T02:12:31+00:00"
+    },
+    {
+      "id": "qiita-3ba53f7dd1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ESLint×GitHub Pagesで始める『コードベース健康診断』― 認知複雑度を定点観測して負債を可視化するダッシュボード構築（フロントエンド編）",
+      "url": "https://qiita.com/_kuma/items/6c24024f188367510c0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "_kuma",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-24T10:56:37+09:00"
     },
     {
       "id": "qiita-9a4162809b",
@@ -675,6 +759,19 @@
       "author": "garaetjjte",
       "tags": [],
       "date": "2026-06-23T20:23:49+00:00"
+    },
+    {
+      "id": "qiita-f910f934ef",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeが使えないときのためにAntigravity CLIを用意した話",
+      "url": "https://qiita.com/tt2004d/items/31cbacd70540423b1581?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tt2004d",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-24T05:14:17+09:00"
     },
     {
       "id": "hn-48650311",
@@ -871,8 +968,8 @@
       "source": "hn",
       "title": "Krea 2: SOTA open-weights 12B image model",
       "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "score": 237,
-      "comments": 32,
+      "score": 263,
+      "comments": 34,
       "author": "mattnewton",
       "tags": [],
       "date": "2026-06-23T15:31:21+00:00"
@@ -915,8 +1012,8 @@
       "source": "hn",
       "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
       "url": "https://github.com/NotASithLord/peerd",
-      "score": 37,
-      "comments": 15,
+      "score": 44,
+      "comments": 16,
       "author": "NotASithLord",
       "tags": [],
       "date": "2026-06-23T15:05:00+00:00"
@@ -1189,6 +1286,19 @@
       "author": "esychology",
       "tags": [],
       "date": "2026-06-23T08:31:48+00:00"
+    },
+    {
+      "id": "qiita-3068f56159",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "テスラだけではない！電力のAI自動取引（VPP）を支える海外の主要プラットフォーム4選",
+      "url": "https://qiita.com/sc_ri/items/91fff5bce36956cbd2ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sc_ri",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-23T17:25:06+09:00"
     },
     {
       "id": "hn-48641927",
@@ -1560,8 +1670,8 @@
       "source": "hn",
       "title": "Why eval startups fail (2025)",
       "url": "https://thomasliao.com/eval-startups",
-      "score": 73,
-      "comments": 50,
+      "score": 81,
+      "comments": 51,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-06-22T23:20:53+00:00"
@@ -1677,6 +1787,17 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-06-22T19:47:52+00:00"
+    },
+    {
+      "id": "hn-48635075",
+      "source": "hn",
+      "title": "Self-Harness: Harnesses That Improve Themselves",
+      "url": "https://arxiv.org/abs/2606.09498",
+      "score": 48,
+      "comments": 1,
+      "author": "jonnonz",
+      "tags": [],
+      "date": "2026-06-22T19:45:05+00:00"
     },
     {
       "id": "hn-48634966",
@@ -1982,8 +2103,8 @@
       "source": "hn",
       "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
       "url": "https://www.monolisa.dev/",
-      "score": 118,
-      "comments": 36,
+      "score": 128,
+      "comments": 41,
       "author": "bebraw",
       "tags": [],
       "date": "2026-06-22T14:05:23+00:00"
@@ -1993,7 +2114,7 @@
       "source": "hn",
       "title": "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis",
       "url": "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/",
-      "score": 66,
+      "score": 71,
       "comments": 26,
       "author": "surprisetalk",
       "tags": [],
@@ -4276,7 +4397,7 @@
       "source": "hn",
       "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
       "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-      "score": 192,
+      "score": 209,
       "comments": 46,
       "author": "signa11",
       "tags": [],
@@ -5049,133 +5170,15 @@
       "date": "2026-06-19T10:16:10+00:00"
     },
     {
-      "id": "qiita-f4f476b6da",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "GitHub App の Device Flowでスコープを絞った短命なGitHubトークンを生成する",
-      "url": "https://qiita.com/minamijoyo/items/bdc1f9a66ab1deaae9cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "minamijoyo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-19T19:09:23+09:00"
-    },
-    {
       "id": "hn-48596834",
       "source": "hn",
       "title": "Pull request limits are cutting down the noise",
       "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-      "score": 37,
-      "comments": 24,
+      "score": 47,
+      "comments": 35,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-19T10:03:10+00:00"
-    },
-    {
-      "id": "hn-48596586",
-      "source": "hn",
-      "title": "Rethinking Modularity in Ruby Applications",
-      "url": "https://noteflakes.com/articles/2026-06-18-syntropy-modules",
-      "score": 6,
-      "comments": 0,
-      "author": "ciconia",
-      "tags": [],
-      "date": "2026-06-19T09:23:24+00:00"
-    },
-    {
-      "id": "hn-48596488",
-      "source": "hn",
-      "title": "Plotnine",
-      "url": "https://plotnine.org/",
-      "score": 247,
-      "comments": 74,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-06-19T09:08:00+00:00"
-    },
-    {
-      "id": "qiita-ccf9b096b0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeで チーム開発ルール を「覚えるもの」から「自動で守るもの」に変える",
-      "url": "https://qiita.com/rairaii/items/a1b622ff1faf4ca34231?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "rairaii",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-19T17:15:34+09:00"
-    },
-    {
-      "id": "qiita-ee88d0568e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIコーディングをシニアエンジニアに変える「Agent Skills」 – SDLCへの実践的適用",
-      "url": "https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "TOMOSIA-HieuNT",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-19T16:08:41+09:00"
-    },
-    {
-      "id": "hn-48595511",
-      "source": "hn",
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 622,
-      "comments": 388,
-      "author": "philonoist",
-      "tags": [],
-      "date": "2026-06-19T06:35:57+00:00"
-    },
-    {
-      "id": "hn-48595390",
-      "source": "hn",
-      "title": "Iran Delays U.S. Peace Talks over Israeli Attacks in Lebanon",
-      "url": "https://maritime-executive.com/article/report-iran-suspends-hormuz-talks-because-of-israeli-attacks-in-lebanon",
-      "score": 6,
-      "comments": 0,
-      "author": "consumer451",
-      "tags": [],
-      "date": "2026-06-19T06:14:32+00:00"
-    },
-    {
-      "id": "qiita-c837333324",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「なぜ評価されないんだろ…」と悩むそこの君へ。優秀なエンジニアに共通する考え方。",
-      "url": "https://qiita.com/issey_dotlog/items/2f57fda20f559b2e54ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "issey_dotlog",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-19T15:07:30+09:00"
-    },
-    {
-      "id": "hn-48595331",
-      "source": "hn",
-      "title": "So You Want to Define a Well-Known URI",
-      "url": "https://mnot.net/blog/2026/well_known_uris",
-      "score": 125,
-      "comments": 76,
-      "author": "ingve",
-      "tags": [],
-      "date": "2026-06-19T06:05:01+00:00"
-    },
-    {
-      "id": "hn-48595316",
-      "source": "hn",
-      "title": "The ISA Doesn't Matter Where It Counts",
-      "url": "https://www.chipstrat.com/p/the-isa-doesnt-matter-where-it-counts",
-      "score": 3,
-      "comments": 0,
-      "author": "ksec",
-      "tags": [],
-      "date": "2026-06-19T06:02:53+00:00"
     },
     {
       "id": "ctf-3911979",

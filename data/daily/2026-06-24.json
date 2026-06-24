@@ -1,8 +1,8 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T19:33:59.183936+00:00",
-  "total_articles": 60,
-  "urgent_count": 4,
+  "generated_at": "2026-06-24T20:36:03.220005+00:00",
+  "total_articles": 65,
+  "urgent_count": 5,
   "urgent_items": [
     {
       "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
@@ -26,6 +26,13 @@
       "date": "2026-06-24T10:20:39+00:00"
     },
     {
+      "title": "Exploiting vulnerabilities in Johnson and Johnson web apps",
+      "url": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-24T16:33:48+00:00"
+    },
+    {
       "title": "Vulnerability reports are not special anymore",
       "url": "https://words.filippo.io/vuln-reports/",
       "severity": "high",
@@ -36,12 +43,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 52,
       "top_items": [
         {
           "title": "We’re making Bunny DNS free",
           "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-          "score": 718,
+          "score": 750,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T08:50:41+00:00"
@@ -57,7 +64,7 @@
         {
           "title": "There are a few things that I look back on as my mistakes in the early days",
           "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-          "score": 382,
+          "score": 407,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T15:56:19+00:00"
@@ -71,18 +78,18 @@
           "date": "2026-06-23T23:42:46+00:00"
         },
         {
-          "title": "Extreme Heat conference cancelled due to extreme heat warning",
-          "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
-          "score": 265,
+          "title": "RubyLLM: A Ruby framework for all major AI providers",
+          "url": "https://rubyllm.com/",
+          "score": 282,
           "source": "hn",
-          "severity": "medium",
-          "date": "2026-06-23T23:26:43+00:00"
+          "severity": null,
+          "date": "2026-06-24T14:41:41+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 13,
       "top_items": [
         {
           "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
@@ -109,20 +116,20 @@
           "date": "2026-06-24T16:23:20+09:00"
         },
         {
+          "title": "私が経験してきた、データの闇 ― Snowflakeのセマンティックビューで「データ品質の壁」と向き合う",
+          "url": "https://qiita.com/akari_sugiyama/items/88153a1e8d262f132abc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-24T15:56:43+09:00"
+        },
+        {
           "title": "個人開発で AI デスクトップ作ったら、チャットから cron / 並列バッチ / 編集可能な .pptx まで吐けるようになった",
           "url": "https://qiita.com/gen99/items/b5ee04644ff6da7e7671?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-24T13:24:35+09:00"
-        },
-        {
-          "title": "「言った・言わない」を防ぐ。要件定義で使うべき質問の技術",
-          "url": "https://qiita.com/prum_hitomi/items/d06e7479122150ee0ad9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-24T13:19:01+09:00"
         }
       ]
     }
