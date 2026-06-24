@@ -1,16 +1,16 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-23T23:49:02.768514+00:00",
+  "generated_at": "2026-06-24T00:41:06.336398+00:00",
   "total_articles": 455,
   "source_counts": {
-    "hn": 356,
-    "zennqiita": 94,
+    "hn": 358,
+    "zennqiita": 92,
     "project": 5
   },
   "severity_counts": {
-    "medium": 9,
-    "critical": 10,
-    "high": 3
+    "high": 4,
+    "medium": 10,
+    "critical": 10
   },
   "top_articles": [
     {
@@ -105,13 +105,6 @@
       "date": "2026-06-22T21:21:01+00:00"
     },
     {
-      "title": ".gitignore Isn't the only way to ignore files in Git",
-      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-      "score": 515,
-      "source": "hn",
-      "date": "2026-06-18T10:29:20+00:00"
-    },
-    {
       "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
       "url": "https://ipvm.com/reports/police-chiefs-track",
       "score": 509,
@@ -152,9 +145,23 @@
       "score": 487,
       "source": "hn",
       "date": "2026-06-20T01:55:16+00:00"
+    },
+    {
+      "title": "GLM 5.2 vs. Opus",
+      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "score": 474,
+      "source": "hn",
+      "date": "2026-06-22T07:22:03+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Vulnerability reports are not special anymore",
+      "url": "https://words.filippo.io/vuln-reports/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-23T23:42:46+00:00"
+    },
     {
       "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
       "url": "https://github.com/shumaiOne/shumai",
