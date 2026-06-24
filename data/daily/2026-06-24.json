@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T18:37:20.836179+00:00",
+  "generated_at": "2026-06-24T19:33:59.183936+00:00",
   "total_articles": 60,
   "urgent_count": 4,
   "urgent_items": [
@@ -41,18 +41,10 @@
         {
           "title": "We’re making Bunny DNS free",
           "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-          "score": 692,
+          "score": 718,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T08:50:41+00:00"
-        },
-        {
-          "title": "Jerry's Map",
-          "url": "http://www.jerrysmap.com/the-map",
-          "score": 542,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-23T18:40:22+00:00"
         },
         {
           "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
@@ -63,6 +55,14 @@
           "date": "2026-06-24T12:31:43+00:00"
         },
         {
+          "title": "There are a few things that I look back on as my mistakes in the early days",
+          "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+          "score": 382,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-24T15:56:19+00:00"
+        },
+        {
           "title": "Vulnerability reports are not special anymore",
           "url": "https://words.filippo.io/vuln-reports/",
           "score": 355,
@@ -71,12 +71,12 @@
           "date": "2026-06-23T23:42:46+00:00"
         },
         {
-          "title": "There are a few things that I look back on as my mistakes in the early days",
-          "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-          "score": 341,
+          "title": "Extreme Heat conference cancelled due to extreme heat warning",
+          "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+          "score": 265,
           "source": "hn",
-          "severity": null,
-          "date": "2026-06-24T15:56:19+00:00"
+          "severity": "medium",
+          "date": "2026-06-23T23:26:43+00:00"
         }
       ]
     },
