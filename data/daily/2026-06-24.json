@@ -1,7 +1,7 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T10:31:44.862535+00:00",
-  "total_articles": 66,
+  "generated_at": "2026-06-24T11:56:01.183401+00:00",
+  "total_articles": 61,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 48,
       "top_items": [
         {
           "title": "F3",
@@ -35,7 +35,7 @@
         {
           "title": "FUTO Swipe – A new swipe typing model",
           "url": "https://swipe.futo.tech/",
-          "score": 552,
+          "score": 578,
           "source": "hn",
           "severity": null,
           "date": "2026-06-23T17:50:22+00:00"
@@ -51,25 +51,33 @@
         {
           "title": "Jerry's Map",
           "url": "http://www.jerrysmap.com/the-map",
-          "score": 477,
+          "score": 498,
           "source": "hn",
           "severity": null,
           "date": "2026-06-23T18:40:22+00:00"
         },
         {
-          "title": "Unlimited OCR: One-shot long-horizon parsing",
-          "url": "https://github.com/baidu/Unlimited-OCR",
-          "score": 447,
+          "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+          "url": "https://tikz.dev/editor/",
+          "score": 404,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-23T11:35:05+00:00"
+          "date": "2026-06-23T14:24:21+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 13,
       "top_items": [
+        {
+          "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
+          "url": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-24T20:51:08+09:00"
+        },
         {
           "title": "oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた",
           "url": "https://qiita.com/shirok/items/3b9ccefff059ff1ab40d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-24T13:19:01+09:00"
-        },
-        {
-          "title": "Unity AI × Claude Code でゲームを作ってみた",
-          "url": "https://qiita.com/TsuchiyaK/items/a3de1ac034bf94cf905b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-24T11:38:26+09:00"
         }
       ]
     }
