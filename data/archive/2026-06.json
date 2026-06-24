@@ -1,16 +1,16 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-24T15:51:19.058518+00:00",
+  "generated_at": "2026-06-24T16:45:50.463235+00:00",
   "total_articles": 455,
   "source_counts": {
-    "hn": 355,
-    "zennqiita": 95,
+    "hn": 359,
+    "zennqiita": 91,
     "project": 5
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 11,
     "high": 3,
-    "medium": 8
+    "medium": 7
   },
   "top_articles": [
     {
@@ -70,6 +70,13 @@
       "date": "2026-06-23T17:50:22+00:00"
     },
     {
+      "title": "We’re making Bunny DNS free",
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "score": 622,
+      "source": "hn",
+      "date": "2026-06-24T08:50:41+00:00"
+    },
+    {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
       "score": 622,
@@ -82,13 +89,6 @@
       "score": 593,
       "source": "hn",
       "date": "2026-06-23T16:53:32+00:00"
-    },
-    {
-      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
-      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 588,
-      "source": "hn",
-      "date": "2026-06-24T08:50:41+00:00"
     },
     {
       "title": "Never Give Them Your Face",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-24T14:50:22+00:00"
+    },
     {
       "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
       "url": "https://haystack.deepset.ai/",
