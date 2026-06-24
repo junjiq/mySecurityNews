@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-24T20:36:03.148524+00:00",
+  "updated_at": "2026-06-24T21:31:58.985892+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48665740",
+      "source": "hn",
+      "title": "A Tesla Crashed Through a Harris County Home. Is the Car to Blame?",
+      "url": "https://www.readponder.com/essay/a-tesla-crashed-through-a-harris-county-home-is-the-car-to-blame",
+      "score": 3,
+      "comments": 0,
+      "author": "wingdiction",
+      "tags": [],
+      "date": "2026-06-24T21:16:31+00:00"
+    },
     {
       "id": "hn-48665130",
       "source": "hn",
@@ -14,12 +25,23 @@
       "date": "2026-06-24T20:20:33+00:00"
     },
     {
+      "id": "hn-48664733",
+      "source": "hn",
+      "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
+      "url": "https://infosec.exchange/@mttaggart/116806641273303255",
+      "score": 47,
+      "comments": 13,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-06-24T19:40:11+00:00"
+    },
+    {
       "id": "hn-48664384",
       "source": "hn",
       "title": "Thomann takes legal action against Fender",
       "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
-      "score": 97,
-      "comments": 38,
+      "score": 135,
+      "comments": 80,
       "author": "Audiophilip",
       "tags": [],
       "date": "2026-06-24T19:08:22+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 272,
-      "comments": 209,
+      "score": 342,
+      "comments": 245,
       "author": "jamdesk",
       "tags": [],
       "date": "2026-06-24T17:47:00+00:00"
@@ -62,8 +84,8 @@
       "source": "hn",
       "title": "Computer use in Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 90,
-      "comments": 53,
+      "score": 107,
+      "comments": 62,
       "author": "swolpers",
       "tags": [],
       "date": "2026-06-24T17:21:34+00:00"
@@ -84,8 +106,8 @@
       "source": "hn",
       "title": "The Xteink X4 E-Ink Reader",
       "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-      "score": 58,
-      "comments": 34,
+      "score": 102,
+      "comments": 87,
       "author": "felixdoerp",
       "tags": [],
       "date": "2026-06-24T16:35:56+00:00"
@@ -107,8 +129,8 @@
       "source": "hn",
       "title": "I taught a bucket to speak Git",
       "url": "https://www.tigrisdata.com/blog/objgit/",
-      "score": 62,
-      "comments": 15,
+      "score": 67,
+      "comments": 16,
       "author": "xena",
       "tags": [],
       "date": "2026-06-24T16:04:26+00:00"
@@ -129,8 +151,8 @@
       "source": "hn",
       "title": "There are a few things that I look back on as my mistakes in the early days",
       "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-      "score": 407,
-      "comments": 205,
+      "score": 430,
+      "comments": 214,
       "author": "shadowtree",
       "tags": [],
       "date": "2026-06-24T15:56:19+00:00"
@@ -207,8 +229,8 @@
       "source": "hn",
       "title": "RubyLLM: A Ruby framework for all major AI providers",
       "url": "https://rubyllm.com/",
-      "score": 282,
-      "comments": 42,
+      "score": 298,
+      "comments": 46,
       "author": "doener",
       "tags": [],
       "date": "2026-06-24T14:41:41+00:00"
@@ -218,8 +240,8 @@
       "source": "hn",
       "title": "Running Windows Games on a Hobby OS with Wine",
       "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-      "score": 76,
-      "comments": 22,
+      "score": 86,
+      "comments": 28,
       "author": "avaliosdev",
       "tags": [],
       "date": "2026-06-24T14:38:30+00:00"
@@ -229,8 +251,8 @@
       "source": "hn",
       "title": "PR spam today looks like email spam in the early 2000s",
       "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 106,
-      "comments": 79,
+      "score": 128,
+      "comments": 87,
       "author": "dakshgupta",
       "tags": [],
       "date": "2026-06-24T14:32:12+00:00"
@@ -240,19 +262,41 @@
       "source": "hn",
       "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
       "url": "https://github.com/nubjs/nub",
-      "score": 161,
-      "comments": 40,
+      "score": 163,
+      "comments": 42,
       "author": "colinmcd",
       "tags": [],
       "date": "2026-06-24T14:14:18+00:00"
+    },
+    {
+      "id": "hn-48660178",
+      "source": "hn",
+      "title": "45°C cooling design cuts data center water use to near zero",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "score": 67,
+      "comments": 49,
+      "author": "nitin_flanker",
+      "tags": [],
+      "date": "2026-06-24T14:10:11+00:00"
+    },
+    {
+      "id": "hn-48659798",
+      "source": "hn",
+      "title": "Qualcomm to Acquire Modular",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "score": 36,
+      "comments": 20,
+      "author": "timmyd",
+      "tags": [],
+      "date": "2026-06-24T13:49:16+00:00"
     },
     {
       "id": "hn-48659483",
       "source": "hn",
       "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
       "url": "https://lookaway.com",
-      "score": 12,
-      "comments": 0,
+      "score": 26,
+      "comments": 3,
       "author": "_kush",
       "tags": [],
       "date": "2026-06-24T13:29:18+00:00"
@@ -284,8 +328,8 @@
       "source": "hn",
       "title": "Stealing Is a Skill",
       "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-      "score": 167,
-      "comments": 107,
+      "score": 178,
+      "comments": 114,
       "author": "bewal416",
       "tags": [],
       "date": "2026-06-24T13:08:52+00:00"
@@ -422,8 +466,8 @@
       "source": "hn",
       "title": "We’re making Bunny DNS free",
       "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 750,
-      "comments": 240,
+      "score": 778,
+      "comments": 248,
       "author": "dabinat",
       "tags": [],
       "date": "2026-06-24T08:50:41+00:00"
@@ -968,8 +1012,8 @@
       "source": "hn",
       "title": "Krea 2: SOTA open-weights 12B image model",
       "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "score": 263,
-      "comments": 34,
+      "score": 286,
+      "comments": 33,
       "author": "mattnewton",
       "tags": [],
       "date": "2026-06-23T15:31:21+00:00"
@@ -1485,6 +1529,17 @@
         "Qiita"
       ],
       "date": "2026-06-23T12:45:39+09:00"
+    },
+    {
+      "id": "hn-48639840",
+      "source": "hn",
+      "title": "GLM-5.2 is a step change for open agents",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "score": 32,
+      "comments": 6,
+      "author": "vantareed",
+      "tags": [],
+      "date": "2026-06-23T03:23:28+00:00"
     },
     {
       "id": "hn-48639434",
@@ -2992,6 +3047,17 @@
       "date": "2026-06-21T14:18:10+00:00"
     },
     {
+      "id": "hn-48619159",
+      "source": "hn",
+      "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+      "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
+      "score": 19,
+      "comments": 3,
+      "author": "dgellow",
+      "tags": [],
+      "date": "2026-06-21T14:12:48+00:00"
+    },
+    {
       "id": "hn-48619140",
       "source": "hn",
       "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
@@ -3469,6 +3535,17 @@
       "date": "2026-06-21T00:00:25+00:00"
     },
     {
+      "id": "hn-48614309",
+      "source": "hn",
+      "title": "Pondering routing more of my traffic via nodes outside the UK",
+      "url": "https://neilzone.co.uk/2026/06/pondering-routing-more-of-my-traffic-via-nodes-outside-the-uk-because-of-the-direction-of-uk-online-safety-policy/",
+      "score": 27,
+      "comments": 19,
+      "author": "ColinWright",
+      "tags": [],
+      "date": "2026-06-21T00:00:18+00:00"
+    },
+    {
       "id": "hn-48614097",
       "source": "hn",
       "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times",
@@ -3722,6 +3799,17 @@
       "author": "saisrirampur",
       "tags": [],
       "date": "2026-06-20T19:01:10+00:00"
+    },
+    {
+      "id": "hn-48611940",
+      "source": "hn",
+      "title": "How the Fifth Lateran Council unlocked financial theory",
+      "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
+      "score": 25,
+      "comments": 0,
+      "author": "momentmaker",
+      "tags": [],
+      "date": "2026-06-20T19:01:05+00:00"
     },
     {
       "id": "hn-48611896",
@@ -4397,8 +4485,8 @@
       "source": "hn",
       "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
       "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-      "score": 209,
-      "comments": 46,
+      "score": 224,
+      "comments": 49,
       "author": "signa11",
       "tags": [],
       "date": "2026-06-20T03:55:19+00:00"
@@ -4665,8 +4753,8 @@
       "source": "hn",
       "title": "I can haz smoller NixOS ISOs?",
       "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-      "score": 27,
-      "comments": 7,
+      "score": 43,
+      "comments": 14,
       "author": "logickkk1",
       "tags": [],
       "date": "2026-06-19T21:55:24+00:00"
@@ -5080,102 +5168,12 @@
       "date": "2026-06-19T12:45:11+00:00"
     },
     {
-      "id": "hn-48597910",
-      "source": "hn",
-      "title": "NASA picks Eric Schmidt's rocket company for Mars mission",
-      "url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
-      "score": 14,
-      "comments": 18,
-      "author": "isaacfrond",
-      "tags": [],
-      "date": "2026-06-19T12:41:15+00:00"
-    },
-    {
-      "id": "hn-48597668",
-      "source": "hn",
-      "title": "From Australia to Europe, countries move to curb children's social media access",
-      "url": "https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/",
-      "score": 15,
-      "comments": 10,
-      "author": "1vuio0pswjnm7",
-      "tags": [],
-      "date": "2026-06-19T12:10:54+00:00"
-    },
-    {
-      "id": "hn-48597592",
-      "source": "hn",
-      "title": "Cocktail Optimization, an Integer Programming Problem",
-      "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
-      "score": 25,
-      "comments": 3,
-      "author": "ftgregg",
-      "tags": [],
-      "date": "2026-06-19T11:59:56+00:00"
-    },
-    {
-      "id": "qiita-15a4cb0816",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIが先か、人間が先か — AI時代のJr.エンジニアの成長とは",
-      "url": "https://qiita.com/Yamada040/items/205358b81979266e83d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Yamada040",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-19T20:24:24+09:00"
-    },
-    {
-      "id": "hn-48597221",
-      "source": "hn",
-      "title": "My Mathematical Regression",
-      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-      "score": 333,
-      "comments": 129,
-      "author": "aleda145",
-      "tags": [],
-      "date": "2026-06-19T11:06:04+00:00"
-    },
-    {
-      "id": "hn-48597201",
-      "source": "hn",
-      "title": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
-      "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
-      "score": 86,
-      "comments": 25,
-      "author": "its_ajseven",
-      "tags": [],
-      "date": "2026-06-19T11:03:52+00:00"
-    },
-    {
-      "id": "hn-48596911",
-      "source": "hn",
-      "title": "The room the economy can't see",
-      "url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
-      "score": 114,
-      "comments": 96,
-      "author": "Wilsoniumite",
-      "tags": [],
-      "date": "2026-06-19T10:16:20+00:00"
-    },
-    {
-      "id": "hn-48596910",
-      "source": "hn",
-      "title": "Norway greenlights first full-scale ship tunnel",
-      "url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
-      "score": 105,
-      "comments": 58,
-      "author": "geox",
-      "tags": [],
-      "date": "2026-06-19T10:16:10+00:00"
-    },
-    {
       "id": "hn-48596834",
       "source": "hn",
       "title": "Pull request limits are cutting down the noise",
       "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-      "score": 47,
-      "comments": 35,
+      "score": 55,
+      "comments": 38,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-19T10:03:10+00:00"
