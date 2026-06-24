@@ -1,8 +1,8 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T23:28:48.517307+00:00",
-  "total_articles": 65,
-  "urgent_count": 5,
+  "generated_at": "2026-06-24T23:54:12.602505+00:00",
+  "total_articles": 63,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
@@ -31,24 +31,17 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-24T16:33:48+00:00"
-    },
-    {
-      "title": "Vulnerability reports are not special anymore",
-      "url": "https://words.filippo.io/vuln-reports/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-23T23:42:46+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 50,
       "top_items": [
         {
           "title": "We’re making Bunny DNS free",
           "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-          "score": 825,
+          "score": 835,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T08:50:41+00:00"
@@ -56,10 +49,18 @@
         {
           "title": "There are a few things that I look back on as my mistakes in the early days",
           "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-          "score": 464,
+          "score": 468,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T15:56:19+00:00"
+        },
+        {
+          "title": "OpenAI unveils its first custom chip, built by Broadcom",
+          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+          "score": 460,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-24T17:47:00+00:00"
         },
         {
           "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
@@ -70,20 +71,12 @@
           "date": "2026-06-24T12:31:43+00:00"
         },
         {
-          "title": "OpenAI unveils its first custom chip, built by Broadcom",
-          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-          "score": 449,
+          "title": "RubyLLM: A Ruby framework for all major AI providers",
+          "url": "https://rubyllm.com/",
+          "score": 332,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-24T17:47:00+00:00"
-        },
-        {
-          "title": "Vulnerability reports are not special anymore",
-          "url": "https://words.filippo.io/vuln-reports/",
-          "score": 355,
-          "source": "hn",
-          "severity": "high",
-          "date": "2026-06-23T23:42:46+00:00"
+          "date": "2026-06-24T14:41:41+00:00"
         }
       ]
     },
