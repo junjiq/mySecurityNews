@@ -1,7 +1,7 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T17:38:47.463124+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-06-24T18:37:20.836179+00:00",
+  "total_articles": 60,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,23 +36,15 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 50,
       "top_items": [
         {
           "title": "We’re making Bunny DNS free",
           "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-          "score": 662,
+          "score": 692,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T08:50:41+00:00"
-        },
-        {
-          "title": "FUTO Swipe – A new swipe typing model",
-          "url": "https://swipe.futo.tech/",
-          "score": 629,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-23T17:50:22+00:00"
         },
         {
           "title": "Jerry's Map",
@@ -63,20 +55,28 @@
           "date": "2026-06-23T18:40:22+00:00"
         },
         {
-          "title": "Fired by Google for creating the Google workspace CLI",
-          "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-          "score": 516,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-23T18:13:40+00:00"
-        },
-        {
           "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
           "url": "https://paolino.me/founding-a-company-in-germany/",
           "score": 451,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T12:31:43+00:00"
+        },
+        {
+          "title": "Vulnerability reports are not special anymore",
+          "url": "https://words.filippo.io/vuln-reports/",
+          "score": 355,
+          "source": "hn",
+          "severity": "high",
+          "date": "2026-06-23T23:42:46+00:00"
+        },
+        {
+          "title": "There are a few things that I look back on as my mistakes in the early days",
+          "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+          "score": 341,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-24T15:56:19+00:00"
         }
       ]
     },
