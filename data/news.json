@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-06-24T11:56:01.117983+00:00",
+  "updated_at": "2026-06-24T12:47:55.405363+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48658647",
+      "source": "hn",
+      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+      "score": 6,
+      "comments": 1,
+      "author": "1vuio0pswjnm7",
+      "tags": [],
+      "date": "2026-06-24T12:23:59+00:00"
+    },
+    {
+      "id": "hn-48658361",
+      "source": "hn",
+      "title": "Minimus container images are now free",
+      "url": "https://images.minimus.io/",
+      "score": 17,
+      "comments": 7,
+      "author": "dimastopel",
+      "tags": [],
+      "date": "2026-06-24T11:52:12+00:00"
+    },
     {
       "id": "qiita-d7c92784f2",
       "source": "zennqiita",
@@ -20,11 +42,34 @@
       "source": "hn",
       "title": "A deadly fungus that can infect cats and people is spreading",
       "url": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
-      "score": 14,
-      "comments": 1,
+      "score": 52,
+      "comments": 34,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-06-24T11:31:20+00:00"
+    },
+    {
+      "id": "hn-48658095",
+      "source": "hn",
+      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "url": "https://haystack.deepset.ai/",
+      "score": 8,
+      "comments": 4,
+      "author": "doener",
+      "tags": [],
+      "date": "2026-06-24T11:21:32+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48657940",
+      "source": "hn",
+      "title": "Too many R packages: CRAN is inundated with submissions",
+      "url": "https://rworks.dev/posts/too-many-R-packages/",
+      "score": 18,
+      "comments": 5,
+      "author": "ionychal",
+      "tags": [],
+      "date": "2026-06-24T10:59:59+00:00"
     },
     {
       "id": "hn-48657675",
@@ -56,8 +101,8 @@
       "source": "hn",
       "title": "We're making Bunny DNS free: because a faster internet won't build itself",
       "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 252,
-      "comments": 75,
+      "score": 345,
+      "comments": 111,
       "author": "dabinat",
       "tags": [],
       "date": "2026-06-24T08:50:41+00:00"
@@ -128,8 +173,8 @@
       "source": "hn",
       "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
       "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
-      "score": 158,
-      "comments": 71,
+      "score": 173,
+      "comments": 79,
       "author": "byb",
       "tags": [],
       "date": "2026-06-24T03:17:47+00:00"
@@ -139,8 +184,8 @@
       "source": "hn",
       "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
       "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
-      "score": 121,
-      "comments": 50,
+      "score": 135,
+      "comments": 54,
       "author": "retroplasma",
       "tags": [],
       "date": "2026-06-24T02:38:47+00:00"
@@ -174,8 +219,8 @@
       "source": "hn",
       "title": "Qwen-AgentWorld: Language World Models for General Agents",
       "url": "https://arxiv.org/abs/2606.24597",
-      "score": 128,
-      "comments": 41,
+      "score": 141,
+      "comments": 42,
       "author": "ilreb",
       "tags": [],
       "date": "2026-06-24T02:21:47+00:00"
@@ -259,8 +304,8 @@
       "source": "hn",
       "title": "Vulnerability reports are not special anymore",
       "url": "https://words.filippo.io/vuln-reports/",
-      "score": 305,
-      "comments": 169,
+      "score": 320,
+      "comments": 175,
       "author": "goranmoomin",
       "tags": [],
       "date": "2026-06-23T23:42:46+00:00",
@@ -383,7 +428,7 @@
       "source": "hn",
       "title": "Jerry's Map",
       "url": "http://www.jerrysmap.com/the-map",
-      "score": 498,
+      "score": 515,
       "comments": 55,
       "author": "turtleyacht",
       "tags": [],
@@ -438,8 +483,8 @@
       "source": "hn",
       "title": "Swift Package Index joins Apple",
       "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 214,
-      "comments": 71,
+      "score": 216,
+      "comments": 72,
       "author": "JDevlieghere",
       "tags": [],
       "date": "2026-06-23T18:00:58+00:00"
@@ -449,8 +494,8 @@
       "source": "hn",
       "title": "FUTO Swipe – A new swipe typing model",
       "url": "https://swipe.futo.tech/",
-      "score": 578,
-      "comments": 202,
+      "score": 588,
+      "comments": 214,
       "author": "futohq",
       "tags": [],
       "date": "2026-06-23T17:50:22+00:00"
@@ -544,6 +589,17 @@
       "author": "kevincox",
       "tags": [],
       "date": "2026-06-23T16:21:49+00:00"
+    },
+    {
+      "id": "hn-48646659",
+      "source": "hn",
+      "title": "Krea 2 Technical Report",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "score": 29,
+      "comments": 3,
+      "author": "mattnewton",
+      "tags": [],
+      "date": "2026-06-23T15:31:21+00:00"
     },
     {
       "id": "hn-48646511",
@@ -1217,8 +1273,8 @@
       "source": "hn",
       "title": "Why eval startups fail (2025)",
       "url": "https://thomasliao.com/eval-startups",
-      "score": 33,
-      "comments": 33,
+      "score": 41,
+      "comments": 37,
       "author": "jxmorris12",
       "tags": [],
       "date": "2026-06-22T23:20:53+00:00"
@@ -1263,7 +1319,7 @@
       "source": "hn",
       "title": "Vector Graphics in Lil",
       "url": "http://beyondloom.com/blog/vectorgraphics.html",
-      "score": 22,
+      "score": 28,
       "comments": 1,
       "author": "RodgerTheGreat",
       "tags": [],
@@ -1461,8 +1517,8 @@
       "source": "hn",
       "title": "Rhombus Language 1.0",
       "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-      "score": 186,
-      "comments": 57,
+      "score": 192,
+      "comments": 65,
       "author": "Decabytes",
       "tags": [],
       "date": "2026-06-22T17:50:40+00:00"
@@ -1716,8 +1772,8 @@
       "source": "hn",
       "title": "Statistics that live in your SQL",
       "url": "https://kolistat.com/blog/the-stats-duck-v0-6-0/",
-      "score": 30,
-      "comments": 2,
+      "score": 56,
+      "comments": 5,
       "author": "caerbannogwhite",
       "tags": [],
       "date": "2026-06-22T13:25:15+00:00"
@@ -2034,8 +2090,8 @@
       "source": "hn",
       "title": "Remaking BBC test cards to teach you video processing",
       "url": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
-      "score": 48,
-      "comments": 2,
+      "score": 53,
+      "comments": 3,
       "author": "unleaded",
       "tags": [],
       "date": "2026-06-22T01:20:26+00:00"
@@ -2462,6 +2518,17 @@
       "date": "2026-06-22T00:03:45+09:00"
     },
     {
+      "id": "hn-48619434",
+      "source": "hn",
+      "title": "Cointegration and Long-Horizon Forecasting (2025)",
+      "url": "https://www.philadelphiafed.org/the-economy/cointegration-and-long-horizon-forecasting",
+      "score": 3,
+      "comments": 0,
+      "author": "bryanrasmussen",
+      "tags": [],
+      "date": "2026-06-21T14:48:10+00:00"
+    },
+    {
       "id": "hn-48619394",
       "source": "hn",
       "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
@@ -2571,8 +2638,8 @@
       "source": "hn",
       "title": "Printing Gaussian Splats",
       "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-      "score": 326,
-      "comments": 37,
+      "score": 334,
+      "comments": 39,
       "author": "ilnmtlbnm",
       "tags": [],
       "date": "2026-06-21T12:49:02+00:00"
@@ -3075,8 +3142,8 @@
       "source": "hn",
       "title": "François Englert (1932 – 2026)",
       "url": "https://home.cern/francois-englert-1932-2026/",
-      "score": 7,
-      "comments": 1,
+      "score": 16,
+      "comments": 2,
       "author": "toomuchtodo",
       "tags": [],
       "date": "2026-06-20T21:51:21+00:00"
@@ -5131,73 +5198,6 @@
       "tags": [],
       "date": "2026-06-18T18:31:23+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "hn-48589485",
-      "source": "hn",
-      "title": "The AI Hate Progression",
-      "url": "https://www.xodium.net/2026/06/the-ai-hate-progression.html",
-      "score": 63,
-      "comments": 38,
-      "author": "gpi",
-      "tags": [],
-      "date": "2026-06-18T18:30:33+00:00"
-    },
-    {
-      "id": "hn-48588755",
-      "source": "hn",
-      "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
-      "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
-      "score": 94,
-      "comments": 95,
-      "author": "lackoftactics",
-      "tags": [],
-      "date": "2026-06-18T17:37:00+00:00"
-    },
-    {
-      "id": "hn-48588413",
-      "source": "hn",
-      "title": "Migrating from GNU Stow to Chezmoi",
-      "url": "https://rednafi.com/misc/chezmoi/",
-      "score": 99,
-      "comments": 101,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-06-18T17:09:53+00:00"
-    },
-    {
-      "id": "hn-48588247",
-      "source": "hn",
-      "title": "Is it time for a new Embedded Linux build system?",
-      "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
-      "score": 65,
-      "comments": 46,
-      "author": "cbrake",
-      "tags": [],
-      "date": "2026-06-18T16:57:05+00:00"
-    },
-    {
-      "id": "hn-48588216",
-      "source": "hn",
-      "title": "The founder of Craigslist has given away half a billion dollars",
-      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-      "score": 296,
-      "comments": 213,
-      "author": "Tomte",
-      "tags": [],
-      "date": "2026-06-18T16:55:25+00:00"
-    },
-    {
-      "id": "hn-48585852",
-      "source": "hn",
-      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-      "url": "https://ps.tc/pages/blog-usbliter8.html",
-      "score": 152,
-      "comments": 31,
-      "author": "givinguflac",
-      "tags": [],
-      "date": "2026-06-18T14:23:38+00:00",
-      "severity": "high"
     },
     {
       "id": "ctf-3911979",
