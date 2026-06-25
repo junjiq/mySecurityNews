@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T20:15:23.588442+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-06-25T21:06:14.198288+00:00",
+  "total_articles": 59,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 43,
       "top_items": [
+        {
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "url": "https://scrollprize.org/firstscroll",
+          "score": 626,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-25T15:48:07+00:00"
+        },
         {
           "title": "Half-Life 2 in a Browser",
           "url": "https://hl2.slqnt.dev/",
-          "score": 600,
+          "score": 613,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T06:00:04+00:00"
@@ -49,23 +57,15 @@
         {
           "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
           "url": "https://hackernewstrends.com",
-          "score": 534,
+          "score": 557,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T14:08:55+00:00"
         },
         {
-          "title": "An entire Herculaneum scroll has been read for the first time",
-          "url": "https://scrollprize.org/firstscroll",
-          "score": 511,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-25T15:48:07+00:00"
-        },
-        {
           "title": "Apple raises prices of MacBooks, iPads",
           "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-          "score": 451,
+          "score": 492,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T13:02:56+00:00"
@@ -128,7 +128,7 @@
     },
     {
       "category": "注目リリース",
-      "count": 3,
+      "count": 2,
       "top_items": [
         {
           "title": "HackTheBox: Build Wrieup",
@@ -145,14 +145,6 @@
           "source": "project",
           "severity": null,
           "date": "2026-06-25T04:07:39Z"
-        },
-        {
-          "title": "Deep Dive: Understanding Postman on HackTheBox and…",
-          "url": "https://dev.to/norviktech/deep-dive-understanding-postman-on-hackthebox-and-38ho",
-          "score": 0,
-          "source": "project",
-          "severity": null,
-          "date": "2026-06-24T21:06:08Z"
         }
       ]
     }
