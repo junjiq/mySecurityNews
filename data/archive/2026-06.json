@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-25T07:46:27.314658+00:00",
+  "generated_at": "2026-06-25T09:07:59.041211+00:00",
   "total_articles": 455,
   "source_counts": {
-    "hn": 366,
-    "zennqiita": 84,
+    "hn": 356,
+    "zennqiita": 94,
     "project": 5
   },
   "severity_counts": {
-    "high": 4,
-    "critical": 11,
+    "high": 6,
+    "critical": 10,
     "medium": 5
   },
   "top_articles": [
@@ -58,7 +58,7 @@
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 663,
+      "score": 694,
       "source": "hn",
       "date": "2026-06-24T17:47:00+00:00"
     },
@@ -156,6 +156,20 @@
   ],
   "security_highlights": [
     {
+      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-25T08:07:54+00:00"
+    },
+    {
+      "title": "IDOR — ソフトウェアアーキテクチャにおける「無邪気」だが致命的な脆弱性？",
+      "url": "https://qiita.com/luan_nguyen/items/d21c24d910853b96e542?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-06-25T15:10:26+09:00"
+    },
+    {
       "title": "Exploiting vulnerabilities in Johnson and Johnson web apps",
       "url": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
       "severity": "high",
@@ -252,13 +266,6 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-06-20T11:19:53+09:00"
-    },
-    {
-      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
-      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-19T20:19:57+00:00"
     }
   ]
 }

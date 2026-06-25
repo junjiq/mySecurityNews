@@ -1,18 +1,7 @@
 {
-  "updated_at": "2026-06-25T07:46:27.202925+00:00",
+  "updated_at": "2026-06-25T09:07:58.929837+00:00",
   "count": 500,
   "items": [
-    {
-      "id": "hn-48669932",
-      "source": "hn",
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "url": "https://utaw.tech/news/wikipedia-recognition",
-      "score": 7,
-      "comments": 2,
-      "author": "chobeat",
-      "tags": [],
-      "date": "2026-06-25T07:02:37+00:00"
-    },
     {
       "id": "qiita-c1efb36102",
       "source": "zennqiita",
@@ -24,15 +13,52 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-06-25T15:22:28+09:00"
+      "date": "2026-06-25T17:14:04+09:00"
+    },
+    {
+      "id": "hn-48670411",
+      "source": "hn",
+      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+      "score": 3,
+      "comments": 0,
+      "author": "ragebol",
+      "tags": [],
+      "date": "2026-06-25T08:07:54+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48669932",
+      "source": "hn",
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "score": 55,
+      "comments": 37,
+      "author": "chobeat",
+      "tags": [],
+      "date": "2026-06-25T07:02:37+00:00"
+    },
+    {
+      "id": "qiita-7a94323fcf",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "IDOR — ソフトウェアアーキテクチャにおける「無邪気」だが致命的な脆弱性？",
+      "url": "https://qiita.com/luan_nguyen/items/d21c24d910853b96e542?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "luan_nguyen",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T15:10:26+09:00",
+      "severity": "high"
     },
     {
       "id": "hn-48669534",
       "source": "hn",
       "title": "Half-Life 2 in a Browser",
       "url": "https://hl2.slqnt.dev/",
-      "score": 125,
-      "comments": 38,
+      "score": 192,
+      "comments": 63,
       "author": "panza",
       "tags": [],
       "date": "2026-06-25T06:00:04+00:00"
@@ -49,12 +75,38 @@
       "date": "2026-06-25T03:54:50+00:00"
     },
     {
+      "id": "qiita-e379e3c49b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "[IBM Bob] Bob 2.0提供開始 - 最新版へのアップデート方法",
+      "url": "https://qiita.com/ayatokura/items/39bae5c0b0f157062115?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ayatokura",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T12:11:44+09:00"
+    },
+    {
+      "id": "qiita-16841ea58f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "初めて「APIを叩く」｜Postmanで学ぶAPIの基本",
+      "url": "https://qiita.com/sewiihidekikudo/items/047cde263bc5e833fb66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sewiihidekikudo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T11:56:40+09:00"
+    },
+    {
       "id": "hn-48668255",
       "source": "hn",
       "title": "The Unbearable Cheapness of Open Weight Models",
       "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-      "score": 36,
-      "comments": 7,
+      "score": 61,
+      "comments": 44,
       "author": "ddxv",
       "tags": [],
       "date": "2026-06-25T02:51:29+00:00"
@@ -64,8 +116,8 @@
       "source": "hn",
       "title": "Medical students are using popular research tool to pump out misleading studies",
       "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-      "score": 35,
-      "comments": 13,
+      "score": 50,
+      "comments": 24,
       "author": "rndsignals",
       "tags": [],
       "date": "2026-06-25T02:30:18+00:00"
@@ -75,8 +127,8 @@
       "source": "hn",
       "title": "Cloudflare launched self-managed OAuth for all",
       "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 123,
-      "comments": 44,
+      "score": 153,
+      "comments": 64,
       "author": "terryds",
       "tags": [],
       "date": "2026-06-25T02:18:10+00:00"
@@ -130,11 +182,24 @@
       "source": "hn",
       "title": "Mixing Visual and Textual Code",
       "url": "https://arxiv.org/abs/2603.15855",
-      "score": 44,
-      "comments": 12,
+      "score": 49,
+      "comments": 18,
       "author": "doppioandante",
       "tags": [],
       "date": "2026-06-25T01:11:10+00:00"
+    },
+    {
+      "id": "qiita-2cb1ce1c39",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIの嘘を見抜く？Gemini の検索＆画像グラウンディングを実際に試してわかったこと",
+      "url": "https://qiita.com/ta-ito0611/items/646d3d1efb535737416d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ta-ito0611",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T10:08:58+09:00"
     },
     {
       "id": "hn-48667409",
@@ -148,23 +213,62 @@
       "date": "2026-06-25T00:52:40+00:00"
     },
     {
+      "id": "qiita-748c8a1b24",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "インフラしかわからない民、CURLおじさんになることを決意する。CURLでNerdGraph APIを叩いてみた!やってみて!!",
+      "url": "https://qiita.com/khara-nrkk/items/052b8da64c1b95d6613a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "khara-nrkk",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T09:48:25+09:00"
+    },
+    {
       "id": "hn-48667336",
       "source": "hn",
       "title": "LuaJIT 3.0 proposed syntax extensions",
       "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "score": 136,
-      "comments": 83,
+      "score": 152,
+      "comments": 87,
       "author": "phreddypharkus",
       "tags": [],
       "date": "2026-06-25T00:41:43+00:00"
+    },
+    {
+      "id": "qiita-886e9b45b2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Autonomous AI Databae：OCI Object Storageのバケットを作成するPL/SQLプロシージャを作ってみた",
+      "url": "https://qiita.com/500InternalServerError/items/4722e7516b176db5fd10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "500InternalServerError",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T09:37:36+09:00"
+    },
+    {
+      "id": "qiita-eba45eee5d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "勉強が続かないのは、あなたの意志が弱いからじゃない。",
+      "url": "https://qiita.com/hitomin_poke/items/7a69883e9e70fc5ad853?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hitomin_poke",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-25T09:00:18+09:00"
     },
     {
       "id": "hn-48666927",
       "source": "hn",
       "title": "Blogging can just be stating the obvious",
       "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 194,
-      "comments": 67,
+      "score": 222,
+      "comments": 74,
       "author": "Curiositry",
       "tags": [],
       "date": "2026-06-24T23:46:37+00:00"
@@ -218,8 +322,8 @@
       "source": "hn",
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 341,
-      "comments": 580,
+      "score": 399,
+      "comments": 684,
       "author": "htrp",
       "tags": [],
       "date": "2026-06-24T19:48:01+00:00"
@@ -273,8 +377,8 @@
       "source": "hn",
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 663,
-      "comments": 373,
+      "score": 694,
+      "comments": 386,
       "author": "jamdesk",
       "tags": [],
       "date": "2026-06-24T17:47:00+00:00"
@@ -284,8 +388,8 @@
       "source": "hn",
       "title": "Computer use in Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 207,
-      "comments": 132,
+      "score": 215,
+      "comments": 136,
       "author": "swolpers",
       "tags": [],
       "date": "2026-06-24T17:21:34+00:00"
@@ -306,8 +410,8 @@
       "source": "hn",
       "title": "The Xteink X4 E-Ink Reader",
       "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-      "score": 225,
-      "comments": 127,
+      "score": 242,
+      "comments": 139,
       "author": "felixdoerp",
       "tags": [],
       "date": "2026-06-24T16:35:56+00:00"
@@ -429,8 +533,8 @@
       "source": "hn",
       "title": "RubyLLM: A Ruby framework for all major AI providers",
       "url": "https://rubyllm.com/",
-      "score": 378,
-      "comments": 62,
+      "score": 386,
+      "comments": 68,
       "author": "doener",
       "tags": [],
       "date": "2026-06-24T14:41:41+00:00"
@@ -451,8 +555,8 @@
       "source": "hn",
       "title": "PR spam today looks like email spam in the early 2000s",
       "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 212,
-      "comments": 123,
+      "score": 219,
+      "comments": 125,
       "author": "dakshgupta",
       "tags": [],
       "date": "2026-06-24T14:32:12+00:00"
@@ -473,8 +577,8 @@
       "source": "hn",
       "title": "45°C cooling design cuts data center water use to near zero",
       "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "score": 303,
-      "comments": 198,
+      "score": 326,
+      "comments": 217,
       "author": "nitin_flanker",
       "tags": [],
       "date": "2026-06-24T14:10:11+00:00"
@@ -484,8 +588,8 @@
       "source": "hn",
       "title": "Qualcomm to Acquire Modular",
       "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "score": 190,
-      "comments": 60,
+      "score": 196,
+      "comments": 63,
       "author": "timmyd",
       "tags": [],
       "date": "2026-06-24T13:49:16+00:00"
@@ -555,6 +659,19 @@
       "author": "gulmothrowaway",
       "tags": [],
       "date": "2026-06-24T12:52:06+00:00"
+    },
+    {
+      "id": "qiita-454c6c8a3c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Autonomous AI Database：PL/SQLでDelta Sharing Protocolを用いたデータ共有を設定する（データ提供編）",
+      "url": "https://qiita.com/500InternalServerError/items/65eb9e8eb334a636b3a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "500InternalServerError",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-24T21:38:21+09:00"
     },
     {
       "id": "hn-48658718",
@@ -852,6 +969,19 @@
         "Qiita"
       ],
       "date": "2026-06-24T10:04:48+09:00"
+    },
+    {
+      "id": "qiita-18c4c218be",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "BigQueryでグラフ分析ができる！新しい「Graph」機能をSNSデータの例で試してみた",
+      "url": "https://qiita.com/ta-ito0611/items/432725de703dc4b644aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ta-ito0611",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-24T09:40:43+09:00"
     },
     {
       "id": "qiita-916794ec11",
@@ -1239,6 +1369,17 @@
       "date": "2026-06-23T15:11:17+00:00"
     },
     {
+      "id": "hn-48646239",
+      "source": "hn",
+      "title": "Show HN: Nimic – Pure Python as a systems language with AOT compilation",
+      "url": "https://github.com/dima-quant/nimic",
+      "score": 10,
+      "comments": 4,
+      "author": "dima-quant",
+      "tags": [],
+      "date": "2026-06-23T15:09:15+00:00"
+    },
+    {
       "id": "hn-48646209",
       "source": "hn",
       "title": "Show HN: Treedocs: Documentation that automatically checks for staleness",
@@ -1278,8 +1419,8 @@
       "source": "hn",
       "title": "Markdy: Like Mermaid Diagrams, but for Motion",
       "url": "https://markdy.com",
-      "score": 37,
-      "comments": 2,
+      "score": 56,
+      "comments": 11,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-06-23T15:00:02+00:00"
@@ -1766,8 +1907,8 @@
       "source": "hn",
       "title": "GLM-5.2 is a step change for open agents",
       "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "score": 208,
-      "comments": 113,
+      "score": 228,
+      "comments": 128,
       "author": "vantareed",
       "tags": [],
       "date": "2026-06-23T03:23:28+00:00"
@@ -1871,8 +2012,8 @@
       "source": "hn",
       "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
       "url": "https://tedium.co/2026/06/22/matts-script-archive-retrospective/",
-      "score": 40,
-      "comments": 11,
+      "score": 46,
+      "comments": 12,
       "author": "1317",
       "tags": [],
       "date": "2026-06-23T01:30:59+00:00"
@@ -1887,6 +2028,17 @@
       "author": "j03b",
       "tags": [],
       "date": "2026-06-23T01:15:05+00:00"
+    },
+    {
+      "id": "hn-48638820",
+      "source": "hn",
+      "title": "Shall We Play a Coordination Game?",
+      "url": "https://kellyshortridge.com/blog/posts/shall-we-play-a-coordination-game/",
+      "score": 4,
+      "comments": 0,
+      "author": "rzk",
+      "tags": [],
+      "date": "2026-06-23T01:05:50+00:00"
     },
     {
       "id": "hn-48638660",
@@ -1911,6 +2063,19 @@
         "Qiita"
       ],
       "date": "2026-06-23T09:35:23+09:00"
+    },
+    {
+      "id": "qiita-480c67ba9e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "文章も画像も同じ\"ものさし\"で！Gemini Embedding 2 のマルチモーダル検索を試してみた",
+      "url": "https://qiita.com/ta-ito0611/items/f83e3c204cac800cac9a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ta-ito0611",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-23T09:30:29+09:00"
     },
     {
       "id": "qiita-4af6654d2b",
@@ -1991,8 +2156,8 @@
       "source": "hn",
       "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
       "url": "https://github.com/BohemiaInteractive/CWR",
-      "score": 21,
-      "comments": 1,
+      "score": 55,
+      "comments": 6,
       "author": "dewey",
       "tags": [],
       "date": "2026-06-22T21:52:54+00:00",
@@ -2366,8 +2531,8 @@
       "source": "hn",
       "title": "Dostoyevsky isn't difficult",
       "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "score": 136,
-      "comments": 118,
+      "score": 148,
+      "comments": 149,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-06-22T15:15:38+00:00"
@@ -5023,150 +5188,6 @@
       "author": "hhs",
       "tags": [],
       "date": "2026-06-19T22:37:30+00:00"
-    },
-    {
-      "id": "hn-48603761",
-      "source": "hn",
-      "title": "The UK's New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
-      "url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents",
-      "score": 38,
-      "comments": 37,
-      "author": "Brajeshwar",
-      "tags": [],
-      "date": "2026-06-19T21:58:22+00:00"
-    },
-    {
-      "id": "hn-48603726",
-      "source": "hn",
-      "title": "I can haz smoller NixOS ISOs?",
-      "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-      "score": 79,
-      "comments": 25,
-      "author": "logickkk1",
-      "tags": [],
-      "date": "2026-06-19T21:55:24+00:00"
-    },
-    {
-      "id": "hn-48603664",
-      "source": "hn",
-      "title": "Zenzizenzizenzic",
-      "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
-      "score": 86,
-      "comments": 23,
-      "author": "gyosifov",
-      "tags": [],
-      "date": "2026-06-19T21:49:44+00:00"
-    },
-    {
-      "id": "hn-48602918",
-      "source": "hn",
-      "title": "Surprising economics of load-balanced systems",
-      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "score": 133,
-      "comments": 30,
-      "author": "KraftyOne",
-      "tags": [],
-      "date": "2026-06-19T20:30:59+00:00"
-    },
-    {
-      "id": "hn-48602868",
-      "source": "hn",
-      "title": "From a 7 KB file to a 13-year backdoor operation",
-      "url": "https://anchor.host/from-a-7-kb-file-to-a-13-year-backdoor-operation/",
-      "score": 4,
-      "comments": 0,
-      "author": "ValentineC",
-      "tags": [],
-      "date": "2026-06-19T20:25:23+00:00"
-    },
-    {
-      "id": "hn-48602862",
-      "source": "hn",
-      "title": "Hide Secrets from AI Agents and NPM install using Airgap",
-      "url": "https://sauleau.com/notes/airgap-security-for-the-modern-ai-age.html",
-      "score": 3,
-      "comments": 0,
-      "author": "netgusto",
-      "tags": [],
-      "date": "2026-06-19T20:24:59+00:00"
-    },
-    {
-      "id": "hn-48602817",
-      "source": "hn",
-      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
-      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-      "score": 173,
-      "comments": 102,
-      "author": "Bender",
-      "tags": [],
-      "date": "2026-06-19T20:19:57+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48602683",
-      "source": "hn",
-      "title": "Coding a Brick Tower [video]",
-      "url": "https://www.youtube.com/watch?v=DAMiS2PGTEE",
-      "score": 9,
-      "comments": 2,
-      "author": "tobr",
-      "tags": [],
-      "date": "2026-06-19T20:07:14+00:00"
-    },
-    {
-      "id": "hn-48602639",
-      "source": "hn",
-      "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
-      "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-      "score": 131,
-      "comments": 49,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-06-19T20:03:16+00:00"
-    },
-    {
-      "id": "hn-48602352",
-      "source": "hn",
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-      "score": 417,
-      "comments": 49,
-      "author": "pgrote",
-      "tags": [],
-      "date": "2026-06-19T19:35:15+00:00"
-    },
-    {
-      "id": "hn-48602144",
-      "source": "hn",
-      "title": "Granularity comes at a cost – Game Theory",
-      "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
-      "score": 28,
-      "comments": 4,
-      "author": "sidhantbansal",
-      "tags": [],
-      "date": "2026-06-19T19:16:24+00:00"
-    },
-    {
-      "id": "hn-48598051",
-      "source": "hn",
-      "title": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
-      "url": "https://brainfrog.lol",
-      "score": 28,
-      "comments": 26,
-      "author": "AlexanderZ",
-      "tags": [],
-      "date": "2026-06-19T12:57:53+00:00"
-    },
-    {
-      "id": "hn-48595882",
-      "source": "hn",
-      "title": "Show HN: Write SaaS apps where users control where their data is stored",
-      "url": "https://github.com/wolfoo2931/linkedrecords/",
-      "score": 40,
-      "comments": 19,
-      "author": "WolfOliver",
-      "tags": [],
-      "date": "2026-06-19T07:37:14+00:00"
     },
     {
       "id": "ctf-3911979",

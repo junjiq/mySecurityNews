@@ -1,8 +1,8 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T07:46:27.268583+00:00",
-  "total_articles": 60,
-  "urgent_count": 4,
+  "generated_at": "2026-06-25T09:07:58.996176+00:00",
+  "total_articles": 67,
+  "urgent_count": 6,
   "urgent_items": [
     {
       "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
@@ -26,6 +26,20 @@
       "date": "2026-06-24T10:20:39+00:00"
     },
     {
+      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-06-25T08:07:54+00:00"
+    },
+    {
+      "title": "IDOR — ソフトウェアアーキテクチャにおける「無邪気」だが致命的な脆弱性？",
+      "url": "https://qiita.com/luan_nguyen/items/d21c24d910853b96e542?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-06-25T15:10:26+09:00"
+    },
+    {
       "title": "Exploiting vulnerabilities in Johnson and Johnson web apps",
       "url": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
       "severity": "high",
@@ -36,20 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 57,
       "top_items": [
-        {
-          "title": "We’re making Bunny DNS free",
-          "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-          "score": 841,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-24T08:50:41+00:00"
-        },
         {
           "title": "OpenAI unveils its first custom chip, built by Broadcom",
           "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-          "score": 663,
+          "score": 694,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T17:47:00+00:00"
@@ -71,9 +77,17 @@
           "date": "2026-06-24T12:31:43+00:00"
         },
         {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "score": 399,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-24T19:48:01+00:00"
+        },
+        {
           "title": "RubyLLM: A Ruby framework for all major AI providers",
           "url": "https://rubyllm.com/",
-          "score": 378,
+          "score": 386,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T14:41:41+00:00"
@@ -82,7 +96,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 2,
+      "count": 10,
       "top_items": [
         {
           "title": "oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた",
@@ -90,15 +104,39 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-25T15:22:28+09:00"
+          "date": "2026-06-25T17:14:04+09:00"
         },
         {
-          "title": "AIでおしゃれな画面を作るためのデザインシステムを学ぼう！",
-          "url": "https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "IDOR — ソフトウェアアーキテクチャにおける「無邪気」だが致命的な脆弱性？",
+          "url": "https://qiita.com/luan_nguyen/items/d21c24d910853b96e542?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": "high",
+          "date": "2026-06-25T15:10:26+09:00"
+        },
+        {
+          "title": "[IBM Bob] Bob 2.0提供開始 - 最新版へのアップデート方法",
+          "url": "https://qiita.com/ayatokura/items/39bae5c0b0f157062115?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-24T20:51:08+09:00"
+          "date": "2026-06-25T12:11:44+09:00"
+        },
+        {
+          "title": "初めて「APIを叩く」｜Postmanで学ぶAPIの基本",
+          "url": "https://qiita.com/sewiihidekikudo/items/047cde263bc5e833fb66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-25T11:56:40+09:00"
+        },
+        {
+          "title": "AIの嘘を見抜く？Gemini の検索＆画像グラウンディングを実際に試してわかったこと",
+          "url": "https://qiita.com/ta-ito0611/items/646d3d1efb535737416d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-25T10:08:58+09:00"
         }
       ]
     }
