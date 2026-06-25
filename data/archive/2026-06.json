@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-25T19:12:35.706790+00:00",
+  "generated_at": "2026-06-25T20:15:23.632012+00:00",
   "total_articles": 459,
   "source_counts": {
-    "hn": 370,
-    "zennqiita": 80,
+    "hn": 367,
+    "zennqiita": 83,
     "project": 9
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 10,
     "medium": 6,
     "high": 6
   },
@@ -77,18 +77,18 @@
       "date": "2026-06-23T17:50:22+00:00"
     },
     {
+      "title": "Half-Life 2 in a Browser",
+      "url": "https://hl2.slqnt.dev/",
+      "score": 600,
+      "source": "hn",
+      "date": "2026-06-25T06:00:04+00:00"
+    },
+    {
       "title": "F3",
       "url": "https://github.com/future-file-format/f3",
       "score": 593,
       "source": "hn",
       "date": "2026-06-23T16:53:32+00:00"
-    },
-    {
-      "title": "Half-Life 2 in a Browser",
-      "url": "https://hl2.slqnt.dev/",
-      "score": 585,
-      "source": "hn",
-      "date": "2026-06-25T06:00:04+00:00"
     },
     {
       "title": "Never Give Them Your Face",
@@ -112,11 +112,25 @@
       "date": "2026-06-23T18:40:22+00:00"
     },
     {
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "url": "https://hackernewstrends.com",
+      "score": 534,
+      "source": "hn",
+      "date": "2026-06-25T14:08:55+00:00"
+    },
+    {
       "title": "Fired by Google for creating the Google workspace CLI",
       "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
       "score": 516,
       "source": "hn",
       "date": "2026-06-23T18:13:40+00:00"
+    },
+    {
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "score": 511,
+      "source": "hn",
+      "date": "2026-06-25T15:48:07+00:00"
     },
     {
       "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
@@ -138,20 +152,6 @@
       "score": 499,
       "source": "hn",
       "date": "2026-06-24T15:56:19+00:00"
-    },
-    {
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "score": 497,
-      "source": "hn",
-      "date": "2026-06-21T21:29:43+00:00"
-    },
-    {
-      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
-      "score": 496,
-      "source": "hn",
-      "date": "2026-06-20T12:08:23+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-20T11:58:32+00:00"
-    },
-    {
-      "title": "Open Source for IBM Z and LinuxONE",
-      "url": "https://community.ibm.com/community/user/blogs/elizabeth-k-joseph1/2026/06/18/linuxone-open-source-report-may-2026",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-20T10:32:35+00:00"
     }
   ]
 }

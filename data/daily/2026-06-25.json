@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T19:12:35.661247+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-06-25T20:15:23.588442+00:00",
+  "total_articles": 57,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,20 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 40,
       "top_items": [
-        {
-          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-          "score": 712,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-24T19:48:01+00:00"
-        },
         {
           "title": "Half-Life 2 in a Browser",
           "url": "https://hl2.slqnt.dev/",
-          "score": 585,
+          "score": 600,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T06:00:04+00:00"
@@ -57,10 +49,26 @@
         {
           "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
           "url": "https://hackernewstrends.com",
-          "score": 493,
+          "score": 534,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T14:08:55+00:00"
+        },
+        {
+          "title": "An entire Herculaneum scroll has been read for the first time",
+          "url": "https://scrollprize.org/firstscroll",
+          "score": 511,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-25T15:48:07+00:00"
+        },
+        {
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "score": 451,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-25T13:02:56+00:00"
         },
         {
           "title": "LastPass notifies users of yet another data breach",
@@ -69,21 +77,45 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T10:28:16+00:00"
-        },
-        {
-          "title": "Blogging can just be stating the obvious",
-          "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-          "score": 386,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-24T23:46:37+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 14,
       "top_items": [
+        {
+          "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA",
+          "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-26T00:31:30+09:00"
+        },
+        {
+          "title": "過去の自分に贈る、読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~",
+          "url": "https://qiita.com/n-isd/items/46eeee2dbc282cb16e2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-25T21:35:26+09:00"
+        },
+        {
+          "title": "油絵から学んだ、デザイン・コード・働き方に共通する「余白理論」",
+          "url": "https://qiita.com/Minotaurasu/items/7ac59c9034cac5e9e935?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-25T18:02:29+09:00"
+        },
+        {
+          "title": "Cursor の Editor ウィンドウと Agents ウィンドウ ― 役割の違いと使い分け",
+          "url": "https://qiita.com/Kinopee/items/fd514b80e54b5a98a133?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-25T17:48:54+09:00"
+        },
         {
           "title": "oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた",
           "url": "https://qiita.com/shirok/items/3b9ccefff059ff1ab40d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -91,38 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-25T17:14:04+09:00"
-        },
-        {
-          "title": "IDOR — ソフトウェアアーキテクチャにおける「無邪気」だが致命的な脆弱性？",
-          "url": "https://qiita.com/luan_nguyen/items/d21c24d910853b96e542?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "high",
-          "date": "2026-06-25T15:10:26+09:00"
-        },
-        {
-          "title": "[IBM Bob] Bob 2.0提供開始 - 最新版へのアップデート方法",
-          "url": "https://qiita.com/ayatokura/items/39bae5c0b0f157062115?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-25T12:11:44+09:00"
-        },
-        {
-          "title": "初めて「APIを叩く」｜Postmanで学ぶAPIの基本",
-          "url": "https://qiita.com/sewiihidekikudo/items/047cde263bc5e833fb66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-25T11:56:40+09:00"
-        },
-        {
-          "title": "AIの嘘を見抜く？Gemini の検索＆画像グラウンディングを実際に試してわかったこと",
-          "url": "https://qiita.com/ta-ito0611/items/646d3d1efb535737416d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-25T10:08:58+09:00"
         }
       ]
     },
