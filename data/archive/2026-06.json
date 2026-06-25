@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-25T12:17:18.751393+00:00",
+  "generated_at": "2026-06-25T13:16:55.148238+00:00",
   "total_articles": 455,
   "source_counts": {
     "hn": 357,
@@ -8,8 +8,8 @@
     "project": 5
   },
   "severity_counts": {
+    "critical": 11,
     "high": 6,
-    "critical": 10,
     "medium": 5
   },
   "top_articles": [
@@ -51,7 +51,7 @@
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 726,
+      "score": 742,
       "source": "hn",
       "date": "2026-06-24T17:47:00+00:00"
     },
@@ -98,6 +98,13 @@
       "date": "2026-06-23T18:40:22+00:00"
     },
     {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "score": 540,
+      "source": "hn",
+      "date": "2026-06-24T19:48:01+00:00"
+    },
+    {
       "title": "Fired by Google for creating the Google workspace CLI",
       "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
       "score": 516,
@@ -126,13 +133,6 @@
       "date": "2026-06-24T15:56:19+00:00"
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 497,
-      "source": "hn",
-      "date": "2026-06-24T19:48:01+00:00"
-    },
-    {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
       "url": "https://apertvs.ai/",
       "score": 497,
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "You didn't vibe code it, you stole it from open source&enterprise-licensed code",
+      "url": "https://twitter.com/mfts0/status/2070080422482977095",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-25T12:23:05+00:00"
+    },
     {
       "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
       "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",

@@ -1,9 +1,16 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T12:17:18.705713+00:00",
-  "total_articles": 63,
-  "urgent_count": 4,
+  "generated_at": "2026-06-25T13:16:55.102798+00:00",
+  "total_articles": 58,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "You didn't vibe code it, you stole it from open source&enterprise-licensed code",
+      "url": "https://twitter.com/mfts0/status/2070080422482977095",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-25T12:23:05+00:00"
+    },
     {
       "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
       "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
@@ -36,15 +43,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 50,
       "top_items": [
         {
           "title": "OpenAI unveils its first custom chip, built by Broadcom",
           "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-          "score": 726,
+          "score": 742,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T17:47:00+00:00"
+        },
+        {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "score": 540,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-24T19:48:01+00:00"
         },
         {
           "title": "There are a few things that I look back on as my mistakes in the early days",
@@ -55,34 +70,26 @@
           "date": "2026-06-24T15:56:19+00:00"
         },
         {
-          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-          "score": 497,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-24T19:48:01+00:00"
-        },
-        {
-          "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
-          "url": "https://paolino.me/founding-a-company-in-germany/",
-          "score": 451,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-24T12:31:43+00:00"
-        },
-        {
           "title": "RubyLLM: A Ruby framework for all major AI providers",
           "url": "https://rubyllm.com/",
-          "score": 397,
+          "score": 408,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T14:41:41+00:00"
+        },
+        {
+          "title": "45°C cooling design cuts data center water use to near zero",
+          "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+          "score": 385,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-24T14:10:11+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた",
