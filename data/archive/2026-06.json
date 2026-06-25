@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-25T18:15:40.660469+00:00",
+  "generated_at": "2026-06-25T19:12:35.706790+00:00",
   "total_articles": 459,
   "source_counts": {
-    "hn": 369,
-    "zennqiita": 81,
+    "hn": 370,
+    "zennqiita": 80,
     "project": 9
   },
   "severity_counts": {
+    "critical": 11,
     "medium": 6,
-    "critical": 10,
     "high": 6
   },
   "top_articles": [
@@ -84,18 +84,18 @@
       "date": "2026-06-23T16:53:32+00:00"
     },
     {
+      "title": "Half-Life 2 in a Browser",
+      "url": "https://hl2.slqnt.dev/",
+      "score": 585,
+      "source": "hn",
+      "date": "2026-06-25T06:00:04+00:00"
+    },
+    {
       "title": "Never Give Them Your Face",
       "url": "https://nevergivethemyourface.com/",
       "score": 584,
       "source": "hn",
       "date": "2026-06-22T13:45:48+00:00"
-    },
-    {
-      "title": "Half-Life 2 in a Browser",
-      "url": "https://hl2.slqnt.dev/",
-      "score": 570,
-      "source": "hn",
-      "date": "2026-06-25T06:00:04+00:00"
     },
     {
       "title": "GLM-5.2 – How to Run Locally",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-25T16:04:46+00:00"
+    },
     {
       "title": "You didn't vibe code it, you stole it from open source&enterprise-licensed code",
       "url": "https://twitter.com/mfts0/status/2070080422482977095",

@@ -1,9 +1,16 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T18:15:40.612176+00:00",
-  "total_articles": 55,
-  "urgent_count": 3,
+  "generated_at": "2026-06-25T19:12:35.661247+00:00",
+  "total_articles": 53,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-25T16:04:46+00:00"
+    },
     {
       "title": "You didn't vibe code it, you stole it from open source&enterprise-licensed code",
       "url": "https://twitter.com/mfts0/status/2070080422482977095",
@@ -29,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 42,
       "top_items": [
         {
           "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
@@ -42,7 +49,7 @@
         {
           "title": "Half-Life 2 in a Browser",
           "url": "https://hl2.slqnt.dev/",
-          "score": 570,
+          "score": 585,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T06:00:04+00:00"
@@ -50,10 +57,18 @@
         {
           "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
           "url": "https://hackernewstrends.com",
-          "score": 443,
+          "score": 493,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T14:08:55+00:00"
+        },
+        {
+          "title": "LastPass notifies users of yet another data breach",
+          "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+          "score": 404,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-25T10:28:16+00:00"
         },
         {
           "title": "Blogging can just be stating the obvious",
@@ -62,14 +77,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T23:46:37+00:00"
-        },
-        {
-          "title": "LastPass notifies users of yet another data breach",
-          "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-          "score": 374,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-25T10:28:16+00:00"
         }
       ]
     },
