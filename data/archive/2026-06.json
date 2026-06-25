@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-25T01:43:53.389926+00:00",
+  "generated_at": "2026-06-25T03:08:37.685622+00:00",
   "total_articles": 455,
   "source_counts": {
-    "hn": 364,
-    "zennqiita": 86,
+    "hn": 366,
+    "zennqiita": 84,
     "project": 5
   },
   "severity_counts": {
     "high": 4,
-    "critical": 11,
+    "critical": 10,
     "medium": 7
   },
   "top_articles": [
@@ -56,13 +56,6 @@
       "date": "2026-06-21T21:40:53+00:00"
     },
     {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 730,
-      "source": "hn",
-      "date": "2026-06-19T16:03:15+00:00"
-    },
-    {
       "title": "Pledging another $400k to the Zig software foundation",
       "url": "https://mitchellh.com/writing/zig-donation-2026",
       "score": 726,
@@ -91,6 +84,13 @@
       "date": "2026-06-22T13:45:48+00:00"
     },
     {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 562,
+      "source": "hn",
+      "date": "2026-06-24T17:47:00+00:00"
+    },
+    {
       "title": "GLM-5.2 – How to Run Locally",
       "url": "https://unsloth.ai/docs/models/glm-5.2",
       "score": 559,
@@ -103,13 +103,6 @@
       "score": 542,
       "source": "hn",
       "date": "2026-06-23T18:40:22+00:00"
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 520,
-      "source": "hn",
-      "date": "2026-06-24T17:47:00+00:00"
     },
     {
       "title": "Fired by Google for creating the Google workspace CLI",
@@ -133,6 +126,13 @@
       "date": "2026-06-22T19:06:48+00:00"
     },
     {
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "score": 499,
+      "source": "hn",
+      "date": "2026-06-24T15:56:19+00:00"
+    },
+    {
       "title": "Apertus – Open Foundation Model for Sovereign AI",
       "url": "https://apertvs.ai/",
       "score": 497,
@@ -147,11 +147,11 @@
       "date": "2026-06-20T12:08:23+00:00"
     },
     {
-      "title": "There are a few things that I look back on as my mistakes in the early days",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-      "score": 493,
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "score": 487,
       "source": "hn",
-      "date": "2026-06-24T15:56:19+00:00"
+      "date": "2026-06-20T01:55:16+00:00"
     }
   ],
   "security_highlights": [
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-19T20:19:57+00:00"
-    },
-    {
-      "title": "緊急アクセス用管理アカウント (Break glass) 入門： 基本構成からセオリー外の追加構成まで解説",
-      "url": "https://qiita.com/carol0226/items/bbd69bdc907a48f0e67f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-06-20T01:21:36+09:00"
     }
   ]
 }
