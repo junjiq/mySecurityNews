@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T17:15:53.334936+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-06-25T18:15:40.612176+00:00",
+  "total_articles": 55,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 44,
       "top_items": [
-        {
-          "title": "OpenAI unveils its first custom chip, built by Broadcom",
-          "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-          "score": 789,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-24T17:47:00+00:00"
-        },
         {
           "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
           "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-          "score": 692,
+          "score": 712,
           "source": "hn",
           "severity": null,
           "date": "2026-06-24T19:48:01+00:00"
@@ -50,10 +42,18 @@
         {
           "title": "Half-Life 2 in a Browser",
           "url": "https://hl2.slqnt.dev/",
-          "score": 534,
+          "score": 570,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T06:00:04+00:00"
+        },
+        {
+          "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+          "url": "https://hackernewstrends.com",
+          "score": 443,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-25T14:08:55+00:00"
         },
         {
           "title": "Blogging can just be stating the obvious",
@@ -64,12 +64,12 @@
           "date": "2026-06-24T23:46:37+00:00"
         },
         {
-          "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-          "url": "https://hackernewstrends.com",
-          "score": 379,
+          "title": "LastPass notifies users of yet another data breach",
+          "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+          "score": 374,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-25T14:08:55+00:00"
+          "date": "2026-06-25T10:28:16+00:00"
         }
       ]
     },
@@ -116,6 +116,36 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-25T10:08:58+09:00"
+        }
+      ]
+    },
+    {
+      "category": "注目リリース",
+      "count": 3,
+      "top_items": [
+        {
+          "title": "HackTheBox: Build Wrieup",
+          "url": "https://dev.to/exploitnotes/hackthebox-build-wrieup-32kp",
+          "score": 0,
+          "source": "project",
+          "severity": null,
+          "date": "2026-06-25T11:04:01Z"
+        },
+        {
+          "title": "HackTheBox: Nexus Writeup",
+          "url": "https://dev.to/exploitnotes/hackthebox-nexus-writeup-17od",
+          "score": 0,
+          "source": "project",
+          "severity": null,
+          "date": "2026-06-25T04:07:39Z"
+        },
+        {
+          "title": "Deep Dive: Understanding Postman on HackTheBox and…",
+          "url": "https://dev.to/norviktech/deep-dive-understanding-postman-on-hackthebox-and-38ho",
+          "score": 0,
+          "source": "project",
+          "severity": null,
+          "date": "2026-06-24T21:06:08Z"
         }
       ]
     }

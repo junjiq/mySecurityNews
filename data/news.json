@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T17:15:53.274878+00:00",
+  "updated_at": "2026-06-25T18:15:40.542202+00:00",
   "count": 500,
   "items": [
     {
@@ -18,8 +18,8 @@
       "source": "hn",
       "title": "Deno 2.9",
       "url": "https://deno.com/blog/v2.9",
-      "score": 64,
-      "comments": 16,
+      "score": 106,
+      "comments": 37,
       "author": "enz",
       "tags": [],
       "date": "2026-06-25T16:22:55+00:00"
@@ -29,8 +29,8 @@
       "source": "hn",
       "title": "Windows 10 quietly gets one more year of support and updates",
       "url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
-      "score": 45,
-      "comments": 22,
+      "score": 91,
+      "comments": 59,
       "author": "bundie",
       "tags": [],
       "date": "2026-06-25T15:59:54+00:00",
@@ -41,8 +41,8 @@
       "source": "hn",
       "title": "A Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
-      "score": 16,
-      "comments": 3,
+      "score": 172,
+      "comments": 51,
       "author": "verditelabs",
       "tags": [],
       "date": "2026-06-25T15:48:07+00:00"
@@ -50,10 +50,10 @@
     {
       "id": "hn-48674967",
       "source": "hn",
-      "title": "IBM Debuts First Sub-1 Nanometer Chip Technology",
+      "title": "IBM debuts sub-1 nanometer chip technology",
       "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "score": 13,
-      "comments": 4,
+      "score": 79,
+      "comments": 40,
       "author": "porridgeraisin",
       "tags": [],
       "date": "2026-06-25T15:33:37+00:00"
@@ -63,8 +63,8 @@
       "source": "hn",
       "title": "Physicists Track and Trap the Elusive Neutrino",
       "url": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
-      "score": 10,
-      "comments": 1,
+      "score": 18,
+      "comments": 3,
       "author": "ibobev",
       "tags": [],
       "date": "2026-06-25T15:11:48+00:00"
@@ -74,8 +74,8 @@
       "source": "hn",
       "title": "OS9Map",
       "url": "https://yllan.org/software/OS9Map/",
-      "score": 17,
-      "comments": 1,
+      "score": 59,
+      "comments": 7,
       "author": "LaSombra",
       "tags": [],
       "date": "2026-06-25T15:01:06+00:00"
@@ -83,10 +83,10 @@
     {
       "id": "hn-48673825",
       "source": "hn",
-      "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
       "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-      "score": 95,
-      "comments": 24,
+      "score": 137,
+      "comments": 39,
       "author": "kouosi",
       "tags": [],
       "date": "2026-06-25T14:19:28+00:00"
@@ -107,8 +107,8 @@
       "source": "hn",
       "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
       "url": "https://hackernewstrends.com",
-      "score": 379,
-      "comments": 99,
+      "score": 443,
+      "comments": 120,
       "author": "ytkimirti",
       "tags": [],
       "date": "2026-06-25T14:08:55+00:00"
@@ -116,10 +116,10 @@
     {
       "id": "hn-48672779",
       "source": "hn",
-      "title": "Where every major LLM stands politically",
+      "title": "Political bias in AI: Where the AI models stand",
       "url": "https://trakkr.ai/bias",
-      "score": 4,
-      "comments": 5,
+      "score": 33,
+      "comments": 94,
       "author": "mektrik",
       "tags": [],
       "date": "2026-06-25T13:08:31+00:00"
@@ -138,10 +138,10 @@
     {
       "id": "hn-48672732",
       "source": "hn",
-      "title": "Apple announces significant price increases for MacBooks, iPads, more",
-      "url": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/",
-      "score": 12,
-      "comments": 0,
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "score": 323,
+      "comments": 524,
       "author": "virgildotcodes",
       "tags": [],
       "date": "2026-06-25T13:02:56+00:00"
@@ -185,19 +185,33 @@
       "source": "hn",
       "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
       "url": "https://lingochunk.com/try",
-      "score": 46,
-      "comments": 23,
+      "score": 58,
+      "comments": 26,
       "author": "alder",
       "tags": [],
       "date": "2026-06-25T11:29:13+00:00"
+    },
+    {
+      "id": "ctf-3988270",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox: Build Wrieup",
+      "url": "https://dev.to/exploitnotes/hackthebox-build-wrieup-32kp",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-06-25T11:04:01Z"
     },
     {
       "id": "hn-48671468",
       "source": "hn",
       "title": "LastPass notifies users of yet another data breach",
       "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-      "score": 342,
-      "comments": 154,
+      "score": 374,
+      "comments": 161,
       "author": "mooreds",
       "tags": [],
       "date": "2026-06-25T10:28:16+00:00"
@@ -268,11 +282,25 @@
       "source": "hn",
       "title": "Half-Life 2 in a Browser",
       "url": "https://hl2.slqnt.dev/",
-      "score": 534,
-      "comments": 220,
+      "score": 570,
+      "comments": 226,
       "author": "panza",
       "tags": [],
       "date": "2026-06-25T06:00:04+00:00"
+    },
+    {
+      "id": "ctf-3984237",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox: Nexus Writeup",
+      "url": "https://dev.to/exploitnotes/hackthebox-nexus-writeup-17od",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-06-25T04:07:39Z"
     },
     {
       "id": "hn-48668662",
@@ -518,6 +546,20 @@
       "date": "2026-06-24T21:16:31+00:00"
     },
     {
+      "id": "ctf-3982361",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "Deep Dive: Understanding Postman on HackTheBox and…",
+      "url": "https://dev.to/norviktech/deep-dive-understanding-postman-on-hackthebox-and-38ho",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-06-24T21:06:08Z"
+    },
+    {
       "id": "hn-48665130",
       "source": "hn",
       "title": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
@@ -529,12 +571,23 @@
       "date": "2026-06-24T20:20:33+00:00"
     },
     {
+      "id": "hn-48665093",
+      "source": "hn",
+      "title": "52-hertz whale",
+      "url": "https://en.wikipedia.org/wiki/52-hertz_whale",
+      "score": 35,
+      "comments": 2,
+      "author": "brightbeige",
+      "tags": [],
+      "date": "2026-06-24T20:17:33+00:00"
+    },
+    {
       "id": "hn-48664814",
       "source": "hn",
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 692,
-      "comments": 1120,
+      "score": 712,
+      "comments": 1149,
       "author": "htrp",
       "tags": [],
       "date": "2026-06-24T19:48:01+00:00"
@@ -571,6 +624,17 @@
       "author": "addshore",
       "tags": [],
       "date": "2026-06-24T18:27:16+00:00"
+    },
+    {
+      "id": "hn-48663819",
+      "source": "hn",
+      "title": "How to get your first customers [video]",
+      "url": "https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers",
+      "score": 41,
+      "comments": 12,
+      "author": "aurenvale",
+      "tags": [],
+      "date": "2026-06-24T18:24:44+00:00"
     },
     {
       "id": "hn-48663544",
@@ -992,8 +1056,8 @@
       "source": "hn",
       "title": "You can't unit test for taste",
       "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-      "score": 172,
-      "comments": 66,
+      "score": 191,
+      "comments": 76,
       "author": "kalli",
       "tags": [],
       "date": "2026-06-24T08:54:12+00:00"
@@ -1019,6 +1083,20 @@
       "author": "himata4113",
       "tags": [],
       "date": "2026-06-24T08:41:07+00:00"
+    },
+    {
+      "id": "ctf-3976547",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox: Data Writeup",
+      "url": "https://dev.to/exploitnotes/hackthebox-data-writeup-5hf4",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-06-24T07:28:13Z"
     },
     {
       "id": "qiita-ded19bc9a7",
@@ -1056,6 +1134,20 @@
         "Qiita"
       ],
       "date": "2026-06-24T15:56:43+09:00"
+    },
+    {
+      "id": "ctf-3975357",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox: Baby Writeup",
+      "url": "https://dev.to/exploitnotes/hackthebox-baby-writeup-422h",
+      "score": 1,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-06-24T04:57:23Z"
     },
     {
       "id": "qiita-9c7674235f",
@@ -1298,6 +1390,17 @@
       "tags": [],
       "date": "2026-06-23T23:26:43+00:00",
       "severity": "medium"
+    },
+    {
+      "id": "hn-48652997",
+      "source": "hn",
+      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "url": "https://github.com/decrazyo/anes",
+      "score": 25,
+      "comments": 4,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-06-23T23:21:35+00:00"
     },
     {
       "id": "hn-48652184",
@@ -1913,6 +2016,17 @@
       "author": "sheelagay",
       "tags": [],
       "date": "2026-06-23T09:51:49+00:00"
+    },
+    {
+      "id": "hn-48642503",
+      "source": "hn",
+      "title": "I built a GPU back end for Emacs",
+      "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
+      "score": 48,
+      "comments": 4,
+      "author": "andros",
+      "tags": [],
+      "date": "2026-06-23T09:38:45+00:00"
     },
     {
       "id": "hn-48642232",
@@ -2793,6 +2907,17 @@
       "date": "2026-06-22T15:24:40+00:00"
     },
     {
+      "id": "hn-48631450",
+      "source": "hn",
+      "title": "Oxide computer 3D rack guided tour",
+      "url": "https://explorer.oxide.computer/",
+      "score": 23,
+      "comments": 7,
+      "author": "darthcloud",
+      "tags": [],
+      "date": "2026-06-22T15:21:04+00:00"
+    },
+    {
       "id": "hn-48631366",
       "source": "hn",
       "title": "Dostoyevsky isn't difficult",
@@ -2808,8 +2933,8 @@
       "source": "hn",
       "title": "Tw-fade: pure CSS scroll-driven edge masking",
       "url": "https://pete.design/tw-fade",
-      "score": 27,
-      "comments": 8,
+      "score": 42,
+      "comments": 16,
       "author": "petekp",
       "tags": [],
       "date": "2026-06-22T15:12:36+00:00"
@@ -4080,6 +4205,17 @@
       "date": "2026-06-21T07:15:18+00:00"
     },
     {
+      "id": "hn-48616304",
+      "source": "hn",
+      "title": "Show HN: Chess-Inspired Roguelike",
+      "url": "https://princechazz.com",
+      "score": 21,
+      "comments": 6,
+      "author": "cowboy_henk",
+      "tags": [],
+      "date": "2026-06-21T06:50:31+00:00"
+    },
+    {
       "id": "qiita-cef4f39a61",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -4180,6 +4316,17 @@
       "author": "userbinator",
       "tags": [],
       "date": "2026-06-21T03:54:22+00:00"
+    },
+    {
+      "id": "hn-48615277",
+      "source": "hn",
+      "title": "Early adversity leaves lasting molecular imprint across the body: primate study",
+      "url": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
+      "score": 20,
+      "comments": 0,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-06-21T03:00:53+00:00"
     },
     {
       "id": "qiita-33dc541c9d",
@@ -5088,93 +5235,6 @@
       "date": "2026-06-20T19:23:27+09:00"
     },
     {
-      "id": "qiita-f522ce5e93",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "VPC Flow Logsでタグ情報やネクストホップ情報が取得可能に",
-      "url": "https://qiita.com/infra365/items/81174c2b05df0cfbaf59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "infra365",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-20T19:23:06+09:00"
-    },
-    {
-      "id": "qiita-1ab3579a43",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ケイラボAIラジオ Windows版開発記 ―― 「設計さえ正しければ、移植はAIの独壇場」だった",
-      "url": "https://qiita.com/KLaboratory/items/5f4729dd95428be1e75e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "KLaboratory",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-20T18:52:56+09:00"
-    },
-    {
-      "id": "hn-48607671",
-      "source": "hn",
-      "title": "Maria Isabel Sánchez Vegara on Her 100th \"Little People, Big Dreams\" Book",
-      "url": "https://www.amightygirl.com/blog?p=36753",
-      "score": 29,
-      "comments": 4,
-      "author": "zeristor",
-      "tags": [],
-      "date": "2026-06-20T09:13:55+00:00"
-    },
-    {
-      "id": "qiita-2e7b59fad0",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "CodexをSlackにつなぐと何が便利？まずはSlack Canvasを作ってみた",
-      "url": "https://qiita.com/araidon/items/dbe74723ef1ccacac32f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "araidon",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-20T17:41:31+09:00"
-    },
-    {
-      "id": "qiita-3aec116d7b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "シェルのプロンプトへのこだわり",
-      "url": "https://qiita.com/blackenedgold/items/d8116b631e887349a678?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "blackenedgold",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-20T16:20:36+09:00"
-    },
-    {
-      "id": "qiita-d3fc82767a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Elixir 1.20の型システムをRust,TypeScriptと比べたら特徴が見えてきた",
-      "url": "https://qiita.com/GeekMasahiro/items/3f8e66db661f8a2f97a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "GeekMasahiro",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-20T15:59:56+09:00"
-    },
-    {
-      "id": "hn-48606654",
-      "source": "hn",
-      "title": "Lisp in the Rust Type System",
-      "url": "https://github.com/playX18/lisp-in-types/",
-      "score": 83,
-      "comments": 4,
-      "author": "quasigloam",
-      "tags": [],
-      "date": "2026-06-20T05:43:54+00:00"
-    },
-    {
       "id": "ctf-3911979",
       "source": "project",
       "proj_category": "CTF",
@@ -5187,20 +5247,6 @@
         "Security"
       ],
       "date": "2026-06-16T05:59:53Z"
-    },
-    {
-      "id": "ctf-3871364",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox - Facts Writeup",
-      "url": "https://dev.to/exploitnotes/hackthebox-facts-writeup-4nia",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-06-11T06:35:56Z"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-337145344",
@@ -5217,48 +5263,6 @@
       "date": "2026-06-10T10:17:31Z"
     },
     {
-      "id": "ctf-3761714",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox - TwoMillion: A Complete Walkthrough",
-      "url": "https://dev.to/exploitnotes/hackthebox-twomillion-a-complete-walkthrough-247n",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-05-27T06:22:18Z"
-    },
-    {
-      "id": "ctf-3761697",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox: DarkZero Writeup",
-      "url": "https://dev.to/exploitnotes/hackthebox-darkzero-writeup-p3k",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-05-27T06:18:28Z"
-    },
-    {
-      "id": "ctf-3761144",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox: MonitorsFour - Full Walkthrough",
-      "url": "https://dev.to/exploitnotes/htb-monitorsfour-full-walkthrough-445k",
-      "score": 1,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-05-27T04:54:03Z"
-    },
-    {
       "id": "ctf-3754341",
       "source": "project",
       "proj_category": "CTF",
@@ -5271,20 +5275,6 @@
         "Security"
       ],
       "date": "2026-05-26T06:20:28Z"
-    },
-    {
-      "id": "ctf-3751602",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HTB — MonitorsFour | Writeup",
-      "url": "https://dev.to/whyshell/htb-monitorsfour-writeup-381k",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-05-25T18:15:21Z"
     },
     {
       "id": "ctf-3751577",
