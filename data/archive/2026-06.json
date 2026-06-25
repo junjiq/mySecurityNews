@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-25T06:24:32.840717+00:00",
+  "generated_at": "2026-06-25T07:46:27.314658+00:00",
   "total_articles": 455,
   "source_counts": {
     "hn": 366,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "high": 4,
-    "critical": 10,
+    "critical": 11,
     "medium": 5
   },
   "top_articles": [
@@ -58,7 +58,7 @@
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 645,
+      "score": 663,
       "source": "hn",
       "date": "2026-06-24T17:47:00+00:00"
     },
@@ -196,6 +196,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-23T10:02:54+00:00"
+    },
+    {
+      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+      "url": "https://github.com/BohemiaInteractive/CWR",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-22T21:52:54+00:00"
     },
     {
       "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
