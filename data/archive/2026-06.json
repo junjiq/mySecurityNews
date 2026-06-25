@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-25T14:17:41.485089+00:00",
+  "generated_at": "2026-06-25T15:28:53.617787+00:00",
   "total_articles": 455,
   "source_counts": {
-    "hn": 358,
-    "zennqiita": 92,
+    "hn": 362,
+    "zennqiita": 88,
     "project": 5
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 10,
     "high": 6,
     "medium": 5
   },
@@ -42,6 +42,13 @@
       "date": "2026-06-21T12:44:13+00:00"
     },
     {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 769,
+      "source": "hn",
+      "date": "2026-06-24T17:47:00+00:00"
+    },
+    {
       "title": "Did my old job only exist because of fraud?",
       "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
       "score": 761,
@@ -49,18 +56,18 @@
       "date": "2026-06-21T21:40:53+00:00"
     },
     {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 755,
-      "source": "hn",
-      "date": "2026-06-24T17:47:00+00:00"
-    },
-    {
       "title": "Pledging another $400k to the Zig software foundation",
       "url": "https://mitchellh.com/writing/zig-donation-2026",
       "score": 726,
       "source": "hn",
       "date": "2026-06-22T13:43:01+00:00"
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "score": 635,
+      "source": "hn",
+      "date": "2026-06-24T19:48:01+00:00"
     },
     {
       "title": "FUTO Swipe – A new swipe typing model",
@@ -75,13 +82,6 @@
       "score": 593,
       "source": "hn",
       "date": "2026-06-23T16:53:32+00:00"
-    },
-    {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 584,
-      "source": "hn",
-      "date": "2026-06-24T19:48:01+00:00"
     },
     {
       "title": "Never Give Them Your Face",
@@ -147,11 +147,11 @@
       "date": "2026-06-20T12:08:23+00:00"
     },
     {
-      "title": "GLM 5.2 vs. Opus",
-      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-      "score": 474,
+      "title": "Half-Life 2 in a Browser",
+      "url": "https://hl2.slqnt.dev/",
+      "score": 487,
       "source": "hn",
-      "date": "2026-06-22T07:22:03+00:00"
+      "date": "2026-06-25T06:00:04+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-20T10:32:35+00:00"
-    },
-    {
-      "title": "最近のSource Generator開発",
-      "url": "https://qiita.com/ikuzak/items/46fecf3136c53ff4da9c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-06-20T11:19:53+09:00"
     }
   ]
 }
