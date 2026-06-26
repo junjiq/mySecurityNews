@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-26T06:25:36.908719+00:00",
+  "generated_at": "2026-06-26T07:47:51.770995+00:00",
   "total_articles": 459,
   "source_counts": {
     "hn": 371,
@@ -8,8 +8,8 @@
     "project": 9
   },
   "severity_counts": {
+    "critical": 10,
     "medium": 6,
-    "critical": 9,
     "high": 6
   },
   "top_articles": [
@@ -23,7 +23,7 @@
     {
       "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
-      "score": 1173,
+      "score": 1238,
       "source": "hn",
       "date": "2026-06-25T15:48:07+00:00"
     },
@@ -40,6 +40,13 @@
       "score": 841,
       "source": "hn",
       "date": "2026-06-24T08:50:41+00:00"
+    },
+    {
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "score": 822,
+      "source": "hn",
+      "date": "2026-06-25T20:33:37+00:00"
     },
     {
       "title": "Identity verification on Claude",
@@ -63,13 +70,6 @@
       "date": "2026-06-21T21:40:53+00:00"
     },
     {
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
-      "score": 752,
-      "source": "hn",
-      "date": "2026-06-25T20:33:37+00:00"
-    },
-    {
       "title": "Pledging another $400k to the Zig software foundation",
       "url": "https://mitchellh.com/writing/zig-donation-2026",
       "score": 726,
@@ -86,9 +86,16 @@
     {
       "title": "Apple raises prices of MacBooks, iPads",
       "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 688,
+      "score": 697,
       "source": "hn",
       "date": "2026-06-25T13:02:56+00:00"
+    },
+    {
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "score": 642,
+      "source": "hn",
+      "date": "2026-06-25T21:44:55+00:00"
     },
     {
       "title": "FUTO Swipe – A new swipe typing model",
@@ -117,13 +124,6 @@
       "score": 593,
       "source": "hn",
       "date": "2026-06-23T16:53:32+00:00"
-    },
-    {
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "score": 587,
-      "source": "hn",
-      "date": "2026-06-25T21:44:55+00:00"
     },
     {
       "title": "Never Give Them Your Face",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "url": "https://akrites.org/letter/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-26T05:40:36+00:00"
+    },
     {
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
       "url": "https://github.com/inkeep/open-knowledge",

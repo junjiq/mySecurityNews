@@ -1,9 +1,16 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T06:25:36.871844+00:00",
-  "total_articles": 46,
-  "urgent_count": 3,
+  "generated_at": "2026-06-26T07:47:51.741780+00:00",
+  "total_articles": 49,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "url": "https://akrites.org/letter/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-26T05:40:36+00:00"
+    },
     {
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
       "url": "https://github.com/inkeep/open-knowledge",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 41,
       "top_items": [
         {
           "title": "An entire Herculaneum scroll has been read for the first time",
           "url": "https://scrollprize.org/firstscroll",
-          "score": 1173,
+          "score": 1238,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T15:48:07+00:00"
@@ -42,7 +49,7 @@
         {
           "title": "Om Malik has died",
           "url": "https://om.co/2026/06/24/1966-2026/",
-          "score": 752,
+          "score": 822,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T20:33:37+00:00"
@@ -50,10 +57,18 @@
         {
           "title": "Apple raises prices of MacBooks, iPads",
           "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-          "score": 688,
+          "score": 697,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T13:02:56+00:00"
+        },
+        {
+          "title": "The 'papers, please' era of the internet will decimate your privacy",
+          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+          "score": 642,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-25T21:44:55+00:00"
         },
         {
           "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
@@ -62,14 +77,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T14:08:55+00:00"
-        },
-        {
-          "title": "The 'papers, please' era of the internet will decimate your privacy",
-          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-          "score": 587,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-25T21:44:55+00:00"
         }
       ]
     },
