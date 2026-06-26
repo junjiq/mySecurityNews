@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-26T21:30:51.494105+00:00",
+  "generated_at": "2026-06-26T22:27:40.572209+00:00",
   "total_articles": 459,
   "source_counts": {
-    "hn": 358,
-    "zennqiita": 92,
+    "hn": 360,
+    "zennqiita": 90,
     "project": 9
   },
   "severity_counts": {
+    "critical": 9,
     "high": 6,
-    "critical": 8,
     "medium": 4
   },
   "top_articles": [
@@ -100,7 +100,7 @@
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 636,
+      "score": 703,
       "source": "hn",
       "date": "2026-06-26T17:06:55+00:00"
     },
@@ -117,6 +117,13 @@
       "score": 628,
       "source": "hn",
       "date": "2026-06-25T14:08:55+00:00"
+    },
+    {
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "score": 617,
+      "source": "hn",
+      "date": "2026-06-26T18:23:14+00:00"
     },
     {
       "title": "Half-Life 2 in a Browser",
@@ -145,16 +152,16 @@
       "score": 571,
       "source": "hn",
       "date": "2026-06-25T12:23:05+00:00"
-    },
-    {
-      "title": "GLM-5.2 – How to Run Locally",
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 559,
-      "source": "hn",
-      "date": "2026-06-22T21:21:01+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-26T21:14:47+00:00"
+    },
     {
       "title": "Incident CVE-2026-LGTM",
       "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",

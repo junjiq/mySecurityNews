@@ -1,9 +1,16 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T21:30:51.451811+00:00",
-  "total_articles": 50,
-  "urgent_count": 2,
+  "generated_at": "2026-06-26T22:27:40.527585+00:00",
+  "total_articles": 52,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-26T21:14:47+00:00"
+    },
     {
       "title": "We all depend on open source. We will defend it together",
       "url": "https://akrites.org/letter/",
@@ -22,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 36,
+      "count": 38,
       "top_items": [
-        {
-          "title": "The 'papers, please' era of the internet will decimate your privacy",
-          "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-          "score": 1045,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-25T21:44:55+00:00"
-        },
         {
           "title": "Previewing GPT‑5.6 Sol: a next-generation model",
           "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-          "score": 636,
+          "score": 703,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T17:06:55+00:00"
@@ -43,7 +42,7 @@
         {
           "title": "U.S. government will decide who gets to use GPT-5.6",
           "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-          "score": 525,
+          "score": 617,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T18:23:14+00:00"
@@ -63,6 +62,14 @@
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-26T05:40:36+00:00"
+        },
+        {
+          "title": "What happened after 2k people tried to hack my AI assistant",
+          "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+          "score": 341,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-26T02:29:23+00:00"
         }
       ]
     },
