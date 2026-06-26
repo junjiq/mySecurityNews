@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T17:35:09.189624+00:00",
-  "total_articles": 42,
+  "generated_at": "2026-06-26T18:38:03.539491+00:00",
+  "total_articles": 46,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 33,
+      "count": 37,
       "top_items": [
         {
           "title": "Om Malik has died",
           "url": "https://om.co/2026/06/24/1966-2026/",
-          "score": 1182,
+          "score": 1207,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T20:33:37+00:00"
@@ -35,10 +35,18 @@
         {
           "title": "The 'papers, please' era of the internet will decimate your privacy",
           "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-          "score": 983,
+          "score": 1020,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T21:44:55+00:00"
+        },
+        {
+          "title": "Incident CVE-2026-LGTM",
+          "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+          "score": 408,
+          "source": "hn",
+          "severity": "high",
+          "date": "2026-06-26T12:58:07+00:00"
         },
         {
           "title": "We all depend on open source. We will defend it together",
@@ -49,20 +57,12 @@
           "date": "2026-06-26T05:40:36+00:00"
         },
         {
-          "title": "Incident CVE-2026-LGTM",
-          "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-          "score": 369,
-          "source": "hn",
-          "severity": "high",
-          "date": "2026-06-26T12:58:07+00:00"
-        },
-        {
-          "title": "What happened after 2k people tried to hack my AI assistant",
-          "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-          "score": 303,
+          "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+          "score": 318,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-26T02:29:23+00:00"
+          "date": "2026-06-26T17:06:55+00:00"
         }
       ]
     },
