@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T20:35:45.675524+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-06-26T21:30:51.451811+00:00",
+  "total_articles": 50,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 33,
+      "count": 36,
       "top_items": [
         {
           "title": "The 'papers, please' era of the internet will decimate your privacy",
@@ -35,10 +35,18 @@
         {
           "title": "Previewing GPT‑5.6 Sol: a next-generation model",
           "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-          "score": 551,
+          "score": 636,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T17:06:55+00:00"
+        },
+        {
+          "title": "U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+          "score": 525,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-26T18:23:14+00:00"
         },
         {
           "title": "Incident CVE-2026-LGTM",
@@ -55,20 +63,12 @@
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-26T05:40:36+00:00"
-        },
-        {
-          "title": "U.S. government will decide who gets to use GPT-5.6",
-          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-          "score": 377,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-26T18:23:14+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 14,
       "top_items": [
         {
           "title": "犯罪対策費でもGDPは増える？ ― 割れ窓の誤謬と社会的信頼を考える : Pythonで学ぶ マクロ経済学入門 (93)",

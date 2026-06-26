@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-26T20:35:45.719684+00:00",
+  "generated_at": "2026-06-26T21:30:51.494105+00:00",
   "total_articles": 459,
   "source_counts": {
-    "hn": 355,
-    "zennqiita": 95,
+    "hn": 358,
+    "zennqiita": 92,
     "project": 9
   },
   "severity_counts": {
     "high": 6,
-    "critical": 9,
+    "critical": 8,
     "medium": 4
   },
   "top_articles": [
@@ -98,6 +98,13 @@
       "date": "2026-06-24T19:48:01+00:00"
     },
     {
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "score": 636,
+      "source": "hn",
+      "date": "2026-06-26T17:06:55+00:00"
+    },
+    {
       "title": "FUTO Swipe – A new swipe typing model",
       "url": "https://swipe.futo.tech/",
       "score": 629,
@@ -145,13 +152,6 @@
       "score": 559,
       "source": "hn",
       "date": "2026-06-22T21:21:01+00:00"
-    },
-    {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 551,
-      "source": "hn",
-      "date": "2026-06-26T17:06:55+00:00"
     }
   ],
   "security_highlights": [
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-21T16:56:18+00:00"
-    },
-    {
-      "title": "PrivateLinkとResource Gatewayで既存IPv4環境を変更せずにIPv6環境へ接続する",
-      "url": "https://qiita.com/infra365/items/94c359afab6508e2c657?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-06-21T15:39:51+09:00"
     }
   ]
 }
