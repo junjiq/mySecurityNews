@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-26T07:47:51.770995+00:00",
+  "generated_at": "2026-06-26T09:08:00.874897+00:00",
   "total_articles": 459,
   "source_counts": {
-    "hn": 371,
-    "zennqiita": 79,
+    "hn": 361,
+    "zennqiita": 89,
     "project": 9
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 9,
     "medium": 6,
     "high": 6
   },
@@ -23,7 +23,7 @@
     {
       "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
-      "score": 1238,
+      "score": 1285,
       "source": "hn",
       "date": "2026-06-25T15:48:07+00:00"
     },
@@ -35,18 +35,18 @@
       "date": "2026-06-22T05:38:40+00:00"
     },
     {
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "score": 861,
+      "source": "hn",
+      "date": "2026-06-25T20:33:37+00:00"
+    },
+    {
       "title": "We’re making Bunny DNS free",
       "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
       "score": 841,
       "source": "hn",
       "date": "2026-06-24T08:50:41+00:00"
-    },
-    {
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
-      "score": 822,
-      "source": "hn",
-      "date": "2026-06-25T20:33:37+00:00"
     },
     {
       "title": "Identity verification on Claude",
@@ -77,6 +77,13 @@
       "date": "2026-06-22T13:43:01+00:00"
     },
     {
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "score": 713,
+      "source": "hn",
+      "date": "2026-06-25T13:02:56+00:00"
+    },
+    {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "score": 712,
@@ -84,16 +91,9 @@
       "date": "2026-06-24T19:48:01+00:00"
     },
     {
-      "title": "Apple raises prices of MacBooks, iPads",
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 697,
-      "source": "hn",
-      "date": "2026-06-25T13:02:56+00:00"
-    },
-    {
       "title": "The 'papers, please' era of the internet will decimate your privacy",
       "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "score": 642,
+      "score": 688,
       "source": "hn",
       "date": "2026-06-25T21:44:55+00:00"
     },
@@ -168,13 +168,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-25T16:04:46+00:00"
-    },
-    {
-      "title": "You didn't vibe code it, you stole it from open source&enterprise-licensed code",
-      "url": "https://twitter.com/mfts0/status/2070080422482977095",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-25T12:23:05+00:00"
     },
     {
       "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",

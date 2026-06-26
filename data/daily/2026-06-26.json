@@ -1,8 +1,8 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T07:47:51.741780+00:00",
-  "total_articles": 49,
-  "urgent_count": 4,
+  "generated_at": "2026-06-26T09:08:00.832042+00:00",
+  "total_articles": 55,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "We All Depend on Open Source. We Will Defend It Together",
@@ -17,20 +17,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-25T16:04:46+00:00"
-    },
-    {
-      "title": "You didn't vibe code it, you stole it from open source&enterprise-licensed code",
-      "url": "https://twitter.com/mfts0/status/2070080422482977095",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-25T12:23:05+00:00"
-    },
-    {
-      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
-      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-25T08:07:54+00:00"
     }
   ],
   "categories": [
@@ -41,7 +27,7 @@
         {
           "title": "An entire Herculaneum scroll has been read for the first time",
           "url": "https://scrollprize.org/firstscroll",
-          "score": 1238,
+          "score": 1285,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T15:48:07+00:00"
@@ -49,7 +35,7 @@
         {
           "title": "Om Malik has died",
           "url": "https://om.co/2026/06/24/1966-2026/",
-          "score": 822,
+          "score": 861,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T20:33:37+00:00"
@@ -57,7 +43,7 @@
         {
           "title": "Apple raises prices of MacBooks, iPads",
           "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-          "score": 697,
+          "score": 713,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T13:02:56+00:00"
@@ -65,7 +51,7 @@
         {
           "title": "The 'papers, please' era of the internet will decimate your privacy",
           "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-          "score": 642,
+          "score": 688,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T21:44:55+00:00"
@@ -82,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 13,
       "top_items": [
         {
           "title": "読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~",
@@ -90,7 +76,31 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-26T10:58:26+09:00"
+          "date": "2026-06-26T16:50:45+09:00"
+        },
+        {
+          "title": "AIエージェントを“セキュリティのプロ”に変える817個のスキル集 — Claude Code / Codex / Cursor / Copilot対応OSSを読み解く",
+          "url": "https://qiita.com/nogataka/items/8f99cc6fc97541a14b76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-26T10:50:21+09:00"
+        },
+        {
+          "title": "AIエージェントを実装して気づいた「ガードレールを敷ける設計力」の重要性",
+          "url": "https://qiita.com/ryuichi000persol/items/27789cbca88bd4bf11e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-26T10:28:17+09:00"
+        },
+        {
+          "title": "React Profilerを試す",
+          "url": "https://qiita.com/h-tanabe/items/c21adb5f80908ba8eb51?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-26T10:23:13+09:00"
         },
         {
           "title": "Autonomous AI Database：OCI Object Storageのバケットを作成するPL/SQLプロシージャを作ってみた",
@@ -99,30 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-26T09:29:07+09:00"
-        },
-        {
-          "title": "インフラしかわからない民、CURLおじさんになることを決意する。CURLでNerdGraph APIを叩いてみた!やってみて!!",
-          "url": "https://qiita.com/khara-nrkk/items/052b8da64c1b95d6613a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-26T09:06:59+09:00"
-        },
-        {
-          "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA",
-          "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-26T07:48:23+09:00"
-        },
-        {
-          "title": "油絵から学んだ、デザイン・コード・働き方に共通する「余白理論」",
-          "url": "https://qiita.com/Minotaurasu/items/7ac59c9034cac5e9e935?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-25T18:02:29+09:00"
         }
       ]
     },
