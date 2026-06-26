@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T19:33:59.420652+00:00",
-  "total_articles": 47,
+  "generated_at": "2026-06-26T20:35:45.675524+00:00",
+  "total_articles": 48,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,16 +22,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 33,
       "top_items": [
-        {
-          "title": "Om Malik has died",
-          "url": "https://om.co/2026/06/24/1966-2026/",
-          "score": 1236,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-25T20:33:37+00:00"
-        },
         {
           "title": "The 'papers, please' era of the internet will decimate your privacy",
           "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
@@ -41,20 +33,20 @@
           "date": "2026-06-25T21:44:55+00:00"
         },
         {
-          "title": "Incident CVE-2026-LGTM",
-          "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-          "score": 437,
-          "source": "hn",
-          "severity": "high",
-          "date": "2026-06-26T12:58:07+00:00"
-        },
-        {
           "title": "Previewing GPT‑5.6 Sol: a next-generation model",
           "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-          "score": 431,
+          "score": 551,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T17:06:55+00:00"
+        },
+        {
+          "title": "Incident CVE-2026-LGTM",
+          "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+          "score": 462,
+          "source": "hn",
+          "severity": "high",
+          "date": "2026-06-26T12:58:07+00:00"
         },
         {
           "title": "We all depend on open source. We will defend it together",
@@ -63,13 +55,29 @@
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-26T05:40:36+00:00"
+        },
+        {
+          "title": "U.S. government will decide who gets to use GPT-5.6",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+          "score": 377,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-26T18:23:14+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 15,
       "top_items": [
+        {
+          "title": "犯罪対策費でもGDPは増える？ ― 割れ窓の誤謬と社会的信頼を考える : Pythonで学ぶ マクロ経済学入門 (93)",
+          "url": "https://qiita.com/maskot1977/items/e33c1b7235cedce57675?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-27T01:09:51+09:00"
+        },
         {
           "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA",
           "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -87,28 +95,20 @@
           "date": "2026-06-26T19:08:48+09:00"
         },
         {
-          "title": "読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~",
-          "url": "https://qiita.com/n-isd/items/46eeee2dbc282cb16e2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【Frontend CSS – パート14】Style Query・Container Naming・実践パターンまで徹底解説",
+          "url": "https://qiita.com/tuanphan/items/5179c23d9b5a25ceeb2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-26T16:50:45+09:00"
+          "date": "2026-06-26T17:58:43+09:00"
         },
         {
-          "title": "AIエージェントを“セキュリティのプロ”に変える817個のスキル集 — Claude Code / Codex / Cursor / Copilot対応OSSを読み解く",
-          "url": "https://qiita.com/nogataka/items/8f99cc6fc97541a14b76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【Frontend CSS – パート13】ブラウザから見たレスポンシブレイアウト：なぜMedia Queryだけでは不十分なのか？",
+          "url": "https://qiita.com/tuanphan/items/a61df9abfb995fcf267e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-26T10:50:21+09:00"
-        },
-        {
-          "title": "AIエージェントを実装して気づいた「ガードレールを敷ける設計力」の重要性",
-          "url": "https://qiita.com/ryuichi000persol/items/27789cbca88bd4bf11e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-26T10:28:17+09:00"
+          "date": "2026-06-26T17:17:31+09:00"
         }
       ]
     }
