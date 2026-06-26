@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated_at": "2026-06-26T03:09:24.702331+00:00",
+  "generated_at": "2026-06-26T04:55:58.724566+00:00",
   "total_articles": 48,
   "urgent_count": 4,
   "urgent_items": [
@@ -36,15 +36,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 39,
       "top_items": [
         {
           "title": "An entire Herculaneum scroll has been read for the first time",
           "url": "https://scrollprize.org/firstscroll",
-          "score": 1029,
+          "score": 1100,
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T15:48:07+00:00"
+        },
+        {
+          "title": "Om Malik has died",
+          "url": "https://om.co/2026/06/24/1966-2026/",
+          "score": 663,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-25T20:33:37+00:00"
         },
         {
           "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
@@ -69,20 +77,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-25T06:00:04+00:00"
-        },
-        {
-          "title": "Om Malik has died",
-          "url": "https://om.co/2026/06/24/1966-2026/",
-          "score": 547,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-25T20:33:37+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~",
@@ -128,7 +128,7 @@
     },
     {
       "category": "注目リリース",
-      "count": 2,
+      "count": 1,
       "top_items": [
         {
           "title": "HackTheBox: Build Wrieup",
@@ -137,14 +137,6 @@
           "source": "project",
           "severity": null,
           "date": "2026-06-25T11:04:01Z"
-        },
-        {
-          "title": "HackTheBox: Nexus Writeup",
-          "url": "https://dev.to/exploitnotes/hackthebox-nexus-writeup-17od",
-          "score": 0,
-          "source": "project",
-          "severity": null,
-          "date": "2026-06-25T04:07:39Z"
         }
       ]
     }
