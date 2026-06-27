@@ -1,29 +1,37 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T20:48:20.060750+00:00",
-  "total_articles": 49,
-  "urgent_count": 1,
-  "urgent_items": [
-    {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-26T21:14:47+00:00"
-    }
-  ],
+  "generated_at": "2026-06-27T21:24:41.623796+00:00",
+  "total_articles": 45,
+  "urgent_count": 0,
+  "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 39,
+      "count": 35,
       "top_items": [
         {
           "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
           "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "score": 690,
+          "score": 694,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T09:18:52+00:00"
+        },
+        {
+          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+          "url": "https://github.com/bikini/exploitarium",
+          "score": 527,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-27T14:31:00+00:00"
+        },
+        {
+          "title": "Zuckerberg's war on whistleblowers",
+          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+          "score": 509,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-27T14:38:05+00:00"
         },
         {
           "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
@@ -34,25 +42,9 @@
           "date": "2026-06-26T22:48:28+00:00"
         },
         {
-          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-          "url": "https://github.com/bikini/exploitarium",
-          "score": 496,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-27T14:31:00+00:00"
-        },
-        {
-          "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
-          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-          "score": 485,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-27T14:38:05+00:00"
-        },
-        {
           "title": "OpenRA",
           "url": "https://www.openra.net/",
-          "score": 461,
+          "score": 481,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T12:10:27+00:00"
