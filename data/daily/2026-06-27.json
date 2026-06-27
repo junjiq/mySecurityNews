@@ -1,8 +1,8 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T12:29:35.049999+00:00",
-  "total_articles": 43,
-  "urgent_count": 3,
+  "generated_at": "2026-06-27T12:58:08.511692+00:00",
+  "total_articles": 42,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
@@ -17,13 +17,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-26T21:14:47+00:00"
-    },
-    {
-      "title": "Incident CVE-2026-LGTM",
-      "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-26T12:58:07+00:00"
     }
   ],
   "categories": [
@@ -34,7 +27,7 @@
         {
           "title": "U.S. government will decide who gets to use GPT-5.6",
           "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-          "score": 1070,
+          "score": 1073,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T18:23:14+00:00"
@@ -42,7 +35,7 @@
         {
           "title": "Previewing GPT‑5.6 Sol: a next-generation model",
           "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-          "score": 1030,
+          "score": 1033,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T17:06:55+00:00"
@@ -50,32 +43,32 @@
         {
           "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
           "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-          "score": 474,
+          "score": 479,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T22:48:28+00:00"
         },
         {
-          "title": "Incident CVE-2026-LGTM",
-          "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-          "score": 462,
-          "source": "hn",
-          "severity": "high",
-          "date": "2026-06-26T12:58:07+00:00"
-        },
-        {
           "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
           "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "score": 411,
+          "score": 460,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-27T09:18:52+00:00"
+        },
+        {
+          "title": "We can still stop California's 3D printer surveillance scheme",
+          "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+          "score": 410,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-26T21:13:50+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 4,
       "top_items": [
         {
           "title": "AWS Summit 2026  Builder Community セッション資料まとめ",
@@ -108,14 +101,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-27T01:09:51+09:00"
-        },
-        {
-          "title": "私がループエンジニアリングにあまり興味がない理由",
-          "url": "https://qiita.com/magicant/items/77361a0b1694ba629bec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-26T21:31:27+09:00"
         }
       ]
     }
