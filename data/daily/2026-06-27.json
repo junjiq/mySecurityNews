@@ -1,18 +1,26 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T21:24:41.623796+00:00",
-  "total_articles": 45,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-06-27T21:49:14.071247+00:00",
+  "total_articles": 48,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
+      "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-27T21:14:19+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 38,
       "top_items": [
         {
           "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
           "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "score": 694,
+          "score": 700,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T09:18:52+00:00"
@@ -20,7 +28,7 @@
         {
           "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
           "url": "https://github.com/bikini/exploitarium",
-          "score": 527,
+          "score": 542,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T14:31:00+00:00"
@@ -28,7 +36,7 @@
         {
           "title": "Zuckerberg's war on whistleblowers",
           "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-          "score": 509,
+          "score": 525,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T14:38:05+00:00"
@@ -44,7 +52,7 @@
         {
           "title": "OpenRA",
           "url": "https://www.openra.net/",
-          "score": 481,
+          "score": 493,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T12:10:27+00:00"

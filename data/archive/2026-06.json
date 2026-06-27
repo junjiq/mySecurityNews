@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-27T21:24:41.668925+00:00",
+  "generated_at": "2026-06-27T21:49:14.114793+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 353,
@@ -8,7 +8,7 @@
     "project": 12
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "high": 5,
     "medium": 4
   },
@@ -93,7 +93,7 @@
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 694,
+      "score": 700,
       "source": "hn",
       "date": "2026-06-27T09:18:52+00:00"
     },
@@ -147,14 +147,21 @@
       "date": "2026-06-22T21:21:01+00:00"
     },
     {
-      "title": "Jerry's Map",
-      "url": "http://www.jerrysmap.com/the-map",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
       "score": 542,
       "source": "hn",
-      "date": "2026-06-23T18:40:22+00:00"
+      "date": "2026-06-27T14:31:00+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
+      "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-27T21:14:19+00:00"
+    },
     {
       "title": "The gap between open weights LLMs and closed source LLMs",
       "url": "https://blog.doubleword.ai/frontier-os-llm",
