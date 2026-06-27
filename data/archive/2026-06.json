@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-27T12:58:08.556792+00:00",
+  "generated_at": "2026-06-27T13:38:40.980178+00:00",
   "total_articles": 459,
   "source_counts": {
     "hn": 357,
@@ -8,8 +8,8 @@
     "project": 9
   },
   "severity_counts": {
-    "critical": 9,
-    "high": 6,
+    "critical": 8,
+    "high": 5,
     "medium": 4
   },
   "top_articles": [
@@ -51,7 +51,7 @@
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 1033,
+      "score": 1038,
       "source": "hn",
       "date": "2026-06-26T17:06:55+00:00"
     },
@@ -156,13 +156,6 @@
   ],
   "security_highlights": [
     {
-      "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-27T09:18:52+00:00"
-    },
-    {
       "title": "The gap between open weights LLMs and closed source LLMs",
       "url": "https://blog.doubleword.ai/frontier-os-llm",
       "severity": "critical",
@@ -252,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-22T21:52:54+00:00"
-    },
-    {
-      "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
-      "url": "https://github.com/dmtrKovalenko/ffs",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-21T20:44:33+00:00"
     }
   ]
 }
