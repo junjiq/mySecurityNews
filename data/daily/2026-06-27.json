@@ -1,8 +1,8 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T04:47:29.217880+00:00",
-  "total_articles": 45,
-  "urgent_count": 3,
+  "generated_at": "2026-06-27T06:13:00.348257+00:00",
+  "total_articles": 46,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "The gap between open weights LLMs and closed source LLMs",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-26T21:14:47+00:00"
-    },
-    {
-      "title": "We all depend on open source. We will defend it together",
-      "url": "https://akrites.org/letter/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-26T05:40:36+00:00"
     },
     {
       "title": "Incident CVE-2026-LGTM",
@@ -29,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 39,
       "top_items": [
         {
           "title": "U.S. government will decide who gets to use GPT-5.6",
           "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-          "score": 910,
+          "score": 943,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T18:23:14+00:00"
@@ -42,7 +35,7 @@
         {
           "title": "Previewing GPT‑5.6 Sol: a next-generation model",
           "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-          "score": 903,
+          "score": 930,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T17:06:55+00:00"
@@ -56,26 +49,26 @@
           "date": "2026-06-26T12:58:07+00:00"
         },
         {
-          "title": "We all depend on open source. We will defend it together",
-          "url": "https://akrites.org/letter/",
-          "score": 398,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-26T05:40:36+00:00"
-        },
-        {
-          "title": "Springer Nature has removed two studies by Max Planck",
-          "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
-          "score": 317,
+          "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+          "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+          "score": 347,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-26T14:10:26+00:00"
+          "date": "2026-06-26T22:48:28+00:00"
+        },
+        {
+          "title": "We can still stop California's 3D printer surveillance scheme",
+          "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+          "score": 331,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-26T21:13:50+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
         {
           "title": "犯罪対策費でもGDPは増える？ ― 割れ窓の誤謬と社会的信頼を考える : Pythonで学ぶ マクロ経済学入門 (93)",
