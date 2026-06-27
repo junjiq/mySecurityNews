@@ -1,9 +1,16 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T08:57:02.026664+00:00",
-  "total_articles": 45,
-  "urgent_count": 2,
+  "generated_at": "2026-06-27T09:46:52.026807+00:00",
+  "total_articles": 44,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-27T09:18:52+00:00"
+    },
     {
       "title": "The gap between open weights LLMs and closed source LLMs",
       "url": "https://blog.doubleword.ai/frontier-os-llm",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 36,
+      "count": 37,
       "top_items": [
         {
           "title": "U.S. government will decide who gets to use GPT-5.6",
           "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-          "score": 1008,
+          "score": 1025,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T18:23:14+00:00"
@@ -35,7 +42,7 @@
         {
           "title": "Previewing GPT‑5.6 Sol: a next-generation model",
           "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-          "score": 985,
+          "score": 1002,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T17:06:55+00:00"
@@ -51,7 +58,7 @@
         {
           "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
           "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-          "score": 415,
+          "score": 432,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T22:48:28+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "We can still stop California's 3D printer surveillance scheme",
           "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-          "score": 386,
+          "score": 396,
           "source": "hn",
           "severity": null,
           "date": "2026-06-26T21:13:50+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 7,
       "top_items": [
         {
           "title": "AWS Summit 2026  Builder Community セッション資料まとめ",

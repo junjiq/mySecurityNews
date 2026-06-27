@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-27T08:57:02.076178+00:00",
+  "generated_at": "2026-06-27T09:46:52.062960+00:00",
   "total_articles": 459,
   "source_counts": {
     "hn": 356,
@@ -44,14 +44,14 @@
     {
       "title": "U.S. government will decide who gets to use GPT-5.6",
       "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 1008,
+      "score": 1025,
       "source": "hn",
       "date": "2026-06-26T18:23:14+00:00"
     },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 985,
+      "score": 1002,
       "source": "hn",
       "date": "2026-06-26T17:06:55+00:00"
     },
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-27T09:18:52+00:00"
+    },
+    {
       "title": "The gap between open weights LLMs and closed source LLMs",
       "url": "https://blog.doubleword.ai/frontier-os-llm",
       "severity": "critical",
@@ -252,13 +259,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-21T20:44:33+00:00"
-    },
-    {
-      "title": "Burnout is real for open source maintainers",
-      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-21T16:56:18+00:00"
     }
   ]
 }
