@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T08:09:25.377706+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-06-28T09:36:19.497913+00:00",
+  "total_articles": 54,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,28 +15,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 41,
       "top_items": [
         {
           "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
           "url": "https://github.com/bikini/exploitarium",
-          "score": 786,
+          "score": 803,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T14:31:00+00:00"
         },
         {
-          "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "score": 733,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-27T09:18:52+00:00"
-        },
-        {
           "title": "OpenRA",
           "url": "https://www.openra.net/",
-          "score": 680,
+          "score": 707,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T12:10:27+00:00"
@@ -52,16 +44,24 @@
         {
           "title": "Fintech Engineering Handbook",
           "url": "https://w.pitula.me/fintech-engineering-handbook/",
-          "score": 546,
+          "score": 561,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T10:28:53+00:00"
+        },
+        {
+          "title": "The case for physical media ownership",
+          "url": "https://dervis.de/physical/",
+          "score": 437,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-27T11:32:10+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 12,
       "top_items": [
         {
           "title": "日本語プログラミング言語Mindでのスタックプログラミング基本のキ",
@@ -72,36 +72,36 @@
           "date": "2026-06-28T14:29:45+09:00"
         },
         {
-          "title": "AWS Summit 2026  「Builder Community」&「AWS HERO」 セッション資料まとめ",
-          "url": "https://qiita.com/tetutetu214/items/2af4f788bd0d1963eec7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【フロント基礎】SSR・CSR・SSG・ISR、結局どう使い分ける？ 答えは「データ単位」",
+          "url": "https://qiita.com/tomoki-miso/items/771ebac60ff6fa8594b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-28T09:46:07+09:00"
+          "date": "2026-06-28T13:15:41+09:00"
         },
         {
-          "title": "Antigravity SDKを触って、ようやく「自分用Antigravityを作る部品」だと少し見えた",
-          "url": "https://qiita.com/torifukukaiou/items/7f041125bcf109c5e2c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "JAWS-UG神戸支部CTF Game大会参加レポ",
+          "url": "https://qiita.com/inorin__62/items/38acc7d01417b647eb13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-28T00:31:14+09:00"
+          "date": "2026-06-28T11:35:29+09:00"
         },
         {
-          "title": "Antigravity SDKで、ソースコードとズレたREADMEを直してみた",
-          "url": "https://qiita.com/torifukukaiou/items/658d89d4d7a08b89845c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Power BI を一番うまく分析できるエージェント構成はどれか。比較してみた",
+          "url": "https://qiita.com/ryoma-nagata/items/3901af1e2d862bcd5ab3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-28T00:29:36+09:00"
+          "date": "2026-06-28T11:00:53+09:00"
         },
         {
-          "title": "【Vue.js】イベントリスナーについて",
-          "url": "https://qiita.com/metappi/items/f6f1bc00acd058616efd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【AWS Summit Japan 2026】1日目参加レポート（AWS Jamにも参加！）",
+          "url": "https://qiita.com/eureka_/items/4fa9a7efcbcd841014c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-27T23:27:08+09:00"
+          "date": "2026-06-28T10:27:28+09:00"
         }
       ]
     },
