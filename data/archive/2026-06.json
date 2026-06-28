@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-28T12:30:21.909113+00:00",
+  "generated_at": "2026-06-28T13:04:08.366663+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 350,
@@ -8,18 +8,11 @@
     "project": 12
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 10,
     "high": 5,
     "medium": 4
   },
   "top_articles": [
-    {
-      "title": "Steam Machine launches today",
-      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1825,
-      "source": "hn",
-      "date": "2026-06-22T17:09:51+00:00"
-    },
     {
       "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
@@ -58,7 +51,7 @@
     {
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "url": "https://github.com/bikini/exploitarium",
-      "score": 844,
+      "score": 858,
       "source": "hn",
       "date": "2026-06-27T14:31:00+00:00"
     },
@@ -86,7 +79,7 @@
     {
       "title": "OpenRA",
       "url": "https://www.openra.net/",
-      "score": 752,
+      "score": 755,
       "source": "hn",
       "date": "2026-06-27T12:10:27+00:00"
     },
@@ -152,9 +145,23 @@
       "score": 571,
       "source": "hn",
       "date": "2026-06-25T12:23:05+00:00"
+    },
+    {
+      "title": "GLM-5.2 – How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "score": 559,
+      "source": "hn",
+      "date": "2026-06-22T21:21:01+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "The origins of the school system aimed to produce independent, critical thinkers",
+      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-28T12:55:36+00:00"
+    },
     {
       "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
       "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
