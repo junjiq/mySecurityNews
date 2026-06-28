@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T22:23:56.002790+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-06-28T22:48:51.547439+00:00",
+  "total_articles": 66,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 50,
       "top_items": [
         {
           "title": "EU to legislate about Chat Control behind closed doors",
@@ -43,10 +43,18 @@
         {
           "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
           "url": "https://pudding.cool/2026/06/menu-story/",
-          "score": 298,
+          "score": 299,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T14:44:56+00:00"
+        },
+        {
+          "title": "I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "score": 281,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-28T16:35:19+00:00"
         },
         {
           "title": "Flock cameras track more than your license plate, and they're spreading fast",
@@ -55,14 +63,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T14:35:26+00:00"
-        },
-        {
-          "title": "The best response to AI slop and online noise is from Robin Williams",
-          "url": "https://jayacunzo.com/blog/your-move-chief",
-          "score": 276,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-28T01:28:10+00:00"
         }
       ]
     },
@@ -76,7 +76,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-29T04:08:01+09:00"
+          "date": "2026-06-29T07:29:48+09:00"
         },
         {
           "title": "Jenkinsの失敗ログをn8nで回収してClaudeに原因調査させ、Slackへ自動通知する",
