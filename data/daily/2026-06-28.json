@@ -1,9 +1,16 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T14:12:03.672844+00:00",
-  "total_articles": 52,
-  "urgent_count": 2,
+  "generated_at": "2026-06-28T15:02:01.513044+00:00",
+  "total_articles": 51,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
+      "url": "https://github.com/open-energy-transition/open-tyndp",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-28T14:05:47+00:00"
+    },
     {
       "title": "The origins of the school system aimed to produce independent, critical thinkers",
       "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
@@ -25,25 +32,9 @@
       "count": 40,
       "top_items": [
         {
-          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-          "url": "https://github.com/bikini/exploitarium",
-          "score": 877,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-27T14:31:00+00:00"
-        },
-        {
-          "title": "Zuckerberg's war on whistleblowers",
-          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-          "score": 599,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-27T14:38:05+00:00"
-        },
-        {
           "title": "Marfa Public Radio Puts You to Sleep",
           "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-          "score": 310,
+          "score": 329,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T02:23:08+00:00"
@@ -63,12 +54,28 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T19:09:49+00:00"
+        },
+        {
+          "title": "Turn your site into a place people can bump into each other",
+          "url": "https://cauenapier.com/blog/townsquare_release/",
+          "score": 270,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-27T17:11:20+00:00"
+        },
+        {
+          "title": "Choosing a Public DNS Resolver",
+          "url": "https://evilbit.de/dns-resolver-guide.html",
+          "score": 223,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-27T22:11:28+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
         {
           "title": "日本語プログラミング言語Mindでのスタックプログラミング基本のキ",
