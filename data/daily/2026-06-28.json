@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T15:02:01.513044+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-06-28T15:55:34.112577+00:00",
+  "total_articles": 53,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 43,
       "top_items": [
         {
           "title": "Marfa Public Radio Puts You to Sleep",
           "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-          "score": 329,
+          "score": 339,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T02:23:08+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "Choosing a Public DNS Resolver",
           "url": "https://evilbit.de/dns-resolver-guide.html",
-          "score": 223,
+          "score": 235,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T22:11:28+00:00"
@@ -75,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
+        {
+          "title": "RasPi 5にSSD+NPUの構成を構築するのは思いの外難しい",
+          "url": "https://qiita.com/y-vectorfield/items/163d7263abe84a293bf9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-29T00:38:58+09:00"
+        },
         {
           "title": "日本語プログラミング言語Mindでのスタックプログラミング基本のキ",
           "url": "https://qiita.com/mylifewithviolin/items/c510b87a8111e6d2b236?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-28T11:00:53+09:00"
-        },
-        {
-          "title": "【AWS Summit Japan 2026】1日目参加レポート（AWS Jamにも参加！）",
-          "url": "https://qiita.com/eureka_/items/4fa9a7efcbcd841014c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-28T10:27:28+09:00"
         }
       ]
     },
