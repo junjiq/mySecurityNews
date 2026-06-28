@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T05:02:04.696974+00:00",
+  "generated_at": "2026-06-28T06:51:18.796073+00:00",
   "total_articles": 51,
   "urgent_count": 1,
   "urgent_items": [
@@ -15,8 +15,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
+        {
+          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+          "url": "https://github.com/bikini/exploitarium",
+          "score": 761,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-27T14:31:00+00:00"
+        },
         {
           "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
           "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
@@ -26,17 +34,9 @@
           "date": "2026-06-27T09:18:52+00:00"
         },
         {
-          "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-          "url": "https://github.com/bikini/exploitarium",
-          "score": 726,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-27T14:31:00+00:00"
-        },
-        {
           "title": "OpenRA",
           "url": "https://www.openra.net/",
-          "score": 624,
+          "score": 653,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T12:10:27+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "Fintech Engineering Handbook",
           "url": "https://w.pitula.me/fintech-engineering-handbook/",
-          "score": 506,
+          "score": 531,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T10:28:53+00:00"
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "日本語プログラミング言語Mindでのスタックプログラミング基本のキ",
@@ -69,7 +69,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-28T10:18:48+09:00"
+          "date": "2026-06-28T14:29:45+09:00"
         },
         {
           "title": "AWS Summit 2026  「Builder Community」&「AWS HERO」 セッション資料まとめ",
