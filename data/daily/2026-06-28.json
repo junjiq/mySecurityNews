@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T06:51:18.796073+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-06-28T08:09:25.377706+00:00",
+  "total_articles": 48,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 42,
       "top_items": [
         {
           "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
           "url": "https://github.com/bikini/exploitarium",
-          "score": 761,
+          "score": 786,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T14:31:00+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "OpenRA",
           "url": "https://www.openra.net/",
-          "score": 653,
+          "score": 680,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T12:10:27+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "Fintech Engineering Handbook",
           "url": "https://w.pitula.me/fintech-engineering-handbook/",
-          "score": 531,
+          "score": 546,
           "source": "hn",
           "severity": null,
           "date": "2026-06-27T10:28:53+00:00"
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
         {
           "title": "日本語プログラミング言語Mindでのスタックプログラミング基本のキ",
@@ -107,7 +107,7 @@
     },
     {
       "category": "注目リリース",
-      "count": 2,
+      "count": 1,
       "top_items": [
         {
           "title": "HackTheBox: Down Writeup",
@@ -116,14 +116,6 @@
           "source": "project",
           "severity": null,
           "date": "2026-06-27T17:43:19Z"
-        },
-        {
-          "title": "HackTheBox: FireFlow Writeup",
-          "url": "https://dev.to/exploitnotes/hackthebox-fireflow-writeup-3kmi",
-          "score": 0,
-          "source": "project",
-          "severity": null,
-          "date": "2026-06-27T07:10:37Z"
         }
       ]
     }
