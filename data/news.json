@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-06-28T03:09:47.285966+00:00",
+  "updated_at": "2026-06-28T05:02:04.636451+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48704373",
+      "source": "hn",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "score": 6,
+      "comments": 0,
+      "author": "handfuloflight",
+      "tags": [],
+      "date": "2026-06-28T04:31:18+00:00"
+    },
+    {
+      "id": "hn-48703968",
+      "source": "hn",
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "score": 63,
+      "comments": 38,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-06-28T03:09:13+00:00"
+    },
     {
       "id": "hn-48703759",
       "source": "hn",
       "title": "Marfa Public Radio Puts You to Sleep",
       "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "score": 33,
-      "comments": 1,
+      "score": 93,
+      "comments": 27,
       "author": "reaperducer",
       "tags": [],
       "date": "2026-06-28T02:23:08+00:00"
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
       "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
-      "score": 14,
-      "comments": 8,
+      "score": 70,
+      "comments": 43,
       "author": "mraniki",
       "tags": [],
       "date": "2026-06-28T01:55:21+00:00"
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "Response to AI slop is from Robin Williams",
       "url": "https://jayacunzo.com/blog/your-move-chief",
-      "score": 55,
-      "comments": 24,
+      "score": 125,
+      "comments": 72,
       "author": "herbertl",
       "tags": [],
       "date": "2026-06-28T01:28:10+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
       "url": "https://decomp-academy.dev",
-      "score": 40,
-      "comments": 11,
+      "score": 69,
+      "comments": 27,
       "author": "jackpriceburns",
       "tags": [],
       "date": "2026-06-28T01:21:20+00:00"
@@ -64,8 +86,8 @@
       "source": "hn",
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
       "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "score": 50,
-      "comments": 2,
+      "score": 76,
+      "comments": 11,
       "author": "jakogut",
       "tags": [],
       "date": "2026-06-28T00:46:52+00:00"
@@ -84,12 +106,23 @@
       "date": "2026-06-28T09:46:07+09:00"
     },
     {
+      "id": "hn-48702848",
+      "source": "hn",
+      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+      "score": 30,
+      "comments": 1,
+      "author": "saisrirampur",
+      "tags": [],
+      "date": "2026-06-27T23:32:58+00:00"
+    },
+    {
       "id": "hn-48702273",
       "source": "hn",
       "title": "Choosing a Public DNS Resolver",
       "url": "https://evilbit.de/dns-resolver-guide.html",
-      "score": 75,
-      "comments": 25,
+      "score": 101,
+      "comments": 31,
       "author": "pawal",
       "tags": [],
       "date": "2026-06-27T22:11:28+00:00"
@@ -132,8 +165,8 @@
       "source": "hn",
       "title": "Enhancing X11 Application Security with LXC",
       "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-      "score": 42,
-      "comments": 11,
+      "score": 54,
+      "comments": 17,
       "author": "shirozuki",
       "tags": [],
       "date": "2026-06-27T21:27:36+00:00"
@@ -188,8 +221,8 @@
       "source": "hn",
       "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
       "url": "https://ipcrawl.com/",
-      "score": 252,
-      "comments": 128,
+      "score": 271,
+      "comments": 134,
       "author": "arm32",
       "tags": [],
       "date": "2026-06-27T19:09:49+00:00"
@@ -246,8 +279,8 @@
       "source": "hn",
       "title": "Turn your site into a place people can bump into each other",
       "url": "https://cauenapier.com/blog/townsquare_release/",
-      "score": 167,
-      "comments": 77,
+      "score": 184,
+      "comments": 82,
       "author": "eustoria",
       "tags": [],
       "date": "2026-06-27T17:11:20+00:00"
@@ -327,8 +360,8 @@
       "source": "hn",
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "url": "https://github.com/bikini/exploitarium",
-      "score": 690,
-      "comments": 275,
+      "score": 726,
+      "comments": 284,
       "author": "binyu",
       "tags": [],
       "date": "2026-06-27T14:31:00+00:00"
@@ -351,8 +384,8 @@
       "source": "hn",
       "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
       "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-      "score": 137,
-      "comments": 42,
+      "score": 140,
+      "comments": 46,
       "author": "Versipelle",
       "tags": [],
       "date": "2026-06-27T14:23:40+00:00"
@@ -384,8 +417,8 @@
       "source": "hn",
       "title": "Suspicious Discontinuities (2020)",
       "url": "https://danluu.com/discontinuities/",
-      "score": 216,
-      "comments": 66,
+      "score": 224,
+      "comments": 70,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-27T13:32:20+00:00"
@@ -395,8 +428,8 @@
       "source": "hn",
       "title": "Asian AI startups launch Mythos-like models",
       "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "score": 160,
-      "comments": 137,
+      "score": 189,
+      "comments": 145,
       "author": "bogdiyan",
       "tags": [],
       "date": "2026-06-27T13:10:21+00:00"
@@ -428,8 +461,8 @@
       "source": "hn",
       "title": "OpenRA",
       "url": "https://www.openra.net/",
-      "score": 600,
-      "comments": 120,
+      "score": 624,
+      "comments": 123,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-27T12:10:27+00:00"
@@ -450,8 +483,8 @@
       "source": "hn",
       "title": "The case for physical media ownership",
       "url": "https://dervis.de/physical/",
-      "score": 382,
-      "comments": 250,
+      "score": 388,
+      "comments": 256,
       "author": "cemdervis",
       "tags": [],
       "date": "2026-06-27T11:32:10+00:00"
@@ -461,7 +494,7 @@
       "source": "hn",
       "title": "Fintech Engineering Handbook",
       "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "score": 493,
+      "score": 506,
       "comments": 163,
       "author": "signa11",
       "tags": [],
@@ -1012,11 +1045,22 @@
       "source": "hn",
       "title": "Space Shuttle Endeavour's 20-story vertical display",
       "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
-      "score": 22,
-      "comments": 2,
+      "score": 35,
+      "comments": 6,
       "author": "uticus",
       "tags": [],
       "date": "2026-06-26T12:49:48+00:00"
+    },
+    {
+      "id": "hn-48685967",
+      "source": "hn",
+      "title": "The Shape of the System - Engineering for Bounded Cognition",
+      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+      "score": 4,
+      "comments": 0,
+      "author": "supermatt",
+      "tags": [],
+      "date": "2026-06-26T12:41:31+00:00"
     },
     {
       "id": "qiita-a9712b9942",
@@ -1862,8 +1906,8 @@
       "source": "hn",
       "title": "Regular expressions that work \"everywhere\"",
       "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
-      "score": 21,
-      "comments": 7,
+      "score": 31,
+      "comments": 12,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-06-25T12:13:24+00:00"
@@ -2453,8 +2497,8 @@
       "source": "hn",
       "title": "Reducing tick density along recreational trails in Ottawa, Canada",
       "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
-      "score": 163,
-      "comments": 93,
+      "score": 174,
+      "comments": 96,
       "author": "bushwart",
       "tags": [],
       "date": "2026-06-24T18:42:12+00:00"
@@ -2752,8 +2796,8 @@
       "source": "hn",
       "title": "AI learns the “dark art” of RFIC design",
       "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "score": 198,
-      "comments": 131,
+      "score": 207,
+      "comments": 138,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-06-24T14:02:16+00:00"
@@ -3634,6 +3678,17 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-06-23T17:45:20+00:00"
+    },
+    {
+      "id": "hn-48648493",
+      "source": "hn",
+      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+      "score": 16,
+      "comments": 3,
+      "author": "NaOH",
+      "tags": [],
+      "date": "2026-06-23T17:40:01+00:00"
     },
     {
       "id": "qiita-f60a94b034",
@@ -5766,81 +5821,6 @@
       "source": "msf",
       "title": "[webapps] MikroORM   7.0.13 - SQL Injection",
       "url": "https://www.exploit-db.com/exploits/52600",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-b44998ab02",
-      "source": "msf",
-      "title": "[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion",
-      "url": "https://www.exploit-db.com/exploits/52598",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0b1081a580",
-      "source": "msf",
-      "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52597",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-7fd71d4802",
-      "source": "msf",
-      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52596",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e827c93897",
-      "source": "msf",
-      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
-      "url": "https://www.exploit-db.com/exploits/52595",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e7ed248f76",
-      "source": "msf",
-      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
-      "url": "https://www.exploit-db.com/exploits/52594",
       "score": null,
       "author": "Exploit-DB",
       "tags": [
