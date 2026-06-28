@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T19:31:58.469407+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-06-28T20:27:40.131390+00:00",
+  "total_articles": 69,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 53,
       "top_items": [
         {
           "title": "EU to legislate about Chat Control behind closed doors",
           "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-          "score": 422,
+          "score": 473,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T14:40:13+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
           "url": "https://pudding.cool/2026/06/menu-story/",
-          "score": 252,
+          "score": 275,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T14:44:56+00:00"
@@ -75,8 +75,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 16,
       "top_items": [
+        {
+          "title": "Claude Codeの会話履歴が別のPCに勝手に出てきた——漏洩?どこに保存され、何が同期し、どう止めるか",
+          "url": "https://qiita.com/yurukusa/items/bed1ffdb1a7c9c20f13a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-29T04:08:01+09:00"
+        },
+        {
+          "title": "Jenkinsの失敗ログをn8nで回収してClaudeに原因調査させ、Slackへ自動通知する",
+          "url": "https://qiita.com/jqit-yukiono/items/61985c6743b89aa6924b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-29T03:03:00+09:00"
+        },
         {
           "title": "RasPi 5にSSD+NPUの構成を構築するのは思いの外難しい",
           "url": "https://qiita.com/y-vectorfield/items/163d7263abe84a293bf9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,36 +102,20 @@
           "date": "2026-06-29T00:38:58+09:00"
         },
         {
-          "title": "日本語プログラミング言語Mindでのスタックプログラミング基本のキ",
-          "url": "https://qiita.com/mylifewithviolin/items/c510b87a8111e6d2b236?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "VR向けテクスチャ縮小方式の考察とUnityにおけるArea Averagingの実装",
+          "url": "https://qiita.com/Sersz7/items/42b090a12f4c52254292?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-28T14:29:45+09:00"
+          "date": "2026-06-28T23:58:48+09:00"
         },
         {
-          "title": "【フロント基礎】SSR・CSR・SSG・ISR、結局どう使い分ける？ 答えは「データ単位」",
-          "url": "https://qiita.com/tomoki-miso/items/771ebac60ff6fa8594b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "2026 Japan AWS Jr. Championsに選出されるまでにやったこと",
+          "url": "https://qiita.com/manaty/items/d29f08e4b8a1893961a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-28T13:15:41+09:00"
-        },
-        {
-          "title": "JAWS-UG神戸支部CTF Game大会参加レポ",
-          "url": "https://qiita.com/inorin__62/items/38acc7d01417b647eb13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-28T11:35:29+09:00"
-        },
-        {
-          "title": "Power BI を一番うまく分析できるエージェント構成はどれか。比較してみた",
-          "url": "https://qiita.com/ryoma-nagata/items/3901af1e2d862bcd5ab3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-28T11:00:53+09:00"
+          "date": "2026-06-28T22:14:51+09:00"
         }
       ]
     }
