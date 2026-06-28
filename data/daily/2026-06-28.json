@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T22:48:51.547439+00:00",
-  "total_articles": 66,
+  "generated_at": "2026-06-28T23:24:57.060308+00:00",
+  "total_articles": 68,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 53,
       "top_items": [
         {
           "title": "EU to legislate about Chat Control behind closed doors",
@@ -41,9 +41,17 @@
           "date": "2026-06-28T02:23:08+00:00"
         },
         {
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "score": 304,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-28T17:50:47+00:00"
+        },
+        {
           "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
           "url": "https://pudding.cool/2026/06/menu-story/",
-          "score": 299,
+          "score": 304,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T14:44:56+00:00"
@@ -51,24 +59,16 @@
         {
           "title": "I used Claude Code to get a second opinion on my MRI",
           "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-          "score": 281,
+          "score": 296,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T16:35:19+00:00"
-        },
-        {
-          "title": "Flock cameras track more than your license plate, and they're spreading fast",
-          "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
-          "score": 280,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-28T14:35:26+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 15,
       "top_items": [
         {
           "title": "Claude Codeの会話履歴が別のPCに勝手に出てきた——漏洩?どこに保存され、何が同期し、どう止めるか",
