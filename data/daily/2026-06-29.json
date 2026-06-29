@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T09:08:44.279696+00:00",
-  "total_articles": 70,
+  "generated_at": "2026-06-29T11:15:25.504044+00:00",
+  "total_articles": 71,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,15 +36,39 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 55,
       "top_items": [
         {
           "title": "GLM 5.2 beats Claude in our benchmarks",
           "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-          "score": 819,
+          "score": 882,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T17:50:47+00:00"
+        },
+        {
+          "title": "Age verification is just a precursor to automated attribution of speech",
+          "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+          "score": 552,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-29T03:42:07+00:00"
+        },
+        {
+          "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+          "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+          "score": 518,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-06-29T01:44:40+00:00"
+        },
+        {
+          "title": "The KIDS Act would require age checks to get online",
+          "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+          "score": 504,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-28T11:56:16+00:00"
         },
         {
           "title": "EU to legislate about Chat Control behind closed doors",
@@ -53,36 +77,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T14:40:13+00:00"
-        },
-        {
-          "title": "The KIDS Act would require age checks to get online",
-          "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-          "score": 474,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-28T11:56:16+00:00"
-        },
-        {
-          "title": "Age verification is just a precursor to automated attribution of speech",
-          "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-          "score": 427,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-29T03:42:07+00:00"
-        },
-        {
-          "title": "I used Claude Code to get a second opinion on my MRI",
-          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-          "score": 426,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-28T16:35:19+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 18,
+      "count": 16,
       "top_items": [
         {
           "title": "Power BI を一番うまく分析できるエージェント構成はどれか。比較してみた",
