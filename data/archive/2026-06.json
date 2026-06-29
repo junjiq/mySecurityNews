@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-29T01:46:14.987371+00:00",
+  "generated_at": "2026-06-29T03:10:41.205378+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 354,
-    "zennqiita": 95,
+    "hn": 356,
+    "zennqiita": 93,
     "project": 12
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 11,
     "high": 5,
     "medium": 4
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Tell Congress: Don't Force Age Checks Online",
+      "url": "https://act.eff.org/action/tell-congress-don-t-force-age-checks-online",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-29T01:52:55+00:00"
+    },
     {
       "title": "EU Open Sources Ten-Year Network Development Planning Tools",
       "url": "https://github.com/open-energy-transition/open-tyndp",
