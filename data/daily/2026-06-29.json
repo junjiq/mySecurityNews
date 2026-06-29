@@ -1,8 +1,8 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T03:10:41.162904+00:00",
+  "generated_at": "2026-06-29T05:05:38.063643+00:00",
   "total_articles": 60,
-  "urgent_count": 3,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "Tell Congress: Don't Force Age Checks Online",
@@ -10,6 +10,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-29T01:52:55+00:00"
+    },
+    {
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-29T01:44:40+00:00"
     },
     {
       "title": "EU Open Sources Ten-Year Network Development Planning Tools",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 50,
       "top_items": [
         {
           "title": "GLM 5.2 beats Claude in our benchmarks",
           "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-          "score": 519,
+          "score": 615,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T17:50:47+00:00"
@@ -48,9 +55,17 @@
           "date": "2026-06-28T14:40:13+00:00"
         },
         {
+          "title": "The KIDS Act would require age checks to get online",
+          "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+          "score": 392,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-28T11:56:16+00:00"
+        },
+        {
           "title": "I used Claude Code to get a second opinion on my MRI",
           "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-          "score": 361,
+          "score": 383,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T16:35:19+00:00"
@@ -58,25 +73,25 @@
         {
           "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
           "url": "https://pudding.cool/2026/06/menu-story/",
-          "score": 335,
+          "score": 346,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T14:44:56+00:00"
-        },
-        {
-          "title": "The KIDS Act would require age checks to get online",
-          "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-          "score": 335,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-28T11:56:16+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
+        {
+          "title": "Power BI を一番うまく分析できるエージェント構成はどれか。比較してみた",
+          "url": "https://qiita.com/ryoma-nagata/items/3901af1e2d862bcd5ab3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-29T13:58:52+09:00"
+        },
         {
           "title": "Claude Codeの会話履歴が別のPCに勝手に出てきた——漏洩?どこに保存され、何が同期し、どう止めるか",
           "url": "https://qiita.com/yurukusa/items/bed1ffdb1a7c9c20f13a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-28T23:58:48+09:00"
-        },
-        {
-          "title": "2026 Japan AWS Jr. Championsに選出されるまでにやったこと",
-          "url": "https://qiita.com/manaty/items/d29f08e4b8a1893961a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-28T22:14:51+09:00"
         }
       ]
     }

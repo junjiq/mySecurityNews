@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-29T03:10:41.205378+00:00",
+  "generated_at": "2026-06-29T05:05:38.105644+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 356,
-    "zennqiita": 93,
+    "hn": 358,
+    "zennqiita": 91,
     "project": 12
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "high": 5,
     "medium": 4
   },
@@ -112,6 +112,13 @@
       "date": "2026-06-25T14:08:55+00:00"
     },
     {
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "score": 615,
+      "source": "hn",
+      "date": "2026-06-28T17:50:47+00:00"
+    },
+    {
       "title": "Half-Life 2 in a Browser",
       "url": "https://hl2.slqnt.dev/",
       "score": 613,
@@ -145,13 +152,6 @@
       "score": 571,
       "source": "hn",
       "date": "2026-06-25T12:23:05+00:00"
-    },
-    {
-      "title": "Jerry's Map",
-      "url": "http://www.jerrysmap.com/the-map",
-      "score": 542,
-      "source": "hn",
-      "date": "2026-06-23T18:40:22+00:00"
     }
   ],
   "security_highlights": [
@@ -161,6 +161,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-29T01:52:55+00:00"
+    },
+    {
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-29T01:44:40+00:00"
     },
     {
       "title": "EU Open Sources Ten-Year Network Development Planning Tools",
