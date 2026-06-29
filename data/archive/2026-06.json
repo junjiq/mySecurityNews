@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-29T14:24:17.872591+00:00",
+  "generated_at": "2026-06-29T15:46:23.835140+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 348,
@@ -8,7 +8,7 @@
     "project": 12
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "high": 5,
     "medium": 4
   },
@@ -70,11 +70,25 @@
       "date": "2026-06-24T08:50:41+00:00"
     },
     {
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "score": 794,
+      "source": "hn",
+      "date": "2026-06-29T03:42:07+00:00"
+    },
+    {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "score": 789,
       "source": "hn",
       "date": "2026-06-24T17:47:00+00:00"
+    },
+    {
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "score": 777,
+      "source": "hn",
+      "date": "2026-06-29T01:44:40+00:00"
     },
     {
       "title": "Apple raises prices of MacBooks, iPads",
@@ -98,20 +112,6 @@
       "date": "2026-06-27T09:18:52+00:00"
     },
     {
-      "title": "Age verification is just a precursor to automated attribution of speech",
-      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "score": 724,
-      "source": "hn",
-      "date": "2026-06-29T03:42:07+00:00"
-    },
-    {
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "score": 715,
-      "source": "hn",
-      "date": "2026-06-29T01:44:40+00:00"
-    },
-    {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "score": 712,
@@ -133,6 +133,13 @@
       "date": "2026-06-25T14:08:55+00:00"
     },
     {
+      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "score": 624,
+      "source": "hn",
+      "date": "2026-06-29T09:28:08+00:00"
+    },
+    {
       "title": "Half-Life 2 in a Browser",
       "url": "https://hl2.slqnt.dev/",
       "score": 613,
@@ -145,16 +152,16 @@
       "score": 599,
       "source": "hn",
       "date": "2026-06-27T14:38:05+00:00"
-    },
-    {
-      "title": "F3",
-      "url": "https://github.com/future-file-format/f3",
-      "score": 593,
-      "source": "hn",
-      "date": "2026-06-23T16:53:32+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "DocumentDB – a MongoDB compatible open-source database",
+      "url": "https://documentdb.io/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-29T14:09:15+00:00"
+    },
     {
       "title": "Tell Congress: Don't Force Age Checks Online",
       "url": "https://act.eff.org/action/tell-congress-don-t-force-age-checks-online",
