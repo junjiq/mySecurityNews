@@ -1,9 +1,16 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T17:02:15.936412+00:00",
-  "total_articles": 57,
-  "urgent_count": 3,
+  "generated_at": "2026-06-29T18:15:18.460586+00:00",
+  "total_articles": 59,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-29T17:16:17+00:00"
+    },
     {
       "title": "DocumentDB – a MongoDB compatible open-source database",
       "url": "https://documentdb.io/",
@@ -29,20 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 51,
       "top_items": [
-        {
-          "title": "GLM 5.2 beats Claude in our benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-          "score": 981,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-28T17:50:47+00:00"
-        },
         {
           "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
           "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-          "score": 828,
+          "score": 868,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-29T01:44:40+00:00"
@@ -58,7 +57,7 @@
         {
           "title": "Pollen tried to remove my article and Google is assisting with it",
           "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-          "score": 700,
+          "score": 747,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T09:28:08+00:00"
@@ -70,12 +69,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T18:48:53+00:00"
+        },
+        {
+          "title": "Historical memory prices 1960-2026",
+          "url": "https://dam.stanford.edu/memory-prices.html",
+          "score": 357,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-28T18:32:53+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "VR向けテクスチャ縮小方式の考察とUnityにおけるArea Averagingの実装",

@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-29T17:02:15.980134+00:00",
+  "generated_at": "2026-06-29T18:15:18.495518+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 349,
@@ -8,7 +8,7 @@
     "project": 12
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "high": 5,
     "medium": 4
   },
@@ -63,18 +63,18 @@
       "date": "2026-06-27T14:31:00+00:00"
     },
     {
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "score": 868,
+      "source": "hn",
+      "date": "2026-06-29T01:44:40+00:00"
+    },
+    {
       "title": "We’re making Bunny DNS free",
       "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
       "score": 841,
       "source": "hn",
       "date": "2026-06-24T08:50:41+00:00"
-    },
-    {
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "score": 828,
-      "source": "hn",
-      "date": "2026-06-29T01:44:40+00:00"
     },
     {
       "title": "Age verification is just a precursor to automated attribution of speech",
@@ -105,6 +105,13 @@
       "date": "2026-06-27T12:10:27+00:00"
     },
     {
+      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "score": 747,
+      "source": "hn",
+      "date": "2026-06-29T09:28:08+00:00"
+    },
+    {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "score": 733,
@@ -117,13 +124,6 @@
       "score": 712,
       "source": "hn",
       "date": "2026-06-24T19:48:01+00:00"
-    },
-    {
-      "title": "Pollen tried to remove my article and Google is assisting with it",
-      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "score": 700,
-      "source": "hn",
-      "date": "2026-06-29T09:28:08+00:00"
     },
     {
       "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-29T17:16:17+00:00"
+    },
     {
       "title": "DocumentDB – a MongoDB compatible open-source database",
       "url": "https://documentdb.io/",
