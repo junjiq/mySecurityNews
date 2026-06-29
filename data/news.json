@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-06-29T20:11:19.015480+00:00",
+  "updated_at": "2026-06-29T21:03:51.631423+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48724230",
+      "source": "hn",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 51,
+      "comments": 49,
+      "author": "HumanCCF",
+      "tags": [],
+      "date": "2026-06-29T19:49:28+00:00"
+    },
     {
       "id": "hn-48723677",
       "source": "hn",
       "title": "JumpServer: Open-Source Privileged Access Management",
       "url": "https://github.com/jumpserver/jumpserver",
-      "score": 10,
-      "comments": 1,
+      "score": 22,
+      "comments": 4,
       "author": "neitsab",
       "tags": [],
       "date": "2026-06-29T19:06:17+00:00",
@@ -19,8 +30,8 @@
       "source": "hn",
       "title": ".garden TLD's change to a bad neighborhood",
       "url": "https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627",
-      "score": 11,
-      "comments": 4,
+      "score": 22,
+      "comments": 16,
       "author": "speckx",
       "tags": [],
       "date": "2026-06-29T18:49:41+00:00"
@@ -41,19 +52,32 @@
       "source": "hn",
       "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
       "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "score": 12,
-      "comments": 0,
+      "score": 25,
+      "comments": 3,
       "author": "matt_d",
       "tags": [],
       "date": "2026-06-29T18:03:26+00:00"
+    },
+    {
+      "id": "qiita-5eee541846",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "レモンの原理はなぜ社会を分断するのか？ ― 情報の透明性と信頼が日本の未来を左右する : Pythonで学ぶ マクロ経済学入門 (94)",
+      "url": "https://qiita.com/maskot1977/items/07f1b53e205a338bc0fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-30T02:55:38+09:00"
     },
     {
       "id": "hn-48722052",
       "source": "hn",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 66,
-      "comments": 8,
+      "score": 97,
+      "comments": 14,
       "author": "danboarder",
       "tags": [],
       "date": "2026-06-29T17:16:17+00:00",
@@ -64,8 +88,8 @@
       "source": "hn",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 334,
-      "comments": 260,
+      "score": 397,
+      "comments": 352,
       "author": "stared",
       "tags": [],
       "date": "2026-06-29T17:05:16+00:00"
@@ -75,8 +99,8 @@
       "source": "hn",
       "title": "The Radiation Exposure Lie",
       "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
-      "score": 75,
-      "comments": 39,
+      "score": 94,
+      "comments": 58,
       "author": "duffydotsvg",
       "tags": [],
       "date": "2026-06-29T16:27:27+00:00"
@@ -86,8 +110,8 @@
       "source": "hn",
       "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
       "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
-      "score": 231,
-      "comments": 62,
+      "score": 261,
+      "comments": 67,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-06-29T16:07:15+00:00"
@@ -97,8 +121,8 @@
       "source": "hn",
       "title": "US Supreme Court rules geofence warrants require constitutional protections",
       "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 263,
-      "comments": 110,
+      "score": 306,
+      "comments": 134,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-06-29T15:54:24+00:00"
@@ -108,8 +132,8 @@
       "source": "hn",
       "title": "A native graphical shell for SSH",
       "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 155,
-      "comments": 62,
+      "score": 183,
+      "comments": 75,
       "author": "mrcslws",
       "tags": [],
       "date": "2026-06-29T15:42:17+00:00"
@@ -130,8 +154,8 @@
       "source": "hn",
       "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
       "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 136,
-      "comments": 15,
+      "score": 148,
+      "comments": 18,
       "author": "energeticbark",
       "tags": [],
       "date": "2026-06-29T15:02:00+00:00"
@@ -163,8 +187,8 @@
       "source": "hn",
       "title": "You Don't Know Jack About Formal Verification",
       "url": "https://queue.acm.org/detail.cfm?id=3819084",
-      "score": 54,
-      "comments": 17,
+      "score": 69,
+      "comments": 24,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-06-29T14:12:05+00:00"
@@ -174,8 +198,8 @@
       "source": "hn",
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 275,
-      "comments": 157,
+      "score": 302,
+      "comments": 175,
       "author": "everfrustrated",
       "tags": [],
       "date": "2026-06-29T14:09:24+00:00"
@@ -208,8 +232,8 @@
       "source": "hn",
       "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
       "url": "https://twitter.com/i/status/2071277885646868536",
-      "score": 261,
-      "comments": 117,
+      "score": 276,
+      "comments": 127,
       "author": "notRobot",
       "tags": [],
       "date": "2026-06-29T13:26:35+00:00"
@@ -241,8 +265,8 @@
       "source": "hn",
       "title": "What happens when you run a CUDA kernel?",
       "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 167,
-      "comments": 14,
+      "score": 175,
+      "comments": 15,
       "author": "mezark",
       "tags": [],
       "date": "2026-06-29T13:11:08+00:00"
@@ -287,8 +311,8 @@
       "source": "hn",
       "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
       "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-      "score": 255,
-      "comments": 130,
+      "score": 275,
+      "comments": 141,
       "author": "donohoe",
       "tags": [],
       "date": "2026-06-29T11:58:48+00:00"
@@ -298,8 +322,8 @@
       "source": "hn",
       "title": "Rebuilding the Computer Room",
       "url": "https://alexwlchan.net/2026/computer-room/",
-      "score": 56,
-      "comments": 29,
+      "score": 75,
+      "comments": 41,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-29T11:34:36+00:00"
@@ -309,8 +333,8 @@
       "source": "hn",
       "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
       "url": "https://det.social/@lostgen/116820546568940358",
-      "score": 394,
-      "comments": 881,
+      "score": 460,
+      "comments": 989,
       "author": "Risse",
       "tags": [],
       "date": "2026-06-29T10:45:51+00:00"
@@ -320,8 +344,8 @@
       "source": "hn",
       "title": "Sandia National Labs SA3000 8085 CPU",
       "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-      "score": 130,
-      "comments": 37,
+      "score": 137,
+      "comments": 38,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-06-29T10:20:25+00:00"
@@ -347,6 +371,19 @@
       "author": "DR_MING",
       "tags": [],
       "date": "2026-06-29T08:58:09+00:00"
+    },
+    {
+      "id": "qiita-4f4f034fbc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
+      "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "miruky",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-29T17:14:41+09:00"
     },
     {
       "id": "hn-48716009",
@@ -452,6 +489,19 @@
       "date": "2026-06-29T01:23:38+00:00"
     },
     {
+      "id": "qiita-48b6c6cb98",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "React初学者が学ぶ、Reactのキホン part-1",
+      "url": "https://qiita.com/kucd1230/items/ba52f16af01b4d2f0e7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kucd1230",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-29T10:15:49+09:00"
+    },
+    {
       "id": "qiita-ca810c7fbe",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -524,6 +574,19 @@
       "author": "Curiositry",
       "tags": [],
       "date": "2026-06-28T23:50:58+00:00"
+    },
+    {
+      "id": "qiita-f88afae33d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "SDD（Spec-Driven Development）とLoop Engineeringの関係 ― superpowersは両者を統合したハーネスだった",
+      "url": "https://qiita.com/nogataka/items/b78d9d8cd39967df4119?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-29T08:25:55+09:00"
     },
     {
       "id": "hn-48712420",
@@ -1408,6 +1471,19 @@
       "date": "2026-06-28T07:54:48+09:00"
     },
     {
+      "id": "qiita-c5d8c35cd1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "LLMをブラックボックスのまま使いたくない開発者へ。TransformerからLangGraphまでつながる入門書",
+      "url": "https://qiita.com/yasu1109/items/a344f5181613889489a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yasu1109",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-28T07:28:15+09:00"
+    },
+    {
       "id": "hn-48702273",
       "source": "hn",
       "title": "Choosing a Public DNS Resolver",
@@ -1961,6 +2037,17 @@
       "date": "2026-06-27T02:41:53+00:00"
     },
     {
+      "id": "hn-48694267",
+      "source": "hn",
+      "title": "The Permission Slip",
+      "url": "https://www.cringely.com/2026/05/28/the-permission-slip/",
+      "score": 3,
+      "comments": 2,
+      "author": "B1FF_PSUVM",
+      "tags": [],
+      "date": "2026-06-27T01:29:43+00:00"
+    },
+    {
       "id": "hn-48693912",
       "source": "hn",
       "title": "Show HN: Hacker News on a train station-style flip board",
@@ -2068,8 +2155,8 @@
       "source": "hn",
       "title": "Font-Family Recommendations",
       "url": "https://chrismorgan.info/font-family",
-      "score": 15,
-      "comments": 2,
+      "score": 29,
+      "comments": 7,
       "author": "birdculture",
       "tags": [],
       "date": "2026-06-26T21:37:31+00:00"
@@ -2354,8 +2441,8 @@
       "source": "hn",
       "title": "Venetian Bridge Brawls in 17th and 18th Century Art",
       "url": "https://publicdomainreview.org/collection/venice-bridge-fights/",
-      "score": 44,
-      "comments": 23,
+      "score": 48,
+      "comments": 27,
       "author": "pepys",
       "tags": [],
       "date": "2026-06-26T16:16:16+00:00"
@@ -2720,8 +2807,8 @@
       "source": "hn",
       "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
       "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-      "score": 50,
-      "comments": 1,
+      "score": 62,
+      "comments": 7,
       "author": "chantepierre",
       "tags": [],
       "date": "2026-06-26T07:29:17+00:00"
@@ -3041,8 +3128,8 @@
       "source": "hn",
       "title": "The Return of Aspect Oriented Programming",
       "url": "https://thomaswc.com/blog/the_return_of_aop.html",
-      "score": 54,
-      "comments": 40,
+      "score": 67,
+      "comments": 48,
       "author": "thomaswc",
       "tags": [],
       "date": "2026-06-25T22:12:33+00:00"
@@ -3278,8 +3365,8 @@
       "source": "hn",
       "title": "Halvar's Guide to Entrepreneurship",
       "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
-      "score": 165,
-      "comments": 39,
+      "score": 180,
+      "comments": 42,
       "author": "nekitamo",
       "tags": [],
       "date": "2026-06-25T15:28:24+00:00"
@@ -5209,85 +5296,6 @@
       "author": "birdculture",
       "tags": [],
       "date": "2026-06-23T21:56:33+00:00"
-    },
-    {
-      "id": "hn-48651727",
-      "source": "hn",
-      "title": "ATProto Permissioned Data Proposal Draft",
-      "url": "https://github.com/bluesky-social/proposals/pull/94",
-      "score": 17,
-      "comments": 2,
-      "author": "danabramov",
-      "tags": [],
-      "date": "2026-06-23T21:29:20+00:00"
-    },
-    {
-      "id": "hn-48651613",
-      "source": "hn",
-      "title": "Trains halted across Germany because of communication system problem",
-      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
-      "score": 142,
-      "comments": 140,
-      "author": "sva_",
-      "tags": [],
-      "date": "2026-06-23T21:19:44+00:00"
-    },
-    {
-      "id": "hn-48651552",
-      "source": "hn",
-      "title": "All train services in Germany halted after train radio communications disruption",
-      "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
-      "score": 20,
-      "comments": 4,
-      "author": "sva_",
-      "tags": [],
-      "date": "2026-06-23T21:14:08+00:00"
-    },
-    {
-      "id": "hn-48650837",
-      "source": "hn",
-      "title": "Don't verify email addresses by sending spam to them",
-      "url": "https://milek7.pl/mailverifyspam/",
-      "score": 128,
-      "comments": 39,
-      "author": "garaetjjte",
-      "tags": [],
-      "date": "2026-06-23T20:23:49+00:00"
-    },
-    {
-      "id": "hn-48650794",
-      "source": "hn",
-      "title": "Underarm bowling incident of 1981",
-      "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
-      "score": 124,
-      "comments": 103,
-      "author": "EndXA",
-      "tags": [],
-      "date": "2026-06-23T20:21:19+00:00"
-    },
-    {
-      "id": "qiita-f910f934ef",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeが使えないときのためにAntigravity CLIを用意した話",
-      "url": "https://qiita.com/tt2004d/items/31cbacd70540423b1581?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tt2004d",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-24T05:14:17+09:00"
-    },
-    {
-      "id": "hn-48650550",
-      "source": "hn",
-      "title": "LaTeX.wasm: LaTeX Engines in Browsers",
-      "url": "https://www.swiftlatex.com/",
-      "score": 73,
-      "comments": 27,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-06-23T20:04:33+00:00"
     },
     {
       "id": "ctf-3967721",
