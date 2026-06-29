@@ -1,9 +1,16 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T19:12:10.381306+00:00",
-  "total_articles": 53,
-  "urgent_count": 4,
+  "generated_at": "2026-06-29T20:11:19.079893+00:00",
+  "total_articles": 52,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "JumpServer: Open-Source Privileged Access Management",
+      "url": "https://github.com/jumpserver/jumpserver",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-29T19:06:17+00:00"
+    },
     {
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
@@ -36,7 +43,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 44,
       "top_items": [
         {
           "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
@@ -65,18 +72,18 @@
         {
           "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
           "url": "https://det.social/@lostgen/116820546568940358",
-          "score": 332,
+          "score": 394,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T10:45:51+00:00"
         },
         {
-          "title": "Tidal AI Policy",
-          "url": "https://tidal.com/ai-policy",
-          "score": 257,
+          "title": "Qwen 3.6 27B is the sweet spot for local development",
+          "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+          "score": 334,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-29T13:09:03+00:00"
+          "date": "2026-06-29T17:05:16+00:00"
         }
       ]
     },
