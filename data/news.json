@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-06-29T21:57:09.279402+00:00",
+  "updated_at": "2026-06-29T22:28:53.403701+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48725397",
+      "source": "hn",
+      "title": "Is It Out Yet?",
+      "url": "https://outyet.ai",
+      "score": 13,
+      "comments": 3,
+      "author": "partsch",
+      "tags": [],
+      "date": "2026-06-29T21:18:46+00:00"
+    },
     {
       "id": "hn-48724230",
       "source": "hn",
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 105,
-      "comments": 84,
+      "score": 162,
+      "comments": 102,
       "author": "HumanCCF",
       "tags": [],
       "date": "2026-06-29T19:49:28+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "JumpServer: Open-Source Privileged Access Management",
       "url": "https://github.com/jumpserver/jumpserver",
-      "score": 32,
-      "comments": 7,
+      "score": 38,
+      "comments": 10,
       "author": "neitsab",
       "tags": [],
       "date": "2026-06-29T19:06:17+00:00",
@@ -52,7 +63,7 @@
       "source": "hn",
       "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
       "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "score": 35,
+      "score": 38,
       "comments": 11,
       "author": "matt_d",
       "tags": [],
@@ -76,7 +87,7 @@
       "source": "hn",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 110,
+      "score": 114,
       "comments": 27,
       "author": "danboarder",
       "tags": [],
@@ -88,8 +99,8 @@
       "source": "hn",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 460,
-      "comments": 409,
+      "score": 496,
+      "comments": 432,
       "author": "stared",
       "tags": [],
       "date": "2026-06-29T17:05:16+00:00"
@@ -110,8 +121,8 @@
       "source": "hn",
       "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
       "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
-      "score": 290,
-      "comments": 74,
+      "score": 305,
+      "comments": 79,
       "author": "Brajeshwar",
       "tags": [],
       "date": "2026-06-29T16:07:15+00:00"
@@ -121,8 +132,8 @@
       "source": "hn",
       "title": "US Supreme Court rules geofence warrants require constitutional protections",
       "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 341,
-      "comments": 153,
+      "score": 360,
+      "comments": 164,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-06-29T15:54:24+00:00"
@@ -132,8 +143,8 @@
       "source": "hn",
       "title": "A native graphical shell for SSH",
       "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 193,
-      "comments": 84,
+      "score": 208,
+      "comments": 91,
       "author": "mrcslws",
       "tags": [],
       "date": "2026-06-29T15:42:17+00:00"
@@ -154,8 +165,8 @@
       "source": "hn",
       "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
       "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 158,
-      "comments": 23,
+      "score": 160,
+      "comments": 24,
       "author": "energeticbark",
       "tags": [],
       "date": "2026-06-29T15:02:00+00:00"
@@ -176,8 +187,8 @@
       "source": "hn",
       "title": "Working With AI: A concrete example",
       "url": "https://htmx.org/essays/working-with-ai/",
-      "score": 49,
-      "comments": 13,
+      "score": 60,
+      "comments": 20,
       "author": "comma_at",
       "tags": [],
       "date": "2026-06-29T14:53:41+00:00"
@@ -198,8 +209,8 @@
       "source": "hn",
       "title": "You Don't Know Jack About Formal Verification",
       "url": "https://queue.acm.org/detail.cfm?id=3819084",
-      "score": 80,
-      "comments": 28,
+      "score": 83,
+      "comments": 34,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-06-29T14:12:05+00:00"
@@ -209,8 +220,8 @@
       "source": "hn",
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 317,
-      "comments": 191,
+      "score": 324,
+      "comments": 193,
       "author": "everfrustrated",
       "tags": [],
       "date": "2026-06-29T14:09:24+00:00"
@@ -276,8 +287,8 @@
       "source": "hn",
       "title": "What happens when you run a CUDA kernel?",
       "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 183,
-      "comments": 18,
+      "score": 188,
+      "comments": 22,
       "author": "mezark",
       "tags": [],
       "date": "2026-06-29T13:11:08+00:00"
@@ -333,8 +344,8 @@
       "source": "hn",
       "title": "Rebuilding the Computer Room",
       "url": "https://alexwlchan.net/2026/computer-room/",
-      "score": 75,
-      "comments": 41,
+      "score": 86,
+      "comments": 44,
       "author": "ingve",
       "tags": [],
       "date": "2026-06-29T11:34:36+00:00"
@@ -355,7 +366,7 @@
       "source": "hn",
       "title": "Sandia National Labs SA3000 8085 CPU",
       "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-      "score": 140,
+      "score": 147,
       "comments": 38,
       "author": "rbanffy",
       "tags": [],
@@ -674,8 +685,8 @@
       "source": "hn",
       "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
       "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-      "score": 104,
-      "comments": 22,
+      "score": 136,
+      "comments": 42,
       "author": "xrd",
       "tags": [],
       "date": "2026-06-28T21:42:39+00:00"
@@ -830,7 +841,7 @@
       "source": "hn",
       "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
       "url": "https://deep-reinforce.com/ornith_1_0.html",
-      "score": 41,
+      "score": 45,
       "comments": 6,
       "author": "kordlessagain",
       "tags": [],
@@ -1218,8 +1229,8 @@
       "source": "hn",
       "title": "One million passports leaked online",
       "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
-      "score": 57,
-      "comments": 33,
+      "score": 73,
+      "comments": 45,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-06-28T11:22:49+00:00"
@@ -1517,8 +1528,8 @@
       "source": "hn",
       "title": "Apple Neural Engine: Architecture, Programming, and Performance",
       "url": "https://arxiv.org/abs/2606.22283",
-      "score": 67,
-      "comments": 4,
+      "score": 74,
+      "comments": 6,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-06-27T23:30:14+00:00"
@@ -1789,6 +1800,17 @@
         "Qiita"
       ],
       "date": "2026-06-28T00:29:36+09:00"
+    },
+    {
+      "id": "hn-48698908",
+      "source": "hn",
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "score": 33,
+      "comments": 7,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-06-27T15:05:17+00:00"
     },
     {
       "id": "hn-48698684",
@@ -2221,8 +2243,8 @@
       "source": "hn",
       "title": "Font-Family Recommendations",
       "url": "https://chrismorgan.info/font-family",
-      "score": 36,
-      "comments": 11,
+      "score": 38,
+      "comments": 12,
       "author": "birdculture",
       "tags": [],
       "date": "2026-06-26T21:37:31+00:00"
@@ -2873,8 +2895,8 @@
       "source": "hn",
       "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
       "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-      "score": 81,
-      "comments": 11,
+      "score": 85,
+      "comments": 12,
       "author": "chantepierre",
       "tags": [],
       "date": "2026-06-26T07:29:17+00:00"
@@ -3361,8 +3383,8 @@
       "source": "hn",
       "title": "Dark Sky Lighting",
       "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-      "score": 102,
-      "comments": 12,
+      "score": 111,
+      "comments": 15,
       "author": "alexandrehtrb",
       "tags": [],
       "date": "2026-06-25T16:19:19+00:00"
@@ -5272,109 +5294,6 @@
       "date": "2026-06-24T00:15:31+00:00"
     },
     {
-      "id": "qiita-9daaa3d6ae",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "バズってる「STORMプロンプト」、実は一番大事な部分が抜けてます【Stanford論文ベース】",
-      "url": "https://qiita.com/jqit_suwa/items/8168cd532e692ebcd4b0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "jqit_suwa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-24T09:04:53+09:00"
-    },
-    {
-      "id": "hn-48653338",
-      "source": "hn",
-      "title": "FEXPRs vs. vtable: how LispE interpreter works",
-      "url": "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable",
-      "score": 54,
-      "comments": 6,
-      "author": "birdculture",
-      "tags": [],
-      "date": "2026-06-23T23:57:41+00:00"
-    },
-    {
-      "id": "hn-48653216",
-      "source": "hn",
-      "title": "Vulnerability reports are not special anymore",
-      "url": "https://words.filippo.io/vuln-reports/",
-      "score": 355,
-      "comments": 201,
-      "author": "goranmoomin",
-      "tags": [],
-      "date": "2026-06-23T23:42:46+00:00",
-      "severity": "high"
-    },
-    {
-      "id": "hn-48653092",
-      "source": "hn",
-      "title": "Let's say you're hungry for a sandwich",
-      "url": "https://beige.party/@Lana/116795397010653803",
-      "score": 20,
-      "comments": 3,
-      "author": "colinprince",
-      "tags": [],
-      "date": "2026-06-23T23:29:11+00:00"
-    },
-    {
-      "id": "hn-48653060",
-      "source": "hn",
-      "title": "Extreme Heat conference cancelled due to extreme heat warning",
-      "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
-      "score": 265,
-      "comments": 206,
-      "author": "rendx",
-      "tags": [],
-      "date": "2026-06-23T23:26:43+00:00",
-      "severity": "medium"
-    },
-    {
-      "id": "hn-48652997",
-      "source": "hn",
-      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
-      "url": "https://github.com/decrazyo/anes",
-      "score": 96,
-      "comments": 32,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-06-23T23:21:35+00:00"
-    },
-    {
-      "id": "hn-48652184",
-      "source": "hn",
-      "title": "California AB 2047 makes 3D printers off-limits to students, educators, business",
-      "url": "https://www.the3dprintingnerd.com/ab2047",
-      "score": 186,
-      "comments": 113,
-      "author": "Buildstarted",
-      "tags": [],
-      "date": "2026-06-23T22:12:18+00:00"
-    },
-    {
-      "id": "hn-48652028",
-      "source": "hn",
-      "title": "United Wizards of the Coast recognized by NLRB",
-      "url": "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union",
-      "score": 86,
-      "comments": 46,
-      "author": "d4mi3n",
-      "tags": [],
-      "date": "2026-06-23T21:57:32+00:00"
-    },
-    {
-      "id": "hn-48652019",
-      "source": "hn",
-      "title": "A stray \"j\" ruined my evening",
-      "url": "https://napkins.mtmn.name/posts/stray-jay.html",
-      "score": 48,
-      "comments": 28,
-      "author": "birdculture",
-      "tags": [],
-      "date": "2026-06-23T21:56:33+00:00"
-    },
-    {
       "id": "ctf-3967721",
       "source": "project",
       "proj_category": "CTF",
@@ -5851,6 +5770,111 @@
       ],
       "severity": "high",
       "date": "Sat, 30 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-f12984cfd7",
+      "source": "msf",
+      "title": "[remote] Microsoft - NTLMv2 Hash Capture",
+      "url": "https://www.exploit-db.com/exploits/52601",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-51d394b2f6",
+      "source": "msf",
+      "title": "[webapps] MikroORM   7.0.13 - SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52600",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-b44998ab02",
+      "source": "msf",
+      "title": "[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion",
+      "url": "https://www.exploit-db.com/exploits/52598",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-0b1081a580",
+      "source": "msf",
+      "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52597",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-7fd71d4802",
+      "source": "msf",
+      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52596",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e827c93897",
+      "source": "msf",
+      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
+      "url": "https://www.exploit-db.com/exploits/52595",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-e7ed248f76",
+      "source": "msf",
+      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
+      "url": "https://www.exploit-db.com/exploits/52594",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Fri, 29 May 2026 00:00:00 +0000"
     }
   ]
 }
