@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-29T05:05:38.105644+00:00",
+  "generated_at": "2026-06-29T07:07:41.857332+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 358,
@@ -8,7 +8,7 @@
     "project": 12
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 11,
     "high": 5,
     "medium": 4
   },
@@ -91,6 +91,13 @@
       "date": "2026-06-27T09:18:52+00:00"
     },
     {
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "score": 719,
+      "source": "hn",
+      "date": "2026-06-28T17:50:47+00:00"
+    },
+    {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "score": 712,
@@ -110,13 +117,6 @@
       "score": 628,
       "source": "hn",
       "date": "2026-06-25T14:08:55+00:00"
-    },
-    {
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 615,
-      "source": "hn",
-      "date": "2026-06-28T17:50:47+00:00"
     },
     {
       "title": "Half-Life 2 in a Browser",
@@ -266,13 +266,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-23T23:42:46+00:00"
-    },
-    {
-      "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
-      "url": "https://github.com/shumaiOne/shumai",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-23T10:02:54+00:00"
     }
   ]
 }
