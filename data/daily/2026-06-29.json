@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T15:46:23.807428+00:00",
-  "total_articles": 63,
+  "generated_at": "2026-06-29T17:02:15.936412+00:00",
+  "total_articles": 57,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 48,
       "top_items": [
         {
           "title": "GLM 5.2 beats Claude in our benchmarks",
@@ -40,6 +40,14 @@
           "date": "2026-06-28T17:50:47+00:00"
         },
         {
+          "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+          "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+          "score": 828,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-06-29T01:44:40+00:00"
+        },
+        {
           "title": "Age verification is just a precursor to automated attribution of speech",
           "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
           "score": 794,
@@ -48,28 +56,20 @@
           "date": "2026-06-29T03:42:07+00:00"
         },
         {
-          "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-          "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-          "score": 777,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-29T01:44:40+00:00"
-        },
-        {
           "title": "Pollen tried to remove my article and Google is assisting with it",
           "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-          "score": 624,
+          "score": 700,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T09:28:08+00:00"
         },
         {
-          "title": "I used Claude Code to get a second opinion on my MRI",
-          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-          "score": 504,
+          "title": "Librepods: AirPods liberated",
+          "url": "https://github.com/librepods-org/librepods",
+          "score": 378,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-28T16:35:19+00:00"
+          "date": "2026-06-28T18:48:53+00:00"
         }
       ]
     },
