@@ -1,8 +1,8 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T12:51:42.888418+00:00",
-  "total_articles": 66,
-  "urgent_count": 4,
+  "generated_at": "2026-06-29T14:24:17.821659+00:00",
+  "total_articles": 67,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Tell Congress: Don't Force Age Checks Online",
@@ -17,31 +17,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-29T01:44:40+00:00"
-    },
-    {
-      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
-      "url": "https://github.com/open-energy-transition/open-tyndp",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-28T14:05:47+00:00"
-    },
-    {
-      "title": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
-      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-28T12:55:36+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 54,
       "top_items": [
         {
           "title": "GLM 5.2 beats Claude in our benchmarks",
           "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-          "score": 928,
+          "score": 981,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T17:50:47+00:00"
@@ -49,7 +35,7 @@
         {
           "title": "Age verification is just a precursor to automated attribution of speech",
           "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-          "score": 640,
+          "score": 724,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T03:42:07+00:00"
@@ -57,23 +43,23 @@
         {
           "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
           "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-          "score": 621,
+          "score": 715,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-29T01:44:40+00:00"
         },
         {
-          "title": "EU to legislate about Chat Control behind closed doors",
-          "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-          "score": 495,
+          "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+          "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+          "score": 540,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-28T14:40:13+00:00"
+          "date": "2026-06-29T09:28:08+00:00"
         },
         {
           "title": "I used Claude Code to get a second opinion on my MRI",
           "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-          "score": 476,
+          "score": 504,
           "source": "hn",
           "severity": null,
           "date": "2026-06-28T16:35:19+00:00"
@@ -82,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 13,
       "top_items": [
         {
           "title": "VR向けテクスチャ縮小方式の考察とUnityにおけるArea Averagingの実装",
