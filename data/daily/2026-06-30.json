@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T19:35:55.007662+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-06-30T20:39:36.077510+00:00",
+  "total_articles": 65,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 45,
       "top_items": [
         {
           "title": "Claude Code is steganographically marking requests",
           "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "score": 831,
+          "score": 992,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T15:44:24+00:00"
@@ -34,12 +34,12 @@
           "date": "2026-06-30T10:36:23+00:00"
         },
         {
-          "title": ".self: A new top-level domain designed to support self-hosting",
-          "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-          "score": 632,
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "score": 592,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-29T19:49:28+00:00"
+          "date": "2026-06-30T17:59:52+00:00"
         },
         {
           "title": "The US ambassador had Belgian police stop our reporting",
@@ -50,19 +50,27 @@
           "date": "2026-06-30T10:15:15+00:00"
         },
         {
-          "title": "Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "score": 436,
+          "title": "The labor share of income in the US is at its lowest post-war level",
+          "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+          "score": 384,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-30T17:59:52+00:00"
+          "date": "2026-06-30T15:35:04+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 19,
       "top_items": [
+        {
+          "title": "OCI GoldenGate Veridata を動かしてデータを比較してみた。(Oracle Cloud Infrastructure)",
+          "url": "https://qiita.com/ora_gonsuke777/items/42d363a2a9995d70d3cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-30T20:19:30+09:00"
+        },
         {
           "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
           "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -72,36 +80,28 @@
           "date": "2026-06-30T19:49:30+09:00"
         },
         {
+          "title": "Slackだけでタスク管理を完結！かんばんTODOリスト",
+          "url": "https://qiita.com/zawa-kun/items/0041579ceec156b0cf7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-30T19:19:20+09:00"
+        },
+        {
+          "title": "エンジニアがいつのまにか知っている知識・常識・文化 12本",
+          "url": "https://qiita.com/ko-he-8/items/7ca90575c5fff758993e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-30T19:01:23+09:00"
+        },
+        {
           "title": "CNNの全結合層をSAMACTに置き換えてみた ― Kerasで実装するハイブリッド画像分類モデル",
           "url": "https://qiita.com/tatoshi/items/414ab0645c6c98d4c432?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-30T16:04:08+09:00"
-        },
-        {
-          "title": "VR向けテクスチャ縮小方式の考察とUnityにおけるArea Averagingの実装",
-          "url": "https://qiita.com/Sersz7/items/42b090a12f4c52254292?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-30T14:57:35+09:00"
-        },
-        {
-          "title": "BigQuery Agent Analytics Plugin を使って ADK エージェントの回答を分析してみた",
-          "url": "https://qiita.com/hirataikue/items/03654fdb3f0ff10d14f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-30T14:11:34+09:00"
-        },
-        {
-          "title": "Railsで学ぶ DFS / BFS 入門 〜「深さ優先」と「幅優先」で木構造をたどる〜",
-          "url": "https://qiita.com/akachiryo/items/025683560974d762fa85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-30T12:48:38+09:00"
         }
       ]
     },

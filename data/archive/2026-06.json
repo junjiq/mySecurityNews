@@ -1,11 +1,11 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-30T19:35:55.048993+00:00",
+  "generated_at": "2026-06-30T20:39:36.125474+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 345,
-    "zennqiita": 104,
-    "project": 12
+    "hn": 338,
+    "zennqiita": 112,
+    "project": 11
   },
   "severity_counts": {
     "critical": 13,
@@ -56,6 +56,13 @@
       "date": "2026-06-25T21:44:55+00:00"
     },
     {
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 992,
+      "source": "hn",
+      "date": "2026-06-30T15:44:24+00:00"
+    },
+    {
       "title": "GLM 5.2 beats Claude in our benchmarks",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "score": 981,
@@ -75,13 +82,6 @@
       "score": 902,
       "source": "hn",
       "date": "2026-06-29T01:44:40+00:00"
-    },
-    {
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 831,
-      "source": "hn",
-      "date": "2026-06-30T15:44:24+00:00"
     },
     {
       "title": "Age verification is just a precursor to automated attribution of speech",
@@ -119,13 +119,6 @@
       "date": "2026-06-27T09:18:52+00:00"
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 712,
-      "source": "hn",
-      "date": "2026-06-24T19:48:01+00:00"
-    },
-    {
       "title": "European digital ID wallets rely on safety services of Google and Apple",
       "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
       "score": 642,
@@ -152,6 +145,13 @@
       "score": 630,
       "source": "hn",
       "date": "2026-06-27T15:05:17+00:00"
+    },
+    {
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "url": "https://hackernewstrends.com",
+      "score": 628,
+      "source": "hn",
+      "date": "2026-06-25T14:08:55+00:00"
     }
   ],
   "security_highlights": [
