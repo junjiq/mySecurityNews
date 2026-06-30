@@ -1,14 +1,96 @@
 {
-  "updated_at": "2026-06-30T10:38:04.738594+00:00",
+  "updated_at": "2026-06-30T11:52:44.081202+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "ghrel-projectdiscovery_nuclei-346782228",
+      "source": "project",
+      "proj_category": "Tools",
+      "title": "Nuclei v3.10.0 — v3.10.0",
+      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.10.0",
+      "score": null,
+      "author": "Nuclei",
+      "tags": [
+        "Nuclei",
+        "Release"
+      ],
+      "date": "2026-06-30T11:21:58Z"
+    },
+    {
+      "id": "hn-48730904",
+      "source": "hn",
+      "title": "Sony erases digital content from libraries; reminded we don't own what we buy",
+      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "score": 50,
+      "comments": 11,
+      "author": "pseudolus",
+      "tags": [],
+      "date": "2026-06-30T11:02:10+00:00"
+    },
+    {
+      "id": "qiita-4f4f034fbc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
+      "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "miruky",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-30T19:49:30+09:00"
+    },
+    {
+      "id": "hn-48730818",
+      "source": "hn",
+      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "score": 11,
+      "comments": 3,
+      "author": "fagnerbrack",
+      "tags": [],
+      "date": "2026-06-30T10:48:23+00:00"
+    },
+    {
+      "id": "hn-48730729",
+      "source": "hn",
+      "title": "European digital ID wallets are a gift to Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "score": 143,
+      "comments": 64,
+      "author": "donohoe",
+      "tags": [],
+      "date": "2026-06-30T10:36:23+00:00"
+    },
+    {
+      "id": "hn-48730694",
+      "source": "hn",
+      "title": "Exercise intensity influences body composition in healthy older adults",
+      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+      "score": 26,
+      "comments": 19,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-06-30T10:31:02+00:00"
+    },
+    {
+      "id": "hn-48730608",
+      "source": "hn",
+      "title": "The US ambassador had Belgian police stop our reporting",
+      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "score": 14,
+      "comments": 1,
+      "author": "robtherobber",
+      "tags": [],
+      "date": "2026-06-30T10:15:15+00:00"
+    },
     {
       "id": "hn-48730246",
       "source": "hn",
       "title": "Antares Achieves Criticality of Mark-0 Reactor",
       "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
-      "score": 9,
-      "comments": 3,
+      "score": 35,
+      "comments": 19,
       "author": "clarionbell",
       "tags": [],
       "date": "2026-06-30T09:15:21+00:00",
@@ -200,8 +282,8 @@
       "source": "hn",
       "title": "Exploring PDP-1 Lisp (1960)",
       "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "score": 76,
-      "comments": 19,
+      "score": 86,
+      "comments": 21,
       "author": "ozymandiax",
       "tags": [],
       "date": "2026-06-30T00:56:42+00:00"
@@ -224,7 +306,7 @@
       "source": "hn",
       "title": "Memory Safe Context Switching",
       "url": "https://fil-c.org/context_switches",
-      "score": 137,
+      "score": 150,
       "comments": 25,
       "author": "modeless",
       "tags": [],
@@ -235,8 +317,8 @@
       "source": "hn",
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 153,
-      "comments": 46,
+      "score": 172,
+      "comments": 47,
       "author": "benjiro29",
       "tags": [],
       "date": "2026-06-30T00:30:11+00:00"
@@ -340,8 +422,8 @@
       "source": "hn",
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 526,
-      "comments": 304,
+      "score": 543,
+      "comments": 316,
       "author": "HumanCCF",
       "tags": [],
       "date": "2026-06-29T19:49:28+00:00"
@@ -409,8 +491,8 @@
       "source": "hn",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 214,
-      "comments": 39,
+      "score": 218,
+      "comments": 40,
       "author": "danboarder",
       "tags": [],
       "date": "2026-06-29T17:16:17+00:00",
@@ -421,8 +503,8 @@
       "source": "hn",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 939,
-      "comments": 621,
+      "score": 969,
+      "comments": 635,
       "author": "stared",
       "tags": [],
       "date": "2026-06-29T17:05:16+00:00"
@@ -454,8 +536,8 @@
       "source": "hn",
       "title": "US Supreme Court rules geofence warrants require constitutional protections",
       "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 529,
-      "comments": 249,
+      "score": 539,
+      "comments": 250,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-06-29T15:54:24+00:00"
@@ -498,7 +580,7 @@
       "source": "hn",
       "title": "Linux for the Sega MegaDrive",
       "url": "https://github.com/LinuxMD/linuxmd",
-      "score": 117,
+      "score": 131,
       "comments": 15,
       "author": "HardwareLust",
       "tags": [],
@@ -553,8 +635,8 @@
       "source": "hn",
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 416,
-      "comments": 277,
+      "score": 421,
+      "comments": 278,
       "author": "everfrustrated",
       "tags": [],
       "date": "2026-06-29T14:09:24+00:00"
@@ -765,19 +847,6 @@
       "author": "DR_MING",
       "tags": [],
       "date": "2026-06-29T08:58:09+00:00"
-    },
-    {
-      "id": "qiita-4f4f034fbc",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
-      "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "miruky",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-29T17:14:41+09:00"
     },
     {
       "id": "hn-48716009",
@@ -1044,8 +1113,8 @@
       "source": "hn",
       "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
       "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-      "score": 589,
-      "comments": 339,
+      "score": 616,
+      "comments": 354,
       "author": "xrd",
       "tags": [],
       "date": "2026-06-28T21:42:39+00:00"
@@ -1588,8 +1657,8 @@
       "source": "hn",
       "title": "One million passports leaked online",
       "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-      "score": 282,
-      "comments": 171,
+      "score": 301,
+      "comments": 188,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-06-28T11:22:49+00:00"
@@ -1748,8 +1817,8 @@
       "source": "hn",
       "title": "Building a custom octocopter from scratch with no prior hardware experience",
       "url": "https://karolina.mgdubiel.com/drone/",
-      "score": 21,
-      "comments": 0,
+      "score": 79,
+      "comments": 15,
       "author": "noleary",
       "tags": [],
       "date": "2026-06-28T04:17:44+00:00"
@@ -1949,8 +2018,8 @@
       "source": "hn",
       "title": "Old Computer Challenge",
       "url": "http://occ.sdf.org/",
-      "score": 65,
-      "comments": 24,
+      "score": 76,
+      "comments": 30,
       "author": "wrxd",
       "tags": [],
       "date": "2026-06-27T22:18:50+00:00"
@@ -2201,8 +2270,8 @@
       "source": "hn",
       "title": "Free the Icons",
       "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 487,
-      "comments": 139,
+      "score": 509,
+      "comments": 156,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-27T15:05:17+00:00"
@@ -2828,8 +2897,8 @@
       "source": "hn",
       "title": "How to corrupt an SQLite database file",
       "url": "https://www.sqlite.org/howtocorrupt.html",
-      "score": 87,
-      "comments": 16,
+      "score": 96,
+      "comments": 19,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-26T18:05:39+00:00"
@@ -3389,8 +3458,8 @@
       "source": "hn",
       "title": "Open Source Low Tech",
       "url": "https://opensourcelowtech.org/",
-      "score": 266,
-      "comments": 50,
+      "score": 318,
+      "comments": 65,
       "author": "grep_it",
       "tags": [],
       "date": "2026-06-26T06:35:17+00:00",
@@ -3565,6 +3634,17 @@
       "severity": "medium"
     },
     {
+      "id": "hn-48681499",
+      "source": "hn",
+      "title": "Why Problem Statements Aren't Enough",
+      "url": "https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough",
+      "score": 5,
+      "comments": 1,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-06-26T01:57:37+00:00"
+    },
+    {
       "id": "qiita-e292175866",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3711,8 +3791,8 @@
       "source": "hn",
       "title": "The operating cost starts after the demo",
       "url": "https://twoheads.net/the-promise-is-unattended-work/",
-      "score": 23,
-      "comments": 9,
+      "score": 31,
+      "comments": 17,
       "author": "hellokfk",
       "tags": [],
       "date": "2026-06-25T21:58:08+00:00"
@@ -5216,72 +5296,6 @@
       "date": "2026-06-24T13:29:18+00:00"
     },
     {
-      "id": "hn-48659451",
-      "source": "hn",
-      "title": "Slate EV truck starts at $24,950",
-      "url": "https://www.slate.auto/en",
-      "score": 40,
-      "comments": 20,
-      "author": "cobri",
-      "tags": [],
-      "date": "2026-06-24T13:26:43+00:00"
-    },
-    {
-      "id": "hn-48659257",
-      "source": "hn",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
-      "score": 93,
-      "comments": 34,
-      "author": "meetpateltech",
-      "tags": [],
-      "date": "2026-06-24T13:14:39+00:00"
-    },
-    {
-      "id": "hn-48659165",
-      "source": "hn",
-      "title": "Stealing Is a Skill",
-      "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-      "score": 213,
-      "comments": 125,
-      "author": "bewal416",
-      "tags": [],
-      "date": "2026-06-24T13:08:52+00:00"
-    },
-    {
-      "id": "hn-48659040",
-      "source": "hn",
-      "title": "Systems optimization should be part of CI/CD",
-      "url": "https://ucbskyadrs.github.io/blog/levi/",
-      "score": 21,
-      "comments": 2,
-      "author": "ttanv",
-      "tags": [],
-      "date": "2026-06-24T12:57:31+00:00"
-    },
-    {
-      "id": "hn-48658991",
-      "source": "hn",
-      "title": "Philae's extraordinary comet landing relived (2024)",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
-      "score": 16,
-      "comments": 1,
-      "author": "1970-01-01",
-      "tags": [],
-      "date": "2026-06-24T12:53:01+00:00"
-    },
-    {
-      "id": "hn-48658971",
-      "source": "hn",
-      "title": "GTA 6 will cost $80",
-      "url": "https://www.bbc.com/news/articles/cjrg52egw1ro",
-      "score": 22,
-      "comments": 16,
-      "author": "gulmothrowaway",
-      "tags": [],
-      "date": "2026-06-24T12:52:06+00:00"
-    },
-    {
       "id": "ctf-3975357",
       "source": "project",
       "proj_category": "CTF",
@@ -5322,20 +5336,6 @@
         "Security"
       ],
       "date": "2026-06-22T01:22:26Z"
-    },
-    {
-      "id": "ghrel-projectdiscovery_nuclei-337145344",
-      "source": "project",
-      "proj_category": "Tools",
-      "title": "Nuclei v3.9.0 — v3.9.0",
-      "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.9.0",
-      "score": null,
-      "author": "Nuclei",
-      "tags": [
-        "Nuclei",
-        "Release"
-      ],
-      "date": "2026-06-10T10:17:31Z"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",
