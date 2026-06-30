@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-06-30T01:42:53.505307+00:00",
+  "updated_at": "2026-06-30T03:08:43.025681+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-48b6c6cb98",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "React初学者が学ぶ、Reactのキホン part-1",
+      "url": "https://qiita.com/kucd1230/items/ba52f16af01b4d2f0e7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kucd1230",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-06-30T10:57:52+09:00"
+    },
+    {
+      "id": "hn-48727538",
+      "source": "hn",
+      "title": "Why Won't Europe Build AI Data Centers in Iceland?",
+      "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
+      "score": 20,
+      "comments": 14,
+      "author": "type0",
+      "tags": [],
+      "date": "2026-06-30T01:30:40+00:00"
+    },
     {
       "id": "hn-48727323",
       "source": "hn",
       "title": "Exploring PDP-1 Lisp (1960)",
       "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "score": 10,
-      "comments": 8,
+      "score": 21,
+      "comments": 13,
       "author": "ozymandiax",
       "tags": [],
       "date": "2026-06-30T00:56:42+00:00"
@@ -18,8 +42,8 @@
       "source": "hn",
       "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
       "url": "https://fil-c.org/context_switches",
-      "score": 15,
-      "comments": 4,
+      "score": 48,
+      "comments": 19,
       "author": "modeless",
       "tags": [],
       "date": "2026-06-30T00:38:19+00:00"
@@ -29,8 +53,8 @@
       "source": "hn",
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 10,
-      "comments": 1,
+      "score": 39,
+      "comments": 10,
       "author": "benjiro29",
       "tags": [],
       "date": "2026-06-30T00:30:11+00:00"
@@ -64,8 +88,8 @@
       "source": "hn",
       "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
       "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "score": 110,
-      "comments": 65,
+      "score": 140,
+      "comments": 84,
       "author": "jnord",
       "tags": [],
       "date": "2026-06-29T22:21:00+00:00"
@@ -75,8 +99,8 @@
       "source": "hn",
       "title": "Scientists find molecular-level evidence for two structures in liquid water",
       "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-      "score": 54,
-      "comments": 18,
+      "score": 71,
+      "comments": 24,
       "author": "wglb",
       "tags": [],
       "date": "2026-06-29T22:18:26+00:00"
@@ -108,8 +132,8 @@
       "source": "hn",
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 319,
-      "comments": 184,
+      "score": 366,
+      "comments": 203,
       "author": "HumanCCF",
       "tags": [],
       "date": "2026-06-29T19:49:28+00:00"
@@ -177,7 +201,7 @@
       "source": "hn",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 151,
+      "score": 165,
       "comments": 32,
       "author": "danboarder",
       "tags": [],
@@ -189,8 +213,8 @@
       "source": "hn",
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 603,
-      "comments": 506,
+      "score": 654,
+      "comments": 528,
       "author": "stared",
       "tags": [],
       "date": "2026-06-29T17:05:16+00:00"
@@ -222,8 +246,8 @@
       "source": "hn",
       "title": "US Supreme Court rules geofence warrants require constitutional protections",
       "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 439,
-      "comments": 204,
+      "score": 469,
+      "comments": 216,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-06-29T15:54:24+00:00"
@@ -233,8 +257,8 @@
       "source": "hn",
       "title": "A native graphical shell for SSH",
       "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 242,
-      "comments": 111,
+      "score": 260,
+      "comments": 121,
       "author": "mrcslws",
       "tags": [],
       "date": "2026-06-29T15:42:17+00:00"
@@ -255,8 +279,8 @@
       "source": "hn",
       "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
       "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 177,
-      "comments": 29,
+      "score": 185,
+      "comments": 30,
       "author": "energeticbark",
       "tags": [],
       "date": "2026-06-29T15:02:00+00:00"
@@ -310,8 +334,8 @@
       "source": "hn",
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 367,
-      "comments": 226,
+      "score": 378,
+      "comments": 236,
       "author": "everfrustrated",
       "tags": [],
       "date": "2026-06-29T14:09:24+00:00"
@@ -377,8 +401,8 @@
       "source": "hn",
       "title": "What happens when you run a CUDA kernel?",
       "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 204,
-      "comments": 26,
+      "score": 216,
+      "comments": 28,
       "author": "mezark",
       "tags": [],
       "date": "2026-06-29T13:11:08+00:00"
@@ -612,19 +636,6 @@
       "date": "2026-06-29T01:23:38+00:00"
     },
     {
-      "id": "qiita-48b6c6cb98",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "React初学者が学ぶ、Reactのキホン part-1",
-      "url": "https://qiita.com/kucd1230/items/ba52f16af01b4d2f0e7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kucd1230",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-29T10:15:49+09:00"
-    },
-    {
       "id": "qiita-ca810c7fbe",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -762,8 +773,8 @@
       "source": "hn",
       "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
       "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-      "score": 293,
-      "comments": 161,
+      "score": 366,
+      "comments": 198,
       "author": "xrd",
       "tags": [],
       "date": "2026-06-28T21:42:39+00:00"
@@ -1306,8 +1317,8 @@
       "source": "hn",
       "title": "One million passports leaked online",
       "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
-      "score": 141,
-      "comments": 82,
+      "score": 166,
+      "comments": 88,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-06-28T11:22:49+00:00"
@@ -1605,8 +1616,8 @@
       "source": "hn",
       "title": "Apple Neural Engine: Architecture, Programming, and Performance",
       "url": "https://arxiv.org/abs/2606.22283",
-      "score": 120,
-      "comments": 16,
+      "score": 132,
+      "comments": 18,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-06-27T23:30:14+00:00"
@@ -1636,6 +1647,17 @@
         "Qiita"
       ],
       "date": "2026-06-28T07:28:15+09:00"
+    },
+    {
+      "id": "hn-48702320",
+      "source": "hn",
+      "title": "Old Computer Challenge",
+      "url": "http://occ.sdf.org/",
+      "score": 4,
+      "comments": 0,
+      "author": "wrxd",
+      "tags": [],
+      "date": "2026-06-27T22:18:50+00:00"
     },
     {
       "id": "hn-48702273",
@@ -1883,8 +1905,8 @@
       "source": "hn",
       "title": "Free the Icons",
       "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 200,
-      "comments": 53,
+      "score": 258,
+      "comments": 67,
       "author": "zdw",
       "tags": [],
       "date": "2026-06-27T15:05:17+00:00"
@@ -1940,8 +1962,8 @@
       "source": "hn",
       "title": "Netflix Simplified Batch Compute with Kueue",
       "url": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c",
-      "score": 6,
-      "comments": 0,
+      "score": 23,
+      "comments": 2,
       "author": "dalvrosa",
       "tags": [],
       "date": "2026-06-27T14:20:16+00:00"
@@ -2030,8 +2052,8 @@
       "source": "hn",
       "title": "Kb – Prolog Knowledge Base",
       "url": "https://github.com/mat-mgm/kb-prolog",
-      "score": 28,
-      "comments": 3,
+      "score": 35,
+      "comments": 5,
       "author": "triska",
       "tags": [],
       "date": "2026-06-27T12:16:27+00:00"
@@ -2718,8 +2740,8 @@
       "source": "hn",
       "title": "SQLite improving performance with pre-sort",
       "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
-      "score": 26,
-      "comments": 2,
+      "score": 37,
+      "comments": 3,
       "author": "tosh",
       "tags": [],
       "date": "2026-06-26T14:36:04+00:00"
@@ -3005,7 +3027,7 @@
       "source": "hn",
       "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
       "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-      "score": 112,
+      "score": 119,
       "comments": 20,
       "author": "chantepierre",
       "tags": [],
@@ -3493,8 +3515,8 @@
       "source": "hn",
       "title": "Dark Sky Lighting",
       "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-      "score": 151,
-      "comments": 27,
+      "score": 169,
+      "comments": 30,
       "author": "alexandrehtrb",
       "tags": [],
       "date": "2026-06-25T16:19:19+00:00"
@@ -4875,6 +4897,17 @@
       "date": "2026-06-24T12:57:31+00:00"
     },
     {
+      "id": "hn-48658991",
+      "source": "hn",
+      "title": "Philae's extraordinary comet landing relived (2024)",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
+      "score": 7,
+      "comments": 0,
+      "author": "1970-01-01",
+      "tags": [],
+      "date": "2026-06-24T12:53:01+00:00"
+    },
+    {
       "id": "hn-48658971",
       "source": "hn",
       "title": "GTA 6 will cost $80",
@@ -5245,41 +5278,6 @@
       "author": "byb",
       "tags": [],
       "date": "2026-06-24T03:17:47+00:00"
-    },
-    {
-      "id": "qiita-d8e60c70f5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWSの\"俯瞰\"構成図を自動生成する ── 見やすさを機械チェックしながら量産した話",
-      "url": "https://qiita.com/ntaka329/items/d457f309e33c4602a693?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ntaka329",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-24T12:02:25+09:00"
-    },
-    {
-      "id": "hn-48654540",
-      "source": "hn",
-      "title": "RRB-Trees: Efficient Immutable Vectors (2012) [pdf]",
-      "url": "https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content",
-      "score": 30,
-      "comments": 7,
-      "author": "azhenley",
-      "tags": [],
-      "date": "2026-06-24T02:56:03+00:00"
-    },
-    {
-      "id": "hn-48654465",
-      "source": "hn",
-      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
-      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
-      "score": 175,
-      "comments": 77,
-      "author": "retroplasma",
-      "tags": [],
-      "date": "2026-06-24T02:38:47+00:00"
     },
     {
       "id": "ctf-3967721",

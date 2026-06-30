@@ -1,8 +1,8 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T01:42:53.566171+00:00",
+  "generated_at": "2026-06-30T03:08:43.095347+00:00",
   "total_articles": 52,
-  "urgent_count": 5,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "JumpServer: Open-Source Privileged Access Management",
@@ -24,35 +24,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-29T14:09:15+00:00"
-    },
-    {
-      "title": "Tell Congress: Don't Force Age Checks Online",
-      "url": "https://act.eff.org/action/tell-congress-don-t-force-age-checks-online",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-29T01:52:55+00:00"
-    },
-    {
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-29T01:44:40+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
-        {
-          "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-          "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-          "score": 902,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-29T01:44:40+00:00"
-        },
         {
           "title": "Age verification is just a precursor to automated attribution of speech",
           "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
@@ -72,10 +50,18 @@
         {
           "title": "Qwen 3.6 27B is the sweet spot for local development",
           "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-          "score": 603,
+          "score": 654,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T17:05:16+00:00"
+        },
+        {
+          "title": "US Supreme Court rules geofence warrants require constitutional protections",
+          "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+          "score": 469,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-29T15:54:24+00:00"
         },
         {
           "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
@@ -89,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 6,
       "top_items": [
+        {
+          "title": "React初学者が学ぶ、Reactのキホン part-1",
+          "url": "https://qiita.com/kucd1230/items/ba52f16af01b4d2f0e7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-06-30T10:57:52+09:00"
+        },
         {
           "title": "Copilot Studio の新 UI、ファイル入出力がかなり進化しています",
           "url": "https://qiita.com/Takashi_Masumori/items/b366586f4130c897c85c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -122,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-06-29T17:14:41+09:00"
-        },
-        {
-          "title": "Power BI を一番うまく分析できるエージェント構成はどれか。比較してみた",
-          "url": "https://qiita.com/ryoma-nagata/items/3901af1e2d862bcd5ab3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-06-29T14:41:55+09:00"
         }
       ]
     }
