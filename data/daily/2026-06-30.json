@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T17:36:38.897443+00:00",
+  "generated_at": "2026-06-30T18:38:12.915710+00:00",
   "total_articles": 59,
   "urgent_count": 2,
   "urgent_items": [
@@ -22,12 +22,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 45,
       "top_items": [
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "score": 679,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-30T15:44:24+00:00"
+        },
         {
           "title": ".self: A new top-level domain designed to support self-hosting",
           "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-          "score": 620,
+          "score": 632,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T19:49:28+00:00"
@@ -35,7 +43,7 @@
         {
           "title": "European digital ID wallets rely on safety services of Google and Apple",
           "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-          "score": 603,
+          "score": 628,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T10:36:23+00:00"
@@ -49,17 +57,9 @@
           "date": "2026-06-30T10:15:15+00:00"
         },
         {
-          "title": "Claude Code Is Steganographically Marking Requests",
-          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "score": 482,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-30T15:44:24+00:00"
-        },
-        {
           "title": "The labor share of income in the US is at its lowest post-war level",
           "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-          "score": 343,
+          "score": 384,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T15:35:04+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",

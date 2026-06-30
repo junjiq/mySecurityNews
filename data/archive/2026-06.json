@@ -1,6 +1,6 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-30T17:36:38.939452+00:00",
+  "generated_at": "2026-06-30T18:38:12.958140+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 345,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "critical": 13,
-    "high": 4,
+    "high": 3,
     "medium": 2
   },
   "top_articles": [
@@ -28,18 +28,18 @@
       "date": "2026-06-25T20:33:37+00:00"
     },
     {
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 1101,
+      "source": "hn",
+      "date": "2026-06-29T17:05:16+00:00"
+    },
+    {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "score": 1090,
       "source": "hn",
       "date": "2026-06-26T17:06:55+00:00"
-    },
-    {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 1088,
-      "source": "hn",
-      "date": "2026-06-29T17:05:16+00:00"
     },
     {
       "title": "U.S. government will decide who gets to use GPT-5.6",
@@ -126,6 +126,13 @@
       "date": "2026-06-24T19:48:01+00:00"
     },
     {
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 679,
+      "source": "hn",
+      "date": "2026-06-30T15:44:24+00:00"
+    },
+    {
       "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
       "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
       "score": 640,
@@ -133,23 +140,16 @@
       "date": "2026-06-28T21:42:39+00:00"
     },
     {
-      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-      "url": "https://hackernewstrends.com",
-      "score": 628,
-      "source": "hn",
-      "date": "2026-06-25T14:08:55+00:00"
-    },
-    {
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 620,
+      "score": 632,
       "source": "hn",
       "date": "2026-06-29T19:49:28+00:00"
     },
     {
       "title": "Free the Icons",
       "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 616,
+      "score": 630,
       "source": "hn",
       "date": "2026-06-27T15:05:17+00:00"
     }
@@ -266,13 +266,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-06-25T15:10:26+09:00"
-    },
-    {
-      "title": "Exploiting vulnerabilities in Johnson and Johnson web apps",
-      "url": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-24T16:33:48+00:00"
     }
   ]
 }
