@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-30T07:50:17.111944+00:00",
-  "total_articles": 462,
+  "generated_at": "2026-06-30T09:08:52.918844+00:00",
+  "total_articles": 461,
   "source_counts": {
-    "hn": 358,
-    "zennqiita": 92,
+    "hn": 344,
+    "zennqiita": 105,
     "project": 12
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 13,
     "high": 4,
     "medium": 2
   },
@@ -72,16 +72,9 @@
     {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 865,
+      "score": 900,
       "source": "hn",
       "date": "2026-06-29T17:05:16+00:00"
-    },
-    {
-      "title": "We’re making Bunny DNS free",
-      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 841,
-      "source": "hn",
-      "date": "2026-06-24T08:50:41+00:00"
     },
     {
       "title": "Age verification is just a precursor to automated attribution of speech",
@@ -152,6 +145,13 @@
       "score": 599,
       "source": "hn",
       "date": "2026-06-27T14:38:05+00:00"
+    },
+    {
+      "title": "Fintech Engineering Handbook",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "score": 589,
+      "source": "hn",
+      "date": "2026-06-27T10:28:53+00:00"
     }
   ],
   "security_highlights": [
@@ -273,20 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-24T14:50:22+00:00"
-    },
-    {
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "url": "https://haystack.deepset.ai/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-24T11:21:32+00:00"
-    },
-    {
-      "title": "European Commission's Metsola Overrides MEPs to Force Through Chat Control",
-      "url": "https://www.politico.eu/article/president-vs-parliament-roberta-metsola-overrides-meps-bid-force-child-abuse-law/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-24T10:20:39+00:00"
     }
   ]
 }
