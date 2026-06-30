@@ -1,8 +1,8 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T16:44:59.872972+00:00",
-  "total_articles": 57,
-  "urgent_count": 3,
+  "generated_at": "2026-06-30T17:36:38.897443+00:00",
+  "total_articles": 59,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Antares Achieves Criticality of Mark-0 Reactor",
@@ -17,32 +17,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-29T19:06:17+00:00"
-    },
-    {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-29T17:16:17+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 44,
       "top_items": [
-        {
-          "title": "Qwen 3.6 27B is the sweet spot for local development",
-          "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-          "score": 1071,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-29T17:05:16+00:00"
-        },
         {
           "title": ".self: A new top-level domain designed to support self-hosting",
           "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-          "score": 610,
+          "score": 620,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T19:49:28+00:00"
@@ -50,7 +35,7 @@
         {
           "title": "European digital ID wallets rely on safety services of Google and Apple",
           "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-          "score": 583,
+          "score": 603,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T10:36:23+00:00"
@@ -64,9 +49,17 @@
           "date": "2026-06-30T10:15:15+00:00"
         },
         {
+          "title": "Claude Code Is Steganographically Marking Requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "score": 482,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-30T15:44:24+00:00"
+        },
+        {
           "title": "The labor share of income in the US is at its lowest post-war level",
           "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-          "score": 267,
+          "score": 343,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T15:35:04+00:00"
