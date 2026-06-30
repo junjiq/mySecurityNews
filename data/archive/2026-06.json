@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-30T04:52:49.894868+00:00",
-  "total_articles": 466,
+  "generated_at": "2026-06-30T06:27:32.161700+00:00",
+  "total_articles": 461,
   "source_counts": {
-    "hn": 358,
-    "zennqiita": 96,
+    "hn": 357,
+    "zennqiita": 92,
     "project": 12
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "high": 4,
     "medium": 2
   },
@@ -77,6 +77,13 @@
       "date": "2026-06-24T08:50:41+00:00"
     },
     {
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 800,
+      "source": "hn",
+      "date": "2026-06-29T17:05:16+00:00"
+    },
+    {
       "title": "Age verification is just a precursor to automated attribution of speech",
       "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
       "score": 794,
@@ -117,13 +124,6 @@
       "score": 733,
       "source": "hn",
       "date": "2026-06-27T09:18:52+00:00"
-    },
-    {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 727,
-      "source": "hn",
-      "date": "2026-06-29T17:05:16+00:00"
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
@@ -224,6 +224,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-26T12:58:07+00:00"
+    },
+    {
+      "title": "Open Source Low Tech",
+      "url": "https://opensourcelowtech.org/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-26T06:35:17+00:00"
     },
     {
       "title": "We all depend on open source. We will defend it together",

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T04:52:49.852315+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-06-30T06:27:32.116545+00:00",
+  "total_articles": 53,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,8 +29,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 48,
       "top_items": [
+        {
+          "title": "Qwen 3.6 27B is the sweet spot for local development",
+          "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+          "score": 800,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-29T17:05:16+00:00"
+        },
         {
           "title": "Pollen tried to remove my article and Google is assisting with it",
           "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
@@ -40,17 +48,9 @@
           "date": "2026-06-29T09:28:08+00:00"
         },
         {
-          "title": "Qwen 3.6 27B is the sweet spot for local development",
-          "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-          "score": 727,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-29T17:05:16+00:00"
-        },
-        {
           "title": "US Supreme Court rules geofence warrants require constitutional protections",
           "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-          "score": 493,
+          "score": 504,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T15:54:24+00:00"
@@ -66,7 +66,7 @@
         {
           "title": ".self: A new top-level domain designed to support self-hosting",
           "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-          "score": 398,
+          "score": 426,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T19:49:28+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
         {
           "title": "VR向けテクスチャ縮小方式の考察とUnityにおけるArea Averagingの実装",
@@ -83,7 +83,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-30T13:35:03+09:00"
+          "date": "2026-06-30T14:57:35+09:00"
         },
         {
           "title": "React初学者が学ぶ、Reactのキホン part-1",
