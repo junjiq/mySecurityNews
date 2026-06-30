@@ -1,8 +1,8 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T18:38:12.915710+00:00",
-  "total_articles": 59,
-  "urgent_count": 2,
+  "generated_at": "2026-06-30T19:35:55.007662+00:00",
+  "total_articles": 58,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Antares Achieves Criticality of Mark-0 Reactor",
@@ -10,27 +10,28 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-30T09:15:21+00:00"
-    },
-    {
-      "title": "JumpServer: Open-Source Privileged Access Management",
-      "url": "https://github.com/jumpserver/jumpserver",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-29T19:06:17+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 44,
       "top_items": [
         {
           "title": "Claude Code is steganographically marking requests",
           "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "score": 679,
+          "score": 831,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T15:44:24+00:00"
+        },
+        {
+          "title": "European digital ID wallets rely on safety services of Google and Apple",
+          "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+          "score": 642,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-30T10:36:23+00:00"
         },
         {
           "title": ".self: A new top-level domain designed to support self-hosting",
@@ -41,14 +42,6 @@
           "date": "2026-06-29T19:49:28+00:00"
         },
         {
-          "title": "European digital ID wallets rely on safety services of Google and Apple",
-          "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-          "score": 628,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-30T10:36:23+00:00"
-        },
-        {
           "title": "The US ambassador had Belgian police stop our reporting",
           "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
           "score": 539,
@@ -57,12 +50,12 @@
           "date": "2026-06-30T10:15:15+00:00"
         },
         {
-          "title": "The labor share of income in the US is at its lowest post-war level",
-          "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-          "score": 384,
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "score": 436,
           "source": "hn",
           "severity": null,
-          "date": "2026-06-30T15:35:04+00:00"
+          "date": "2026-06-30T17:59:52+00:00"
         }
       ]
     },
