@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-30T14:53:56.944462+00:00",
-  "total_articles": 467,
+  "generated_at": "2026-06-30T15:52:27.886750+00:00",
+  "total_articles": 461,
   "source_counts": {
-    "hn": 351,
+    "hn": 345,
     "zennqiita": 104,
     "project": 12
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 13,
     "high": 4,
     "medium": 2
   },
@@ -42,18 +42,18 @@
       "date": "2026-06-26T18:23:14+00:00"
     },
     {
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 1054,
+      "source": "hn",
+      "date": "2026-06-29T17:05:16+00:00"
+    },
+    {
       "title": "The 'papers, please' era of the internet will decimate your privacy",
       "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
       "score": 1045,
       "source": "hn",
       "date": "2026-06-25T21:44:55+00:00"
-    },
-    {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 1033,
-      "source": "hn",
-      "date": "2026-06-29T17:05:16+00:00"
     },
     {
       "title": "GLM 5.2 beats Claude in our benchmarks",
@@ -273,13 +273,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-24T16:33:48+00:00"
-    },
-    {
-      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
-      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-24T14:50:22+00:00"
     }
   ]
 }
