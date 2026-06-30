@@ -1,9 +1,16 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-30T09:08:52.874246+00:00",
-  "total_articles": 64,
-  "urgent_count": 3,
+  "generated_at": "2026-06-30T10:38:04.799919+00:00",
+  "total_articles": 60,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Antares Achieves Criticality of Mark-0 Reactor",
+      "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-30T09:15:21+00:00"
+    },
     {
       "title": "JumpServer: Open-Source Privileged Access Management",
       "url": "https://github.com/jumpserver/jumpserver",
@@ -29,28 +36,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 46,
       "top_items": [
         {
           "title": "Qwen 3.6 27B is the sweet spot for local development",
           "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-          "score": 900,
+          "score": 939,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T17:05:16+00:00"
         },
         {
-          "title": "Pollen tried to remove my article and Google is assisting with it",
-          "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-          "score": 747,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-06-29T09:28:08+00:00"
-        },
-        {
           "title": "US Supreme Court rules geofence warrants require constitutional protections",
           "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-          "score": 522,
+          "score": 529,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T15:54:24+00:00"
@@ -58,7 +57,7 @@
         {
           "title": ".self: A new top-level domain designed to support self-hosting",
           "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-          "score": 501,
+          "score": 526,
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T19:49:28+00:00"
@@ -70,12 +69,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-29T10:45:51+00:00"
+        },
+        {
+          "title": "Rocketlab acquires Iridium",
+          "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+          "score": 416,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-06-29T14:09:24+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 17,
+      "count": 14,
       "top_items": [
         {
           "title": "CNNの全結合層をSAMACTに置き換えてみた ― Kerasで実装するハイブリッド画像分類モデル",

@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-06-30T09:08:52.918844+00:00",
+  "generated_at": "2026-06-30T10:38:04.843201+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 344,
-    "zennqiita": 105,
+    "hn": 345,
+    "zennqiita": 104,
     "project": 12
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 14,
     "high": 4,
     "medium": 2
   },
@@ -56,6 +56,13 @@
       "date": "2026-06-28T17:50:47+00:00"
     },
     {
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 939,
+      "source": "hn",
+      "date": "2026-06-29T17:05:16+00:00"
+    },
+    {
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "url": "https://github.com/bikini/exploitarium",
       "score": 916,
@@ -68,13 +75,6 @@
       "score": 902,
       "source": "hn",
       "date": "2026-06-29T01:44:40+00:00"
-    },
-    {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 900,
-      "source": "hn",
-      "date": "2026-06-29T17:05:16+00:00"
     },
     {
       "title": "Age verification is just a precursor to automated attribution of speech",
@@ -147,14 +147,21 @@
       "date": "2026-06-27T14:38:05+00:00"
     },
     {
-      "title": "Fintech Engineering Handbook",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
       "score": 589,
       "source": "hn",
-      "date": "2026-06-27T10:28:53+00:00"
+      "date": "2026-06-28T21:42:39+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Antares Achieves Criticality of Mark-0 Reactor",
+      "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-06-30T09:15:21+00:00"
+    },
     {
       "title": "JumpServer: Open-Source Privileged Access Management",
       "url": "https://github.com/jumpserver/jumpserver",
