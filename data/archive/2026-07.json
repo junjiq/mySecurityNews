@@ -1,13 +1,13 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-01T17:16:04.307854+00:00",
-  "total_articles": 46,
+  "generated_at": "2026-07-01T18:11:21.664489+00:00",
+  "total_articles": 53,
   "source_counts": {
-    "hn": 39,
+    "hn": 46,
     "zennqiita": 7
   },
   "severity_counts": {
-    "critical": 1,
+    "critical": 2,
     "high": 1
   },
   "top_articles": [
@@ -19,6 +19,13 @@
       "date": "2026-07-01T13:29:29+00:00"
     },
     {
+      "title": "Asahi Linux 7.1 Progress Report",
+      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "score": 456,
+      "source": "hn",
+      "date": "2026-07-01T10:07:04+00:00"
+    },
+    {
       "title": "Godot will no longer accept AI-authored code contributions",
       "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
       "score": 455,
@@ -26,18 +33,18 @@
       "date": "2026-07-01T07:43:22+00:00"
     },
     {
-      "title": "Asahi Linux 7.1 Progress Report",
-      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "score": 441,
-      "source": "hn",
-      "date": "2026-07-01T10:07:04+00:00"
-    },
-    {
       "title": "Nintendo has raised its employees base salary by 10%",
       "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-      "score": 383,
+      "score": 406,
       "source": "hn",
       "date": "2026-07-01T11:35:20+00:00"
+    },
+    {
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 395,
+      "source": "hn",
+      "date": "2026-07-01T14:20:52+00:00"
     },
     {
       "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
@@ -47,18 +54,25 @@
       "date": "2026-07-01T09:21:44+00:00"
     },
     {
-      "title": "For first time, a cell built from scratch grows and divides",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 297,
-      "source": "hn",
-      "date": "2026-07-01T14:20:52+00:00"
-    },
-    {
       "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
       "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "score": 239,
+      "score": 302,
       "source": "hn",
       "date": "2026-07-01T12:13:34+00:00"
+    },
+    {
+      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "score": 252,
+      "source": "hn",
+      "date": "2026-07-01T14:26:07+00:00"
+    },
+    {
+      "title": "Box3D, an open source 3D physics engine",
+      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+      "score": 251,
+      "source": "hn",
+      "date": "2026-07-01T12:12:17+00:00"
     },
     {
       "title": "ArXiv's Next Chapter",
@@ -68,25 +82,11 @@
       "date": "2026-07-01T02:51:36+00:00"
     },
     {
-      "title": "Box3D, an open source 3D physics engine",
-      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-      "score": 215,
-      "source": "hn",
-      "date": "2026-07-01T12:12:17+00:00"
-    },
-    {
       "title": "The Internet I Grew Up with Doesn't Exist Anymore",
       "url": "https://cleberg.net/blog/internet.html",
       "score": 205,
       "source": "hn",
       "date": "2026-07-01T10:26:45+00:00"
-    },
-    {
-      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-      "score": 198,
-      "source": "hn",
-      "date": "2026-07-01T14:26:07+00:00"
     },
     {
       "title": "The first early human eggs from stem cells",
@@ -98,14 +98,14 @@
     {
       "title": "Internal Combustion Engine",
       "url": "https://ciechanow.ski/internal-combustion-engine/",
-      "score": 108,
+      "score": 133,
       "source": "hn",
       "date": "2026-07-01T13:04:16+00:00"
     },
     {
       "title": "Monetization Gateway",
       "url": "https://blog.cloudflare.com/monetization-gateway/",
-      "score": 106,
+      "score": 131,
       "source": "hn",
       "date": "2026-07-01T13:59:13+00:00"
     },
@@ -145,14 +145,21 @@
       "date": "2026-07-01T14:57:38+00:00"
     },
     {
-      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-      "score": 64,
+      "title": "How We Made IPFS Content Publishing 10x Faster",
+      "url": "https://probelab.io/blog/optimistic-provide/",
+      "score": 66,
       "source": "hn",
-      "date": "2026-07-01T05:13:22+00:00"
+      "date": "2026-07-01T15:30:35+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification",
+      "url": "https://exitprotocols.com/engineering/libr-state-machine/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-01T17:55:03+00:00"
+    },
     {
       "title": "Box3D, an open source 3D physics engine",
       "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
