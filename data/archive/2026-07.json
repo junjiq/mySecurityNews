@@ -1,40 +1,40 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-01T06:55:36.460558+00:00",
-  "total_articles": 8,
+  "generated_at": "2026-07-01T08:26:30.672945+00:00",
+  "total_articles": 15,
   "source_counts": {
-    "hn": 7,
-    "zennqiita": 1
+    "hn": 8,
+    "zennqiita": 7
   },
   "severity_counts": {},
   "top_articles": [
     {
-      "title": "Redeploying Fable 5",
-      "url": "https://www.anthropic.com/news/redeploying-fable-5",
-      "score": 60,
-      "source": "hn",
-      "date": "2026-07-01T03:11:40+00:00"
-    },
-    {
-      "title": "Forestiere Underground Gardens",
-      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
-      "score": 58,
-      "source": "hn",
-      "date": "2026-07-01T01:23:09+00:00"
-    },
-    {
       "title": "The first early human eggs from stem cells",
       "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
-      "score": 54,
+      "score": 89,
       "source": "hn",
       "date": "2026-07-01T05:09:30+00:00"
     },
     {
       "title": "ArXiv's Next Chapter",
       "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-      "score": 49,
+      "score": 86,
       "source": "hn",
       "date": "2026-07-01T02:51:36+00:00"
+    },
+    {
+      "title": "Forestiere Underground Gardens",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "score": 63,
+      "source": "hn",
+      "date": "2026-07-01T01:23:09+00:00"
+    },
+    {
+      "title": "Redeploying Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "score": 60,
+      "source": "hn",
+      "date": "2026-07-01T03:11:40+00:00"
     },
     {
       "title": "Claude Fable 5 export control lifted",
@@ -53,9 +53,16 @@
     {
       "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
       "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-      "score": 21,
+      "score": 28,
       "source": "hn",
       "date": "2026-07-01T05:13:22+00:00"
+    },
+    {
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "score": 17,
+      "source": "hn",
+      "date": "2026-07-01T07:43:22+00:00"
     }
   ],
   "security_highlights": []

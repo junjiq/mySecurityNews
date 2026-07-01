@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T06:55:36.414094+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-07-01T08:26:30.629707+00:00",
+  "total_articles": 67,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 52,
       "top_items": [
         {
           "title": "Claude Code is steganographically marking requests",
           "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "score": 1741,
+          "score": 1901,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T15:44:24+00:00"
@@ -35,10 +35,18 @@
         {
           "title": "Claude Sonnet 5",
           "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "score": 1052,
+          "score": 1097,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T17:59:52+00:00"
+        },
+        {
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "score": 642,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-06-30T23:55:12+00:00"
         },
         {
           "title": "European digital ID wallets rely on safety services of Google and Apple",
@@ -47,14 +55,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T10:36:23+00:00"
-        },
-        {
-          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-          "score": 571,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-06-30T23:55:12+00:00"
         },
         {
           "title": "The US ambassador had Belgian police stop our reporting",
@@ -68,47 +68,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 14,
       "top_items": [
         {
-          "title": "Oracle GDAI で実現するグローバル分散 AI データベースを整理してみてみた",
-          "url": "https://qiita.com/shirok/items/ed7856c563798df39a27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【Kaggle×人材育成】NTTグループ横断で100人が参加！Python初心者も2時間で楽しめるKaggleオンサイトコンペをやった話",
+          "url": "https://qiita.com/daikon_desu/items/e6f672324d5d9c2ab1f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-01T09:57:23+09:00"
+          "date": "2026-07-01T14:38:35+09:00"
         },
         {
-          "title": "OCI GoldenGate Veridata を動かしてデータを比較してみた。(Oracle Cloud Infrastructure)",
-          "url": "https://qiita.com/ora_gonsuke777/items/42d363a2a9995d70d3cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Railsで学ぶ レースコンディション 〜二重登録の罠〜",
+          "url": "https://qiita.com/akachiryo/items/42ff4d8f736f45eb8c59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-30T20:19:30+09:00"
+          "date": "2026-07-01T12:38:36+09:00"
         },
         {
-          "title": "【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた",
-          "url": "https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "DiscordBotにGeminiを実装してみた ~DiscordBot作成編~",
+          "url": "https://qiita.com/Yuzuki-ki/items/21ac1fc33cf8926df190?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-30T19:49:30+09:00"
+          "date": "2026-07-01T12:00:26+09:00"
         },
         {
-          "title": "Slackだけでタスク管理を完結！かんばんTODOリスト",
-          "url": "https://qiita.com/zawa-kun/items/0041579ceec156b0cf7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Cloud SQL に触る道が増えた — Next '26 新発表の Data API（HTTP）と Remote MCP サーバ（AI経由）を両方試してみた",
+          "url": "https://qiita.com/n-kawashima/items/b638ba26b53c684435f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-30T19:19:20+09:00"
+          "date": "2026-07-01T11:16:51+09:00"
         },
         {
-          "title": "エンジニアがいつのまにか知っている知識・常識・文化 12本",
-          "url": "https://qiita.com/ko-he-8/items/7ca90575c5fff758993e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "M365 Copilotを使って、好きなパワーポイントアイコンをつくろう",
+          "url": "https://qiita.com/shyamagu/items/3081df80ec8505b5ac72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-06-30T19:01:23+09:00"
+          "date": "2026-07-01T09:59:19+09:00"
         }
       ]
     },
