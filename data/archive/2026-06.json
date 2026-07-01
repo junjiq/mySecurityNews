@@ -1,31 +1,24 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-07-01T14:20:35.308527+00:00",
-  "total_articles": 431,
+  "generated_at": "2026-07-01T15:25:12.860116+00:00",
+  "total_articles": 425,
   "source_counts": {
-    "hn": 325,
-    "zennqiita": 95,
+    "hn": 320,
+    "zennqiita": 94,
     "project": 11
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 13,
     "high": 1,
-    "medium": 2
+    "medium": 1
   },
   "top_articles": [
     {
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 2263,
+      "score": 2294,
       "source": "hn",
       "date": "2026-06-30T15:44:24+00:00"
-    },
-    {
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "score": 1586,
-      "source": "hn",
-      "date": "2026-06-25T15:48:07+00:00"
     },
     {
       "title": "Om Malik has died",
@@ -37,7 +30,7 @@
     {
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 1188,
+      "score": 1207,
       "source": "hn",
       "date": "2026-06-30T17:59:52+00:00"
     },
@@ -152,6 +145,13 @@
       "score": 630,
       "source": "hn",
       "date": "2026-06-27T15:05:17+00:00"
+    },
+    {
+      "title": "Open Source Low Tech",
+      "url": "https://opensourcelowtech.org/",
+      "score": 610,
+      "source": "hn",
+      "date": "2026-06-26T06:35:17+00:00"
     }
   ],
   "security_highlights": [
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-26T05:40:36+00:00"
-    },
-    {
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "url": "https://github.com/inkeep/open-knowledge",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-25T16:04:46+00:00"
     }
   ]
 }
