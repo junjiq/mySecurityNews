@@ -1,22 +1,22 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-07-01T05:02:28.458834+00:00",
-  "total_articles": 457,
+  "generated_at": "2026-07-01T06:55:36.460558+00:00",
+  "total_articles": 453,
   "source_counts": {
-    "hn": 345,
-    "zennqiita": 101,
+    "hn": 344,
+    "zennqiita": 98,
     "project": 11
   },
   "severity_counts": {
     "critical": 14,
-    "high": 2,
+    "high": 1,
     "medium": 2
   },
   "top_articles": [
     {
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 1593,
+      "score": 1741,
       "source": "hn",
       "date": "2026-06-30T15:44:24+00:00"
     },
@@ -56,18 +56,18 @@
       "date": "2026-06-26T18:23:14+00:00"
     },
     {
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "score": 1052,
+      "source": "hn",
+      "date": "2026-06-30T17:59:52+00:00"
+    },
+    {
       "title": "The 'papers, please' era of the internet will decimate your privacy",
       "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
       "score": 1045,
       "source": "hn",
       "date": "2026-06-25T21:44:55+00:00"
-    },
-    {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 990,
-      "source": "hn",
-      "date": "2026-06-30T17:59:52+00:00"
     },
     {
       "title": "GLM 5.2 beats Claude in our benchmarks",
@@ -259,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-25T16:04:46+00:00"
-    },
-    {
-      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
-      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-25T08:07:54+00:00"
     }
   ]
 }
