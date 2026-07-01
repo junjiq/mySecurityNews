@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-07-01T22:55:12.957428+00:00",
-  "total_articles": 390,
+  "generated_at": "2026-07-01T23:30:46.772176+00:00",
+  "total_articles": 380,
   "source_counts": {
-    "hn": 296,
-    "zennqiita": 83,
+    "hn": 290,
+    "zennqiita": 79,
     "project": 11
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 11,
     "high": 1
   },
   "top_articles": [
@@ -132,13 +132,6 @@
       "date": "2026-06-27T15:05:17+00:00"
     },
     {
-      "title": "Open Source Low Tech",
-      "url": "https://opensourcelowtech.org/",
-      "score": 610,
-      "source": "hn",
-      "date": "2026-06-26T06:35:17+00:00"
-    },
-    {
       "title": "Zuckerberg's war on whistleblowers",
       "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
       "score": 599,
@@ -151,6 +144,13 @@
       "score": 589,
       "source": "hn",
       "date": "2026-06-27T10:28:53+00:00"
+    },
+    {
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "score": 557,
+      "source": "hn",
+      "date": "2026-06-29T15:54:24+00:00"
     }
   ],
   "security_highlights": [
@@ -237,13 +237,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-26T12:58:07+00:00"
-    },
-    {
-      "title": "Open Source Low Tech",
-      "url": "https://opensourcelowtech.org/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-26T06:35:17+00:00"
     }
   ]
 }
