@@ -1,15 +1,15 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-07-01T00:47:29.109358+00:00",
-  "total_articles": 460,
+  "generated_at": "2026-07-01T01:47:35.478929+00:00",
+  "total_articles": 458,
   "source_counts": {
     "hn": 346,
-    "zennqiita": 103,
+    "zennqiita": 101,
     "project": 11
   },
   "severity_counts": {
     "critical": 14,
-    "high": 3,
+    "high": 2,
     "medium": 2
   },
   "top_articles": [
@@ -23,7 +23,7 @@
     {
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 1377,
+      "score": 1429,
       "source": "hn",
       "date": "2026-06-30T15:44:24+00:00"
     },
@@ -86,7 +86,7 @@
     {
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 849,
+      "score": 889,
       "source": "hn",
       "date": "2026-06-30T17:59:52+00:00"
     },
@@ -266,13 +266,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-06-25T08:07:54+00:00"
-    },
-    {
-      "title": "IDOR — ソフトウェアアーキテクチャにおける「無邪気」だが致命的な脆弱性？",
-      "url": "https://qiita.com/luan_nguyen/items/d21c24d910853b96e542?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-06-25T15:10:26+09:00"
     }
   ]
 }
