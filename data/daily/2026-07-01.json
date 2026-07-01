@@ -1,15 +1,29 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T21:02:23.147591+00:00",
-  "total_articles": 77,
-  "urgent_count": 4,
+  "generated_at": "2026-07-01T22:01:11.916431+00:00",
+  "total_articles": 79,
+  "urgent_count": 6,
   "urgent_items": [
+    {
+      "title": "Fable open sourced NanoClaw's agent factory. It cost $800",
+      "url": "https://twitter.com/Gavriel_Cohen/status/2072432348805669139",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-01T21:41:06+00:00"
+    },
     {
       "title": "Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification",
       "url": "https://exitprotocols.com/engineering/libr-state-machine/",
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-01T17:55:03+00:00"
+    },
+    {
+      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+      "url": "https://blog.cloudflare.com/monetization-gateway/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-01T13:59:13+00:00"
     },
     {
       "title": "Box3D, an open source 3D physics engine",
@@ -36,7 +50,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 63,
+      "count": 65,
       "top_items": [
         {
           "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
@@ -49,7 +63,7 @@
         {
           "title": "For first time, a cell built from scratch grows and divides",
           "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-          "score": 585,
+          "score": 622,
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T14:20:52+00:00"
@@ -63,20 +77,20 @@
           "date": "2026-07-01T13:29:29+00:00"
         },
         {
+          "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+          "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+          "score": 482,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-01T12:13:34+00:00"
+        },
+        {
           "title": "Asahi Linux 7.1 Progress Report",
           "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
           "score": 469,
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T10:07:04+00:00"
-        },
-        {
-          "title": "Godot will no longer accept AI-authored code contributions",
-          "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-          "score": 455,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-01T07:43:22+00:00"
         }
       ]
     },
