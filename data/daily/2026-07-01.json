@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T13:27:43.127775+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-07-01T14:20:35.265476+00:00",
+  "total_articles": 63,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 54,
       "top_items": [
         {
           "title": "Claude Code is steganographically marking requests",
           "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "score": 2222,
+          "score": 2263,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T15:44:24+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Claude Sonnet 5",
           "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "score": 1174,
+          "score": 1188,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T17:59:52+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
           "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-          "score": 777,
+          "score": 812,
           "source": "hn",
           "severity": "critical",
           "date": "2026-06-30T23:55:12+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "Claude Science",
           "url": "https://claude.com/product/claude-science",
-          "score": 518,
+          "score": 525,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T17:07:41+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "Nano Banana 2 Lite",
           "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-          "score": 405,
+          "score": 410,
           "source": "hn",
           "severity": null,
           "date": "2026-06-30T16:48:37+00:00"
@@ -63,6 +63,14 @@
       "category": "日本語技術記事",
       "count": 9,
       "top_items": [
+        {
+          "title": "Cloud SQL に触る道が増えた — Next '26 新発表の Data API（HTTP）と Remote MCP サーバ（AI経由）を両方試してみた",
+          "url": "https://qiita.com/n-kawashima/items/b638ba26b53c684435f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-01T22:44:08+09:00"
+        },
         {
           "title": "【Kaggle×人材育成】NTTグループ横断で100人が参加！Python初心者も2時間で楽しめるKaggleオンサイトコンペをやった話",
           "url": "https://qiita.com/daikon_desu/items/e6f672324d5d9c2ab1f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-01T12:00:26+09:00"
-        },
-        {
-          "title": "Cloud SQL に触る道が増えた — Next '26 新発表の Data API（HTTP）と Remote MCP サーバ（AI経由）を両方試してみた",
-          "url": "https://qiita.com/n-kawashima/items/b638ba26b53c684435f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-01T11:16:51+09:00"
         },
         {
           "title": "M365 Copilotを使って、好きなパワーポイントアイコンをつくろう",
