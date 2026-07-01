@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-07-01T16:17:54.806746+00:00",
+  "updated_at": "2026-07-01T17:16:04.204020+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48749313",
+      "source": "hn",
+      "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
+      "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+      "score": 20,
+      "comments": 5,
+      "author": "jono_irwin",
+      "tags": [],
+      "date": "2026-07-01T16:19:47+00:00"
+    },
+    {
+      "id": "hn-48748679",
+      "source": "hn",
+      "title": "Meta loses bid to dismiss US states' claims that FB, Instagram addict children",
+      "url": "https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/",
+      "score": 92,
+      "comments": 20,
+      "author": "tartoran",
+      "tags": [],
+      "date": "2026-07-01T15:40:56+00:00"
+    },
     {
       "id": "hn-48748518",
       "source": "hn",
       "title": "How We Made IPFS Content Publishing 10x Faster",
       "url": "https://probelab.io/blog/optimistic-provide/",
-      "score": 6,
-      "comments": 0,
+      "score": 46,
+      "comments": 5,
       "author": "dennis-tra",
       "tags": [],
       "date": "2026-07-01T15:30:35+00:00"
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "Show HN: GolemUI – The new paradigm for JavaScript forms",
       "url": "https://golemui.com",
-      "score": 6,
-      "comments": 0,
+      "score": 12,
+      "comments": 20,
       "author": "wtfdeveloper",
       "tags": [],
       "date": "2026-07-01T15:12:08+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "Ray Tracer in SQL",
       "url": "https://github.com/ClickHouse/RayTracer",
-      "score": 16,
-      "comments": 2,
+      "score": 26,
+      "comments": 6,
       "author": "kbumsik",
       "tags": [],
       "date": "2026-07-01T14:27:48+00:00"
@@ -62,8 +84,8 @@
       "source": "hn",
       "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
       "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-      "score": 128,
-      "comments": 54,
+      "score": 198,
+      "comments": 99,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-07-01T14:26:07+00:00"
@@ -73,11 +95,22 @@
       "source": "hn",
       "title": "For first time, a cell built from scratch grows and divides",
       "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 157,
-      "comments": 37,
+      "score": 297,
+      "comments": 89,
       "author": "defrost",
       "tags": [],
       "date": "2026-07-01T14:20:52+00:00"
+    },
+    {
+      "id": "hn-48747116",
+      "source": "hn",
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "score": 10,
+      "comments": 7,
+      "author": "ledoge",
+      "tags": [],
+      "date": "2026-07-01T14:10:28+00:00"
     },
     {
       "id": "hn-48746940",
@@ -95,8 +128,8 @@
       "source": "hn",
       "title": "Monetization Gateway",
       "url": "https://blog.cloudflare.com/monetization-gateway/",
-      "score": 61,
-      "comments": 8,
+      "score": 106,
+      "comments": 31,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-07-01T13:59:13+00:00"
@@ -128,10 +161,10 @@
     {
       "id": "hn-48746445",
       "source": "hn",
-      "title": "Why I Stopped Arguing with People",
+      "title": "Most arguments are about ego, not ideas",
       "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-      "score": 495,
-      "comments": 382,
+      "score": 535,
+      "comments": 416,
       "author": "backlit4034",
       "tags": [],
       "date": "2026-07-01T13:29:29+00:00"
@@ -152,8 +185,8 @@
       "source": "hn",
       "title": "Internal Combustion Engine",
       "url": "https://ciechanow.ski/internal-combustion-engine/",
-      "score": 41,
-      "comments": 2,
+      "score": 108,
+      "comments": 9,
       "author": "StefanBatory",
       "tags": [],
       "date": "2026-07-01T13:04:16+00:00"
@@ -174,8 +207,8 @@
       "source": "hn",
       "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
       "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "score": 142,
-      "comments": 187,
+      "score": 239,
+      "comments": 294,
       "author": "Tiberium",
       "tags": [],
       "date": "2026-07-01T12:13:34+00:00"
@@ -183,13 +216,14 @@
     {
       "id": "hn-48745445",
       "source": "hn",
-      "title": "Announcing Box3D :: Box2D",
+      "title": "Box3D, an open source 3D physics engine",
       "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-      "score": 142,
-      "comments": 28,
+      "score": 215,
+      "comments": 39,
       "author": "makepanic",
       "tags": [],
-      "date": "2026-07-01T12:12:17+00:00"
+      "date": "2026-07-01T12:12:17+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-48745434",
@@ -207,8 +241,8 @@
       "source": "hn",
       "title": "Nintendo has raised its employees base salary by 10%",
       "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-      "score": 337,
-      "comments": 169,
+      "score": 383,
+      "comments": 198,
       "author": "_tk_",
       "tags": [],
       "date": "2026-07-01T11:35:20+00:00"
@@ -247,12 +281,24 @@
       "date": "2026-07-01T10:26:45+00:00"
     },
     {
+      "id": "hn-48744606",
+      "source": "hn",
+      "title": "Apple 'Hide My Email' Vulnerability Reveals Peoples' Real Email Addresses",
+      "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
+      "score": 52,
+      "comments": 4,
+      "author": "sashk",
+      "tags": [],
+      "date": "2026-07-01T10:19:45+00:00",
+      "severity": "high"
+    },
+    {
       "id": "hn-48744518",
       "source": "hn",
       "title": "Asahi Linux 7.1 Progress Report",
       "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "score": 423,
-      "comments": 128,
+      "score": 441,
+      "comments": 145,
       "author": "pantalaimon",
       "tags": [],
       "date": "2026-07-01T10:07:04+00:00"
@@ -407,6 +453,17 @@
       "date": "2026-07-01T02:51:36+00:00"
     },
     {
+      "id": "hn-48741609",
+      "source": "hn",
+      "title": "Fixing a kubelet memory leak in Kubernetes 1.36",
+      "url": "https://heyoncall.com/blog/fixing-kubernetes-kubelet-memory-leak",
+      "score": 17,
+      "comments": 3,
+      "author": "compumike",
+      "tags": [],
+      "date": "2026-07-01T02:14:29+00:00"
+    },
+    {
       "id": "hn-48741359",
       "source": "hn",
       "title": "Forestiere Underground Gardens",
@@ -483,8 +540,8 @@
       "source": "hn",
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 833,
-      "comments": 547,
+      "score": 870,
+      "comments": 573,
       "author": "Pragmata",
       "tags": [],
       "date": "2026-06-30T23:55:12+00:00",
@@ -884,7 +941,7 @@
       "source": "hn",
       "title": "Red Programming Language: Static linking support",
       "url": "https://www.red-lang.org/2026/06/static-linking-support.html",
-      "score": 35,
+      "score": 49,
       "comments": 6,
       "author": "em-bee",
       "tags": [],
@@ -2255,8 +2312,8 @@
       "source": "hn",
       "title": "Newly discovered spider builds spring loaded snare to catch ants",
       "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-      "score": 192,
-      "comments": 42,
+      "score": 204,
+      "comments": 44,
       "author": "chimpanzee",
       "tags": [],
       "date": "2026-06-28T20:05:56+00:00"
@@ -5186,69 +5243,12 @@
       "date": "2026-06-25T21:22:59+00:00"
     },
     {
-      "id": "hn-48679007",
-      "source": "hn",
-      "title": "Un-0: Generating Images with Coupled Oscillators",
-      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-      "score": 176,
-      "comments": 42,
-      "author": "babelfish",
-      "tags": [],
-      "date": "2026-06-25T20:50:02+00:00"
-    },
-    {
-      "id": "qiita-b1bac8332a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "「マネコン開いてどないしたらええんや…？」から半年。2026 Japan AWS Jr.Championに選出されるまで",
-      "url": "https://qiita.com/usanchuu/items/a3d907841022e0555813?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "usanchuu",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-26T05:35:59+09:00"
-    },
-    {
-      "id": "hn-48678852",
-      "source": "hn",
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
-      "score": 1258,
-      "comments": 155,
-      "author": "minimaxir",
-      "tags": [],
-      "date": "2026-06-25T20:33:37+00:00"
-    },
-    {
-      "id": "hn-48678820",
-      "source": "hn",
-      "title": "The Customer Who Almost Killed Slack, Stripe, and Airbnb",
-      "url": "https://siliconopera.com/the-customer-who-almost-killed-slack-stripe-and-airbnb/",
-      "score": 14,
-      "comments": 7,
-      "author": "nate",
-      "tags": [],
-      "date": "2026-06-25T20:30:47+00:00"
-    },
-    {
-      "id": "hn-48678645",
-      "source": "hn",
-      "title": "An oral history of Bank Python (2021)",
-      "url": "https://calpaterson.com/bank-python.html",
-      "score": 139,
-      "comments": 51,
-      "author": "tosh",
-      "tags": [],
-      "date": "2026-06-25T20:14:35+00:00"
-    },
-    {
       "id": "hn-48672848",
       "source": "hn",
       "title": "1-Bit Pixel Art Emojis",
       "url": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
-      "score": 27,
-      "comments": 2,
+      "score": 53,
+      "comments": 7,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-06-25T13:15:18+00:00"
@@ -5582,7 +5582,7 @@
       "title": "「リグレッションベース」——スプリントを重ねても破綻しないテスト管理の考え方",
       "url": "https://zenn.dev/mov_ish/articles/regression-base-concept",
       "score": null,
-      "author": "Ray-Ish",
+      "author": "Ray-Ish (@movrish )",
       "tags": [
         "Zenn"
       ],
@@ -5631,7 +5631,7 @@
       "id": "zenn-2e1c3ceaf8",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "ようこそ、ドメイン駆動設計へ",
+      "title": "ようこそ、ドメイン駆動設計へ｜無料公開中",
       "url": "https://zenn.dev/k_ing/books/ddd-first-book",
       "score": null,
       "author": "k_ing",
