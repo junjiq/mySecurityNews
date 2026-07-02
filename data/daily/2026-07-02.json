@@ -1,9 +1,16 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T00:44:31.409170+00:00",
+  "generated_at": "2026-07-02T01:43:02.579478+00:00",
   "total_articles": 79,
-  "urgent_count": 5,
+  "urgent_count": 6,
   "urgent_items": [
+    {
+      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-02T00:48:01+00:00"
+    },
     {
       "title": "Fable open sourced NanoClaw's agent factory. It cost $800",
       "url": "https://twitter.com/Gavriel_Cohen/status/2072432348805669139",
@@ -43,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 69,
+      "count": 71,
       "top_items": [
         {
           "title": "For first time, a cell built from scratch grows and divides",
           "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-          "score": 706,
+          "score": 729,
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T14:20:52+00:00"
@@ -56,7 +63,7 @@
         {
           "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
           "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-          "score": 577,
+          "score": 595,
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T12:13:34+00:00"
@@ -89,7 +96,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 8,
       "top_items": [
         {
           "title": "Cloud SQL に触る道が増えた — Next '26 新発表の Data API（HTTP）と Remote MCP サーバ（AI経由）を両方試してみた",
