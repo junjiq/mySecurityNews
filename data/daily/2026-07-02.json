@@ -1,8 +1,8 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T13:08:45.543489+00:00",
-  "total_articles": 78,
-  "urgent_count": 6,
+  "generated_at": "2026-07-02T14:15:42.559928+00:00",
+  "total_articles": 74,
+  "urgent_count": 5,
   "urgent_items": [
     {
       "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
@@ -38,24 +38,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-01T17:55:03+00:00"
-    },
-    {
-      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
-      "url": "https://blog.cloudflare.com/monetization-gateway/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-01T13:59:13+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 65,
+      "count": 64,
       "top_items": [
         {
           "title": "Android Developer Verification: Threat masquerading as Protection",
           "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-          "score": 921,
+          "score": 1033,
           "source": "hn",
           "severity": "medium",
           "date": "2026-07-02T03:00:15+00:00"
@@ -69,34 +62,34 @@
           "date": "2026-07-01T14:20:52+00:00"
         },
         {
-          "title": "Most arguments are about ego, not ideas",
-          "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-          "score": 535,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-01T13:29:29+00:00"
-        },
-        {
           "title": "ZCode – Harness for GLM-5.2",
           "url": "https://zcode.z.ai/en",
-          "score": 444,
+          "score": 457,
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T22:03:36+00:00"
         },
         {
-          "title": "FFmpeg 9.1's new AAC encoder",
-          "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-          "score": 403,
+          "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+          "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+          "score": 400,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-01T14:10:28+00:00"
+          "date": "2026-07-01T14:26:07+00:00"
+        },
+        {
+          "title": "Bring back crappy forums",
+          "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+          "score": 398,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-02T02:30:16+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 8,
       "top_items": [
         {
           "title": "【ハンズオン】AgentCore最新機能でRAG & AIエージェント構築に入門！",
