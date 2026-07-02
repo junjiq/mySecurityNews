@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T10:22:28.443617+00:00",
-  "total_articles": 81,
+  "generated_at": "2026-07-02T11:21:40.071664+00:00",
+  "total_articles": 80,
   "urgent_count": 6,
   "urgent_items": [
     {
@@ -50,15 +50,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 68,
+      "count": 67,
       "top_items": [
         {
           "title": "For first time, a cell built from scratch grows and divides",
           "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-          "score": 858,
+          "score": 866,
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T14:20:52+00:00"
+        },
+        {
+          "title": "A new Android malware from Google",
+          "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+          "score": 696,
+          "source": "hn",
+          "severity": "medium",
+          "date": "2026-07-02T03:00:15+00:00"
         },
         {
           "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
@@ -75,14 +83,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T13:29:29+00:00"
-        },
-        {
-          "title": "A new Android malware from Google",
-          "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-          "score": 532,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-07-02T03:00:15+00:00"
         },
         {
           "title": "Box3D, an open source 3D physics engine",
