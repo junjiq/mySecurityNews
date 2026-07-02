@@ -1,9 +1,16 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T12:15:35.968301+00:00",
-  "total_articles": 76,
-  "urgent_count": 5,
+  "generated_at": "2026-07-02T13:08:45.543489+00:00",
+  "total_articles": 78,
+  "urgent_count": 6,
   "urgent_items": [
+    {
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-02T10:00:27+00:00"
+    },
     {
       "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
       "url": "https://senior-swe-bench.snorkel.ai/",
@@ -43,23 +50,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 63,
+      "count": 65,
       "top_items": [
-        {
-          "title": "For first time, a cell built from scratch grows and divides",
-          "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-          "score": 873,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-01T14:20:52+00:00"
-        },
         {
           "title": "Android Developer Verification: Threat masquerading as Protection",
           "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-          "score": 825,
+          "score": 921,
           "source": "hn",
           "severity": "medium",
           "date": "2026-07-02T03:00:15+00:00"
+        },
+        {
+          "title": "For first time, a cell built from scratch grows and divides",
+          "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+          "score": 880,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-01T14:20:52+00:00"
         },
         {
           "title": "Most arguments are about ego, not ideas",
@@ -72,18 +79,18 @@
         {
           "title": "ZCode – Harness for GLM-5.2",
           "url": "https://zcode.z.ai/en",
-          "score": 427,
+          "score": 444,
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T22:03:36+00:00"
         },
         {
-          "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-          "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-          "score": 400,
+          "title": "FFmpeg 9.1's new AAC encoder",
+          "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+          "score": 403,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-01T14:26:07+00:00"
+          "date": "2026-07-01T14:10:28+00:00"
         }
       ]
     },
