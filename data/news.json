@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-07-02T15:16:21.842380+00:00",
+  "updated_at": "2026-07-02T16:13:20.841423+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48763035",
+      "source": "hn",
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "score": 51,
+      "comments": 5,
+      "author": "IngoBlechschmid",
+      "tags": [],
+      "date": "2026-07-02T15:25:16+00:00"
+    },
+    {
+      "id": "hn-48762862",
+      "source": "hn",
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "url": "https://manufact.com",
+      "score": 38,
+      "comments": 21,
+      "author": "pzullo",
+      "tags": [],
+      "date": "2026-07-02T15:11:20+00:00"
+    },
     {
       "id": "hn-48762038",
       "source": "hn",
       "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
       "url": "https://github.com/rafal-qa/slopo",
-      "score": 10,
-      "comments": 2,
+      "score": 19,
+      "comments": 5,
       "author": "rkochanowski",
       "tags": [],
       "date": "2026-07-02T14:19:24+00:00"
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
       "url": "https://mailmemories.com",
-      "score": 17,
-      "comments": 3,
+      "score": 55,
+      "comments": 16,
       "author": "ltiger",
       "tags": [],
       "date": "2026-07-02T14:16:57+00:00"
@@ -27,10 +49,10 @@
     {
       "id": "hn-48761536",
       "source": "hn",
-      "title": "AI Can't Be Listed as Inventor on Patent Applications, Japan's Top Court Rules",
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
       "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "score": 68,
-      "comments": 27,
+      "score": 142,
+      "comments": 55,
       "author": "mushstory",
       "tags": [],
       "date": "2026-07-02T13:43:41+00:00"
@@ -40,8 +62,8 @@
       "source": "hn",
       "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
       "url": "https://www.zerofs.net/",
-      "score": 50,
-      "comments": 29,
+      "score": 68,
+      "comments": 35,
       "author": "Eikon",
       "tags": [],
       "date": "2026-07-02T13:41:11+00:00"
@@ -51,19 +73,30 @@
       "source": "hn",
       "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
       "url": "https://freegraphpaper.net/",
-      "score": 9,
-      "comments": 1,
+      "score": 27,
+      "comments": 5,
       "author": "lam_hg94",
       "tags": [],
       "date": "2026-07-02T13:29:09+00:00"
+    },
+    {
+      "id": "hn-48761229",
+      "source": "hn",
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "score": 108,
+      "comments": 22,
+      "author": "toomuchtodo",
+      "tags": [],
+      "date": "2026-07-02T13:25:25+00:00"
     },
     {
       "id": "hn-48761118",
       "source": "hn",
       "title": "How to ask for help from people who don't know you",
       "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "score": 28,
-      "comments": 0,
+      "score": 65,
+      "comments": 2,
       "author": "FigurativeVoid",
       "tags": [],
       "date": "2026-07-02T13:19:22+00:00"
@@ -95,8 +128,8 @@
       "source": "hn",
       "title": "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
       "url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
-      "score": 57,
-      "comments": 13,
+      "score": 91,
+      "comments": 21,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-07-02T12:46:31+00:00"
@@ -128,7 +161,7 @@
       "source": "hn",
       "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
       "url": "https://arxiv.org/abs/2607.01232",
-      "score": 51,
+      "score": 69,
       "comments": 15,
       "author": "tcp_handshaker",
       "tags": [],
@@ -137,10 +170,10 @@
     {
       "id": "hn-48759870",
       "source": "hn",
-      "title": "Many people misunderstand the purpose of code review",
+      "title": "The primary purpose of code review is to find code that will be hard to maintain",
       "url": "https://mathstodon.xyz/@mjd/115096720350507897",
-      "score": 123,
-      "comments": 82,
+      "score": 180,
+      "comments": 104,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-07-02T11:41:27+00:00"
@@ -150,11 +183,22 @@
       "source": "hn",
       "title": "Vite+ Beta",
       "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
-      "score": 147,
-      "comments": 81,
+      "score": 168,
+      "comments": 96,
       "author": "Erenay09",
       "tags": [],
       "date": "2026-07-02T11:30:01+00:00"
+    },
+    {
+      "id": "hn-48759634",
+      "source": "hn",
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "url": "https://github.com/Chocobozzz/PeerTube",
+      "score": 62,
+      "comments": 5,
+      "author": "doener",
+      "tags": [],
+      "date": "2026-07-02T11:17:45+00:00"
     },
     {
       "id": "hn-48759623",
@@ -217,8 +261,8 @@
       "source": "hn",
       "title": "The fall of the theorem economy",
       "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-      "score": 146,
-      "comments": 59,
+      "score": 170,
+      "comments": 73,
       "author": "varjag",
       "tags": [],
       "date": "2026-07-02T08:01:15+00:00"
@@ -255,8 +299,8 @@
       "source": "hn",
       "title": "CursorBench 3.1",
       "url": "https://cursor.com/evals",
-      "score": 86,
-      "comments": 55,
+      "score": 107,
+      "comments": 68,
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-07-02T05:19:34+00:00"
@@ -266,8 +310,8 @@
       "source": "hn",
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "score": 290,
-      "comments": 124,
+      "score": 304,
+      "comments": 128,
       "author": "unliftedq",
       "tags": [],
       "date": "2026-07-02T04:32:41+00:00"
@@ -341,10 +385,10 @@
     {
       "id": "hn-48755965",
       "source": "hn",
-      "title": "Android Developer Verification: Threat masquerading as Protection",
+      "title": "Android Developer Verification: Threat masquerading as protection",
       "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1156,
-      "comments": 473,
+      "score": 1257,
+      "comments": 517,
       "author": "drewfax",
       "tags": [],
       "date": "2026-07-02T03:00:15+00:00",
@@ -402,8 +446,8 @@
       "source": "hn",
       "title": "Oomwoo, an open-source robot vacuum you build yourself",
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "score": 405,
-      "comments": 79,
+      "score": 418,
+      "comments": 82,
       "author": "devicelimit",
       "tags": [],
       "date": "2026-07-02T00:48:01+00:00",
@@ -504,8 +548,8 @@
       "source": "hn",
       "title": "ZCode – Harness for GLM-5.2",
       "url": "https://zcode.z.ai/en",
-      "score": 465,
-      "comments": 316,
+      "score": 479,
+      "comments": 320,
       "author": "chvid",
       "tags": [],
       "date": "2026-07-01T22:03:36+00:00"
@@ -1032,8 +1076,8 @@
       "source": "hn",
       "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
       "url": "https://github.com/emson/claudoro",
-      "score": 19,
-      "comments": 11,
+      "score": 22,
+      "comments": 18,
       "author": "emson",
       "tags": [],
       "date": "2026-07-01T12:25:29+00:00"
@@ -3513,8 +3557,8 @@
       "source": "hn",
       "title": "WinPE as a stateless harness for Windows driver testing and fuzzing",
       "url": "https://bednars.me/blog/winpe-harness",
-      "score": 36,
-      "comments": 1,
+      "score": 45,
+      "comments": 2,
       "author": "piotrbednarsalt",
       "tags": [],
       "date": "2026-06-28T19:17:42+00:00"
@@ -4530,10 +4574,10 @@
     {
       "id": "hn-48702006",
       "source": "hn",
-      "title": "German Button Maker Searched Rivers of American Midwest for Valuable Shells",
+      "title": "German button maker searched rivers of American Midwest for valuable shells",
       "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
-      "score": 42,
-      "comments": 9,
+      "score": 59,
+      "comments": 15,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-06-27T21:38:05+00:00"
@@ -5213,65 +5257,6 @@
       "date": "2026-06-27T00:43:39+00:00"
     },
     {
-      "id": "qiita-79122ed8da",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS】DevOpsAgentでレビューを自動化する【DevOpsAgent】",
-      "url": "https://qiita.com/Nana_777/items/31ef1d637150409a1990?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Nana_777",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-27T09:40:55+09:00"
-    },
-    {
-      "id": "qiita-7afce9f480",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【やってみた】Copilot Studio + Power Automate Desktop",
-      "url": "https://qiita.com/kaneoka_nr/items/221b0fb5db232850ad73?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kaneoka_nr",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-27T09:38:15+09:00"
-    },
-    {
-      "id": "hn-48693420",
-      "source": "hn",
-      "title": "International investment and local rules push prices up faster than supply",
-      "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-      "score": 112,
-      "comments": 44,
-      "author": "hhs",
-      "tags": [],
-      "date": "2026-06-26T23:36:30+00:00"
-    },
-    {
-      "id": "hn-48693391",
-      "source": "hn",
-      "title": "Om",
-      "url": "https://daringfireball.net/2026/06/om",
-      "score": 402,
-      "comments": 19,
-      "author": "throw0101a",
-      "tags": [],
-      "date": "2026-06-26T23:33:46+00:00"
-    },
-    {
-      "id": "hn-48693369",
-      "source": "hn",
-      "title": "Waveloop: What Fable left me",
-      "url": "https://neynt.ca/writing/waveloop/",
-      "score": 80,
-      "comments": 22,
-      "author": "personjerry",
-      "tags": [],
-      "date": "2026-06-26T23:29:51+00:00"
-    },
-    {
       "id": "ctf-3999897",
       "source": "project",
       "proj_category": "CTF",
@@ -5298,6 +5283,17 @@
         "Security"
       ],
       "date": "2026-06-26T16:18:33Z"
+    },
+    {
+      "id": "hn-48683417",
+      "source": "hn",
+      "title": "The Meadows of Medieval Summer",
+      "url": "https://www.historytoday.com/archive/out-margins/meadows-medieval-summer",
+      "score": 10,
+      "comments": 9,
+      "author": "lermontov",
+      "tags": [],
+      "date": "2026-06-26T07:21:27+00:00"
     },
     {
       "id": "ctf-3988270",
