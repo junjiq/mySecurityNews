@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-02T04:48:47.795487+00:00",
+  "updated_at": "2026-07-02T06:17:54.527887+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48756840",
+      "source": "hn",
+      "title": "CursorBench 3.1",
+      "url": "https://cursor.com/evals",
+      "score": 8,
+      "comments": 1,
+      "author": "handfuloflight",
+      "tags": [],
+      "date": "2026-07-02T05:19:34+00:00"
+    },
+    {
+      "id": "hn-48756602",
+      "source": "hn",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "score": 22,
+      "comments": 6,
+      "author": "unliftedq",
+      "tags": [],
+      "date": "2026-07-02T04:32:41+00:00"
+    },
     {
       "id": "qiita-70abf6e3b3",
       "source": "zennqiita",
@@ -16,12 +38,24 @@
       "date": "2026-07-02T12:47:10+09:00"
     },
     {
+      "id": "hn-48755965",
+      "source": "hn",
+      "title": "A new Android malware from Google",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "score": 44,
+      "comments": 8,
+      "author": "drewfax",
+      "tags": [],
+      "date": "2026-07-02T03:00:15+00:00",
+      "severity": "medium"
+    },
+    {
       "id": "hn-48755928",
       "source": "hn",
       "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
       "url": "https://senior-swe-bench.snorkel.ai/",
-      "score": 32,
-      "comments": 13,
+      "score": 55,
+      "comments": 36,
       "author": "matt_d",
       "tags": [],
       "date": "2026-07-02T02:55:16+00:00",
@@ -32,8 +66,8 @@
       "source": "hn",
       "title": "Bring back crappy forums",
       "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "score": 85,
-      "comments": 53,
+      "score": 145,
+      "comments": 93,
       "author": "pentagrama",
       "tags": [],
       "date": "2026-07-02T02:30:16+00:00"
@@ -54,8 +88,8 @@
       "source": "hn",
       "title": "Oomwoo, an open-source robot vacuum you build yourself",
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "score": 109,
-      "comments": 13,
+      "score": 167,
+      "comments": 32,
       "author": "devicelimit",
       "tags": [],
       "date": "2026-07-02T00:48:01+00:00",
@@ -88,8 +122,8 @@
       "source": "hn",
       "title": "The <Usermedia> HTML Element",
       "url": "https://developer.chrome.com/blog/usermedia-html-element",
-      "score": 57,
-      "comments": 25,
+      "score": 64,
+      "comments": 29,
       "author": "twapi",
       "tags": [],
       "date": "2026-07-01T23:56:15+00:00"
@@ -121,8 +155,8 @@
       "source": "hn",
       "title": "The Underhanded C Contest",
       "url": "https://underhanded-c.org/",
-      "score": 60,
-      "comments": 7,
+      "score": 71,
+      "comments": 9,
       "author": "ccabraldev",
       "tags": [],
       "date": "2026-07-01T22:39:15+00:00"
@@ -132,8 +166,8 @@
       "source": "hn",
       "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-      "score": 88,
-      "comments": 66,
+      "score": 110,
+      "comments": 94,
       "author": "consumer451",
       "tags": [],
       "date": "2026-07-01T22:27:47+00:00"
@@ -143,8 +177,8 @@
       "source": "hn",
       "title": "ZCode – Harness for GLM-5.2",
       "url": "https://zcode.z.ai/en",
-      "score": 302,
-      "comments": 243,
+      "score": 331,
+      "comments": 266,
       "author": "chvid",
       "tags": [],
       "date": "2026-07-01T22:03:36+00:00"
@@ -152,9 +186,9 @@
     {
       "id": "hn-48753524",
       "source": "hn",
-      "title": "Chip Off the Old Block",
+      "title": "Chip Off The Old Block",
       "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
-      "score": 54,
+      "score": 69,
       "comments": 7,
       "author": "paulpauper",
       "tags": [],
@@ -188,8 +222,8 @@
       "source": "hn",
       "title": "Qualcomm Linux 2.0",
       "url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-      "score": 70,
-      "comments": 27,
+      "score": 84,
+      "comments": 31,
       "author": "gilgamesh3",
       "tags": [],
       "date": "2026-07-01T21:01:42+00:00"
@@ -210,8 +244,8 @@
       "source": "hn",
       "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
       "url": "https://www.workerowned.info/",
-      "score": 293,
-      "comments": 62,
+      "score": 311,
+      "comments": 63,
       "author": "IESAI_ski",
       "tags": [],
       "date": "2026-07-01T20:47:41+00:00"
@@ -276,8 +310,8 @@
       "source": "hn",
       "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
       "url": "https://www.weaverobotics.com/isaac-1",
-      "score": 123,
-      "comments": 160,
+      "score": 137,
+      "comments": 193,
       "author": "ryanmerket",
       "tags": [],
       "date": "2026-07-01T18:12:18+00:00"
@@ -298,8 +332,8 @@
       "source": "hn",
       "title": "Learn Vim motions with an ice-cream van",
       "url": "https://thisismodest.com/vimscoops/",
-      "score": 21,
-      "comments": 2,
+      "score": 32,
+      "comments": 3,
       "author": "marcusmichaels",
       "tags": [],
       "date": "2026-07-01T18:00:07+00:00"
@@ -321,8 +355,8 @@
       "source": "hn",
       "title": "What to learn to be a graphics programmer",
       "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "score": 271,
-      "comments": 149,
+      "score": 295,
+      "comments": 155,
       "author": "atan2",
       "tags": [],
       "date": "2026-07-01T17:53:44+00:00"
@@ -519,8 +553,8 @@
       "source": "hn",
       "title": "For first time, a cell built from scratch grows and divides",
       "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 782,
-      "comments": 261,
+      "score": 814,
+      "comments": 269,
       "author": "defrost",
       "tags": [],
       "date": "2026-07-01T14:20:52+00:00"
@@ -530,8 +564,8 @@
       "source": "hn",
       "title": "FFmpeg 9.1's new AAC encoder",
       "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "score": 320,
-      "comments": 102,
+      "score": 340,
+      "comments": 106,
       "author": "ledoge",
       "tags": [],
       "date": "2026-07-01T14:10:28+00:00"
@@ -552,8 +586,8 @@
       "source": "hn",
       "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
       "url": "https://blog.cloudflare.com/monetization-gateway/",
-      "score": 270,
-      "comments": 186,
+      "score": 278,
+      "comments": 191,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-07-01T13:59:13+00:00",
@@ -610,8 +644,8 @@
       "source": "hn",
       "title": "Internal Combustion Engine (2021)",
       "url": "https://ciechanow.ski/internal-combustion-engine/",
-      "score": 298,
-      "comments": 80,
+      "score": 304,
+      "comments": 90,
       "author": "StefanBatory",
       "tags": [],
       "date": "2026-07-01T13:04:16+00:00"
@@ -1466,8 +1500,8 @@
       "source": "hn",
       "title": "How do wombats poop cubes?",
       "url": "https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery",
-      "score": 77,
-      "comments": 31,
+      "score": 91,
+      "comments": 38,
       "author": "bushwart",
       "tags": [],
       "date": "2026-06-30T13:59:32+00:00"
@@ -1689,8 +1723,8 @@
       "source": "hn",
       "title": "Database Traffic Control",
       "url": "https://planetscale.com/blog/introducing-database-traffic-control",
-      "score": 6,
-      "comments": 0,
+      "score": 26,
+      "comments": 1,
       "author": "religio",
       "tags": [],
       "date": "2026-06-30T08:58:41+00:00"
@@ -5190,39 +5224,6 @@
       "date": "2026-06-26T14:36:04+00:00"
     },
     {
-      "id": "hn-48687106",
-      "source": "hn",
-      "title": "The Excavator That Digs to a Line It Cannot See – Mobility and Field Robotics",
-      "url": "https://atomsfrontier.substack.com/p/the-excavator-that-digs-to-a-line",
-      "score": 5,
-      "comments": 1,
-      "author": "jpatel3",
-      "tags": [],
-      "date": "2026-06-26T14:32:57+00:00"
-    },
-    {
-      "id": "hn-48686834",
-      "source": "hn",
-      "title": "Springer Nature has removed two studies by Max Planck",
-      "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
-      "score": 317,
-      "comments": 151,
-      "author": "adharmad",
-      "tags": [],
-      "date": "2026-06-26T14:10:26+00:00"
-    },
-    {
-      "id": "hn-48686804",
-      "source": "hn",
-      "title": "Reflecting to optimise",
-      "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
-      "score": 29,
-      "comments": 2,
-      "author": "magni121",
-      "tags": [],
-      "date": "2026-06-26T14:07:41+00:00"
-    },
-    {
       "id": "ctf-3988270",
       "source": "project",
       "proj_category": "CTF",
@@ -5375,19 +5376,6 @@
       "date": "Wed, 01 Jul 2026 16:28:12 GMT"
     },
     {
-      "id": "zenn-0ce71d1b02",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Snowflake CoCo × ontology-stack-builder でセマンティックレイヤーを自動構築する",
-      "url": "https://zenn.dev/inoway/articles/i140-coco-ontology-stack-builder-tasty-bytes",
-      "score": null,
-      "author": "iix",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 01 Jul 2026 15:14:40 GMT"
-    },
-    {
       "id": "zenn-48f4a61c76",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5399,19 +5387,6 @@
         "Zenn"
       ],
       "date": "Wed, 01 Jul 2026 15:04:25 GMT"
-    },
-    {
-      "id": "zenn-e0bcc83c61",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIに「Figma通りに直して」と頼んだら、サイト全体のCSSを消された",
-      "url": "https://zenn.dev/tk_tk_tk/articles/dac717b0bca2fc",
-      "score": null,
-      "author": "TK|°_°|TK",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 01 Jul 2026 14:13:59 GMT"
     },
     {
       "id": "zenn-cefc3157be",
@@ -5466,6 +5441,19 @@
       "date": "Wed, 01 Jul 2026 11:08:38 GMT"
     },
     {
+      "id": "zenn-b49304d2b2",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "影響のあるアプリだけVRTを実行するようにして、CircleCIのクレジットを削減した",
+      "url": "https://zenn.dev/socialplus/articles/9368594bc4ce7c",
+      "score": null,
+      "author": "まっくす",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 01 Jul 2026 09:00:11 GMT"
+    },
+    {
       "id": "zenn-cd41c9211a",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5492,31 +5480,17 @@
       "date": "Wed, 01 Jul 2026 08:31:41 GMT"
     },
     {
-      "id": "zenn-0318eaad17",
+      "id": "zenn-d8f774400d",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Kubernetes インフラを構築してみて気づいた Terraform / Helm / CI/CD の役割分担",
-      "url": "https://zenn.dev/scalar_sol_blog/articles/7a2af4eea3cfe3",
+      "title": "動画編集ソフト「AviQtl」の創り方",
+      "url": "https://zenn.dev/taisho_guy/articles/2fa8e91a6c0a07",
       "score": null,
-      "author": "higu",
+      "author": "Maoka",
       "tags": [
         "Zenn"
       ],
-      "date": "Wed, 01 Jul 2026 08:30:05 GMT"
-    },
-    {
-      "id": "zenn-d02cca2ee4",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "フロントエンドの依存ライブラリの脆弱性対策に OSV-Scanner を導入してみた",
-      "url": "https://zenn.dev/cloud_ace_jp/articles/f1dabca7f4f007",
-      "score": null,
-      "author": "クラウドエース株式会社",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 01 Jul 2026 07:38:10 GMT",
-      "severity": "high"
+      "date": "Wed, 01 Jul 2026 07:20:10 GMT"
     },
     {
       "id": "zenn-46778bc237",
@@ -5545,32 +5519,6 @@
       "date": "Wed, 01 Jul 2026 04:18:01 GMT"
     },
     {
-      "id": "zenn-6ae17c0dac",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "投機的デコーディングによる推論高速化（Eagle3・DFlash・DSpark）",
-      "url": "https://zenn.dev/syurenuko/articles/b31d9d63035c9c",
-      "score": null,
-      "author": "syurenuko",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 01 Jul 2026 04:09:25 GMT"
-    },
-    {
-      "id": "zenn-99a0cf2e95",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "WSL Containersに触れてみた",
-      "url": "https://zenn.dev/user_thebigslee/articles/wsl-container-trial",
-      "score": null,
-      "author": "kurousa",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Wed, 01 Jul 2026 03:08:24 GMT"
-    },
-    {
       "id": "zenn-fcaccf0b4c",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5597,6 +5545,19 @@
       "date": "Tue, 30 Jun 2026 23:00:12 GMT"
     },
     {
+      "id": "zenn-8dddff28a5",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "claude -p を分類器として使って、ファイルを中身で自動整理するツールを作った話",
+      "url": "https://zenn.dev/xtone/articles/copper-golem-claude-p",
+      "score": null,
+      "author": "canecco",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 30 Jun 2026 17:59:04 GMT"
+    },
+    {
       "id": "zenn-ad73c0d9e2",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5608,6 +5569,45 @@
         "Zenn"
       ],
       "date": "Tue, 30 Jun 2026 10:25:15 GMT"
+    },
+    {
+      "id": "zenn-1744a03409",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ローカルLLMでハルシネーションを見抜く",
+      "url": "https://zenn.dev/starai_org/articles/1b09b1971a2a2b",
+      "score": null,
+      "author": "takeaki maekawa",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 30 Jun 2026 06:26:06 GMT"
+    },
+    {
+      "id": "zenn-2e1c3ceaf8",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "ようこそ、ドメイン駆動設計へ｜無料公開中",
+      "url": "https://zenn.dev/k_ing/books/ddd-first-book",
+      "score": null,
+      "author": "k_ing",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 30 Jun 2026 02:34:16 GMT"
+    },
+    {
+      "id": "zenn-88b3452cec",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "仕様の曖昧さをコードで共有する",
+      "url": "https://zenn.dev/tan_go238/articles/c94a78a2dea391",
+      "score": null,
+      "author": "tan_go238",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Tue, 30 Jun 2026 02:13:51 GMT"
     },
     {
       "id": "edb-3a6bcc02f2",
