@@ -1,10 +1,10 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-07-02T19:36:49.688136+00:00",
-  "total_articles": 317,
+  "generated_at": "2026-07-02T20:29:49.475112+00:00",
+  "total_articles": 306,
   "source_counts": {
-    "hn": 243,
-    "zennqiita": 67,
+    "hn": 233,
+    "zennqiita": 66,
     "project": 7
   },
   "severity_counts": {
@@ -68,25 +68,11 @@
       "date": "2026-06-29T03:42:07+00:00"
     },
     {
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
-      "score": 755,
-      "source": "hn",
-      "date": "2026-06-27T12:10:27+00:00"
-    },
-    {
       "title": "Pollen tried to remove my article and Google is assisting with it",
       "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
       "score": 747,
       "source": "hn",
       "date": "2026-06-29T09:28:08+00:00"
-    },
-    {
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 733,
-      "source": "hn",
-      "date": "2026-06-27T09:18:52+00:00"
     },
     {
       "title": "European digital ID wallets rely on safety services of Google and Apple",
@@ -124,13 +110,6 @@
       "date": "2026-06-27T14:38:05+00:00"
     },
     {
-      "title": "Fintech Engineering Handbook",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "score": 589,
-      "source": "hn",
-      "date": "2026-06-27T10:28:53+00:00"
-    },
-    {
       "title": "US Supreme Court rules geofence warrants require constitutional protections",
       "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
       "score": 557,
@@ -150,6 +129,27 @@
       "score": 538,
       "source": "hn",
       "date": "2026-06-28T11:56:16+00:00"
+    },
+    {
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "score": 525,
+      "source": "hn",
+      "date": "2026-06-30T17:07:41+00:00"
+    },
+    {
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "score": 504,
+      "source": "hn",
+      "date": "2026-06-28T16:35:19+00:00"
+    },
+    {
+      "title": "EU to legislate about Chat Control behind closed doors",
+      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+      "score": 495,
+      "source": "hn",
+      "date": "2026-06-28T14:40:13+00:00"
     }
   ],
   "security_highlights": [

@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-02T19:36:49.688136+00:00",
-  "total_articles": 144,
+  "generated_at": "2026-07-02T20:29:49.475112+00:00",
+  "total_articles": 155,
   "source_counts": {
-    "hn": 117,
-    "zennqiita": 23,
+    "hn": 120,
+    "zennqiita": 31,
     "project": 4
   },
   "severity_counts": {
-    "critical": 7,
+    "critical": 8,
     "medium": 1,
     "high": 1
   },
@@ -16,7 +16,7 @@
     {
       "title": "Android Developer Verification: Threat masquerading as protection",
       "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1461,
+      "score": 1495,
       "source": "hn",
       "date": "2026-07-02T03:00:15+00:00"
     },
@@ -114,9 +114,30 @@
     {
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "score": 370,
+      "score": 384,
       "source": "hn",
       "date": "2026-07-02T04:32:41+00:00"
+    },
+    {
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "score": 369,
+      "source": "hn",
+      "date": "2026-07-02T15:02:26+00:00"
+    },
+    {
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "url": "https://github.com/Chocobozzz/PeerTube",
+      "score": 362,
+      "source": "hn",
+      "date": "2026-07-02T11:17:45+00:00"
+    },
+    {
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "score": 354,
+      "source": "hn",
+      "date": "2026-07-02T13:25:25+00:00"
     },
     {
       "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
@@ -126,35 +147,21 @@
       "date": "2026-07-01T20:47:41+00:00"
     },
     {
-      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-      "score": 317,
-      "source": "hn",
-      "date": "2026-07-02T13:25:25+00:00"
-    },
-    {
       "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
       "url": "https://blog.cloudflare.com/monetization-gateway/",
       "score": 314,
       "source": "hn",
       "date": "2026-07-01T13:59:13+00:00"
-    },
-    {
-      "title": "Internal Combustion Engine (2021)",
-      "url": "https://ciechanow.ski/internal-combustion-engine/",
-      "score": 314,
-      "source": "hn",
-      "date": "2026-07-01T13:04:16+00:00"
-    },
-    {
-      "title": "PeerTube is a free, decentralized and federated video platform",
-      "url": "https://github.com/Chocobozzz/PeerTube",
-      "score": 313,
-      "source": "hn",
-      "date": "2026-07-02T11:17:45+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Job seekers giving up: Labor force participation falls to lowest in 50 years",
+      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-02T19:16:20+00:00"
+    },
     {
       "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
       "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
