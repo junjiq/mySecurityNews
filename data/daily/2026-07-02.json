@@ -1,8 +1,8 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T09:05:37.847382+00:00",
-  "total_articles": 86,
-  "urgent_count": 7,
+  "generated_at": "2026-07-02T10:22:28.443617+00:00",
+  "total_articles": 81,
+  "urgent_count": 6,
   "urgent_items": [
     {
       "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
@@ -45,24 +45,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-01T12:12:17+00:00"
-    },
-    {
-      "title": "Apple 'Hide My Email' Vulnerability Reveals Peoples' Real Email Addresses",
-      "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-01T10:19:45+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 72,
+      "count": 68,
       "top_items": [
         {
           "title": "For first time, a cell built from scratch grows and divides",
           "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-          "score": 851,
+          "score": 858,
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T14:20:52+00:00"
@@ -84,12 +77,12 @@
           "date": "2026-07-01T13:29:29+00:00"
         },
         {
-          "title": "Asahi Linux 7.1 Progress Report",
-          "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-          "score": 469,
+          "title": "A new Android malware from Google",
+          "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+          "score": 532,
           "source": "hn",
-          "severity": null,
-          "date": "2026-07-01T10:07:04+00:00"
+          "severity": "medium",
+          "date": "2026-07-02T03:00:15+00:00"
         },
         {
           "title": "Box3D, an open source 3D physics engine",
@@ -103,7 +96,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "【ハンズオン】AgentCore最新機能でRAG & AIエージェント構築に入門！",
