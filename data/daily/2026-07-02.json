@@ -1,8 +1,8 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T11:21:40.071664+00:00",
-  "total_articles": 80,
-  "urgent_count": 6,
+  "generated_at": "2026-07-02T12:15:35.968301+00:00",
+  "total_articles": 76,
+  "urgent_count": 5,
   "urgent_items": [
     {
       "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
@@ -38,43 +38,28 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-01T13:59:13+00:00"
-    },
-    {
-      "title": "Box3D, an open source 3D physics engine",
-      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-01T12:12:17+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 67,
+      "count": 63,
       "top_items": [
         {
           "title": "For first time, a cell built from scratch grows and divides",
           "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-          "score": 866,
+          "score": 873,
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T14:20:52+00:00"
         },
         {
-          "title": "A new Android malware from Google",
+          "title": "Android Developer Verification: Threat masquerading as Protection",
           "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-          "score": 696,
+          "score": 825,
           "source": "hn",
           "severity": "medium",
           "date": "2026-07-02T03:00:15+00:00"
-        },
-        {
-          "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-          "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-          "score": 650,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-01T12:13:34+00:00"
         },
         {
           "title": "Most arguments are about ego, not ideas",
@@ -85,12 +70,20 @@
           "date": "2026-07-01T13:29:29+00:00"
         },
         {
-          "title": "Box3D, an open source 3D physics engine",
-          "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-          "score": 452,
+          "title": "ZCode – Harness for GLM-5.2",
+          "url": "https://zcode.z.ai/en",
+          "score": 427,
           "source": "hn",
-          "severity": "critical",
-          "date": "2026-07-01T12:12:17+00:00"
+          "severity": null,
+          "date": "2026-07-01T22:03:36+00:00"
+        },
+        {
+          "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+          "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+          "score": 400,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-01T14:26:07+00:00"
         }
       ]
     },
