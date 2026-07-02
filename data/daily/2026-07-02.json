@@ -1,11 +1,18 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T03:07:57.994163+00:00",
-  "total_articles": 78,
-  "urgent_count": 6,
+  "generated_at": "2026-07-02T04:48:47.855246+00:00",
+  "total_articles": 77,
+  "urgent_count": 7,
   "urgent_items": [
     {
-      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-02T02:55:16+00:00"
+    },
+    {
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
       "severity": "critical",
       "source": "hn",
@@ -50,12 +57,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 71,
+      "count": 70,
       "top_items": [
         {
           "title": "For first time, a cell built from scratch grows and divides",
           "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-          "score": 755,
+          "score": 782,
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T14:20:52+00:00"
@@ -63,7 +70,7 @@
         {
           "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
           "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-          "score": 617,
+          "score": 650,
           "source": "hn",
           "severity": null,
           "date": "2026-07-01T12:13:34+00:00"
@@ -99,6 +106,14 @@
       "count": 7,
       "top_items": [
         {
+          "title": "開発チームを良くしたい！改善提案で気をつけている5つのこと",
+          "url": "https://qiita.com/mu7kata/items/c146eb7c2885036c6b83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-02T12:47:10+09:00"
+        },
+        {
           "title": "Cloud SQL に触る道が増えた — Next '26 新発表の Data API（HTTP）と Remote MCP サーバ（AI経由）を両方試してみた",
           "url": "https://qiita.com/n-kawashima/items/b638ba26b53c684435f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -129,14 +144,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-01T16:14:48+09:00"
-        },
-        {
-          "title": "【Kaggle×人材育成】NTTグループ横断で100人が参加！Python初心者も2時間で楽しめるKaggleオンサイトコンペをやった話",
-          "url": "https://qiita.com/daikon_desu/items/e6f672324d5d9c2ab1f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-01T14:38:35+09:00"
         }
       ]
     }

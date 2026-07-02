@@ -1,15 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-07-02T03:07:58.042308+00:00",
-  "total_articles": 373,
+  "generated_at": "2026-07-02T04:48:47.897077+00:00",
+  "total_articles": 370,
   "source_counts": {
-    "hn": 289,
-    "zennqiita": 73,
+    "hn": 288,
+    "zennqiita": 71,
     "project": 11
   },
   "severity_counts": {
-    "critical": 11,
-    "high": 1
+    "critical": 11
   },
   "top_articles": [
     {
@@ -230,13 +229,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-26T21:14:47+00:00"
-    },
-    {
-      "title": "Incident CVE-2026-LGTM",
-      "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-06-26T12:58:07+00:00"
     }
   ]
 }
