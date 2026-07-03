@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T14:15:42.465592+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-07-03T15:14:57.366135+00:00",
+  "total_articles": 56,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 49,
       "top_items": [
         {
           "title": "Virginia bans sale of geolocation data",
@@ -42,40 +42,40 @@
         {
           "title": "Half-Baked Product",
           "url": "https://weli.dev/blog/half-baked-product/",
-          "score": 605,
+          "score": 745,
           "source": "hn",
           "severity": null,
           "date": "2026-07-03T08:23:32+00:00"
         },
         {
-          "title": "Podman v6.0.0",
-          "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-          "score": 584,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-02T14:23:09+00:00"
-        },
-        {
-          "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-          "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-          "score": 561,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-02T15:02:26+00:00"
-        },
-        {
           "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
           "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-          "score": 505,
+          "score": 510,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T15:25:16+00:00"
+        },
+        {
+          "title": "CarPlay Is Additive",
+          "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+          "score": 444,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-03T01:02:45+00:00"
+        },
+        {
+          "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+          "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+          "score": 435,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-03T04:16:17+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 7,
       "top_items": [
         {
           "title": "Google の Data Agent Kit を Claude Code に入れて、BigQuery を自然言語で触る",
