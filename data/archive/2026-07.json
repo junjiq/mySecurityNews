@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-03T07:38:05.029106+00:00",
-  "total_articles": 182,
+  "generated_at": "2026-07-03T09:04:53.780713+00:00",
+  "total_articles": 196,
   "source_counts": {
-    "hn": 147,
-    "zennqiita": 31,
+    "hn": 148,
+    "zennqiita": 44,
     "project": 4
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "medium": 1,
     "high": 1
   },
@@ -30,7 +30,7 @@
     {
       "title": "Virginia bans sale of geolocation data",
       "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "score": 715,
+      "score": 747,
       "source": "hn",
       "date": "2026-07-02T21:03:45+00:00"
     },
@@ -65,7 +65,7 @@
     {
       "title": "Podman v6.0.0",
       "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 492,
+      "score": 521,
       "source": "hn",
       "date": "2026-07-02T14:23:09+00:00"
     },
@@ -84,6 +84,13 @@
       "date": "2026-07-01T10:07:04+00:00"
     },
     {
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "score": 461,
+      "source": "hn",
+      "date": "2026-07-02T15:25:16+00:00"
+    },
+    {
       "title": "Godot will no longer accept AI-authored code contributions",
       "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
       "score": 455,
@@ -96,13 +103,6 @@
       "score": 452,
       "source": "hn",
       "date": "2026-07-01T12:12:17+00:00"
-    },
-    {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 448,
-      "source": "hn",
-      "date": "2026-07-02T15:25:16+00:00"
     },
     {
       "title": "How to ask for help from people who don't know you",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-03T08:31:37+00:00"
+    },
     {
       "title": "Job seekers giving up: Labor force participation falls to lowest in 50 years",
       "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
