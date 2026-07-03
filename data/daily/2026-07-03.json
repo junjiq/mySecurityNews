@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T04:45:36.971278+00:00",
-  "total_articles": 67,
+  "generated_at": "2026-07-03T06:13:18.014871+00:00",
+  "total_articles": 66,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -27,10 +27,18 @@
         {
           "title": "Virginia bans sale of geolocation data",
           "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-          "score": 628,
+          "score": 667,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T21:03:45+00:00"
+        },
+        {
+          "title": "PeerTube is a free, decentralized and federated video platform",
+          "url": "https://github.com/Chocobozzz/PeerTube",
+          "score": 581,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-02T11:17:45+00:00"
         },
         {
           "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
@@ -41,12 +49,12 @@
           "date": "2026-07-02T15:02:26+00:00"
         },
         {
-          "title": "PeerTube is a free, decentralized and federated video platform",
-          "url": "https://github.com/Chocobozzz/PeerTube",
-          "score": 551,
+          "title": "Podman v6.0.0",
+          "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+          "score": 459,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-02T11:17:45+00:00"
+          "date": "2026-07-02T14:23:09+00:00"
         },
         {
           "title": "How to ask for help from people who don't know you",
@@ -55,14 +63,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T13:19:22+00:00"
-        },
-        {
-          "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-          "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-          "score": 427,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-02T15:25:16+00:00"
         }
       ]
     },
@@ -93,20 +93,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-02T16:51:13+09:00"
-        }
-      ]
-    },
-    {
-      "category": "注目リリース",
-      "count": 1,
-      "top_items": [
-        {
-          "title": "HackTheBox: Manage Writeup",
-          "url": "https://dev.to/exploitnotes/hackthebox-manage-writeup-3e8f",
-          "score": 1,
-          "source": "project",
-          "severity": null,
-          "date": "2026-07-02T05:43:49Z"
         }
       ]
     }
