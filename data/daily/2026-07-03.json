@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T11:19:59.605446+00:00",
-  "total_articles": 71,
+  "generated_at": "2026-07-03T12:14:51.649794+00:00",
+  "total_articles": 68,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 60,
+      "count": 58,
       "top_items": [
         {
           "title": "Virginia bans sale of geolocation data",
           "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-          "score": 823,
+          "score": 833,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T21:03:45+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "Podman v6.0.0",
           "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-          "score": 548,
+          "score": 557,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T14:23:09+00:00"
@@ -51,25 +51,33 @@
         {
           "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
           "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-          "score": 486,
+          "score": 492,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T15:25:16+00:00"
         },
         {
-          "title": "How to ask for help from people who don't know you",
-          "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-          "score": 447,
+          "title": "Immich 3.0",
+          "url": "https://github.com/immich-app/immich/discussions/29439",
+          "score": 466,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-02T13:19:22+00:00"
+          "date": "2026-07-02T14:13:26+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
+        {
+          "title": "Google の Data Agent Kit を Claude Code に入れて、BigQuery を自然言語で触る",
+          "url": "https://qiita.com/TaichiYamasaki/items/a2884f1fb66a9628c4b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-03T20:22:53+09:00"
+        },
         {
           "title": "AIと英会話できる学習アプリを個人開発してリリースした話【Agentcore / Strands / Bedrock】",
           "url": "https://qiita.com/yutaka_kozuka/items/7ccb66fc5c149ac30702?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -77,14 +85,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-03T18:26:37+09:00"
-        },
-        {
-          "title": "Google の Data Agent Kit を Claude Code に入れて、BigQuery を自然言語で触る",
-          "url": "https://qiita.com/TaichiYamasaki/items/a2884f1fb66a9628c4b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-03T17:15:30+09:00"
         },
         {
           "title": "IT界でもbeat itを奏でるマイケルジャクソン🕺",
