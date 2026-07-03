@@ -1,9 +1,9 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-03T09:04:53.780713+00:00",
-  "total_articles": 196,
+  "generated_at": "2026-07-03T10:20:33.199933+00:00",
+  "total_articles": 198,
   "source_counts": {
-    "hn": 148,
+    "hn": 150,
     "zennqiita": 44,
     "project": 4
   },
@@ -30,7 +30,7 @@
     {
       "title": "Virginia bans sale of geolocation data",
       "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "score": 747,
+      "score": 790,
       "source": "hn",
       "date": "2026-07-02T21:03:45+00:00"
     },
@@ -56,18 +56,18 @@
       "date": "2026-07-02T15:02:26+00:00"
     },
     {
+      "title": "Podman v6.0.0",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "score": 535,
+      "source": "hn",
+      "date": "2026-07-02T14:23:09+00:00"
+    },
+    {
       "title": "Most arguments are about ego, not ideas",
       "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
       "score": 535,
       "source": "hn",
       "date": "2026-07-01T13:29:29+00:00"
-    },
-    {
-      "title": "Podman v6.0.0",
-      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 521,
-      "source": "hn",
-      "date": "2026-07-02T14:23:09+00:00"
     },
     {
       "title": "ZCode – Harness for GLM-5.2",
@@ -77,18 +77,18 @@
       "date": "2026-07-01T22:03:36+00:00"
     },
     {
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "score": 475,
+      "source": "hn",
+      "date": "2026-07-02T15:25:16+00:00"
+    },
+    {
       "title": "Asahi Linux 7.1 Progress Report",
       "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
       "score": 469,
       "source": "hn",
       "date": "2026-07-01T10:07:04+00:00"
-    },
-    {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 461,
-      "source": "hn",
-      "date": "2026-07-02T15:25:16+00:00"
     },
     {
       "title": "Godot will no longer accept AI-authored code contributions",
@@ -126,6 +126,13 @@
       "date": "2026-07-02T02:30:16+00:00"
     },
     {
+      "title": "Immich 3.0",
+      "url": "https://github.com/immich-app/immich/discussions/29439",
+      "score": 425,
+      "source": "hn",
+      "date": "2026-07-02T14:13:26+00:00"
+    },
+    {
       "title": "Oomwoo, an open-source robot vacuum you build yourself",
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
       "score": 418,
@@ -145,13 +152,6 @@
       "score": 406,
       "source": "hn",
       "date": "2026-07-01T11:35:20+00:00"
-    },
-    {
-      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-      "score": 400,
-      "source": "hn",
-      "date": "2026-07-01T14:26:07+00:00"
     }
   ],
   "security_highlights": [

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T09:04:53.737083+00:00",
-  "total_articles": 74,
-  "urgent_count": 3,
+  "generated_at": "2026-07-03T10:20:33.157022+00:00",
+  "total_articles": 73,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
@@ -17,24 +17,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-02T19:16:20+00:00"
-    },
-    {
-      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-02T10:00:27+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 61,
+      "count": 62,
       "top_items": [
         {
           "title": "Virginia bans sale of geolocation data",
           "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-          "score": 747,
+          "score": 790,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T21:03:45+00:00"
@@ -58,7 +51,7 @@
         {
           "title": "Podman v6.0.0",
           "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-          "score": 521,
+          "score": 535,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T14:23:09+00:00"
@@ -66,7 +59,7 @@
         {
           "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
           "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-          "score": 461,
+          "score": 475,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T15:25:16+00:00"
@@ -75,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 11,
       "top_items": [
+        {
+          "title": "AIと英会話できる学習アプリを個人開発してリリースした話【Agentcore / Strands / Bedrock】",
+          "url": "https://qiita.com/yutaka_kozuka/items/7ccb66fc5c149ac30702?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-03T18:26:37+09:00"
+        },
         {
           "title": "Google の Data Agent Kit を Claude Code に入れて、BigQuery を自然言語で触る",
           "url": "https://qiita.com/TaichiYamasaki/items/a2884f1fb66a9628c4b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -92,14 +93,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-03T13:11:52+09:00"
-        },
-        {
-          "title": "AIと英会話できる学習アプリを個人開発してリリースした話【Agentcore / Strands / Bedrock】",
-          "url": "https://qiita.com/yutaka_kozuka/items/7ccb66fc5c149ac30702?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-03T12:05:27+09:00"
         },
         {
           "title": "最新AIエージェント機能16連発！徹底解説＆コンソール画面で検証してみた",
