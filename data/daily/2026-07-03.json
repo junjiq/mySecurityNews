@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T19:31:13.514641+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-07-03T20:25:57.542389+00:00",
+  "total_articles": 61,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 51,
       "top_items": [
         {
           "title": "Half-Baked Product",
           "url": "https://weli.dev/blog/half-baked-product/",
-          "score": 1092,
+          "score": 1120,
           "source": "hn",
           "severity": null,
           "date": "2026-07-03T08:23:32+00:00"
@@ -57,18 +57,18 @@
           "date": "2026-07-02T23:54:03+00:00"
         },
         {
-          "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
-          "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-          "score": 435,
+          "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+          "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+          "score": 453,
           "source": "hn",
-          "severity": null,
-          "date": "2026-07-03T04:16:17+00:00"
+          "severity": "critical",
+          "date": "2026-07-03T13:01:49+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 10,
       "top_items": [
         {
           "title": "Google の Data Agent Kit を Claude Code に入れて、BigQuery を自然言語で触る",
@@ -79,6 +79,14 @@
           "date": "2026-07-03T20:22:53+09:00"
         },
         {
+          "title": "このプロンプトをAIエージェントに貼り付けて、Kaggleのベースラインを作ろう！",
+          "url": "https://qiita.com/Isaka-code/items/8fafc5cc522b5eb655da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-03T19:20:29+09:00"
+        },
+        {
           "title": "AIと英会話できる学習アプリを個人開発してリリースした話【Agentcore / Strands / Bedrock】",
           "url": "https://qiita.com/yutaka_kozuka/items/7ccb66fc5c149ac30702?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -87,28 +95,20 @@
           "date": "2026-07-03T18:26:37+09:00"
         },
         {
-          "title": "IT界でもbeat itを奏でるマイケルジャクソン🕺",
-          "url": "https://qiita.com/kaichan_dot/items/29d0428e7d49be4d0d24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Google 検索グラウンディングを検証してみた 〜画像検索・Maps 対応と課金の注意点〜",
+          "url": "https://qiita.com/shun-aoki/items/ee2b63d170008464f9ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-03T13:11:52+09:00"
+          "date": "2026-07-03T17:10:23+09:00"
         },
         {
-          "title": "最新AIエージェント機能16連発！徹底解説＆コンソール画面で検証してみた",
-          "url": "https://qiita.com/harunatotsuka/items/cdb79a2578d2d50e9039?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AWS Summit 2026 参加レポート（少し遅め）",
+          "url": "https://qiita.com/Seria_GovCloud/items/a4b65334ea45ceff4a24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-03T10:41:15+09:00"
-        },
-        {
-          "title": "Gemini Live Avatarを使ってプレゼン練習AIを作ってみた",
-          "url": "https://qiita.com/s-kato-iret/items/3a55424a40f5c74eb725?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-03T10:28:43+09:00"
+          "date": "2026-07-03T16:43:57+09:00"
         }
       ]
     }

@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-03T19:31:13.559155+00:00",
-  "total_articles": 229,
+  "generated_at": "2026-07-03T20:25:57.586197+00:00",
+  "total_articles": 240,
   "source_counts": {
-    "hn": 181,
-    "zennqiita": 44,
+    "hn": 186,
+    "zennqiita": 50,
     "project": 4
   },
   "severity_counts": {
     "critical": 10,
-    "medium": 1,
-    "high": 1
+    "high": 2,
+    "medium": 1
   },
   "top_articles": [
     {
@@ -23,7 +23,7 @@
     {
       "title": "Half-Baked Product",
       "url": "https://weli.dev/blog/half-baked-product/",
-      "score": 1092,
+      "score": 1120,
       "source": "hn",
       "date": "2026-07-03T08:23:32+00:00"
     },
@@ -126,6 +126,13 @@
       "date": "2026-07-01T07:43:22+00:00"
     },
     {
+      "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "score": 453,
+      "source": "hn",
+      "date": "2026-07-03T13:01:49+00:00"
+    },
+    {
       "title": "Box3D, an open source 3D physics engine",
       "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
       "score": 452,
@@ -145,13 +152,6 @@
       "score": 435,
       "source": "hn",
       "date": "2026-07-03T04:16:17+00:00"
-    },
-    {
-      "title": "Bring back crappy forums",
-      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "score": 432,
-      "source": "hn",
-      "date": "2026-07-02T02:30:16+00:00"
     }
   ],
   "security_highlights": [
@@ -175,6 +175,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-02T19:16:20+00:00"
+    },
+    {
+      "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説",
+      "url": "https://qiita.com/okssusucha/items/d17ac3c49e568266123d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-07-02T21:07:24+09:00"
     },
     {
       "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
