@@ -1,8 +1,8 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T00:37:01.377084+00:00",
-  "total_articles": 74,
-  "urgent_count": 4,
+  "generated_at": "2026-07-03T01:35:10.641857+00:00",
+  "total_articles": 75,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Job seekers giving up: Labor force participation falls to lowest in 50 years",
@@ -24,19 +24,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-02T02:55:16+00:00"
-    },
-    {
-      "title": "Oomwoo, an open-source robot vacuum you build yourself",
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-02T00:48:01+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 62,
+      "count": 64,
       "top_items": [
         {
           "title": "Android Developer Verification: Threat masquerading as protection",
@@ -57,10 +50,18 @@
         {
           "title": "PeerTube is a free, decentralized and federated video platform",
           "url": "https://github.com/Chocobozzz/PeerTube",
-          "score": 499,
+          "score": 513,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T11:17:45+00:00"
+        },
+        {
+          "title": "Virginia bans sale of geolocation data",
+          "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+          "score": 458,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-02T21:03:45+00:00"
         },
         {
           "title": "Bring back crappy forums",
@@ -69,20 +70,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T02:30:16+00:00"
-        },
-        {
-          "title": "Oomwoo, an open-source robot vacuum you build yourself",
-          "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-          "score": 418,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-07-02T00:48:01+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
         {
           "title": "【CDK for Go】GitHub Actions OIDC + CDKで最小権限デプロイロールを設計",
