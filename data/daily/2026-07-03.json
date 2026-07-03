@@ -1,9 +1,16 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T13:09:20.067963+00:00",
+  "generated_at": "2026-07-03T14:15:42.465592+00:00",
   "total_articles": 64,
-  "urgent_count": 2,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-03T13:01:49+00:00"
+    },
     {
       "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
       "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
@@ -27,15 +34,23 @@
         {
           "title": "Virginia bans sale of geolocation data",
           "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-          "score": 853,
+          "score": 892,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T21:03:45+00:00"
         },
         {
+          "title": "Half-Baked Product",
+          "url": "https://weli.dev/blog/half-baked-product/",
+          "score": 605,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-03T08:23:32+00:00"
+        },
+        {
           "title": "Podman v6.0.0",
           "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-          "score": 569,
+          "score": 584,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T14:23:09+00:00"
@@ -51,18 +66,10 @@
         {
           "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
           "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-          "score": 499,
+          "score": 505,
           "source": "hn",
           "severity": null,
           "date": "2026-07-02T15:25:16+00:00"
-        },
-        {
-          "title": "Immich 3.0",
-          "url": "https://github.com/immich-app/immich/discussions/29439",
-          "score": 486,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-02T14:13:26+00:00"
         }
       ]
     },

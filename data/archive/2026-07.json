@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-03T13:09:20.113756+00:00",
-  "total_articles": 201,
+  "generated_at": "2026-07-03T14:15:42.502863+00:00",
+  "total_articles": 208,
   "source_counts": {
-    "hn": 153,
+    "hn": 160,
     "zennqiita": 44,
     "project": 4
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 10,
     "medium": 1,
     "high": 1
   },
@@ -21,18 +21,18 @@
       "date": "2026-07-02T03:00:15+00:00"
     },
     {
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "score": 892,
+      "source": "hn",
+      "date": "2026-07-02T21:03:45+00:00"
+    },
+    {
       "title": "For first time, a cell built from scratch grows and divides",
       "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
       "score": 880,
       "source": "hn",
       "date": "2026-07-01T14:20:52+00:00"
-    },
-    {
-      "title": "Virginia bans sale of geolocation data",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "score": 853,
-      "source": "hn",
-      "date": "2026-07-02T21:03:45+00:00"
     },
     {
       "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
@@ -42,18 +42,25 @@
       "date": "2026-07-01T12:13:34+00:00"
     },
     {
+      "title": "Half-Baked Product",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "score": 605,
+      "source": "hn",
+      "date": "2026-07-03T08:23:32+00:00"
+    },
+    {
+      "title": "Podman v6.0.0",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "score": 584,
+      "source": "hn",
+      "date": "2026-07-02T14:23:09+00:00"
+    },
+    {
       "title": "PeerTube is a free, decentralized and federated video platform",
       "url": "https://github.com/Chocobozzz/PeerTube",
       "score": 581,
       "source": "hn",
       "date": "2026-07-02T11:17:45+00:00"
-    },
-    {
-      "title": "Podman v6.0.0",
-      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 569,
-      "source": "hn",
-      "date": "2026-07-02T14:23:09+00:00"
     },
     {
       "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
@@ -70,18 +77,18 @@
       "date": "2026-07-01T13:29:29+00:00"
     },
     {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 499,
-      "source": "hn",
-      "date": "2026-07-02T15:25:16+00:00"
-    },
-    {
       "title": "Immich 3.0",
       "url": "https://github.com/immich-app/immich/discussions/29439",
-      "score": 486,
+      "score": 514,
       "source": "hn",
       "date": "2026-07-02T14:13:26+00:00"
+    },
+    {
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "score": 505,
+      "source": "hn",
+      "date": "2026-07-02T15:25:16+00:00"
     },
     {
       "title": "ZCode – Harness for GLM-5.2",
@@ -112,13 +119,6 @@
       "date": "2026-07-01T12:12:17+00:00"
     },
     {
-      "title": "Half-Baked Product",
-      "url": "https://weli.dev/blog/half-baked-product/",
-      "score": 447,
-      "source": "hn",
-      "date": "2026-07-03T08:23:32+00:00"
-    },
-    {
       "title": "How to ask for help from people who don't know you",
       "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
       "score": 447,
@@ -140,21 +140,28 @@
       "date": "2026-07-02T02:30:16+00:00"
     },
     {
+      "title": "CarPlay Is Additive",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "score": 421,
+      "source": "hn",
+      "date": "2026-07-03T01:02:45+00:00"
+    },
+    {
       "title": "Oomwoo, an open-source robot vacuum you build yourself",
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
       "score": 418,
       "source": "hn",
       "date": "2026-07-02T00:48:01+00:00"
-    },
-    {
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "score": 416,
-      "source": "hn",
-      "date": "2026-07-01T14:10:28+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-03T13:01:49+00:00"
+    },
     {
       "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
       "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
