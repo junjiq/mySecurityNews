@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
-  "generated_at": "2026-07-04T06:04:06.408587+00:00",
-  "total_articles": 74,
+  "generated_at": "2026-07-04T07:27:02.526888+00:00",
+  "total_articles": 77,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 69,
+      "count": 72,
       "top_items": [
         {
           "title": "Half-Baked Product",
@@ -43,10 +43,18 @@
         {
           "title": "Costco is the anti-Amazon",
           "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-          "score": 366,
+          "score": 386,
           "source": "hn",
           "severity": null,
           "date": "2026-07-03T15:14:55+00:00"
+        },
+        {
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "score": 323,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-03T15:03:43+00:00"
         },
         {
           "title": "Espionage Against the European Parliament",
@@ -55,14 +63,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-03T20:38:26+00:00"
-        },
-        {
-          "title": "Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://github.com/jamesob/local-llm",
-          "score": 316,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-03T15:03:43+00:00"
         }
       ]
     },
