@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-07-04T19:57:47.751935+00:00",
-  "total_articles": 144,
+  "generated_at": "2026-07-04T20:25:41.113438+00:00",
+  "total_articles": 133,
   "source_counts": {
-    "hn": 112,
-    "zennqiita": 25,
+    "hn": 102,
+    "zennqiita": 24,
     "project": 7
   },
   "severity_counts": {
-    "critical": 4
+    "critical": 3
   },
   "top_articles": [
     {
@@ -24,13 +24,6 @@
       "score": 1215,
       "source": "hn",
       "date": "2026-06-30T17:59:52+00:00"
-    },
-    {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 1116,
-      "source": "hn",
-      "date": "2026-06-29T17:05:16+00:00"
     },
     {
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
@@ -52,13 +45,6 @@
       "score": 632,
       "source": "hn",
       "date": "2026-06-29T19:49:28+00:00"
-    },
-    {
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 557,
-      "source": "hn",
-      "date": "2026-06-29T15:54:24+00:00"
     },
     {
       "title": "The US ambassador had Belgian police stop our reporting",
@@ -94,20 +80,6 @@
       "score": 336,
       "source": "hn",
       "date": "2026-06-30T16:05:46+00:00"
-    },
-    {
-      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
-      "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
-      "score": 331,
-      "source": "hn",
-      "date": "2026-06-29T16:07:15+00:00"
-    },
-    {
-      "title": "A native graphical shell for SSH",
-      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 314,
-      "source": "hn",
-      "date": "2026-06-29T15:42:17+00:00"
     },
     {
       "title": "Google copybara: moving code between repositories",
@@ -150,6 +122,34 @@
       "score": 253,
       "source": "hn",
       "date": "2026-06-30T00:30:11+00:00"
+    },
+    {
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "score": 199,
+      "source": "hn",
+      "date": "2026-06-29T22:21:00+00:00"
+    },
+    {
+      "title": "We Are the Last People Who Know How It Works",
+      "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+      "score": 197,
+      "source": "hn",
+      "date": "2026-06-30T16:59:00+00:00"
+    },
+    {
+      "title": "Memory Safe Context Switching",
+      "url": "https://fil-c.org/context_switches",
+      "score": 191,
+      "source": "hn",
+      "date": "2026-06-30T00:38:19+00:00"
+    },
+    {
+      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+      "score": 184,
+      "source": "hn",
+      "date": "2026-06-30T11:07:38+00:00"
     }
   ],
   "security_highlights": [
@@ -173,13 +173,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-29T19:06:17+00:00"
-    },
-    {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-29T17:16:17+00:00"
     }
   ]
 }
