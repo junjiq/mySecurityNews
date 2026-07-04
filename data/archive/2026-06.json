@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-07-04T17:23:57.051142+00:00",
-  "total_articles": 156,
+  "generated_at": "2026-07-04T17:50:06.817493+00:00",
+  "total_articles": 152,
   "source_counts": {
-    "hn": 124,
+    "hn": 120,
     "zennqiita": 25,
     "project": 7
   },
   "severity_counts": {
-    "critical": 5
+    "critical": 4
   },
   "top_articles": [
     {
@@ -138,18 +138,18 @@
       "date": "2026-06-29T18:52:25+00:00"
     },
     {
-      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
-      "url": "https://twitter.com/i/status/2071277885646868536",
-      "score": 276,
-      "source": "hn",
-      "date": "2026-06-29T13:26:35+00:00"
-    },
-    {
       "title": "Leanstral 1.5",
       "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
       "score": 273,
       "source": "hn",
       "date": "2026-06-30T20:44:56+00:00"
+    },
+    {
+      "title": "Knoppix",
+      "url": "https://www.knopper.net/knoppix/index-en.html",
+      "score": 257,
+      "source": "hn",
+      "date": "2026-06-30T12:54:01+00:00"
     }
   ],
   "security_highlights": [
@@ -180,13 +180,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-29T17:16:17+00:00"
-    },
-    {
-      "title": "DocumentDB – a MongoDB compatible open-source database",
-      "url": "https://documentdb.io/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-29T14:09:15+00:00"
     }
   ]
 }
