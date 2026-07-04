@@ -1,8 +1,8 @@
 {
   "date": "2026-07-04",
-  "generated_at": "2026-07-04T08:20:56.908384+00:00",
-  "total_articles": 80,
-  "urgent_count": 2,
+  "generated_at": "2026-07-04T09:17:16.914208+00:00",
+  "total_articles": 76,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
@@ -10,28 +10,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-03T13:01:49+00:00"
-    },
-    {
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-03T08:31:37+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 72,
+      "count": 68,
       "top_items": [
-        {
-          "title": "Half-Baked Product",
-          "url": "https://weli.dev/blog/half-baked-product/",
-          "score": 1176,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-03T08:23:32+00:00"
-        },
         {
           "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
           "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
@@ -43,7 +28,7 @@
         {
           "title": "Costco is the anti-Amazon",
           "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-          "score": 393,
+          "score": 403,
           "source": "hn",
           "severity": null,
           "date": "2026-07-03T15:14:55+00:00"
@@ -51,7 +36,7 @@
         {
           "title": "Jamesob's guide to running SOTA LLMs locally",
           "url": "https://github.com/jamesob/local-llm",
-          "score": 334,
+          "score": 338,
           "source": "hn",
           "severity": null,
           "date": "2026-07-03T15:03:43+00:00"
@@ -63,6 +48,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-03T20:38:26+00:00"
+        },
+        {
+          "title": "Factories are just rooms",
+          "url": "https://interconnected.org/home/2026/07/03/factories",
+          "score": 238,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-03T15:13:43+00:00"
         }
       ]
     },
