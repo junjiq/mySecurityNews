@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-04T22:19:34.375148+00:00",
-  "total_articles": 334,
+  "generated_at": "2026-07-04T22:47:54.411150+00:00",
+  "total_articles": 336,
   "source_counts": {
-    "hn": 262,
+    "hn": 264,
     "zennqiita": 67,
     "project": 5
   },
   "severity_counts": {
+    "high": 3,
     "medium": 3,
-    "critical": 10,
-    "high": 2
+    "critical": 10
   },
   "top_articles": [
     {
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "url": "https://arxiv.org/abs/2606.26967",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-04T20:38:39+00:00"
+    },
     {
       "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
       "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
