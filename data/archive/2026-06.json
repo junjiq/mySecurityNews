@@ -1,14 +1,14 @@
 {
   "month": "2026-06",
-  "generated_at": "2026-07-04T21:48:01.699660+00:00",
-  "total_articles": 128,
+  "generated_at": "2026-07-04T22:19:34.375148+00:00",
+  "total_articles": 127,
   "source_counts": {
-    "hn": 97,
+    "hn": 96,
     "zennqiita": 24,
     "project": 7
   },
   "severity_counts": {
-    "critical": 3
+    "critical": 2
   },
   "top_articles": [
     {
@@ -166,13 +166,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-06-30T09:15:21+00:00"
-    },
-    {
-      "title": "JumpServer: Open-Source Privileged Access Management",
-      "url": "https://github.com/jumpserver/jumpserver",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-06-29T19:06:17+00:00"
     }
   ]
 }
