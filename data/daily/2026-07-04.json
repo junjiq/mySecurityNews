@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
-  "generated_at": "2026-07-04T00:36:14.896785+00:00",
-  "total_articles": 77,
+  "generated_at": "2026-07-04T01:35:21.708256+00:00",
+  "total_articles": 78,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 67,
+      "count": 70,
       "top_items": [
         {
           "title": "Half-Baked Product",
@@ -31,14 +31,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-03T08:23:32+00:00"
-        },
-        {
-          "title": "CarPlay Is Additive",
-          "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-          "score": 519,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-03T01:02:45+00:00"
         },
         {
           "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
@@ -59,16 +51,24 @@
         {
           "title": "Costco is the anti-Amazon",
           "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-          "score": 269,
+          "score": 295,
           "source": "hn",
           "severity": null,
           "date": "2026-07-03T15:14:55+00:00"
+        },
+        {
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "score": 273,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-03T15:03:43+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 8,
       "top_items": [
         {
           "title": "Google の Data Agent Kit を Claude Code に入れて、BigQuery を自然言語で触る",
