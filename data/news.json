@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-05T07:38:13.913593+00:00",
+  "updated_at": "2026-07-05T09:02:49.461574+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48792352",
+      "source": "hn",
+      "title": "Apocketlypse",
+      "url": "https://0dd.company/galleries/triumph/1.html",
+      "score": 5,
+      "comments": 0,
+      "author": "scaglio",
+      "tags": [],
+      "date": "2026-07-05T08:32:09+00:00"
+    },
     {
       "id": "hn-48791708",
       "source": "hn",
       "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-      "score": 6,
-      "comments": 0,
+      "score": 40,
+      "comments": 33,
       "author": "ognyankulev",
       "tags": [],
       "date": "2026-07-05T06:19:34+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "Megawatts by Microwave",
       "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
-      "score": 10,
-      "comments": 0,
+      "score": 20,
+      "comments": 2,
       "author": "eternauta3k",
       "tags": [],
       "date": "2026-07-05T05:56:03+00:00"
@@ -51,8 +62,8 @@
       "source": "hn",
       "title": "Shadcn/UI now defaults to Base UI instead of Radix",
       "url": "https://ui.shadcn.com/docs/changelog",
-      "score": 86,
-      "comments": 23,
+      "score": 110,
+      "comments": 33,
       "author": "dabinat",
       "tags": [],
       "date": "2026-07-05T04:46:08+00:00"
@@ -62,8 +73,8 @@
       "source": "hn",
       "title": "Moby Dick Workout",
       "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
-      "score": 24,
-      "comments": 6,
+      "score": 38,
+      "comments": 12,
       "author": "helloplanets",
       "tags": [],
       "date": "2026-07-05T04:30:33+00:00"
@@ -73,8 +84,8 @@
       "source": "hn",
       "title": "My ASN Journey series (2024)",
       "url": "https://www.animmouse.com/p/my-asn-journey/",
-      "score": 12,
-      "comments": 1,
+      "score": 17,
+      "comments": 5,
       "author": "antonalekseev",
       "tags": [],
       "date": "2026-07-05T04:29:05+00:00"
@@ -119,8 +130,8 @@
       "source": "hn",
       "title": "The Log Is the Agent",
       "url": "https://arxiv.org/abs/2605.21997",
-      "score": 25,
-      "comments": 1,
+      "score": 38,
+      "comments": 9,
       "author": "iacguy",
       "tags": [],
       "date": "2026-07-05T02:57:38+00:00"
@@ -137,12 +148,25 @@
       "date": "2026-07-05T02:54:13+00:00"
     },
     {
+      "id": "qiita-e4681b02a1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "HuggingFace Space のデモをローカルに移行してみた。コード改修はたった1行だった",
+      "url": "https://qiita.com/engchina/items/f9d45a1581d7de62eaf2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "engchina",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-05T11:46:28+09:00"
+    },
+    {
       "id": "hn-48790689",
       "source": "hn",
       "title": "If you're a button, you have one job",
       "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "score": 142,
-      "comments": 48,
+      "score": 186,
+      "comments": 89,
       "author": "nozzlegear",
       "tags": [],
       "date": "2026-07-05T02:01:03+00:00"
@@ -163,8 +187,8 @@
       "source": "hn",
       "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
       "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
-      "score": 38,
-      "comments": 4,
+      "score": 45,
+      "comments": 5,
       "author": "MaysonL",
       "tags": [],
       "date": "2026-07-05T01:23:11+00:00"
@@ -185,8 +209,8 @@
       "source": "hn",
       "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
       "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
-      "score": 44,
-      "comments": 10,
+      "score": 53,
+      "comments": 12,
       "author": "Anon84",
       "tags": [],
       "date": "2026-07-05T00:22:25+00:00"
@@ -236,23 +260,49 @@
       "date": "2026-07-04T23:22:15+00:00"
     },
     {
+      "id": "qiita-d225ba8432",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 9 ]：アイテムシステムの実装2 - アイテムの選択・表示 -",
+      "url": "https://qiita.com/OnuuuumaX/items/968f444b135c672195a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "OnuuuumaX",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-05T07:57:44+09:00"
+    },
+    {
       "id": "hn-48789712",
       "source": "hn",
       "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
       "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "score": 97,
-      "comments": 19,
+      "score": 115,
+      "comments": 23,
       "author": "hhs",
       "tags": [],
       "date": "2026-07-04T22:36:28+00:00"
+    },
+    {
+      "id": "qiita-218d5ec1c3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS DevOps Agent・FinOps Agent・Security Agent を一通り試したので振り返る",
+      "url": "https://qiita.com/infra365/items/7e7c49b86a766b2e2c74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "infra365",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-05T07:25:10+09:00"
     },
     {
       "id": "hn-48789428",
       "source": "hn",
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
       "url": "https://github.com/openai/codex/issues/30364",
-      "score": 240,
-      "comments": 86,
+      "score": 261,
+      "comments": 98,
       "author": "maille",
       "tags": [],
       "date": "2026-07-04T21:51:09+00:00"
@@ -285,8 +335,8 @@
       "source": "hn",
       "title": "Better Models: Worse Tools",
       "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "score": 150,
-      "comments": 50,
+      "score": 166,
+      "comments": 55,
       "author": "leemoore",
       "tags": [],
       "date": "2026-07-04T20:16:22+00:00"
@@ -307,8 +357,8 @@
       "source": "hn",
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 520,
-      "comments": 218,
+      "score": 555,
+      "comments": 225,
       "author": "asronline",
       "tags": [],
       "date": "2026-07-04T19:41:10+00:00"
@@ -362,8 +412,8 @@
       "source": "hn",
       "title": "\"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
       "url": "https://www.eso.org/public/news/eso2607/",
-      "score": 132,
-      "comments": 219,
+      "score": 142,
+      "comments": 234,
       "author": "Breadmaker",
       "tags": [],
       "date": "2026-07-04T17:17:28+00:00",
@@ -418,8 +468,8 @@
       "source": "hn",
       "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
       "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 437,
-      "comments": 234,
+      "score": 456,
+      "comments": 243,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-07-04T16:51:26+00:00"
@@ -440,8 +490,8 @@
       "source": "hn",
       "title": "Leaking YouTube creators' private videos",
       "url": "https://javoriuski.com/post/youtube",
-      "score": 582,
-      "comments": 319,
+      "score": 604,
+      "comments": 329,
       "author": "javxfps",
       "tags": [],
       "date": "2026-07-04T16:45:10+00:00"
@@ -462,8 +512,8 @@
       "source": "hn",
       "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
       "url": "https://ziglang.org/devlog/2026/#2026-06-30",
-      "score": 182,
-      "comments": 56,
+      "score": 190,
+      "comments": 61,
       "author": "tosh",
       "tags": [],
       "date": "2026-07-04T16:30:10+00:00"
@@ -519,7 +569,7 @@
       "source": "hn",
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
       "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "score": 288,
+      "score": 294,
       "comments": 130,
       "author": "chatmasta",
       "tags": [],
@@ -1092,6 +1142,17 @@
       "date": "2026-07-03T19:08:31+00:00"
     },
     {
+      "id": "hn-48778198",
+      "source": "hn",
+      "title": "A Summer of Solar Cooking (2023)",
+      "url": "https://100r.ca/site/solar_cooking_experiment.html",
+      "score": 3,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-03T18:26:05+00:00"
+    },
+    {
       "id": "hn-48778031",
       "source": "hn",
       "title": "Farmer, marketer at odds over sales of white nectarines",
@@ -1189,6 +1250,19 @@
       "author": "dimitropoulos",
       "tags": [],
       "date": "2026-07-03T15:50:49+00:00"
+    },
+    {
+      "id": "qiita-a7b285c8fb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeの dataviz スキルが凄かった",
+      "url": "https://qiita.com/leomarokun/items/74212606fbf4f01d82dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "leomarokun",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-04T00:50:03+09:00"
     },
     {
       "id": "hn-48776345",
@@ -1425,6 +1499,19 @@
       "date": "2026-07-03T12:27:23+00:00"
     },
     {
+      "id": "qiita-3fd27cd28d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "テスト距離という考え方で回帰テストを整理する",
+      "url": "https://qiita.com/daikou223/items/bb50627a899ef1dc2da8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "daikou223",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-03T21:17:59+09:00"
+    },
+    {
       "id": "qiita-f087cc0942",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -1516,11 +1603,24 @@
       "source": "hn",
       "title": "Pandoc Lua Filters",
       "url": "https://pandoc.org/lua-filters.html",
-      "score": 43,
-      "comments": 0,
+      "score": 58,
+      "comments": 1,
       "author": "ankitg12",
       "tags": [],
       "date": "2026-07-03T09:52:51+00:00"
+    },
+    {
+      "id": "qiita-7cfe53279b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Code で HTML を出力する際に CSS フレームワークを指定すると便利",
+      "url": "https://qiita.com/QUANON/items/db3defd280f765c135ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "QUANON",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-03T18:40:00+09:00"
     },
     {
       "id": "qiita-b961bb7338",
@@ -1605,6 +1705,19 @@
         "Qiita"
       ],
       "date": "2026-07-03T16:43:57+09:00"
+    },
+    {
+      "id": "qiita-cbcce2cd8a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI時代のコードレビューUI。CodeRabbit Reviewの機能と使い方",
+      "url": "https://qiita.com/goofmint/items/ed4aad3960dfed58f4aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "goofmint",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-03T15:49:12+09:00"
     },
     {
       "id": "hn-48770677",
@@ -1701,6 +1814,19 @@
         "Qiita"
       ],
       "date": "2026-07-03T10:28:43+09:00"
+    },
+    {
+      "id": "qiita-ab007956e2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Spring Bootのサポート期限・EOS/EOLとは？サポート終了したOSSへの対応を整理する",
+      "url": "https://qiita.com/ktgr/items/ffac0bea26f3da7a1df5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ktgr",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-03T10:13:50+09:00"
     },
     {
       "id": "qiita-d5c59dc32e",
@@ -1943,8 +2069,8 @@
       "source": "hn",
       "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
       "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
-      "score": 56,
-      "comments": 4,
+      "score": 69,
+      "comments": 5,
       "author": "mhb",
       "tags": [],
       "date": "2026-07-02T19:03:54+00:00",
@@ -2426,6 +2552,19 @@
       "author": "ColinWright",
       "tags": [],
       "date": "2026-07-02T11:41:27+00:00"
+    },
+    {
+      "id": "qiita-db50b48c05",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Lambdaのパフォーマンスチューニングで処理速度を3倍速くした話",
+      "url": "https://qiita.com/MasatakaMachiya/items/91f5e5785ce1f7e51234?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "MasatakaMachiya",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-02T20:35:55+09:00"
     },
     {
       "id": "qiita-819c6d5dbc",
@@ -3118,7 +3257,7 @@
       "source": "hn",
       "title": "Artful Cats: Feline-Inspired Art and Artifacts",
       "url": "https://www.si.edu/spotlight/art-cats",
-      "score": 28,
+      "score": 38,
       "comments": 4,
       "author": "jruohonen",
       "tags": [],
@@ -3218,8 +3357,8 @@
       "source": "hn",
       "title": "Meta's Un-Stable Signature",
       "url": "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html",
-      "score": 69,
-      "comments": 6,
+      "score": 82,
+      "comments": 9,
       "author": "ementally",
       "tags": [],
       "date": "2026-07-01T17:30:58+00:00"
@@ -5075,135 +5214,6 @@
       "author": "religio",
       "tags": [],
       "date": "2026-06-30T08:58:41+00:00"
-    },
-    {
-      "id": "qiita-d66c6c2804",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "CNNの全結合層をSAMACTに置き換えてみた ― Kerasで実装するハイブリッド画像分類モデル",
-      "url": "https://qiita.com/tatoshi/items/414ab0645c6c98d4c432?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tatoshi",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T16:04:08+09:00"
-    },
-    {
-      "id": "hn-48729404",
-      "source": "hn",
-      "title": "Show HN: Gitstock–Transform you GitHub commit history into K-line and animations",
-      "url": "https://gitstock.org/",
-      "score": 12,
-      "comments": 2,
-      "author": "dares2573",
-      "tags": [],
-      "date": "2026-06-30T07:00:33+00:00"
-    },
-    {
-      "id": "qiita-d5891da725",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Git 2.55 の git history fixup で「過去のコミットへの入れ忘れ」を一発修正する",
-      "url": "https://qiita.com/P-SiZK/items/a067b0d96667f07b0e54?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "P-SiZK",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T15:13:19+09:00"
-    },
-    {
-      "id": "hn-48729019",
-      "source": "hn",
-      "title": "Show HN: Bored People Chat – Anonymous global chat room",
-      "url": "https://boredpeoplechat.com/",
-      "score": 3,
-      "comments": 0,
-      "author": "syc-bpc",
-      "tags": [],
-      "date": "2026-06-30T06:04:52+00:00"
-    },
-    {
-      "id": "qiita-ed3492a586",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "VR向けテクスチャ縮小方式の考察とUnityにおけるArea Averagingの実装",
-      "url": "https://qiita.com/Sersz7/items/42b090a12f4c52254292?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Sersz7",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T14:57:35+09:00"
-    },
-    {
-      "id": "hn-48728740",
-      "source": "hn",
-      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
-      "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
-      "score": 156,
-      "comments": 106,
-      "author": "tomwas54",
-      "tags": [],
-      "date": "2026-06-30T05:17:02+00:00"
-    },
-    {
-      "id": "hn-48728729",
-      "source": "hn",
-      "title": "Popping the GPU Bubble",
-      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
-      "score": 120,
-      "comments": 25,
-      "author": "radq",
-      "tags": [],
-      "date": "2026-06-30T05:14:35+00:00"
-    },
-    {
-      "id": "qiita-7728339f97",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "BigQuery Agent Analytics Plugin を使って ADK エージェントの回答を分析してみた",
-      "url": "https://qiita.com/hirataikue/items/03654fdb3f0ff10d14f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "hirataikue",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-06-30T14:11:34+09:00"
-    },
-    {
-      "id": "hn-48728599",
-      "source": "hn",
-      "title": "The end of the AArch64 desktop experiment",
-      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-      "score": 56,
-      "comments": 38,
-      "author": "signa11",
-      "tags": [],
-      "date": "2026-06-30T04:51:12+00:00"
-    },
-    {
-      "id": "hn-48728441",
-      "source": "hn",
-      "title": "300k-Year-Old Cave Site Explored in Northern Israel",
-      "url": "https://archaeology.org/news/2026/06/18/300000-year-old-cave-site-explored-in-northern-israel/",
-      "score": 23,
-      "comments": 0,
-      "author": "andsoitis",
-      "tags": [],
-      "date": "2026-06-30T04:18:25+00:00"
-    },
-    {
-      "id": "hn-48728334",
-      "source": "hn",
-      "title": "Closer to Rude Than Snide: An Interview with Leo Robson",
-      "url": "https://www.theideasletter.org/essay/closer-to-rude-than-snide/",
-      "score": 3,
-      "comments": 0,
-      "author": "lermontov",
-      "tags": [],
-      "date": "2026-06-30T03:59:02+00:00"
     },
     {
       "id": "ctf-4011285",

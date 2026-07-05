@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T07:38:13.975058+00:00",
-  "total_articles": 56,
+  "generated_at": "2026-07-05T09:02:49.519840+00:00",
+  "total_articles": 57,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 51,
       "top_items": [
         {
           "title": "Leaking YouTube creators' private videos",
           "url": "https://javoriuski.com/post/youtube",
-          "score": 582,
+          "score": 604,
           "source": "hn",
           "severity": null,
           "date": "2026-07-04T16:45:10+00:00"
@@ -28,10 +28,18 @@
         {
           "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
           "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-          "score": 520,
+          "score": 555,
           "source": "hn",
           "severity": null,
           "date": "2026-07-04T19:41:10+00:00"
+        },
+        {
+          "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+          "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+          "score": 456,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-04T16:51:26+00:00"
         },
         {
           "title": "Explanation of everything you can see in htop/top on Linux (2019)",
@@ -42,17 +50,9 @@
           "date": "2026-07-04T12:00:57+00:00"
         },
         {
-          "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-          "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-          "score": 437,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-04T16:51:26+00:00"
-        },
-        {
           "title": "Potential session/cache leakage between workspace instances or consumer accounts",
           "url": "https://github.com/anthropics/claude-code/issues/74066",
-          "score": 288,
+          "score": 294,
           "source": "hn",
           "severity": null,
           "date": "2026-07-04T14:03:40+00:00"
@@ -72,36 +72,36 @@
           "date": "2026-07-05T11:59:41+09:00"
         },
         {
+          "title": "HuggingFace Space のデモをローカルに移行してみた。コード改修はたった1行だった",
+          "url": "https://qiita.com/engchina/items/f9d45a1581d7de62eaf2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-05T11:46:28+09:00"
+        },
+        {
+          "title": "【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 9 ]：アイテムシステムの実装2 - アイテムの選択・表示 -",
+          "url": "https://qiita.com/OnuuuumaX/items/968f444b135c672195a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-05T07:57:44+09:00"
+        },
+        {
+          "title": "AWS DevOps Agent・FinOps Agent・Security Agent を一通り試したので振り返る",
+          "url": "https://qiita.com/infra365/items/7e7c49b86a766b2e2c74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-05T07:25:10+09:00"
+        },
+        {
           "title": "【Cloudflare】Route 53 からネームサーバーを移行する",
           "url": "https://qiita.com/ryu-ki/items/0566e27e6c50b9fb399a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-05T00:13:47+09:00"
-        },
-        {
-          "title": "量子コンピュータを完全に理解したい人のためのロードマップ",
-          "url": "https://qiita.com/optimisuke/items/a2463fab85ee9778847c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-04T18:55:18+09:00"
-        },
-        {
-          "title": "AWS AI BPRハンズオンに参加してきた話　〜業務の「強み」から始めるAI変革〜",
-          "url": "https://qiita.com/sh_fukatsu/items/fc1c292aec9e189c43a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-04T17:33:38+09:00"
-        },
-        {
-          "title": "制約が多いからこそ設計しがいがある！？公共領域でのAWSと生成AIの活用",
-          "url": "https://qiita.com/infra365/items/f12242f65c5f1e20c022?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-04T17:32:58+09:00"
         }
       ]
     }
