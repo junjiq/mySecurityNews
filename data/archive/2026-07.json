@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-05T15:54:22.843277+00:00",
-  "total_articles": 401,
+  "generated_at": "2026-07-05T16:24:04.761267+00:00",
+  "total_articles": 404,
   "source_counts": {
-    "hn": 320,
+    "hn": 323,
     "zennqiita": 76,
     "project": 5
   },
   "severity_counts": {
+    "critical": 12,
     "high": 3,
-    "medium": 4,
-    "critical": 11
+    "medium": 4
   },
   "top_articles": [
     {
@@ -65,7 +65,7 @@
     {
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 617,
+      "score": 620,
       "source": "hn",
       "date": "2026-07-04T19:41:10+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "EU Council forces Chat Control via fast-track",
+      "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-05T11:44:04+00:00"
+    },
     {
       "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
       "url": "https://arxiv.org/abs/2606.26967",
