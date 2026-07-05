@@ -1,33 +1,33 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T20:31:00.893795+00:00",
-  "total_articles": 77,
+  "generated_at": "2026-07-05T21:23:44.418225+00:00",
+  "total_articles": 82,
   "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Reparaible and open source paper printer",
+      "url": "https://www.opentools.studio/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-05T21:03:06+00:00"
+    },
     {
       "title": "EU Council forces Chat Control via fast-track",
       "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-05T11:44:04+00:00"
-    },
-    {
-      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-      "url": "https://arxiv.org/abs/2606.26967",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-04T20:38:39+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 65,
+      "count": 70,
       "top_items": [
         {
           "title": "Organic Maps",
           "url": "https://organicmaps.app/",
-          "score": 601,
+          "score": 666,
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T14:14:30+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "Shadcn/UI now defaults to Base UI instead of Radix",
           "url": "https://ui.shadcn.com/docs/changelog",
-          "score": 267,
+          "score": 270,
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T04:46:08+00:00"
