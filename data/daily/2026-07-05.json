@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T21:48:22.258316+00:00",
-  "total_articles": 85,
+  "generated_at": "2026-07-05T22:21:27.728625+00:00",
+  "total_articles": 87,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 73,
+      "count": 75,
       "top_items": [
         {
           "title": "Organic Maps",
           "url": "https://organicmaps.app/",
-          "score": 686,
+          "score": 710,
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T14:14:30+00:00"
@@ -46,14 +46,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T02:01:03+00:00"
-        },
-        {
-          "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "score": 322,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-04T21:51:09+00:00"
         },
         {
           "title": "Shadcn/UI now defaults to Base UI instead of Radix",
@@ -70,6 +62,14 @@
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-05T11:44:04+00:00"
+        },
+        {
+          "title": "Introduction to Compilers and Language Design (2021)",
+          "url": "https://dthain.github.io/books/compiler/",
+          "score": 250,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-05T11:54:16+00:00"
         }
       ]
     },
