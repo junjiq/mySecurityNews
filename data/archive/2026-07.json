@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-05T01:35:07.193508+00:00",
-  "total_articles": 344,
+  "generated_at": "2026-07-05T03:06:40.810683+00:00",
+  "total_articles": 349,
   "source_counts": {
-    "hn": 272,
+    "hn": 277,
     "zennqiita": 67,
     "project": 5
   },
   "severity_counts": {
     "high": 3,
     "medium": 3,
-    "critical": 10
+    "critical": 11
   },
   "top_articles": [
     {
@@ -119,18 +119,18 @@
       "date": "2026-07-03T13:01:49+00:00"
     },
     {
+      "title": "Leaking YouTube creators' private videos",
+      "url": "https://javoriuski.com/post/youtube",
+      "score": 508,
+      "source": "hn",
+      "date": "2026-07-04T16:45:10+00:00"
+    },
+    {
       "title": "ZCode – Harness for GLM-5.2",
       "url": "https://zcode.z.ai/en",
       "score": 479,
       "source": "hn",
       "date": "2026-07-01T22:03:36+00:00"
-    },
-    {
-      "title": "Leaking YouTube creators' private videos",
-      "url": "https://javoriuski.com/post/youtube",
-      "score": 472,
-      "source": "hn",
-      "date": "2026-07-04T16:45:10+00:00"
     },
     {
       "title": "Asahi Linux 7.1 Progress Report",
@@ -182,6 +182,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-02T19:16:20+00:00"
+    },
+    {
+      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-02T19:03:54+00:00"
     },
     {
       "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説",
