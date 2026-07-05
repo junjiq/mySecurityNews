@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T22:21:27.662173+00:00",
+  "updated_at": "2026-07-05T22:48:25.495810+00:00",
   "count": 500,
   "items": [
     {
@@ -18,8 +18,8 @@
       "source": "hn",
       "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
       "url": "https://github.com/514-labs/dnsglobe",
-      "score": 6,
-      "comments": 0,
+      "score": 8,
+      "comments": 4,
       "author": "Callicles",
       "tags": [],
       "date": "2026-07-05T21:55:53+00:00"
@@ -29,19 +29,30 @@
       "source": "hn",
       "title": "CoCom regulations and GPS receivers for balloons and cubesats",
       "url": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
-      "score": 6,
+      "score": 8,
       "comments": 0,
       "author": "vinnyglennon",
       "tags": [],
       "date": "2026-07-05T21:39:05+00:00"
     },
     {
+      "id": "hn-48798187",
+      "source": "hn",
+      "title": "Had an idea for a Rust editor with simple Vim mode for learning",
+      "url": "https://github.com/electronicsleep/rust-vim",
+      "score": 5,
+      "comments": 1,
+      "author": "ElectronicSleep",
+      "tags": [],
+      "date": "2026-07-05T21:36:28+00:00"
+    },
+    {
       "id": "hn-48798153",
       "source": "hn",
       "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
       "url": "https://homegames.io",
-      "score": 22,
-      "comments": 4,
+      "score": 40,
+      "comments": 6,
       "author": "homegamesjoseph",
       "tags": [],
       "date": "2026-07-05T21:32:44+00:00",
@@ -52,8 +63,8 @@
       "source": "hn",
       "title": "Completing a Computer Science Degree on Coursera",
       "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
-      "score": 33,
-      "comments": 7,
+      "score": 50,
+      "comments": 19,
       "author": "lexandstuff",
       "tags": [],
       "date": "2026-07-05T21:20:49+00:00"
@@ -63,8 +74,8 @@
       "source": "hn",
       "title": "Reparaible and open source paper printer",
       "url": "https://www.opentools.studio/",
-      "score": 111,
-      "comments": 32,
+      "score": 162,
+      "comments": 46,
       "author": "bouh",
       "tags": [],
       "date": "2026-07-05T21:03:06+00:00",
@@ -75,8 +86,8 @@
       "source": "hn",
       "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
       "url": "https://dhilst.github.io/algae/game/index.html",
-      "score": 12,
-      "comments": 6,
+      "score": 17,
+      "comments": 8,
       "author": "SchwKatze",
       "tags": [],
       "date": "2026-07-05T21:00:27+00:00"
@@ -86,8 +97,8 @@
       "source": "hn",
       "title": "Pint in England",
       "url": "https://dispatch-media.com/the-best-pint-in-england/",
-      "score": 14,
-      "comments": 3,
+      "score": 16,
+      "comments": 5,
       "author": "gripfx",
       "tags": [],
       "date": "2026-07-05T20:55:47+00:00"
@@ -97,8 +108,8 @@
       "source": "hn",
       "title": "Dependencies should be fetched directly from VCS",
       "url": "https://www.arp242.net/deps-vcs.html",
-      "score": 12,
-      "comments": 6,
+      "score": 17,
+      "comments": 11,
       "author": "mrngm",
       "tags": [],
       "date": "2026-07-05T20:44:01+00:00"
@@ -109,7 +120,7 @@
       "title": "Show HN: Osint tool that finds exposed files on domains",
       "url": "https://search.cerast-intelligence.com/",
       "score": 15,
-      "comments": 0,
+      "comments": 3,
       "author": "PatchRequest",
       "tags": [],
       "date": "2026-07-05T20:24:37+00:00"
@@ -119,8 +130,8 @@
       "source": "hn",
       "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
       "url": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
-      "score": 17,
-      "comments": 0,
+      "score": 29,
+      "comments": 4,
       "author": "mrngm",
       "tags": [],
       "date": "2026-07-05T20:24:31+00:00"
@@ -141,11 +152,22 @@
       "source": "hn",
       "title": "Cursed circuits #5: capacitance multiplier",
       "url": "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier",
-      "score": 20,
+      "score": 27,
       "comments": 0,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-05T20:00:30+00:00"
+    },
+    {
+      "id": "hn-48797141",
+      "source": "hn",
+      "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+      "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+      "score": 16,
+      "comments": 2,
+      "author": "randycupertino",
+      "tags": [],
+      "date": "2026-07-05T19:22:51+00:00"
     },
     {
       "id": "hn-48797015",
@@ -163,8 +185,8 @@
       "source": "hn",
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
       "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "score": 97,
-      "comments": 61,
+      "score": 104,
+      "comments": 70,
       "author": "jonahbard",
       "tags": [],
       "date": "2026-07-05T18:47:43+00:00"
@@ -174,8 +196,8 @@
       "source": "hn",
       "title": "You need a webring",
       "url": "https://shub.club/writings/2026/july/you-need-a-webring/",
-      "score": 35,
-      "comments": 26,
+      "score": 40,
+      "comments": 27,
       "author": "forthwall",
       "tags": [],
       "date": "2026-07-05T18:46:07+00:00"
@@ -196,8 +218,8 @@
       "source": "hn",
       "title": "The future of Flipper Zero development",
       "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
-      "score": 162,
-      "comments": 37,
+      "score": 178,
+      "comments": 46,
       "author": "croes",
       "tags": [],
       "date": "2026-07-05T18:22:00+00:00"
@@ -240,7 +262,7 @@
       "source": "hn",
       "title": "Starring the Computer",
       "url": "https://www.starringthecomputer.com/computers.html",
-      "score": 136,
+      "score": 139,
       "comments": 32,
       "author": "gitowiec",
       "tags": [],
@@ -386,8 +408,8 @@
       "source": "hn",
       "title": "It's not about physical vs. digital games, it's about ownership",
       "url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "score": 230,
-      "comments": 170,
+      "score": 243,
+      "comments": 190,
       "author": "popcar2",
       "tags": [],
       "date": "2026-07-05T14:56:15+00:00"
@@ -421,8 +443,8 @@
       "source": "hn",
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
-      "score": 710,
-      "comments": 200,
+      "score": 724,
+      "comments": 205,
       "author": "tosh",
       "tags": [],
       "date": "2026-07-05T14:14:30+00:00"
@@ -432,8 +454,8 @@
       "source": "hn",
       "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
       "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
-      "score": 88,
-      "comments": 48,
+      "score": 90,
+      "comments": 50,
       "author": "jandeboevrie",
       "tags": [],
       "date": "2026-07-05T13:47:44+00:00"
@@ -539,8 +561,8 @@
       "source": "hn",
       "title": "Introduction to Compilers and Language Design (2021)",
       "url": "https://dthain.github.io/books/compiler/",
-      "score": 250,
-      "comments": 42,
+      "score": 253,
+      "comments": 44,
       "author": "AlexeyBrin",
       "tags": [],
       "date": "2026-07-05T11:54:16+00:00"
@@ -1947,6 +1969,17 @@
       "date": "2026-07-03T16:53:50+00:00"
     },
     {
+      "id": "hn-48776956",
+      "source": "hn",
+      "title": "Johnson Thermoelectric Energy Converter",
+      "url": "https://en.wikipedia.org/wiki/Johnson_thermoelectric_energy_converter",
+      "score": 4,
+      "comments": 0,
+      "author": "msk-lywenn",
+      "tags": [],
+      "date": "2026-07-03T16:37:26+00:00"
+    },
+    {
       "id": "hn-48776780",
       "source": "hn",
       "title": "US residents angry datacenters 'shoved down our throats' are recalling officials",
@@ -2485,8 +2518,8 @@
       "source": "hn",
       "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
       "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-      "score": 64,
-      "comments": 12,
+      "score": 72,
+      "comments": 11,
       "author": "jfil",
       "tags": [],
       "date": "2026-07-03T03:13:53+00:00"
@@ -3213,8 +3246,8 @@
       "source": "hn",
       "title": "How the first solo-founder unicorn gets built",
       "url": "https://www.thisandthat.chat/blog/how-the-first-solo-founder-unicorn-gets-built/",
-      "score": 8,
-      "comments": 2,
+      "score": 14,
+      "comments": 8,
       "author": "jreynar",
       "tags": [],
       "date": "2026-07-02T12:56:06+00:00"
@@ -3694,8 +3727,8 @@
       "source": "hn",
       "title": "Papa Johns Can Predict When Your Fridge Is Empty",
       "url": "https://www.adexchanger.com/tv/papa-johns-can-predict-when-your-fridge-is-empty/",
-      "score": 30,
-      "comments": 27,
+      "score": 34,
+      "comments": 34,
       "author": "WaitWaitWha",
       "tags": [],
       "date": "2026-07-02T02:24:20+00:00"
@@ -5790,51 +5823,6 @@
       "source": "msf",
       "title": "[webapps] Langflow 1.3.0 - Remote Code Execution",
       "url": "https://www.exploit-db.com/exploits/52597",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-7fd71d4802",
-      "source": "msf",
-      "title": "[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52596",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e827c93897",
-      "source": "msf",
-      "title": "[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion",
-      "url": "https://www.exploit-db.com/exploits/52595",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Fri, 29 May 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-e7ed248f76",
-      "source": "msf",
-      "title": "[local] ZTE Routers  - Unauthenticated Denial of Service",
-      "url": "https://www.exploit-db.com/exploits/52594",
       "score": null,
       "author": "Exploit-DB",
       "tags": [
