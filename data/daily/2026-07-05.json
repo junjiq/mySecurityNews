@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T23:24:02.420506+00:00",
-  "total_articles": 87,
+  "generated_at": "2026-07-05T23:50:20.451924+00:00",
+  "total_articles": 85,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 76,
+      "count": 74,
       "top_items": [
         {
           "title": "Organic Maps",
           "url": "https://organicmaps.app/",
-          "score": 741,
+          "score": 764,
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T14:14:30+00:00"
@@ -48,6 +48,14 @@
           "date": "2026-07-05T02:01:03+00:00"
         },
         {
+          "title": "It's not about physical vs. digital games, it's about ownership",
+          "url": "https://popcar.bearblog.dev/its-about-ownership/",
+          "score": 281,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-05T14:56:15+00:00"
+        },
+        {
           "title": "Shadcn/UI now defaults to Base UI instead of Radix",
           "url": "https://ui.shadcn.com/docs/changelog",
           "score": 270,
@@ -56,20 +64,12 @@
           "date": "2026-07-05T04:46:08+00:00"
         },
         {
-          "title": "It's not about physical vs. digital games, it's about ownership",
-          "url": "https://popcar.bearblog.dev/its-about-ownership/",
-          "score": 262,
+          "title": "Reparaible and open source paper printer",
+          "url": "https://www.opentools.studio/",
+          "score": 265,
           "source": "hn",
-          "severity": null,
-          "date": "2026-07-05T14:56:15+00:00"
-        },
-        {
-          "title": "Introduction to Compilers and Language Design (2021)",
-          "url": "https://dthain.github.io/books/compiler/",
-          "score": 257,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-05T11:54:16+00:00"
+          "severity": "critical",
+          "date": "2026-07-05T21:03:06+00:00"
         }
       ]
     },
