@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-06T22:28:13.867157+00:00",
+  "generated_at": "2026-07-06T22:53:23.494951+00:00",
   "total_articles": 457,
   "source_counts": {
     "hn": 366,
@@ -8,7 +8,7 @@
     "project": 8
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 10,
     "high": 3,
     "medium": 5
   },
@@ -147,11 +147,11 @@
       "date": "2026-07-04T16:51:26+00:00"
     },
     {
-      "title": "ZCode – Harness for GLM-5.2",
-      "url": "https://zcode.z.ai/en",
-      "score": 479,
+      "title": "Right to Local Intelligence",
+      "url": "https://righttointelligence.org/",
+      "score": 455,
       "source": "hn",
-      "date": "2026-07-01T22:03:36+00:00"
+      "date": "2026-07-02T23:54:03+00:00"
     }
   ],
   "security_highlights": [
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-02T00:48:01+00:00"
-    },
-    {
-      "title": "Fable open sourced NanoClaw's agent factory. It cost $800",
-      "url": "https://twitter.com/Gavriel_Cohen/status/2072432348805669139",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-01T21:41:06+00:00"
     }
   ]
 }
