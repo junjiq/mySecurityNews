@@ -1,14 +1,51 @@
 {
-  "updated_at": "2026-07-06T08:32:14.112460+00:00",
+  "updated_at": "2026-07-06T10:34:08.777655+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-8bbe9e9e13",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "OCI Speechでリアルタイム英日翻訳アプリを作ってみた：途中で変わる文字起こしを字幕にする工夫",
+      "url": "https://qiita.com/araidon/items/a742200d67e8018cda91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "araidon",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-06T19:06:33+09:00"
+    },
+    {
+      "id": "hn-48802535",
+      "source": "hn",
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "score": 48,
+      "comments": 15,
+      "author": "scrlk",
+      "tags": [],
+      "date": "2026-07-06T09:38:36+00:00"
+    },
+    {
+      "id": "qiita-2198789792",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "生成 AI 利用率〇パーセント達成した、次は AI エージェント〇個作成が目標？",
+      "url": "https://qiita.com/Takashi_Masumori/items/a1ae3d4cbb03aa5a2387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Takashi_Masumori",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-06T18:02:39+09:00"
+    },
     {
       "id": "hn-48801493",
       "source": "hn",
       "title": "When AI Costs More Than the Engineer",
       "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
-      "score": 43,
-      "comments": 31,
+      "score": 92,
+      "comments": 79,
       "author": "kiyanwang",
       "tags": [],
       "date": "2026-07-06T07:05:25+00:00"
@@ -18,8 +55,8 @@
       "source": "hn",
       "title": "Generate parametric, manufacturable 3D models in seconds",
       "url": "https://kyrall.com/",
-      "score": 11,
-      "comments": 4,
+      "score": 31,
+      "comments": 24,
       "author": "OsamaAtwi",
       "tags": [],
       "date": "2026-07-06T07:04:33+00:00"
@@ -56,8 +93,8 @@
       "source": "hn",
       "title": "Building relationships with customers through support didn't turn out as hoped",
       "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
-      "score": 102,
-      "comments": 55,
+      "score": 143,
+      "comments": 87,
       "author": "dabluck",
       "tags": [],
       "date": "2026-07-06T02:06:49+00:00"
@@ -115,8 +152,8 @@
       "source": "hn",
       "title": "GPT-5.6 Sol Ultra will be in Codex",
       "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "score": 253,
-      "comments": 186,
+      "score": 298,
+      "comments": 235,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-07-06T01:04:03+00:00"
@@ -174,8 +211,8 @@
       "source": "hn",
       "title": "The Private Capture of Public Genius",
       "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-      "score": 96,
-      "comments": 49,
+      "score": 112,
+      "comments": 58,
       "author": "martialg",
       "tags": [],
       "date": "2026-07-05T23:52:20+00:00"
@@ -185,8 +222,8 @@
       "source": "hn",
       "title": "Has_not_been_viewed_much",
       "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-      "score": 252,
-      "comments": 68,
+      "score": 312,
+      "comments": 81,
       "author": "wxw",
       "tags": [],
       "date": "2026-07-05T23:49:00+00:00"
@@ -203,25 +240,12 @@
       "date": "2026-07-05T23:31:30+00:00"
     },
     {
-      "id": "qiita-2198789792",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "生成 AI 利用率〇パーセント達成した、次は AI エージェント〇個作成が目標？",
-      "url": "https://qiita.com/Takashi_Masumori/items/a1ae3d4cbb03aa5a2387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Takashi_Masumori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-06T08:23:36+09:00"
-    },
-    {
       "id": "hn-48798815",
       "source": "hn",
       "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
       "url": "https://arxiv.org/abs/2605.20049",
-      "score": 109,
-      "comments": 56,
+      "score": 131,
+      "comments": 73,
       "author": "softwaredoug",
       "tags": [],
       "date": "2026-07-05T23:03:55+00:00"
@@ -253,8 +277,8 @@
       "source": "hn",
       "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
       "url": "https://github.com/514-labs/dnsglobe",
-      "score": 56,
-      "comments": 38,
+      "score": 65,
+      "comments": 47,
       "author": "Callicles",
       "tags": [],
       "date": "2026-07-05T21:55:53+00:00"
@@ -264,7 +288,7 @@
       "source": "hn",
       "title": "Composite Video on the NES: Why's it so wobbly?",
       "url": "https://nicole.express/2026/phase-altering-by-line.html",
-      "score": 90,
+      "score": 96,
       "comments": 7,
       "author": "zdw",
       "tags": [],
@@ -310,8 +334,8 @@
       "source": "hn",
       "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
       "url": "https://homegames.io",
-      "score": 169,
-      "comments": 40,
+      "score": 184,
+      "comments": 45,
       "author": "homegamesjoseph",
       "tags": [],
       "date": "2026-07-05T21:32:44+00:00",
@@ -322,8 +346,8 @@
       "source": "hn",
       "title": "Completing a computer science degree on Coursera",
       "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
-      "score": 193,
-      "comments": 122,
+      "score": 216,
+      "comments": 132,
       "author": "lexandstuff",
       "tags": [],
       "date": "2026-07-05T21:20:49+00:00"
@@ -333,8 +357,8 @@
       "source": "hn",
       "title": "OpenPrinter",
       "url": "https://www.opentools.studio/",
-      "score": 804,
-      "comments": 197,
+      "score": 874,
+      "comments": 218,
       "author": "bouh",
       "tags": [],
       "date": "2026-07-05T21:03:06+00:00"
@@ -421,8 +445,8 @@
       "source": "hn",
       "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
       "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
-      "score": 118,
-      "comments": 207,
+      "score": 131,
+      "comments": 227,
       "author": "randycupertino",
       "tags": [],
       "date": "2026-07-05T19:22:51+00:00"
@@ -443,8 +467,8 @@
       "source": "hn",
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
       "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "score": 160,
-      "comments": 95,
+      "score": 165,
+      "comments": 100,
       "author": "jonahbard",
       "tags": [],
       "date": "2026-07-05T18:47:43+00:00"
@@ -476,8 +500,8 @@
       "source": "hn",
       "title": "The future of Flipper Zero development",
       "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
-      "score": 308,
-      "comments": 127,
+      "score": 336,
+      "comments": 146,
       "author": "croes",
       "tags": [],
       "date": "2026-07-05T18:22:00+00:00"
@@ -520,8 +544,8 @@
       "source": "hn",
       "title": "Starring the Computer",
       "url": "https://www.starringthecomputer.com/computers.html",
-      "score": 218,
-      "comments": 50,
+      "score": 235,
+      "comments": 51,
       "author": "gitowiec",
       "tags": [],
       "date": "2026-07-05T17:33:04+00:00"
@@ -692,8 +716,8 @@
       "source": "hn",
       "title": "It's not about physical vs. digital games, it's about ownership",
       "url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "score": 460,
-      "comments": 343,
+      "score": 511,
+      "comments": 375,
       "author": "popcar2",
       "tags": [],
       "date": "2026-07-05T14:56:15+00:00"
@@ -727,8 +751,8 @@
       "source": "hn",
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
-      "score": 946,
-      "comments": 287,
+      "score": 1006,
+      "comments": 309,
       "author": "tosh",
       "tags": [],
       "date": "2026-07-05T14:14:30+00:00"
@@ -767,19 +791,6 @@
         "Qiita"
       ],
       "date": "2026-07-05T22:25:15+09:00"
-    },
-    {
-      "id": "qiita-8bbe9e9e13",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "OCI Speechでリアルタイム英日翻訳アプリを作ってみた：途中で変わる文字起こしを字幕にする工夫",
-      "url": "https://qiita.com/araidon/items/a742200d67e8018cda91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "araidon",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-05T22:21:55+09:00"
     },
     {
       "id": "qiita-3ab290a6ed",
@@ -2498,6 +2509,17 @@
       "date": "2026-07-03T22:31:51+09:00"
     },
     {
+      "id": "hn-48774720",
+      "source": "hn",
+      "title": "Behind the scenes with the Midjourney scanner [video]",
+      "url": "https://www.youtube.com/watch?v=4nzzpUKhj1M",
+      "score": 30,
+      "comments": 5,
+      "author": "Semkas",
+      "tags": [],
+      "date": "2026-07-03T13:21:33+00:00"
+    },
+    {
       "id": "hn-48774704",
       "source": "hn",
       "title": "Hackers shoveled snow for company, were rewarded with network admin access",
@@ -2843,7 +2865,7 @@
       "source": "hn",
       "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
       "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-      "score": 172,
+      "score": 184,
       "comments": 38,
       "author": "jfil",
       "tags": [],
@@ -3062,8 +3084,8 @@
       "source": "hn",
       "title": "Zuckerberg says AI agent development going slower than expected",
       "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "score": 210,
-      "comments": 372,
+      "score": 241,
+      "comments": 408,
       "author": "cwwc",
       "tags": [],
       "date": "2026-07-02T20:38:06+00:00"
@@ -3642,6 +3664,17 @@
       "date": "2026-07-02T12:40:36+00:00"
     },
     {
+      "id": "hn-48760424",
+      "source": "hn",
+      "title": "Introduction to Genomics for Engineers",
+      "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
+      "score": 21,
+      "comments": 0,
+      "author": "yreg",
+      "tags": [],
+      "date": "2026-07-02T12:28:20+00:00"
+    },
+    {
       "id": "hn-48760289",
       "source": "hn",
       "title": "This blog is written in en-GB",
@@ -3849,8 +3882,8 @@
       "source": "hn",
       "title": "The great blogging collapse: What happened to 100 successful blogs?",
       "url": "https://danielstanica.com/posts/Great-Blogging-Collapse",
-      "score": 174,
-      "comments": 133,
+      "score": 184,
+      "comments": 141,
       "author": "thm",
       "tags": [],
       "date": "2026-07-02T09:36:04+00:00"
@@ -3931,8 +3964,8 @@
       "source": "hn",
       "title": "The Age of Personalized Hardware Is Coming",
       "url": "https://geastack.com/blog-the-age-of-personalized-hardware-is-coming",
-      "score": 52,
-      "comments": 31,
+      "score": 67,
+      "comments": 44,
       "author": "arbayi",
       "tags": [],
       "date": "2026-07-02T07:42:33+00:00"
@@ -5172,41 +5205,6 @@
       "tags": [],
       "date": "2026-07-01T10:19:45+00:00",
       "severity": "high"
-    },
-    {
-      "id": "hn-48744546",
-      "source": "hn",
-      "title": "We put a Redis server inside our runtime",
-      "url": "https://encore.dev/blog/redis-runtime",
-      "score": 27,
-      "comments": 9,
-      "author": "eandre",
-      "tags": [],
-      "date": "2026-07-01T10:11:12+00:00"
-    },
-    {
-      "id": "qiita-d8695c1e35",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Unityの状態管理コード地獄を設計で解決した話【Logic Toolkit】",
-      "url": "https://qiita.com/caitsithware/items/fcd8b7d3fd92e36ce528?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "caitsithware",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-01T19:09:43+09:00"
-    },
-    {
-      "id": "hn-48744518",
-      "source": "hn",
-      "title": "Asahi Linux 7.1 Progress Report",
-      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "score": 469,
-      "comments": 167,
-      "author": "pantalaimon",
-      "tags": [],
-      "date": "2026-07-01T10:07:04+00:00"
     },
     {
       "id": "ctf-4039218",
