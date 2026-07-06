@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-06T17:52:05.975005+00:00",
+  "generated_at": "2026-07-06T18:39:28.935027+00:00",
   "total_articles": 457,
   "source_counts": {
     "hn": 374,
@@ -8,9 +8,9 @@
     "project": 8
   },
   "severity_counts": {
+    "high": 3,
     "critical": 11,
-    "medium": 5,
-    "high": 2
+    "medium": 5
   },
   "top_articles": [
     {
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "url": "https://github.com/V4bel/Januscape",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-06T17:35:03+00:00"
+    },
     {
       "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
       "url": "https://homegames.io",

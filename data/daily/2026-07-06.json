@@ -1,8 +1,8 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T17:52:05.929859+00:00",
-  "total_articles": 87,
-  "urgent_count": 1,
+  "generated_at": "2026-07-06T18:39:28.890262+00:00",
+  "total_articles": 88,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
@@ -10,12 +10,19 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-05T21:32:44+00:00"
+    },
+    {
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "url": "https://github.com/V4bel/Januscape",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-06T17:35:03+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 77,
+      "count": 78,
       "top_items": [
         {
           "title": "OpenPrinter",
@@ -42,20 +49,20 @@
           "date": "2026-07-06T01:04:03+00:00"
         },
         {
-          "title": "The future of Flipper Zero development",
-          "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
-          "score": 357,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-05T18:22:00+00:00"
-        },
-        {
           "title": "Real-time map of Great Britain's rail network",
           "url": "https://www.map.signalbox.io",
-          "score": 323,
+          "score": 334,
           "source": "hn",
           "severity": null,
           "date": "2026-07-06T09:38:36+00:00"
+        },
+        {
+          "title": "Building relationships with customers through support didn't turn out as hoped",
+          "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+          "score": 266,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-06T02:06:49+00:00"
         }
       ]
     },
