@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-07-06T13:46:13.698335+00:00",
+  "updated_at": "2026-07-06T15:05:29.119508+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48805564",
+      "source": "hn",
+      "title": "You probably don't need another database",
+      "url": "https://postgresisenough.dev/",
+      "score": 3,
+      "comments": 1,
+      "author": "b-man",
+      "tags": [],
+      "date": "2026-07-06T14:57:05+00:00"
+    },
+    {
+      "id": "hn-48804435",
+      "source": "hn",
+      "title": "Footage Shows Cop Stalking Woman After Surveilling Her with a LPR",
+      "url": "https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/",
+      "score": 63,
+      "comments": 3,
+      "author": "Tasseographer",
+      "tags": [],
+      "date": "2026-07-06T13:39:52+00:00"
+    },
+    {
       "id": "hn-48804297",
       "source": "hn",
-      "title": "Aluminum Foil",
+      "title": "Aluminum foil (2021)",
       "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-      "score": 3,
-      "comments": 0,
+      "score": 55,
+      "comments": 10,
       "author": "firephox",
       "tags": [],
       "date": "2026-07-06T13:28:57+00:00"
@@ -25,12 +47,23 @@
       "date": "2026-07-06T13:20:59+00:00"
     },
     {
+      "id": "hn-48804193",
+      "source": "hn",
+      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+      "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+      "score": 95,
+      "comments": 47,
+      "author": "akyuu",
+      "tags": [],
+      "date": "2026-07-06T13:18:16+00:00"
+    },
+    {
       "id": "hn-48804182",
       "source": "hn",
       "title": "Show HN: Scan your AI agents for dangerous capabilities",
       "url": "https://github.com/makerchecker/MakerChecker",
-      "score": 7,
-      "comments": 1,
+      "score": 23,
+      "comments": 13,
       "author": "smashini",
       "tags": [],
       "date": "2026-07-06T13:17:27+00:00"
@@ -45,6 +78,17 @@
       "author": "dotcoma",
       "tags": [],
       "date": "2026-07-06T13:16:50+00:00"
+    },
+    {
+      "id": "hn-48804123",
+      "source": "hn",
+      "title": "How Kalshi Infects the News",
+      "url": "https://www.publicnotice.co/p/kalshi-cnn-cnbc",
+      "score": 22,
+      "comments": 5,
+      "author": "everybodyknows",
+      "tags": [],
+      "date": "2026-07-06T13:12:52+00:00"
     },
     {
       "id": "hn-48804049",
@@ -62,8 +106,8 @@
       "source": "hn",
       "title": "Why low-latency Java still requires discipline?",
       "url": "https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline",
-      "score": 7,
-      "comments": 0,
+      "score": 29,
+      "comments": 9,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-06T13:03:35+00:00"
@@ -73,8 +117,8 @@
       "source": "hn",
       "title": "Workers Cache",
       "url": "https://blog.cloudflare.com/workers-cache/",
-      "score": 51,
-      "comments": 6,
+      "score": 143,
+      "comments": 50,
       "author": "ilreb",
       "tags": [],
       "date": "2026-07-06T13:02:51+00:00"
@@ -84,19 +128,30 @@
       "source": "hn",
       "title": "Show HN: Pet Reminder – A macOS reminder app with a desktop pet",
       "url": "https://reminder.w3cub.com/",
-      "score": 6,
-      "comments": 1,
+      "score": 13,
+      "comments": 6,
       "author": "terryXyz",
       "tags": [],
       "date": "2026-07-06T13:01:29+00:00"
+    },
+    {
+      "id": "hn-48803886",
+      "source": "hn",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "score": 42,
+      "comments": 9,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-07-06T12:51:12+00:00"
     },
     {
       "id": "hn-48803762",
       "source": "hn",
       "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
       "url": "https://andonlabs.com/blog/fable5-vending-bench",
-      "score": 11,
-      "comments": 0,
+      "score": 54,
+      "comments": 15,
       "author": "optimalsolver",
       "tags": [],
       "date": "2026-07-06T12:38:13+00:00"
@@ -128,8 +183,8 @@
       "source": "hn",
       "title": "Road to Elm 1.0",
       "url": "https://elm-lang.org/news/faster-builds",
-      "score": 109,
-      "comments": 49,
+      "score": 151,
+      "comments": 69,
       "author": "wolfadex",
       "tags": [],
       "date": "2026-07-06T11:47:37+00:00"
@@ -139,8 +194,8 @@
       "source": "hn",
       "title": "C programmers commit fresh crimes against readability",
       "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-      "score": 64,
-      "comments": 5,
+      "score": 84,
+      "comments": 9,
       "author": "Bender",
       "tags": [],
       "date": "2026-07-06T11:44:39+00:00"
@@ -218,8 +273,8 @@
       "source": "hn",
       "title": "Real-time map of Great Britain's rail network",
       "url": "https://www.map.signalbox.io",
-      "score": 237,
-      "comments": 96,
+      "score": 278,
+      "comments": 109,
       "author": "scrlk",
       "tags": [],
       "date": "2026-07-06T09:38:36+00:00"
@@ -291,8 +346,8 @@
       "source": "hn",
       "title": "Building relationships with customers through support didn't turn out as hoped",
       "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
-      "score": 225,
-      "comments": 142,
+      "score": 251,
+      "comments": 152,
       "author": "dabluck",
       "tags": [],
       "date": "2026-07-06T02:06:49+00:00"
@@ -346,12 +401,23 @@
       "date": "2026-07-06T10:08:43+09:00"
     },
     {
+      "id": "hn-48799624",
+      "source": "hn",
+      "title": "Lost and Found",
+      "url": "https://walzr.com/lost-and-found",
+      "score": 11,
+      "comments": 3,
+      "author": "walz",
+      "tags": [],
+      "date": "2026-07-06T01:06:21+00:00"
+    },
+    {
       "id": "hn-48799614",
       "source": "hn",
       "title": "GPT-5.6 Sol Ultra will be in Codex",
       "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "score": 352,
-      "comments": 300,
+      "score": 369,
+      "comments": 319,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-07-06T01:04:03+00:00"
@@ -420,8 +486,8 @@
       "source": "hn",
       "title": "Has_not_been_viewed_much",
       "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-      "score": 377,
-      "comments": 100,
+      "score": 398,
+      "comments": 103,
       "author": "wxw",
       "tags": [],
       "date": "2026-07-05T23:49:00+00:00"
@@ -555,8 +621,8 @@
       "source": "hn",
       "title": "OpenPrinter",
       "url": "https://www.opentools.studio/",
-      "score": 999,
-      "comments": 239,
+      "score": 1039,
+      "comments": 254,
       "author": "bouh",
       "tags": [],
       "date": "2026-07-05T21:03:06+00:00"
@@ -3278,6 +3344,17 @@
       "date": "2026-07-02T21:03:45+00:00"
     },
     {
+      "id": "hn-48767211",
+      "source": "hn",
+      "title": "Clojure 1.13 adds support for checked keys",
+      "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+      "score": 63,
+      "comments": 0,
+      "author": "FelipeCortez",
+      "tags": [],
+      "date": "2026-07-02T20:51:52+00:00"
+    },
+    {
       "id": "hn-48767058",
       "source": "hn",
       "title": "Zuckerberg says AI agent development going slower than expected",
@@ -3293,8 +3370,8 @@
       "source": "hn",
       "title": "When 2+2=5",
       "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "score": 7,
-      "comments": 0,
+      "score": 23,
+      "comments": 14,
       "author": "noashavit",
       "tags": [],
       "date": "2026-07-02T20:29:23+00:00"
@@ -3415,8 +3492,8 @@
       "source": "hn",
       "title": "My quest to see all of Tetris",
       "url": "https://antithesis.com/blog/2026/tetris-quest/",
-      "score": 23,
-      "comments": 5,
+      "score": 51,
+      "comments": 11,
       "author": "wwilson",
       "tags": [],
       "date": "2026-07-02T19:09:35+00:00"
@@ -3888,8 +3965,8 @@
       "source": "hn",
       "title": "Introduction to Genomics for Engineers",
       "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
-      "score": 99,
-      "comments": 11,
+      "score": 130,
+      "comments": 17,
       "author": "yreg",
       "tags": [],
       "date": "2026-07-02T12:28:20+00:00"
@@ -4195,7 +4272,7 @@
       "source": "hn",
       "title": "The Complete Homemade Juggling Beanbag Guide",
       "url": "https://www.joshuaclifton.com/juggle/",
-      "score": 34,
+      "score": 46,
       "comments": 5,
       "author": "mrauha",
       "tags": [],
@@ -5119,88 +5196,6 @@
       "author": "ledoge",
       "tags": [],
       "date": "2026-07-01T14:10:28+00:00"
-    },
-    {
-      "id": "hn-48746940",
-      "source": "hn",
-      "title": "The C to Rust migration book",
-      "url": "https://mainmatter.com/c-to-rust-migration-book/",
-      "score": 16,
-      "comments": 6,
-      "author": "LukeMathWalker",
-      "tags": [],
-      "date": "2026-07-01T14:00:29+00:00"
-    },
-    {
-      "id": "hn-48746933",
-      "source": "hn",
-      "title": "Trust your compiler: Modern C++",
-      "url": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
-      "score": 52,
-      "comments": 32,
-      "author": "foxhill",
-      "tags": [],
-      "date": "2026-07-01T14:00:15+00:00"
-    },
-    {
-      "id": "hn-48746914",
-      "source": "hn",
-      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
-      "url": "https://blog.cloudflare.com/monetization-gateway/",
-      "score": 314,
-      "comments": 214,
-      "author": "soheilpro",
-      "tags": [],
-      "date": "2026-07-01T13:59:13+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "qiita-d56bef3db3",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI時代に学ぶのって難しい？",
-      "url": "https://qiita.com/sai029/items/2a25f8ea8213ff3e9820?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sai029",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-01T22:56:34+09:00"
-    },
-    {
-      "id": "hn-48746842",
-      "source": "hn",
-      "title": "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle",
-      "url": "https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle",
-      "score": 50,
-      "comments": 23,
-      "author": "cf100clunk",
-      "tags": [],
-      "date": "2026-07-01T13:54:25+00:00"
-    },
-    {
-      "id": "hn-48746695",
-      "source": "hn",
-      "title": "Notes from Building Tinkerfont",
-      "url": "https://mighil.com/notes-from-building-tinkerfont",
-      "score": 5,
-      "comments": 0,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-01T13:45:32+00:00"
-    },
-    {
-      "id": "qiita-35d13ba124",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Cloud SQL に触る道が増えた — Next '26 新発表の Data API（HTTP）と Remote MCP サーバ（AI経由）を両方試してみた",
-      "url": "https://qiita.com/n-kawashima/items/b638ba26b53c684435f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "n-kawashima",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-01T22:44:08+09:00"
     },
     {
       "id": "ctf-4039218",
