@@ -1,7 +1,7 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T06:33:36.029891+00:00",
-  "total_articles": 77,
+  "generated_at": "2026-07-06T08:32:14.180159+00:00",
+  "total_articles": 82,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 68,
+      "count": 64,
       "top_items": [
         {
           "title": "Organic Maps",
           "url": "https://organicmaps.app/",
-          "score": 893,
+          "score": 946,
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T14:14:30+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "OpenPrinter",
           "url": "https://www.opentools.studio/",
-          "score": 666,
+          "score": 804,
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T21:03:06+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "It's not about physical vs. digital games, it's about ownership",
           "url": "https://popcar.bearblog.dev/its-about-ownership/",
-          "score": 397,
+          "score": 460,
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T14:56:15+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "The future of Flipper Zero development",
           "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
-          "score": 283,
+          "score": 308,
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T18:22:00+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 17,
       "top_items": [
+        {
+          "title": "「保守業務って地味…」と思っていた新人の自分へ",
+          "url": "https://qiita.com/masa20057/items/d3c540c868c3413704b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-06T12:20:20+09:00"
+        },
         {
           "title": "Vim 入門勉強会：基本的なVim操作ハンズオン",
           "url": "https://qiita.com/KaitoMuraoka/items/11a975b756ba0dd030c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -77,6 +85,14 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-06T10:40:47+09:00"
+        },
+        {
+          "title": "IBM Bob Premium Package for i — スキル・ツール・ワークフロー ガイド (2026/7版)",
+          "url": "https://qiita.com/amogi23/items/1cc98872465621dc55b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-06T10:08:43+09:00"
         },
         {
           "title": "Spring Bootのサポート期限・EOS/EOLとは？サポート終了したOSSへの対応を整理する",
@@ -87,28 +103,26 @@
           "date": "2026-07-06T09:58:28+09:00"
         },
         {
-          "title": "【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 9 ]：アイテムシステムの実装2 - アイテムの選択・表示 -",
-          "url": "https://qiita.com/OnuuuumaX/items/968f444b135c672195a9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "🤖 【Claude】自作Skillが「Claude Codeでは動くのにCoworkに出てこない」を解決する",
+          "url": "https://qiita.com/imamu123/items/2baf3f2f047e912dab48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-06T00:40:37+09:00"
-        },
+          "date": "2026-07-06T09:21:42+09:00"
+        }
+      ]
+    },
+    {
+      "category": "注目リリース",
+      "count": 1,
+      "top_items": [
         {
-          "title": "Google 検索を用いたグラウンディングを検証してみた 〜画像検索・Maps 対応と課金の注意点〜",
-          "url": "https://qiita.com/shun-aoki/items/ee2b63d170008464f9ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Nuclei v3.11.0 — v3.11.0",
+          "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.11.0",
           "score": null,
-          "source": "zennqiita",
+          "source": "project",
           "severity": null,
-          "date": "2026-07-05T23:49:19+09:00"
-        },
-        {
-          "title": "LLMにSQLを生成・実行させる際に注意したこと※AWS編",
-          "url": "https://qiita.com/yakumo_09/items/51419606674100367559?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-05T22:25:15+09:00"
+          "date": "2026-07-06T07:00:13Z"
         }
       ]
     }
