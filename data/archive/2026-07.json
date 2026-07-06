@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-06T21:32:45.106281+00:00",
+  "generated_at": "2026-07-06T22:28:13.867157+00:00",
   "total_articles": 457,
   "source_counts": {
     "hn": 366,
@@ -8,8 +8,8 @@
     "project": 8
   },
   "severity_counts": {
+    "critical": 11,
     "high": 3,
-    "critical": 10,
     "medium": 5
   },
   "top_articles": [
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Titan's Resources and Their Utilization",
+      "url": "https://arxiv.org/abs/2606.06608",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-06T21:39:04+00:00"
+    },
     {
       "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
       "url": "https://github.com/V4bel/Januscape",

@@ -1,14 +1,72 @@
 {
-  "updated_at": "2026-07-06T21:32:44.999528+00:00",
+  "updated_at": "2026-07-06T22:28:13.747161+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48811081",
+      "source": "hn",
+      "title": "Full Writeup of the Windows GDID",
+      "url": "https://github.com/SmtimesIWndr/gdid-reversal",
+      "score": 4,
+      "comments": 0,
+      "author": "typeofhuman",
+      "tags": [],
+      "date": "2026-07-06T22:02:24+00:00"
+    },
+    {
+      "id": "hn-48810841",
+      "source": "hn",
+      "title": "Titan's Resources and Their Utilization",
+      "url": "https://arxiv.org/abs/2606.06608",
+      "score": 5,
+      "comments": 1,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-07-06T21:39:04+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "qiita-2198789792",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "生成 AI 利用率〇パーセント達成した、次は AI エージェント〇個作成が目標？",
+      "url": "https://qiita.com/Takashi_Masumori/items/a1ae3d4cbb03aa5a2387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Takashi_Masumori",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-07T06:37:21+09:00"
+    },
+    {
+      "id": "hn-48810533",
+      "source": "hn",
+      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+      "score": 10,
+      "comments": 3,
+      "author": "u1hcw9nx",
+      "tags": [],
+      "date": "2026-07-06T21:09:23+00:00"
+    },
+    {
+      "id": "hn-48810501",
+      "source": "hn",
+      "title": "Taiganet.com, Home of the WS4000 Simulator",
+      "url": "https://www.taiganet.com/",
+      "score": 6,
+      "comments": 0,
+      "author": "Aloha",
+      "tags": [],
+      "date": "2026-07-06T21:06:24+00:00"
+    },
     {
       "id": "hn-48810439",
       "source": "hn",
       "title": "Learning to code is still worthwhile",
       "url": "https://stevekrouse.com/learn-to-code",
-      "score": 33,
-      "comments": 11,
+      "score": 67,
+      "comments": 65,
       "author": "stevekrouse",
       "tags": [],
       "date": "2026-07-06T20:59:54+00:00"
@@ -29,8 +87,8 @@
       "source": "hn",
       "title": "Python 3.14 compiled to metal – no interpreter",
       "url": "https://github.com/can1357/pon",
-      "score": 59,
-      "comments": 35,
+      "score": 86,
+      "comments": 48,
       "author": "hamza_q_",
       "tags": [],
       "date": "2026-07-06T19:40:22+00:00"
@@ -49,6 +107,17 @@
       "date": "2026-07-07T04:29:06+09:00"
     },
     {
+      "id": "hn-48809354",
+      "source": "hn",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "score": 17,
+      "comments": 0,
+      "author": "emil_sorensen",
+      "tags": [],
+      "date": "2026-07-06T19:28:24+00:00"
+    },
+    {
       "id": "hn-48809208",
       "source": "hn",
       "title": "What does Jeff Bezos think is going to happen?",
@@ -64,8 +133,8 @@
       "source": "hn",
       "title": "CoMaps – FOSS Offline Maps",
       "url": "https://www.comaps.app/",
-      "score": 141,
-      "comments": 25,
+      "score": 211,
+      "comments": 39,
       "author": "basilikum",
       "tags": [],
       "date": "2026-07-06T18:55:07+00:00"
@@ -75,8 +144,8 @@
       "source": "hn",
       "title": "Linux on the Atari Jaguar",
       "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "score": 73,
-      "comments": 10,
+      "score": 82,
+      "comments": 15,
       "author": "cakehonolulu",
       "tags": [],
       "date": "2026-07-06T18:35:54+00:00"
@@ -97,8 +166,8 @@
       "source": "hn",
       "title": "OpenWrt One – Open Hardware Router",
       "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 244,
-      "comments": 115,
+      "score": 312,
+      "comments": 135,
       "author": "peter_d_sherman",
       "tags": [],
       "date": "2026-07-06T18:23:12+00:00"
@@ -108,8 +177,8 @@
       "source": "hn",
       "title": "A global workspace in language models",
       "url": "https://www.anthropic.com/research/global-workspace",
-      "score": 159,
-      "comments": 46,
+      "score": 197,
+      "comments": 60,
       "author": "in-silico",
       "tags": [],
       "date": "2026-07-06T17:44:08+00:00"
@@ -119,8 +188,8 @@
       "source": "hn",
       "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
       "url": "https://github.com/V4bel/Januscape",
-      "score": 54,
-      "comments": 11,
+      "score": 62,
+      "comments": 16,
       "author": "Imustaskforhelp",
       "tags": [],
       "date": "2026-07-06T17:35:03+00:00",
@@ -166,8 +235,8 @@
       "source": "hn",
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "score": 74,
-      "comments": 21,
+      "score": 93,
+      "comments": 25,
       "author": "maxloh",
       "tags": [],
       "date": "2026-07-06T16:47:44+00:00"
@@ -199,8 +268,8 @@
       "source": "hn",
       "title": "Kani: A Model Checker for Rust",
       "url": "https://arxiv.org/abs/2607.01504",
-      "score": 108,
-      "comments": 5,
+      "score": 114,
+      "comments": 7,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-07-06T15:53:24+00:00"
@@ -300,8 +369,8 @@
       "source": "hn",
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
       "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "score": 237,
-      "comments": 170,
+      "score": 250,
+      "comments": 179,
       "author": "LabsLucas",
       "tags": [],
       "date": "2026-07-06T15:01:18+00:00"
@@ -368,8 +437,8 @@
       "source": "hn",
       "title": "Resetting Xbox",
       "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "score": 378,
-      "comments": 322,
+      "score": 411,
+      "comments": 362,
       "author": "dijksterhuis",
       "tags": [],
       "date": "2026-07-06T14:18:23+00:00"
@@ -390,7 +459,7 @@
       "source": "hn",
       "title": "Aluminum foil (2021)",
       "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-      "score": 210,
+      "score": 218,
       "comments": 101,
       "author": "firephox",
       "tags": [],
@@ -544,8 +613,8 @@
       "source": "hn",
       "title": "Road to Elm 1.0",
       "url": "https://elm-lang.org/news/faster-builds",
-      "score": 280,
-      "comments": 130,
+      "score": 287,
+      "comments": 135,
       "author": "wolfadex",
       "tags": [],
       "date": "2026-07-06T11:47:37+00:00"
@@ -647,24 +716,11 @@
       "source": "hn",
       "title": "Real-time map of Great Britain's rail network",
       "url": "https://www.map.signalbox.io",
-      "score": 360,
-      "comments": 135,
+      "score": 368,
+      "comments": 137,
       "author": "scrlk",
       "tags": [],
       "date": "2026-07-06T09:38:36+00:00"
-    },
-    {
-      "id": "qiita-2198789792",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "生成 AI 利用率〇パーセント達成した、次は AI エージェント〇個作成が目標？",
-      "url": "https://qiita.com/Takashi_Masumori/items/a1ae3d4cbb03aa5a2387?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Takashi_Masumori",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-06T18:02:39+09:00"
     },
     {
       "id": "hn-48801493",
@@ -2472,6 +2528,17 @@
       "date": "2026-07-04T16:15:06+09:00"
     },
     {
+      "id": "hn-48783175",
+      "source": "hn",
+      "title": "The LLVM Compiler Infrastructure",
+      "url": "https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/",
+      "score": 10,
+      "comments": 2,
+      "author": "tosh",
+      "tags": [],
+      "date": "2026-07-04T06:43:29+00:00"
+    },
+    {
       "id": "qiita-7f645c5ee9",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2902,8 +2969,8 @@
       "source": "hn",
       "title": "Egypt Is Building a New Nile",
       "url": "https://www.theb1m.com/video/egypt-is-building-a-new-nile",
-      "score": 104,
-      "comments": 38,
+      "score": 112,
+      "comments": 53,
       "author": "geox",
       "tags": [],
       "date": "2026-07-03T20:00:34+00:00"
@@ -3590,8 +3657,8 @@
       "source": "hn",
       "title": "Using precision editing to study human embryo development shows master gene",
       "url": "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene",
-      "score": 23,
-      "comments": 3,
+      "score": 30,
+      "comments": 12,
       "author": "gmays",
       "tags": [],
       "date": "2026-07-03T02:03:45+00:00"
@@ -5133,78 +5200,12 @@
       "severity": "critical"
     },
     {
-      "id": "hn-48753341",
-      "source": "hn",
-      "title": "The Writers Who Wrote the Most in History",
-      "url": "https://brennan.day/compulsion-the-writers-who-wrote-the-most-in-history/",
-      "score": 5,
-      "comments": 0,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-07-01T21:25:46+00:00"
-    },
-    {
-      "id": "hn-48753220",
-      "source": "hn",
-      "title": "I Left Harry's All-Night Hamburgers",
-      "url": "https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/",
-      "score": 70,
-      "comments": 8,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-07-01T21:15:41+00:00"
-    },
-    {
-      "id": "hn-48753160",
-      "source": "hn",
-      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
-      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
-      "score": 45,
-      "comments": 8,
-      "author": "tobr",
-      "tags": [],
-      "date": "2026-07-01T21:10:16+00:00"
-    },
-    {
-      "id": "hn-48753069",
-      "source": "hn",
-      "title": "Qualcomm Linux 2.0",
-      "url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-      "score": 118,
-      "comments": 52,
-      "author": "gilgamesh3",
-      "tags": [],
-      "date": "2026-07-01T21:01:42+00:00"
-    },
-    {
-      "id": "hn-48753045",
-      "source": "hn",
-      "title": "Proliferate (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
-      "score": 1,
-      "comments": 0,
-      "author": "pablo24602",
-      "tags": [],
-      "date": "2026-07-01T21:00:14+00:00"
-    },
-    {
-      "id": "hn-48752949",
-      "source": "hn",
-      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-      "url": "https://github.com/langchain-ai/openwiki",
-      "score": 61,
-      "comments": 16,
-      "author": "handfuloflight",
-      "tags": [],
-      "date": "2026-07-01T20:51:52+00:00"
-    },
-    {
       "id": "hn-48747889",
       "source": "hn",
       "title": "Rotman Lens",
       "url": "https://en.wikipedia.org/wiki/Rotman_lens",
-      "score": 36,
-      "comments": 3,
+      "score": 54,
+      "comments": 6,
       "author": "thomasjb",
       "tags": [],
       "date": "2026-07-01T14:56:17+00:00"
