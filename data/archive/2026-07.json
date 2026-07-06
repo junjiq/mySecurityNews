@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-06T10:34:08.885367+00:00",
+  "generated_at": "2026-07-06T12:18:20.390627+00:00",
   "total_articles": 457,
   "source_counts": {
     "hn": 369,
@@ -10,7 +10,7 @@
   "severity_counts": {
     "critical": 13,
     "medium": 5,
-    "high": 3
+    "high": 2
   },
   "top_articles": [
     {
@@ -30,9 +30,16 @@
     {
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
-      "score": 1006,
+      "score": 1057,
       "source": "hn",
       "date": "2026-07-05T14:14:30+00:00"
+    },
+    {
+      "title": "OpenPrinter",
+      "url": "https://www.opentools.studio/",
+      "score": 941,
+      "source": "hn",
+      "date": "2026-07-05T21:03:06+00:00"
     },
     {
       "title": "Virginia bans sale of geolocation data",
@@ -47,13 +54,6 @@
       "score": 880,
       "source": "hn",
       "date": "2026-07-01T14:20:52+00:00"
-    },
-    {
-      "title": "OpenPrinter",
-      "url": "https://www.opentools.studio/",
-      "score": 874,
-      "source": "hn",
-      "date": "2026-07-05T21:03:06+00:00"
     },
     {
       "title": "The bottleneck might be the air in the room",
@@ -98,6 +98,13 @@
       "date": "2026-07-02T11:17:45+00:00"
     },
     {
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "url": "https://popcar.bearblog.dev/its-about-ownership/",
+      "score": 567,
+      "source": "hn",
+      "date": "2026-07-05T14:56:15+00:00"
+    },
+    {
       "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
       "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
       "score": 561,
@@ -138,13 +145,6 @@
       "score": 515,
       "source": "hn",
       "date": "2026-07-02T15:25:16+00:00"
-    },
-    {
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "score": 511,
-      "source": "hn",
-      "date": "2026-07-05T14:56:15+00:00"
     },
     {
       "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
@@ -259,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-01T12:12:17+00:00"
-    },
-    {
-      "title": "Apple 'Hide My Email' Vulnerability Reveals Peoples' Real Email Addresses",
-      "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-01T10:19:45+00:00"
     }
   ]
 }
