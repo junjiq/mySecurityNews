@@ -1,7 +1,7 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T01:36:11.991793+00:00",
-  "total_articles": 90,
+  "generated_at": "2026-07-06T03:07:36.438899+00:00",
+  "total_articles": 85,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,28 +22,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 78,
+      "count": 75,
       "top_items": [
         {
           "title": "Organic Maps",
           "url": "https://organicmaps.app/",
-          "score": 803,
+          "score": 831,
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T14:14:30+00:00"
         },
         {
-          "title": "If you're a button, you have one job",
-          "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-          "score": 491,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-05T02:01:03+00:00"
-        },
-        {
           "title": "OpenPrinter",
           "url": "https://www.opentools.studio/",
-          "score": 413,
+          "score": 497,
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T21:03:06+00:00"
@@ -51,10 +43,18 @@
         {
           "title": "It's not about physical vs. digital games, it's about ownership",
           "url": "https://popcar.bearblog.dev/its-about-ownership/",
-          "score": 315,
+          "score": 335,
           "source": "hn",
           "severity": null,
           "date": "2026-07-05T14:56:15+00:00"
+        },
+        {
+          "title": "Introduction to Compilers and Language Design (2021)",
+          "url": "https://dthain.github.io/books/compiler/",
+          "score": 281,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-05T11:54:16+00:00"
         },
         {
           "title": "Shadcn/UI now defaults to Base UI instead of Radix",
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 10,
       "top_items": [
+        {
+          "title": "Vim 入門勉強会：基本的なVim操作ハンズオン",
+          "url": "https://qiita.com/KaitoMuraoka/items/11a975b756ba0dd030c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-06T10:40:47+09:00"
+        },
         {
           "title": "Spring Bootのサポート期限・EOS/EOLとは？サポート終了したOSSへの対応を整理する",
           "url": "https://qiita.com/ktgr/items/ffac0bea26f3da7a1df5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-05T22:25:15+09:00"
-        },
-        {
-          "title": "AI作業員に「何でもできる権限」を渡さないために",
-          "url": "https://qiita.com/tacosdb/items/f52f3ba38f28f6e2e838?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-05T21:50:07+09:00"
         }
       ]
     }
