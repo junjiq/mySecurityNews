@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-06T12:18:20.390627+00:00",
+  "generated_at": "2026-07-06T13:46:13.806471+00:00",
   "total_articles": 457,
   "source_counts": {
-    "hn": 369,
-    "zennqiita": 80,
+    "hn": 370,
+    "zennqiita": 79,
     "project": 8
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 12,
     "medium": 5,
     "high": 2
   },
@@ -37,7 +37,7 @@
     {
       "title": "OpenPrinter",
       "url": "https://www.opentools.studio/",
-      "score": 941,
+      "score": 999,
       "source": "hn",
       "date": "2026-07-05T21:03:06+00:00"
     },
@@ -61,13 +61,6 @@
       "score": 726,
       "source": "hn",
       "date": "2026-07-04T06:32:28+00:00"
-    },
-    {
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "score": 650,
-      "source": "hn",
-      "date": "2026-07-01T12:13:34+00:00"
     },
     {
       "title": "Leaking YouTube creators' private videos",
@@ -119,13 +112,6 @@
       "date": "2026-07-02T14:13:26+00:00"
     },
     {
-      "title": "Most arguments are about ego, not ideas",
-      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-      "score": 535,
-      "source": "hn",
-      "date": "2026-07-01T13:29:29+00:00"
-    },
-    {
       "title": "CarPlay Is Additive",
       "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
       "score": 519,
@@ -152,6 +138,20 @@
       "score": 511,
       "source": "hn",
       "date": "2026-07-03T13:01:49+00:00"
+    },
+    {
+      "title": "If you're a button, you have one job",
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "score": 491,
+      "source": "hn",
+      "date": "2026-07-05T02:01:03+00:00"
+    },
+    {
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "score": 479,
+      "source": "hn",
+      "date": "2026-07-04T16:51:26+00:00"
     }
   ],
   "security_highlights": [
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-01T13:59:13+00:00"
-    },
-    {
-      "title": "Box3D, an open source 3D physics engine",
-      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-01T12:12:17+00:00"
     }
   ]
 }
