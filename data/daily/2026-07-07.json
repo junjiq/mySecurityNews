@@ -1,9 +1,16 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T15:01:23.203495+00:00",
-  "total_articles": 74,
-  "urgent_count": 2,
+  "generated_at": "2026-07-07T16:18:00.986107+00:00",
+  "total_articles": 67,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Better Auth is joining Vercel",
+      "url": "https://better-auth.com/blog/better-auth-joins-vercel",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-07T15:52:22+00:00"
+    },
     {
       "title": "Titan's Resources and Their Utilization",
       "url": "https://arxiv.org/abs/2606.06608",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 50,
       "top_items": [
         {
           "title": "OpenWrt One – Open Hardware Router",
           "url": "https://openwrt.org/toh/openwrt/one",
-          "score": 745,
+          "score": 769,
           "source": "hn",
           "severity": null,
           "date": "2026-07-06T18:23:12+00:00"
@@ -35,7 +42,7 @@
         {
           "title": "CoMaps – FOSS Offline Maps",
           "url": "https://www.comaps.app/",
-          "score": 692,
+          "score": 716,
           "source": "hn",
           "severity": null,
           "date": "2026-07-06T18:55:07+00:00"
@@ -43,7 +50,7 @@
         {
           "title": "GLM 5.2 and the coming AI margin collapse",
           "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-          "score": 586,
+          "score": 622,
           "source": "hn",
           "severity": null,
           "date": "2026-07-06T20:14:55+00:00"
@@ -51,7 +58,7 @@
         {
           "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
           "url": "https://github.com/MaximeRivest/Riddle",
-          "score": 570,
+          "score": 589,
           "source": "hn",
           "severity": null,
           "date": "2026-07-06T23:00:24+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 18,
+      "count": 17,
       "top_items": [
         {
           "title": "Ollama + Continue を使って Mac 上にローカルLLM環境を構築する",

@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-07T15:01:23.254651+00:00",
-  "total_articles": 457,
+  "generated_at": "2026-07-07T16:18:01.033371+00:00",
+  "total_articles": 462,
   "source_counts": {
-    "hn": 367,
+    "hn": 372,
     "zennqiita": 83,
     "project": 7
   },
   "severity_counts": {
-    "critical": 7,
+    "critical": 8,
     "high": 3,
     "medium": 4
   },
@@ -44,7 +44,7 @@
     {
       "title": "OpenWrt One – Open Hardware Router",
       "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 745,
+      "score": 769,
       "source": "hn",
       "date": "2026-07-06T18:23:12+00:00"
     },
@@ -58,7 +58,7 @@
     {
       "title": "CoMaps – FOSS Offline Maps",
       "url": "https://www.comaps.app/",
-      "score": 692,
+      "score": 716,
       "source": "hn",
       "date": "2026-07-06T18:55:07+00:00"
     },
@@ -77,6 +77,13 @@
       "date": "2026-07-04T16:45:10+00:00"
     },
     {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 622,
+      "source": "hn",
+      "date": "2026-07-06T20:14:55+00:00"
+    },
+    {
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
       "score": 621,
@@ -91,16 +98,9 @@
       "date": "2026-07-02T14:23:09+00:00"
     },
     {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 586,
-      "source": "hn",
-      "date": "2026-07-06T20:14:55+00:00"
-    },
-    {
       "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
       "url": "https://github.com/MaximeRivest/Riddle",
-      "score": 570,
+      "score": 589,
       "source": "hn",
       "date": "2026-07-06T23:00:24+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Better Auth is joining Vercel",
+      "url": "https://better-auth.com/blog/better-auth-joins-vercel",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-07T15:52:22+00:00"
+    },
     {
       "title": "Titan's Resources and Their Utilization",
       "url": "https://arxiv.org/abs/2606.06608",
