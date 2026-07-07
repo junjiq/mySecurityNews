@@ -1,14 +1,80 @@
 {
-  "updated_at": "2026-07-07T18:12:32.095575+00:00",
+  "updated_at": "2026-07-07T19:12:09.911626+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48821749",
+      "source": "hn",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "score": 8,
+      "comments": 0,
+      "author": "duha",
+      "tags": [],
+      "date": "2026-07-07T18:36:35+00:00"
+    },
+    {
+      "id": "hn-48821691",
+      "source": "hn",
+      "title": "Decrypting View State Messages",
+      "url": "https://zeroed.tech/blog/decrypting-viewstate-messages/",
+      "score": 4,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-07T18:32:26+00:00"
+    },
+    {
+      "id": "hn-48821653",
+      "source": "hn",
+      "title": "Astro 7.0",
+      "url": "https://astro.build/blog/astro-7/",
+      "score": 37,
+      "comments": 6,
+      "author": "saikatsg",
+      "tags": [],
+      "date": "2026-07-07T18:30:02+00:00"
+    },
+    {
+      "id": "hn-48821576",
+      "source": "hn",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "score": 11,
+      "comments": 1,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-07T18:24:10+00:00"
+    },
+    {
+      "id": "hn-48821500",
+      "source": "hn",
+      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+      "url": "https://github.com/kklimuk/docx-cli",
+      "score": 8,
+      "comments": 3,
+      "author": "kirillklimuk",
+      "tags": [],
+      "date": "2026-07-07T18:19:00+00:00"
+    },
+    {
+      "id": "hn-48821378",
+      "source": "hn",
+      "title": "A new runtime for k and q: l",
+      "url": "https://lv1.sh/",
+      "score": 22,
+      "comments": 3,
+      "author": "skruger",
+      "tags": [],
+      "date": "2026-07-07T18:08:29+00:00"
+    },
     {
       "id": "hn-48820274",
       "source": "hn",
       "title": "Mapping homes you can buy from the US government for <$100k",
       "url": "https://govauctions.app/research/cheapest-homes-in-america",
-      "score": 26,
-      "comments": 21,
+      "score": 78,
+      "comments": 70,
       "author": "player_piano",
       "tags": [],
       "date": "2026-07-07T16:42:41+00:00"
@@ -18,8 +84,8 @@
       "source": "hn",
       "title": "China sentences official to death for taking $325M in bribes",
       "url": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
-      "score": 70,
-      "comments": 70,
+      "score": 122,
+      "comments": 141,
       "author": "randycupertino",
       "tags": [],
       "date": "2026-07-07T16:38:08+00:00"
@@ -40,8 +106,8 @@
       "source": "hn",
       "title": "Jim's TrueType QR Code Font",
       "url": "https://github.com/jimparis/qr-font",
-      "score": 33,
-      "comments": 1,
+      "score": 52,
+      "comments": 5,
       "author": "arantius",
       "tags": [],
       "date": "2026-07-07T16:30:42+00:00"
@@ -64,8 +130,8 @@
       "source": "hn",
       "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
       "url": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
-      "score": 27,
-      "comments": 3,
+      "score": 43,
+      "comments": 6,
       "author": "mplsllc",
       "tags": [],
       "date": "2026-07-07T16:24:40+00:00"
@@ -86,8 +152,8 @@
       "source": "hn",
       "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
       "url": "https://30papers.com/",
-      "score": 83,
-      "comments": 11,
+      "score": 141,
+      "comments": 25,
       "author": "notmcrowley",
       "tags": [],
       "date": "2026-07-07T15:58:13+00:00"
@@ -120,8 +186,8 @@
       "source": "hn",
       "title": "Why we built yet another Postgres connection pooler",
       "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-      "score": 27,
-      "comments": 4,
+      "score": 55,
+      "comments": 7,
       "author": "levkk",
       "tags": [],
       "date": "2026-07-07T15:36:49+00:00"
@@ -142,8 +208,8 @@
       "source": "hn",
       "title": "Microsoft fire idTech team at Id software",
       "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
-      "score": 281,
-      "comments": 277,
+      "score": 349,
+      "comments": 337,
       "author": "bauc",
       "tags": [],
       "date": "2026-07-07T15:33:20+00:00"
@@ -153,8 +219,8 @@
       "source": "hn",
       "title": "Chat Control passed first round in EU Parliament",
       "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-      "score": 302,
-      "comments": 130,
+      "score": 372,
+      "comments": 162,
       "author": "miroljub",
       "tags": [],
       "date": "2026-07-07T15:16:15+00:00"
@@ -164,8 +230,8 @@
       "source": "hn",
       "title": "Amazon without the knockoffs",
       "url": "https://knockoff.shopping/",
-      "score": 129,
-      "comments": 75,
+      "score": 218,
+      "comments": 148,
       "author": "plurby",
       "tags": [],
       "date": "2026-07-07T15:13:01+00:00"
@@ -175,8 +241,8 @@
       "source": "hn",
       "title": "Automating AI Away",
       "url": "https://replicated.live/blog/away",
-      "score": 24,
-      "comments": 7,
+      "score": 48,
+      "comments": 27,
       "author": "gritzko",
       "tags": [],
       "date": "2026-07-07T15:11:08+00:00"
@@ -186,8 +252,8 @@
       "source": "hn",
       "title": "Chat Control 1.0 and 2.0 Explained",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 62,
-      "comments": 4,
+      "score": 154,
+      "comments": 20,
       "author": "gasull",
       "tags": [],
       "date": "2026-07-07T14:23:15+00:00"
@@ -241,8 +307,8 @@
       "source": "hn",
       "title": "98% isn't much",
       "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
-      "score": 368,
-      "comments": 249,
+      "score": 386,
+      "comments": 259,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-07T12:45:14+00:00"
@@ -252,8 +318,8 @@
       "source": "hn",
       "title": "A better way to tie gym shorts (or any drawstring) [video]",
       "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-      "score": 321,
-      "comments": 122,
+      "score": 347,
+      "comments": 131,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-07T12:45:06+00:00"
@@ -263,8 +329,8 @@
       "source": "hn",
       "title": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
       "url": "https://postgres.saneengineer.com",
-      "score": 66,
-      "comments": 10,
+      "score": 72,
+      "comments": 12,
       "author": "anivan_",
       "tags": [],
       "date": "2026-07-07T12:40:28+00:00"
@@ -287,8 +353,8 @@
       "source": "hn",
       "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
       "url": "https://streetcomplete.app/",
-      "score": 437,
-      "comments": 95,
+      "score": 496,
+      "comments": 116,
       "author": "kls0e",
       "tags": [],
       "date": "2026-07-07T12:38:35+00:00"
@@ -2554,6 +2620,17 @@
       "author": "eternauta3k",
       "tags": [],
       "date": "2026-07-05T05:56:03+00:00"
+    },
+    {
+      "id": "hn-48791505",
+      "source": "hn",
+      "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
+      "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
+      "score": 16,
+      "comments": 8,
+      "author": "zdw",
+      "tags": [],
+      "date": "2026-07-05T05:36:51+00:00"
     },
     {
       "id": "hn-48791440",
@@ -5080,85 +5157,6 @@
       "date": "2026-07-02T15:43:39+00:00"
     },
     {
-      "id": "hn-48763246",
-      "source": "hn",
-      "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
-      "url": "https://zk.golf/",
-      "score": 51,
-      "comments": 6,
-      "author": "rot256",
-      "tags": [],
-      "date": "2026-07-02T15:40:05+00:00"
-    },
-    {
-      "id": "hn-48763222",
-      "source": "hn",
-      "title": "Show HN: Inkwell – An RSS reader for e-ink devices",
-      "url": "https://kendal.codeberg.page/inkwell/",
-      "score": 30,
-      "comments": 4,
-      "author": "imkendal",
-      "tags": [],
-      "date": "2026-07-02T15:38:19+00:00"
-    },
-    {
-      "id": "hn-48763035",
-      "source": "hn",
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 515,
-      "comments": 217,
-      "author": "IngoBlechschmid",
-      "tags": [],
-      "date": "2026-07-02T15:25:16+00:00"
-    },
-    {
-      "id": "hn-48762862",
-      "source": "hn",
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "url": "https://manufact.com",
-      "score": 97,
-      "comments": 61,
-      "author": "pzullo",
-      "tags": [],
-      "date": "2026-07-02T15:11:20+00:00"
-    },
-    {
-      "id": "qiita-2dd6bf2c2f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "多文化共生はなぜ難しいのか？ ― 情報・同化・生産性から考える現実解 : Pythonで学ぶ マクロ経済学入門 (95)",
-      "url": "https://qiita.com/maskot1977/items/e3f648e6b65f3eaddec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-03T00:09:04+09:00"
-    },
-    {
-      "id": "hn-48762725",
-      "source": "hn",
-      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "score": 561,
-      "comments": 180,
-      "author": "mgh2",
-      "tags": [],
-      "date": "2026-07-02T15:02:26+00:00"
-    },
-    {
-      "id": "hn-48762372",
-      "source": "hn",
-      "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11",
-      "url": "https://apple.github.io/foundationdb/flow.html",
-      "score": 80,
-      "comments": 23,
-      "author": "sourdecor",
-      "tags": [],
-      "date": "2026-07-02T14:41:56+00:00"
-    },
-    {
       "id": "ctf-4048944",
       "source": "project",
       "proj_category": "CTF",
@@ -5191,7 +5189,7 @@
       "source": "hn",
       "title": "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
       "url": "https://cccg.ca/proceedings/2008/paper34full.pdf",
-      "score": 6,
+      "score": 12,
       "comments": 0,
       "author": "luu",
       "tags": [],
