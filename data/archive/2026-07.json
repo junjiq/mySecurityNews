@@ -1,15 +1,15 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-07T13:49:35.467638+00:00",
-  "total_articles": 461,
+  "generated_at": "2026-07-07T15:01:23.254651+00:00",
+  "total_articles": 457,
   "source_counts": {
-    "hn": 369,
-    "zennqiita": 85,
+    "hn": 367,
+    "zennqiita": 83,
     "project": 7
   },
   "severity_counts": {
     "critical": 7,
-    "high": 4,
+    "high": 3,
     "medium": 4
   },
   "top_articles": [
@@ -42,6 +42,13 @@
       "date": "2026-07-02T21:03:45+00:00"
     },
     {
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "score": 745,
+      "source": "hn",
+      "date": "2026-07-06T18:23:12+00:00"
+    },
+    {
       "title": "The bottleneck might be the air in the room",
       "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
       "score": 726,
@@ -49,11 +56,11 @@
       "date": "2026-07-04T06:32:28+00:00"
     },
     {
-      "title": "OpenWrt One – Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 717,
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "score": 692,
       "source": "hn",
-      "date": "2026-07-06T18:23:12+00:00"
+      "date": "2026-07-06T18:55:07+00:00"
     },
     {
       "title": "Resetting Xbox",
@@ -61,13 +68,6 @@
       "score": 679,
       "source": "hn",
       "date": "2026-07-06T14:18:23+00:00"
-    },
-    {
-      "title": "CoMaps – FOSS Offline Maps",
-      "url": "https://www.comaps.app/",
-      "score": 664,
-      "source": "hn",
-      "date": "2026-07-06T18:55:07+00:00"
     },
     {
       "title": "Leaking YouTube creators' private videos",
@@ -91,18 +91,25 @@
       "date": "2026-07-02T14:23:09+00:00"
     },
     {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 586,
+      "source": "hn",
+      "date": "2026-07-06T20:14:55+00:00"
+    },
+    {
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "score": 570,
+      "source": "hn",
+      "date": "2026-07-06T23:00:24+00:00"
+    },
+    {
       "title": "It's not about physical vs. digital games, it's about ownership",
       "url": "https://popcar.bearblog.dev/its-about-ownership/",
       "score": 567,
       "source": "hn",
       "date": "2026-07-05T14:56:15+00:00"
-    },
-    {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 564,
-      "source": "hn",
-      "date": "2026-07-06T20:14:55+00:00"
     },
     {
       "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
@@ -117,13 +124,6 @@
       "score": 554,
       "source": "hn",
       "date": "2026-07-02T14:13:26+00:00"
-    },
-    {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "score": 546,
-      "source": "hn",
-      "date": "2026-07-06T23:00:24+00:00"
     },
     {
       "title": "CarPlay Is Additive",
@@ -224,13 +224,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-02T19:03:54+00:00"
-    },
-    {
-      "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説",
-      "url": "https://qiita.com/okssusucha/items/d17ac3c49e568266123d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-07-02T21:07:24+09:00"
     }
   ]
 }
