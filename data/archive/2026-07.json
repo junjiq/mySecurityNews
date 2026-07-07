@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-07T19:12:10.012544+00:00",
-  "total_articles": 457,
+  "generated_at": "2026-07-07T20:11:02.493994+00:00",
+  "total_articles": 461,
   "source_counts": {
-    "hn": 371,
+    "hn": 375,
     "zennqiita": 79,
     "project": 7
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "high": 3,
     "medium": 4
   },
@@ -105,6 +105,13 @@
       "date": "2026-07-05T14:56:15+00:00"
     },
     {
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "url": "https://streetcomplete.app/",
+      "score": 547,
+      "source": "hn",
+      "date": "2026-07-07T12:38:35+00:00"
+    },
+    {
       "title": "CarPlay Is Additive",
       "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
       "score": 519,
@@ -124,13 +131,6 @@
       "score": 511,
       "source": "hn",
       "date": "2026-07-03T13:01:49+00:00"
-    },
-    {
-      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "url": "https://streetcomplete.app/",
-      "score": 496,
-      "source": "hn",
-      "date": "2026-07-07T12:38:35+00:00"
     },
     {
       "title": "If you're a button, you have one job",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-07T16:10:44+00:00"
+    },
     {
       "title": "Better Auth is joining Vercel",
       "url": "https://better-auth.com/blog/better-auth-joins-vercel",

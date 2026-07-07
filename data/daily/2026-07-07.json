@@ -1,9 +1,16 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T19:12:09.970290+00:00",
-  "total_articles": 77,
-  "urgent_count": 2,
+  "generated_at": "2026-07-07T20:11:02.447889+00:00",
+  "total_articles": 73,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-07T16:10:44+00:00"
+    },
     {
       "title": "Better Auth is joining Vercel",
       "url": "https://better-auth.com/blog/better-auth-joins-vercel",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 61,
+      "count": 59,
       "top_items": [
         {
           "title": "GLM 5.2 and the coming AI margin collapse",
@@ -43,32 +50,32 @@
         {
           "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
           "url": "https://streetcomplete.app/",
-          "score": 496,
+          "score": 547,
           "source": "hn",
           "severity": null,
           "date": "2026-07-07T12:38:35+00:00"
         },
         {
-          "title": "98% isn't much",
-          "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
-          "score": 386,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-07T12:45:14+00:00"
-        },
-        {
           "title": "Chat Control passed first round in EU Parliament",
           "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-          "score": 372,
+          "score": 420,
           "source": "hn",
           "severity": null,
           "date": "2026-07-07T15:16:15+00:00"
+        },
+        {
+          "title": "Microsoft fire idTech team at Id software",
+          "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+          "score": 386,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-07T15:33:20+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 14,
       "top_items": [
         {
           "title": "Ollama + Continue を使って Mac 上にローカルLLM環境を構築する",
