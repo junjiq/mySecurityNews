@@ -1,25 +1,18 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-07T07:45:36.043713+00:00",
-  "total_articles": 459,
+  "generated_at": "2026-07-07T09:08:02.845697+00:00",
+  "total_articles": 457,
   "source_counts": {
-    "hn": 373,
-    "zennqiita": 78,
-    "project": 8
+    "hn": 361,
+    "zennqiita": 89,
+    "project": 7
   },
   "severity_counts": {
-    "critical": 9,
-    "high": 3,
-    "medium": 5
+    "critical": 7,
+    "high": 4,
+    "medium": 4
   },
   "top_articles": [
-    {
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1526,
-      "source": "hn",
-      "date": "2026-07-02T03:00:15+00:00"
-    },
     {
       "title": "Half-Baked Product",
       "url": "https://weli.dev/blog/half-baked-product/",
@@ -79,9 +72,16 @@
     {
       "title": "Resetting Xbox",
       "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "score": 587,
+      "score": 604,
       "source": "hn",
       "date": "2026-07-06T14:18:23+00:00"
+    },
+    {
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "score": 598,
+      "source": "hn",
+      "date": "2026-07-06T18:23:12+00:00"
     },
     {
       "title": "PeerTube is a free, decentralized and federated video platform",
@@ -98,13 +98,6 @@
       "date": "2026-07-05T14:56:15+00:00"
     },
     {
-      "title": "OpenWrt One – Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 561,
-      "source": "hn",
-      "date": "2026-07-06T18:23:12+00:00"
-    },
-    {
       "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
       "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
       "score": 561,
@@ -117,6 +110,13 @@
       "score": 554,
       "source": "hn",
       "date": "2026-07-02T14:13:26+00:00"
+    },
+    {
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "score": 538,
+      "source": "hn",
+      "date": "2026-07-06T18:55:07+00:00"
     },
     {
       "title": "CarPlay Is Additive",
@@ -168,6 +168,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-07-06T17:35:03+00:00"
+    },
+    {
+      "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
+      "url": "https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-07-06T20:00:39+09:00"
     },
     {
       "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
@@ -224,20 +231,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-07-02T21:07:24+09:00"
-    },
-    {
-      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-02T10:00:27+00:00"
-    },
-    {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-02T02:55:16+00:00"
     }
   ]
 }
