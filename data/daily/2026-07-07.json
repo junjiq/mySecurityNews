@@ -1,7 +1,7 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T06:22:27.537493+00:00",
-  "total_articles": 81,
+  "generated_at": "2026-07-07T07:45:36.000492+00:00",
+  "total_articles": 79,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 72,
+      "count": 71,
       "top_items": [
         {
           "title": "Resetting Xbox",
           "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-          "score": 555,
+          "score": 587,
           "source": "hn",
           "severity": null,
           "date": "2026-07-06T14:18:23+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "OpenWrt One – Open Hardware Router",
           "url": "https://openwrt.org/toh/openwrt/one",
-          "score": 526,
+          "score": 561,
           "source": "hn",
           "severity": null,
           "date": "2026-07-06T18:23:12+00:00"
@@ -43,10 +43,18 @@
         {
           "title": "CoMaps – FOSS Offline Maps",
           "url": "https://www.comaps.app/",
-          "score": 433,
+          "score": 486,
           "source": "hn",
           "severity": null,
           "date": "2026-07-06T18:55:07+00:00"
+        },
+        {
+          "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+          "url": "https://github.com/MaximeRivest/Riddle",
+          "score": 388,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-06T23:00:24+00:00"
         },
         {
           "title": "Real-time map of Great Britain's rail network",
@@ -55,14 +63,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-06T09:38:36+00:00"
-        },
-        {
-          "title": "A global workspace in language models",
-          "url": "https://www.anthropic.com/research/global-workspace",
-          "score": 333,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-06T17:44:08+00:00"
         }
       ]
     },
@@ -109,20 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-07T02:14:53+09:00"
-        }
-      ]
-    },
-    {
-      "category": "注目リリース",
-      "count": 1,
-      "top_items": [
-        {
-          "title": "Nuclei v3.11.0 — v3.11.0",
-          "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.11.0",
-          "score": null,
-          "source": "project",
-          "severity": null,
-          "date": "2026-07-06T07:00:13Z"
         }
       ]
     }
