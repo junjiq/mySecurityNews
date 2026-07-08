@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-07-08T16:10:02.638844+00:00",
+  "updated_at": "2026-07-08T16:59:56.219754+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48833866",
+      "source": "hn",
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "score": 36,
+      "comments": 23,
+      "author": "mekpro",
+      "tags": [],
+      "date": "2026-07-08T16:19:36+00:00"
+    },
+    {
+      "id": "hn-48833823",
+      "source": "hn",
+      "title": "Biohacker seeking immortality afflicted with incurable 'stomach eating' disease",
+      "url": "https://www.lifesitenews.com/news/biohacker-seeking-immortality-afflicted-with-incurable-stomach-eating-disease/",
+      "score": 19,
+      "comments": 1,
+      "author": "ferryth",
+      "tags": [],
+      "date": "2026-07-08T16:16:12+00:00"
+    },
     {
       "id": "hn-48833183",
       "source": "hn",
       "title": "Show HN: Kastor – Terraform-style specs for AI agents",
       "url": "https://github.com/weirdGuy/kastor",
-      "score": 8,
-      "comments": 5,
+      "score": 15,
+      "comments": 12,
       "author": "weirdguy",
       "tags": [],
       "date": "2026-07-08T15:25:09+00:00"
@@ -18,8 +40,8 @@
       "source": "hn",
       "title": "Chatto is now Open Source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 68,
-      "comments": 9,
+      "score": 171,
+      "comments": 32,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-08T15:19:50+00:00",
@@ -30,8 +52,8 @@
       "source": "hn",
       "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
       "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 145,
-      "comments": 27,
+      "score": 206,
+      "comments": 48,
       "author": "ottomengis",
       "tags": [],
       "date": "2026-07-08T14:09:17+00:00"
@@ -52,8 +74,8 @@
       "source": "hn",
       "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-      "score": 103,
-      "comments": 40,
+      "score": 119,
+      "comments": 53,
       "author": "linggen",
       "tags": [],
       "date": "2026-07-08T13:24:52+00:00",
@@ -64,8 +86,8 @@
       "source": "hn",
       "title": "Cloudflare Meerkat - Globally distributed consensus",
       "url": "https://blog.cloudflare.com/meerkat-introduction/",
-      "score": 87,
-      "comments": 15,
+      "score": 118,
+      "comments": 17,
       "author": "bobnamob",
       "tags": [],
       "date": "2026-07-08T13:18:03+00:00"
@@ -86,8 +108,8 @@
       "source": "hn",
       "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
       "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "score": 196,
-      "comments": 150,
+      "score": 215,
+      "comments": 165,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-07-08T11:30:56+00:00"
@@ -119,8 +141,8 @@
       "source": "hn",
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 926,
-      "comments": 166,
+      "score": 1000,
+      "comments": 174,
       "author": "speerer",
       "tags": [],
       "date": "2026-07-08T08:46:06+00:00"
@@ -130,8 +152,8 @@
       "source": "hn",
       "title": "Geosql: A Claude/Codex skill for geospatial data",
       "url": "https://github.com/dekart-xyz/geosql",
-      "score": 80,
-      "comments": 11,
+      "score": 90,
+      "comments": 12,
       "author": "rzk",
       "tags": [],
       "date": "2026-07-08T08:37:26+00:00"
@@ -141,8 +163,8 @@
       "source": "hn",
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
       "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "score": 392,
-      "comments": 156,
+      "score": 420,
+      "comments": 164,
       "author": "ColinEberhardt",
       "tags": [],
       "date": "2026-07-08T05:25:35+00:00"
@@ -163,8 +185,8 @@
       "source": "hn",
       "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
       "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "score": 280,
-      "comments": 195,
+      "score": 285,
+      "comments": 202,
       "author": "4diii",
       "tags": [],
       "date": "2026-07-08T03:59:35+00:00"
@@ -174,8 +196,8 @@
       "source": "hn",
       "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
       "url": "https://www.digipres.org/the-floppy-guide/",
-      "score": 139,
-      "comments": 51,
+      "score": 151,
+      "comments": 56,
       "author": "whiteblossom",
       "tags": [],
       "date": "2026-07-08T03:22:31+00:00"
@@ -257,8 +279,8 @@
       "source": "hn",
       "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
       "url": "https://kb.cert.org/vuls/id/213560",
-      "score": 295,
-      "comments": 102,
+      "score": 305,
+      "comments": 105,
       "author": "miniBill",
       "tags": [],
       "date": "2026-07-08T00:08:51+00:00"
@@ -279,8 +301,8 @@
       "source": "hn",
       "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
       "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-      "score": 273,
-      "comments": 36,
+      "score": 280,
+      "comments": 37,
       "author": "gjvc",
       "tags": [],
       "date": "2026-07-07T23:57:29+00:00"
@@ -314,8 +336,8 @@
       "source": "hn",
       "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
       "url": "https://www.gao.gov/products/gao-26-108193",
-      "score": 248,
-      "comments": 129,
+      "score": 251,
+      "comments": 137,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-07-07T22:23:58+00:00"
@@ -650,8 +672,8 @@
       "source": "hn",
       "title": "Chat Control 1.0 and 2.0 Explained",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 831,
-      "comments": 314,
+      "score": 837,
+      "comments": 318,
       "author": "gasull",
       "tags": [],
       "date": "2026-07-07T14:23:15+00:00"
@@ -1811,8 +1833,8 @@
       "source": "hn",
       "title": "NoiseLang: Where N = 5 is a Dirac delta",
       "url": "https://manualmeida.dev/articles/noiselang/",
-      "score": 65,
-      "comments": 28,
+      "score": 76,
+      "comments": 34,
       "author": "manucorporat",
       "tags": [],
       "date": "2026-07-06T12:40:24+00:00"
@@ -2602,8 +2624,8 @@
       "source": "hn",
       "title": "Every postcard tells a story",
       "url": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
-      "score": 18,
-      "comments": 12,
+      "score": 20,
+      "comments": 18,
       "author": "NaOH",
       "tags": [],
       "date": "2026-07-05T18:14:42+00:00"
@@ -2860,6 +2882,17 @@
       "date": "2026-07-05T13:47:44+00:00"
     },
     {
+      "id": "hn-48794227",
+      "source": "hn",
+      "title": "Catastrophe theory; geniuses and maniacs (2011)",
+      "url": "http://glassbottomblog.blogspot.com/2011/01/catastrophe-theory-geniuses-and-maniacs.html",
+      "score": 7,
+      "comments": 0,
+      "author": "mbustamanter",
+      "tags": [],
+      "date": "2026-07-05T13:35:32+00:00"
+    },
+    {
       "id": "hn-48794179",
       "source": "hn",
       "title": "Phosh 0.56.0",
@@ -3064,8 +3097,8 @@
       "source": "hn",
       "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
-      "score": 83,
-      "comments": 10,
+      "score": 100,
+      "comments": 12,
       "author": "dvh",
       "tags": [],
       "date": "2026-07-05T10:33:45+00:00"
@@ -3683,8 +3716,8 @@
       "source": "hn",
       "title": "Canada's only watchmaking school still ticking after 80 years",
       "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
-      "score": 201,
-      "comments": 114,
+      "score": 214,
+      "comments": 124,
       "author": "throw0101a",
       "tags": [],
       "date": "2026-07-04T16:46:24+00:00"
@@ -3749,8 +3782,8 @@
       "source": "hn",
       "title": "Show HN: Follow London Trains in 3D",
       "url": "https://ride.nexttrain.london/",
-      "score": 40,
-      "comments": 14,
+      "score": 56,
+      "comments": 25,
       "author": "mgranados",
       "tags": [],
       "date": "2026-07-04T16:11:06+00:00"
@@ -4194,8 +4227,8 @@
       "source": "hn",
       "title": "Ants: Who looks after the injured in a colony?",
       "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
-      "score": 71,
-      "comments": 33,
+      "score": 79,
+      "comments": 35,
       "author": "hhs",
       "tags": [],
       "date": "2026-07-03T22:46:23+00:00"
@@ -4326,8 +4359,8 @@
       "source": "hn",
       "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
       "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-      "score": 242,
-      "comments": 79,
+      "score": 254,
+      "comments": 85,
       "author": "Stevvo",
       "tags": [],
       "date": "2026-07-03T21:46:07+00:00",
@@ -5145,43 +5178,6 @@
       "tags": [],
       "date": "2026-07-03T08:31:37+00:00",
       "severity": "critical"
-    },
-    {
-      "id": "hn-48772388",
-      "source": "hn",
-      "title": "Half-Baked Product",
-      "url": "https://weli.dev/blog/half-baked-product/",
-      "score": 1176,
-      "comments": 361,
-      "author": "weli",
-      "tags": [],
-      "date": "2026-07-03T08:23:32+00:00"
-    },
-    {
-      "id": "qiita-478f601c3f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AWS Summit 2026 参加レポート（少し遅め）",
-      "url": "https://qiita.com/Seria_GovCloud/items/a4b65334ea45ceff4a24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Seria_GovCloud",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-03T16:43:57+09:00"
-    },
-    {
-      "id": "qiita-cbcce2cd8a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AI時代のコードレビューUI。CodeRabbit Reviewの機能と使い方",
-      "url": "https://qiita.com/goofmint/items/ed4aad3960dfed58f4aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "goofmint",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-03T15:49:12+09:00"
     },
     {
       "id": "ctf-4048944",
