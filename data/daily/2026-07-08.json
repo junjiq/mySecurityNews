@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T12:02:19.942907+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-07-08T13:01:50.707958+00:00",
+  "total_articles": 54,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,20 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 48,
       "top_items": [
-        {
-          "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-          "url": "https://streetcomplete.app/",
-          "score": 724,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-07T12:38:35+00:00"
-        },
         {
           "title": "Chat Control 1.0 and 2.0 Explained",
           "url": "https://fightchatcontrol.eu/chat-control-overview",
-          "score": 706,
+          "score": 736,
           "source": "hn",
           "severity": null,
           "date": "2026-07-07T14:23:15+00:00"
@@ -51,10 +43,18 @@
         {
           "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
           "url": "https://30papers.com/",
-          "score": 549,
+          "score": 568,
           "source": "hn",
           "severity": null,
           "date": "2026-07-07T15:58:13+00:00"
+        },
+        {
+          "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+          "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+          "score": 526,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-08T08:46:06+00:00"
         },
         {
           "title": "Chat Control passed first round in EU Parliament",
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 6,
       "top_items": [
         {
           "title": "【AgentCore】Runtime をパブリックにデプロイしたけど、勝手にアクセスされない？",
