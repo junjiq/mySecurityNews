@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-08T14:16:08.031158+00:00",
+  "updated_at": "2026-07-08T15:16:53.490943+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48832212",
+      "source": "hn",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "score": 66,
+      "comments": 5,
+      "author": "ottomengis",
+      "tags": [],
+      "date": "2026-07-08T14:09:17+00:00"
+    },
     {
       "id": "hn-48831785",
       "source": "hn",
@@ -12,6 +23,29 @@
       "author": "randycupertino",
       "tags": [],
       "date": "2026-07-08T13:35:59+00:00"
+    },
+    {
+      "id": "hn-48831658",
+      "source": "hn",
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "score": 41,
+      "comments": 12,
+      "author": "linggen",
+      "tags": [],
+      "date": "2026-07-08T13:24:52+00:00",
+      "severity": "high"
+    },
+    {
+      "id": "hn-48831565",
+      "source": "hn",
+      "title": "Cloudflare Meerkat - Globally distributed consensus",
+      "url": "https://blog.cloudflare.com/meerkat-introduction/",
+      "score": 60,
+      "comments": 7,
+      "author": "bobnamob",
+      "tags": [],
+      "date": "2026-07-08T13:18:03+00:00"
     },
     {
       "id": "hn-48831499",
@@ -29,8 +63,8 @@
       "source": "hn",
       "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
       "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "score": 126,
-      "comments": 80,
+      "score": 167,
+      "comments": 128,
       "author": "soheilpro",
       "tags": [],
       "date": "2026-07-08T11:30:56+00:00"
@@ -62,8 +96,8 @@
       "source": "hn",
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 710,
-      "comments": 133,
+      "score": 858,
+      "comments": 154,
       "author": "speerer",
       "tags": [],
       "date": "2026-07-08T08:46:06+00:00"
@@ -73,8 +107,8 @@
       "source": "hn",
       "title": "Geosql: A Claude/Codex skill for geospatial data",
       "url": "https://github.com/dekart-xyz/geosql",
-      "score": 62,
-      "comments": 9,
+      "score": 77,
+      "comments": 10,
       "author": "rzk",
       "tags": [],
       "date": "2026-07-08T08:37:26+00:00"
@@ -84,8 +118,8 @@
       "source": "hn",
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
       "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "score": 332,
-      "comments": 137,
+      "score": 368,
+      "comments": 145,
       "author": "ColinEberhardt",
       "tags": [],
       "date": "2026-07-08T05:25:35+00:00"
@@ -106,8 +140,8 @@
       "source": "hn",
       "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
       "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "score": 252,
-      "comments": 170,
+      "score": 272,
+      "comments": 183,
       "author": "4diii",
       "tags": [],
       "date": "2026-07-08T03:59:35+00:00"
@@ -117,8 +151,8 @@
       "source": "hn",
       "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
       "url": "https://www.digipres.org/the-floppy-guide/",
-      "score": 121,
-      "comments": 38,
+      "score": 129,
+      "comments": 42,
       "author": "whiteblossom",
       "tags": [],
       "date": "2026-07-08T03:22:31+00:00"
@@ -141,8 +175,8 @@
       "source": "hn",
       "title": "LineageOS Statistics",
       "url": "https://stats.lineageos.org",
-      "score": 146,
-      "comments": 83,
+      "score": 158,
+      "comments": 88,
       "author": "pentagrama",
       "tags": [],
       "date": "2026-07-08T01:27:39+00:00"
@@ -200,8 +234,8 @@
       "source": "hn",
       "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
       "url": "https://kb.cert.org/vuls/id/213560",
-      "score": 277,
-      "comments": 93,
+      "score": 290,
+      "comments": 100,
       "author": "miniBill",
       "tags": [],
       "date": "2026-07-08T00:08:51+00:00"
@@ -222,8 +256,8 @@
       "source": "hn",
       "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
       "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-      "score": 217,
-      "comments": 29,
+      "score": 235,
+      "comments": 34,
       "author": "gjvc",
       "tags": [],
       "date": "2026-07-07T23:57:29+00:00"
@@ -257,8 +291,8 @@
       "source": "hn",
       "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
       "url": "https://www.gao.gov/products/gao-26-108193",
-      "score": 234,
-      "comments": 110,
+      "score": 243,
+      "comments": 116,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-07-07T22:23:58+00:00"
@@ -334,8 +368,8 @@
       "source": "hn",
       "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
       "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-      "score": 451,
-      "comments": 86,
+      "score": 462,
+      "comments": 88,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-07T18:24:10+00:00"
@@ -593,7 +627,7 @@
       "source": "hn",
       "title": "Chat Control 1.0 and 2.0 Explained",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 758,
+      "score": 787,
       "comments": 308,
       "author": "gasull",
       "tags": [],
@@ -1754,8 +1788,8 @@
       "source": "hn",
       "title": "NoiseLang: Where N = 5 is a Dirac delta",
       "url": "https://manualmeida.dev/articles/noiselang/",
-      "score": 37,
-      "comments": 20,
+      "score": 55,
+      "comments": 24,
       "author": "manucorporat",
       "tags": [],
       "date": "2026-07-06T12:40:24+00:00"
@@ -2866,8 +2900,8 @@
       "source": "hn",
       "title": "Home made GPU escalated quickly [video]",
       "url": "https://www.youtube.com/watch?v=qMR3IXF2sWw",
-      "score": 97,
-      "comments": 31,
+      "score": 114,
+      "comments": 36,
       "author": "erichocean",
       "tags": [],
       "date": "2026-07-05T12:39:08+00:00"
@@ -3007,8 +3041,8 @@
       "source": "hn",
       "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
-      "score": 30,
-      "comments": 4,
+      "score": 47,
+      "comments": 9,
       "author": "dvh",
       "tags": [],
       "date": "2026-07-05T10:33:45+00:00"
@@ -3626,8 +3660,8 @@
       "source": "hn",
       "title": "Canada's only watchmaking school still ticking after 80 years",
       "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
-      "score": 181,
-      "comments": 93,
+      "score": 188,
+      "comments": 103,
       "author": "throw0101a",
       "tags": [],
       "date": "2026-07-04T16:46:24+00:00"
@@ -3686,6 +3720,17 @@
       "author": "toilet",
       "tags": [],
       "date": "2026-07-04T16:15:48+00:00"
+    },
+    {
+      "id": "hn-48786455",
+      "source": "hn",
+      "title": "Show HN: Follow London Trains in 3D",
+      "url": "https://ride.nexttrain.london/",
+      "score": 20,
+      "comments": 7,
+      "author": "mgranados",
+      "tags": [],
+      "date": "2026-07-04T16:11:06+00:00"
     },
     {
       "id": "hn-48786284",
@@ -4126,8 +4171,8 @@
       "source": "hn",
       "title": "Ants: Who looks after the injured in a colony?",
       "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
-      "score": 56,
-      "comments": 25,
+      "score": 61,
+      "comments": 27,
       "author": "hhs",
       "tags": [],
       "date": "2026-07-03T22:46:23+00:00"
@@ -4258,8 +4303,8 @@
       "source": "hn",
       "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
       "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-      "score": 157,
-      "comments": 45,
+      "score": 196,
+      "comments": 66,
       "author": "Stevvo",
       "tags": [],
       "date": "2026-07-03T21:46:07+00:00",
@@ -5116,58 +5161,12 @@
       "date": "2026-07-03T15:49:12+09:00"
     },
     {
-      "id": "hn-48771200",
-      "source": "hn",
-      "title": "First Principles of Model Routing",
-      "url": "https://try.works/first-principles-of-model-routing",
-      "score": 27,
-      "comments": 12,
-      "author": "try-working",
-      "tags": [],
-      "date": "2026-07-03T05:36:12+00:00"
-    },
-    {
-      "id": "hn-48770677",
-      "source": "hn",
-      "title": "Wasmer: Fast, secure, lightweight containers based on WebAssembly",
-      "url": "https://wasmer.io/",
-      "score": 3,
-      "comments": 0,
-      "author": "handfuloflight",
-      "tags": [],
-      "date": "2026-07-03T04:22:41+00:00"
-    },
-    {
-      "id": "hn-48770647",
-      "source": "hn",
-      "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
-      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-      "score": 435,
-      "comments": 262,
-      "author": "talonx",
-      "tags": [],
-      "date": "2026-07-03T04:16:17+00:00"
-    },
-    {
-      "id": "qiita-c6a4945ad8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "IT界でもbeat itを奏でるマイケルジャクソン🕺",
-      "url": "https://qiita.com/kaichan_dot/items/29d0428e7d49be4d0d24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kaichan_dot",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-03T13:11:52+09:00"
-    },
-    {
       "id": "hn-48761868",
       "source": "hn",
       "title": "The difference between \"today's task\" and \"accretive work\"",
       "url": "https://pluralistic.net/2026/07/02/canonization/",
-      "score": 88,
-      "comments": 50,
+      "score": 102,
+      "comments": 56,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-07-02T14:07:56+00:00"
@@ -5205,8 +5204,8 @@
       "source": "hn",
       "title": "Herdr: One terminal to rule them all",
       "url": "https://herdr.dev/",
-      "score": 334,
-      "comments": 142,
+      "score": 351,
+      "comments": 145,
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-07-02T04:28:39+00:00"

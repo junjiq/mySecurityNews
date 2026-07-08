@@ -1,15 +1,15 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-08T14:16:08.140232+00:00",
+  "generated_at": "2026-07-08T15:16:53.607123+00:00",
   "total_articles": 457,
   "source_counts": {
-    "hn": 363,
-    "zennqiita": 87,
+    "hn": 364,
+    "zennqiita": 86,
     "project": 7
   },
   "severity_counts": {
+    "high": 4,
     "critical": 8,
-    "high": 3,
     "medium": 4
   },
   "top_articles": [
@@ -35,18 +35,25 @@
       "date": "2026-07-05T21:03:06+00:00"
     },
     {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "score": 858,
+      "source": "hn",
+      "date": "2026-07-08T08:46:06+00:00"
+    },
+    {
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "score": 787,
+      "source": "hn",
+      "date": "2026-07-07T14:23:15+00:00"
+    },
+    {
       "title": "OpenWrt One – Open Hardware Router",
       "url": "https://openwrt.org/toh/openwrt/one",
       "score": 783,
       "source": "hn",
       "date": "2026-07-06T18:23:12+00:00"
-    },
-    {
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 758,
-      "source": "hn",
-      "date": "2026-07-07T14:23:15+00:00"
     },
     {
       "title": "CoMaps – FOSS Offline Maps",
@@ -68,13 +75,6 @@
       "score": 724,
       "source": "hn",
       "date": "2026-07-07T12:38:35+00:00"
-    },
-    {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 710,
-      "source": "hn",
-      "date": "2026-07-08T08:46:06+00:00"
     },
     {
       "title": "Resetting Xbox",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-08T13:24:52+00:00"
+    },
     {
       "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
       "url": "https://github.com/rowboatlabs/rowboat",
