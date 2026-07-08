@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T20:29:40.619193+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-07-08T20:54:44.752764+00:00",
+  "total_articles": 51,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,28 +22,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 40,
       "top_items": [
         {
           "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
           "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-          "score": 1164,
+          "score": 1184,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T08:46:06+00:00"
         },
         {
-          "title": "Every new car sold in the European Union must include a driver monitoring camera",
-          "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-          "score": 630,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-07T20:50:46+00:00"
-        },
-        {
           "title": "Chatto is now Open Source",
           "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-          "score": 480,
+          "score": 520,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-08T15:19:50+00:00"
@@ -51,7 +43,7 @@
         {
           "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
           "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-          "score": 478,
+          "score": 482,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T05:25:35+00:00"
@@ -59,10 +51,18 @@
         {
           "title": "GPT‑Live",
           "url": "https://openai.com/index/introducing-gpt-live/",
-          "score": 446,
+          "score": 468,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T17:03:19+00:00"
+        },
+        {
+          "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+          "url": "https://mistral.ai/news/robostral-navigate/",
+          "score": 345,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-08T14:09:17+00:00"
         }
       ]
     },
