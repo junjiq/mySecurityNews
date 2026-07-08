@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-08T22:22:29.707727+00:00",
+  "generated_at": "2026-07-08T22:49:26.146525+00:00",
   "total_articles": 457,
   "source_counts": {
     "hn": 367,
@@ -8,7 +8,7 @@
     "project": 7
   },
   "severity_counts": {
-    "critical": 7,
+    "critical": 8,
     "high": 4,
     "medium": 4
   },
@@ -16,7 +16,7 @@
     {
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1229,
+      "score": 1244,
       "source": "hn",
       "date": "2026-07-08T08:46:06+00:00"
     },
@@ -91,6 +91,13 @@
       "date": "2026-07-04T16:45:10+00:00"
     },
     {
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "score": 623,
+      "source": "hn",
+      "date": "2026-07-08T15:19:50+00:00"
+    },
+    {
       "title": "GLM 5.2 and the coming AI margin collapse",
       "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
       "score": 622,
@@ -103,13 +110,6 @@
       "score": 621,
       "source": "hn",
       "date": "2026-07-04T19:41:10+00:00"
-    },
-    {
-      "title": "Chatto is now open source",
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 606,
-      "source": "hn",
-      "date": "2026-07-08T15:19:50+00:00"
     },
     {
       "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
@@ -135,7 +135,7 @@
     {
       "title": "GPT‑Live",
       "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 528,
+      "score": 541,
       "source": "hn",
       "date": "2026-07-08T17:03:19+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Open Source Barware: free, local-first bar inventory software (GPLv3)",
+      "url": "https://opensourcebarware.com",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-08T21:43:07+00:00"
+    },
     {
       "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
