@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-08T15:16:53.607123+00:00",
+  "generated_at": "2026-07-08T16:10:02.719378+00:00",
   "total_articles": 457,
   "source_counts": {
     "hn": 364,
@@ -8,8 +8,8 @@
     "project": 7
   },
   "severity_counts": {
+    "critical": 9,
     "high": 4,
-    "critical": 8,
     "medium": 4
   },
   "top_articles": [
@@ -37,14 +37,14 @@
     {
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 858,
+      "score": 926,
       "source": "hn",
       "date": "2026-07-08T08:46:06+00:00"
     },
     {
       "title": "Chat Control 1.0 and 2.0 Explained",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 787,
+      "score": 831,
       "source": "hn",
       "date": "2026-07-07T14:23:15+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Chatto is now Open Source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-08T15:19:50+00:00"
+    },
     {
       "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",

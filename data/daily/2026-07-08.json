@@ -1,22 +1,22 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T15:16:53.557851+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-07-08T16:10:02.687545+00:00",
+  "total_articles": 47,
   "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Chatto is now Open Source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-08T15:19:50+00:00"
+    },
     {
       "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
       "url": "https://github.com/rowboatlabs/rowboat",
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-07T16:10:44+00:00"
-    },
-    {
-      "title": "Better Auth is joining Vercel",
-      "url": "https://better-auth.com/blog/better-auth-joins-vercel",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-07T15:52:22+00:00"
     },
     {
       "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 42,
       "top_items": [
         {
           "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
           "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-          "score": 858,
+          "score": 926,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T08:46:06+00:00"
@@ -48,28 +48,28 @@
           "date": "2026-07-07T20:50:46+00:00"
         },
         {
-          "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-          "url": "https://30papers.com/",
-          "score": 582,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-07T15:58:13+00:00"
-        },
-        {
-          "title": "Microsoft fire idTech team at Id software",
-          "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
-          "score": 508,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-07T15:33:20+00:00"
-        },
-        {
           "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
           "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-          "score": 462,
+          "score": 475,
           "source": "hn",
           "severity": null,
           "date": "2026-07-07T18:24:10+00:00"
+        },
+        {
+          "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+          "score": 392,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-08T05:25:35+00:00"
+        },
+        {
+          "title": "Show HN: Davit, a Apple Containers UI",
+          "url": "https://davit.app",
+          "score": 343,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-07T18:44:29+00:00"
         }
       ]
     },
