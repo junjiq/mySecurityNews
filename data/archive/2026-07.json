@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-08T16:59:56.330628+00:00",
+  "generated_at": "2026-07-08T17:37:51.463741+00:00",
   "total_articles": 457,
   "source_counts": {
     "hn": 366,
@@ -8,7 +8,7 @@
     "project": 7
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 8,
     "high": 4,
     "medium": 4
   },
@@ -30,14 +30,14 @@
     {
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1000,
+      "score": 1036,
       "source": "hn",
       "date": "2026-07-08T08:46:06+00:00"
     },
     {
       "title": "Chat Control 1.0 and 2.0 Explained",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 837,
+      "score": 847,
       "source": "hn",
       "date": "2026-07-07T14:23:15+00:00"
     },
@@ -238,13 +238,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-03T13:01:49+00:00"
-    },
-    {
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-03T08:31:37+00:00"
     }
   ]
 }
