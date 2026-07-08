@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-07-08T01:35:10.135298+00:00",
+  "updated_at": "2026-07-08T03:04:33.808879+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-c4c53749c4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AgentCore】Runtime をパブリックにデプロイしたけど、勝手にアクセスされない？",
+      "url": "https://qiita.com/ryu-ki/items/2cd37256824b54022bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryu-ki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-08T11:20:01+09:00"
+    },
     {
       "id": "hn-48826094",
       "source": "hn",
       "title": "Show HN: Chiptune Radio",
       "url": "https://chiptune-radio.alephvoid.com/",
-      "score": 5,
-      "comments": 1,
+      "score": 21,
+      "comments": 4,
       "author": "bootbloopers",
       "tags": [],
       "date": "2026-07-08T00:55:19+00:00"
@@ -18,8 +31,8 @@
       "source": "hn",
       "title": "An interactive explorer for Benford's Law across real datasets",
       "url": "https://vatsalbakshi.com/blog/benfords-law/",
-      "score": 9,
-      "comments": 1,
+      "score": 19,
+      "comments": 6,
       "author": "dingobabies",
       "tags": [],
       "date": "2026-07-08T00:18:39+00:00"
@@ -38,12 +51,23 @@
       "date": "2026-07-08T09:17:56+09:00"
     },
     {
+      "id": "hn-48825749",
+      "source": "hn",
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "score": 48,
+      "comments": 9,
+      "author": "miniBill",
+      "tags": [],
+      "date": "2026-07-08T00:08:51+00:00"
+    },
+    {
       "id": "hn-48825745",
       "source": "hn",
       "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
       "url": "https://github.com/tiliondev/fortress",
-      "score": 14,
-      "comments": 5,
+      "score": 29,
+      "comments": 25,
       "author": "arhamshahrier",
       "tags": [],
       "date": "2026-07-08T00:08:21+00:00"
@@ -51,10 +75,10 @@
     {
       "id": "hn-48825664",
       "source": "hn",
-      "title": "Structure and Interpretation of Computer Programs Video Lectures",
+      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
       "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-      "score": 14,
-      "comments": 0,
+      "score": 47,
+      "comments": 1,
       "author": "gjvc",
       "tags": [],
       "date": "2026-07-07T23:57:29+00:00"
@@ -75,8 +99,8 @@
       "source": "hn",
       "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
       "url": "https://www.gao.gov/products/gao-26-108193",
-      "score": 83,
-      "comments": 27,
+      "score": 128,
+      "comments": 51,
       "author": "Jimmc414",
       "tags": [],
       "date": "2026-07-07T22:23:58+00:00"
@@ -86,8 +110,8 @@
       "source": "hn",
       "title": "Every new car sold in the European Union must include a driver monitoring camera",
       "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-      "score": 422,
-      "comments": 554,
+      "score": 456,
+      "comments": 606,
       "author": "nickslaughter02",
       "tags": [],
       "date": "2026-07-07T20:50:46+00:00"
@@ -108,8 +132,8 @@
       "source": "hn",
       "title": "Show HN: Davit, a Apple Containers UI",
       "url": "https://davit.app",
-      "score": 189,
-      "comments": 43,
+      "score": 217,
+      "comments": 49,
       "author": "xinit",
       "tags": [],
       "date": "2026-07-07T18:44:29+00:00"
@@ -119,7 +143,7 @@
       "source": "hn",
       "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
       "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-      "score": 77,
+      "score": 88,
       "comments": 9,
       "author": "duha",
       "tags": [],
@@ -152,8 +176,8 @@
       "source": "hn",
       "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
       "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-      "score": 286,
-      "comments": 66,
+      "score": 312,
+      "comments": 70,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-07T18:24:10+00:00"
@@ -174,8 +198,8 @@
       "source": "hn",
       "title": "Notes on Software Quality",
       "url": "https://anthonyhobday.com/blog/20260410",
-      "score": 77,
-      "comments": 43,
+      "score": 87,
+      "comments": 45,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-07T18:14:50+00:00"
@@ -185,11 +209,22 @@
       "source": "hn",
       "title": "l: A new runtime for k and q",
       "url": "https://lv1.sh/",
-      "score": 103,
-      "comments": 60,
+      "score": 111,
+      "comments": 63,
       "author": "skruger",
       "tags": [],
       "date": "2026-07-07T18:08:29+00:00"
+    },
+    {
+      "id": "hn-48821102",
+      "source": "hn",
+      "title": "We're extending access to Fable 5 on all paid plans through July 12",
+      "url": "https://twitter.com/claudeai/status/2074548242386178258",
+      "score": 62,
+      "comments": 48,
+      "author": "minimaxir",
+      "tags": [],
+      "date": "2026-07-07T17:44:50+00:00"
     },
     {
       "id": "hn-48820274",
@@ -229,8 +264,8 @@
       "source": "hn",
       "title": "Jim's TrueType QR Code Font",
       "url": "https://github.com/jimparis/qr-font",
-      "score": 130,
-      "comments": 20,
+      "score": 140,
+      "comments": 21,
       "author": "arantius",
       "tags": [],
       "date": "2026-07-07T16:30:42+00:00"
@@ -275,8 +310,8 @@
       "source": "hn",
       "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
       "url": "https://github.com/rowboatlabs/rowboat",
-      "score": 92,
-      "comments": 25,
+      "score": 106,
+      "comments": 27,
       "author": "segmenta",
       "tags": [],
       "date": "2026-07-07T16:10:44+00:00",
@@ -287,8 +322,8 @@
       "source": "hn",
       "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
       "url": "https://30papers.com/",
-      "score": 351,
-      "comments": 60,
+      "score": 387,
+      "comments": 63,
       "author": "notmcrowley",
       "tags": [],
       "date": "2026-07-07T15:58:13+00:00"
@@ -387,8 +422,8 @@
       "source": "hn",
       "title": "Chat Control 1.0 and 2.0 Explained",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 434,
-      "comments": 145,
+      "score": 467,
+      "comments": 151,
       "author": "gasull",
       "tags": [],
       "date": "2026-07-07T14:23:15+00:00"
@@ -453,8 +488,8 @@
       "source": "hn",
       "title": "A better way to tie gym shorts (or any drawstring) [video]",
       "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-      "score": 453,
-      "comments": 163,
+      "score": 470,
+      "comments": 168,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-07T12:45:06+00:00"
@@ -488,8 +523,8 @@
       "source": "hn",
       "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
       "url": "https://streetcomplete.app/",
-      "score": 689,
-      "comments": 170,
+      "score": 710,
+      "comments": 171,
       "author": "kls0e",
       "tags": [],
       "date": "2026-07-07T12:38:35+00:00"
@@ -748,19 +783,6 @@
         "Qiita"
       ],
       "date": "2026-07-07T10:56:00+09:00"
-    },
-    {
-      "id": "qiita-c4c53749c4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AgentCore】Runtime をパブリックにデプロイしたけど、勝手にアクセスされない？",
-      "url": "https://qiita.com/ryu-ki/items/2cd37256824b54022bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryu-ki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-07T10:10:44+09:00"
     },
     {
       "id": "hn-48812450",
@@ -2545,6 +2567,17 @@
       "date": "2026-07-05T22:25:15+09:00"
     },
     {
+      "id": "hn-48794049",
+      "source": "hn",
+      "title": "Scheme Is a Hoot",
+      "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
+      "score": 36,
+      "comments": 4,
+      "author": "signa11",
+      "tags": [],
+      "date": "2026-07-05T13:12:19+00:00"
+    },
+    {
       "id": "qiita-3ab290a6ed",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -3289,8 +3322,8 @@
       "source": "hn",
       "title": "Canada's only watchmaking school still ticking after 80 years",
       "url": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
-      "score": 14,
-      "comments": 0,
+      "score": 49,
+      "comments": 8,
       "author": "throw0101a",
       "tags": [],
       "date": "2026-07-04T16:46:24+00:00"
@@ -4749,8 +4782,8 @@
       "source": "hn",
       "title": "First Principles of Model Routing",
       "url": "https://try.works/first-principles-of-model-routing",
-      "score": 18,
-      "comments": 10,
+      "score": 27,
+      "comments": 12,
       "author": "try-working",
       "tags": [],
       "date": "2026-07-03T05:36:12+00:00"
@@ -5120,39 +5153,6 @@
       "date": "2026-07-02T19:57:43+00:00"
     },
     {
-      "id": "hn-48766456",
-      "source": "hn",
-      "title": "We Always Leave Things Unfinished",
-      "url": "https://bigreaderbadgrades.substack.com/p/we-always-leave-things-unfinished",
-      "score": 29,
-      "comments": 2,
-      "author": "bryanrasmussen",
-      "tags": [],
-      "date": "2026-07-02T19:50:08+00:00"
-    },
-    {
-      "id": "hn-48766297",
-      "source": "hn",
-      "title": "Wireless LAN SD",
-      "url": "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/",
-      "score": 27,
-      "comments": 23,
-      "author": "sharpshadow",
-      "tags": [],
-      "date": "2026-07-02T19:35:20+00:00"
-    },
-    {
-      "id": "hn-48766286",
-      "source": "hn",
-      "title": "Great Salt Lake Tracker – Grow the Flow",
-      "url": "https://growtheflowutah.org/laketracker/",
-      "score": 97,
-      "comments": 37,
-      "author": "cfowles",
-      "tags": [],
-      "date": "2026-07-02T19:33:55+00:00"
-    },
-    {
       "id": "ctf-4048944",
       "source": "project",
       "proj_category": "CTF",
@@ -5185,8 +5185,8 @@
       "source": "hn",
       "title": "Herdr: One terminal to rule them all",
       "url": "https://herdr.dev/",
-      "score": 148,
-      "comments": 83,
+      "score": 173,
+      "comments": 94,
       "author": "handfuloflight",
       "tags": [],
       "date": "2026-07-02T04:28:39+00:00"
@@ -5224,7 +5224,7 @@
       "source": "hn",
       "title": "IEEE Rolls Out Large Language Models Training Course",
       "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
-      "score": 34,
+      "score": 43,
       "comments": 7,
       "author": "JeanKage",
       "tags": [],
