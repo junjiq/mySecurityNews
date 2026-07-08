@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T18:31:09.885463+00:00",
-  "total_articles": 41,
+  "generated_at": "2026-07-08T19:31:24.664123+00:00",
+  "total_articles": 40,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 37,
+      "count": 36,
       "top_items": [
         {
           "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
           "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-          "score": 1086,
+          "score": 1131,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T08:46:06+00:00"
@@ -43,26 +43,26 @@
         {
           "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
           "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-          "score": 457,
+          "score": 470,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T05:25:35+00:00"
         },
         {
-          "title": "Show HN: Davit, a Apple Containers UI",
-          "url": "https://davit.app",
-          "score": 343,
+          "title": "Chatto is now Open Source",
+          "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+          "score": 411,
           "source": "hn",
-          "severity": null,
-          "date": "2026-07-07T18:44:29+00:00"
+          "severity": "critical",
+          "date": "2026-07-08T15:19:50+00:00"
         },
         {
-          "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-          "url": "https://kb.cert.org/vuls/id/213560",
-          "score": 322,
+          "title": "GPT‑Live",
+          "url": "https://openai.com/index/introducing-gpt-live/",
+          "score": 376,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-08T00:08:51+00:00"
+          "date": "2026-07-08T17:03:19+00:00"
         }
       ]
     },
