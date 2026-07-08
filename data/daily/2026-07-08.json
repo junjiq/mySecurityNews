@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T07:02:05.485769+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-07-08T08:17:16.774925+00:00",
+  "total_articles": 63,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 54,
       "top_items": [
         {
           "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
@@ -35,7 +35,7 @@
         {
           "title": "Chat Control 1.0 and 2.0 Explained",
           "url": "https://fightchatcontrol.eu/chat-control-overview",
-          "score": 572,
+          "score": 614,
           "source": "hn",
           "severity": null,
           "date": "2026-07-07T14:23:15+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "Every new car sold in the European Union must include a driver monitoring camera",
           "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-          "score": 553,
+          "score": 597,
           "source": "hn",
           "severity": null,
           "date": "2026-07-07T20:50:46+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 9,
       "top_items": [
         {
           "title": "【AgentCore】Runtime をパブリックにデプロイしたけど、勝手にアクセスされない？",
@@ -79,6 +79,14 @@
           "date": "2026-07-08T11:20:01+09:00"
         },
         {
+          "title": "未経験からエンジニアを目指す方へ。「早く独立したい」と焦っていた頃の話",
+          "url": "https://qiita.com/masa20057/items/daef8174d2f43485371f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-08T10:26:24+09:00"
+        },
+        {
           "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
           "url": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
@@ -87,28 +95,20 @@
           "date": "2026-07-08T09:17:56+09:00"
         },
         {
+          "title": "LambdaからS3 Filesを使った時の読み書き速度を検証してみた",
+          "url": "https://qiita.com/ry-harada/items/dc52d546c0c52c84b866?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-08T07:47:44+09:00"
+        },
+        {
           "title": "Ollama + Continue を使って Mac 上にローカルLLM環境を構築する",
           "url": "https://qiita.com/hcrane/items/10c2d3c83ee6bae6a64a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-08T01:30:22+09:00"
-        },
-        {
-          "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？",
-          "url": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-07T21:40:05+09:00"
-        },
-        {
-          "title": "Oracle Data Science Agentとは？Autonomous AI Database内で会話しながら機械学習をする",
-          "url": "https://qiita.com/yushibats/items/fec8a11273f898dcab8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-07T17:25:28+09:00"
         }
       ]
     }
