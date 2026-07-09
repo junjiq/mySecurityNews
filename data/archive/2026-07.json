@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-09T09:12:05.801032+00:00",
+  "generated_at": "2026-07-09T10:34:33.645679+00:00",
   "total_articles": 457,
   "source_counts": {
     "hn": 357,
@@ -10,13 +10,13 @@
   "severity_counts": {
     "critical": 8,
     "high": 4,
-    "medium": 5
+    "medium": 4
   },
   "top_articles": [
     {
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1374,
+      "score": 1380,
       "source": "hn",
       "date": "2026-07-08T08:46:06+00:00"
     },
@@ -37,9 +37,16 @@
     {
       "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 958,
+      "score": 977,
       "source": "hn",
       "date": "2026-07-08T15:19:50+00:00"
+    },
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "score": 860,
+      "source": "hn",
+      "date": "2026-07-08T23:37:43+00:00"
     },
     {
       "title": "Chat Control 1.0 and 2.0 Explained",
@@ -47,13 +54,6 @@
       "score": 847,
       "source": "hn",
       "date": "2026-07-07T14:23:15+00:00"
-    },
-    {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 788,
-      "source": "hn",
-      "date": "2026-07-08T23:37:43+00:00"
     },
     {
       "title": "OpenWrt One – Open Hardware Router",
@@ -98,6 +98,13 @@
       "date": "2026-07-06T14:18:23+00:00"
     },
     {
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "score": 646,
+      "source": "hn",
+      "date": "2026-07-08T18:00:32+00:00"
+    },
+    {
       "title": "Every new car sold in the European Union must include a driver monitoring camera",
       "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
       "score": 630,
@@ -110,13 +117,6 @@
       "score": 627,
       "source": "hn",
       "date": "2026-07-04T16:45:10+00:00"
-    },
-    {
-      "title": "Grok 4.5",
-      "url": "https://x.ai/news/grok-4-5",
-      "score": 623,
-      "source": "hn",
-      "date": "2026-07-08T18:00:32+00:00"
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
@@ -133,6 +133,13 @@
       "date": "2026-07-04T19:41:10+00:00"
     },
     {
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "score": 612,
+      "source": "hn",
+      "date": "2026-07-08T21:49:59+00:00"
+    },
+    {
       "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
       "url": "https://github.com/MaximeRivest/Riddle",
       "score": 589,
@@ -145,13 +152,6 @@
       "score": 582,
       "source": "hn",
       "date": "2026-07-07T15:58:13+00:00"
-    },
-    {
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "score": 567,
-      "source": "hn",
-      "date": "2026-07-05T14:56:15+00:00"
     }
   ],
   "security_highlights": [
