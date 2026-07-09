@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-09T19:03:23.621842+00:00",
+  "generated_at": "2026-07-09T20:06:55.410801+00:00",
   "total_articles": 457,
   "source_counts": {
-    "hn": 365,
-    "zennqiita": 85,
+    "hn": 366,
+    "zennqiita": 84,
     "project": 7
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "high": 4,
     "medium": 3
   },
@@ -77,6 +77,13 @@
       "date": "2026-07-07T12:38:35+00:00"
     },
     {
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "score": 720,
+      "source": "hn",
+      "date": "2026-07-09T11:03:54+00:00"
+    },
+    {
       "title": "Grok 4.5",
       "url": "https://x.ai/news/grok-4-5",
       "score": 708,
@@ -89,6 +96,13 @@
       "score": 698,
       "source": "hn",
       "date": "2026-07-08T17:03:19+00:00"
+    },
+    {
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "score": 690,
+      "source": "hn",
+      "date": "2026-07-09T17:04:14+00:00"
     },
     {
       "title": "Resetting Xbox",
@@ -105,16 +119,9 @@
       "date": "2026-07-08T21:49:59+00:00"
     },
     {
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 657,
-      "source": "hn",
-      "date": "2026-07-09T11:03:54+00:00"
-    },
-    {
       "title": "Show HN: 18 Words",
       "url": "https://18words.com/",
-      "score": 637,
+      "score": 672,
       "source": "hn",
       "date": "2026-07-09T12:48:52+00:00"
     },
@@ -145,16 +152,16 @@
       "score": 621,
       "source": "hn",
       "date": "2026-07-04T19:41:10+00:00"
-    },
-    {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "score": 589,
-      "source": "hn",
-      "date": "2026-07-06T23:00:24+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
+      "url": "https://kastra.ai/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-09T15:26:24+00:00"
+    },
     {
       "title": "PostHog Open Sourced",
       "url": "https://github.com/PostHog/posthog-foss",
