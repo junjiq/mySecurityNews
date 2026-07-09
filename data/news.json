@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-07-09T00:35:59.008478+00:00",
+  "updated_at": "2026-07-09T01:35:37.516022+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48839751",
+      "source": "hn",
+      "title": "Rewriting Bun in Rust",
+      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
+      "score": 4,
+      "comments": 1,
+      "author": "doppp",
+      "tags": [],
+      "date": "2026-07-09T01:22:24+00:00"
+    },
+    {
+      "id": "hn-48839434",
+      "source": "hn",
+      "title": "A software engineering interview question I like: computing the median",
+      "url": "https://krisshamloo.com/blog/007",
+      "score": 16,
+      "comments": 7,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-09T00:38:02+00:00"
+    },
+    {
+      "id": "hn-48839397",
+      "source": "hn",
+      "title": "Remote Attestation",
+      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "score": 15,
+      "comments": 8,
+      "author": "lcvw",
+      "tags": [],
+      "date": "2026-07-09T00:32:33+00:00"
+    },
+    {
+      "id": "hn-48839355",
+      "source": "hn",
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "url": "https://mira-wm.com/",
+      "score": 10,
+      "comments": 2,
+      "author": "ethanlipson",
+      "tags": [],
+      "date": "2026-07-09T00:27:57+00:00"
+    },
     {
       "id": "hn-48838876",
       "source": "hn",
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
       "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 111,
-      "comments": 23,
+      "score": 256,
+      "comments": 56,
       "author": "djoldman",
       "tags": [],
       "date": "2026-07-08T23:37:43+00:00"
@@ -18,8 +62,8 @@
       "source": "hn",
       "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
       "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-      "score": 5,
-      "comments": 0,
+      "score": 51,
+      "comments": 18,
       "author": "hershyb_",
       "tags": [],
       "date": "2026-07-08T23:27:14+00:00"
@@ -40,8 +84,8 @@
       "source": "hn",
       "title": "Rewriting Bun in Rust",
       "url": "https://bun.com/blog/bun-in-rust",
-      "score": 223,
-      "comments": 113,
+      "score": 272,
+      "comments": 150,
       "author": "afturner",
       "tags": [],
       "date": "2026-07-08T21:49:59+00:00"
@@ -63,8 +107,8 @@
       "source": "hn",
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 135,
-      "comments": 58,
+      "score": 152,
+      "comments": 59,
       "author": "sk4rekr0w",
       "tags": [],
       "date": "2026-07-08T21:03:51+00:00"
@@ -85,8 +129,8 @@
       "source": "hn",
       "title": "Turning a pile of documents into a searchable useable knowledge base",
       "url": "https://github.com/linuxrebel/DocuBrowser",
-      "score": 58,
-      "comments": 9,
+      "score": 73,
+      "comments": 11,
       "author": "linuxrebe1",
       "tags": [],
       "date": "2026-07-08T20:37:29+00:00"
@@ -118,8 +162,8 @@
       "source": "hn",
       "title": "FAANG Simulator",
       "url": "https://www.abeyk.com/escape-the-rat-race/",
-      "score": 249,
-      "comments": 99,
+      "score": 276,
+      "comments": 106,
       "author": "nerdbiscuits",
       "tags": [],
       "date": "2026-07-08T20:05:42+00:00"
@@ -151,8 +195,8 @@
       "source": "hn",
       "title": "New Sweden: the US's long-lost 'secret' colony",
       "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-      "score": 36,
-      "comments": 2,
+      "score": 46,
+      "comments": 3,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-07-08T19:26:18+00:00"
@@ -162,8 +206,8 @@
       "source": "hn",
       "title": "Cloudflare Drop",
       "url": "https://www.cloudflare.com/drop/",
-      "score": 205,
-      "comments": 104,
+      "score": 242,
+      "comments": 124,
       "author": "coloneltcb",
       "tags": [],
       "date": "2026-07-08T19:18:26+00:00"
@@ -184,8 +228,8 @@
       "source": "hn",
       "title": "Grok 4.5",
       "url": "https://x.ai/news/grok-4-5",
-      "score": 446,
-      "comments": 527,
+      "score": 468,
+      "comments": 579,
       "author": "BoumTAC",
       "tags": [],
       "date": "2026-07-08T18:00:32+00:00"
@@ -195,8 +239,8 @@
       "source": "hn",
       "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
       "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 180,
-      "comments": 71,
+      "score": 196,
+      "comments": 75,
       "author": "chenglong-hn",
       "tags": [],
       "date": "2026-07-08T17:46:12+00:00"
@@ -228,8 +272,8 @@
       "source": "hn",
       "title": "GPT‑Live",
       "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 579,
-      "comments": 395,
+      "score": 599,
+      "comments": 403,
       "author": "logickkk1",
       "tags": [],
       "date": "2026-07-08T17:03:19+00:00"
@@ -283,8 +327,8 @@
       "source": "hn",
       "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 691,
-      "comments": 186,
+      "score": 726,
+      "comments": 191,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-08T15:19:50+00:00",
@@ -308,8 +352,8 @@
       "source": "hn",
       "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
       "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 400,
-      "comments": 93,
+      "score": 411,
+      "comments": 96,
       "author": "ottomengis",
       "tags": [],
       "date": "2026-07-08T14:09:17+00:00"
@@ -342,8 +386,8 @@
       "source": "hn",
       "title": "A bug which affected only left handed users",
       "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
-      "score": 75,
-      "comments": 40,
+      "score": 83,
+      "comments": 43,
       "author": "sixhobbits",
       "tags": [],
       "date": "2026-07-08T13:20:05+00:00"
@@ -404,12 +448,23 @@
       "date": "2026-07-08T11:03:34+00:00"
     },
     {
+      "id": "hn-48829797",
+      "source": "hn",
+      "title": "Unicode's transliteration rules are Turing-complete",
+      "url": "https://seriot.ch/computation/uts35/",
+      "score": 31,
+      "comments": 3,
+      "author": "beefburger",
+      "tags": [],
+      "date": "2026-07-08T09:44:20+00:00"
+    },
+    {
       "id": "hn-48829312",
       "source": "hn",
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1283,
-      "comments": 205,
+      "score": 1296,
+      "comments": 207,
       "author": "speerer",
       "tags": [],
       "date": "2026-07-08T08:46:06+00:00"
@@ -1072,8 +1127,8 @@
       "source": "hn",
       "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
       "url": "https://www.yamanote.fun/",
-      "score": 38,
-      "comments": 11,
+      "score": 51,
+      "comments": 13,
       "author": "madebymagnolia",
       "tags": [],
       "date": "2026-07-07T12:47:46+00:00"
@@ -2187,8 +2242,8 @@
       "source": "hn",
       "title": "DKIM2 and DMARCbis Have Landed",
       "url": "https://stalw.art/blog/dkim2-dmarcbis/",
-      "score": 67,
-      "comments": 40,
+      "score": 74,
+      "comments": 51,
       "author": "StalwartLabs",
       "tags": [],
       "date": "2026-07-06T13:02:57+00:00"
@@ -3142,6 +3197,18 @@
       "author": "msolujic",
       "tags": [],
       "date": "2026-07-05T17:05:35+00:00"
+    },
+    {
+      "id": "hn-48795591",
+      "source": "hn",
+      "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
+      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+      "score": 5,
+      "comments": 0,
+      "author": "Narann",
+      "tags": [],
+      "date": "2026-07-05T16:39:40+00:00",
+      "severity": "medium"
     },
     {
       "id": "hn-48795368",
@@ -5098,124 +5165,12 @@
       "date": "2026-07-03T17:25:15+00:00"
     },
     {
-      "id": "hn-48777266",
-      "source": "hn",
-      "title": "International chess federation sanctions Kramnik",
-      "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
-      "score": 139,
-      "comments": 78,
-      "author": "DarkContinent",
-      "tags": [],
-      "date": "2026-07-03T17:04:08+00:00"
-    },
-    {
-      "id": "hn-48777257",
-      "source": "hn",
-      "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
-      "url": "https://okaneland.com/study/ai-productivity-roi-at-work/",
-      "score": 24,
-      "comments": 5,
-      "author": "ermantrout",
-      "tags": [],
-      "date": "2026-07-03T17:03:22+00:00"
-    },
-    {
-      "id": "hn-48777144",
-      "source": "hn",
-      "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-      "url": "https://github.com/kerlenton/mcpsnoop",
-      "score": 44,
-      "comments": 13,
-      "author": "kerlenton",
-      "tags": [],
-      "date": "2026-07-03T16:53:50+00:00"
-    },
-    {
-      "id": "hn-48777127",
-      "source": "hn",
-      "title": "Dropping in on Gottfried Leibniz (2013)",
-      "url": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
-      "score": 5,
-      "comments": 2,
-      "author": "aragonite",
-      "tags": [],
-      "date": "2026-07-03T16:51:40+00:00"
-    },
-    {
-      "id": "hn-48776956",
-      "source": "hn",
-      "title": "Johnson Thermoelectric Energy Converter",
-      "url": "https://en.wikipedia.org/wiki/Johnson_thermoelectric_energy_converter",
-      "score": 4,
-      "comments": 0,
-      "author": "msk-lywenn",
-      "tags": [],
-      "date": "2026-07-03T16:37:26+00:00"
-    },
-    {
-      "id": "hn-48776780",
-      "source": "hn",
-      "title": "US residents angry datacenters 'shoved down our throats' are recalling officials",
-      "url": "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections",
-      "score": 66,
-      "comments": 36,
-      "author": "beardyw",
-      "tags": [],
-      "date": "2026-07-03T16:20:18+00:00"
-    },
-    {
-      "id": "hn-48776525",
-      "source": "hn",
-      "title": "The Life and Times of Maxis, Part 1: SimEverything",
-      "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
-      "score": 87,
-      "comments": 5,
-      "author": "doppp",
-      "tags": [],
-      "date": "2026-07-03T15:56:02+00:00"
-    },
-    {
-      "id": "hn-48776464",
-      "source": "hn",
-      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
-      "url": "https://github.com/teamchong/pxpipe",
-      "score": 204,
-      "comments": 82,
-      "author": "dimitropoulos",
-      "tags": [],
-      "date": "2026-07-03T15:50:49+00:00"
-    },
-    {
-      "id": "qiita-a7b285c8fb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeの dataviz スキルが凄かった",
-      "url": "https://qiita.com/leomarokun/items/74212606fbf4f01d82dd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "leomarokun",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-04T00:50:03+09:00"
-    },
-    {
-      "id": "hn-48776345",
-      "source": "hn",
-      "title": "Markets are competitive if and only if P = NP",
-      "url": "https://arxiv.org/abs/2602.20415",
-      "score": 157,
-      "comments": 96,
-      "author": "kscarlet",
-      "tags": [],
-      "date": "2026-07-03T15:41:44+00:00"
-    },
-    {
       "id": "hn-48760258",
       "source": "hn",
       "title": "Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]",
       "url": "https://www.youtube.com/watch?v=CAJ_iIedx_I",
-      "score": 5,
-      "comments": 0,
+      "score": 9,
+      "comments": 1,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-02T12:15:08+00:00"
@@ -5651,71 +5606,6 @@
       "date": "Sat, 04 Jul 2026 06:19:32 GMT"
     },
     {
-      "id": "zenn-3b29c7c11d",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Claude Codeに作らせたデスクトップアプリ、その後3ヶ月でどうなったか",
-      "url": "https://zenn.dev/kashioka/articles/7e02592d222990",
-      "score": null,
-      "author": "kashioka",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Tue, 07 Jul 2026 16:51:56 GMT"
-    },
-    {
-      "id": "zenn-7b84fc0d18",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
-      "url": "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
-      "score": null,
-      "author": "yui",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 06 Jul 2026 21:38:40 GMT"
-    },
-    {
-      "id": "zenn-bf4f99ce4f",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Git 感覚で AWS / Google Cloud / Azure のシークレットを管理できる CLI/GUI ツール「suve」を作った",
-      "url": "https://zenn.dev/yumemi_inc/articles/suve-git-like-secret-management",
-      "score": null,
-      "author": "mpyw",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 06 Jul 2026 21:38:15 GMT"
-    },
-    {
-      "id": "zenn-76612f7e99",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "JavaScriptのメソッドチェインが遅い理由",
-      "url": "https://zenn.dev/dameyodamedame/articles/0bd949354baf6e",
-      "score": null,
-      "author": "dameyodamedame",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sun, 05 Jul 2026 10:58:57 GMT"
-    },
-    {
-      "id": "zenn-5494476f9c",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
-      "url": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
-      "score": null,
-      "author": "井本 賢 | WebRTC×音声AI / LLMO",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Sat, 04 Jul 2026 09:57:02 GMT"
-    },
-    {
       "id": "edb-9bdf9aa505",
       "source": "msf",
       "title": "[webapps] Krayin CRM v2.2.x - Authenticated Remote Code Execution",
@@ -5804,6 +5694,141 @@
       ],
       "severity": "high",
       "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-d63c1462cc",
+      "source": "msf",
+      "title": "[webapps] Flowise  3.1.3 - arbitrary code execution",
+      "url": "https://www.exploit-db.com/exploits/52623",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-4893d24fba",
+      "source": "msf",
+      "title": "[remote] Hydra - Stack Buffer Overflow",
+      "url": "https://www.exploit-db.com/exploits/52622",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-de3fae1aef",
+      "source": "msf",
+      "title": "[webapps] Discuz! X5.0 - Authentication Bypass",
+      "url": "https://www.exploit-db.com/exploits/52621",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-d3b8e76e1f",
+      "source": "msf",
+      "title": "[webapps] Tenable Nessus 10.12.1 - SQL Injection",
+      "url": "https://www.exploit-db.com/exploits/52620",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-5af796c5ff",
+      "source": "msf",
+      "title": "[webapps] WordPress Bricks Builder Theme  -  RCE",
+      "url": "https://www.exploit-db.com/exploits/52619",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-00c1612776",
+      "source": "msf",
+      "title": "[remote] iOS Bluetooth PAN Exploit - Ethernet Gateway without Adapter",
+      "url": "https://www.exploit-db.com/exploits/52618",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-36aec9a13b",
+      "source": "msf",
+      "title": "[webapps] Joomla Extension 4.1.4 - PHP Object injection",
+      "url": "https://www.exploit-db.com/exploits/52617",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-d1fd93824d",
+      "source": "msf",
+      "title": "[webapps] Pulpy 0.1.1-Beta - Filesystem Sandbox Bypass",
+      "url": "https://www.exploit-db.com/exploits/52616",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-ad7f95cccd",
+      "source": "msf",
+      "title": "[local] MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation",
+      "url": "https://www.exploit-db.com/exploits/52615",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
     }
   ]
 }

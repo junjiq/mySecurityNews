@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T00:35:59.072694+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-07-09T01:35:37.578680+00:00",
+  "total_articles": 52,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 46,
       "top_items": [
         {
           "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
           "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-          "score": 1283,
+          "score": 1296,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T08:46:06+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Chatto is now open source",
           "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-          "score": 691,
+          "score": 726,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-08T15:19:50+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "GPT‑Live",
           "url": "https://openai.com/index/introducing-gpt-live/",
-          "score": 579,
+          "score": 599,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T17:03:19+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "Grok 4.5",
           "url": "https://x.ai/news/grok-4-5",
-          "score": 446,
+          "score": 468,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T18:00:32+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "[AWS]DevOpsAgentをセルフ受肉させていただきました",
