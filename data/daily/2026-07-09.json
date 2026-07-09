@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T06:20:24.193963+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-07-09T07:45:08.672220+00:00",
+  "total_articles": 53,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 50,
       "top_items": [
         {
           "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
           "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-          "score": 1349,
+          "score": 1364,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T08:46:06+00:00"
@@ -42,31 +42,31 @@
         {
           "title": "Chatto is now open source",
           "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-          "score": 887,
+          "score": 931,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-08T15:19:50+00:00"
         },
         {
-          "title": "GPT‑Live",
-          "url": "https://openai.com/index/introducing-gpt-live/",
-          "score": 666,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-08T17:03:19+00:00"
-        },
-        {
           "title": "John Deere owners will get the right to repair equipment under FTC settlement",
           "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-          "score": 618,
+          "score": 709,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T23:37:43+00:00"
         },
         {
+          "title": "GPT‑Live",
+          "url": "https://openai.com/index/introducing-gpt-live/",
+          "score": 686,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-08T17:03:19+00:00"
+        },
+        {
           "title": "Grok 4.5",
           "url": "https://x.ai/news/grok-4-5",
-          "score": 553,
+          "score": 595,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T18:00:32+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 3,
       "top_items": [
         {
           "title": "MVC / MVP でゲームを作るとぶつかる壁",
@@ -100,14 +100,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-08T23:43:52+09:00"
-        },
-        {
-          "title": "プロンプトを頑張るな、リポジトリを育てろ：GitHub Copilotが迷わないコードベース設計",
-          "url": "https://qiita.com/ochtum/items/28fc5b3dbf78b7795c80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-08T16:13:17+09:00"
         }
       ]
     }
