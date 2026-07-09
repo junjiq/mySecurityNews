@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-09T01:35:37.516022+00:00",
+  "updated_at": "2026-07-09T03:06:02.903346+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48839984",
+      "source": "hn",
+      "title": "I Think I Have LLM Burnout",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "score": 89,
+      "comments": 57,
+      "author": "sosodev",
+      "tags": [],
+      "date": "2026-07-09T01:56:28+00:00"
+    },
     {
       "id": "hn-48839751",
       "source": "hn",
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "Remote Attestation",
       "url": "https://www.liamcvw.com/p/remote-attestation",
-      "score": 15,
-      "comments": 8,
+      "score": 34,
+      "comments": 16,
       "author": "lcvw",
       "tags": [],
       "date": "2026-07-09T00:32:33+00:00"
@@ -40,8 +51,8 @@
       "source": "hn",
       "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
       "url": "https://mira-wm.com/",
-      "score": 10,
-      "comments": 2,
+      "score": 27,
+      "comments": 6,
       "author": "ethanlipson",
       "tags": [],
       "date": "2026-07-09T00:27:57+00:00"
@@ -51,8 +62,8 @@
       "source": "hn",
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
       "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 256,
-      "comments": 56,
+      "score": 390,
+      "comments": 77,
       "author": "djoldman",
       "tags": [],
       "date": "2026-07-08T23:37:43+00:00"
@@ -62,8 +73,8 @@
       "source": "hn",
       "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
       "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-      "score": 51,
-      "comments": 18,
+      "score": 80,
+      "comments": 37,
       "author": "hershyb_",
       "tags": [],
       "date": "2026-07-08T23:27:14+00:00"
@@ -84,8 +95,8 @@
       "source": "hn",
       "title": "Rewriting Bun in Rust",
       "url": "https://bun.com/blog/bun-in-rust",
-      "score": 272,
-      "comments": 150,
+      "score": 338,
+      "comments": 183,
       "author": "afturner",
       "tags": [],
       "date": "2026-07-08T21:49:59+00:00"
@@ -103,12 +114,23 @@
       "severity": "critical"
     },
     {
+      "id": "hn-48837696",
+      "source": "hn",
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "score": 6,
+      "comments": 2,
+      "author": "tanelpoder",
+      "tags": [],
+      "date": "2026-07-08T21:30:09+00:00"
+    },
+    {
       "id": "hn-48837396",
       "source": "hn",
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 152,
-      "comments": 59,
+      "score": 171,
+      "comments": 66,
       "author": "sk4rekr0w",
       "tags": [],
       "date": "2026-07-08T21:03:51+00:00"
@@ -129,8 +151,8 @@
       "source": "hn",
       "title": "Turning a pile of documents into a searchable useable knowledge base",
       "url": "https://github.com/linuxrebel/DocuBrowser",
-      "score": 73,
-      "comments": 11,
+      "score": 88,
+      "comments": 15,
       "author": "linuxrebe1",
       "tags": [],
       "date": "2026-07-08T20:37:29+00:00"
@@ -162,8 +184,8 @@
       "source": "hn",
       "title": "FAANG Simulator",
       "url": "https://www.abeyk.com/escape-the-rat-race/",
-      "score": 276,
-      "comments": 106,
+      "score": 311,
+      "comments": 122,
       "author": "nerdbiscuits",
       "tags": [],
       "date": "2026-07-08T20:05:42+00:00"
@@ -195,8 +217,8 @@
       "source": "hn",
       "title": "New Sweden: the US's long-lost 'secret' colony",
       "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-      "score": 46,
-      "comments": 3,
+      "score": 57,
+      "comments": 11,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-07-08T19:26:18+00:00"
@@ -206,8 +228,8 @@
       "source": "hn",
       "title": "Cloudflare Drop",
       "url": "https://www.cloudflare.com/drop/",
-      "score": 242,
-      "comments": 124,
+      "score": 286,
+      "comments": 142,
       "author": "coloneltcb",
       "tags": [],
       "date": "2026-07-08T19:18:26+00:00"
@@ -228,8 +250,8 @@
       "source": "hn",
       "title": "Grok 4.5",
       "url": "https://x.ai/news/grok-4-5",
-      "score": 468,
-      "comments": 579,
+      "score": 499,
+      "comments": 647,
       "author": "BoumTAC",
       "tags": [],
       "date": "2026-07-08T18:00:32+00:00"
@@ -239,8 +261,8 @@
       "source": "hn",
       "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
       "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 196,
-      "comments": 75,
+      "score": 219,
+      "comments": 78,
       "author": "chenglong-hn",
       "tags": [],
       "date": "2026-07-08T17:46:12+00:00"
@@ -272,8 +294,8 @@
       "source": "hn",
       "title": "GPT‑Live",
       "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 599,
-      "comments": 403,
+      "score": 618,
+      "comments": 421,
       "author": "logickkk1",
       "tags": [],
       "date": "2026-07-08T17:03:19+00:00"
@@ -327,8 +349,8 @@
       "source": "hn",
       "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 726,
-      "comments": 191,
+      "score": 774,
+      "comments": 204,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-08T15:19:50+00:00",
@@ -352,8 +374,8 @@
       "source": "hn",
       "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
       "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 411,
-      "comments": 96,
+      "score": 425,
+      "comments": 97,
       "author": "ottomengis",
       "tags": [],
       "date": "2026-07-08T14:09:17+00:00"
@@ -386,8 +408,8 @@
       "source": "hn",
       "title": "A bug which affected only left handed users",
       "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
-      "score": 83,
-      "comments": 43,
+      "score": 93,
+      "comments": 45,
       "author": "sixhobbits",
       "tags": [],
       "date": "2026-07-08T13:20:05+00:00"
@@ -452,8 +474,8 @@
       "source": "hn",
       "title": "Unicode's transliteration rules are Turing-complete",
       "url": "https://seriot.ch/computation/uts35/",
-      "score": 31,
-      "comments": 3,
+      "score": 47,
+      "comments": 13,
       "author": "beefburger",
       "tags": [],
       "date": "2026-07-08T09:44:20+00:00"
@@ -463,8 +485,8 @@
       "source": "hn",
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
       "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1296,
-      "comments": 207,
+      "score": 1316,
+      "comments": 210,
       "author": "speerer",
       "tags": [],
       "date": "2026-07-08T08:46:06+00:00"
@@ -1127,8 +1149,8 @@
       "source": "hn",
       "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
       "url": "https://www.yamanote.fun/",
-      "score": 51,
-      "comments": 13,
+      "score": 67,
+      "comments": 17,
       "author": "madebymagnolia",
       "tags": [],
       "date": "2026-07-07T12:47:46+00:00"
@@ -1481,6 +1503,17 @@
         "Qiita"
       ],
       "date": "2026-07-07T10:56:00+09:00"
+    },
+    {
+      "id": "hn-48812736",
+      "source": "hn",
+      "title": "Apache Shiro security framework releases 3.0.0",
+      "url": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
+      "score": 6,
+      "comments": 0,
+      "author": "lprimak",
+      "tags": [],
+      "date": "2026-07-07T01:40:26+00:00"
     },
     {
       "id": "hn-48812450",
@@ -3203,8 +3236,8 @@
       "source": "hn",
       "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
       "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-      "score": 5,
-      "comments": 0,
+      "score": 18,
+      "comments": 6,
       "author": "Narann",
       "tags": [],
       "date": "2026-07-05T16:39:40+00:00",
@@ -5141,39 +5174,6 @@
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-03T17:46:10+00:00"
-    },
-    {
-      "id": "hn-48777636",
-      "source": "hn",
-      "title": "Craig Mod built his own Good Reads",
-      "url": "https://craigmod.com/roden/115/",
-      "score": 16,
-      "comments": 9,
-      "author": "natbennett",
-      "tags": [],
-      "date": "2026-07-03T17:38:30+00:00"
-    },
-    {
-      "id": "hn-48777488",
-      "source": "hn",
-      "title": "C++ Details of Asymmetric Fences",
-      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
-      "score": 48,
-      "comments": 4,
-      "author": "anon_farmer",
-      "tags": [],
-      "date": "2026-07-03T17:25:15+00:00"
-    },
-    {
-      "id": "hn-48760258",
-      "source": "hn",
-      "title": "Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]",
-      "url": "https://www.youtube.com/watch?v=CAJ_iIedx_I",
-      "score": 9,
-      "comments": 1,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-02T12:15:08+00:00"
     },
     {
       "id": "ctf-4048944",
