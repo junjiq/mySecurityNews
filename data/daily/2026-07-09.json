@@ -1,0 +1,123 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T00:35:59.072694+00:00",
+  "total_articles": 50,
+  "urgent_count": 3,
+  "urgent_items": [
+    {
+      "title": "Open Source Barware: free, local-first bar inventory software (GPLv3)",
+      "url": "https://opensourcebarware.com",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-08T21:43:07+00:00"
+    },
+    {
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-08T15:19:50+00:00"
+    },
+    {
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-08T13:24:52+00:00"
+    }
+  ],
+  "categories": [
+    {
+      "category": "テクノロジー",
+      "count": 43,
+      "top_items": [
+        {
+          "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+          "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+          "score": 1283,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-08T08:46:06+00:00"
+        },
+        {
+          "title": "Chatto is now open source",
+          "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+          "score": 691,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-07-08T15:19:50+00:00"
+        },
+        {
+          "title": "GPT‑Live",
+          "url": "https://openai.com/index/introducing-gpt-live/",
+          "score": 579,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-08T17:03:19+00:00"
+        },
+        {
+          "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+          "score": 489,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-08T05:25:35+00:00"
+        },
+        {
+          "title": "Grok 4.5",
+          "url": "https://x.ai/news/grok-4-5",
+          "score": 446,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-08T18:00:32+00:00"
+        }
+      ]
+    },
+    {
+      "category": "日本語技術記事",
+      "count": 7,
+      "top_items": [
+        {
+          "title": "[AWS]DevOpsAgentをセルフ受肉させていただきました",
+          "url": "https://qiita.com/kikuziro/items/3190db9f5d5051ae69fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-08T23:43:52+09:00"
+        },
+        {
+          "title": "プロンプトを頑張るな、リポジトリを育てろ：GitHub Copilotが迷わないコードベース設計",
+          "url": "https://qiita.com/ochtum/items/28fc5b3dbf78b7795c80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-08T16:13:17+09:00"
+        },
+        {
+          "title": "コーディングだけではもったいない。AGENTS.mdを要件定義でも活用する",
+          "url": "https://qiita.com/miyakiyo/items/26d0f8775743bf2dfabe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-08T15:15:31+09:00"
+        },
+        {
+          "title": "【AgentCore】Runtime をパブリックにデプロイしたけど、勝手にアクセスされない？",
+          "url": "https://qiita.com/ryu-ki/items/2cd37256824b54022bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-08T11:20:01+09:00"
+        },
+        {
+          "title": "【Personal OS #1】Claude Codeで、毎日の仕事を自動化する仕組み",
+          "url": "https://qiita.com/degudegu2510/items/793cfe76cf8b6982f2f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-08T11:10:36+09:00"
+        }
+      ]
+    }
+  ]
+}
