@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T03:06:02.959369+00:00",
+  "generated_at": "2026-07-09T04:52:27.125177+00:00",
   "total_articles": 51,
   "urgent_count": 3,
   "urgent_items": [
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 46,
       "top_items": [
         {
           "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
           "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-          "score": 1316,
+          "score": 1332,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T08:46:06+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Chatto is now open source",
           "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-          "score": 774,
+          "score": 830,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-08T15:19:50+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "GPT‑Live",
           "url": "https://openai.com/index/introducing-gpt-live/",
-          "score": 618,
+          "score": 644,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T17:03:19+00:00"
@@ -58,25 +58,41 @@
         {
           "title": "Grok 4.5",
           "url": "https://x.ai/news/grok-4-5",
-          "score": 499,
+          "score": 530,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T18:00:32+00:00"
         },
         {
-          "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-          "score": 489,
+          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+          "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+          "score": 513,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-08T05:25:35+00:00"
+          "date": "2026-07-08T23:37:43+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 5,
       "top_items": [
+        {
+          "title": "MVC / MVP でゲームを作るとぶつかる壁",
+          "url": "https://qiita.com/jamaican/items/738c5462fcf996ac1325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-09T13:13:22+09:00"
+        },
+        {
+          "title": "【Windows標準OCR】窓キー + Shift + T キー押してますか？",
+          "url": "https://qiita.com/kaga-yasumitsu/items/e9ce46596969983cdb4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-09T12:28:30+09:00"
+        },
         {
           "title": "[AWS]DevOpsAgentをセルフ受肉させていただきました",
           "url": "https://qiita.com/kikuziro/items/3190db9f5d5051ae69fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
