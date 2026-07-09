@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T07:45:08.672220+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-07-09T09:12:05.763605+00:00",
+  "total_articles": 61,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 49,
       "top_items": [
-        {
-          "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-          "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-          "score": 1364,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-08T08:46:06+00:00"
-        },
         {
           "title": "Chatto is now open source",
           "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-          "score": 931,
+          "score": 958,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-08T15:19:50+00:00"
@@ -50,7 +42,7 @@
         {
           "title": "John Deere owners will get the right to repair equipment under FTC settlement",
           "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-          "score": 709,
+          "score": 788,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T23:37:43+00:00"
@@ -58,7 +50,7 @@
         {
           "title": "GPT‑Live",
           "url": "https://openai.com/index/introducing-gpt-live/",
-          "score": 686,
+          "score": 698,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T17:03:19+00:00"
@@ -66,17 +58,49 @@
         {
           "title": "Grok 4.5",
           "url": "https://x.ai/news/grok-4-5",
-          "score": 595,
+          "score": 623,
           "source": "hn",
           "severity": null,
           "date": "2026-07-08T18:00:32+00:00"
+        },
+        {
+          "title": "Rewriting Bun in Rust",
+          "url": "https://bun.com/blog/bun-in-rust",
+          "score": 565,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-08T21:49:59+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 12,
       "top_items": [
+        {
+          "title": "[AWS]DevOpsAgentをセルフ受肉させていただきました",
+          "url": "https://qiita.com/kikuziro/items/3190db9f5d5051ae69fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-09T17:34:44+09:00"
+        },
+        {
+          "title": "Slack WorkflowのWebhookで作るシンプルなSlack通知",
+          "url": "https://qiita.com/nyasba/items/86e092257b4d6f9f24f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-09T16:33:44+09:00"
+        },
+        {
+          "title": "Copilot Studio の自律型エージェントの作成方法を整理してみた",
+          "url": "https://qiita.com/Takashi_Masumori/items/4ed4994f8641e5a9e58e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-09T14:30:12+09:00"
+        },
         {
           "title": "MVC / MVP でゲームを作るとぶつかる壁",
           "url": "https://qiita.com/jamaican/items/738c5462fcf996ac1325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -92,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-09T12:28:30+09:00"
-        },
-        {
-          "title": "[AWS]DevOpsAgentをセルフ受肉させていただきました",
-          "url": "https://qiita.com/kikuziro/items/3190db9f5d5051ae69fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-08T23:43:52+09:00"
         }
       ]
     }
