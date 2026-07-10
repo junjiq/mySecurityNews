@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T16:17:39.589653+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-07-10T17:08:08.219250+00:00",
+  "total_articles": 46,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,31 +15,15 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 37,
       "top_items": [
-        {
-          "title": "GPT-5.6",
-          "url": "https://openai.com/index/gpt-5-6/",
-          "score": 1461,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-09T17:04:14+00:00"
-        },
         {
           "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
           "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-          "score": 328,
+          "score": 336,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T17:17:16+00:00"
-        },
-        {
-          "title": "ChatGPT Work",
-          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-          "score": 322,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-09T17:03:53+00:00"
         },
         {
           "title": "Why American ambulance rides are so expensive",
@@ -52,16 +36,32 @@
         {
           "title": "Write code like a human will maintain it",
           "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-          "score": 191,
+          "score": 216,
           "source": "hn",
           "severity": null,
           "date": "2026-07-10T13:33:00+00:00"
+        },
+        {
+          "title": "AI-generated videos to maximally drive a target brain region",
+          "url": "https://nevo-project.epfl.ch/",
+          "score": 214,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-10T07:39:11+00:00"
+        },
+        {
+          "title": "Late Bronze Age Collapse",
+          "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+          "score": 208,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-10T11:59:55+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
         {
           "title": "PythonにStreamlitを添えて。",
