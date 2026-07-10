@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T03:05:52.856154+00:00",
-  "total_articles": 68,
+  "generated_at": "2026-07-10T04:47:03.564036+00:00",
+  "total_articles": 67,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 59,
       "top_items": [
         {
           "title": "GPT-5.6",
           "url": "https://openai.com/index/gpt-5-6/",
-          "score": 1096,
+          "score": 1141,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T17:04:14+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "EU Parliament greenlights Chat Control 1.0",
           "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-          "score": 1036,
+          "score": 1091,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T11:03:54+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "Show HN: 18 Words",
           "url": "https://18words.com/",
-          "score": 850,
+          "score": 886,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T12:48:52+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "Show HN: Getting GLM 5.2 running on my slow computer",
           "url": "https://github.com/JustVugg/colibri",
-          "score": 426,
+          "score": 467,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T08:05:04+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
           "url": "https://github.com/malisper/pgrust",
-          "score": 416,
+          "score": 467,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T06:18:19+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 8,
       "top_items": [
         {
           "title": "【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価",

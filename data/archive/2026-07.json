@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-10T03:05:52.899883+00:00",
+  "generated_at": "2026-07-10T04:47:03.607724+00:00",
   "total_articles": 457,
   "source_counts": {
     "hn": 360,
@@ -8,7 +8,7 @@
     "project": 7
   },
   "severity_counts": {
-    "high": 5,
+    "high": 4,
     "critical": 9,
     "medium": 2
   },
@@ -30,9 +30,16 @@
     {
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1096,
+      "score": 1141,
       "source": "hn",
       "date": "2026-07-09T17:04:14+00:00"
+    },
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "score": 1091,
+      "source": "hn",
+      "date": "2026-07-09T11:03:54+00:00"
     },
     {
       "title": "Organic Maps",
@@ -49,13 +56,6 @@
       "date": "2026-07-05T21:03:06+00:00"
     },
     {
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1036,
-      "source": "hn",
-      "date": "2026-07-09T11:03:54+00:00"
-    },
-    {
       "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
       "score": 977,
@@ -65,7 +65,7 @@
     {
       "title": "Show HN: 18 Words",
       "url": "https://18words.com/",
-      "score": 850,
+      "score": 886,
       "source": "hn",
       "date": "2026-07-09T12:48:52+00:00"
     },
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-05T11:44:04+00:00"
-    },
-    {
-      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-      "url": "https://arxiv.org/abs/2606.26967",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-04T20:38:39+00:00"
     }
   ]
 }
