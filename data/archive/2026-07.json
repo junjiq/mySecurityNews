@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-10T10:32:20.029607+00:00",
+  "generated_at": "2026-07-10T12:00:31.943860+00:00",
   "total_articles": 457,
   "source_counts": {
     "hn": 352,
@@ -9,14 +9,14 @@
   },
   "severity_counts": {
     "high": 4,
-    "critical": 9,
+    "critical": 10,
     "medium": 2
   },
   "top_articles": [
     {
       "title": "EU Parliament greenlights Chat Control 1.0",
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1410,
+      "score": 1447,
       "source": "hn",
       "date": "2026-07-09T11:03:54+00:00"
     },
@@ -30,7 +30,7 @@
     {
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1301,
+      "score": 1348,
       "source": "hn",
       "date": "2026-07-09T17:04:14+00:00"
     },
@@ -58,7 +58,7 @@
     {
       "title": "Show HN: 18 Words",
       "url": "https://18words.com/",
-      "score": 1006,
+      "score": 1021,
       "source": "hn",
       "date": "2026-07-09T12:48:52+00:00"
     },
@@ -84,6 +84,13 @@
       "date": "2026-07-06T18:23:12+00:00"
     },
     {
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "score": 731,
+      "source": "hn",
+      "date": "2026-07-09T08:05:04+00:00"
+    },
+    {
       "title": "CoMaps – FOSS Offline Maps",
       "url": "https://www.comaps.app/",
       "score": 731,
@@ -96,6 +103,13 @@
       "score": 724,
       "source": "hn",
       "date": "2026-07-07T12:38:35+00:00"
+    },
+    {
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "score": 713,
+      "source": "hn",
+      "date": "2026-07-09T06:18:19+00:00"
     },
     {
       "title": "Grok 4.5",
@@ -112,13 +126,6 @@
       "date": "2026-07-08T17:03:19+00:00"
     },
     {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 694,
-      "source": "hn",
-      "date": "2026-07-09T08:05:04+00:00"
-    },
-    {
       "title": "Resetting Xbox",
       "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
       "score": 679,
@@ -133,11 +140,11 @@
       "date": "2026-07-08T21:49:59+00:00"
     },
     {
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
-      "score": 672,
+      "title": "Train sim created by just one person is being called the best ever made",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "score": 657,
       "source": "hn",
-      "date": "2026-07-09T06:18:19+00:00"
+      "date": "2026-07-05T08:40:27+00:00"
     },
     {
       "title": "Every new car sold in the European Union must include a driver monitoring camera",
@@ -145,13 +152,6 @@
       "score": 630,
       "source": "hn",
       "date": "2026-07-07T20:50:46+00:00"
-    },
-    {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 622,
-      "source": "hn",
-      "date": "2026-07-06T20:14:55+00:00"
     }
   ],
   "security_highlights": [
@@ -245,6 +245,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-05T11:44:04+00:00"
+    },
+    {
+      "title": "The mathematical secrets of Barcelona's Sagrada Familia",
+      "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-03T08:43:18+00:00"
     }
   ]
 }
