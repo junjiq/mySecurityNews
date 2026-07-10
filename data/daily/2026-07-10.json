@@ -1,8 +1,8 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T01:35:53.789233+00:00",
-  "total_articles": 69,
-  "urgent_count": 2,
+  "generated_at": "2026-07-10T03:05:52.856154+00:00",
+  "total_articles": 68,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
@@ -17,17 +17,24 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-09T14:17:40+00:00"
+    },
+    {
+      "title": "Build your own vulnerability harness",
+      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-10T01:28:43+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 58,
       "top_items": [
         {
           "title": "GPT-5.6",
           "url": "https://openai.com/index/gpt-5-6/",
-          "score": 1053,
+          "score": 1096,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T17:04:14+00:00"
@@ -35,7 +42,7 @@
         {
           "title": "EU Parliament greenlights Chat Control 1.0",
           "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-          "score": 985,
+          "score": 1036,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T11:03:54+00:00"
@@ -43,26 +50,26 @@
         {
           "title": "Show HN: 18 Words",
           "url": "https://18words.com/",
-          "score": 820,
+          "score": 850,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T12:48:52+00:00"
         },
         {
-          "title": "Hy3",
-          "url": "https://hy.tencent.com/research/hy3",
-          "score": 384,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-09T15:27:48+00:00"
-        },
-        {
           "title": "Show HN: Getting GLM 5.2 running on my slow computer",
           "url": "https://github.com/JustVugg/colibri",
-          "score": 372,
+          "score": 426,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T08:05:04+00:00"
+        },
+        {
+          "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+          "url": "https://github.com/malisper/pgrust",
+          "score": 416,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-09T06:18:19+00:00"
         }
       ]
     },
@@ -70,6 +77,14 @@
       "category": "日本語技術記事",
       "count": 10,
       "top_items": [
+        {
+          "title": "【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価",
+          "url": "https://qiita.com/engchina/items/6dff7010af1b28e8c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-10T11:07:25+09:00"
+        },
         {
           "title": "データが信頼をつくる ― 多文化共生と政策評価を経済学で考える : Pythonで学ぶ マクロ経済学入門 (97)",
           "url": "https://qiita.com/maskot1977/items/9c524b0a7dbfb2581103?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-09T16:33:44+09:00"
-        },
-        {
-          "title": "🌸 TerraformでAWS Lambda・S3を構築＆構築削除してみた",
-          "url": "https://qiita.com/y-rio_palettelink/items/35a8a7a3605412021fe1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-09T15:57:42+09:00"
         }
       ]
     }

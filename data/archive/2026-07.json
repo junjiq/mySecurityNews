@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-10T01:35:53.831860+00:00",
+  "generated_at": "2026-07-10T03:05:52.899883+00:00",
   "total_articles": 457,
   "source_counts": {
     "hn": 360,
@@ -8,8 +8,8 @@
     "project": 7
   },
   "severity_counts": {
+    "high": 5,
     "critical": 9,
-    "high": 4,
     "medium": 2
   },
   "top_articles": [
@@ -28,18 +28,18 @@
       "date": "2026-07-08T23:37:43+00:00"
     },
     {
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "score": 1096,
+      "source": "hn",
+      "date": "2026-07-09T17:04:14+00:00"
+    },
+    {
       "title": "Organic Maps",
       "url": "https://organicmaps.app/",
       "score": 1057,
       "source": "hn",
       "date": "2026-07-05T14:14:30+00:00"
-    },
-    {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1053,
-      "source": "hn",
-      "date": "2026-07-09T17:04:14+00:00"
     },
     {
       "title": "OpenPrinter",
@@ -51,7 +51,7 @@
     {
       "title": "EU Parliament greenlights Chat Control 1.0",
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 985,
+      "score": 1036,
       "source": "hn",
       "date": "2026-07-09T11:03:54+00:00"
     },
@@ -63,18 +63,18 @@
       "date": "2026-07-08T15:19:50+00:00"
     },
     {
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "score": 850,
+      "source": "hn",
+      "date": "2026-07-09T12:48:52+00:00"
+    },
+    {
       "title": "Chat Control 1.0 and 2.0 Explained",
       "url": "https://fightchatcontrol.eu/chat-control-overview",
       "score": 847,
       "source": "hn",
       "date": "2026-07-07T14:23:15+00:00"
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "score": 820,
-      "source": "hn",
-      "date": "2026-07-09T12:48:52+00:00"
     },
     {
       "title": "OpenWrt One – Open Hardware Router",
@@ -140,21 +140,28 @@
       "date": "2026-07-06T20:14:55+00:00"
     },
     {
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 621,
-      "source": "hn",
-      "date": "2026-07-04T19:41:10+00:00"
-    },
-    {
       "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
       "url": "https://github.com/MaximeRivest/Riddle",
       "score": 589,
       "source": "hn",
       "date": "2026-07-06T23:00:24+00:00"
+    },
+    {
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "score": 582,
+      "source": "hn",
+      "date": "2026-07-07T15:58:13+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Build your own vulnerability harness",
+      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-10T01:28:43+00:00"
+    },
     {
       "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
       "url": "https://kastra.ai/",
