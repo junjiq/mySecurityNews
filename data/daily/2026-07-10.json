@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T07:44:32.482386+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-07-10T09:06:44.411760+00:00",
+  "total_articles": 63,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 53,
       "top_items": [
         {
           "title": "EU Parliament greenlights Chat Control 1.0",
           "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-          "score": 1285,
+          "score": 1360,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T11:03:54+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "GPT-5.6",
           "url": "https://openai.com/index/gpt-5-6/",
-          "score": 1216,
+          "score": 1247,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T17:04:14+00:00"
@@ -50,33 +50,49 @@
         {
           "title": "Show HN: 18 Words",
           "url": "https://18words.com/",
-          "score": 956,
+          "score": 982,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T12:48:52+00:00"
         },
         {
-          "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-          "url": "https://github.com/JustVugg/colibri",
-          "score": 587,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-09T08:05:04+00:00"
-        },
-        {
           "title": "Hy3",
           "url": "https://hy.tencent.com/research/hy3",
-          "score": 450,
+          "score": 471,
           "source": "hn",
           "severity": null,
           "date": "2026-07-09T15:27:48+00:00"
+        },
+        {
+          "title": "Muse Spark 1.1",
+          "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+          "score": 372,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-09T14:10:22+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 10,
       "top_items": [
+        {
+          "title": "PythonにStreamlitを添えて。",
+          "url": "https://qiita.com/s_yamauchi_/items/32f915ac6df8fbede824?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-10T13:18:27+09:00"
+        },
+        {
+          "title": "Redocly + Dockerで複数のOpenAPI YAMLを1つのドキュメントポータルに統合した話",
+          "url": "https://qiita.com/dev-ogawa/items/cedbcac3599cfd970348?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-10T12:15:19+09:00"
+        },
         {
           "title": "【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価",
           "url": "https://qiita.com/engchina/items/6dff7010af1b28e8c30a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -86,28 +102,20 @@
           "date": "2026-07-10T11:07:25+09:00"
         },
         {
-          "title": "データが信頼をつくる ― 多文化共生と政策評価を経済学で考える : Pythonで学ぶ マクロ経済学入門 (97)",
-          "url": "https://qiita.com/maskot1977/items/9c524b0a7dbfb2581103?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "最近のDynamoDB設計事情：single-table偏重の見直しとGSIマルチ属性キー",
+          "url": "https://qiita.com/Suemura/items/ce4cb4290e4e711fdc98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-10T00:00:36+09:00"
+          "date": "2026-07-10T09:58:58+09:00"
         },
         {
-          "title": "[AWS]DevOpsAgentをセルフ受肉させていただきました",
-          "url": "https://qiita.com/kikuziro/items/3190db9f5d5051ae69fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "15年前の『アジャイルサムライ』、AI時代に古びたのは\"作るコスト\"の教えだけだった",
+          "url": "https://qiita.com/tatsuya582/items/88508215a8e22b169166?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-09T17:34:44+09:00"
-        },
-        {
-          "title": "そのスキル、本当に効いてる？ Agent Skills を「評価」する3つのツールを比べてみた",
-          "url": "https://qiita.com/Syoitu/items/78d45bee1160d059c972?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-09T17:00:07+09:00"
+          "date": "2026-07-10T09:58:51+09:00"
         }
       ]
     }

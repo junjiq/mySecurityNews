@@ -1,10 +1,10 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-10T07:44:32.526398+00:00",
+  "generated_at": "2026-07-10T09:06:44.458959+00:00",
   "total_articles": 457,
   "source_counts": {
-    "hn": 360,
-    "zennqiita": 90,
+    "hn": 351,
+    "zennqiita": 99,
     "project": 7
   },
   "severity_counts": {
@@ -23,14 +23,14 @@
     {
       "title": "EU Parliament greenlights Chat Control 1.0",
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1285,
+      "score": 1360,
       "source": "hn",
       "date": "2026-07-09T11:03:54+00:00"
     },
     {
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1216,
+      "score": 1247,
       "source": "hn",
       "date": "2026-07-09T17:04:14+00:00"
     },
@@ -56,18 +56,18 @@
       "date": "2026-07-05T21:03:06+00:00"
     },
     {
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "score": 982,
+      "source": "hn",
+      "date": "2026-07-09T12:48:52+00:00"
+    },
+    {
       "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
       "score": 977,
       "source": "hn",
       "date": "2026-07-08T15:19:50+00:00"
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "score": 956,
-      "source": "hn",
-      "date": "2026-07-09T12:48:52+00:00"
     },
     {
       "title": "Chat Control 1.0 and 2.0 Explained",
@@ -126,6 +126,20 @@
       "date": "2026-07-08T21:49:59+00:00"
     },
     {
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "score": 653,
+      "source": "hn",
+      "date": "2026-07-09T08:05:04+00:00"
+    },
+    {
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "score": 636,
+      "source": "hn",
+      "date": "2026-07-09T06:18:19+00:00"
+    },
+    {
       "title": "Every new car sold in the European Union must include a driver monitoring camera",
       "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
       "score": 630,
@@ -138,20 +152,6 @@
       "score": 622,
       "source": "hn",
       "date": "2026-07-06T20:14:55+00:00"
-    },
-    {
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
-      "score": 603,
-      "source": "hn",
-      "date": "2026-07-09T06:18:19+00:00"
-    },
-    {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "score": 589,
-      "source": "hn",
-      "date": "2026-07-06T23:00:24+00:00"
     }
   ],
   "security_highlights": [
