@@ -1,14 +1,48 @@
 {
-  "updated_at": "2026-07-11T20:17:51.769593+00:00",
+  "updated_at": "2026-07-11T20:46:16.961272+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48875377",
+      "source": "hn",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "score": 30,
+      "comments": 9,
+      "author": "theMackabu",
+      "tags": [],
+      "date": "2026-07-11T20:07:18+00:00"
+    },
+    {
+      "id": "hn-48875153",
+      "source": "hn",
+      "title": "The Chinese Voice Actor Forced to Prove He's Human",
+      "url": "https://www.sixthtone.com/news/1018753",
+      "score": 19,
+      "comments": 2,
+      "author": "homarp",
+      "tags": [],
+      "date": "2026-07-11T19:46:00+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48874297",
+      "source": "hn",
+      "title": "ZeroFS vs. Amazon S3 Files",
+      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+      "score": 8,
+      "comments": 1,
+      "author": "cbrewster",
+      "tags": [],
+      "date": "2026-07-11T18:15:35+00:00"
+    },
+    {
       "id": "hn-48874200",
       "source": "hn",
-      "title": "AI 2040 and the Cult of Intelligence",
+      "title": "AI 2040 and the cult of intelligence",
       "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "score": 50,
-      "comments": 13,
+      "score": 113,
+      "comments": 144,
       "author": "rvz",
       "tags": [],
       "date": "2026-07-11T18:04:01+00:00"
@@ -18,8 +52,8 @@
       "source": "hn",
       "title": "Who manages the agents?",
       "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-      "score": 47,
-      "comments": 32,
+      "score": 57,
+      "comments": 45,
       "author": "GavCo",
       "tags": [],
       "date": "2026-07-11T18:02:33+00:00"
@@ -27,10 +61,10 @@
     {
       "id": "hn-48873940",
       "source": "hn",
-      "title": "Prefer Strict Tables in SQLite",
+      "title": "Prefer strict tables in SQLite",
       "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 105,
-      "comments": 38,
+      "score": 128,
+      "comments": 47,
       "author": "ingve",
       "tags": [],
       "date": "2026-07-11T17:33:55+00:00"
@@ -73,8 +107,8 @@
       "source": "hn",
       "title": "Reverse centaurs are the answer to the AI paradox",
       "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-      "score": 61,
-      "comments": 18,
+      "score": 68,
+      "comments": 29,
       "author": "jason_s",
       "tags": [],
       "date": "2026-07-11T17:23:52+00:00"
@@ -84,8 +118,8 @@
       "source": "hn",
       "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
       "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 53,
-      "comments": 16,
+      "score": 65,
+      "comments": 20,
       "author": "adletbalzhanov",
       "tags": [],
       "date": "2026-07-11T17:21:49+00:00"
@@ -95,8 +129,8 @@
       "source": "hn",
       "title": "Female US rower completes historic solo journey from California to Hawaii",
       "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-      "score": 126,
-      "comments": 39,
+      "score": 142,
+      "comments": 48,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-11T17:03:23+00:00"
@@ -117,7 +151,7 @@
       "source": "hn",
       "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
       "url": "https://nagylukas.github.io/orbit.html",
-      "score": 21,
+      "score": 26,
       "comments": 3,
       "author": "lukas9",
       "tags": [],
@@ -128,7 +162,7 @@
       "source": "hn",
       "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
       "url": "https://github.com/skorotkiewicz/earth-game",
-      "score": 12,
+      "score": 14,
       "comments": 2,
       "author": "modinfo",
       "tags": [],
@@ -139,8 +173,8 @@
       "source": "hn",
       "title": "UPI: Anatomy of a Payment Transaction",
       "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "score": 26,
-      "comments": 6,
+      "score": 36,
+      "comments": 10,
       "author": "prtk25",
       "tags": [],
       "date": "2026-07-11T16:33:42+00:00"
@@ -150,8 +184,8 @@
       "source": "hn",
       "title": "Modern decor may be straining people's brains",
       "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-      "score": 130,
-      "comments": 114,
+      "score": 137,
+      "comments": 129,
       "author": "downwithdisease",
       "tags": [],
       "date": "2026-07-11T16:28:48+00:00"
@@ -161,8 +195,8 @@
       "source": "hn",
       "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
       "url": "https://github.com/swellweb/reame",
-      "score": 14,
-      "comments": 4,
+      "score": 16,
+      "comments": 5,
       "author": "targetbridge",
       "tags": [],
       "date": "2026-07-11T16:27:44+00:00"
@@ -184,8 +218,8 @@
       "source": "hn",
       "title": "We scaled PgBouncer to 4x throughput",
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "score": 132,
-      "comments": 15,
+      "score": 138,
+      "comments": 16,
       "author": "saisrirampur",
       "tags": [],
       "date": "2026-07-11T15:28:02+00:00"
@@ -195,8 +229,8 @@
       "source": "hn",
       "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
       "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-      "score": 66,
-      "comments": 30,
+      "score": 69,
+      "comments": 32,
       "author": "wolfi1",
       "tags": [],
       "date": "2026-07-11T15:26:12+00:00"
@@ -217,8 +251,8 @@
       "source": "hn",
       "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
       "url": "https://shipthatcode.com",
-      "score": 64,
-      "comments": 24,
+      "score": 68,
+      "comments": 30,
       "author": "acley",
       "tags": [],
       "date": "2026-07-11T13:40:27+00:00"
@@ -440,8 +474,8 @@
       "source": "hn",
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 367,
-      "comments": 163,
+      "score": 371,
+      "comments": 166,
       "author": "hhs",
       "tags": [],
       "date": "2026-07-10T22:30:44+00:00"
@@ -464,8 +498,8 @@
       "source": "hn",
       "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
       "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
-      "score": 35,
-      "comments": 18,
+      "score": 38,
+      "comments": 19,
       "author": "msephton",
       "tags": [],
       "date": "2026-07-10T22:04:45+00:00"
@@ -2638,6 +2672,17 @@
       "date": "2026-07-08T23:47:39+09:00"
     },
     {
+      "id": "hn-48832274",
+      "source": "hn",
+      "title": "Taiwan's Lost 8-Bit Computer [video]",
+      "url": "https://www.youtube.com/watch?v=IZH1rR7WogI",
+      "score": 10,
+      "comments": 0,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-08T14:15:16+00:00"
+    },
+    {
       "id": "hn-48832212",
       "source": "hn",
       "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
@@ -3059,7 +3104,7 @@
       "source": "hn",
       "title": "Google Search lets creators know more about their reach",
       "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "score": 83,
+      "score": 84,
       "comments": 37,
       "author": "herbertl",
       "tags": [],
@@ -3175,8 +3220,8 @@
       "source": "hn",
       "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
       "url": "https://amber-lang.com/",
-      "score": 38,
-      "comments": 22,
+      "score": 42,
+      "comments": 25,
       "author": "_superposition_",
       "tags": [],
       "date": "2026-07-07T19:22:56+00:00"
@@ -3296,7 +3341,7 @@
       "source": "hn",
       "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
       "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
-      "score": 50,
+      "score": 56,
       "comments": 1,
       "author": "jacobobryant",
       "tags": [],
@@ -5136,57 +5181,6 @@
         "Qiita"
       ],
       "date": "2026-07-06T20:27:23+09:00"
-    },
-    {
-      "id": "qiita-55d6098315",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Java】Tomcat の概要",
-      "url": "https://qiita.com/Yasushi-Mo/items/eba777124567ce4e86db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Yasushi-Mo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-06T20:23:56+09:00"
-    },
-    {
-      "id": "qiita-e5c3a39dec",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code の無料セキュリティ監査プラグインで脆弱性を自動検出・修正してみる",
-      "url": "https://qiita.com/nogataka/items/4d2a551f89f6b4f94b01?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nogataka",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-06T20:00:39+09:00",
-      "severity": "high"
-    },
-    {
-      "id": "qiita-19e00f4a91",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "LLMのコスト暴走と情報漏洩を防ぐ社内Gateway設計: Azure/AWSガバナンスとLiteLLM実装(Phase1→Phase2)",
-      "url": "https://qiita.com/nogataka/items/6251b5727998ca29734c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nogataka",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-06T20:00:01+09:00"
-    },
-    {
-      "id": "hn-48802971",
-      "source": "hn",
-      "title": "How the U.S. Engineered Its Sovereignty",
-      "url": "https://spectrum.ieee.org/us-engineered-sovereignty",
-      "score": 11,
-      "comments": 1,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-07-06T10:49:29+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-349372792",
