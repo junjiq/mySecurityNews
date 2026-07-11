@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-11T15:47:28.760485+00:00",
+  "generated_at": "2026-07-11T16:18:35.592057+00:00",
   "total_articles": 459,
   "source_counts": {
-    "hn": 349,
-    "zennqiita": 101,
+    "hn": 350,
+    "zennqiita": 100,
     "project": 9
   },
   "severity_counts": {
+    "critical": 9,
     "medium": 1,
-    "high": 4,
-    "critical": 8
+    "high": 4
   },
   "top_articles": [
     {
@@ -37,7 +37,7 @@
     {
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 1343,
+      "score": 1369,
       "source": "hn",
       "date": "2026-07-10T20:47:09+00:00"
     },
@@ -135,7 +135,7 @@
     {
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 666,
+      "score": 670,
       "source": "hn",
       "date": "2026-07-10T15:59:53+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Tropical forests facing increasing risks of exposure to critical temp thresholds",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2528622123",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-11T15:38:46+00:00"
+    },
     {
       "title": "Build your own vulnerability harness",
       "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
