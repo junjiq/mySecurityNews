@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-11T22:17:27.942787+00:00",
-  "total_articles": 459,
+  "generated_at": "2026-07-11T22:46:37.263053+00:00",
+  "total_articles": 463,
   "source_counts": {
-    "hn": 357,
+    "hn": 361,
     "zennqiita": 93,
     "project": 9
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 11,
     "medium": 1,
     "high": 3
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-11T21:58:00+00:00"
+    },
     {
       "title": "The Chinese Voice Actor Forced to Prove He's Human",
       "url": "https://www.sixthtone.com/news/1018753",

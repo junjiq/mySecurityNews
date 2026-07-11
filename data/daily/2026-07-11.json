@@ -1,9 +1,16 @@
 {
   "date": "2026-07-11",
-  "generated_at": "2026-07-11T22:17:27.900438+00:00",
+  "generated_at": "2026-07-11T22:46:37.216875+00:00",
   "total_articles": 43,
-  "urgent_count": 2,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-11T21:58:00+00:00"
+    },
     {
       "title": "The Chinese Voice Actor Forced to Prove He's Human",
       "url": "https://www.sixthtone.com/news/1018753",
@@ -22,23 +29,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 37,
       "top_items": [
-        {
-          "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-          "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-          "score": 377,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-10T22:30:44+00:00"
-        },
         {
           "title": "Female US rower completes historic solo journey from California to Hawaii",
           "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-          "score": 193,
+          "score": 204,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:03:23+00:00"
+        },
+        {
+          "title": "Prefer strict tables in SQLite",
+          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+          "score": 178,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-11T17:33:55+00:00"
         },
         {
           "title": "The vintage beauty of Soviet control rooms (2018)",
@@ -49,26 +56,26 @@
           "date": "2026-07-11T05:19:41+00:00"
         },
         {
-          "title": "Prefer strict tables in SQLite",
-          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-          "score": 170,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-11T17:33:55+00:00"
-        },
-        {
           "title": "Networking and the Internet, from First Principles",
           "url": "https://fazamhd.com/mental-models/networking/",
           "score": 168,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T12:30:40+00:00"
+        },
+        {
+          "title": "We scaled PgBouncer to 4x throughput",
+          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+          "score": 159,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-11T15:28:02+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 6,
       "top_items": [
         {
           "title": "【AWS】DevOpsAgentで変革する自動テスト【DevOpsAgent】",
