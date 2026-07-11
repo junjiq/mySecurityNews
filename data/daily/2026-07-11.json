@@ -1,18 +1,18 @@
 {
   "date": "2026-07-11",
-  "generated_at": "2026-07-11T07:34:01.904778+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-07-11T08:35:21.139192+00:00",
+  "total_articles": 57,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 46,
       "top_items": [
         {
           "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
           "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-          "score": 948,
+          "score": 998,
           "source": "hn",
           "severity": null,
           "date": "2026-07-10T20:47:09+00:00"
@@ -20,7 +20,7 @@
         {
           "title": "QuadRF can spot drones and see WiFi through my wall",
           "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-          "score": 540,
+          "score": 561,
           "source": "hn",
           "severity": null,
           "date": "2026-07-10T15:59:53+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "New York City to ban deceptive subscription practices",
           "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-          "score": 497,
+          "score": 504,
           "source": "hn",
           "severity": null,
           "date": "2026-07-10T18:26:24+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
           "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-          "score": 433,
+          "score": 442,
           "source": "hn",
           "severity": null,
           "date": "2026-07-10T18:29:19+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "Good Tools Are Invisible",
           "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-          "score": 403,
+          "score": 417,
           "source": "hn",
           "severity": null,
           "date": "2026-07-10T10:32:41+00:00"
@@ -53,39 +53,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 10,
       "top_items": [
         {
-          "title": "Zoom AI ServicesをMCPサーバー化してClaude Codeから使ってみた",
-          "url": "https://qiita.com/rai03/items/eec6818fd48b0c104e47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【AWS】DevOpsAgentで変革する自動テスト【DevOpsAgent】",
+          "url": "https://qiita.com/Nana_777/items/8e2bba602339e5fc930a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-11T00:17:14+09:00"
+          "date": "2026-07-11T15:29:53+09:00"
         },
         {
-          "title": "Miseのdotfiles機能、ご存知でしょうか？",
-          "url": "https://qiita.com/umekikazuya/items/ec67802c538afdf924aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "LM StudioでローカルLLM環境を構築してみた",
+          "url": "https://qiita.com/Hinata-H/items/00542a07b227f79635f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-10T18:02:23+09:00"
+          "date": "2026-07-11T14:07:28+09:00"
         },
         {
-          "title": "5年後、AIに頼りすぎた自分を後悔する？考えてみた",
-          "url": "https://qiita.com/prum_sumomo/items/299014d7667aa57fb5d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Unity 6.7 の CoreCLR Player が爆速しすぎて笑ってしまった件",
+          "url": "https://qiita.com/hez2010/items/4c608360c73fc6293bf1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-10T17:29:46+09:00"
+          "date": "2026-07-11T11:36:27+09:00"
         },
         {
-          "title": "【備忘録】AIエージェント時代におけるプロンプトエンジニアリングの再定義",
-          "url": "https://qiita.com/otokoumeKM/items/b554419018c40775649e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "新卒エンジニアが生きのこるために",
+          "url": "https://qiita.com/sai029/items/d0e9f03016bb2a2bc425?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-10T16:37:37+09:00"
+          "date": "2026-07-11T10:42:17+09:00"
+        },
+        {
+          "title": "AWS MCP Serverが普通に使えるようになったよ！",
+          "url": "https://qiita.com/moritalous/items/6102ef63dc60c7e6ee3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-11T07:19:30+09:00"
         }
       ]
     },
