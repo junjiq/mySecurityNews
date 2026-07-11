@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-11T08:35:21.182115+00:00",
+  "generated_at": "2026-07-11T09:32:17.634273+00:00",
   "total_articles": 459,
   "source_counts": {
     "hn": 347,
@@ -10,7 +10,7 @@
   "severity_counts": {
     "medium": 1,
     "high": 4,
-    "critical": 9
+    "critical": 8
   },
   "top_articles": [
     {
@@ -42,18 +42,18 @@
       "date": "2026-07-08T23:37:43+00:00"
     },
     {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 1051,
+      "source": "hn",
+      "date": "2026-07-10T20:47:09+00:00"
+    },
+    {
       "title": "Show HN: 18 Words",
       "url": "https://18words.com/",
       "score": 1039,
       "source": "hn",
       "date": "2026-07-09T12:48:52+00:00"
-    },
-    {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 998,
-      "source": "hn",
-      "date": "2026-07-10T20:47:09+00:00"
     },
     {
       "title": "Chatto is now open source",
@@ -238,13 +238,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-07-06T20:00:39+09:00"
-    },
-    {
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "url": "https://homegames.io",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-05T21:32:44+00:00"
     }
   ]
 }
