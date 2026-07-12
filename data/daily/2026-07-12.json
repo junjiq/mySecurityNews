@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T01:34:43.250932+00:00",
-  "total_articles": 48,
+  "generated_at": "2026-07-12T03:04:34.745556+00:00",
+  "total_articles": 52,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 50,
       "top_items": [
         {
           "title": "Female US rower completes historic solo journey from California to Hawaii",
@@ -42,15 +42,23 @@
         {
           "title": "Prefer strict tables in SQLite",
           "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-          "score": 216,
+          "score": 232,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:33:55+00:00"
         },
         {
+          "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+          "url": "https://antjs.org",
+          "score": 197,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-11T20:07:18+00:00"
+        },
+        {
           "title": "We scaled PgBouncer to 4x throughput",
           "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-          "score": 178,
+          "score": 182,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T15:28:02+00:00"
@@ -62,20 +70,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T05:19:41+00:00"
-        },
-        {
-          "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-          "url": "https://antjs.org",
-          "score": 174,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-11T20:07:18+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 2,
       "top_items": [
         {
           "title": "【AWS】DevOpsAgentで変革する自動テスト【DevOpsAgent】",
@@ -92,30 +92,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-11T14:07:28+09:00"
-        },
-        {
-          "title": "Unity 6.7 の CoreCLR Player が爆速しすぎて笑ってしまった件",
-          "url": "https://qiita.com/hez2010/items/4c608360c73fc6293bf1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-11T11:36:27+09:00"
-        },
-        {
-          "title": "【AWS】AgentCore Managed Harnessでマルチエージェントを作りたくなったらどうすればいいのか",
-          "url": "https://qiita.com/yakumo_09/items/85b797ba5506d9aa4a1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-11T11:18:38+09:00"
-        },
-        {
-          "title": "新卒エンジニアが生きのこるために",
-          "url": "https://qiita.com/sai029/items/d0e9f03016bb2a2bc425?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-11T10:42:17+09:00"
         }
       ]
     }
