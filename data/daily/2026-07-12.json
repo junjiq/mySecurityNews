@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T22:46:20.208892+00:00",
+  "generated_at": "2026-07-12T23:18:35.994301+00:00",
   "total_articles": 78,
   "urgent_count": 2,
   "urgent_items": [
@@ -22,12 +22,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 65,
+      "count": 66,
       "top_items": [
+        {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "score": 393,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T18:25:51+00:00"
+        },
         {
           "title": "Old and new apps, via modern coding agents",
           "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-          "score": 387,
+          "score": 391,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T11:09:42+00:00"
@@ -41,17 +49,9 @@
           "date": "2026-07-12T01:09:50+00:00"
         },
         {
-          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "score": 362,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-12T18:25:51+00:00"
-        },
-        {
           "title": "I love LLMs, I hate hype",
           "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-          "score": 259,
+          "score": 273,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T18:31:56+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "【AWS小ネタ】無効化している1回限りのEventBridgeスケジュールを実行時刻を過ぎてから有効化すると即発火する",
