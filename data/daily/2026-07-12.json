@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T06:02:20.214292+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-07-12T07:20:17.827138+00:00",
+  "total_articles": 52,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,8 +29,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 52,
       "top_items": [
+        {
+          "title": "Prefer strict tables in SQLite",
+          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+          "score": 264,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-11T17:33:55+00:00"
+        },
         {
           "title": "Female US rower completes historic solo journey from California to Hawaii",
           "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
@@ -40,17 +48,9 @@
           "date": "2026-07-11T17:03:23+00:00"
         },
         {
-          "title": "Prefer strict tables in SQLite",
-          "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-          "score": 251,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-11T17:33:55+00:00"
-        },
-        {
           "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
           "url": "https://antjs.org",
-          "score": 224,
+          "score": 241,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T20:07:18+00:00"
@@ -58,32 +58,18 @@
         {
           "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
           "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-          "score": 215,
+          "score": 231,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:21:49+00:00"
         },
         {
-          "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "score": 196,
+          "title": "We scaled PgBouncer to 4x throughput",
+          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+          "score": 200,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-12T01:09:50+00:00"
-        }
-      ]
-    },
-    {
-      "category": "日本語技術記事",
-      "count": 1,
-      "top_items": [
-        {
-          "title": "【AWS】DevOpsAgentで変革する自動テスト【DevOpsAgent】",
-          "url": "https://qiita.com/Nana_777/items/8e2bba602339e5fc930a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-11T15:29:53+09:00"
+          "date": "2026-07-11T15:28:02+00:00"
         }
       ]
     }
