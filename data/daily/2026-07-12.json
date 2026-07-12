@@ -1,8 +1,8 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T15:22:37.544496+00:00",
-  "total_articles": 67,
-  "urgent_count": 4,
+  "generated_at": "2026-07-12T15:48:06.127670+00:00",
+  "total_articles": 65,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Unauthenticated RCE in Motorola's MR2600 Router",
@@ -24,24 +24,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-11T19:46:00+00:00"
-    },
-    {
-      "title": "Tropical forests facing increasing risks of exposure to critical temp thresholds",
-      "url": "https://www.pnas.org/doi/10.1073/pnas.2528622123",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-11T15:38:46+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 57,
       "top_items": [
         {
           "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
           "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-          "score": 322,
+          "score": 328,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:21:49+00:00"
@@ -49,10 +42,18 @@
         {
           "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
           "url": "https://antjs.org",
-          "score": 305,
+          "score": 308,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T20:07:18+00:00"
+        },
+        {
+          "title": "Mesh LLM: distributed AI computing on iroh",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "score": 305,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-11T22:38:57+00:00"
         },
         {
           "title": "Prefer strict tables in SQLite",
@@ -61,14 +62,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:33:55+00:00"
-        },
-        {
-          "title": "Mesh LLM: distributed AI computing on iroh",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "score": 301,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-11T22:38:57+00:00"
         },
         {
           "title": "Female US rower completes historic solo journey from California to Hawaii",
