@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T00:33:10.779865+00:00",
-  "total_articles": 47,
+  "generated_at": "2026-07-12T01:34:43.250932+00:00",
+  "total_articles": 48,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "Female US rower completes historic solo journey from California to Hawaii",
           "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-          "score": 241,
+          "score": 253,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:03:23+00:00"
@@ -42,10 +42,18 @@
         {
           "title": "Prefer strict tables in SQLite",
           "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-          "score": 208,
+          "score": 216,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:33:55+00:00"
+        },
+        {
+          "title": "We scaled PgBouncer to 4x throughput",
+          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+          "score": 178,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-11T15:28:02+00:00"
         },
         {
           "title": "The vintage beauty of Soviet control rooms (2018)",
@@ -56,20 +64,12 @@
           "date": "2026-07-11T05:19:41+00:00"
         },
         {
-          "title": "We scaled PgBouncer to 4x throughput",
-          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-          "score": 171,
+          "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+          "url": "https://antjs.org",
+          "score": 174,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-11T15:28:02+00:00"
-        },
-        {
-          "title": "Networking and the Internet, from First Principles",
-          "url": "https://fazamhd.com/mental-models/networking/",
-          "score": 168,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-11T12:30:40+00:00"
+          "date": "2026-07-11T20:07:18+00:00"
         }
       ]
     },
