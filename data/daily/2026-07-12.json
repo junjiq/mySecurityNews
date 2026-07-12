@@ -1,9 +1,16 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T12:48:30.738631+00:00",
-  "total_articles": 65,
-  "urgent_count": 3,
+  "generated_at": "2026-07-12T13:31:09.366396+00:00",
+  "total_articles": 67,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
+      "url": "https://mrbruh.com/motorola/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-12T11:52:21+00:00"
+    },
     {
       "title": "RISCBoy is an open-source portable games console, designed from scratch",
       "url": "https://github.com/Wren6991/RISCBoy",
@@ -29,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 58,
       "top_items": [
         {
           "title": "Prefer strict tables in SQLite",
@@ -42,7 +49,7 @@
         {
           "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
           "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-          "score": 293,
+          "score": 300,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:21:49+00:00"
@@ -50,7 +57,7 @@
         {
           "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
           "url": "https://antjs.org",
-          "score": 288,
+          "score": 292,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T20:07:18+00:00"
@@ -58,7 +65,7 @@
         {
           "title": "Mesh LLM: distributed AI computing on iroh",
           "url": "https://www.iroh.computer/blog/mesh-llm",
-          "score": 277,
+          "score": 286,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T22:38:57+00:00"

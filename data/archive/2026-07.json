@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-12T12:48:30.788087+00:00",
+  "generated_at": "2026-07-12T13:31:09.412256+00:00",
   "total_articles": 459,
   "source_counts": {
     "hn": 352,
@@ -8,9 +8,9 @@
     "project": 9
   },
   "severity_counts": {
+    "critical": 12,
     "medium": 2,
-    "critical": 11,
-    "high": 3
+    "high": 2
   },
   "top_articles": [
     {
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
+      "url": "https://mrbruh.com/motorola/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-12T11:52:21+00:00"
+    },
+    {
       "title": "RISCBoy is an open-source portable games console, designed from scratch",
       "url": "https://github.com/Wren6991/RISCBoy",
       "severity": "critical",
@@ -245,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-06T21:39:04+00:00"
-    },
-    {
-      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
-      "url": "https://github.com/V4bel/Januscape",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-06T17:35:03+00:00"
     }
   ]
 }
