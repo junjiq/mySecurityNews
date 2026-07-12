@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T20:17:02.029552+00:00",
-  "total_articles": 74,
+  "generated_at": "2026-07-12T20:46:29.886175+00:00",
+  "total_articles": 76,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,8 +29,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 60,
+      "count": 62,
       "top_items": [
+        {
+          "title": "Old and new apps, via modern coding agents",
+          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+          "score": 369,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T11:09:42+00:00"
+        },
         {
           "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
           "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
@@ -38,14 +46,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T01:09:50+00:00"
-        },
-        {
-          "title": "Old and new apps, via modern coding agents",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-          "score": 362,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-12T11:09:42+00:00"
         },
         {
           "title": "Mesh LLM: distributed AI computing on iroh",
@@ -56,20 +56,20 @@
           "date": "2026-07-11T22:38:57+00:00"
         },
         {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "score": 253,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T18:25:51+00:00"
+        },
+        {
           "title": "Ghostel.el: Terminal emulator powered by libghostty",
           "url": "https://dakra.github.io/ghostel/",
           "score": 242,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T08:52:59+00:00"
-        },
-        {
-          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "score": 204,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-12T18:25:51+00:00"
         }
       ]
     },
