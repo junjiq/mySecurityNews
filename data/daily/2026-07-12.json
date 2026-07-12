@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T14:30:54.197886+00:00",
+  "generated_at": "2026-07-12T15:22:37.544496+00:00",
   "total_articles": 67,
   "urgent_count": 4,
   "urgent_items": [
@@ -36,15 +36,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 59,
       "top_items": [
         {
           "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
           "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-          "score": 312,
+          "score": 322,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:21:49+00:00"
+        },
+        {
+          "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+          "url": "https://antjs.org",
+          "score": 305,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-11T20:07:18+00:00"
         },
         {
           "title": "Prefer strict tables in SQLite",
@@ -55,17 +63,9 @@
           "date": "2026-07-11T17:33:55+00:00"
         },
         {
-          "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-          "url": "https://antjs.org",
-          "score": 300,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-11T20:07:18+00:00"
-        },
-        {
           "title": "Mesh LLM: distributed AI computing on iroh",
           "url": "https://www.iroh.computer/blog/mesh-llm",
-          "score": 294,
+          "score": 301,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T22:38:57+00:00"
@@ -82,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "Maxwell 方程式から見るインダクタンス：自己インダクタンスと相互インダクタンスの正体",
