@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T07:20:17.827138+00:00",
-  "total_articles": 52,
+  "generated_at": "2026-07-12T08:18:30.680119+00:00",
+  "total_articles": 64,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 53,
       "top_items": [
         {
           "title": "Prefer strict tables in SQLite",
           "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-          "score": 264,
+          "score": 273,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:33:55+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
           "url": "https://antjs.org",
-          "score": 241,
+          "score": 252,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T20:07:18+00:00"
@@ -58,18 +58,64 @@
         {
           "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
           "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-          "score": 231,
+          "score": 246,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:21:49+00:00"
         },
         {
-          "title": "We scaled PgBouncer to 4x throughput",
-          "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-          "score": 200,
+          "title": "Mesh LLM: distributed AI computing on iroh",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "score": 226,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-11T15:28:02+00:00"
+          "date": "2026-07-11T22:38:57+00:00"
+        }
+      ]
+    },
+    {
+      "category": "日本語技術記事",
+      "count": 11,
+      "top_items": [
+        {
+          "title": "AtCoderで入緑しました！",
+          "url": "https://qiita.com/WebP/items/e57e661b4131a074a8e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-12T14:37:16+09:00"
+        },
+        {
+          "title": "2026/07/12 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+          "url": "https://qiita.com/ennagara128/items/ecbdea9a7fd2f9bf1b80?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-12T13:30:41+09:00"
+        },
+        {
+          "title": "【実験】AWS 東京と大阪を閉域で繋ぐ3つの方法、実際どれくらい速さが違うのか",
+          "url": "https://qiita.com/sh_fukatsu/items/541051be6cbd4a90f2a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-12T12:19:19+09:00"
+        },
+        {
+          "title": "【VRChat】WorldではEditorOnlyだけだとアップロードされる",
+          "url": "https://qiita.com/dimebag29/items/0e0aa286ca74a13789dc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-12T12:12:00+09:00"
+        },
+        {
+          "title": "AI Agentで変わるAndroid開発環境",
+          "url": "https://qiita.com/takahirom/items/177d10248bbddca84144?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-12T11:40:13+09:00"
         }
       ]
     }
