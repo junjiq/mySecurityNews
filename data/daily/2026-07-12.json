@@ -1,8 +1,8 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T21:46:47.339445+00:00",
+  "generated_at": "2026-07-12T22:17:52.651969+00:00",
   "total_articles": 80,
-  "urgent_count": 3,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Unauthenticated RCE in Motorola's MR2600 Router",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-12T11:52:21+00:00"
-    },
-    {
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-11T21:58:00+00:00"
     },
     {
       "title": "フロンティアAIの時代における脆弱性診断・ペネトレーションテストのあり方",
@@ -29,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 66,
+      "count": 67,
       "top_items": [
         {
           "title": "Old and new apps, via modern coding agents",
           "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-          "score": 382,
+          "score": 385,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T11:09:42+00:00"
@@ -48,6 +41,14 @@
           "date": "2026-07-12T01:09:50+00:00"
         },
         {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "score": 348,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T18:25:51+00:00"
+        },
+        {
           "title": "Mesh LLM: distributed AI computing on iroh",
           "url": "https://www.iroh.computer/blog/mesh-llm",
           "score": 323,
@@ -56,26 +57,18 @@
           "date": "2026-07-11T22:38:57+00:00"
         },
         {
-          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "score": 313,
+          "title": "I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "score": 246,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-12T18:25:51+00:00"
-        },
-        {
-          "title": "Ghostel.el: Terminal emulator powered by libghostty",
-          "url": "https://dakra.github.io/ghostel/",
-          "score": 242,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-12T08:52:59+00:00"
+          "date": "2026-07-12T18:31:56+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "【AWS小ネタ】無効化している1回限りのEventBridgeスケジュールを実行時刻を過ぎてから有効化すると即発火する",
