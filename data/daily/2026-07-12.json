@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T22:17:52.651969+00:00",
-  "total_articles": 80,
+  "generated_at": "2026-07-12T22:46:20.208892+00:00",
+  "total_articles": 78,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 67,
+      "count": 65,
       "top_items": [
         {
           "title": "Old and new apps, via modern coding agents",
           "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-          "score": 385,
+          "score": 387,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T11:09:42+00:00"
@@ -43,26 +43,26 @@
         {
           "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
           "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "score": 348,
+          "score": 362,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T18:25:51+00:00"
         },
         {
-          "title": "Mesh LLM: distributed AI computing on iroh",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "score": 323,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-11T22:38:57+00:00"
-        },
-        {
           "title": "I love LLMs, I hate hype",
           "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-          "score": 246,
+          "score": 259,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T18:31:56+00:00"
+        },
+        {
+          "title": "Ghostel.el: Terminal emulator powered by libghostty",
+          "url": "https://dakra.github.io/ghostel/",
+          "score": 242,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T08:52:59+00:00"
         }
       ]
     },
