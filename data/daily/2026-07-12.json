@@ -1,8 +1,8 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T19:25:19.338290+00:00",
-  "total_articles": 65,
-  "urgent_count": 3,
+  "generated_at": "2026-07-12T19:52:59.118424+00:00",
+  "total_articles": 66,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Unauthenticated RCE in Motorola's MR2600 Router",
@@ -17,24 +17,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-11T21:58:00+00:00"
-    },
-    {
-      "title": "The Chinese Voice Actor Forced to Prove He's Human",
-      "url": "https://www.sixthtone.com/news/1018753",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-11T19:46:00+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 59,
       "top_items": [
         {
           "title": "Old and new apps, via modern coding agents",
           "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-          "score": 350,
+          "score": 357,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T11:09:42+00:00"
@@ -42,7 +35,7 @@
         {
           "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
           "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "score": 344,
+          "score": 353,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T01:09:50+00:00"
@@ -66,7 +59,7 @@
         {
           "title": "Ghostel.el: Terminal emulator powered by libghostty",
           "url": "https://dakra.github.io/ghostel/",
-          "score": 231,
+          "score": 236,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T08:52:59+00:00"
