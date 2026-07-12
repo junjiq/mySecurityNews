@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T17:48:15.962826+00:00",
+  "generated_at": "2026-07-12T18:19:28.970456+00:00",
   "total_articles": 62,
   "urgent_count": 3,
   "urgent_items": [
@@ -34,10 +34,18 @@
         {
           "title": "Mesh LLM: distributed AI computing on iroh",
           "url": "https://www.iroh.computer/blog/mesh-llm",
-          "score": 319,
+          "score": 323,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T22:38:57+00:00"
+        },
+        {
+          "title": "Old and new apps, via modern coding agents",
+          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+          "score": 322,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T11:09:42+00:00"
         },
         {
           "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
@@ -48,12 +56,12 @@
           "date": "2026-07-11T20:07:18+00:00"
         },
         {
-          "title": "Old and new apps, via modern coding agents by Terry Tao",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-          "score": 302,
+          "title": "Ghostel.el: Terminal emulator powered by libghostty",
+          "url": "https://dakra.github.io/ghostel/",
+          "score": 196,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-12T11:09:42+00:00"
+          "date": "2026-07-12T08:52:59+00:00"
         },
         {
           "title": "What xAI's Grok Build CLI Actually Sends to xAI",
@@ -62,14 +70,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T01:09:50+00:00"
-        },
-        {
-          "title": "RISCBoy is an open-source portable games console, designed from scratch",
-          "url": "https://github.com/Wren6991/RISCBoy",
-          "score": 191,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-07-11T21:58:00+00:00"
         }
       ]
     },
