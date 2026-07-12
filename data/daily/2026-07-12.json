@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T09:11:25.619118+00:00",
-  "total_articles": 63,
+  "generated_at": "2026-07-12T10:03:39.642710+00:00",
+  "total_articles": 61,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 51,
       "top_items": [
         {
           "title": "Prefer strict tables in SQLite",
           "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-          "score": 280,
+          "score": 290,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:33:55+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
           "url": "https://antjs.org",
-          "score": 263,
+          "score": 269,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T20:07:18+00:00"
@@ -50,10 +50,18 @@
         {
           "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
           "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-          "score": 253,
+          "score": 263,
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:21:49+00:00"
+        },
+        {
+          "title": "Mesh LLM: distributed AI computing on iroh",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "score": 258,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-11T22:38:57+00:00"
         },
         {
           "title": "Female US rower completes historic solo journey from California to Hawaii",
@@ -62,14 +70,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T17:03:23+00:00"
-        },
-        {
-          "title": "Mesh LLM: distributed AI computing on iroh",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "score": 249,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-11T22:38:57+00:00"
         }
       ]
     },
