@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-12T19:52:59.165594+00:00",
+  "generated_at": "2026-07-12T20:17:02.074908+00:00",
   "total_articles": 459,
   "source_counts": {
-    "hn": 356,
-    "zennqiita": 94,
+    "hn": 350,
+    "zennqiita": 100,
     "project": 9
   },
   "severity_counts": {
     "critical": 11,
     "medium": 2,
-    "high": 2
+    "high": 3
   },
   "top_articles": [
     {
@@ -161,6 +161,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-12T11:52:21+00:00"
+    },
+    {
+      "title": "フロンティアAIの時代における脆弱性診断・ペネトレーションテストのあり方",
+      "url": "https://qiita.com/suzukengo/items/36194332bf30137b9ac5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-07-12T11:02:06+09:00"
     },
     {
       "title": "RISCBoy is an open-source portable games console, designed from scratch",
