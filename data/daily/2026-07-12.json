@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T18:19:28.970456+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-07-12T18:48:09.286674+00:00",
+  "total_articles": 64,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,8 +29,24 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 57,
       "top_items": [
+        {
+          "title": "Old and new apps, via modern coding agents",
+          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+          "score": 334,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T11:09:42+00:00"
+        },
+        {
+          "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "score": 329,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T01:09:50+00:00"
+        },
         {
           "title": "Mesh LLM: distributed AI computing on iroh",
           "url": "https://www.iroh.computer/blog/mesh-llm",
@@ -38,14 +54,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-11T22:38:57+00:00"
-        },
-        {
-          "title": "Old and new apps, via modern coding agents",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-          "score": 322,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-12T11:09:42+00:00"
         },
         {
           "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
@@ -58,18 +66,10 @@
         {
           "title": "Ghostel.el: Terminal emulator powered by libghostty",
           "url": "https://dakra.github.io/ghostel/",
-          "score": 196,
+          "score": 206,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T08:52:59+00:00"
-        },
-        {
-          "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "score": 196,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-12T01:09:50+00:00"
         }
       ]
     },
