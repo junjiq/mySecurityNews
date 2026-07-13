@@ -1,42 +1,34 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T10:36:10.248994+00:00",
-  "total_articles": 73,
-  "urgent_count": 1,
-  "urgent_items": [
-    {
-      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
-      "url": "https://mrbruh.com/motorola/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-12T11:52:21+00:00"
-    }
-  ],
+  "generated_at": "2026-07-13T12:01:38.073220+00:00",
+  "total_articles": 69,
+  "urgent_count": 0,
+  "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 61,
+      "count": 56,
       "top_items": [
         {
           "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
           "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "score": 601,
+          "score": 619,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T18:25:51+00:00"
         },
         {
-          "title": "Old and new apps, via modern coding agents",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-          "score": 420,
+          "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+          "score": 467,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-12T11:09:42+00:00"
+          "date": "2026-07-13T08:39:39+00:00"
         },
         {
           "title": "How to read more books",
           "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-          "score": 374,
+          "score": 405,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T15:47:16+00:00"
@@ -61,8 +53,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 13,
       "top_items": [
+        {
+          "title": "生成AIセキュリティ入門：企業で起きるリスクと重大インシデント",
+          "url": "https://qiita.com/n-okutomi/items/2ee94d9138f7184aa5c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-13T19:38:35+09:00"
+        },
         {
           "title": "Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版）",
           "url": "https://qiita.com/fuyunoki/items/5818688d20225aa8088a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-13T13:27:10+09:00"
-        },
-        {
-          "title": "【今更きけないCodex】2026年7月アップデート版：ChatGPTデスクトップで最初に見るべき機能と使う順番",
-          "url": "https://qiita.com/TMiyamoto/items/6bd89423d5b38916e48d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-13T11:48:11+09:00"
         }
       ]
     }
