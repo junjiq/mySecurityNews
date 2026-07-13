@@ -1,18 +1,18 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T14:17:46.279828+00:00",
+  "generated_at": "2026-07-13T15:28:50.188293+00:00",
   "total_articles": 67,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 55,
       "top_items": [
         {
           "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
           "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-          "score": 868,
+          "score": 1036,
           "source": "hn",
           "severity": null,
           "date": "2026-07-13T08:39:39+00:00"
@@ -28,10 +28,18 @@
         {
           "title": "How to read more books",
           "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-          "score": 452,
+          "score": 482,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T15:47:16+00:00"
+        },
+        {
+          "title": "The Graph That Should Be Front-Page News",
+          "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+          "score": 366,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-13T05:35:27+00:00"
         },
         {
           "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
@@ -40,20 +48,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T21:12:11+00:00"
-        },
-        {
-          "title": "Sam Neill has died",
-          "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-          "score": 319,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-13T06:02:11+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "生成AIセキュリティ入門：企業で起きるリスクと重大インシデント",
