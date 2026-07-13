@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-13T17:15:36.035375+00:00",
+  "updated_at": "2026-07-13T18:08:32.721958+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48896308",
+      "source": "hn",
+      "title": "NTSB Report on NetJets first fatality in 40 years (Josh Baer RIP)",
+      "url": "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/203191/pdf",
+      "score": 4,
+      "comments": 0,
+      "author": "r2sk5t",
+      "tags": [],
+      "date": "2026-07-13T17:55:28+00:00"
+    },
     {
       "id": "hn-48895565",
       "source": "hn",
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
       "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "score": 82,
-      "comments": 60,
+      "score": 161,
+      "comments": 77,
       "author": "get-inscribe",
       "tags": [],
       "date": "2026-07-13T16:06:08+00:00"
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "Wikipedia escapes Category 1 designation under the UK Online Safety Act for now",
       "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report",
-      "score": 27,
-      "comments": 11,
+      "score": 42,
+      "comments": 27,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-07-13T15:59:36+00:00"
@@ -62,8 +73,8 @@
       "source": "hn",
       "title": "LAPD lets contract with surveillance giant Flock expire",
       "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-      "score": 144,
-      "comments": 71,
+      "score": 216,
+      "comments": 131,
       "author": "forks",
       "tags": [],
       "date": "2026-07-13T15:11:50+00:00"
@@ -73,8 +84,8 @@
       "source": "hn",
       "title": "The art and engineering of Sega CD Silpheed",
       "url": "https://fabiensanglard.net/silpheed/index.html",
-      "score": 113,
-      "comments": 19,
+      "score": 130,
+      "comments": 20,
       "author": "ibobev",
       "tags": [],
       "date": "2026-07-13T14:52:33+00:00"
@@ -84,8 +95,8 @@
       "source": "hn",
       "title": "Precursor",
       "url": "https://blog.cloudflare.com/introducing-precursor/",
-      "score": 116,
-      "comments": 99,
+      "score": 129,
+      "comments": 107,
       "author": "AznHisoka",
       "tags": [],
       "date": "2026-07-13T14:39:38+00:00"
@@ -95,19 +106,30 @@
       "source": "hn",
       "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
       "url": "https://github.com/clawkwork/clawk",
-      "score": 118,
-      "comments": 109,
+      "score": 130,
+      "comments": 121,
       "author": "celrenheit",
       "tags": [],
       "date": "2026-07-13T14:02:03+00:00"
+    },
+    {
+      "id": "hn-48892709",
+      "source": "hn",
+      "title": "Nokia's 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
+      "url": "https://spectrum.ieee.org/nokia-phones-history",
+      "score": 24,
+      "comments": 19,
+      "author": "jruohonen",
+      "tags": [],
+      "date": "2026-07-13T13:54:10+00:00"
     },
     {
       "id": "hn-48892638",
       "source": "hn",
       "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
       "url": "https://esologic.com/benchmarking-tesla-gpus/",
-      "score": 25,
-      "comments": 7,
+      "score": 51,
+      "comments": 12,
       "author": "eso_logic",
       "tags": [],
       "date": "2026-07-13T13:48:42+00:00"
@@ -135,12 +157,23 @@
       "date": "2026-07-13T13:35:32+00:00"
     },
     {
+      "id": "hn-48891987",
+      "source": "hn",
+      "title": "A Farewell to ARPs: IPv4 Service on IPv6-Only Networks",
+      "url": "https://labs.ripe.net/author/remco-van-mook/a-farewell-to-arps-ipv4-service-on-ipv6-only-networks/",
+      "score": 18,
+      "comments": 1,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-13T12:58:07+00:00"
+    },
+    {
       "id": "hn-48891267",
       "source": "hn",
       "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
       "url": "https://github.com/floodtide/dom-docx",
-      "score": 90,
-      "comments": 23,
+      "score": 100,
+      "comments": 25,
       "author": "fishbone",
       "tags": [],
       "date": "2026-07-13T11:51:56+00:00"
@@ -172,8 +205,8 @@
       "source": "hn",
       "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
       "url": "https://jivx.com/densha",
-      "score": 238,
-      "comments": 35,
+      "score": 263,
+      "comments": 39,
       "author": "momentmaker",
       "tags": [],
       "date": "2026-07-13T11:18:30+00:00"
@@ -209,8 +242,8 @@
       "source": "hn",
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
       "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "score": 1181,
-      "comments": 603,
+      "score": 1239,
+      "comments": 626,
       "author": "crowdhailer",
       "tags": [],
       "date": "2026-07-13T08:39:39+00:00"
@@ -266,8 +299,8 @@
       "source": "hn",
       "title": "Backtrack-Free Cursive",
       "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "score": 207,
-      "comments": 94,
+      "score": 221,
+      "comments": 99,
       "author": "dmit",
       "tags": [],
       "date": "2026-07-13T06:08:12+00:00"
@@ -288,8 +321,8 @@
       "source": "hn",
       "title": "The Graph That Should Be Front-Page News",
       "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-      "score": 472,
-      "comments": 279,
+      "score": 532,
+      "comments": 325,
       "author": "rakel_rakel",
       "tags": [],
       "date": "2026-07-13T05:35:27+00:00"
@@ -465,8 +498,8 @@
       "source": "hn",
       "title": "Cyberpunk Comics, Manga and Graphic Novels",
       "url": "https://shellzine.net/cyberpunk-comics/",
-      "score": 272,
-      "comments": 119,
+      "score": 275,
+      "comments": 124,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-12T22:45:31+00:00"
@@ -2739,8 +2772,8 @@
       "source": "hn",
       "title": "Counting ArXiv Delays",
       "url": "https://fi-le.net/arxiv/",
-      "score": 9,
-      "comments": 2,
+      "score": 16,
+      "comments": 8,
       "author": "fi-le",
       "tags": [],
       "date": "2026-07-10T04:52:34+00:00"
@@ -2975,6 +3008,17 @@
       "author": "catalinvoss",
       "tags": [],
       "date": "2026-07-09T20:51:06+00:00"
+    },
+    {
+      "id": "hn-48852159",
+      "source": "hn",
+      "title": "Ancient Roman Board Game",
+      "url": "https://ludus-coriovalli.web.app/",
+      "score": 3,
+      "comments": 0,
+      "author": "nobody9999",
+      "tags": [],
+      "date": "2026-07-09T20:47:45+00:00"
     },
     {
       "id": "hn-48852151",
@@ -3792,8 +3836,8 @@
       "source": "hn",
       "title": "Cursed circuits #6: reverse avalanche oscillator",
       "url": "https://lcamtuf.substack.com/p/cursed-circuits-6-reverse-avalanche",
-      "score": 39,
-      "comments": 7,
+      "score": 51,
+      "comments": 10,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-09T07:00:17+00:00"
@@ -4369,8 +4413,8 @@
       "source": "hn",
       "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
       "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 359,
-      "comments": 164,
+      "score": 369,
+      "comments": 165,
       "author": "ranger_danger",
       "tags": [],
       "date": "2026-07-08T16:53:58+00:00"
@@ -4460,8 +4504,8 @@
       "source": "hn",
       "title": "The 'absolute magic' of Morse code that still connects people globally",
       "url": "https://www.bbc.com/news/articles/cwye0dlzgejo",
-      "score": 74,
-      "comments": 36,
+      "score": 86,
+      "comments": 47,
       "author": "austinallegro",
       "tags": [],
       "date": "2026-07-08T14:20:09+00:00"
@@ -4742,8 +4786,8 @@
       "source": "hn",
       "title": "Tune Code Before Your Garbage Collector",
       "url": "http://blog.vanillajava.blog/2026/06/why-you-should-tun-code-before-your.html",
-      "score": 3,
-      "comments": 1,
+      "score": 12,
+      "comments": 3,
       "author": "peter_lawrey",
       "tags": [],
       "date": "2026-07-08T08:05:10+00:00"
@@ -4766,8 +4810,8 @@
       "source": "hn",
       "title": "The social physics of conversation: Communication patterns matter",
       "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
-      "score": 135,
-      "comments": 28,
+      "score": 139,
+      "comments": 29,
       "author": "kiyanwang",
       "tags": [],
       "date": "2026-07-08T07:05:49+00:00"
@@ -5141,50 +5185,6 @@
       "author": "_superposition_",
       "tags": [],
       "date": "2026-07-07T19:22:56+00:00"
-    },
-    {
-      "id": "hn-48822234",
-      "source": "hn",
-      "title": "Deir El-Medina Strikes",
-      "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
-      "score": 76,
-      "comments": 16,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-07-07T19:10:16+00:00"
-    },
-    {
-      "id": "hn-48822187",
-      "source": "hn",
-      "title": "Sixteen Failed Attempts to Write a Eulogy for My Father (2024)",
-      "url": "https://jude-doyle.ghost.io/untitled-21/",
-      "score": 14,
-      "comments": 2,
-      "author": "NaOH",
-      "tags": [],
-      "date": "2026-07-07T19:07:21+00:00"
-    },
-    {
-      "id": "hn-48821848",
-      "source": "hn",
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "url": "https://davit.app",
-      "score": 343,
-      "comments": 83,
-      "author": "xinit",
-      "tags": [],
-      "date": "2026-07-07T18:44:29+00:00"
-    },
-    {
-      "id": "hn-48821749",
-      "source": "hn",
-      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-      "score": 88,
-      "comments": 9,
-      "author": "duha",
-      "tags": [],
-      "date": "2026-07-07T18:36:35+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-349372792",
