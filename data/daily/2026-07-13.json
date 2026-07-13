@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T06:03:07.915317+00:00",
-  "total_articles": 63,
+  "generated_at": "2026-07-13T07:38:12.211160+00:00",
+  "total_articles": 61,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 58,
       "top_items": [
         {
           "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
           "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "score": 533,
+          "score": 559,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T18:25:51+00:00"
@@ -50,18 +50,18 @@
           "date": "2026-07-12T18:31:56+00:00"
         },
         {
-          "title": "Ghostel.el: Terminal emulator powered by libghostty",
-          "url": "https://dakra.github.io/ghostel/",
-          "score": 242,
+          "title": "How to read more books",
+          "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+          "score": 316,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-12T08:52:59+00:00"
+          "date": "2026-07-12T15:47:16+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 3,
       "top_items": [
         {
           "title": "【AWS小ネタ】無効化している1回限りのEventBridgeスケジュールを実行時刻を過ぎてから有効化すると即発火する",
@@ -86,22 +86,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-12T17:30:38+09:00"
-        },
-        {
-          "title": "「15歳とChatGPT」より、4万6812件が退会させられたシステムについて考えたい",
-          "url": "https://qiita.com/ZiYuCai1984/items/636c7c15cd666e987a90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-12T16:15:00+09:00"
-        },
-        {
-          "title": "Oracle AI Databaseで地図情報を扱ってみる：実際にアプリを作ってわかったこと",
-          "url": "https://qiita.com/araidon/items/a0400d165a840ced1eff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-12T15:43:12+09:00"
         }
       ]
     }

@@ -1,10 +1,10 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-13T06:03:07.948178+00:00",
+  "generated_at": "2026-07-13T07:38:12.257432+00:00",
   "total_articles": 459,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 89,
+    "hn": 362,
+    "zennqiita": 88,
     "project": 9
   },
   "severity_counts": {
@@ -84,13 +84,6 @@
       "date": "2026-07-09T06:18:19+00:00"
     },
     {
-      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "url": "https://streetcomplete.app/",
-      "score": 724,
-      "source": "hn",
-      "date": "2026-07-07T12:38:35+00:00"
-    },
-    {
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
       "score": 708,
@@ -133,6 +126,13 @@
       "date": "2026-07-07T15:58:13+00:00"
     },
     {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "score": 559,
+      "source": "hn",
+      "date": "2026-07-12T18:25:51+00:00"
+    },
+    {
       "title": "New York City to ban deceptive subscription practices",
       "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
       "score": 554,
@@ -140,18 +140,18 @@
       "date": "2026-07-10T18:26:24+00:00"
     },
     {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 533,
-      "source": "hn",
-      "date": "2026-07-12T18:25:51+00:00"
-    },
-    {
       "title": "Hy3",
       "url": "https://hy.tencent.com/research/hy3",
       "score": 529,
       "source": "hn",
       "date": "2026-07-09T15:27:48+00:00"
+    },
+    {
+      "title": "Chat Control passed first round in EU Parliament",
+      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "score": 519,
+      "source": "hn",
+      "date": "2026-07-07T15:16:15+00:00"
     }
   ],
   "security_highlights": [
