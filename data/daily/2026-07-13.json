@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T07:38:12.211160+00:00",
-  "total_articles": 61,
+  "generated_at": "2026-07-13T09:06:44.728998+00:00",
+  "total_articles": 73,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 61,
       "top_items": [
         {
           "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
           "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "score": 559,
+          "score": 580,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T18:25:51+00:00"
@@ -32,6 +32,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T11:09:42+00:00"
+        },
+        {
+          "title": "How to read more books",
+          "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+          "score": 351,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T15:47:16+00:00"
         },
         {
           "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
@@ -48,44 +56,52 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T18:31:56+00:00"
-        },
-        {
-          "title": "How to read more books",
-          "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-          "score": 316,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-12T15:47:16+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 12,
       "top_items": [
         {
-          "title": "【AWS小ネタ】無効化している1回限りのEventBridgeスケジュールを実行時刻を過ぎてから有効化すると即発火する",
-          "url": "https://qiita.com/eureka_/items/7aaf1f9d99228fdad745?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【AWS Builder Center】ワークショップ用の無料サンドボックス環境が利用可能になりました！〜Amazon Connect Customerも無料で試せる！？〜",
+          "url": "https://qiita.com/yosuke-suzuki/items/ce3f60c85c39cf7e2a10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-12T23:55:42+09:00"
+          "date": "2026-07-13T15:11:11+09:00"
         },
         {
-          "title": "Maxwell 方程式から見るインダクタンス：自己インダクタンスと相互インダクタンスの正体",
-          "url": "https://qiita.com/yamadasuzaku/items/3c0915059c98005bdb91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AI時代でもアウトプットが大切な理由",
+          "url": "https://qiita.com/Kensuke_Shibata/items/85e02fdc55e45ae02cc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-12T18:10:20+09:00"
+          "date": "2026-07-13T13:51:39+09:00"
         },
         {
-          "title": "生成AIセキュリティ入門：企業で起きるリスクと重大インシデント",
-          "url": "https://qiita.com/n-okutomi/items/2ee94d9138f7184aa5c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AI⇔人間 がdiff上にコメントを書き合える「hunk」がすごい",
+          "url": "https://qiita.com/kuma_3838/items/14df505c7023f665c585?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-12T17:30:38+09:00"
+          "date": "2026-07-13T13:27:10+09:00"
+        },
+        {
+          "title": "【今更きけないCodex】2026年7月アップデート版：ChatGPTデスクトップで最初に見るべき機能と使う順番",
+          "url": "https://qiita.com/TMiyamoto/items/6bd89423d5b38916e48d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-13T11:48:11+09:00"
+        },
+        {
+          "title": "もうClaudeのモデル選びで迷わない — Anthropicが教える独自Eval（評価テスト）と「成功1件あたりのコスト」の測り方",
+          "url": "https://qiita.com/nogataka/items/6cd8c6ea583221e45def?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-13T11:05:47+09:00"
         }
       ]
     }

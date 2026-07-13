@@ -1,10 +1,10 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-13T07:38:12.257432+00:00",
+  "generated_at": "2026-07-13T09:06:44.764173+00:00",
   "total_articles": 459,
   "source_counts": {
-    "hn": 362,
-    "zennqiita": 88,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 9
   },
   "severity_counts": {
@@ -70,13 +70,6 @@
       "date": "2026-07-09T08:05:04+00:00"
     },
     {
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "score": 847,
-      "source": "hn",
-      "date": "2026-07-07T14:23:15+00:00"
-    },
-    {
       "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
       "url": "https://github.com/malisper/pgrust",
       "score": 739,
@@ -128,7 +121,7 @@
     {
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 559,
+      "score": 580,
       "source": "hn",
       "date": "2026-07-12T18:25:51+00:00"
     },
@@ -152,6 +145,13 @@
       "score": 519,
       "source": "hn",
       "date": "2026-07-07T15:16:15+00:00"
+    },
+    {
+      "title": "Good Tools Are Invisible",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "score": 512,
+      "source": "hn",
+      "date": "2026-07-10T10:32:41+00:00"
     }
   ],
   "security_highlights": [
