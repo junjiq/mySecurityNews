@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-13T21:47:39.907757+00:00",
+  "generated_at": "2026-07-13T22:19:25.441449+00:00",
   "total_articles": 459,
   "source_counts": {
     "hn": 356,
@@ -8,8 +8,8 @@
     "project": 9
   },
   "severity_counts": {
+    "medium": 3,
     "critical": 9,
-    "medium": 2,
     "high": 3
   },
   "top_articles": [
@@ -147,11 +147,11 @@
       "date": "2026-07-10T10:32:41+00:00"
     },
     {
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "score": 489,
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
+      "score": 486,
       "source": "hn",
-      "date": "2026-07-08T05:25:35+00:00"
+      "date": "2026-07-08T19:18:26+00:00"
     }
   ],
   "security_highlights": [
