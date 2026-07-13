@@ -1,8 +1,8 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T01:35:30.695528+00:00",
-  "total_articles": 73,
-  "urgent_count": 2,
+  "generated_at": "2026-07-13T03:05:18.993317+00:00",
+  "total_articles": 69,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Unauthenticated RCE in Motorola's MR2600 Router",
@@ -10,24 +10,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-12T11:52:21+00:00"
-    },
-    {
-      "title": "フロンティアAIの時代における脆弱性診断・ペネトレーションテストのあり方",
-      "url": "https://qiita.com/suzukengo/items/36194332bf30137b9ac5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-07-12T11:02:06+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 61,
+      "count": 59,
       "top_items": [
         {
           "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
           "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "score": 459,
+          "score": 480,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T18:25:51+00:00"
@@ -35,10 +28,18 @@
         {
           "title": "Old and new apps, via modern coding agents",
           "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-          "score": 411,
+          "score": 420,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T11:09:42+00:00"
+        },
+        {
+          "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+          "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+          "score": 337,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T21:12:11+00:00"
         },
         {
           "title": "I love LLMs, I hate hype",
@@ -47,14 +48,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T18:31:56+00:00"
-        },
-        {
-          "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-          "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-          "score": 290,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-12T21:12:11+00:00"
         },
         {
           "title": "Ghostel.el: Terminal emulator powered by libghostty",
@@ -68,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 10,
       "top_items": [
         {
           "title": "【AWS小ネタ】無効化している1回限りのEventBridgeスケジュールを実行時刻を過ぎてから有効化すると即発火する",
