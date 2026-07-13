@@ -1,13 +1,13 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T19:35:04.673377+00:00",
-  "total_articles": 67,
+  "generated_at": "2026-07-13T20:27:34.793615+00:00",
+  "total_articles": 73,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 59,
       "top_items": [
         {
           "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
@@ -34,27 +34,43 @@
           "date": "2026-07-13T13:39:59+00:00"
         },
         {
+          "title": "LAPD lets contract with surveillance giant Flock expire",
+          "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+          "score": 361,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-13T15:11:50+00:00"
+        },
+        {
           "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
           "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
           "score": 337,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T21:12:11+00:00"
-        },
-        {
-          "title": "Sam Neill has died",
-          "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-          "score": 319,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-13T06:02:11+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 14,
       "top_items": [
+        {
+          "title": "【AWS】Managed KB(ナレッジベース)への乗り換え時の注意点",
+          "url": "https://qiita.com/kikuziro/items/3724ed4fd59150a450e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-13T23:19:49+09:00"
+        },
+        {
+          "title": "ECS と Kubernetes の違いを多方面から徹底比較",
+          "url": "https://qiita.com/keitah/items/b35fc1c3b0dd8f6d7052?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-13T20:45:42+09:00"
+        },
         {
           "title": "生成AIセキュリティ入門：企業で起きるリスクと重大インシデント",
           "url": "https://qiita.com/n-okutomi/items/2ee94d9138f7184aa5c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -72,28 +88,12 @@
           "date": "2026-07-13T18:50:28+09:00"
         },
         {
-          "title": "【AWS Builder Center】ワークショップ用の無料サンドボックス環境が利用可能になりました！〜Amazon Connect Customerも無料で試せる！？〜",
-          "url": "https://qiita.com/yosuke-suzuki/items/ce3f60c85c39cf7e2a10?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器",
+          "url": "https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-13T15:11:11+09:00"
-        },
-        {
-          "title": "AI時代でもアウトプットが大切な理由",
-          "url": "https://qiita.com/Kensuke_Shibata/items/85e02fdc55e45ae02cc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-13T13:51:39+09:00"
-        },
-        {
-          "title": "AI⇔人間 がdiff上にコメントを書き合える「hunk」がすごい",
-          "url": "https://qiita.com/kuma_3838/items/14df505c7023f665c585?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-13T13:27:10+09:00"
+          "date": "2026-07-13T18:23:56+09:00"
         }
       ]
     }

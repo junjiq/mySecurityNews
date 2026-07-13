@@ -1,14 +1,69 @@
 {
-  "updated_at": "2026-07-13T19:35:04.608230+00:00",
+  "updated_at": "2026-07-13T20:27:34.732983+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48898154",
+      "source": "hn",
+      "title": "Show HN: YouTube Guitar Tab Parser",
+      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+      "score": 3,
+      "comments": 2,
+      "author": "neogenix",
+      "tags": [],
+      "date": "2026-07-13T20:13:14+00:00"
+    },
+    {
+      "id": "hn-48897975",
+      "source": "hn",
+      "title": "Show HN: I implemented a neural network in SQL",
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+      "score": 6,
+      "comments": 0,
+      "author": "alxmrs",
+      "tags": [],
+      "date": "2026-07-13T20:00:10+00:00"
+    },
+    {
+      "id": "hn-48897969",
+      "source": "hn",
+      "title": "Show HN: PlanWright – A control plane for AI coding agents",
+      "url": "https://planwright.tools",
+      "score": 4,
+      "comments": 1,
+      "author": "dudemanAtl",
+      "tags": [],
+      "date": "2026-07-13T19:59:50+00:00"
+    },
+    {
+      "id": "hn-48897945",
+      "source": "hn",
+      "title": "Climate.gov was destroyed. Open data saved it",
+      "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+      "score": 68,
+      "comments": 22,
+      "author": "benwerd",
+      "tags": [],
+      "date": "2026-07-13T19:57:55+00:00"
+    },
+    {
+      "id": "hn-48897878",
+      "source": "hn",
+      "title": "Telegram's t.me domain has been suspended",
+      "url": "https://www.whois.com/whois/t.me",
+      "score": 24,
+      "comments": 9,
+      "author": "Tiberium",
+      "tags": [],
+      "date": "2026-07-13T19:52:25+00:00"
+    },
     {
       "id": "hn-48897329",
       "source": "hn",
       "title": "TFTP Honey Pot Results",
       "url": "https://bruceediger.com/posts/tftp-honeypot-results/",
-      "score": 3,
-      "comments": 0,
+      "score": 12,
+      "comments": 4,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-13T19:11:17+00:00"
@@ -18,8 +73,8 @@
       "source": "hn",
       "title": "Thunderbird Desktop settings research: what we learned from your feedback",
       "url": "https://blog.thunderbird.net/2026/07/desktopsettings/",
-      "score": 5,
-      "comments": 0,
+      "score": 20,
+      "comments": 20,
       "author": "ano-ther",
       "tags": [],
       "date": "2026-07-13T18:33:47+00:00"
@@ -29,19 +84,30 @@
       "source": "hn",
       "title": "The real prices of frontier models. Tokens * Price, right?",
       "url": "https://playcode.io/blog/real-price-of-frontier-models",
-      "score": 29,
-      "comments": 11,
+      "score": 65,
+      "comments": 34,
       "author": "ianberdin",
       "tags": [],
       "date": "2026-07-13T18:32:27+00:00"
+    },
+    {
+      "id": "hn-48896703",
+      "source": "hn",
+      "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
+      "url": "https://nobie.com",
+      "score": 23,
+      "comments": 8,
+      "author": "matthewgapp",
+      "tags": [],
+      "date": "2026-07-13T18:26:04+00:00"
     },
     {
       "id": "hn-48896665",
       "source": "hn",
       "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
       "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "score": 45,
-      "comments": 21,
+      "score": 78,
+      "comments": 41,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-13T18:22:16+00:00"
@@ -51,7 +117,7 @@
       "source": "hn",
       "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
       "url": "https://cakehonolulu.github.io/linux-on-32x/",
-      "score": 21,
+      "score": 42,
       "comments": 3,
       "author": "cakehonolulu",
       "tags": [],
@@ -62,8 +128,8 @@
       "source": "hn",
       "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
       "url": "https://github.com/morganwilliscloud/billai-bass",
-      "score": 17,
-      "comments": 8,
+      "score": 27,
+      "comments": 12,
       "author": "mtw14",
       "tags": [],
       "date": "2026-07-13T18:18:23+00:00"
@@ -84,8 +150,8 @@
       "source": "hn",
       "title": "Show HN: Super Dario",
       "url": "https://superdario.pawb.de",
-      "score": 178,
-      "comments": 44,
+      "score": 293,
+      "comments": 75,
       "author": "thepasch",
       "tags": [],
       "date": "2026-07-13T17:53:52+00:00"
@@ -95,8 +161,8 @@
       "source": "hn",
       "title": "Logseq 2.0 Beta (DB version) is here",
       "url": "https://github.com/logseq/logseq/releases",
-      "score": 47,
-      "comments": 27,
+      "score": 63,
+      "comments": 36,
       "author": "karencarits",
       "tags": [],
       "date": "2026-07-13T17:49:49+00:00"
@@ -106,8 +172,8 @@
       "source": "hn",
       "title": "Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise",
       "url": "https://github.com/mathaix/OpenClawMachines",
-      "score": 9,
-      "comments": 7,
+      "score": 14,
+      "comments": 9,
       "author": "mathaix",
       "tags": [],
       "date": "2026-07-13T17:45:29+00:00"
@@ -128,8 +194,8 @@
       "source": "hn",
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
       "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "score": 267,
-      "comments": 122,
+      "score": 311,
+      "comments": 137,
       "author": "get-inscribe",
       "tags": [],
       "date": "2026-07-13T16:06:08+00:00"
@@ -172,8 +238,8 @@
       "source": "hn",
       "title": "LAPD lets contract with surveillance giant Flock expire",
       "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-      "score": 317,
-      "comments": 232,
+      "score": 361,
+      "comments": 268,
       "author": "forks",
       "tags": [],
       "date": "2026-07-13T15:11:50+00:00"
@@ -183,7 +249,7 @@
       "source": "hn",
       "title": "The art and engineering of Sega CD Silpheed",
       "url": "https://fabiensanglard.net/silpheed/index.html",
-      "score": 159,
+      "score": 165,
       "comments": 32,
       "author": "ibobev",
       "tags": [],
@@ -199,6 +265,19 @@
       "author": "AznHisoka",
       "tags": [],
       "date": "2026-07-13T14:39:38+00:00"
+    },
+    {
+      "id": "qiita-576e743230",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS】Managed KB(ナレッジベース)への乗り換え時の注意点",
+      "url": "https://qiita.com/kikuziro/items/3724ed4fd59150a450e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kikuziro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-13T23:19:49+09:00"
     },
     {
       "id": "hn-48892859",
@@ -227,8 +306,8 @@
       "source": "hn",
       "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
       "url": "https://esologic.com/benchmarking-tesla-gpus/",
-      "score": 76,
-      "comments": 24,
+      "score": 79,
+      "comments": 37,
       "author": "eso_logic",
       "tags": [],
       "date": "2026-07-13T13:48:42+00:00"
@@ -271,8 +350,8 @@
       "source": "hn",
       "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
       "url": "https://github.com/floodtide/dom-docx",
-      "score": 111,
-      "comments": 27,
+      "score": 118,
+      "comments": 29,
       "author": "fishbone",
       "tags": [],
       "date": "2026-07-13T11:51:56+00:00"
@@ -287,6 +366,19 @@
       "author": "ExMachina73",
       "tags": [],
       "date": "2026-07-13T11:46:47+00:00"
+    },
+    {
+      "id": "qiita-94ef21cdc4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ECS と Kubernetes の違いを多方面から徹底比較",
+      "url": "https://qiita.com/keitah/items/b35fc1c3b0dd8f6d7052?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "keitah",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-13T20:45:42+09:00"
     },
     {
       "id": "hn-48891184",
@@ -304,8 +396,8 @@
       "source": "hn",
       "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
       "url": "https://jivx.com/densha",
-      "score": 287,
-      "comments": 49,
+      "score": 295,
+      "comments": 52,
       "author": "momentmaker",
       "tags": [],
       "date": "2026-07-13T11:18:30+00:00"
@@ -335,6 +427,19 @@
         "Qiita"
       ],
       "date": "2026-07-13T18:50:28+09:00"
+    },
+    {
+      "id": "qiita-e8073a1e92",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器",
+      "url": "https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "prum_sumomo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-13T18:23:56+09:00"
     },
     {
       "id": "hn-48889637",
@@ -414,6 +519,19 @@
       "author": "j4mie",
       "tags": [],
       "date": "2026-07-13T06:02:11+00:00"
+    },
+    {
+      "id": "qiita-e7fe4ceccf",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "非エンジニア_はじめてのClaude Code CLI版応用編（Slack MCP）",
+      "url": "https://qiita.com/Nagayo/items/2412f941b47ffcbe0a17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Nagayo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-13T14:41:11+09:00"
     },
     {
       "id": "hn-48888331",
@@ -613,6 +731,19 @@
       "author": "zdw",
       "tags": [],
       "date": "2026-07-12T22:29:46+00:00"
+    },
+    {
+      "id": "qiita-7d319c5c70",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "非エンジニアがClaude CodeのSKILLで業務効率化に取り組んでみた",
+      "url": "https://qiita.com/fukayama-masato/items/712d49fd086a91ecc643?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "fukayama-masato",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-13T07:28:02+09:00"
     },
     {
       "id": "hn-48885236",
@@ -1006,6 +1137,19 @@
       "author": "gmays",
       "tags": [],
       "date": "2026-07-12T14:32:00+00:00"
+    },
+    {
+      "id": "qiita-7c1668b71d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "第1回よわよわセキュリティ勉強会に参加してきた #yowasec",
+      "url": "https://qiita.com/nesgi/items/3158afd731a4d1001c4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nesgi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-12T23:01:21+09:00"
     },
     {
       "id": "hn-48881112",
@@ -1508,7 +1652,7 @@
       "source": "hn",
       "title": "How sea stars build materials that can see",
       "url": "https://www.engineering.upenn.edu/stories/how-sea-stars-build-materials-that-can-see/",
-      "score": 11,
+      "score": 15,
       "comments": 1,
       "author": "hhs",
       "tags": [],
@@ -2051,6 +2195,17 @@
         "Qiita"
       ],
       "date": "2026-07-11T14:07:28+09:00"
+    },
+    {
+      "id": "hn-48868417",
+      "source": "hn",
+      "title": "The Origins of Heikki's Garden of Flowers",
+      "url": "https://garden-of-flowers.heikkilotvonen.com/?essay",
+      "score": 6,
+      "comments": 1,
+      "author": "panic",
+      "tags": [],
+      "date": "2026-07-11T03:24:03+00:00"
     },
     {
       "id": "qiita-341c0e39ee",
@@ -3124,8 +3279,8 @@
       "source": "hn",
       "title": "Ancient Roman Board Game",
       "url": "https://ludus-coriovalli.web.app/",
-      "score": 31,
-      "comments": 4,
+      "score": 48,
+      "comments": 13,
       "author": "nobody9999",
       "tags": [],
       "date": "2026-07-09T20:47:45+00:00"
@@ -5028,159 +5183,6 @@
         "Qiita"
       ],
       "date": "2026-07-08T11:20:01+09:00"
-    },
-    {
-      "id": "qiita-86226e66c8",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【Personal OS #1】Claude Codeで、毎日の仕事を自動化する仕組み",
-      "url": "https://qiita.com/degudegu2510/items/793cfe76cf8b6982f2f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "degudegu2510",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-08T11:10:36+09:00"
-    },
-    {
-      "id": "qiita-61c05bac7e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "日本代表の敗因をGeminiにガチ分析させたら、営業の「失注原因」の真実に気づいた話",
-      "url": "https://qiita.com/Ishibashi_Tomoya/items/ff14dac3455318a61d52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Ishibashi_Tomoya",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-08T10:58:21+09:00"
-    },
-    {
-      "id": "hn-48826329",
-      "source": "hn",
-      "title": "LineageOS Statistics",
-      "url": "https://stats.lineageos.org",
-      "score": 158,
-      "comments": 88,
-      "author": "pentagrama",
-      "tags": [],
-      "date": "2026-07-08T01:27:39+00:00"
-    },
-    {
-      "id": "qiita-166c0976a4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "未経験からエンジニアを目指す方へ。「早く独立したい」と焦っていた頃の話",
-      "url": "https://qiita.com/masa20057/items/daef8174d2f43485371f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "masa20057",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-08T10:26:24+09:00"
-    },
-    {
-      "id": "hn-48826094",
-      "source": "hn",
-      "title": "Show HN: Chiptune Radio",
-      "url": "https://chiptune-radio.alephvoid.com/",
-      "score": 47,
-      "comments": 10,
-      "author": "bootbloopers",
-      "tags": [],
-      "date": "2026-07-08T00:55:19+00:00"
-    },
-    {
-      "id": "hn-48825816",
-      "source": "hn",
-      "title": "An interactive explorer for Benford's Law across real datasets",
-      "url": "https://vatsalbakshi.com/blog/benfords-law/",
-      "score": 26,
-      "comments": 9,
-      "author": "dingobabies",
-      "tags": [],
-      "date": "2026-07-08T00:18:39+00:00"
-    },
-    {
-      "id": "qiita-2a057b9faf",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "売上は DB、ログは S3、契約書は SharePoint、バラバラなデータを AI で使う方法を調べてみてみた",
-      "url": "https://qiita.com/shirok/items/0e42854634b2c5a371fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-08T09:17:56+09:00"
-    },
-    {
-      "id": "hn-48825749",
-      "source": "hn",
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "url": "https://kb.cert.org/vuls/id/213560",
-      "score": 322,
-      "comments": 111,
-      "author": "miniBill",
-      "tags": [],
-      "date": "2026-07-08T00:08:51+00:00"
-    },
-    {
-      "id": "hn-48825745",
-      "source": "hn",
-      "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
-      "url": "https://github.com/tiliondev/fortress",
-      "score": 29,
-      "comments": 25,
-      "author": "arhamshahrier",
-      "tags": [],
-      "date": "2026-07-08T00:08:21+00:00"
-    },
-    {
-      "id": "hn-48825664",
-      "source": "hn",
-      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
-      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-      "score": 286,
-      "comments": 40,
-      "author": "gjvc",
-      "tags": [],
-      "date": "2026-07-07T23:57:29+00:00"
-    },
-    {
-      "id": "hn-48825612",
-      "source": "hn",
-      "title": "Google Search lets creators know more about their reach",
-      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "score": 92,
-      "comments": 44,
-      "author": "herbertl",
-      "tags": [],
-      "date": "2026-07-07T23:51:49+00:00"
-    },
-    {
-      "id": "hn-48825556",
-      "source": "hn",
-      "title": "A 13th-Century Enumeration Algorithm, Ignored for 700 Years",
-      "url": "https://blog.klipse.tech/aboulafia/2026/07/06/a-13th-century-enumeration-algorithm-ignored-for-700-years.html",
-      "score": 10,
-      "comments": 1,
-      "author": "viebel",
-      "tags": [],
-      "date": "2026-07-07T23:45:47+00:00"
-    },
-    {
-      "id": "qiita-f0a4a934c6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【参加レポ】非情報系出身の新卒エンジニアが AWS Summit Japan 2026 に行ってみた",
-      "url": "https://qiita.com/takutech-it/items/6a4937254cc910f6acae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "takutech-it",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-08T08:34:08+09:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-349372792",
