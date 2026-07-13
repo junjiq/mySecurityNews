@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T00:33:07.822751+00:00",
+  "total_articles": 78,
+  "urgent_count": 2,
+  "urgent_items": [
+    {
+      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
+      "url": "https://mrbruh.com/motorola/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-12T11:52:21+00:00"
+    },
+    {
+      "title": "フロンティアAIの時代における脆弱性診断・ペネトレーションテストのあり方",
+      "url": "https://qiita.com/suzukengo/items/36194332bf30137b9ac5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-07-12T11:02:06+09:00"
+    }
+  ],
+  "categories": [
+    {
+      "category": "テクノロジー",
+      "count": 66,
+      "top_items": [
+        {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "score": 439,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T18:25:51+00:00"
+        },
+        {
+          "title": "Old and new apps, via modern coding agents",
+          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+          "score": 404,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T11:09:42+00:00"
+        },
+        {
+          "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "score": 365,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T01:09:50+00:00"
+        },
+        {
+          "title": "I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "score": 296,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T18:31:56+00:00"
+        },
+        {
+          "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+          "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+          "score": 250,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T21:12:11+00:00"
+        }
+      ]
+    },
+    {
+      "category": "日本語技術記事",
+      "count": 12,
+      "top_items": [
+        {
+          "title": "【AWS小ネタ】無効化している1回限りのEventBridgeスケジュールを実行時刻を過ぎてから有効化すると即発火する",
+          "url": "https://qiita.com/eureka_/items/7aaf1f9d99228fdad745?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-12T23:55:42+09:00"
+        },
+        {
+          "title": "Maxwell 方程式から見るインダクタンス：自己インダクタンスと相互インダクタンスの正体",
+          "url": "https://qiita.com/yamadasuzaku/items/3c0915059c98005bdb91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-12T18:10:20+09:00"
+        },
+        {
+          "title": "生成AIセキュリティ入門：企業で起きるリスクと重大インシデント",
+          "url": "https://qiita.com/n-okutomi/items/2ee94d9138f7184aa5c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-12T17:30:38+09:00"
+        },
+        {
+          "title": "「15歳とChatGPT」より、4万6812件が退会させられたシステムについて考えたい",
+          "url": "https://qiita.com/ZiYuCai1984/items/636c7c15cd666e987a90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-12T16:15:00+09:00"
+        },
+        {
+          "title": "Oracle AI Databaseで地図情報を扱ってみる：実際にアプリを作ってわかったこと",
+          "url": "https://qiita.com/araidon/items/a0400d165a840ced1eff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-12T15:43:12+09:00"
+        }
+      ]
+    }
+  ]
+}
