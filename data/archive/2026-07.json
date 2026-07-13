@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-13T12:01:38.120037+00:00",
+  "generated_at": "2026-07-13T13:17:10.588265+00:00",
   "total_articles": 459,
   "source_counts": {
     "hn": 353,
@@ -8,7 +8,7 @@
     "project": 9
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 9,
     "medium": 2,
     "high": 3
   },
@@ -98,6 +98,13 @@
       "date": "2026-07-08T17:03:19+00:00"
     },
     {
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "score": 681,
+      "source": "hn",
+      "date": "2026-07-13T08:39:39+00:00"
+    },
+    {
       "title": "Rewriting Bun in Rust",
       "url": "https://bun.com/blog/bun-in-rust",
       "score": 674,
@@ -117,13 +124,6 @@
       "score": 619,
       "source": "hn",
       "date": "2026-07-12T18:25:51+00:00"
-    },
-    {
-      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-      "url": "https://30papers.com/",
-      "score": 582,
-      "source": "hn",
-      "date": "2026-07-07T15:58:13+00:00"
     },
     {
       "title": "New York City to ban deceptive subscription practices",
@@ -238,20 +238,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-07-08T13:24:52+00:00"
-    },
-    {
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-07T16:10:44+00:00"
-    },
-    {
-      "title": "Better Auth is joining Vercel",
-      "url": "https://better-auth.com/blog/better-auth-joins-vercel",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-07T15:52:22+00:00"
     }
   ]
 }
