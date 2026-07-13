@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T00:33:07.822751+00:00",
-  "total_articles": 78,
+  "generated_at": "2026-07-13T01:35:30.695528+00:00",
+  "total_articles": 73,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 66,
+      "count": 61,
       "top_items": [
         {
           "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
           "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "score": 439,
+          "score": 459,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T18:25:51+00:00"
@@ -35,23 +35,15 @@
         {
           "title": "Old and new apps, via modern coding agents",
           "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-          "score": 404,
+          "score": 411,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T11:09:42+00:00"
         },
         {
-          "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "score": 365,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-12T01:09:50+00:00"
-        },
-        {
           "title": "I love LLMs, I hate hype",
           "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-          "score": 296,
+          "score": 318,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T18:31:56+00:00"
@@ -59,10 +51,18 @@
         {
           "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
           "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-          "score": 250,
+          "score": 290,
           "source": "hn",
           "severity": null,
           "date": "2026-07-12T21:12:11+00:00"
+        },
+        {
+          "title": "Ghostel.el: Terminal emulator powered by libghostty",
+          "url": "https://dakra.github.io/ghostel/",
+          "score": 242,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-12T08:52:59+00:00"
         }
       ]
     },
