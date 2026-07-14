@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T07:14:56.211407+00:00",
-  "total_articles": 81,
+  "generated_at": "2026-07-14T08:15:29.655940+00:00",
+  "total_articles": 90,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 75,
+      "count": 73,
       "top_items": [
         {
           "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
@@ -35,7 +35,7 @@
         {
           "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
           "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-          "score": 519,
+          "score": 529,
           "source": "hn",
           "severity": null,
           "date": "2026-07-13T16:06:08+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "Building and shipping Mac and iOS apps without opening Xcode",
           "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-          "score": 421,
+          "score": 447,
           "source": "hn",
           "severity": null,
           "date": "2026-07-13T18:22:16+00:00"
@@ -68,8 +68,32 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 17,
       "top_items": [
+        {
+          "title": "Railsで学ぶ 暗号化とハッシュ 〜master.keyやDeviseは内部で何をしている？〜",
+          "url": "https://qiita.com/akachiryo/items/5a1deaa541d70e11d85f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-14T15:07:22+09:00"
+        },
+        {
+          "title": "エンジニアが知っておくべきIPアドレスの話",
+          "url": "https://qiita.com/AkiraTakasaki/items/cd426dbd97a66dea11cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-14T12:09:04+09:00"
+        },
+        {
+          "title": "S3上の大量ログを Oracle Autonomous AI Lakehouseで分析する：外部表、Parquet、SQL、Vector Search、RAGの使い分け",
+          "url": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-14T11:58:16+09:00"
+        },
         {
           "title": "「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器",
           "url": "https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,36 +103,12 @@
           "date": "2026-07-14T11:54:26+09:00"
         },
         {
-          "title": "Oracle AI Databaseで地図情報を扱ってみる：実際にアプリを作ってわかったこと",
-          "url": "https://qiita.com/araidon/items/a0400d165a840ced1eff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Elixir製NotebookLMクローン「Notex」をDocker (Ubuntu 24.04) で動かす＆ai& Inference検証",
+          "url": "https://qiita.com/torifukukaiou/items/78314be5a6db95b13286?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-14T11:07:08+09:00"
-        },
-        {
-          "title": "【AWS】Managed KB(ナレッジベース)への乗り換え時の注意点",
-          "url": "https://qiita.com/kikuziro/items/3724ed4fd59150a450e7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-13T23:19:49+09:00"
-        },
-        {
-          "title": "ECS と Kubernetes の違いを多方面から徹底比較",
-          "url": "https://qiita.com/keitah/items/b35fc1c3b0dd8f6d7052?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-13T20:45:42+09:00"
-        },
-        {
-          "title": "生成AIセキュリティ入門：企業で起きるリスクと重大インシデント",
-          "url": "https://qiita.com/n-okutomi/items/2ee94d9138f7184aa5c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-13T19:38:35+09:00"
+          "date": "2026-07-14T11:12:17+09:00"
         }
       ]
     }
