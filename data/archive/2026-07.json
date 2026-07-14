@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-14T01:00:57.396568+00:00",
+  "generated_at": "2026-07-14T02:17:14.959147+00:00",
   "total_articles": 459,
   "source_counts": {
-    "hn": 360,
-    "zennqiita": 90,
+    "hn": 361,
+    "zennqiita": 89,
     "project": 9
   },
   "severity_counts": {
     "critical": 11,
     "medium": 3,
-    "high": 3
+    "high": 2
   },
   "top_articles": [
     {
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-08T15:19:50+00:00"
-    },
-    {
-      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-08T13:24:52+00:00"
     }
   ]
 }
