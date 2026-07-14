@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T12:37:14.833731+00:00",
-  "total_articles": 97,
+  "generated_at": "2026-07-14T13:33:30.027414+00:00",
+  "total_articles": 100,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 82,
+      "count": 86,
       "top_items": [
         {
           "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
           "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-          "score": 579,
+          "score": 620,
           "source": "hn",
           "severity": null,
           "date": "2026-07-14T02:27:20+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "Building and shipping Mac and iOS apps without opening Xcode",
           "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-          "score": 505,
+          "score": 515,
           "source": "hn",
           "severity": null,
           "date": "2026-07-13T18:22:16+00:00"
@@ -75,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
+        {
+          "title": "Amazon S3上の大量ログを Autonomous AI Lakehouseで分析する：外部表、Parquet、SQL、Vector Search、RAGの使い分け",
+          "url": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-14T22:33:04+09:00"
+        },
         {
           "title": "Railsで学ぶ 暗号化とハッシュ 〜master.keyやDeviseは内部で何をしている？〜",
           "url": "https://qiita.com/akachiryo/items/5a1deaa541d70e11d85f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -92,14 +100,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-14T12:09:04+09:00"
-        },
-        {
-          "title": "S3上の大量ログを Oracle Autonomous AI Lakehouseで分析する：外部表、Parquet、SQL、Vector Search、RAGの使い分け",
-          "url": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-14T11:58:16+09:00"
         },
         {
           "title": "「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器",
