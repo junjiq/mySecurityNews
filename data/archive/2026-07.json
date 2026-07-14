@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-14T22:21:04.789619+00:00",
+  "generated_at": "2026-07-14T22:47:54.924056+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 358,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 4,
-    "critical": 12,
+    "critical": 11,
     "high": 2
   },
   "top_articles": [
@@ -42,18 +42,18 @@
       "date": "2026-07-10T15:59:53+00:00"
     },
     {
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "score": 661,
+      "source": "hn",
+      "date": "2026-07-11T08:21:27+00:00"
+    },
+    {
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
       "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
       "score": 653,
       "source": "hn",
       "date": "2026-07-14T02:27:20+00:00"
-    },
-    {
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 649,
-      "source": "hn",
-      "date": "2026-07-11T08:21:27+00:00"
     },
     {
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-09T15:26:24+00:00"
-    },
-    {
-      "title": "PostHog Open Sourced",
-      "url": "https://github.com/PostHog/posthog-foss",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-09T14:17:40+00:00"
     }
   ]
 }
