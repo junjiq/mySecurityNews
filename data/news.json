@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-14T08:15:29.593692+00:00",
+  "updated_at": "2026-07-14T09:13:19.671745+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48903715",
+      "source": "hn",
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+      "score": 22,
+      "comments": 4,
+      "author": "alok-g",
+      "tags": [],
+      "date": "2026-07-14T08:24:49+00:00"
+    },
+    {
+      "id": "hn-48903082",
+      "source": "hn",
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "score": 19,
+      "comments": 0,
+      "author": "BaudouinVH",
+      "tags": [],
+      "date": "2026-07-14T06:43:28+00:00"
+    },
     {
       "id": "qiita-b6f355460b",
       "source": "zennqiita",
@@ -14,6 +36,17 @@
         "Qiita"
       ],
       "date": "2026-07-14T15:07:22+09:00"
+    },
+    {
+      "id": "hn-48902791",
+      "source": "hn",
+      "title": "Just Let Me Write Digits",
+      "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
+      "score": 7,
+      "comments": 0,
+      "author": "brandon_bot",
+      "tags": [],
+      "date": "2026-07-14T05:57:50+00:00"
     },
     {
       "id": "hn-48902599",
@@ -29,21 +62,35 @@
     {
       "id": "hn-48902320",
       "source": "hn",
-      "title": "Australia is offering free daytime electricity",
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
       "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "score": 29,
-      "comments": 24,
+      "score": 70,
+      "comments": 90,
       "author": "i2oc",
       "tags": [],
       "date": "2026-07-14T04:31:48+00:00"
+    },
+    {
+      "id": "ctf-4137918",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox : Sweep Writeup",
+      "url": "https://dev.to/exploitnotes/hackthebox-sweep-writeup-31he",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-07-14T03:48:14Z"
     },
     {
       "id": "hn-48902026",
       "source": "hn",
       "title": "YouTrackDB is a general-use object-oriented graph database",
       "url": "https://github.com/JetBrains/youtrackdb",
-      "score": 100,
-      "comments": 28,
+      "score": 113,
+      "comments": 32,
       "author": "gjvc",
       "tags": [],
       "date": "2026-07-14T03:39:55+00:00"
@@ -92,8 +139,8 @@
       "source": "hn",
       "title": "Our Amish Language",
       "url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
-      "score": 40,
-      "comments": 18,
+      "score": 45,
+      "comments": 22,
       "author": "NaOH",
       "tags": [],
       "date": "2026-07-14T02:40:41+00:00"
@@ -103,8 +150,8 @@
       "source": "hn",
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
       "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "score": 389,
-      "comments": 94,
+      "score": 441,
+      "comments": 109,
       "author": "donohoe",
       "tags": [],
       "date": "2026-07-14T02:27:20+00:00"
@@ -127,8 +174,8 @@
       "source": "hn",
       "title": "Fundamentals of Wireless Communication (2005)",
       "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "score": 118,
-      "comments": 3,
+      "score": 127,
+      "comments": 5,
       "author": "teleforce",
       "tags": [],
       "date": "2026-07-14T02:10:19+00:00"
@@ -151,8 +198,8 @@
       "source": "hn",
       "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
       "url": "https://satellitemap.space/",
-      "score": 75,
-      "comments": 29,
+      "score": 80,
+      "comments": 35,
       "author": "rolph",
       "tags": [],
       "date": "2026-07-14T01:55:24+00:00"
@@ -184,8 +231,8 @@
       "source": "hn",
       "title": "Is x86 ready to ACE it?",
       "url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
-      "score": 68,
-      "comments": 10,
+      "score": 76,
+      "comments": 12,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-07-14T01:36:13+00:00"
@@ -195,8 +242,8 @@
       "source": "hn",
       "title": "The Economics of Recursive Self-Improvement [pdf]",
       "url": "https://elasticity.institute/rsi-paper.pdf",
-      "score": 82,
-      "comments": 25,
+      "score": 93,
+      "comments": 30,
       "author": "apsec112",
       "tags": [],
       "date": "2026-07-14T01:35:23+00:00"
@@ -206,7 +253,7 @@
       "source": "hn",
       "title": "MorphoHDL: A minimalistic language for growing circuits",
       "url": "https://paradigms-of-intelligence.github.io/morpho/",
-      "score": 62,
+      "score": 65,
       "comments": 8,
       "author": "jacktang",
       "tags": [],
@@ -226,10 +273,10 @@
     {
       "id": "hn-48901010",
       "source": "hn",
-      "title": "The Git history command deserves more attention",
+      "title": "The git history command",
       "url": "https://lalitm.com/post/git-history/",
-      "score": 257,
-      "comments": 146,
+      "score": 280,
+      "comments": 161,
       "author": "turbocon",
       "tags": [],
       "date": "2026-07-14T00:57:11+00:00"
@@ -311,8 +358,8 @@
       "source": "hn",
       "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
       "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
-      "score": 19,
-      "comments": 25,
+      "score": 57,
+      "comments": 65,
       "author": "saisrirampur",
       "tags": [],
       "date": "2026-07-13T23:39:10+00:00"
@@ -345,8 +392,8 @@
       "source": "hn",
       "title": "An Englishwoman who sketched India before photography took hold",
       "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
-      "score": 137,
-      "comments": 38,
+      "score": 145,
+      "comments": 43,
       "author": "1659447091",
       "tags": [],
       "date": "2026-07-13T23:12:22+00:00"
@@ -455,8 +502,8 @@
       "source": "hn",
       "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
       "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
-      "score": 79,
-      "comments": 62,
+      "score": 101,
+      "comments": 83,
       "author": "arto",
       "tags": [],
       "date": "2026-07-13T20:11:29+00:00"
@@ -567,8 +614,8 @@
       "source": "hn",
       "title": "The infinite scroll may become endangered if controversial Calif. law passes",
       "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
-      "score": 154,
-      "comments": 268,
+      "score": 161,
+      "comments": 281,
       "author": "Stratoscope",
       "tags": [],
       "date": "2026-07-13T18:53:53+00:00"
@@ -611,8 +658,8 @@
       "source": "hn",
       "title": "Building and shipping Mac and iOS apps without opening Xcode",
       "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "score": 447,
-      "comments": 196,
+      "score": 463,
+      "comments": 199,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-13T18:22:16+00:00"
@@ -859,10 +906,10 @@
     {
       "id": "hn-48892709",
       "source": "hn",
-      "title": "Nokia's 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
+      "title": "Nokia’s years of mobile-phone supremacy ended in an afternoon",
       "url": "https://spectrum.ieee.org/nokia-phones-history",
-      "score": 24,
-      "comments": 19,
+      "score": 115,
+      "comments": 73,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-07-13T13:54:10+00:00"
@@ -1039,6 +1086,20 @@
       "author": "coinfused",
       "tags": [],
       "date": "2026-07-13T08:04:30+00:00"
+    },
+    {
+      "id": "ctf-4130936",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "HackTheBox: NeoVault Challenge Writeup",
+      "url": "https://dev.to/exploitnotes/hackthebox-neovault-challenge-writeup-2if5",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-07-13T07:57:08Z"
     },
     {
       "id": "qiita-81f5b1eef7",
@@ -2570,8 +2631,8 @@
       "source": "hn",
       "title": "Zero Knowledge Tolstoyan Art",
       "url": "https://max-amb.github.io/blog/zero_knowledge_tolstoyan_art/",
-      "score": 3,
-      "comments": 0,
+      "score": 14,
+      "comments": 4,
       "author": "max-amb",
       "tags": [],
       "date": "2026-07-11T15:38:13+00:00"
@@ -2603,8 +2664,8 @@
       "source": "hn",
       "title": "How to build a circular LCD clock",
       "url": "https://blinry.org/lcd-clock/",
-      "score": 72,
-      "comments": 24,
+      "score": 76,
+      "comments": 29,
       "author": "birdculture",
       "tags": [],
       "date": "2026-07-11T15:23:54+00:00"
@@ -2614,7 +2675,7 @@
       "source": "hn",
       "title": "Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
       "url": "https://github.com/yagarea/jektex",
-      "score": 11,
+      "score": 15,
       "comments": 1,
       "author": "yagarea",
       "tags": [],
@@ -3783,8 +3844,8 @@
       "source": "hn",
       "title": "Two Case Studies of NaN",
       "url": "https://sebsite.pw/w/20260709-nan.html",
-      "score": 10,
-      "comments": 1,
+      "score": 12,
+      "comments": 2,
       "author": "ryantsuji",
       "tags": [],
       "date": "2026-07-10T02:27:55+00:00"
@@ -3878,8 +3939,8 @@
       "source": "hn",
       "title": "World-First 'Super Alloy' Could Transform the Way Metals Are Made",
       "url": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made",
-      "score": 58,
-      "comments": 27,
+      "score": 62,
+      "comments": 33,
       "author": "tejohnso",
       "tags": [],
       "date": "2026-07-09T22:20:35+00:00"
@@ -4473,7 +4534,7 @@
       "source": "hn",
       "title": "Writing a bindless GPU abstraction layer",
       "url": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
-      "score": 40,
+      "score": 46,
       "comments": 2,
       "author": "surprisetalk",
       "tags": [],
@@ -5163,39 +5224,6 @@
       "date": "2026-07-08T21:37:58+00:00"
     },
     {
-      "id": "hn-48837696",
-      "source": "hn",
-      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-      "score": 127,
-      "comments": 55,
-      "author": "tanelpoder",
-      "tags": [],
-      "date": "2026-07-08T21:30:09+00:00"
-    },
-    {
-      "id": "hn-48837412",
-      "source": "hn",
-      "title": "DMS 1.5 \"The Wolverine\" Released",
-      "url": "https://danklinux.com/blog/v1-5-release",
-      "score": 10,
-      "comments": 4,
-      "author": "sonixier",
-      "tags": [],
-      "date": "2026-07-08T21:04:52+00:00"
-    },
-    {
-      "id": "hn-48837396",
-      "source": "hn",
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 230,
-      "comments": 83,
-      "author": "sk4rekr0w",
-      "tags": [],
-      "date": "2026-07-08T21:03:51+00:00"
-    },
-    {
       "id": "ghrel-projectdiscovery_nuclei-349372792",
       "source": "project",
       "proj_category": "Tools",
@@ -5292,34 +5320,6 @@
         "Security"
       ],
       "date": "2026-07-01T06:32:24Z"
-    },
-    {
-      "id": "ctf-4011285",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox: Sloink Writeup",
-      "url": "https://dev.to/exploitnotes/hackthebox-sloink-writeup-44ag",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-06-28T09:56:00Z"
-    },
-    {
-      "id": "ctf-4003610",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox: FireFlow Writeup",
-      "url": "https://dev.to/exploitnotes/hackthebox-fireflow-writeup-3kmi",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-06-27T07:10:37Z"
     },
     {
       "id": "ghrel-fortra_impacket-325120279",
