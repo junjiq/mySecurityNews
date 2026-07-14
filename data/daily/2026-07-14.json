@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T13:33:30.027414+00:00",
-  "total_articles": 100,
+  "generated_at": "2026-07-14T14:35:11.522391+00:00",
+  "total_articles": 98,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 86,
+      "count": 85,
       "top_items": [
         {
           "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
           "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-          "score": 620,
+          "score": 653,
           "source": "hn",
           "severity": null,
           "date": "2026-07-14T02:27:20+00:00"
@@ -56,26 +56,26 @@
           "date": "2026-07-13T18:22:16+00:00"
         },
         {
-          "title": "Grok uploaded my user directory to xAI's servers",
-          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-          "score": 465,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-13T13:39:59+00:00"
-        },
-        {
           "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
           "url": "https://19thnews.org/2026/07/noaa-climate-data-website/",
           "score": 412,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-13T19:57:55+00:00"
+        },
+        {
+          "title": "LAPD lets contract with surveillance giant Flock expire",
+          "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+          "score": 405,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-13T15:11:50+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "Amazon S3上の大量ログを Autonomous AI Lakehouseで分析する：外部表、Parquet、SQL、Vector Search、RAGの使い分け",
