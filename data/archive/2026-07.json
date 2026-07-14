@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-14T17:53:18.734292+00:00",
+  "generated_at": "2026-07-14T18:24:57.244945+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 365,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 11,
     "medium": 3,
     "high": 2
   },
@@ -119,6 +119,13 @@
       "date": "2026-07-12T15:47:16+00:00"
     },
     {
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "score": 472,
+      "source": "hn",
+      "date": "2026-07-11T08:21:27+00:00"
+    },
+    {
       "title": "Grok uploaded my user directory to xAI's servers",
       "url": "https://twitter.com/a_green_being/status/2076598897779020159",
       "score": 465,
@@ -131,13 +138,6 @@
       "score": 442,
       "source": "hn",
       "date": "2026-07-12T01:09:50+00:00"
-    },
-    {
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 434,
-      "source": "hn",
-      "date": "2026-07-11T08:21:27+00:00"
     },
     {
       "title": "Old and new apps, via modern coding agents",
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-09T14:17:40+00:00"
-    },
-    {
-      "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
-      "url": "https://github.com/dicroce/wyrm_math",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-09T11:16:18+00:00"
     }
   ]
 }
