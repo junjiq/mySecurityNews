@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-14T00:29:01.742330+00:00",
+  "generated_at": "2026-07-14T01:00:57.396568+00:00",
   "total_articles": 459,
   "source_counts": {
     "hn": 360,
@@ -8,8 +8,8 @@
     "project": 9
   },
   "severity_counts": {
+    "critical": 11,
     "medium": 3,
-    "critical": 9,
     "high": 3
   },
   "top_articles": [
@@ -155,6 +155,20 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "The AI Whale Fall and Open Source",
+      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-13T23:16:42+00:00"
+    },
+    {
+      "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
+      "url": "https://19thnews.org/2026/07/noaa-climate-data-website/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-13T19:57:55+00:00"
+    },
     {
       "title": "Unauthenticated RCE in Motorola's MR2600 Router",
       "url": "https://mrbruh.com/motorola/",
