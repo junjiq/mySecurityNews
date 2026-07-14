@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-14T11:02:46.919419+00:00",
+  "generated_at": "2026-07-14T11:58:50.627956+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 350,
-    "zennqiita": 100,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 11
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 10,
     "medium": 3,
     "high": 2
   },
@@ -40,13 +40,6 @@
       "score": 1239,
       "source": "hn",
       "date": "2026-07-13T08:39:39+00:00"
-    },
-    {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 1187,
-      "source": "hn",
-      "date": "2026-07-08T23:37:43+00:00"
     },
     {
       "title": "Show HN: 18 Words",
@@ -84,6 +77,13 @@
       "date": "2026-07-12T18:25:51+00:00"
     },
     {
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "score": 562,
+      "source": "hn",
+      "date": "2026-07-14T02:27:20+00:00"
+    },
+    {
       "title": "New York City to ban deceptive subscription practices",
       "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
       "score": 554,
@@ -112,13 +112,6 @@
       "date": "2026-07-09T15:27:48+00:00"
     },
     {
-      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "score": 522,
-      "source": "hn",
-      "date": "2026-07-14T02:27:20+00:00"
-    },
-    {
       "title": "Good Tools Are Invisible",
       "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
       "score": 512,
@@ -128,7 +121,7 @@
     {
       "title": "Building and shipping Mac and iOS apps without opening Xcode",
       "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "score": 488,
+      "score": 498,
       "source": "hn",
       "date": "2026-07-13T18:22:16+00:00"
     },
@@ -152,9 +145,23 @@
       "score": 465,
       "source": "hn",
       "date": "2026-07-13T13:39:59+00:00"
+    },
+    {
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "score": 442,
+      "source": "hn",
+      "date": "2026-07-12T01:09:50+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
+      "url": "https://github.com/rejourneyco/rejourney",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-14T11:06:09+00:00"
+    },
     {
       "title": "The AI Whale Fall and Open Source",
       "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
