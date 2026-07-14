@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-07-14T19:30:45.446371+00:00",
+  "updated_at": "2026-07-14T20:25:42.792486+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-48910676",
+      "source": "hn",
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "score": 46,
+      "comments": 13,
+      "author": "Synthetic7346",
+      "tags": [],
+      "date": "2026-07-14T17:58:35+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-48910545",
       "source": "hn",
-      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
-      "score": 78,
-      "comments": 17,
+      "score": 136,
+      "comments": 36,
       "author": "xenova",
       "tags": [],
       "date": "2026-07-14T17:50:48+00:00"
@@ -29,8 +41,8 @@
       "source": "hn",
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 149,
-      "comments": 50,
+      "score": 200,
+      "comments": 81,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-07-14T16:57:54+00:00"
@@ -51,8 +63,8 @@
       "source": "hn",
       "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
       "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "score": 251,
-      "comments": 132,
+      "score": 294,
+      "comments": 165,
       "author": "hoechst",
       "tags": [],
       "date": "2026-07-14T16:36:06+00:00"
@@ -62,8 +74,8 @@
       "source": "hn",
       "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
       "url": "https://agnost.ai",
-      "score": 21,
-      "comments": 7,
+      "score": 26,
+      "comments": 9,
       "author": "laalshaitaan",
       "tags": [],
       "date": "2026-07-14T16:06:18+00:00"
@@ -73,19 +85,32 @@
       "source": "hn",
       "title": "Show HN: Opening lines of famous literary works",
       "url": "https://www.verbaprima.com/",
-      "score": 107,
-      "comments": 70,
+      "score": 113,
+      "comments": 73,
       "author": "plicerin",
       "tags": [],
       "date": "2026-07-14T15:24:49+00:00"
+    },
+    {
+      "id": "qiita-0552247a13",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeで「YouTube集客テクニック」を多角的に調査してみた",
+      "url": "https://qiita.com/maskot1977/items/de4d2912e11f63ad49b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-15T00:24:28+09:00"
     },
     {
       "id": "hn-48908214",
       "source": "hn",
       "title": "I'm a USB-C Maximalist",
       "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "score": 27,
-      "comments": 21,
+      "score": 50,
+      "comments": 90,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-14T15:20:36+00:00"
@@ -95,8 +120,8 @@
       "source": "hn",
       "title": "Are we offloading too much of our thinking to AI?",
       "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 251,
-      "comments": 241,
+      "score": 279,
+      "comments": 267,
       "author": "yenniejun111",
       "tags": [],
       "date": "2026-07-14T15:18:13+00:00"
@@ -106,8 +131,8 @@
       "source": "hn",
       "title": "The Agentic Loop: Three loops in a trench coat",
       "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
-      "score": 36,
-      "comments": 9,
+      "score": 47,
+      "comments": 11,
       "author": "btables",
       "tags": [],
       "date": "2026-07-14T14:39:56+00:00"
@@ -128,8 +153,8 @@
       "source": "hn",
       "title": "Agnes Callard’s theory of the uni-context",
       "url": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
-      "score": 66,
-      "comments": 58,
+      "score": 77,
+      "comments": 76,
       "author": "FinnLobsien",
       "tags": [],
       "date": "2026-07-14T14:17:39+00:00"
@@ -181,6 +206,17 @@
       "date": "2026-07-14T12:56:21+00:00"
     },
     {
+      "id": "hn-48906041",
+      "source": "hn",
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "url": "https://gwern.net/guardian-angel",
+      "score": 8,
+      "comments": 0,
+      "author": "andsoitis",
+      "tags": [],
+      "date": "2026-07-14T12:50:29+00:00"
+    },
+    {
       "id": "hn-48905919",
       "source": "hn",
       "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
@@ -194,10 +230,10 @@
     {
       "id": "hn-48905914",
       "source": "hn",
-      "title": "Beautiful Type Erasure with C++26 Reflection",
+      "title": "Show HN: Beautiful Type Erasure with C++26 Reflection",
       "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-      "score": 92,
-      "comments": 36,
+      "score": 97,
+      "comments": 40,
       "author": "RyanJK5",
       "tags": [],
       "date": "2026-07-14T12:40:50+00:00"
@@ -240,8 +276,8 @@
       "source": "hn",
       "title": "How to stop Claude from saying load-bearing",
       "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 276,
-      "comments": 351,
+      "score": 306,
+      "comments": 398,
       "author": "shintoist",
       "tags": [],
       "date": "2026-07-14T11:46:02+00:00"
@@ -262,8 +298,8 @@
       "source": "hn",
       "title": "Punch yourself in the face with reality",
       "url": "https://adi.bio/reality",
-      "score": 159,
-      "comments": 78,
+      "score": 169,
+      "comments": 85,
       "author": "AdityaAnand1",
       "tags": [],
       "date": "2026-07-14T11:33:19+00:00"
@@ -351,11 +387,37 @@
       "source": "hn",
       "title": "Demis Hassabis has a plan to harness AI safely",
       "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-      "score": 59,
-      "comments": 41,
+      "score": 107,
+      "comments": 133,
       "author": "asiergoni",
       "tags": [],
       "date": "2026-07-14T09:20:07+00:00"
+    },
+    {
+      "id": "qiita-6bc9ece428",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "エラー対応理由考えてる？コピペしてAIに聞いてるでしょ",
+      "url": "https://qiita.com/prum_sumomo/items/535a697aeaea41515de9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "prum_sumomo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T18:00:43+09:00"
+    },
+    {
+      "id": "qiita-d66cf4c44d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "# 僕より入社同期メンバーが先輩に可愛がられる理由、後から気づいた小さな差",
+      "url": "https://qiita.com/prumnn/items/3b1e01cf7a2d77b45da1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "prumnn",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T17:59:23+09:00"
     },
     {
       "id": "hn-48903777",
@@ -389,6 +451,32 @@
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-14T08:22:52+00:00"
+    },
+    {
+      "id": "qiita-bb9d35a4cc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "SpeckitとPlaywright MCPで体感する、AIエージェント時代の「仕様駆動開発」",
+      "url": "https://qiita.com/ashi-lal/items/5f1bab745d62d32900d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ashi-lal",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T17:16:27+09:00"
+    },
+    {
+      "id": "qiita-b216093c19",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "正式リリース前の機能を先取り！kintoneと生成AIをつなぐ2つのMCPサーバーを試してみた",
+      "url": "https://qiita.com/mu2in/items/230ed5f9fb2d9da8c309?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mu2in",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T16:09:25+09:00"
     },
     {
       "id": "hn-48903082",
@@ -672,6 +760,19 @@
       "date": "2026-07-14T09:52:00+09:00"
     },
     {
+      "id": "qiita-4423c8544b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "GitHub Project に突っ込んだタスクを自動で消化する Loop Engineering 環境を構築した",
+      "url": "https://qiita.com/tomoasleep/items/7f7b6c157b318428a9f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "tomoasleep",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T09:29:02+09:00"
+    },
+    {
       "id": "hn-48900796",
       "source": "hn",
       "title": "What did SFFA vs. Harvard reveal about admissions?",
@@ -705,6 +806,19 @@
         "Qiita"
       ],
       "date": "2026-07-14T09:22:31+09:00"
+    },
+    {
+      "id": "qiita-0d7f44051c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "React系フレームワーク最新動向2026: Next.js 16 / React Router v8 / TanStack Start / Remix 3 / Astro をどう選ぶか",
+      "url": "https://qiita.com/nogataka/items/c7c59e908be3a88dc1a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T09:22:09+09:00"
     },
     {
       "id": "hn-48900686",
@@ -1660,6 +1774,19 @@
       "date": "2026-07-13T11:05:47+09:00"
     },
     {
+      "id": "qiita-abdc772168",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "GoでWeb APIを書くときにやりがちなアンチパターン5選",
+      "url": "https://qiita.com/Sakaaaaai/items/05a3419cbe1afc7c3e56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Sakaaaaai",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-13T11:03:20+09:00"
+    },
+    {
       "id": "hn-48886881",
       "source": "hn",
       "title": "Modernizing Property Tax Assessments in Allegheny County",
@@ -1958,8 +2085,8 @@
       "source": "hn",
       "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
       "url": "https://github.com/juggler-ai/juggler",
-      "score": 109,
-      "comments": 65,
+      "score": 118,
+      "comments": 72,
       "author": "julesrms",
       "tags": [],
       "date": "2026-07-12T18:28:15+00:00",
@@ -2681,8 +2808,8 @@
       "source": "hn",
       "title": "How the FSF sysadmins block botnets with reaction",
       "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
-      "score": 136,
-      "comments": 45,
+      "score": 144,
+      "comments": 49,
       "author": "pseudolus",
       "tags": [],
       "date": "2026-07-11T23:26:12+00:00"
@@ -2844,6 +2971,17 @@
       "author": "rvz",
       "tags": [],
       "date": "2026-07-11T18:04:01+00:00"
+    },
+    {
+      "id": "hn-48874190",
+      "source": "hn",
+      "title": "The Second Life of Sanskrit",
+      "url": "https://openthemagazine.com/india/the-second-life-of-sanskrit",
+      "score": 5,
+      "comments": 0,
+      "author": "bookofjoe",
+      "tags": [],
+      "date": "2026-07-11T18:03:11+00:00"
     },
     {
       "id": "hn-48874182",
@@ -3108,8 +3246,8 @@
       "source": "hn",
       "title": "The largest available Minecraft world, totalling 15 TB",
       "url": "https://2b2t.place/1million",
-      "score": 39,
-      "comments": 10,
+      "score": 64,
+      "comments": 15,
       "author": "_____k",
       "tags": [],
       "date": "2026-07-11T14:32:19+00:00"
@@ -3259,8 +3397,8 @@
       "source": "hn",
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
       "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 518,
-      "comments": 362,
+      "score": 568,
+      "comments": 383,
       "author": "MrVandemar",
       "tags": [],
       "date": "2026-07-11T08:21:27+00:00"
@@ -3543,8 +3681,8 @@
       "source": "hn",
       "title": "The zero-cost fallacy: open-source software in the agentic era",
       "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "score": 42,
-      "comments": 21,
+      "score": 63,
+      "comments": 45,
       "author": "backlit4034",
       "tags": [],
       "date": "2026-07-10T20:45:43+00:00",
@@ -3664,10 +3802,10 @@
     {
       "id": "hn-48863336",
       "source": "hn",
-      "title": "Superoptimizer – A Look at the Smallest Program",
+      "title": "Superoptimizer – A Look at the Smallest Program (1987) [pdf]",
       "url": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
-      "score": 39,
-      "comments": 7,
+      "score": 48,
+      "comments": 8,
       "author": "linggen",
       "tags": [],
       "date": "2026-07-10T18:15:27+00:00"
@@ -4549,10 +4687,10 @@
     {
       "id": "hn-48850688",
       "source": "hn",
-      "title": "Paxos Made Simple (2001)[pdf]",
+      "title": "Paxos Made Simple (2001) [pdf]",
       "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
-      "score": 56,
-      "comments": 3,
+      "score": 61,
+      "comments": 7,
       "author": "grep_it",
       "tags": [],
       "date": "2026-07-09T18:51:22+00:00"
@@ -4742,8 +4880,8 @@
       "source": "hn",
       "title": "A tiny cell that broke a big rule of biology",
       "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
-      "score": 109,
-      "comments": 16,
+      "score": 125,
+      "comments": 18,
       "author": "gumby",
       "tags": [],
       "date": "2026-07-09T15:50:40+00:00"
@@ -5070,127 +5208,6 @@
       "author": "littlexsparkee",
       "tags": [],
       "date": "2026-07-09T13:27:05+00:00"
-    },
-    {
-      "id": "hn-48845442",
-      "source": "hn",
-      "title": "The glass backbone: Why the Army's logistics will break in the next war",
-      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "score": 404,
-      "comments": 532,
-      "author": "baud147258",
-      "tags": [],
-      "date": "2026-07-09T13:24:43+00:00"
-    },
-    {
-      "id": "hn-48845422",
-      "source": "hn",
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "url": "https://github.com/ronak-create/FableCut",
-      "score": 69,
-      "comments": 44,
-      "author": "ronak_parmar",
-      "tags": [],
-      "date": "2026-07-09T13:23:10+00:00"
-    },
-    {
-      "id": "hn-48845364",
-      "source": "hn",
-      "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
-      "url": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
-      "score": 9,
-      "comments": 1,
-      "author": "cjbell",
-      "tags": [],
-      "date": "2026-07-09T13:19:02+00:00"
-    },
-    {
-      "id": "hn-48845321",
-      "source": "hn",
-      "title": "The Seed Beneath the Snow",
-      "url": "https://eli.li/the-seed-beneath-the-snow",
-      "score": 13,
-      "comments": 1,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-09T13:15:26+00:00"
-    },
-    {
-      "id": "hn-48845209",
-      "source": "hn",
-      "title": "A road to Lisp: Why Lisp",
-      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-      "score": 263,
-      "comments": 219,
-      "author": "silcoon",
-      "tags": [],
-      "date": "2026-07-09T13:06:04+00:00"
-    },
-    {
-      "id": "hn-48845142",
-      "source": "hn",
-      "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
-      "url": "https://arcaide.foo",
-      "score": 12,
-      "comments": 6,
-      "author": "aqula",
-      "tags": [],
-      "date": "2026-07-09T12:59:44+00:00"
-    },
-    {
-      "id": "hn-48845049",
-      "source": "hn",
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "score": 1039,
-      "comments": 333,
-      "author": "pompomsheep",
-      "tags": [],
-      "date": "2026-07-09T12:48:52+00:00"
-    },
-    {
-      "id": "hn-48844956",
-      "source": "hn",
-      "title": "Show HN: 92% of US city websites fail ADA accessibility",
-      "url": "https://accesslumens.com/research/state-of-us-local-government-accessibility-2026",
-      "score": 15,
-      "comments": 2,
-      "author": "a11ymaster",
-      "tags": [],
-      "date": "2026-07-09T12:40:03+00:00"
-    },
-    {
-      "id": "hn-48844709",
-      "source": "hn",
-      "title": "How Version Control Will Evolve for the Agent Boom",
-      "url": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
-      "score": 27,
-      "comments": 33,
-      "author": "tapanjk",
-      "tags": [],
-      "date": "2026-07-09T12:20:41+00:00"
-    },
-    {
-      "id": "hn-48844554",
-      "source": "hn",
-      "title": "Converting colors in JavaScript at 6B operations per second",
-      "url": "https://dkryaklin.com/blog/colordx-gpu",
-      "score": 23,
-      "comments": 4,
-      "author": "dkryaklin",
-      "tags": [],
-      "date": "2026-07-09T12:04:36+00:00"
-    },
-    {
-      "id": "hn-48843120",
-      "source": "hn",
-      "title": "Building a High-Performance C++ Backtesting Framework",
-      "url": "https://dolphindb.com/blogs/46",
-      "score": 4,
-      "comments": 0,
-      "author": "CrazyTomato",
-      "tags": [],
-      "date": "2026-07-09T09:18:42+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-349372792",
