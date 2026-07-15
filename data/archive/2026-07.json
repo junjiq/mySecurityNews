@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-15T00:58:02.714415+00:00",
+  "generated_at": "2026-07-15T01:39:51.444994+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 359,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 5,
-    "critical": 11,
+    "critical": 10,
     "high": 2
   },
   "top_articles": [
@@ -35,18 +35,18 @@
       "date": "2026-07-13T08:39:39+00:00"
     },
     {
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "score": 715,
+      "source": "hn",
+      "date": "2026-07-11T08:21:27+00:00"
+    },
+    {
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
       "score": 708,
       "source": "hn",
       "date": "2026-07-10T15:59:53+00:00"
-    },
-    {
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 701,
-      "source": "hn",
-      "date": "2026-07-11T08:21:27+00:00"
     },
     {
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
@@ -142,16 +142,16 @@
     {
       "title": "How to stop Claude from saying load-bearing",
       "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 425,
+      "score": 431,
       "source": "hn",
       "date": "2026-07-14T11:46:02+00:00"
     },
     {
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 420,
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "score": 430,
       "source": "hn",
-      "date": "2026-07-12T11:09:42+00:00"
+      "date": "2026-07-14T17:50:48+00:00"
     }
   ],
   "security_highlights": [
@@ -238,13 +238,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-07-10T01:28:43+00:00"
-    },
-    {
-      "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
-      "url": "https://kastra.ai/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-09T15:26:24+00:00"
     }
   ]
 }
