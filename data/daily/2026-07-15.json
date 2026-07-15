@@ -1,8 +1,8 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T14:34:49.298056+00:00",
-  "total_articles": 68,
-  "urgent_count": 3,
+  "generated_at": "2026-07-15T15:32:03.397818+00:00",
+  "total_articles": 66,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "Germany maybe found a new source of renewable energy",
@@ -24,6 +24,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-14T17:58:35+00:00"
+    },
+    {
+      "title": "CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
+      "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-15T14:30:07+00:00"
     }
   ],
   "categories": [
@@ -34,7 +41,7 @@
         {
           "title": "Jurassic Park computers in excruciating detail",
           "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-          "score": 687,
+          "score": 726,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T02:57:47+00:00"
@@ -75,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 8,
       "top_items": [
         {
           "title": "【一元管理】エージェント縛りのスキルは、もう書かない",

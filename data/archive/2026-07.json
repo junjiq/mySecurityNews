@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-15T14:34:49.334525+00:00",
+  "generated_at": "2026-07-15T15:32:03.448997+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 362,
-    "zennqiita": 88,
+    "hn": 365,
+    "zennqiita": 85,
     "project": 11
   },
   "severity_counts": {
+    "high": 2,
     "critical": 12,
-    "medium": 6,
-    "high": 1
+    "medium": 6
   },
   "top_articles": [
     {
@@ -35,18 +35,18 @@
       "date": "2026-07-11T08:21:27+00:00"
     },
     {
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "score": 726,
+      "source": "hn",
+      "date": "2026-07-15T02:57:47+00:00"
+    },
+    {
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
       "score": 708,
       "source": "hn",
       "date": "2026-07-10T15:59:53+00:00"
-    },
-    {
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "score": 687,
-      "source": "hn",
-      "date": "2026-07-15T02:57:47+00:00"
     },
     {
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
+      "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-15T14:30:07+00:00"
+    },
     {
       "title": "Germany maybe found a new source of renewable energy",
       "url": "https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany",
