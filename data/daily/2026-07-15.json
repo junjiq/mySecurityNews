@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T16:31:46.657987+00:00",
-  "total_articles": 74,
+  "generated_at": "2026-07-15T17:29:14.888628+00:00",
+  "total_articles": 77,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,12 +43,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 66,
+      "count": 69,
       "top_items": [
         {
           "title": "Jurassic Park computers in excruciating detail",
           "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-          "score": 751,
+          "score": 784,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T02:57:47+00:00"
@@ -62,17 +62,9 @@
           "date": "2026-07-14T17:50:48+00:00"
         },
         {
-          "title": "The Tower Keeps Rising",
-          "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-          "score": 514,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-14T16:57:54+00:00"
-        },
-        {
           "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
           "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-          "score": 486,
+          "score": 540,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T11:46:06+00:00"
@@ -84,6 +76,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T06:28:00+00:00"
+        },
+        {
+          "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "score": 410,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-07-14T17:58:35+00:00"
         }
       ]
     },
