@@ -1,8 +1,8 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T17:57:16.434755+00:00",
-  "total_articles": 78,
-  "urgent_count": 5,
+  "generated_at": "2026-07-15T18:30:49.125619+00:00",
+  "total_articles": 79,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "Open-source memory for coding agents, synced over SSH",
@@ -26,13 +26,6 @@
       "date": "2026-07-15T11:02:43+00:00"
     },
     {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-14T17:58:35+00:00"
-    },
-    {
       "title": "CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
       "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
       "severity": "high",
@@ -43,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 70,
+      "count": 71,
       "top_items": [
         {
           "title": "Jurassic Park computers in excruciating detail",
           "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-          "score": 808,
+          "score": 823,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T02:57:47+00:00"
@@ -56,7 +49,7 @@
         {
           "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
           "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-          "score": 554,
+          "score": 566,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T11:46:06+00:00"
@@ -70,20 +63,20 @@
           "date": "2026-07-15T06:28:00+00:00"
         },
         {
-          "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "score": 410,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-07-14T17:58:35+00:00"
-        },
-        {
           "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
           "url": "https://vpd.ca/",
           "score": 328,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T00:15:53+00:00"
+        },
+        {
+          "title": "How I use HTMX with Go",
+          "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+          "score": 280,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-14T19:55:31+00:00"
         }
       ]
     },
