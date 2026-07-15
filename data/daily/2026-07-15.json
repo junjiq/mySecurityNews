@@ -1,49 +1,41 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T11:04:28.013842+00:00",
-  "total_articles": 66,
+  "generated_at": "2026-07-15T12:00:51.977297+00:00",
+  "total_articles": 56,
   "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Weathergotchi – an open-source climate Tamagotchi",
+      "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-15T11:02:43+00:00"
+    },
     {
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
       "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-14T17:58:35+00:00"
-    },
-    {
-      "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
-      "url": "https://github.com/rejourneyco/rejourney",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-14T11:06:09+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 55,
+      "count": 46,
       "top_items": [
         {
           "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
           "url": "https://prismml.com/news/bonsai-27b",
-          "score": 610,
+          "score": 626,
           "source": "hn",
           "severity": null,
           "date": "2026-07-14T17:50:48+00:00"
         },
         {
-          "title": "How to stop Claude from saying load-bearing",
-          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-          "score": 539,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-14T11:46:02+00:00"
-        },
-        {
           "title": "Jurassic Park computers in excruciating detail",
           "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-          "score": 505,
+          "score": 560,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T02:57:47+00:00"
@@ -51,15 +43,23 @@
         {
           "title": "The Tower Keeps Rising",
           "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-          "score": 478,
+          "score": 488,
           "source": "hn",
           "severity": null,
           "date": "2026-07-14T16:57:54+00:00"
         },
         {
+          "title": "I tricked Claude into leaking your deepest, darkest secrets",
+          "url": "https://www.ayush.digital/blog/the-memory-heist",
+          "score": 402,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-15T06:28:00+00:00"
+        },
+        {
           "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "score": 380,
+          "score": 389,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-14T17:58:35+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
+        {
+          "title": "【一元管理】エージェント縛りのスキルは、もう書かない",
+          "url": "https://qiita.com/natume_nat/items/19b3d0cd8d3dcb6ecdc4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-15T20:29:37+09:00"
+        },
         {
           "title": "Amazon S3上の大量ログを Autonomous AI Lakehouseで分析する 外部表、Parquet、SQL、Vector Search、RAGの使い分け",
           "url": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-15T09:14:57+09:00"
-        },
-        {
-          "title": "「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法",
-          "url": "https://qiita.com/Nao52/items/ced302095c8ddd3c8213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-15T09:07:13+09:00"
         }
       ]
     }
