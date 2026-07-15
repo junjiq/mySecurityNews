@@ -1,9 +1,16 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T21:21:38.949002+00:00",
-  "total_articles": 86,
-  "urgent_count": 5,
+  "generated_at": "2026-07-15T21:47:53.907259+00:00",
+  "total_articles": 90,
+  "urgent_count": 6,
   "urgent_items": [
+    {
+      "title": "Must actively fund open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-15T21:16:36+00:00"
+    },
     {
       "title": "Open-source memory for coding agents, synced over SSH",
       "url": "https://github.com/vshulcz/deja-vu/",
@@ -43,7 +50,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 72,
+      "count": 76,
       "top_items": [
         {
           "title": "Jurassic Park computers in excruciating detail",
@@ -72,7 +79,7 @@
         {
           "title": "Inkling: Our Open-Weights Model",
           "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-          "score": 366,
+          "score": 416,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T18:12:45+00:00"

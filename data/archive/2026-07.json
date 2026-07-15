@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-15T21:21:38.994931+00:00",
+  "generated_at": "2026-07-15T21:47:53.952264+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 363,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "high": 2,
     "medium": 6
   },
@@ -105,13 +105,6 @@
       "date": "2026-07-14T16:57:54+00:00"
     },
     {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 484,
-      "source": "hn",
-      "date": "2026-07-10T18:29:19+00:00"
-    },
-    {
       "title": "How to read more books",
       "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
       "score": 482,
@@ -152,9 +145,23 @@
       "score": 420,
       "source": "hn",
       "date": "2026-07-12T11:09:42+00:00"
+    },
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "score": 416,
+      "source": "hn",
+      "date": "2026-07-15T18:12:45+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Must actively fund open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-15T21:16:36+00:00"
+    },
     {
       "title": "Open-source memory for coding agents, synced over SSH",
       "url": "https://github.com/vshulcz/deja-vu/",
