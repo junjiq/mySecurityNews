@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-15T01:39:51.444994+00:00",
+  "generated_at": "2026-07-15T03:03:36.367500+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 359,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "medium": 5,
+    "medium": 6,
     "critical": 10,
     "high": 2
   },
@@ -37,7 +37,7 @@
     {
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
       "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 715,
+      "score": 745,
       "source": "hn",
       "date": "2026-07-11T08:21:27+00:00"
     },
@@ -84,13 +84,6 @@
       "date": "2026-07-13T16:06:08+00:00"
     },
     {
-      "title": "Hy3",
-      "url": "https://hy.tencent.com/research/hy3",
-      "score": 529,
-      "source": "hn",
-      "date": "2026-07-09T15:27:48+00:00"
-    },
-    {
       "title": "Building and shipping Mac and iOS apps without opening Xcode",
       "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
       "score": 515,
@@ -126,6 +119,20 @@
       "date": "2026-07-13T13:39:59+00:00"
     },
     {
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "score": 462,
+      "source": "hn",
+      "date": "2026-07-14T17:50:48+00:00"
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "score": 449,
+      "source": "hn",
+      "date": "2026-07-14T11:46:02+00:00"
+    },
+    {
       "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
       "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
       "score": 442,
@@ -140,18 +147,11 @@
       "date": "2026-07-14T08:34:57+00:00"
     },
     {
-      "title": "How to stop Claude from saying load-bearing",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 431,
+      "title": "Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "score": 420,
       "source": "hn",
-      "date": "2026-07-14T11:46:02+00:00"
-    },
-    {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "score": 430,
-      "source": "hn",
-      "date": "2026-07-14T17:50:48+00:00"
+      "date": "2026-07-12T11:09:42+00:00"
     }
   ],
   "security_highlights": [
