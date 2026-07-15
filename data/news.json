@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-07-15T15:32:03.327747+00:00",
+  "updated_at": "2026-07-15T16:31:46.606220+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48923111",
+      "source": "hn",
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "url": "https://github.com/vshulcz/deja-vu/",
+      "score": 6,
+      "comments": 0,
+      "author": "vshulcz",
+      "tags": [],
+      "date": "2026-07-15T16:15:03+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-48922838",
+      "source": "hn",
+      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "score": 8,
+      "comments": 0,
+      "author": "nonadhocproblem",
+      "tags": [],
+      "date": "2026-07-15T15:58:59+00:00"
+    },
+    {
+      "id": "hn-48922803",
+      "source": "hn",
+      "title": "J-space comparisons across open models",
+      "url": "https://eliebak.com/viz/jspace-open-v2",
+      "score": 9,
+      "comments": 0,
+      "author": "babelfish",
+      "tags": [],
+      "date": "2026-07-15T15:57:16+00:00"
+    },
+    {
+      "id": "hn-48922625",
+      "source": "hn",
+      "title": "Nat Slipstreaming v2.0 allows an attacker to remotely access any TCP/UDP service",
+      "url": "https://sa.my/slipstream/",
+      "score": 3,
+      "comments": 1,
+      "author": "_____k",
+      "tags": [],
+      "date": "2026-07-15T15:46:39+00:00"
+    },
+    {
+      "id": "hn-48922487",
+      "source": "hn",
+      "title": "When A.I. Is a Member of the Family",
+      "url": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
+      "score": 4,
+      "comments": 0,
+      "author": "fortran77",
+      "tags": [],
+      "date": "2026-07-15T15:37:47+00:00"
+    },
+    {
+      "id": "hn-48922469",
+      "source": "hn",
+      "title": "The age of the Universe from a large sample of the oldest Galactic stars",
+      "url": "https://arxiv.org/abs/2607.00764",
+      "score": 5,
+      "comments": 0,
+      "author": "root-parent",
+      "tags": [],
+      "date": "2026-07-15T15:36:32+00:00"
+    },
+    {
+      "id": "hn-48922434",
+      "source": "hn",
+      "title": "Running Gemma 4 26B at 5 tokens/SEC on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "score": 9,
+      "comments": 3,
+      "author": "neomindryan",
+      "tags": [],
+      "date": "2026-07-15T15:34:05+00:00"
+    },
+    {
+      "id": "hn-48922185",
+      "source": "hn",
+      "title": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
+      "url": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
+      "score": 39,
+      "comments": 38,
+      "author": "gnabgib",
+      "tags": [],
+      "date": "2026-07-15T15:17:44+00:00"
+    },
     {
       "id": "hn-48921461",
       "source": "hn",
@@ -18,8 +107,8 @@
       "source": "hn",
       "title": "CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
       "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
-      "score": 7,
-      "comments": 0,
+      "score": 12,
+      "comments": 1,
       "author": "bearsyankees",
       "tags": [],
       "date": "2026-07-15T14:30:07+00:00",
@@ -39,10 +128,10 @@
     {
       "id": "hn-48921121",
       "source": "hn",
-      "title": "The well-calibrated Bayesian [pdf]",
+      "title": "The well-calibrated Bayesian [pdf] (1982)",
       "url": "https://fitelson.org/seminar/dawid.pdf",
-      "score": 22,
-      "comments": 5,
+      "score": 35,
+      "comments": 8,
       "author": "Murfalo",
       "tags": [],
       "date": "2026-07-15T14:11:12+00:00"
@@ -52,8 +141,8 @@
       "source": "hn",
       "title": "Towards a Harness That Can Do Anything",
       "url": "https://eardatasci.github.io/c/ambiance/index.html",
-      "score": 43,
-      "comments": 15,
+      "score": 65,
+      "comments": 41,
       "author": "evakhoury",
       "tags": [],
       "date": "2026-07-15T14:08:28+00:00"
@@ -68,6 +157,17 @@
       "author": "bitjaru0402",
       "tags": [],
       "date": "2026-07-15T13:55:23+00:00"
+    },
+    {
+      "id": "hn-48920811",
+      "source": "hn",
+      "title": "Show HN: 18KB ls alternative in no_std rust and Libc",
+      "url": "https://crates.io/crates/fli-tool",
+      "score": 10,
+      "comments": 2,
+      "author": "tracyspacy",
+      "tags": [],
+      "date": "2026-07-15T13:49:15+00:00"
     },
     {
       "id": "hn-48920700",
@@ -96,8 +196,8 @@
       "source": "hn",
       "title": "Mysteries of Telegram Data Centers",
       "url": "https://dev.moe/en/3025",
-      "score": 91,
-      "comments": 21,
+      "score": 122,
+      "comments": 31,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-07-15T13:22:00+00:00"
@@ -140,8 +240,8 @@
       "source": "hn",
       "title": "What's the most popular number in Hacker News titles?",
       "url": "https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/",
-      "score": 21,
-      "comments": 9,
+      "score": 30,
+      "comments": 16,
       "author": "omgmog",
       "tags": [],
       "date": "2026-07-15T12:40:46+00:00"
@@ -163,8 +263,8 @@
       "source": "hn",
       "title": "Briar Is in Maintenance Mode",
       "url": "https://briarproject.org/news/2026-maintenance-mode/",
-      "score": 72,
-      "comments": 35,
+      "score": 89,
+      "comments": 63,
       "author": "ristello",
       "tags": [],
       "date": "2026-07-15T12:33:27+00:00"
@@ -196,8 +296,8 @@
       "source": "hn",
       "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
       "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "score": 399,
-      "comments": 182,
+      "score": 486,
+      "comments": 240,
       "author": "bilsbie",
       "tags": [],
       "date": "2026-07-15T11:46:06+00:00"
@@ -231,8 +331,8 @@
       "source": "hn",
       "title": "Prioritize mental health, and why communication is so important",
       "url": "https://ramones.dev/posts/mental-health/",
-      "score": 124,
-      "comments": 70,
+      "score": 153,
+      "comments": 88,
       "author": "ramon156",
       "tags": [],
       "date": "2026-07-15T11:27:35+00:00"
@@ -253,8 +353,8 @@
       "source": "hn",
       "title": "Weathergotchi – an open-source climate Tamagotchi",
       "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
-      "score": 63,
-      "comments": 17,
+      "score": 76,
+      "comments": 22,
       "author": "luanmuniz",
       "tags": [],
       "date": "2026-07-15T11:02:43+00:00",
@@ -403,8 +503,8 @@
       "source": "hn",
       "title": "Jurassic Park computers in excruciating detail",
       "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "score": 726,
-      "comments": 182,
+      "score": 751,
+      "comments": 194,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-07-15T02:57:47+00:00"
@@ -656,8 +756,8 @@
       "source": "hn",
       "title": "The Memory Heist",
       "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "score": 10,
-      "comments": 0,
+      "score": 22,
+      "comments": 2,
       "author": "eieio",
       "tags": [],
       "date": "2026-07-14T19:40:54+00:00"
@@ -864,6 +964,17 @@
       "author": "speckx",
       "tags": [],
       "date": "2026-07-14T14:12:39+00:00"
+    },
+    {
+      "id": "hn-48906893",
+      "source": "hn",
+      "title": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
+      "url": "https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game",
+      "score": 43,
+      "comments": 5,
+      "author": "bryanmikaelian",
+      "tags": [],
+      "date": "2026-07-14T13:52:21+00:00"
     },
     {
       "id": "hn-48906125",
@@ -1448,8 +1559,8 @@
       "source": "hn",
       "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
       "url": "https://cdrom.ca/games/2026/05/30/xd.html",
-      "score": 45,
-      "comments": 5,
+      "score": 49,
+      "comments": 9,
       "author": "zetamax",
       "tags": [],
       "date": "2026-07-14T01:09:00+00:00"
@@ -3819,7 +3930,7 @@
       "source": "hn",
       "title": "What Every Python Developer Should Know About the CPython ABI",
       "url": "https://labs.quansight.org/blog/python-abi-abi3t",
-      "score": 11,
+      "score": 18,
       "comments": 1,
       "author": "matt_d",
       "tags": [],
@@ -5061,83 +5172,6 @@
       "date": "2026-07-10T13:17:52+00:00"
     },
     {
-      "id": "hn-48859437",
-      "source": "hn",
-      "title": "We Put an L7 Firewall in the Kernel",
-      "url": "https://yeet.cx/blog/l7-firewall-in-the-kernel",
-      "score": 34,
-      "comments": 4,
-      "author": "ok_major_9889",
-      "tags": [],
-      "date": "2026-07-10T13:11:26+00:00"
-    },
-    {
-      "id": "hn-48859387",
-      "source": "hn",
-      "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
-      "url": "https://github.com/robertsdotpm/runloom",
-      "score": 36,
-      "comments": 15,
-      "author": "Uptrenda",
-      "tags": [],
-      "date": "2026-07-10T13:07:38+00:00"
-    },
-    {
-      "id": "hn-48859298",
-      "source": "hn",
-      "title": "Europe's Largest Unions Demand Right to Cancel Work on Days Above 30C",
-      "url": "https://novaramedia.com/2026/07/09/europes-largest-unions-demand-right-to-cancel-work-on-days-above-30c/",
-      "score": 11,
-      "comments": 10,
-      "author": "robtherobber",
-      "tags": [],
-      "date": "2026-07-10T12:59:49+00:00"
-    },
-    {
-      "id": "hn-48858997",
-      "source": "hn",
-      "title": "Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure",
-      "url": "https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/",
-      "score": 25,
-      "comments": 21,
-      "author": "amelius",
-      "tags": [],
-      "date": "2026-07-10T12:31:50+00:00"
-    },
-    {
-      "id": "hn-48858745",
-      "source": "hn",
-      "title": "Laylo (YC S20) Is Hiring a Head of Finance",
-      "url": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
-      "score": 1,
-      "comments": 0,
-      "author": "amellin794",
-      "tags": [],
-      "date": "2026-07-10T12:00:36+00:00"
-    },
-    {
-      "id": "hn-48858737",
-      "source": "hn",
-      "title": "Late Bronze Age Collapse",
-      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "score": 405,
-      "comments": 283,
-      "author": "dmonay",
-      "tags": [],
-      "date": "2026-07-10T11:59:55+00:00"
-    },
-    {
-      "id": "hn-48858541",
-      "source": "hn",
-      "title": "Accretive Editing",
-      "url": "https://justindfuller.com/programming/accretive-editing",
-      "score": 13,
-      "comments": 5,
-      "author": "iamjfu",
-      "tags": [],
-      "date": "2026-07-10T11:36:59+00:00"
-    },
-    {
       "id": "ctf-4113061",
       "source": "project",
       "proj_category": "CTF",
@@ -5150,39 +5184,6 @@
         "Security"
       ],
       "date": "2026-07-10T11:17:40Z"
-    },
-    {
-      "id": "hn-48858292",
-      "source": "hn",
-      "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
-      "url": "https://ec.europa.eu/commission/presscorner/home/en",
-      "score": 213,
-      "comments": 145,
-      "author": "jeroenhd",
-      "tags": [],
-      "date": "2026-07-10T11:00:15+00:00"
-    },
-    {
-      "id": "hn-48858171",
-      "source": "hn",
-      "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
-      "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
-      "score": 17,
-      "comments": 8,
-      "author": "ermantrout",
-      "tags": [],
-      "date": "2026-07-10T10:40:26+00:00"
-    },
-    {
-      "id": "hn-48858121",
-      "source": "hn",
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 512,
-      "comments": 233,
-      "author": "theanonymousone",
-      "tags": [],
-      "date": "2026-07-10T10:32:41+00:00"
     },
     {
       "id": "ctf-4110153",

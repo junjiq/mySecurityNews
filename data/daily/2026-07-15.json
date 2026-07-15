@@ -1,9 +1,16 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T15:32:03.397818+00:00",
-  "total_articles": 66,
-  "urgent_count": 4,
+  "generated_at": "2026-07-15T16:31:46.657987+00:00",
+  "total_articles": 74,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "url": "https://github.com/vshulcz/deja-vu/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-15T16:15:03+00:00"
+    },
     {
       "title": "Germany maybe found a new source of renewable energy",
       "url": "https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany",
@@ -36,12 +43,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 66,
       "top_items": [
         {
           "title": "Jurassic Park computers in excruciating detail",
           "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-          "score": 726,
+          "score": 751,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T02:57:47+00:00"
@@ -63,20 +70,20 @@
           "date": "2026-07-14T16:57:54+00:00"
         },
         {
+          "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+          "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+          "score": 486,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-15T11:46:06+00:00"
+        },
+        {
           "title": "I tricked Claude into leaking your deepest, darkest secrets",
           "url": "https://www.ayush.digital/blog/the-memory-heist",
           "score": 441,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T06:28:00+00:00"
-        },
-        {
-          "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "score": 410,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-07-14T17:58:35+00:00"
         }
       ]
     },
