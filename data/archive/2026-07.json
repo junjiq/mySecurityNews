@@ -1,10 +1,10 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-15T22:48:16.474230+00:00",
+  "generated_at": "2026-07-15T23:20:50.304662+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 363,
-    "zennqiita": 87,
+    "hn": 364,
+    "zennqiita": 86,
     "project": 11
   },
   "severity_counts": {
@@ -13,13 +13,6 @@
     "medium": 5
   },
   "top_articles": [
-    {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 1547,
-      "source": "hn",
-      "date": "2026-07-10T20:47:09+00:00"
-    },
     {
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
       "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
@@ -77,6 +70,13 @@
       "date": "2026-07-14T11:46:02+00:00"
     },
     {
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "score": 537,
+      "source": "hn",
+      "date": "2026-07-15T18:12:45+00:00"
+    },
+    {
       "title": "The Graph That Should Be Front-Page News",
       "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
       "score": 532,
@@ -103,13 +103,6 @@
       "score": 514,
       "source": "hn",
       "date": "2026-07-14T16:57:54+00:00"
-    },
-    {
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 510,
-      "source": "hn",
-      "date": "2026-07-15T18:12:45+00:00"
     },
     {
       "title": "How to read more books",
@@ -152,6 +145,13 @@
       "score": 420,
       "source": "hn",
       "date": "2026-07-12T11:09:42+00:00"
+    },
+    {
+      "title": "Former NOAA employees built Climate.us to preserve climate data and resources",
+      "url": "https://19thnews.org/2026/07/noaa-climate-data-website/",
+      "score": 412,
+      "source": "hn",
+      "date": "2026-07-13T19:57:55+00:00"
     }
   ],
   "security_highlights": [
@@ -161,6 +161,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-15T21:16:36+00:00"
+    },
+    {
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-15T20:24:58+00:00"
     },
     {
       "title": "Open-source memory for coding agents, synced over SSH",
@@ -266,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-11T15:38:46+00:00"
-    },
-    {
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-10T20:45:43+00:00"
     }
   ]
 }

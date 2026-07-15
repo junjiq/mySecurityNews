@@ -1,8 +1,8 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T22:48:16.430678+00:00",
-  "total_articles": 84,
-  "urgent_count": 6,
+  "generated_at": "2026-07-15T23:20:50.270163+00:00",
+  "total_articles": 89,
+  "urgent_count": 7,
   "urgent_items": [
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
@@ -10,6 +10,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-15T21:16:36+00:00"
+    },
+    {
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-15T20:24:58+00:00"
     },
     {
       "title": "Open-source memory for coding agents, synced over SSH",
@@ -50,7 +57,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 70,
+      "count": 75,
       "top_items": [
         {
           "title": "Jurassic Park computers in excruciating detail",
@@ -71,7 +78,7 @@
         {
           "title": "Inkling: Our Open-Weights Model",
           "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-          "score": 510,
+          "score": 537,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T18:12:45+00:00"
