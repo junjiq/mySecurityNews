@@ -1,36 +1,73 @@
 {
-  "updated_at": "2026-07-15T07:15:51.848115+00:00",
+  "updated_at": "2026-07-15T08:15:53.570553+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48917055",
+      "source": "hn",
+      "title": "Who's running all those tiny RPKI servers?",
+      "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+      "score": 3,
+      "comments": 0,
+      "author": "enz",
+      "tags": [],
+      "date": "2026-07-15T06:38:56+00:00"
+    },
     {
       "id": "hn-48916975",
       "source": "hn",
       "title": "I tricked Claude into leaking your deepest, darkest secrets",
       "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "score": 27,
-      "comments": 3,
+      "score": 167,
+      "comments": 62,
       "author": "macleginn",
       "tags": [],
       "date": "2026-07-15T06:28:00+00:00"
+    },
+    {
+      "id": "qiita-b18c5e6320",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AI開発】脳の疲弊を減らすためにやったこと 〜魔法の言葉「平易な日本語」〜",
+      "url": "https://qiita.com/damin_chan/items/b10e70399e6830cc6ca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "damin_chan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-15T15:09:32+09:00"
     },
     {
       "id": "hn-48916805",
       "source": "hn",
       "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
       "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
-      "score": 9,
-      "comments": 1,
+      "score": 31,
+      "comments": 8,
       "author": "signa11",
       "tags": [],
       "date": "2026-07-15T06:02:17+00:00"
+    },
+    {
+      "id": "qiita-13e835ec34",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "# Railsで学ぶ データ構造入門 〜配列・ハッシュ・木・グラフは実は毎日使っている〜",
+      "url": "https://qiita.com/akachiryo/items/b431a74f1cde18d45ad3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "akachiryo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-15T14:11:17+09:00"
     },
     {
       "id": "hn-48915709",
       "source": "hn",
       "title": "Jurassic Park computers in excruciating detail",
       "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "score": 296,
-      "comments": 65,
+      "score": 351,
+      "comments": 83,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-07-15T02:57:47+00:00"
@@ -52,8 +89,8 @@
       "source": "hn",
       "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
       "url": "https://tailscale.com/security-bulletins",
-      "score": 126,
-      "comments": 53,
+      "score": 132,
+      "comments": 59,
       "author": "jervant",
       "tags": [],
       "date": "2026-07-15T01:08:26+00:00"
@@ -74,8 +111,8 @@
       "source": "hn",
       "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
       "url": "https://www.starfleetmath.com/",
-      "score": 112,
-      "comments": 48,
+      "score": 121,
+      "comments": 52,
       "author": "colin7snyder",
       "tags": [],
       "date": "2026-07-15T00:15:56+00:00"
@@ -85,11 +122,63 @@
       "source": "hn",
       "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
       "url": "https://vpd.ca/",
-      "score": 233,
-      "comments": 90,
+      "score": 247,
+      "comments": 98,
       "author": "LookAtThatBacon",
       "tags": [],
       "date": "2026-07-15T00:15:53+00:00"
+    },
+    {
+      "id": "qiita-7a0d01cfb5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "PyTorchとPySAMACTを比較してみた～Iris分類から見る設計思想の違い～",
+      "url": "https://qiita.com/0kak1/items/38cb88bfe2188b6e3908?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "0kak1",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-15T09:14:57+09:00"
+    },
+    {
+      "id": "qiita-f1da6090be",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法",
+      "url": "https://qiita.com/Nao52/items/ced302095c8ddd3c8213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Nao52",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-15T09:07:13+09:00"
+    },
+    {
+      "id": "qiita-34a6745baa",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "量子クラウドって実際どうなの？第1の発見：待ち時間がある",
+      "url": "https://qiita.com/imh1104/items/9c19946f020a065d2dce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "imh1104",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-15T08:30:15+09:00"
+    },
+    {
+      "id": "qiita-efa8b6e0a1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "コードを書かせるだけは、正直もったいない。Claude Codeを「先生」として使い倒す5つのプロンプト",
+      "url": "https://qiita.com/jqit_suwa/items/2f38d32328996d826d48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jqit_suwa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-15T08:29:02+09:00"
     },
     {
       "id": "hn-48913953",
@@ -129,7 +218,7 @@
       "source": "hn",
       "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
       "url": "https://www.benjamin-bai.com/projects/lemario",
-      "score": 84,
+      "score": 87,
       "comments": 11,
       "author": "kevinjosethomas",
       "tags": [],
@@ -140,8 +229,8 @@
       "source": "hn",
       "title": "Probably check on your smart appliances",
       "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-      "score": 60,
-      "comments": 20,
+      "score": 61,
+      "comments": 21,
       "author": "xena",
       "tags": [],
       "date": "2026-07-14T22:00:41+00:00"
@@ -171,10 +260,10 @@
     {
       "id": "hn-48913190",
       "source": "hn",
-      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "title": "Microsoft has released software updates to plug at least 570 security holes",
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "score": 101,
-      "comments": 46,
+      "score": 111,
+      "comments": 56,
       "author": "robin_reala",
       "tags": [],
       "date": "2026-07-14T21:32:22+00:00",
@@ -185,8 +274,8 @@
       "source": "hn",
       "title": "Dependabot version updates introduce default package cooldown",
       "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "score": 161,
-      "comments": 96,
+      "score": 167,
+      "comments": 105,
       "author": "woodruffw",
       "tags": [],
       "date": "2026-07-14T21:15:51+00:00",
@@ -208,8 +297,8 @@
       "source": "hn",
       "title": "How I use HTMX with Go",
       "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-      "score": 201,
-      "comments": 50,
+      "score": 216,
+      "comments": 54,
       "author": "gnabgib",
       "tags": [],
       "date": "2026-07-14T19:55:31+00:00"
@@ -241,8 +330,8 @@
       "source": "hn",
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
       "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 325,
-      "comments": 158,
+      "score": 344,
+      "comments": 160,
       "author": "Synthetic7346",
       "tags": [],
       "date": "2026-07-14T17:58:35+00:00",
@@ -253,8 +342,8 @@
       "source": "hn",
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
-      "score": 549,
-      "comments": 192,
+      "score": 565,
+      "comments": 206,
       "author": "xenova",
       "tags": [],
       "date": "2026-07-14T17:50:48+00:00"
@@ -275,8 +364,8 @@
       "source": "hn",
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 443,
-      "comments": 208,
+      "score": 448,
+      "comments": 213,
       "author": "cdrnsf",
       "tags": [],
       "date": "2026-07-14T16:57:54+00:00"
@@ -308,11 +397,24 @@
       "source": "hn",
       "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
       "url": "https://agnost.ai",
-      "score": 45,
-      "comments": 26,
+      "score": 77,
+      "comments": 39,
       "author": "laalshaitaan",
       "tags": [],
       "date": "2026-07-14T16:06:18+00:00"
+    },
+    {
+      "id": "qiita-1eb87530ac",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【一元管理】エージェント縛りのスキルは、もう書かない",
+      "url": "https://qiita.com/natume_nat/items/19b3d0cd8d3dcb6ecdc4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "natume_nat",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-15T01:04:56+09:00"
     },
     {
       "id": "hn-48908271",
@@ -343,8 +445,8 @@
       "source": "hn",
       "title": "I'm a USB-C Maximalist",
       "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "score": 247,
-      "comments": 347,
+      "score": 266,
+      "comments": 359,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-14T15:20:36+00:00"
@@ -359,6 +461,19 @@
       "author": "yenniejun111",
       "tags": [],
       "date": "2026-07-14T15:18:13+00:00"
+    },
+    {
+      "id": "qiita-f796c8f6f9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIへの指示力とは「\"未知\"を言語化する力」だった ―― Anthropicのブログを読んで",
+      "url": "https://qiita.com/jinxin4869/items/1ee0282bd44b0376f8af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jinxin4869",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T23:58:39+09:00"
     },
     {
       "id": "hn-48907672",
@@ -510,8 +625,8 @@
       "source": "hn",
       "title": "How to stop Claude from saying load-bearing",
       "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 507,
-      "comments": 537,
+      "score": 517,
+      "comments": 543,
       "author": "shintoist",
       "tags": [],
       "date": "2026-07-14T11:46:02+00:00"
@@ -521,8 +636,8 @@
       "source": "hn",
       "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
       "url": "https://www.nature.com/articles/d41586-026-02170-8",
-      "score": 71,
-      "comments": 18,
+      "score": 79,
+      "comments": 21,
       "author": "homarp",
       "tags": [],
       "date": "2026-07-14T11:40:34+00:00"
@@ -583,6 +698,19 @@
       "date": "2026-07-14T11:21:32+00:00"
     },
     {
+      "id": "qiita-af657454eb",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "はじめてのVue3で、入口のコードを追ってみた",
+      "url": "https://qiita.com/yuki_crossroad/items/1b9913b0c0c6aaff5b26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuki_crossroad",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T20:18:31+09:00"
+    },
+    {
       "id": "hn-48904912",
       "source": "hn",
       "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
@@ -617,6 +745,19 @@
       "date": "2026-07-14T11:05:15+00:00"
     },
     {
+      "id": "qiita-22cf485292",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Vue3 のリアクティビティでつまずいたメモ　- クリックで値を更新するには -",
+      "url": "https://qiita.com/yuki_crossroad/items/6fefb54908daa5fa158a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yuki_crossroad",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T19:59:47+09:00"
+    },
+    {
       "id": "hn-48904855",
       "source": "hn",
       "title": "The great digital fatigue: How digital burnout is changing social media use",
@@ -637,6 +778,19 @@
       "author": "asiergoni",
       "tags": [],
       "date": "2026-07-14T09:20:07+00:00"
+    },
+    {
+      "id": "qiita-1bb418446c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Claude Codeが突然感情を持って懺悔してきた",
+      "url": "https://qiita.com/jun-uen0/items/64968759886b97edd473?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jun-uen0",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-14T18:05:09+09:00"
     },
     {
       "id": "qiita-6bc9ece428",
@@ -1403,8 +1557,8 @@
       "source": "hn",
       "title": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
       "url": "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience",
-      "score": 48,
-      "comments": 39,
+      "score": 59,
+      "comments": 51,
       "author": "srijan4",
       "tags": [],
       "date": "2026-07-13T18:23:12+00:00"
@@ -3243,8 +3397,8 @@
       "source": "hn",
       "title": "Andon (manufacturing)",
       "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
-      "score": 33,
-      "comments": 5,
+      "score": 42,
+      "comments": 8,
       "author": "tony",
       "tags": [],
       "date": "2026-07-11T19:49:07+00:00"
@@ -3568,7 +3722,7 @@
       "source": "hn",
       "title": "The largest available Minecraft world, totalling 15 TB",
       "url": "https://2b2t.place/1million",
-      "score": 201,
+      "score": 209,
       "comments": 70,
       "author": "_____k",
       "tags": [],
@@ -3695,8 +3849,8 @@
       "source": "hn",
       "title": "The kids with phones are alright",
       "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-      "score": 187,
-      "comments": 157,
+      "score": 197,
+      "comments": 168,
       "author": "JumpCrisscross",
       "tags": [],
       "date": "2026-07-11T09:08:08+00:00"
@@ -4238,8 +4392,8 @@
       "source": "hn",
       "title": "An unusual way for your DHCP server to run out of dynamic IPs",
       "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
-      "score": 62,
-      "comments": 13,
+      "score": 65,
+      "comments": 15,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-10T16:47:11+00:00"
@@ -4346,6 +4500,17 @@
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-10T15:15:11+00:00"
+    },
+    {
+      "id": "hn-48860897",
+      "source": "hn",
+      "title": "Surprising lessons from my research scientist job search",
+      "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
+      "score": 5,
+      "comments": 1,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-07-10T14:58:13+00:00"
     },
     {
       "id": "qiita-75f2807afe",
@@ -5060,151 +5225,6 @@
       "author": "craigkerstiens",
       "tags": [],
       "date": "2026-07-09T19:20:11+00:00"
-    },
-    {
-      "id": "hn-48850688",
-      "source": "hn",
-      "title": "Paxos Made Simple (2001) [pdf]",
-      "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
-      "score": 61,
-      "comments": 7,
-      "author": "grep_it",
-      "tags": [],
-      "date": "2026-07-09T18:51:22+00:00"
-    },
-    {
-      "id": "hn-48850414",
-      "source": "hn",
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "score": 183,
-      "comments": 111,
-      "author": "adamkurkiewicz",
-      "tags": [],
-      "date": "2026-07-09T18:29:41+00:00"
-    },
-    {
-      "id": "hn-48850372",
-      "source": "hn",
-      "title": "How to Start a Ruby Meetup",
-      "url": "https://guides.rubyevents.org/meetups/",
-      "score": 58,
-      "comments": 13,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-07-09T18:27:06+00:00"
-    },
-    {
-      "id": "qiita-20fb4697f6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "クラウドの仮想ネットワークは、どのように「成立」しているのか ── VPC・セキュリティグループ・PrivateLink・VPCピアリングの内部機構を、AWS・GCP・Azure の一次資料でたどる",
-      "url": "https://qiita.com/etale_cohomology/items/a5db27c311650b6b9c6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "etale_cohomology",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-10T03:24:54+09:00"
-    },
-    {
-      "id": "hn-48849983",
-      "source": "hn",
-      "title": "Are you telling me a readonly property is wrecking my performance?",
-      "url": "https://shub.club/writings/2026/july/check-your-scrollheight/",
-      "score": 43,
-      "comments": 21,
-      "author": "forthwall",
-      "tags": [],
-      "date": "2026-07-09T17:59:13+00:00"
-    },
-    {
-      "id": "hn-48849744",
-      "source": "hn",
-      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
-      "url": "https://arxiv.org/abs/2607.07267",
-      "score": 118,
-      "comments": 19,
-      "author": "Anon84",
-      "tags": [],
-      "date": "2026-07-09T17:44:20+00:00"
-    },
-    {
-      "id": "hn-48849618",
-      "source": "hn",
-      "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
-      "url": "https://lucid.earthpilot.ai",
-      "score": 9,
-      "comments": 1,
-      "author": "ada1981",
-      "tags": [],
-      "date": "2026-07-09T17:36:30+00:00"
-    },
-    {
-      "id": "hn-48849292",
-      "source": "hn",
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "score": 336,
-      "comments": 185,
-      "author": "veqq",
-      "tags": [],
-      "date": "2026-07-09T17:17:16+00:00"
-    },
-    {
-      "id": "hn-48849258",
-      "source": "hn",
-      "title": "How should group chats work in decentralized systems?",
-      "url": "https://marindedic.com/groups/",
-      "score": 23,
-      "comments": 8,
-      "author": "Realman78",
-      "tags": [],
-      "date": "2026-07-09T17:15:47+00:00"
-    },
-    {
-      "id": "hn-48849079",
-      "source": "hn",
-      "title": "Postgres locks do not scale",
-      "url": "https://www.recall.ai/blog/postgres-locks-do-not-scale",
-      "score": 9,
-      "comments": 5,
-      "author": "timetoogo",
-      "tags": [],
-      "date": "2026-07-09T17:05:06+00:00"
-    },
-    {
-      "id": "hn-48849066",
-      "source": "hn",
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1477,
-      "comments": 1042,
-      "author": "logickkk1",
-      "tags": [],
-      "date": "2026-07-09T17:04:14+00:00"
-    },
-    {
-      "id": "hn-48849059",
-      "source": "hn",
-      "title": "ChatGPT Work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "score": 322,
-      "comments": 158,
-      "author": "Tiberium",
-      "tags": [],
-      "date": "2026-07-09T17:03:53+00:00"
-    },
-    {
-      "id": "hn-48849011",
-      "source": "hn",
-      "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
-      "url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
-      "score": 1,
-      "comments": 0,
-      "author": "kaushikmahorker",
-      "tags": [],
-      "date": "2026-07-09T17:00:37+00:00"
     },
     {
       "id": "ghrel-projectdiscovery_nuclei-349372792",
