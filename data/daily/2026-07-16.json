@@ -1,9 +1,16 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T21:22:36.837249+00:00",
-  "total_articles": 83,
-  "urgent_count": 2,
+  "generated_at": "2026-07-16T21:49:45.410055+00:00",
+  "total_articles": 85,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
+      "url": "https://bamboo.kickstage.com",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-16T15:55:47+00:00"
+    },
     {
       "title": "Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
       "url": "https://blog.simbastack.com/announcing-sentinel/",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 71,
+      "count": 73,
       "top_items": [
         {
           "title": "Kimi K3: Open Frontier Intelligence",
           "url": "https://www.kimi.com/blog/kimi-k3",
-          "score": 799,
+          "score": 854,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T14:46:05+00:00"
@@ -51,7 +58,7 @@
         {
           "title": "OnePlus halts operations in USA and Europe",
           "url": "https://community.oneplus.com/thread/2170715118587871237",
-          "score": 488,
+          "score": 497,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T10:14:04+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "How Our Rust-to-Zig Rewrite Is Going",
           "url": "https://rtfeldman.com/rust-to-zig",
-          "score": 337,
+          "score": 350,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T11:39:27+00:00"

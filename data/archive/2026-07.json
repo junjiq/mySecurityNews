@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-16T21:22:36.871720+00:00",
+  "generated_at": "2026-07-16T21:49:45.462571+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 369,
-    "zennqiita": 81,
+    "hn": 371,
+    "zennqiita": 79,
     "project": 11
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "high": 1,
     "medium": 5
   },
@@ -28,18 +28,18 @@
       "date": "2026-07-15T18:12:45+00:00"
     },
     {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "score": 854,
+      "source": "hn",
+      "date": "2026-07-16T14:46:05+00:00"
+    },
+    {
       "title": "Jurassic Park computers in excruciating detail",
       "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
       "score": 823,
       "source": "hn",
       "date": "2026-07-15T02:57:47+00:00"
-    },
-    {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 799,
-      "source": "hn",
-      "date": "2026-07-16T14:46:05+00:00"
     },
     {
       "title": "The lost joy of music piracy",
@@ -128,7 +128,7 @@
     {
       "title": "OnePlus halts operations in USA and Europe",
       "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "score": 488,
+      "score": 497,
       "source": "hn",
       "date": "2026-07-16T10:14:04+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
+      "url": "https://bamboo.kickstage.com",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-16T15:55:47+00:00"
+    },
     {
       "title": "Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
       "url": "https://blog.simbastack.com/announcing-sentinel/",
