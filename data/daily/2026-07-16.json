@@ -1,9 +1,16 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T03:04:02.225837+00:00",
-  "total_articles": 79,
+  "generated_at": "2026-07-16T04:32:46.282417+00:00",
+  "total_articles": 85,
   "urgent_count": 7,
   "urgent_items": [
+    {
+      "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
+      "url": "https://github.com/PrestigePvP/Voicebox",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-16T02:57:30+00:00"
+    },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
@@ -40,13 +47,6 @@
       "date": "2026-07-15T11:02:43+00:00"
     },
     {
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-15T03:32:45+00:00"
-    },
-    {
       "title": "CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
       "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
       "severity": "high",
@@ -57,12 +57,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 70,
+      "count": 77,
       "top_items": [
         {
           "title": "Inkling: Our Open-Weights Model",
           "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-          "score": 742,
+          "score": 802,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T18:12:45+00:00"
@@ -84,12 +84,12 @@
           "date": "2026-07-15T06:28:00+00:00"
         },
         {
-          "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-          "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-          "score": 368,
+          "title": "Grok Build is open source",
+          "url": "https://github.com/xai-org/grok-build",
+          "score": 330,
           "source": "hn",
           "severity": "critical",
-          "date": "2026-07-15T03:32:45+00:00"
+          "date": "2026-07-15T20:24:58+00:00"
         },
         {
           "title": "Prioritize mental health, and why communication is so important",
@@ -103,8 +103,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
+        {
+          "title": "【AI開発】脳の疲弊を減らすためにやったこと 〜魔法の言葉「平易な日本語」〜",
+          "url": "https://qiita.com/damin_chan/items/b10e70399e6830cc6ca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-16T13:25:39+09:00"
+        },
         {
           "title": "「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器",
           "url": "https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -112,14 +120,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-16T11:59:17+09:00"
-        },
-        {
-          "title": "【AI開発】脳の疲弊を減らすためにやったこと 〜魔法の言葉「平易な日本語」〜",
-          "url": "https://qiita.com/damin_chan/items/b10e70399e6830cc6ca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-16T09:22:35+09:00"
         },
         {
           "title": "スイス『民間防衛』に学ぶ、自国を守る経済とは ― 財源幻想を超えて考える日本のレジリエンス : Pythonで学ぶ マクロ経済学入門 (99)",

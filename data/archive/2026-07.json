@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-16T03:04:02.276216+00:00",
+  "generated_at": "2026-07-16T04:32:46.325292+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 366,
-    "zennqiita": 84,
+    "hn": 370,
+    "zennqiita": 80,
     "project": 11
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 16,
     "high": 2,
     "medium": 5
   },
@@ -28,18 +28,18 @@
       "date": "2026-07-15T02:57:47+00:00"
     },
     {
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "score": 802,
+      "source": "hn",
+      "date": "2026-07-15T18:12:45+00:00"
+    },
+    {
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
       "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
       "score": 745,
       "source": "hn",
       "date": "2026-07-11T08:21:27+00:00"
-    },
-    {
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 742,
-      "source": "hn",
-      "date": "2026-07-15T18:12:45+00:00"
     },
     {
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
+      "url": "https://github.com/PrestigePvP/Voicebox",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-16T02:57:30+00:00"
+    },
     {
       "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
