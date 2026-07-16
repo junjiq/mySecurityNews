@@ -1,10 +1,10 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-16T16:56:44.644930+00:00",
+  "generated_at": "2026-07-16T17:32:49.496726+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 370,
-    "zennqiita": 80,
+    "hn": 371,
+    "zennqiita": 79,
     "project": 11
   },
   "severity_counts": {
@@ -51,7 +51,7 @@
     {
       "title": "The lost joy of music piracy",
       "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "score": 619,
+      "score": 641,
       "source": "hn",
       "date": "2026-07-16T04:46:21+00:00"
     },
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
+      "url": "https://blog.simbastack.com/announcing-sentinel/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-16T15:35:13+00:00"
+    },
+    {
       "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
       "url": "https://github.com/PrestigePvP/Voicebox",
       "severity": "critical",
@@ -259,13 +266,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-07-12T11:02:06+09:00"
-    },
-    {
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-11T21:58:00+00:00"
     }
   ]
 }
