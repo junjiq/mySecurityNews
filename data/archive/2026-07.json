@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-16T11:32:30.884547+00:00",
-  "total_articles": 463,
+  "generated_at": "2026-07-16T12:34:01.574755+00:00",
+  "total_articles": 461,
   "source_counts": {
-    "hn": 371,
+    "hn": 369,
     "zennqiita": 81,
     "project": 11
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 15,
     "high": 2,
     "medium": 5
   },
@@ -23,7 +23,7 @@
     {
       "title": "Inkling: Our Open-Weights Model",
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 1023,
+      "score": 1047,
       "source": "hn",
       "date": "2026-07-15T18:12:45+00:00"
     },
@@ -98,18 +98,18 @@
       "date": "2026-07-14T16:57:54+00:00"
     },
     {
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "score": 490,
+      "source": "hn",
+      "date": "2026-07-15T20:24:58+00:00"
+    },
+    {
       "title": "How to read more books",
       "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
       "score": 482,
       "source": "hn",
       "date": "2026-07-12T15:47:16+00:00"
-    },
-    {
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "score": 481,
-      "source": "hn",
-      "date": "2026-07-15T20:24:58+00:00"
     },
     {
       "title": "Grok uploaded my user directory to xAI's servers",
@@ -121,9 +121,16 @@
     {
       "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
       "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "score": 453,
+      "score": 458,
       "source": "hn",
       "date": "2026-07-15T03:32:45+00:00"
+    },
+    {
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "score": 447,
+      "source": "hn",
+      "date": "2026-07-16T04:46:21+00:00"
     },
     {
       "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
@@ -145,13 +152,6 @@
       "score": 432,
       "source": "hn",
       "date": "2026-07-14T08:34:57+00:00"
-    },
-    {
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 420,
-      "source": "hn",
-      "date": "2026-07-12T11:09:42+00:00"
     }
   ],
   "security_highlights": [
@@ -273,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-11T19:46:00+00:00"
-    },
-    {
-      "title": "Tropical forests facing increasing risks of exposure to critical temp thresholds",
-      "url": "https://www.pnas.org/doi/10.1073/pnas.2528622123",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-11T15:38:46+00:00"
     }
   ]
 }
