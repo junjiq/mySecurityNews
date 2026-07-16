@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-16T16:30:17.789913+00:00",
+  "generated_at": "2026-07-16T16:56:44.644930+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 370,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 14,
     "high": 2,
     "medium": 5
   },
@@ -49,18 +49,18 @@
       "date": "2026-07-14T17:50:48+00:00"
     },
     {
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "score": 619,
+      "source": "hn",
+      "date": "2026-07-16T04:46:21+00:00"
+    },
+    {
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "score": 619,
       "source": "hn",
       "date": "2026-07-12T18:25:51+00:00"
-    },
-    {
-      "title": "The lost joy of music piracy",
-      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "score": 611,
-      "source": "hn",
-      "date": "2026-07-16T04:46:21+00:00"
     },
     {
       "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-11T21:58:00+00:00"
-    },
-    {
-      "title": "The Chinese Voice Actor Forced to Prove He's Human",
-      "url": "https://www.sixthtone.com/news/1018753",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-11T19:46:00+00:00"
     }
   ]
 }
