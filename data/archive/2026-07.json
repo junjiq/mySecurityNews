@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-16T22:47:54.186735+00:00",
+  "generated_at": "2026-07-16T23:19:01.521353+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 374,
-    "zennqiita": 76,
+    "hn": 376,
+    "zennqiita": 74,
     "project": 11
   },
   "severity_counts": {
-    "medium": 6,
-    "critical": 15,
-    "high": 1
+    "medium": 5,
+    "critical": 16,
+    "high": 2
   },
   "top_articles": [
     {
@@ -30,7 +30,7 @@
     {
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 967,
+      "score": 1009,
       "source": "hn",
       "date": "2026-07-16T14:46:05+00:00"
     },
@@ -112,6 +112,13 @@
       "date": "2026-07-16T12:13:43+00:00"
     },
     {
+      "title": "OnePlus halts operations in USA and Europe",
+      "url": "https://community.oneplus.com/thread/2170715118587871237",
+      "score": 517,
+      "source": "hn",
+      "date": "2026-07-16T10:14:04+00:00"
+    },
+    {
       "title": "Building and shipping Mac and iOS apps without opening Xcode",
       "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
       "score": 515,
@@ -124,13 +131,6 @@
       "score": 514,
       "source": "hn",
       "date": "2026-07-14T16:57:54+00:00"
-    },
-    {
-      "title": "OnePlus halts operations in USA and Europe",
-      "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "score": 507,
-      "source": "hn",
-      "date": "2026-07-16T10:14:04+00:00"
     },
     {
       "title": "How to read more books",
@@ -155,6 +155,20 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-16T22:27:22+00:00"
+    },
+    {
+      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+      "url": "https://hellorecon.com/blog/cve-2026-25089",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-16T22:07:30+00:00"
+    },
     {
       "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
       "url": "https://bamboo.kickstage.com",

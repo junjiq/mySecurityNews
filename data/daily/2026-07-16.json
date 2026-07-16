@@ -1,9 +1,16 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T22:47:54.136133+00:00",
-  "total_articles": 89,
-  "urgent_count": 3,
+  "generated_at": "2026-07-16T23:19:01.471430+00:00",
+  "total_articles": 87,
+  "urgent_count": 5,
   "urgent_items": [
+    {
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-16T22:27:22+00:00"
+    },
     {
       "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
       "url": "https://bamboo.kickstage.com",
@@ -24,17 +31,24 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-16T02:57:30+00:00"
+    },
+    {
+      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+      "url": "https://hellorecon.com/blog/cve-2026-25089",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-16T22:07:30+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 76,
+      "count": 75,
       "top_items": [
         {
           "title": "Kimi K3: Open Frontier Intelligence",
           "url": "https://www.kimi.com/blog/kimi-k3",
-          "score": 967,
+          "score": 1009,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T14:46:05+00:00"
@@ -58,7 +72,7 @@
         {
           "title": "OnePlus halts operations in USA and Europe",
           "url": "https://community.oneplus.com/thread/2170715118587871237",
-          "score": 507,
+          "score": 517,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T10:14:04+00:00"
@@ -75,7 +89,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "Amazon S3の大量ログ分析、まずParquetに整えてから 〜 Autonomous AI Lakehouse の外部表・SQL・Vector Search・RAG使い分け",
