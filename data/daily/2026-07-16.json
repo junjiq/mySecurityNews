@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T01:34:32.322093+00:00",
+  "generated_at": "2026-07-16T03:04:02.225837+00:00",
   "total_articles": 79,
   "urgent_count": 7,
   "urgent_items": [
@@ -57,20 +57,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 71,
+      "count": 70,
       "top_items": [
-        {
-          "title": "Jurassic Park computers in excruciating detail",
-          "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-          "score": 823,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-15T02:57:47+00:00"
-        },
         {
           "title": "Inkling: Our Open-Weights Model",
           "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-          "score": 665,
+          "score": 742,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T18:12:45+00:00"
@@ -94,17 +86,33 @@
         {
           "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
           "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-          "score": 336,
+          "score": 368,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-15T03:32:45+00:00"
+        },
+        {
+          "title": "Prioritize mental health, and why communication is so important",
+          "url": "https://ramones.dev/posts/mental-health/",
+          "score": 296,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-15T11:27:35+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 9,
       "top_items": [
+        {
+          "title": "「めっちゃカメレオン」が教えてくれた、アイディア力こそAI時代の最強武器",
+          "url": "https://qiita.com/prum_sumomo/items/dbabb5c130aae2566f0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-16T11:59:17+09:00"
+        },
         {
           "title": "【AI開発】脳の疲弊を減らすためにやったこと 〜魔法の言葉「平易な日本語」〜",
           "url": "https://qiita.com/damin_chan/items/b10e70399e6830cc6ca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -136,14 +144,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-15T19:10:21+09:00"
-        },
-        {
-          "title": "コピペ最強｜UiverseのUI素材でプログラミング初心者の悩みが即解決した話",
-          "url": "https://qiita.com/prumnn/items/7bd599311fd75227101f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-15T17:13:41+09:00"
         }
       ]
     }
