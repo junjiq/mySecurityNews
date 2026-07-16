@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T10:40:20.962038+00:00",
-  "total_articles": 88,
-  "urgent_count": 7,
+  "generated_at": "2026-07-16T11:32:30.835534+00:00",
+  "total_articles": 83,
+  "urgent_count": 6,
   "urgent_items": [
     {
       "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
@@ -40,13 +40,6 @@
       "date": "2026-07-15T12:34:05+00:00"
     },
     {
-      "title": "Weathergotchi – an open-source climate Tamagotchi",
-      "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-15T11:02:43+00:00"
-    },
-    {
       "title": "CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
       "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
       "severity": "high",
@@ -57,12 +50,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 77,
+      "count": 73,
       "top_items": [
         {
           "title": "Inkling: Our Open-Weights Model",
           "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-          "score": 998,
+          "score": 1023,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T18:12:45+00:00"
@@ -78,7 +71,7 @@
         {
           "title": "Grok Build is open source",
           "url": "https://github.com/xai-org/grok-build",
-          "score": 460,
+          "score": 481,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-15T20:24:58+00:00"
@@ -86,24 +79,24 @@
         {
           "title": "The lost joy of music piracy",
           "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-          "score": 358,
+          "score": 393,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T04:46:21+00:00"
         },
         {
-          "title": "Prioritize mental health, and why communication is so important",
-          "url": "https://ramones.dev/posts/mental-health/",
-          "score": 296,
+          "title": "SQLite should have (Rust-style) editions",
+          "url": "https://mort.coffee/home/sqlite-editions/",
+          "score": 294,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-15T11:27:35+00:00"
+          "date": "2026-07-15T22:42:58+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
         {
           "title": "SQLとNoSQLの違い、サクッと理解する",
