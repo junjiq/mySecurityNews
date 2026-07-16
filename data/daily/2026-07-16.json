@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T14:40:49.795744+00:00",
+  "generated_at": "2026-07-16T15:32:27.364540+00:00",
   "total_articles": 78,
   "urgent_count": 4,
   "urgent_items": [
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 68,
+      "count": 69,
       "top_items": [
         {
           "title": "Inkling: Our Open-Weights Model",
           "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-          "score": 1108,
+          "score": 1126,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T18:12:45+00:00"
@@ -49,7 +49,7 @@
         {
           "title": "The lost joy of music piracy",
           "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-          "score": 547,
+          "score": 578,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T04:46:21+00:00"
@@ -57,32 +57,32 @@
         {
           "title": "Grok Build is open source",
           "url": "https://github.com/xai-org/grok-build",
-          "score": 525,
+          "score": 542,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-15T20:24:58+00:00"
         },
         {
+          "title": "OnePlus halts operations in USA and Europe",
+          "url": "https://community.oneplus.com/thread/2170715118587871237",
+          "score": 327,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-16T10:14:04+00:00"
+        },
+        {
           "title": "SQLite should have (Rust-style) editions",
           "url": "https://mort.coffee/home/sqlite-editions/",
-          "score": 310,
+          "score": 327,
           "source": "hn",
           "severity": null,
           "date": "2026-07-15T22:42:58+00:00"
-        },
-        {
-          "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-          "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-          "score": 298,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-15T15:34:05+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
         {
           "title": "SQLとNoSQLの違い、サクッと理解する",
