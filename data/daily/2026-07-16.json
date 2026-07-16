@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T22:21:43.047215+00:00",
-  "total_articles": 85,
+  "generated_at": "2026-07-16T22:47:54.136133+00:00",
+  "total_articles": 89,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 73,
+      "count": 76,
       "top_items": [
         {
           "title": "Kimi K3: Open Frontier Intelligence",
           "url": "https://www.kimi.com/blog/kimi-k3",
-          "score": 920,
+          "score": 967,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T14:46:05+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "OnePlus halts operations in USA and Europe",
           "url": "https://community.oneplus.com/thread/2170715118587871237",
-          "score": 503,
+          "score": 507,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T10:14:04+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "How Our Rust-to-Zig Rewrite Is Going",
           "url": "https://rtfeldman.com/rust-to-zig",
-          "score": 361,
+          "score": 369,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T11:39:27+00:00"
@@ -75,8 +75,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 13,
       "top_items": [
+        {
+          "title": "Amazon S3の大量ログ分析、まずParquetに整えてから 〜 Autonomous AI Lakehouse の外部表・SQL・Vector Search・RAG使い分け",
+          "url": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-17T07:30:27+09:00"
+        },
         {
           "title": "完璧主義を手放したら評価が変わった、新人の優先順位の付け方",
           "url": "https://qiita.com/prumnn/items/b9a128b0e71382979f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-16T13:44:48+09:00"
-        },
-        {
-          "title": "Search ConsoleとGA4をターミナルから操作するCLI「gsc-ga4-cli」を作りました（Python / Node.js・Claude Codeスキル同梱）",
-          "url": "https://qiita.com/nogataka/items/889db458e66c3ea7b343?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-16T13:43:31+09:00"
         }
       ]
     }
