@@ -1,8 +1,8 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T20:47:50.706619+00:00",
+  "generated_at": "2026-07-16T21:22:36.837249+00:00",
   "total_articles": 83,
-  "urgent_count": 3,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
@@ -17,13 +17,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-16T02:57:30+00:00"
-    },
-    {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-15T21:16:36+00:00"
     }
   ],
   "categories": [
@@ -31,6 +24,14 @@
       "category": "テクノロジー",
       "count": 71,
       "top_items": [
+        {
+          "title": "Kimi K3: Open Frontier Intelligence",
+          "url": "https://www.kimi.com/blog/kimi-k3",
+          "score": 799,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-16T14:46:05+00:00"
+        },
         {
           "title": "The lost joy of music piracy",
           "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
@@ -40,17 +41,9 @@
           "date": "2026-07-16T04:46:21+00:00"
         },
         {
-          "title": "Kimi K3 is now live",
-          "url": "https://www.kimi.com/en",
-          "score": 725,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-16T14:46:05+00:00"
-        },
-        {
           "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
           "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
-          "score": 512,
+          "score": 527,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T12:13:43+00:00"
@@ -58,18 +51,18 @@
         {
           "title": "OnePlus halts operations in USA and Europe",
           "url": "https://community.oneplus.com/thread/2170715118587871237",
-          "score": 480,
+          "score": 488,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T10:14:04+00:00"
         },
         {
-          "title": "SQLite should have (Rust-style) editions",
-          "url": "https://mort.coffee/home/sqlite-editions/",
-          "score": 327,
+          "title": "How Our Rust-to-Zig Rewrite Is Going",
+          "url": "https://rtfeldman.com/rust-to-zig",
+          "score": 337,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-15T22:42:58+00:00"
+          "date": "2026-07-16T11:39:27+00:00"
         }
       ]
     },
