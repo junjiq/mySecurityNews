@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-17T22:46:48.306154+00:00",
+  "generated_at": "2026-07-17T23:18:09.088670+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 366,
-    "zennqiita": 84,
+    "hn": 368,
+    "zennqiita": 82,
     "project": 11
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 17,
     "medium": 6,
     "high": 2
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Open Book Touch: open-source e-reader",
+      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-17T20:47:57+00:00"
+    },
     {
       "title": "The state of open source AI",
       "url": "https://stateofopensource.ai/",
