@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-17T14:33:32.333410+00:00",
+  "generated_at": "2026-07-17T15:28:33.587578+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 369,
@@ -8,8 +8,8 @@
     "project": 11
   },
   "severity_counts": {
+    "critical": 16,
     "medium": 6,
-    "critical": 15,
     "high": 2
   },
   "top_articles": [
@@ -65,16 +65,9 @@
     {
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 627,
+      "score": 640,
       "source": "hn",
       "date": "2026-07-16T16:18:21+00:00"
-    },
-    {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 619,
-      "source": "hn",
-      "date": "2026-07-12T18:25:51+00:00"
     },
     {
       "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
@@ -152,9 +145,30 @@
       "score": 467,
       "source": "hn",
       "date": "2026-07-15T03:32:45+00:00"
+    },
+    {
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "score": 465,
+      "source": "hn",
+      "date": "2026-07-13T13:39:59+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Mozilla: The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-17T14:31:10+00:00"
+    },
+    {
+      "title": "PennyLane is an open-source quantum software platform for quantum",
+      "url": "https://github.com/PennyLaneAI/pennylane",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-17T13:30:47+00:00"
+    },
     {
       "title": "The Little Book of Reinforcement Learning",
       "url": "https://github.com/alxndrTL/little-book-rl/",
@@ -266,13 +280,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-13T19:57:55+00:00"
-    },
-    {
-      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-      "url": "https://github.com/juggler-ai/juggler",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-12T18:28:15+00:00"
     }
   ]
 }
