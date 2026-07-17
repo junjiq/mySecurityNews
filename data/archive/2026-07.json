@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-17T01:35:09.835044+00:00",
+  "generated_at": "2026-07-17T03:04:09.231044+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 376,
@@ -9,23 +9,23 @@
   },
   "severity_counts": {
     "medium": 5,
-    "critical": 16,
+    "critical": 15,
     "high": 2
   },
   "top_articles": [
+    {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "score": 1240,
+      "source": "hn",
+      "date": "2026-07-16T14:46:05+00:00"
+    },
     {
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
       "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
       "score": 1239,
       "source": "hn",
       "date": "2026-07-13T08:39:39+00:00"
-    },
-    {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1159,
-      "source": "hn",
-      "date": "2026-07-16T14:46:05+00:00"
     },
     {
       "title": "Inkling: Our Open-Weights Model",
@@ -273,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-12T18:28:15+00:00"
-    },
-    {
-      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
-      "url": "https://mrbruh.com/motorola/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-12T11:52:21+00:00"
     }
   ]
 }
