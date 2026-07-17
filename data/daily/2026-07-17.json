@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T00:32:16.092079+00:00",
-  "total_articles": 84,
+  "generated_at": "2026-07-17T01:35:09.789180+00:00",
+  "total_articles": 86,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,12 +43,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 75,
+      "count": 77,
       "top_items": [
         {
           "title": "Kimi K3: Open Frontier Intelligence",
           "url": "https://www.kimi.com/blog/kimi-k3",
-          "score": 1087,
+          "score": 1159,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T14:46:05+00:00"
@@ -64,7 +64,7 @@
         {
           "title": "OnePlus halts operations in USA and Europe",
           "url": "https://community.oneplus.com/thread/2170715118587871237",
-          "score": 529,
+          "score": 538,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T10:14:04+00:00"
@@ -80,7 +80,7 @@
         {
           "title": "How Our Rust-to-Zig Rewrite Is Going",
           "url": "https://rtfeldman.com/rust-to-zig",
-          "score": 394,
+          "score": 403,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T11:39:27+00:00"
@@ -91,6 +91,14 @@
       "category": "日本語技術記事",
       "count": 9,
       "top_items": [
+        {
+          "title": "SQLとNoSQLの違い、サクッと理解する",
+          "url": "https://qiita.com/nt_fujita/items/22ef83c9c3a63c349bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-17T10:12:21+09:00"
+        },
         {
           "title": "Amazon S3の大量ログ分析、まずParquetに整えてから 〜 Autonomous AI Lakehouse の外部表・SQL・Vector Search・RAG使い分け",
           "url": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -122,14 +130,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-16T15:28:39+09:00"
-        },
-        {
-          "title": "SQLとNoSQLの違い、サクッと理解する",
-          "url": "https://qiita.com/nt_fujita/items/22ef83c9c3a63c349bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-16T13:44:48+09:00"
         }
       ]
     }
