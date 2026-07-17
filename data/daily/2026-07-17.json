@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T07:40:17.295817+00:00",
-  "total_articles": 73,
+  "generated_at": "2026-07-17T08:44:50.008659+00:00",
+  "total_articles": 81,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -41,7 +41,7 @@
         {
           "title": "Kimi K3: Open Frontier Intelligence",
           "url": "https://www.kimi.com/blog/kimi-k3",
-          "score": 1514,
+          "score": 1563,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T14:46:05+00:00"
@@ -55,20 +55,20 @@
           "date": "2026-07-16T10:14:04+00:00"
         },
         {
+          "title": "Decoy Font",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "score": 534,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-16T16:18:21+00:00"
+        },
+        {
           "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
           "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
           "score": 527,
           "source": "hn",
           "severity": null,
           "date": "2026-07-16T12:13:43+00:00"
-        },
-        {
-          "title": "Decoy Font",
-          "url": "https://www.mixfont.com/experiments/decoy-font",
-          "score": 520,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-16T16:18:21+00:00"
         },
         {
           "title": "How Our Rust-to-Zig Rewrite Is Going",
@@ -82,39 +82,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 12,
       "top_items": [
         {
-          "title": "SQLとNoSQLの違い、サクッと理解する",
-          "url": "https://qiita.com/nt_fujita/items/22ef83c9c3a63c349bbd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Copilot Studio で非構造化データはどこまでナレッジになるのか【Part 1: Classic experience】",
+          "url": "https://qiita.com/Isato-Hiyama/items/c507644c3eea9237fa44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-17T10:12:21+09:00"
+          "date": "2026-07-17T17:24:05+09:00"
         },
         {
-          "title": "Amazon S3の大量ログ分析、まずParquetに整えてから 〜 Autonomous AI Lakehouse の外部表・SQL・Vector Search・RAG使い分け",
-          "url": "https://qiita.com/shirok/items/2eafd347f90e80c46005?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「頑張ってます」はもう卒業。エンジニアが今日から使える『数値化の鬼』の思考法",
+          "url": "https://qiita.com/Nao52/items/ced302095c8ddd3c8213?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-17T07:30:27+09:00"
+          "date": "2026-07-17T16:51:46+09:00"
         },
         {
-          "title": "完璧主義を手放したら評価が変わった、新人の優先順位の付け方",
-          "url": "https://qiita.com/prumnn/items/b9a128b0e71382979f08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "PythonとC言語の違い【コード比較あり】",
+          "url": "https://qiita.com/tomioka_k/items/c1f8dcf25a92d8bfaab8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-16T17:03:57+09:00"
+          "date": "2026-07-17T16:25:48+09:00"
         },
         {
-          "title": "面接相手に「未来」を想像させる。未経験でも信用される伝え方",
-          "url": "https://qiita.com/prum_sumomo/items/c1a219a3156a4214828d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "レーベンシュタイン距離を動的計画法を使用して実装してみた（Python/JavaScript）",
+          "url": "https://qiita.com/tattttt/items/7221f323920b1bd4d2d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-16T17:02:11+09:00"
+          "date": "2026-07-17T12:57:44+09:00"
+        },
+        {
+          "title": "入水したのでいろいろ書いた",
+          "url": "https://qiita.com/siooisi/items/e50013e4ee7d615cba37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-17T12:09:21+09:00"
         }
       ]
     }
