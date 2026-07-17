@@ -1,8 +1,8 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T21:47:02.454969+00:00",
-  "total_articles": 67,
-  "urgent_count": 4,
+  "generated_at": "2026-07-17T22:16:43.828453+00:00",
+  "total_articles": 65,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "The state of open source AI",
@@ -24,19 +24,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-16T22:27:22+00:00"
-    },
-    {
-      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
-      "url": "https://hellorecon.com/blog/cve-2026-25089",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-16T22:07:30+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 48,
       "top_items": [
         {
           "title": "Evidence of inconsistencies in evaluation process and selection of winners",
@@ -49,7 +42,7 @@
         {
           "title": "The state of open source AI",
           "url": "https://stateofopensource.ai/",
-          "score": 326,
+          "score": 334,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-17T14:31:10+00:00"
@@ -57,7 +50,7 @@
         {
           "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
           "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-          "score": 300,
+          "score": 316,
           "source": "hn",
           "severity": null,
           "date": "2026-07-17T14:06:13+00:00"
@@ -65,7 +58,7 @@
         {
           "title": "Pebble Mega Update – July 2026",
           "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-          "score": 252,
+          "score": 253,
           "source": "hn",
           "severity": "medium",
           "date": "2026-07-17T03:53:38+00:00"
@@ -73,7 +66,7 @@
         {
           "title": "EEG shows brain can simultaneous encode two speech streams",
           "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-          "score": 243,
+          "score": 244,
           "source": "hn",
           "severity": null,
           "date": "2026-07-17T05:51:10+00:00"
