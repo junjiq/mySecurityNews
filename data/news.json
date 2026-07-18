@@ -1,25 +1,58 @@
 {
-  "updated_at": "2026-07-18T11:47:20.363191+00:00",
+  "updated_at": "2026-07-18T12:21:31.778601+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48956949",
+      "source": "hn",
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "score": 57,
+      "comments": 51,
+      "author": "secretslol",
+      "tags": [],
+      "date": "2026-07-18T11:12:46+00:00"
+    },
     {
       "id": "hn-48956924",
       "source": "hn",
       "title": "Why do AI company logos look like buttholes?",
       "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "score": 70,
-      "comments": 12,
+      "score": 175,
+      "comments": 51,
       "author": "miniBill",
       "tags": [],
       "date": "2026-07-18T11:06:50+00:00"
+    },
+    {
+      "id": "hn-48956879",
+      "source": "hn",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "score": 4,
+      "comments": 1,
+      "author": "couAUIA",
+      "tags": [],
+      "date": "2026-07-18T11:00:29+00:00"
+    },
+    {
+      "id": "hn-48956852",
+      "source": "hn",
+      "title": "Steam Machine: Between 12k and 15k Units Sold per week",
+      "url": "https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/",
+      "score": 12,
+      "comments": 2,
+      "author": "ekianjo",
+      "tags": [],
+      "date": "2026-07-18T10:56:09+00:00"
     },
     {
       "id": "hn-48956688",
       "source": "hn",
       "title": "LG monitors silently install software through Windows Update without consent",
       "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "score": 117,
-      "comments": 54,
+      "score": 166,
+      "comments": 91,
       "author": "baranul",
       "tags": [],
       "date": "2026-07-18T10:21:19+00:00",
@@ -30,8 +63,8 @@
       "source": "hn",
       "title": "Qubes OS Security in the Public Record",
       "url": "https://arxiv.org/abs/2607.14587",
-      "score": 21,
-      "comments": 1,
+      "score": 26,
+      "comments": 3,
       "author": "sciences44",
       "tags": [],
       "date": "2026-07-18T08:50:07+00:00"
@@ -41,7 +74,7 @@
       "source": "hn",
       "title": "The Computer at the Bottom of a Canal",
       "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
-      "score": 18,
+      "score": 30,
       "comments": 2,
       "author": "Kudos",
       "tags": [],
@@ -89,8 +122,8 @@
       "source": "hn",
       "title": "Show HN: IKEA Complexity Index",
       "url": "https://ikea.greg.technology/",
-      "score": 69,
-      "comments": 38,
+      "score": 77,
+      "comments": 40,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-07-18T03:51:42+00:00"
@@ -100,8 +133,8 @@
       "source": "hn",
       "title": "Regressive JPEGs",
       "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "score": 412,
-      "comments": 42,
+      "score": 434,
+      "comments": 45,
       "author": "vitaut",
       "tags": [],
       "date": "2026-07-18T03:14:20+00:00"
@@ -122,8 +155,8 @@
       "source": "hn",
       "title": "I started a “dirt notebook”",
       "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-      "score": 74,
-      "comments": 62,
+      "score": 78,
+      "comments": 69,
       "author": "herbertl",
       "tags": [],
       "date": "2026-07-18T01:12:13+00:00"
@@ -210,8 +243,8 @@
       "source": "hn",
       "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
       "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "score": 146,
-      "comments": 51,
+      "score": 152,
+      "comments": 52,
       "author": "BadChemical",
       "tags": [],
       "date": "2026-07-17T21:42:43+00:00"
@@ -277,8 +310,8 @@
       "source": "hn",
       "title": "Static search trees: 40x faster than binary search (2024)",
       "url": "https://curiouscoding.nl/posts/static-search-tree/",
-      "score": 143,
-      "comments": 7,
+      "score": 146,
+      "comments": 8,
       "author": "lalitmaganti",
       "tags": [],
       "date": "2026-07-17T20:24:55+00:00"
@@ -299,7 +332,7 @@
       "source": "hn",
       "title": "The Zilog Z80 has turned 50",
       "url": "https://goliath32.com/blog/z80.html",
-      "score": 238,
+      "score": 242,
       "comments": 95,
       "author": "st_goliath",
       "tags": [],
@@ -378,8 +411,8 @@
       "source": "hn",
       "title": "Learning a few things about running SQLite",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 265,
-      "comments": 69,
+      "score": 271,
+      "comments": 73,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-17T17:45:41+00:00"
@@ -504,8 +537,8 @@
       "source": "hn",
       "title": "Kimi K3, and what we can still learn from the pelican benchmark",
       "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "score": 355,
-      "comments": 188,
+      "score": 359,
+      "comments": 189,
       "author": "droidjj",
       "tags": [],
       "date": "2026-07-17T14:21:51+00:00"
@@ -526,8 +559,8 @@
       "source": "hn",
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 469,
-      "comments": 276,
+      "score": 471,
+      "comments": 278,
       "author": "neversaydie",
       "tags": [],
       "date": "2026-07-17T14:06:13+00:00"
@@ -935,8 +968,8 @@
       "source": "hn",
       "title": "In-toto: A framework to secure the integrity of software supply chains",
       "url": "https://in-toto.io/",
-      "score": 42,
-      "comments": 1,
+      "score": 47,
+      "comments": 5,
       "author": "Erenay09",
       "tags": [],
       "date": "2026-07-17T02:00:38+00:00"
@@ -2935,7 +2968,7 @@
       "source": "hn",
       "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
       "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
-      "score": 42,
+      "score": 47,
       "comments": 9,
       "author": "tucan9389",
       "tags": [],
@@ -3694,8 +3727,8 @@
       "source": "hn",
       "title": "Reviving a 15-year-old netbook with Arch Linux",
       "url": "https://parksb.github.io/en/article/41.html",
-      "score": 126,
-      "comments": 85,
+      "score": 136,
+      "comments": 89,
       "author": "parksb",
       "tags": [],
       "date": "2026-07-14T14:02:36+00:00"
@@ -4997,7 +5030,7 @@
       "source": "hn",
       "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
       "url": "https://prathosh.in/vagdhenu/",
-      "score": 185,
+      "score": 190,
       "comments": 47,
       "author": "subinalex",
       "tags": [],
@@ -5168,8 +5201,8 @@
       "source": "hn",
       "title": "Revisiting Yliluoma's ordered dither algorithm",
       "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
-      "score": 9,
-      "comments": 0,
+      "score": 12,
+      "comments": 1,
       "author": "ibobev",
       "tags": [],
       "date": "2026-07-13T14:15:14+00:00"
@@ -5193,7 +5226,7 @@
       "source": "hn",
       "title": "Waldi: A quiet place to write, and to be read",
       "url": "https://github.com/waaldev/waldi",
-      "score": 18,
+      "score": 22,
       "comments": 10,
       "author": "waaldev",
       "tags": [],
@@ -5354,17 +5387,17 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
-      "id": "zenn-557dd6f97b",
+      "id": "zenn-8d719c8c2a",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Claude Codeと取り組んだ大規模レガシー移行の記録",
-      "url": "https://zenn.dev/luup_developers/articles/server-jang-20260716",
+      "title": "CloudFront VPC Origin障害をどう切り分けて復旧したか",
+      "url": "https://zenn.dev/nextbeat/articles/aws-vpc-origin-outage-troubleshooting",
       "score": null,
-      "author": "Luup Developers",
+      "author": "takapi",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 17 Jul 2026 11:43:49 GMT"
+      "date": "Fri, 17 Jul 2026 08:02:12 GMT"
     },
     {
       "id": "zenn-a056b0a267",
@@ -5380,30 +5413,30 @@
       "date": "Fri, 17 Jul 2026 05:56:17 GMT"
     },
     {
-      "id": "zenn-fc1550dc37",
+      "id": "zenn-8c8a18e41e",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "GitHub Release 作成をパッケージリリースのトリガーにするな！",
-      "url": "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger",
+      "title": "メモリリークの正体は glibc malloc だった ── Python 以外でも効く LD_PRELOAD 1 行のアロケータ差し替え",
+      "url": "https://zenn.dev/pksha/articles/python-memory-leak-jemalloc",
       "score": null,
-      "author": "mpyw",
+      "author": "Arumakan1727",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 17 Jul 2026 05:22:08 GMT"
+      "date": "Fri, 17 Jul 2026 05:27:27 GMT"
     },
     {
-      "id": "zenn-f3ef28ff48",
+      "id": "zenn-1b17adb17d",
       "source": "zennqiita",
       "sub_source": "Zenn",
-      "title": "Fable 5はeffort=lowでも“使える”のか？　React習熟度ベンチマーク",
-      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-13",
+      "title": "OpenTelemetryのConsistent Probability Samplingを理解する",
+      "url": "https://zenn.dev/ymotongpoo/articles/20260717-cps",
       "score": null,
-      "author": "uhyo",
+      "author": "Yoshi Yamaguchi",
       "tags": [
         "Zenn"
       ],
-      "date": "Fri, 17 Jul 2026 00:53:45 GMT"
+      "date": "Fri, 17 Jul 2026 05:20:31 GMT"
     },
     {
       "id": "zenn-083193fe6e",
@@ -5417,19 +5450,6 @@
         "Zenn"
       ],
       "date": "Thu, 16 Jul 2026 15:02:58 GMT"
-    },
-    {
-      "id": "zenn-a3d5a21439",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "Strategy Pattern を ABC で書くか、Protocol で書くか",
-      "url": "https://zenn.dev/zozotech/articles/6717b887482e4e",
-      "score": null,
-      "author": "かみけん",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 16 Jul 2026 12:59:49 GMT"
     },
     {
       "id": "zenn-09dff535ae",
@@ -5536,6 +5556,19 @@
       "date": "Wed, 15 Jul 2026 09:00:13 GMT"
     },
     {
+      "id": "zenn-4d78ede967",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "社内PCで動く簡易アプリはElectronとPythonスクリプトのどちらが向いているか",
+      "url": "https://zenn.dev/syunpp/articles/electron-local-business-app",
+      "score": null,
+      "author": "syunpp",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 15 Jul 2026 04:24:55 GMT"
+    },
+    {
       "id": "zenn-791fdca732",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5612,6 +5645,58 @@
         "Zenn"
       ],
       "date": "Sun, 12 Jul 2026 18:23:18 GMT"
+    },
+    {
+      "id": "zenn-557dd6f97b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Claude Codeと取り組んだ大規模レガシー移行の記録",
+      "url": "https://zenn.dev/luup_developers/articles/server-jang-20260716",
+      "score": null,
+      "author": "Luup Developers",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 17 Jul 2026 11:43:49 GMT"
+    },
+    {
+      "id": "zenn-fc1550dc37",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHub Release 作成をパッケージリリースのトリガーにするな！",
+      "url": "https://zenn.dev/yumemi_inc/articles/github-release-not-a-publish-trigger",
+      "score": null,
+      "author": "mpyw",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 17 Jul 2026 05:22:08 GMT"
+    },
+    {
+      "id": "zenn-f3ef28ff48",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Fable 5はeffort=lowでも“使える”のか？　React習熟度ベンチマーク",
+      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-13",
+      "score": null,
+      "author": "uhyo",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Fri, 17 Jul 2026 00:53:45 GMT"
+    },
+    {
+      "id": "zenn-a3d5a21439",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "Strategy Pattern を ABC で書くか、Protocol で書くか",
+      "url": "https://zenn.dev/zozotech/articles/6717b887482e4e",
+      "score": null,
+      "author": "かみけん",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 16 Jul 2026 12:59:49 GMT"
     },
     {
       "id": "edb-9bdf9aa505",
@@ -5732,111 +5817,6 @@
       ],
       "severity": "high",
       "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-de3fae1aef",
-      "source": "msf",
-      "title": "[webapps] Discuz! X5.0 - Authentication Bypass",
-      "url": "https://www.exploit-db.com/exploits/52621",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-d3b8e76e1f",
-      "source": "msf",
-      "title": "[webapps] Tenable Nessus 10.12.1 - SQL Injection",
-      "url": "https://www.exploit-db.com/exploits/52620",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-5af796c5ff",
-      "source": "msf",
-      "title": "[webapps] WordPress Bricks Builder Theme  -  RCE",
-      "url": "https://www.exploit-db.com/exploits/52619",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-00c1612776",
-      "source": "msf",
-      "title": "[remote] iOS Bluetooth PAN Exploit - Ethernet Gateway without Adapter",
-      "url": "https://www.exploit-db.com/exploits/52618",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-36aec9a13b",
-      "source": "msf",
-      "title": "[webapps] Joomla Extension 4.1.4 - PHP Object injection",
-      "url": "https://www.exploit-db.com/exploits/52617",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-d1fd93824d",
-      "source": "msf",
-      "title": "[webapps] Pulpy 0.1.1-Beta - Filesystem Sandbox Bypass",
-      "url": "https://www.exploit-db.com/exploits/52616",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-ad7f95cccd",
-      "source": "msf",
-      "title": "[local] MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation",
-      "url": "https://www.exploit-db.com/exploits/52615",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
     }
   ]
 }
