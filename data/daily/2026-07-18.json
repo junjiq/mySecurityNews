@@ -1,8 +1,8 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T14:26:10.311133+00:00",
-  "total_articles": 48,
-  "urgent_count": 2,
+  "generated_at": "2026-07-18T14:47:57.327596+00:00",
+  "total_articles": 47,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Open Book Touch: open-source e-reader",
@@ -10,20 +10,21 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-17T20:47:57+00:00"
-    },
-    {
-      "title": "The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-17T14:31:10+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 42,
       "top_items": [
+        {
+          "title": "Regressive JPEGs",
+          "url": "https://maurycyz.com/projects/bad_jpeg/",
+          "score": 509,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-18T03:14:20+00:00"
+        },
         {
           "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
           "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
@@ -33,28 +34,12 @@
           "date": "2026-07-17T22:26:30+00:00"
         },
         {
-          "title": "Regressive JPEGs",
-          "url": "https://maurycyz.com/projects/bad_jpeg/",
-          "score": 497,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-18T03:14:20+00:00"
-        },
-        {
           "title": "LG monitors silently install software through Windows Update without consent",
           "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-          "score": 452,
+          "score": 489,
           "source": "hn",
           "severity": "medium",
           "date": "2026-07-18T10:21:19+00:00"
-        },
-        {
-          "title": "The state of open source AI",
-          "url": "https://stateofopensource.ai/",
-          "score": 437,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-07-17T14:31:10+00:00"
         },
         {
           "title": "Why do AI company logos look like buttholes? (2025)",
@@ -63,6 +48,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-18T11:06:50+00:00"
+        },
+        {
+          "title": "Learning a few things about running SQLite",
+          "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+          "score": 288,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-17T17:45:41+00:00"
         }
       ]
     },
