@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T12:21:31.841568+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-07-18T12:48:09.269321+00:00",
+  "total_articles": 58,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 53,
       "top_items": [
         {
           "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
@@ -42,10 +42,18 @@
         {
           "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
           "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-          "score": 471,
+          "score": 473,
           "source": "hn",
           "severity": null,
           "date": "2026-07-17T14:06:13+00:00"
+        },
+        {
+          "title": "Regressive JPEGs",
+          "url": "https://maurycyz.com/projects/bad_jpeg/",
+          "score": 446,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-18T03:14:20+00:00"
         },
         {
           "title": "The state of open source AI",
@@ -56,17 +64,9 @@
           "date": "2026-07-17T14:31:10+00:00"
         },
         {
-          "title": "Regressive JPEGs",
-          "url": "https://maurycyz.com/projects/bad_jpeg/",
-          "score": 434,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-18T03:14:20+00:00"
-        },
-        {
           "title": "Kimi K3, and what we can still learn from the pelican benchmark",
           "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-          "score": 359,
+          "score": 361,
           "source": "hn",
           "severity": null,
           "date": "2026-07-17T14:21:51+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
         {
           "title": "AIエージェントのためのDocker Sandboxes実践入門",
