@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T23:19:15.417227+00:00",
+  "generated_at": "2026-07-19T23:47:57.428587+00:00",
   "total_articles": 66,
   "urgent_count": 1,
   "urgent_items": [
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 50,
       "top_items": [
         {
           "title": "Qwen 3.8",
           "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-          "score": 741,
+          "score": 747,
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T08:44:57+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
           "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-          "score": 382,
+          "score": 385,
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T10:34:58+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "Claude Code uses Bun written in Rust now",
           "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-          "score": 361,
+          "score": 367,
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T10:03:23+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
           "url": "https://github.com/openai/codex/pull/33972/files",
-          "score": 284,
+          "score": 290,
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T07:54:39+00:00"
@@ -61,8 +61,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 15,
       "top_items": [
+        {
+          "title": "Raspberry Pi 4 で Home Assistant サーバを構築する",
+          "url": "https://qiita.com/Noritama-Lab/items/2530068f6ab65dce1288?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-20T08:20:58+09:00"
+        },
         {
           "title": "マルチエージェントに関する論文を40本再実装してみて分かったこと",
           "url": "https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-19T18:14:11+09:00"
-        },
-        {
-          "title": "【個人開発】マルチレポでnoteクリエイター向け統計ダッシュボードを作ってみた【React / Hono / Chrome拡張】",
-          "url": "https://qiita.com/natsugure/items/e12091867becb931bce0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-19T17:37:57+09:00"
         }
       ]
     },
