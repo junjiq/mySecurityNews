@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-19T03:04:59.529481+00:00",
+  "generated_at": "2026-07-19T04:37:32.618166+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 364,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 7,
-    "critical": 16,
+    "critical": 15,
     "high": 2
   },
   "top_articles": [
@@ -30,7 +30,7 @@
     {
       "title": "LG monitors silently install software through Windows Update without consent",
       "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "score": 1030,
+      "score": 1058,
       "source": "hn",
       "date": "2026-07-18T10:21:19+00:00"
     },
@@ -112,18 +112,18 @@
       "date": "2026-07-16T12:13:43+00:00"
     },
     {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "score": 526,
+      "source": "hn",
+      "date": "2026-07-18T13:00:52+00:00"
+    },
+    {
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
       "score": 514,
       "source": "hn",
       "date": "2026-07-14T16:57:54+00:00"
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 513,
-      "source": "hn",
-      "date": "2026-07-18T13:00:52+00:00"
     },
     {
       "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
@@ -273,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-14T11:06:09+00:00"
-    },
-    {
-      "title": "The AI Whale Fall and Open Source",
-      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-13T23:16:42+00:00"
     }
   ]
 }
