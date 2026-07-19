@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T12:19:07.449713+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-07-19T12:48:13.033580+00:00",
+  "total_articles": 62,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 51,
       "top_items": [
         {
           "title": "Transcribe.cpp",
           "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-          "score": 575,
+          "score": 583,
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T00:38:26+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "The Kimi K3 Moment",
           "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-          "score": 461,
+          "score": 470,
           "source": "hn",
           "severity": null,
           "date": "2026-07-18T17:32:40+00:00"
@@ -102,6 +102,20 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-19T14:09:51+09:00"
+        }
+      ]
+    },
+    {
+      "category": "注目リリース",
+      "count": 1,
+      "top_items": [
+        {
+          "title": "HackTheBox : Logging Writeup",
+          "url": "https://dev.to/exploitnotes/hackthebox-logging-writeup-2f5j",
+          "score": 0,
+          "source": "project",
+          "severity": null,
+          "date": "2026-07-19T08:24:37Z"
         }
       ]
     }
