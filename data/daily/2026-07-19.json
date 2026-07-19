@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T10:57:16.115782+00:00",
-  "total_articles": 57,
+  "generated_at": "2026-07-19T11:27:23.900285+00:00",
+  "total_articles": 56,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 46,
       "top_items": [
         {
           "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
@@ -28,7 +28,7 @@
         {
           "title": "Transcribe.cpp",
           "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-          "score": 550,
+          "score": 560,
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T00:38:26+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "The Kimi K3 Moment",
           "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-          "score": 433,
+          "score": 446,
           "source": "hn",
           "severity": null,
           "date": "2026-07-18T17:32:40+00:00"
@@ -61,8 +61,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 10,
       "top_items": [
+        {
+          "title": "cpu-moeで満足するな:Qwen 35Bをさらに速くする3フラグを実測",
+          "url": "https://qiita.com/kenimo49/items/17f2160d71f71c98bf44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-19T20:24:59+09:00"
+        },
         {
           "title": "バイブコーディング(笑) と言われないための考え方",
           "url": "https://qiita.com/fallout/items/d732b94ff0f68c5cd1ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-19T14:09:51+09:00"
-        },
-        {
-          "title": "セキュリティの勉強になるサイト138選(2026年版)",
-          "url": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-19T13:44:39+09:00"
         }
       ]
     }
