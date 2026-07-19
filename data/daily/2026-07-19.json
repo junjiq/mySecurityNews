@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T21:17:46.206308+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-07-19T21:47:03.813001+00:00",
+  "total_articles": 64,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,8 +15,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 49,
       "top_items": [
+        {
+          "title": "Qwen 3.8",
+          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+          "score": 699,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-19T08:44:57+00:00"
+        },
         {
           "title": "Transcribe.cpp",
           "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
@@ -24,14 +32,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T00:38:26+00:00"
-        },
-        {
-          "title": "Qwen 3.8",
-          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-          "score": 675,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-19T08:44:57+00:00"
         },
         {
           "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
@@ -44,7 +44,7 @@
         {
           "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
           "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-          "score": 364,
+          "score": 371,
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T10:34:58+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "Claude Code uses Bun written in Rust now",
           "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-          "score": 330,
+          "score": 340,
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T10:03:23+00:00"
