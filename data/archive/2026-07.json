@@ -1,10 +1,10 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-19T19:53:53.032268+00:00",
+  "generated_at": "2026-07-19T20:18:00.716990+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 371,
-    "zennqiita": 79,
+    "hn": 365,
+    "zennqiita": 85,
     "project": 11
   },
   "severity_counts": {
@@ -51,9 +51,16 @@
     {
       "title": "Transcribe.cpp",
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 690,
+      "score": 694,
       "source": "hn",
       "date": "2026-07-19T00:38:26+00:00"
+    },
+    {
+      "title": "Qwen 3.8",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "score": 651,
+      "source": "hn",
+      "date": "2026-07-19T08:44:57+00:00"
     },
     {
       "title": "Decoy Font",
@@ -75,13 +82,6 @@
       "score": 641,
       "source": "hn",
       "date": "2026-07-18T03:14:20+00:00"
-    },
-    {
-      "title": "Qwen 3.8",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 640,
-      "source": "hn",
-      "date": "2026-07-19T08:44:57+00:00"
     },
     {
       "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
@@ -114,7 +114,7 @@
     {
       "title": "Speech Recognition and TTS in less than 500kb",
       "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 539,
+      "score": 542,
       "source": "hn",
       "date": "2026-07-14T19:25:10+00:00"
     },
