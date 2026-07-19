@@ -1,9 +1,17 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T08:16:19.614385+00:00",
+  "generated_at": "2026-07-19T09:12:28.930952+00:00",
   "total_articles": 53,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-19T08:00:24+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
@@ -20,31 +28,31 @@
         {
           "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
           "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-          "score": 553,
+          "score": 559,
           "source": "hn",
           "severity": null,
           "date": "2026-07-18T13:00:52+00:00"
         },
         {
-          "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-          "score": 449,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-18T22:13:39+00:00"
-        },
-        {
           "title": "Transcribe.cpp",
           "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-          "score": 443,
+          "score": 499,
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T00:38:26+00:00"
         },
         {
+          "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+          "score": 464,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-18T22:13:39+00:00"
+        },
+        {
           "title": "If You Build It, They Will Come",
           "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-          "score": 386,
+          "score": 401,
           "source": "hn",
           "severity": null,
           "date": "2026-07-18T15:37:01+00:00"

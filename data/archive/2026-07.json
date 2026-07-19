@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-19T08:16:19.663107+00:00",
+  "generated_at": "2026-07-19T09:12:28.979944+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 359,
@@ -8,8 +8,8 @@
     "project": 11
   },
   "severity_counts": {
+    "critical": 16,
     "medium": 7,
-    "critical": 15,
     "high": 2
   },
   "top_articles": [
@@ -84,18 +84,18 @@
       "date": "2026-07-15T11:46:06+00:00"
     },
     {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "score": 559,
+      "source": "hn",
+      "date": "2026-07-18T13:00:52+00:00"
+    },
+    {
       "title": "Grok Build is open source",
       "url": "https://github.com/xai-org/grok-build",
       "score": 555,
       "source": "hn",
       "date": "2026-07-15T20:24:58+00:00"
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 553,
-      "source": "hn",
-      "date": "2026-07-18T13:00:52+00:00"
     },
     {
       "title": "How to stop Claude from saying load-bearing",
@@ -140,21 +140,28 @@
       "date": "2026-07-17T14:06:13+00:00"
     },
     {
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "score": 499,
+      "source": "hn",
+      "date": "2026-07-19T00:38:26+00:00"
+    },
+    {
       "title": "How Our Rust-to-Zig Rewrite Is Going",
       "url": "https://rtfeldman.com/rust-to-zig",
       "score": 480,
       "source": "hn",
       "date": "2026-07-16T11:39:27+00:00"
-    },
-    {
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "score": 467,
-      "source": "hn",
-      "date": "2026-07-15T03:32:45+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-19T08:00:24+00:00"
+    },
     {
       "title": "Open Book Touch: open-source e-reader",
       "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
