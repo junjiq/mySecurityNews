@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-19T19:25:50.431017+00:00",
+  "generated_at": "2026-07-19T19:53:53.032268+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 370,
-    "zennqiita": 80,
+    "hn": 371,
+    "zennqiita": 79,
     "project": 11
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 15,
     "medium": 7,
     "high": 2
   },
@@ -51,7 +51,7 @@
     {
       "title": "Transcribe.cpp",
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 683,
+      "score": 690,
       "source": "hn",
       "date": "2026-07-19T00:38:26+00:00"
     },
@@ -79,7 +79,7 @@
     {
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 619,
+      "score": 640,
       "source": "hn",
       "date": "2026-07-19T08:44:57+00:00"
     },
@@ -112,18 +112,18 @@
       "date": "2026-07-14T11:46:02+00:00"
     },
     {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "score": 539,
+      "source": "hn",
+      "date": "2026-07-14T19:25:10+00:00"
+    },
+    {
       "title": "OnePlus halts operations in USA and Europe",
       "url": "https://community.oneplus.com/thread/2170715118587871237",
       "score": 538,
       "source": "hn",
       "date": "2026-07-16T10:14:04+00:00"
-    },
-    {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 535,
-      "source": "hn",
-      "date": "2026-07-14T19:25:10+00:00"
     },
     {
       "title": "The Kimi K3 Moment",
@@ -273,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-14T17:58:35+00:00"
-    },
-    {
-      "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
-      "url": "https://github.com/rejourneyco/rejourney",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-14T11:06:09+00:00"
     }
   ]
 }
