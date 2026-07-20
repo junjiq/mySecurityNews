@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-20T14:15:30.119645+00:00",
+  "generated_at": "2026-07-20T15:15:03.124947+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 359,
@@ -8,8 +8,8 @@
     "project": 11
   },
   "severity_counts": {
+    "critical": 16,
     "medium": 6,
-    "critical": 15,
     "high": 2
   },
   "top_articles": [
@@ -86,7 +86,7 @@
     {
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 574,
+      "score": 584,
       "source": "hn",
       "date": "2026-07-19T10:03:23+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Soofi – Sovereign Open Source Foundation Models",
+      "url": "https://www.soofi.info/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-20T12:52:03+00:00"
+    },
     {
       "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
       "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",

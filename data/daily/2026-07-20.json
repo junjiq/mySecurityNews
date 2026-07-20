@@ -1,9 +1,16 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T14:15:30.084558+00:00",
-  "total_articles": 51,
-  "urgent_count": 1,
+  "generated_at": "2026-07-20T15:15:03.077345+00:00",
+  "total_articles": 53,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Soofi – Sovereign Open Source Foundation Models",
+      "url": "https://www.soofi.info/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-20T12:52:03+00:00"
+    },
     {
       "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
       "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
@@ -15,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 47,
       "top_items": [
         {
           "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
@@ -34,6 +41,14 @@
           "date": "2026-07-20T04:45:15+00:00"
         },
         {
+          "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+          "url": "https://github.com/hgaiser/moonshine",
+          "score": 288,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-20T00:16:50+00:00"
+        },
+        {
           "title": "AI advice made people less accurate but more confident – sudy",
           "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
           "score": 288,
@@ -42,27 +57,27 @@
           "date": "2026-07-19T21:18:10+00:00"
         },
         {
-          "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-          "url": "https://github.com/hgaiser/moonshine",
-          "score": 273,
+          "title": "Airport Simulator",
+          "url": "https://airport.apunen.com/",
+          "score": 286,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-20T00:16:50+00:00"
-        },
-        {
-          "title": "Orion Browser by Kagi",
-          "url": "https://orionbrowser.com/",
-          "score": 263,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-19T19:13:29+00:00"
+          "date": "2026-07-20T10:30:40+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
+        {
+          "title": "【５秒で読める】アプリを作れないので「育てる」ことにした",
+          "url": "https://qiita.com/masataka55/items/8a245a0fe58ad576a128?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-21T00:12:23+09:00"
+        },
         {
           "title": "【AWS CDK】Expressモードでリソースデプロイが最大4倍速くなるらしいので試してみた",
           "url": "https://qiita.com/yosuke-suzuki/items/e6c26b70749abb48df09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-20T08:20:58+09:00"
-        },
-        {
-          "title": "マルチエージェントに関する論文を40本再実装してみて分かったこと",
-          "url": "https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-20T03:45:51+09:00"
         }
       ]
     }
