@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-07-20T18:39:04.387820+00:00",
+  "updated_at": "2026-07-20T19:32:35.842243+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48982681",
+      "source": "hn",
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "score": 23,
+      "comments": 6,
+      "author": "aratahikaru5",
+      "tags": [],
+      "date": "2026-07-20T18:16:08+00:00"
+    },
+    {
+      "id": "hn-48982583",
+      "source": "hn",
+      "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+      "url": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
+      "score": 13,
+      "comments": 1,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-07-20T18:10:44+00:00",
+      "severity": "critical"
+    },
     {
       "id": "hn-48982578",
       "source": "hn",
       "title": "The drivers behind software delivery inefficiency",
       "url": "https://dl.acm.org/doi/10.1145/3800646.3800650",
-      "score": 4,
-      "comments": 0,
+      "score": 13,
+      "comments": 2,
       "author": "qaprof",
       "tags": [],
       "date": "2026-07-20T18:10:17+00:00"
@@ -18,8 +41,8 @@
       "source": "hn",
       "title": "That post never existed. Stop listening to that thing",
       "url": "https://rachelbythebay.com/w/2026/05/05/404/",
-      "score": 47,
-      "comments": 10,
+      "score": 74,
+      "comments": 53,
       "author": "wglb",
       "tags": [],
       "date": "2026-07-20T17:57:37+00:00"
@@ -29,8 +52,8 @@
       "source": "hn",
       "title": "Hyprland 0.55 announced the switch to Lua for its config files",
       "url": "https://hypr.land/news/update55/",
-      "score": 39,
-      "comments": 26,
+      "score": 68,
+      "comments": 47,
       "author": "matesz",
       "tags": [],
       "date": "2026-07-20T17:31:57+00:00"
@@ -40,8 +63,8 @@
       "source": "hn",
       "title": "Kimi Work",
       "url": "https://www.kimi.com/products/kimi-work",
-      "score": 49,
-      "comments": 18,
+      "score": 97,
+      "comments": 47,
       "author": "ms7892",
       "tags": [],
       "date": "2026-07-20T17:13:23+00:00"
@@ -51,8 +74,8 @@
       "source": "hn",
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
-      "score": 62,
-      "comments": 20,
+      "score": 109,
+      "comments": 40,
       "author": "baldvinmar",
       "tags": [],
       "date": "2026-07-20T17:07:39+00:00"
@@ -71,10 +94,10 @@
     {
       "id": "hn-48981206",
       "source": "hn",
-      "title": "Over 30% of new ArXiv submissions now read as AI-written",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
       "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "score": 113,
-      "comments": 77,
+      "score": 143,
+      "comments": 102,
       "author": "dopamine_daddy",
       "tags": [],
       "date": "2026-07-20T16:36:36+00:00"
@@ -95,8 +118,8 @@
       "source": "hn",
       "title": "I Stopped \"Creating Content\"",
       "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
-      "score": 66,
-      "comments": 47,
+      "score": 91,
+      "comments": 67,
       "author": "mtlynch",
       "tags": [],
       "date": "2026-07-20T15:47:28+00:00"
@@ -106,8 +129,8 @@
       "source": "hn",
       "title": "Ziggity – A terminal UI for Git, written in Zig",
       "url": "https://github.com/simoarpe/ziggity",
-      "score": 31,
-      "comments": 14,
+      "score": 39,
+      "comments": 25,
       "author": "TheSorcerer",
       "tags": [],
       "date": "2026-07-20T15:46:18+00:00"
@@ -117,7 +140,7 @@
       "source": "hn",
       "title": "Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
       "url": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
-      "score": 24,
+      "score": 36,
       "comments": 2,
       "author": "surprisetalk",
       "tags": [],
@@ -163,8 +186,8 @@
       "source": "hn",
       "title": "The Voice of Google",
       "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
-      "score": 68,
-      "comments": 28,
+      "score": 88,
+      "comments": 37,
       "author": "littlexsparkee",
       "tags": [],
       "date": "2026-07-20T15:15:36+00:00"
@@ -174,8 +197,8 @@
       "source": "hn",
       "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
       "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "score": 171,
-      "comments": 170,
+      "score": 193,
+      "comments": 194,
       "author": "cl42",
       "tags": [],
       "date": "2026-07-20T15:13:42+00:00"
@@ -185,8 +208,8 @@
       "source": "hn",
       "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
       "url": "https://nothings.org/gamedev/ssao/",
-      "score": 108,
-      "comments": 38,
+      "score": 116,
+      "comments": 43,
       "author": "firephox",
       "tags": [],
       "date": "2026-07-20T15:07:31+00:00"
@@ -218,8 +241,8 @@
       "source": "hn",
       "title": "Controlling Reasoning Effort in LLMs",
       "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
-      "score": 32,
-      "comments": 1,
+      "score": 42,
+      "comments": 2,
       "author": "ibobev",
       "tags": [],
       "date": "2026-07-20T14:35:19+00:00"
@@ -229,8 +252,8 @@
       "source": "hn",
       "title": "China's open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 423,
-      "comments": 355,
+      "score": 543,
+      "comments": 463,
       "author": "benwerd",
       "tags": [],
       "date": "2026-07-20T14:21:47+00:00"
@@ -240,8 +263,8 @@
       "source": "hn",
       "title": "Perfection Is Not Over-Engineering",
       "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-      "score": 113,
-      "comments": 52,
+      "score": 132,
+      "comments": 59,
       "author": "var0xyz",
       "tags": [],
       "date": "2026-07-20T14:10:30+00:00"
@@ -273,8 +296,8 @@
       "source": "hn",
       "title": "Firefox Merges Support for Vulkan Video Decoding",
       "url": "https://github.com/search",
-      "score": 156,
-      "comments": 38,
+      "score": 180,
+      "comments": 42,
       "author": "DemiGuru",
       "tags": [],
       "date": "2026-07-20T13:47:13+00:00"
@@ -284,8 +307,8 @@
       "source": "hn",
       "title": "Shinjuku Station in 3D",
       "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
-      "score": 68,
-      "comments": 15,
+      "score": 84,
+      "comments": 16,
       "author": "Gecko4072",
       "tags": [],
       "date": "2026-07-20T13:43:10+00:00"
@@ -295,8 +318,8 @@
       "source": "hn",
       "title": "Hacker wipes Romania's land registry database",
       "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "score": 408,
-      "comments": 230,
+      "score": 453,
+      "comments": 243,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-20T13:28:33+00:00"
@@ -317,8 +340,8 @@
       "source": "hn",
       "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
       "url": "https://spectrum.ieee.org/led-light-pollution",
-      "score": 153,
-      "comments": 101,
+      "score": 164,
+      "comments": 114,
       "author": "defrost",
       "tags": [],
       "date": "2026-07-20T13:07:11+00:00"
@@ -374,8 +397,8 @@
       "source": "hn",
       "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
       "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "score": 393,
-      "comments": 216,
+      "score": 417,
+      "comments": 234,
       "author": "rapnie",
       "tags": [],
       "date": "2026-07-20T12:14:08+00:00"
@@ -397,8 +420,8 @@
       "source": "hn",
       "title": "Airport Simulator",
       "url": "https://airport.apunen.com/",
-      "score": 478,
-      "comments": 108,
+      "score": 510,
+      "comments": 111,
       "author": "apunen",
       "tags": [],
       "date": "2026-07-20T10:30:40+00:00"
@@ -419,8 +442,8 @@
       "source": "hn",
       "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
       "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "score": 339,
-      "comments": 185,
+      "score": 345,
+      "comments": 196,
       "author": "infosecau",
       "tags": [],
       "date": "2026-07-20T08:13:36+00:00",
@@ -5177,19 +5200,6 @@
       "date": "2026-07-15T14:11:17+09:00"
     },
     {
-      "id": "qiita-37c914845b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "OCI GoldenGate Veridataを試してみた",
-      "url": "https://qiita.com/tk_miya/items/a95125844059a5f3dfad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tk_miya",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-15T12:57:22+09:00"
-    },
-    {
       "id": "ctf-4141955",
       "source": "project",
       "proj_category": "CTF",
@@ -5202,17 +5212,6 @@
         "Security"
       ],
       "date": "2026-07-14T11:59:37Z"
-    },
-    {
-      "id": "hn-48902611",
-      "source": "hn",
-      "title": "I turned my bearblog into a text based adventure",
-      "url": "https://peaceful.bearblog.dev",
-      "score": 8,
-      "comments": 2,
-      "author": "Peacefulz",
-      "tags": [],
-      "date": "2026-07-14T05:23:47+00:00"
     },
     {
       "id": "ctf-4137918",
