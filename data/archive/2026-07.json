@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-20T17:00:09.259293+00:00",
+  "generated_at": "2026-07-20T17:50:30.715676+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 364,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "critical": 16,
-    "medium": 6,
+    "medium": 5,
     "high": 2
   },
   "top_articles": [
@@ -40,13 +40,6 @@
       "score": 910,
       "source": "hn",
       "date": "2026-07-19T08:44:57+00:00"
-    },
-    {
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "score": 823,
-      "source": "hn",
-      "date": "2026-07-15T02:57:47+00:00"
     },
     {
       "title": "The lost joy of music piracy",
@@ -152,6 +145,13 @@
       "score": 480,
       "source": "hn",
       "date": "2026-07-18T22:13:39+00:00"
+    },
+    {
+      "title": "How Our Rust-to-Zig Rewrite Is Going",
+      "url": "https://rtfeldman.com/rust-to-zig",
+      "score": 480,
+      "source": "hn",
+      "date": "2026-07-16T11:39:27+00:00"
     }
   ],
   "security_highlights": [
