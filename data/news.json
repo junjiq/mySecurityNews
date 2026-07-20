@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-20T07:34:59.796216+00:00",
+  "updated_at": "2026-07-20T09:04:15.285629+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48975245",
+      "source": "hn",
+      "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
+      "url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/",
+      "score": 15,
+      "comments": 28,
+      "author": "miohtama",
+      "tags": [],
+      "date": "2026-07-20T07:10:30+00:00"
+    },
     {
       "id": "hn-48974476",
       "source": "hn",
       "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
       "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
-      "score": 41,
-      "comments": 10,
+      "score": 79,
+      "comments": 45,
       "author": "cube00",
       "tags": [],
       "date": "2026-07-20T04:49:47+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "Xiaomi-Robotics-1",
       "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "score": 82,
-      "comments": 22,
+      "score": 183,
+      "comments": 123,
       "author": "ilreb",
       "tags": [],
       "date": "2026-07-20T04:45:15+00:00"
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
       "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "score": 44,
-      "comments": 4,
+      "score": 71,
+      "comments": 8,
       "author": "Vineeth147",
       "tags": [],
       "date": "2026-07-20T04:24:48+00:00"
@@ -47,15 +58,41 @@
       "date": "2026-07-20T04:19:22+00:00"
     },
     {
+      "id": "qiita-b52c3e849a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS CDK】Expressモードでリソースデプロイが最大4倍速くなるらしいので試してみた",
+      "url": "https://qiita.com/yosuke-suzuki/items/e6c26b70749abb48df09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yosuke-suzuki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-20T12:43:25+09:00"
+    },
+    {
       "id": "hn-48973869",
       "source": "hn",
       "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
       "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "score": 310,
-      "comments": 173,
+      "score": 372,
+      "comments": 216,
       "author": "loubbrad",
       "tags": [],
       "date": "2026-07-20T02:51:16+00:00"
+    },
+    {
+      "id": "qiita-9cbdb2babe",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」",
+      "url": "https://qiita.com/jqit-yukiono/items/d33908602fd060f5e1d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jqit-yukiono",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-20T10:58:52+09:00"
     },
     {
       "id": "hn-48973123",
@@ -73,8 +110,8 @@
       "source": "hn",
       "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
       "url": "https://github.com/hgaiser/moonshine",
-      "score": 128,
-      "comments": 58,
+      "score": 163,
+      "comments": 72,
       "author": "wertyk",
       "tags": [],
       "date": "2026-07-20T00:16:50+00:00"
@@ -89,6 +126,19 @@
       "author": "veqq",
       "tags": [],
       "date": "2026-07-20T00:10:08+00:00"
+    },
+    {
+      "id": "qiita-a05c9f0396",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話",
+      "url": "https://qiita.com/jqit-yukiono/items/1ebffa98b9ff2dca7a9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jqit-yukiono",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-20T08:56:09+09:00"
     },
     {
       "id": "qiita-66a20a96c1",
@@ -141,7 +191,7 @@
       "source": "hn",
       "title": "Biggest Probabilistic Computer Turns Noise into Answers",
       "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-      "score": 64,
+      "score": 71,
       "comments": 12,
       "author": "rbanffy",
       "tags": [],
@@ -218,8 +268,8 @@
       "source": "hn",
       "title": "Orion Browser by Kagi",
       "url": "https://orionbrowser.com/",
-      "score": 172,
-      "comments": 107,
+      "score": 193,
+      "comments": 132,
       "author": "sebjones",
       "tags": [],
       "date": "2026-07-19T19:13:29+00:00"
@@ -229,8 +279,8 @@
       "source": "hn",
       "title": "HomeLab #1: MikroTik as a Home Router",
       "url": "https://justsomebody.dev/blog/mikrotik-home-router",
-      "score": 102,
-      "comments": 89,
+      "score": 115,
+      "comments": 95,
       "author": "rafal_opilowski",
       "tags": [],
       "date": "2026-07-19T18:57:01+00:00"
@@ -286,8 +336,8 @@
       "source": "hn",
       "title": "HMD Touch 4G",
       "url": "https://www.hmd.com/en_int/hmd-touch-4g",
-      "score": 68,
-      "comments": 68,
+      "score": 75,
+      "comments": 76,
       "author": "thisislife2",
       "tags": [],
       "date": "2026-07-19T17:25:03+00:00"
@@ -350,6 +400,19 @@
       "date": "2026-07-20T00:01:54+09:00"
     },
     {
+      "id": "qiita-42c9d79bb1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Amazon Bedrock AgentCore ハーネスで結婚挨拶シミュレーターを作った",
+      "url": "https://qiita.com/sagochiko/items/77ba979b5cf15d28a8c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sagochiko",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-20T00:01:19+09:00"
+    },
+    {
       "id": "hn-48968701",
       "source": "hn",
       "title": "Natural experiments prove phytoplankton carbon removal works",
@@ -398,8 +461,8 @@
       "source": "hn",
       "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
       "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "score": 152,
-      "comments": 112,
+      "score": 155,
+      "comments": 115,
       "author": "teleforce",
       "tags": [],
       "date": "2026-07-19T13:29:29+00:00"
@@ -433,19 +496,32 @@
       "source": "hn",
       "title": "Minecraft: Java Edition now uses SDL3",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 299,
-      "comments": 201,
+      "score": 311,
+      "comments": 203,
       "author": "ObviouslyFlamer",
       "tags": [],
       "date": "2026-07-19T11:48:18+00:00"
+    },
+    {
+      "id": "qiita-a60755ddd4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "閉域構成のOracleDB運用支援LLMを作り、RAGでハルシネーションがどこまで減るか18問で実測してみた",
+      "url": "https://qiita.com/asahide/items/2549dbde8e76ae86db8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "asahide",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-19T20:31:39+09:00"
     },
     {
       "id": "hn-48966984",
       "source": "hn",
       "title": "I joined the IndieWeb, here's what I learned",
       "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "score": 191,
-      "comments": 94,
+      "score": 200,
+      "comments": 100,
       "author": "andros",
       "tags": [],
       "date": "2026-07-19T11:14:38+00:00"
@@ -477,8 +553,8 @@
       "source": "hn",
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 470,
-      "comments": 214,
+      "score": 486,
+      "comments": 219,
       "author": "chipweinberger",
       "tags": [],
       "date": "2026-07-19T10:34:58+00:00"
@@ -495,12 +571,25 @@
       "date": "2026-07-19T10:23:35+00:00"
     },
     {
+      "id": "qiita-0285b6cff0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Ruby リファレンスマニュアルが進化している",
+      "url": "https://qiita.com/scivola/items/378ad41ce8cd179a8114?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "scivola",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-19T19:06:21+09:00"
+    },
+    {
       "id": "hn-48966569",
       "source": "hn",
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 490,
-      "comments": 653,
+      "score": 509,
+      "comments": 673,
       "author": "tosh",
       "tags": [],
       "date": "2026-07-19T10:03:23+00:00"
@@ -556,8 +645,8 @@
       "source": "hn",
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 861,
-      "comments": 586,
+      "score": 874,
+      "comments": 600,
       "author": "nh43215rgb",
       "tags": [],
       "date": "2026-07-19T08:44:57+00:00"
@@ -587,6 +676,19 @@
         "Qiita"
       ],
       "date": "2026-07-19T17:37:12+09:00"
+    },
+    {
+      "id": "qiita-d1370d8888",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "技術記事は、公開した瞬間から腐りはじめる",
+      "url": "https://qiita.com/happy_engineer/items/117b43dd0f4d177836d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "happy_engineer",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-19T17:34:07+09:00"
     },
     {
       "id": "ctf-4178473",
@@ -720,6 +822,19 @@
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-07-19T05:07:08+00:00"
+    },
+    {
+      "id": "qiita-10c71cc87a",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI を使うほど強くなる企業は何が違うのか？ 「トークン資本」と Learning Loop で育てる知の基盤",
+      "url": "https://qiita.com/aktsmm/items/7285c83f684b1582a741?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "aktsmm",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-19T13:51:21+09:00"
     },
     {
       "id": "qiita-c826ace302",
@@ -1093,6 +1208,19 @@
       "date": "2026-07-18T16:02:45+00:00"
     },
     {
+      "id": "qiita-f57ab58ba7",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【５秒で読める】アプリを作れないので「育てる」ことにした",
+      "url": "https://qiita.com/masataka55/items/8a245a0fe58ad576a128?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "masataka55",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-19T00:45:31+09:00"
+    },
+    {
       "id": "hn-48959143",
       "source": "hn",
       "title": "Gleam Is Now on Tangled",
@@ -1394,6 +1522,19 @@
       "author": "vitaut",
       "tags": [],
       "date": "2026-07-18T03:14:20+00:00"
+    },
+    {
+      "id": "qiita-09c5c6eeae",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【個人開発】Next.jsを使って技術ブログを作ってみた",
+      "url": "https://qiita.com/natsugure/items/79ec140a3ff8aafdbc12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "natsugure",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-18T11:50:17+09:00"
     },
     {
       "id": "qiita-5944b4e228",
@@ -1764,6 +1905,19 @@
       "author": "guybedo",
       "tags": [],
       "date": "2026-07-17T15:31:22+00:00"
+    },
+    {
+      "id": "qiita-7f0ef1d5dc",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "コンシューマー機2台をRPCでつないで96GB相当のVRAMを作り、6つのオープンLLMを実測してみた",
+      "url": "https://qiita.com/faliye/items/ab3b7fe1da80be1874e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "faliye",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-18T00:25:32+09:00"
     },
     {
       "id": "hn-48948435",
@@ -2701,6 +2855,17 @@
       "date": "2026-07-16T17:00:55+00:00"
     },
     {
+      "id": "hn-48936994",
+      "source": "hn",
+      "title": "1-Bit LLM in the Browser",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "score": 30,
+      "comments": 9,
+      "author": "simonebrunozzi",
+      "tags": [],
+      "date": "2026-07-16T16:50:32+00:00"
+    },
+    {
       "id": "hn-48936982",
       "source": "hn",
       "title": "'We used acid to sabotage Microsoft hyperscale data centre construction'",
@@ -3514,7 +3679,7 @@
       "source": "hn",
       "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
       "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
-      "score": 51,
+      "score": 61,
       "comments": 2,
       "author": "gslin",
       "tags": [],
@@ -4410,8 +4575,8 @@
       "source": "hn",
       "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
       "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-      "score": 11,
-      "comments": 0,
+      "score": 28,
+      "comments": 19,
       "author": "isaacfrond",
       "tags": [],
       "date": "2026-07-15T08:35:46+00:00"
@@ -4775,8 +4940,8 @@
       "source": "hn",
       "title": "Who Is America's Homer?",
       "url": "https://www.plough.com/articles/who-is-americas-homer",
-      "score": 67,
-      "comments": 161,
+      "score": 74,
+      "comments": 170,
       "author": "samclemens",
       "tags": [],
       "date": "2026-07-14T22:19:13+00:00"
@@ -5005,172 +5170,23 @@
       "date": "2026-07-14T17:00:17+00:00"
     },
     {
-      "id": "hn-48909785",
+      "id": "hn-48908884",
       "source": "hn",
-      "title": "The Tower Keeps Rising",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 514,
-      "comments": 239,
-      "author": "cdrnsf",
+      "title": "Eliminating Go bounds checks with unsafe",
+      "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+      "score": 4,
+      "comments": 0,
+      "author": "abnercoimbre",
       "tags": [],
-      "date": "2026-07-14T16:57:54+00:00"
-    },
-    {
-      "id": "hn-48909768",
-      "source": "hn",
-      "title": "S&P downgrades Oracle to BBB – only one notch above junk level",
-      "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
-      "score": 207,
-      "comments": 164,
-      "author": "gepeto42",
-      "tags": [],
-      "date": "2026-07-14T16:56:48+00:00"
-    },
-    {
-      "id": "hn-48909424",
-      "source": "hn",
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "score": 333,
-      "comments": 210,
-      "author": "hoechst",
-      "tags": [],
-      "date": "2026-07-14T16:36:06+00:00"
-    },
-    {
-      "id": "hn-48908950",
-      "source": "hn",
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "score": 79,
-      "comments": 41,
-      "author": "laalshaitaan",
-      "tags": [],
-      "date": "2026-07-14T16:06:18+00:00"
-    },
-    {
-      "id": "hn-48908886",
-      "source": "hn",
-      "title": "Pseudpocalypse",
-      "url": "https://dynomight.net/pseudpocalypse/",
-      "score": 104,
-      "comments": 63,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-14T16:02:01+00:00"
-    },
-    {
-      "id": "hn-48908691",
-      "source": "hn",
-      "title": "Show HN: Simulator for a custom 8-bit discreet logic computer",
-      "url": "https://msap2.mehran.dk",
-      "score": 13,
-      "comments": 3,
-      "author": "mehrant",
-      "tags": [],
-      "date": "2026-07-14T15:50:19+00:00"
-    },
-    {
-      "id": "hn-48908433",
-      "source": "hn",
-      "title": "Dupes took over the world",
-      "url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
-      "score": 74,
-      "comments": 65,
-      "author": "gumby",
-      "tags": [],
-      "date": "2026-07-14T15:33:42+00:00"
-    },
-    {
-      "id": "hn-48908271",
-      "source": "hn",
-      "title": "Show HN: Opening lines of famous literary works",
-      "url": "https://www.verbaprima.com/",
-      "score": 141,
-      "comments": 79,
-      "author": "plicerin",
-      "tags": [],
-      "date": "2026-07-14T15:24:49+00:00"
-    },
-    {
-      "id": "qiita-0552247a13",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeで「YouTube集客テクニック」を多角的に調査してみた",
-      "url": "https://qiita.com/maskot1977/items/de4d2912e11f63ad49b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-15T00:24:28+09:00"
-    },
-    {
-      "id": "hn-48908214",
-      "source": "hn",
-      "title": "I'm a USB-C Maximalist",
-      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "score": 303,
-      "comments": 397,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-07-14T15:20:36+00:00"
-    },
-    {
-      "id": "hn-48908178",
-      "source": "hn",
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 373,
-      "comments": 369,
-      "author": "yenniejun111",
-      "tags": [],
-      "date": "2026-07-14T15:18:13+00:00"
-    },
-    {
-      "id": "qiita-259504c52a",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ComfyUI × 動画生成AI × Codex で、ゲーム用スプライトアニメを量産するパイプラインを作った話",
-      "url": "https://qiita.com/archeleeds/items/2efad73069b54288deb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "archeleeds",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-15T00:08:46+09:00"
-    },
-    {
-      "id": "qiita-f796c8f6f9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIへの指示力とは「\"未知\"を言語化する力」だった ―― Anthropicのブログを読んで",
-      "url": "https://qiita.com/jinxin4869/items/1ee0282bd44b0376f8af?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "jinxin4869",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-14T23:58:39+09:00"
-    },
-    {
-      "id": "hn-48907871",
-      "source": "hn",
-      "title": "Show HN: I built a smart proxy so your coding agent can run loose",
-      "url": "https://trollbridge.dev/",
-      "score": 8,
-      "comments": 5,
-      "author": "dandriscoll",
-      "tags": [],
-      "date": "2026-07-14T14:55:53+00:00"
+      "date": "2026-07-14T16:01:57+00:00"
     },
     {
       "id": "hn-48907564",
       "source": "hn",
       "title": "Korg PS-3300 is back",
       "url": "https://www.korg.co.uk/blogs/updates/ps3300",
-      "score": 39,
-      "comments": 36,
+      "score": 49,
+      "comments": 48,
       "author": "Lio",
       "tags": [],
       "date": "2026-07-14T14:33:32+00:00"
@@ -5180,8 +5196,8 @@
       "source": "hn",
       "title": "The Zen of Parallel Programming",
       "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "score": 151,
-      "comments": 17,
+      "score": 156,
+      "comments": 20,
       "author": "edgar_ortega",
       "tags": [],
       "date": "2026-07-14T14:23:26+00:00"
@@ -5233,8 +5249,8 @@
       "source": "hn",
       "title": "Self-Powered Trailers Promise Leaner Freight Runs",
       "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-      "score": 18,
-      "comments": 9,
+      "score": 34,
+      "comments": 15,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-07-10T15:44:36+00:00"
