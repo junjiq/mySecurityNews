@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-20T21:25:50.158730+00:00",
+  "generated_at": "2026-07-20T21:51:35.102797+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 362,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 15,
     "medium": 5,
     "high": 2
   },
@@ -42,18 +42,18 @@
       "date": "2026-07-19T08:44:57+00:00"
     },
     {
+      "title": "China’s open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "score": 784,
+      "source": "hn",
+      "date": "2026-07-20T14:21:47+00:00"
+    },
+    {
       "title": "The lost joy of music piracy",
       "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
       "score": 745,
       "source": "hn",
       "date": "2026-07-16T04:46:21+00:00"
-    },
-    {
-      "title": "China’s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 744,
-      "source": "hn",
-      "date": "2026-07-20T14:21:47+00:00"
     },
     {
       "title": "Transcribe.cpp",
@@ -86,7 +86,7 @@
     {
       "title": "Airport Simulator",
       "url": "https://airport.apunen.com/",
-      "score": 591,
+      "score": 603,
       "source": "hn",
       "date": "2026-07-20T10:30:40+00:00"
     },
@@ -140,18 +140,18 @@
       "date": "2026-07-19T10:34:58+00:00"
     },
     {
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "score": 514,
+      "source": "hn",
+      "date": "2026-07-20T13:28:33+00:00"
+    },
+    {
       "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
       "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
       "score": 506,
       "source": "hn",
       "date": "2026-07-17T22:26:30+00:00"
-    },
-    {
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 505,
-      "source": "hn",
-      "date": "2026-07-17T14:06:13+00:00"
     }
   ],
   "security_highlights": [
@@ -273,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-15T12:34:05+00:00"
-    },
-    {
-      "title": "Weathergotchi – an open-source climate Tamagotchi",
-      "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-15T11:02:43+00:00"
     }
   ]
 }
