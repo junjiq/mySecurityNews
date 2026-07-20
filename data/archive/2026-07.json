@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-20T09:04:15.403450+00:00",
+  "generated_at": "2026-07-20T10:27:42.480226+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 359,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 16,
     "medium": 6,
     "high": 2
   },
@@ -37,7 +37,7 @@
     {
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 874,
+      "score": 886,
       "source": "hn",
       "date": "2026-07-19T08:44:57+00:00"
     },
@@ -126,18 +126,18 @@
       "date": "2026-07-18T17:32:40+00:00"
     },
     {
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 528,
+      "source": "hn",
+      "date": "2026-07-19T10:03:23+00:00"
+    },
+    {
       "title": "Sony deletes more movies from the accounts of people who ‘bought’ them",
       "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
       "score": 527,
       "source": "hn",
       "date": "2026-07-16T12:13:43+00:00"
-    },
-    {
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 509,
-      "source": "hn",
-      "date": "2026-07-19T10:03:23+00:00"
     },
     {
       "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-20T08:13:36+00:00"
+    },
     {
       "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
       "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
