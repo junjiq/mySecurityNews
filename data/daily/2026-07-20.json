@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T10:27:42.431756+00:00",
-  "total_articles": 50,
+  "generated_at": "2026-07-20T11:27:33.970145+00:00",
+  "total_articles": 47,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,20 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 41,
+      "count": 38,
       "top_items": [
-        {
-          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-          "score": 494,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-19T10:34:58+00:00"
-        },
         {
           "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
           "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-          "score": 413,
+          "score": 449,
           "source": "hn",
           "severity": null,
           "date": "2026-07-20T02:51:16+00:00"
@@ -36,7 +28,7 @@
         {
           "title": "Minecraft: Java Edition now uses SDL3",
           "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-          "score": 321,
+          "score": 326,
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T11:48:18+00:00"
@@ -52,10 +44,18 @@
         {
           "title": "Xiaomi-Robotics-1",
           "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-          "score": 229,
+          "score": 251,
           "source": "hn",
           "severity": null,
           "date": "2026-07-20T04:45:15+00:00"
+        },
+        {
+          "title": "Orion Browser by Kagi",
+          "url": "https://orionbrowser.com/",
+          "score": 217,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-19T19:13:29+00:00"
         }
       ]
     },
