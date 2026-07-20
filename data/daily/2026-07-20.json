@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T17:50:30.683442+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-07-20T18:39:04.451567+00:00",
+  "total_articles": 66,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,8 +22,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 60,
       "top_items": [
+        {
+          "title": "Airport Simulator",
+          "url": "https://airport.apunen.com/",
+          "score": 478,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-20T10:30:40+00:00"
+        },
         {
           "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
           "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
@@ -33,17 +41,17 @@
           "date": "2026-07-20T02:51:16+00:00"
         },
         {
-          "title": "Airport Simulator",
-          "url": "https://airport.apunen.com/",
-          "score": 442,
+          "title": "China's open-weights AI strategy is winning",
+          "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+          "score": 423,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-20T10:30:40+00:00"
+          "date": "2026-07-20T14:21:47+00:00"
         },
         {
           "title": "Hacker wipes Romania's land registry database",
           "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-          "score": 373,
+          "score": 408,
           "source": "hn",
           "severity": null,
           "date": "2026-07-20T13:28:33+00:00"
@@ -51,18 +59,10 @@
         {
           "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
           "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-          "score": 369,
+          "score": 393,
           "source": "hn",
           "severity": null,
           "date": "2026-07-20T12:14:08+00:00"
-        },
-        {
-          "title": "Xiaomi-Robotics-1",
-          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-          "score": 343,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-20T04:45:15+00:00"
         }
       ]
     },
