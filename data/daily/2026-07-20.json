@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T15:15:03.077345+00:00",
-  "total_articles": 53,
+  "generated_at": "2026-07-20T16:05:05.722449+00:00",
+  "total_articles": 60,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 47,
+      "count": 54,
       "top_items": [
         {
           "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
@@ -41,28 +41,28 @@
           "date": "2026-07-20T04:45:15+00:00"
         },
         {
-          "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-          "url": "https://github.com/hgaiser/moonshine",
-          "score": 288,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-20T00:16:50+00:00"
-        },
-        {
-          "title": "AI advice made people less accurate but more confident – sudy",
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "score": 288,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-19T21:18:10+00:00"
-        },
-        {
           "title": "Airport Simulator",
           "url": "https://airport.apunen.com/",
-          "score": 286,
+          "score": 340,
           "source": "hn",
           "severity": null,
           "date": "2026-07-20T10:30:40+00:00"
+        },
+        {
+          "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+          "score": 298,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-07-20T08:13:36+00:00"
+        },
+        {
+          "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+          "url": "https://github.com/hgaiser/moonshine",
+          "score": 297,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-20T00:16:50+00:00"
         }
       ]
     },
@@ -76,7 +76,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-21T00:12:23+09:00"
+          "date": "2026-07-21T00:18:12+09:00"
         },
         {
           "title": "【AWS CDK】Expressモードでリソースデプロイが最大4倍速くなるらしいので試してみた",
