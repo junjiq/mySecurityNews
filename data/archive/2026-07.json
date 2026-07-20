@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-20T11:27:34.020883+00:00",
+  "generated_at": "2026-07-20T12:18:46.238528+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 359,
@@ -8,8 +8,8 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 16,
-    "medium": 6,
+    "medium": 7,
+    "critical": 15,
     "high": 2
   },
   "top_articles": [
@@ -37,7 +37,7 @@
     {
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 893,
+      "score": 899,
       "source": "hn",
       "date": "2026-07-19T08:44:57+00:00"
     },
@@ -98,18 +98,18 @@
       "date": "2026-07-15T20:24:58+00:00"
     },
     {
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 553,
+      "source": "hn",
+      "date": "2026-07-19T10:03:23+00:00"
+    },
+    {
       "title": "Speech Recognition and TTS in less than 500kb",
       "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
       "score": 544,
       "source": "hn",
       "date": "2026-07-14T19:25:10+00:00"
-    },
-    {
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 541,
-      "source": "hn",
-      "date": "2026-07-19T10:03:23+00:00"
     },
     {
       "title": "OnePlus halts operations in USA and Europe",
@@ -133,6 +133,13 @@
       "date": "2026-07-16T12:13:43+00:00"
     },
     {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "score": 513,
+      "source": "hn",
+      "date": "2026-07-19T10:34:58+00:00"
+    },
+    {
       "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
       "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
       "score": 506,
@@ -145,13 +152,6 @@
       "score": 505,
       "source": "hn",
       "date": "2026-07-17T14:06:13+00:00"
-    },
-    {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 500,
-      "source": "hn",
-      "date": "2026-07-19T10:34:58+00:00"
     }
   ],
   "security_highlights": [
@@ -273,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-15T03:32:45+00:00"
-    },
-    {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-14T17:58:35+00:00"
     }
   ]
 }

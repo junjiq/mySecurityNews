@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T11:27:33.970145+00:00",
-  "total_articles": 47,
+  "generated_at": "2026-07-20T12:18:46.198262+00:00",
+  "total_articles": 44,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 38,
+      "count": 37,
       "top_items": [
         {
           "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
@@ -24,14 +24,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-20T02:51:16+00:00"
-        },
-        {
-          "title": "Minecraft: Java Edition now uses SDL3",
-          "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-          "score": 326,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-19T11:48:18+00:00"
         },
         {
           "title": "AI advice made people less accurate but more confident – sudy",
@@ -44,7 +36,7 @@
         {
           "title": "Xiaomi-Robotics-1",
           "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-          "score": 251,
+          "score": 272,
           "source": "hn",
           "severity": null,
           "date": "2026-07-20T04:45:15+00:00"
@@ -52,16 +44,24 @@
         {
           "title": "Orion Browser by Kagi",
           "url": "https://orionbrowser.com/",
-          "score": 217,
+          "score": 231,
           "source": "hn",
           "severity": null,
           "date": "2026-07-19T19:13:29+00:00"
+        },
+        {
+          "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+          "url": "https://github.com/hgaiser/moonshine",
+          "score": 229,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-20T00:16:50+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 7,
       "top_items": [
         {
           "title": "【AWS CDK】Expressモードでリソースデプロイが最大4倍速くなるらしいので試してみた",
