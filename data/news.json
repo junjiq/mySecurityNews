@@ -1,14 +1,135 @@
 {
-  "updated_at": "2026-07-21T18:29:16.769310+00:00",
+  "updated_at": "2026-07-21T18:57:29.043754+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-48996325",
+      "source": "hn",
+      "title": "Slater – Low-memory graphdb designed for read-heavy graphs",
+      "url": "https://github.com/Hikari-Systems/slater",
+      "score": 4,
+      "comments": 1,
+      "author": "rickkjp",
+      "tags": [],
+      "date": "2026-07-21T18:39:41+00:00"
+    },
+    {
+      "id": "hn-48996318",
+      "source": "hn",
+      "title": "Freeink: Open Ecosystem for E-Readers",
+      "url": "https://freeink.org/",
+      "score": 11,
+      "comments": 1,
+      "author": "FriedPickles",
+      "tags": [],
+      "date": "2026-07-21T18:39:06+00:00"
+    },
+    {
+      "id": "hn-48996236",
+      "source": "hn",
+      "title": "AI Agent – TRMNL",
+      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+      "score": 4,
+      "comments": 4,
+      "author": "joeyespo",
+      "tags": [],
+      "date": "2026-07-21T18:32:21+00:00"
+    },
+    {
+      "id": "hn-48996211",
+      "source": "hn",
+      "title": "Apple has decided to compete for creativity app users",
+      "url": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
+      "score": 4,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-21T18:30:53+00:00"
+    },
+    {
+      "id": "hn-48996197",
+      "source": "hn",
+      "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+      "score": 10,
+      "comments": 0,
+      "author": "tchalla",
+      "tags": [],
+      "date": "2026-07-21T18:30:21+00:00"
+    },
+    {
+      "id": "hn-48996187",
+      "source": "hn",
+      "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+      "url": "https://github.com/Kalcode/spaceprojectsim",
+      "score": 7,
+      "comments": 0,
+      "author": "kalcode",
+      "tags": [],
+      "date": "2026-07-21T18:29:57+00:00"
+    },
+    {
+      "id": "hn-48996128",
+      "source": "hn",
+      "title": "Cheap Self-Hosted Kubernetes on Hetzner Cloud",
+      "url": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
+      "score": 13,
+      "comments": 0,
+      "author": "victorbrink",
+      "tags": [],
+      "date": "2026-07-21T18:25:08+00:00"
+    },
+    {
+      "id": "hn-48995946",
+      "source": "hn",
+      "title": "How did the H1B visa become the 'Indian' visa",
+      "url": "https://numberstation.fm/the-body-shop/",
+      "score": 15,
+      "comments": 5,
+      "author": "StrageMusik",
+      "tags": [],
+      "date": "2026-07-21T18:10:04+00:00"
+    },
+    {
+      "id": "hn-48995923",
+      "source": "hn",
+      "title": "YouTube System Design for Robotics Data Infrastructure",
+      "url": "https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure",
+      "score": 4,
+      "comments": 0,
+      "author": "kstonekuan",
+      "tags": [],
+      "date": "2026-07-21T18:08:38+00:00"
+    },
+    {
+      "id": "hn-48995814",
+      "source": "hn",
+      "title": "Greedy is optimal for single-pass semi-streaming matching",
+      "url": "https://arxiv.org/abs/2607.14656",
+      "score": 5,
+      "comments": 0,
+      "author": "MarcoDewey",
+      "tags": [],
+      "date": "2026-07-21T17:59:29+00:00"
+    },
+    {
+      "id": "hn-48995796",
+      "source": "hn",
+      "title": "Apple Private Cloud Compute SoC 3 audit reports",
+      "url": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
+      "score": 8,
+      "comments": 0,
+      "author": "throwfaraway4",
+      "tags": [],
+      "date": "2026-07-21T17:58:21+00:00"
+    },
     {
       "id": "hn-48995444",
       "source": "hn",
       "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
       "url": "https://github.com/cristibaluta/Imagin-Raw",
-      "score": 12,
-      "comments": 0,
+      "score": 25,
+      "comments": 6,
       "author": "cristi_baluta",
       "tags": [],
       "date": "2026-07-21T17:30:01+00:00",
@@ -41,8 +162,8 @@
       "source": "hn",
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
       "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "score": 28,
-      "comments": 11,
+      "score": 62,
+      "comments": 51,
       "author": "ryanmerket",
       "tags": [],
       "date": "2026-07-21T17:14:06+00:00"
@@ -52,8 +173,8 @@
       "source": "hn",
       "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
       "url": "https://github.com/AlmanacCode/codealmanac/",
-      "score": 8,
-      "comments": 3,
+      "score": 9,
+      "comments": 5,
       "author": "divitsheth",
       "tags": [],
       "date": "2026-07-21T17:12:01+00:00"
@@ -63,8 +184,8 @@
       "source": "hn",
       "title": "Uhubctl – control USB power per-port on smart USB hubs",
       "url": "https://github.com/mvp/uhubctl",
-      "score": 9,
-      "comments": 1,
+      "score": 14,
+      "comments": 3,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-07-21T17:09:37+00:00"
@@ -74,8 +195,8 @@
       "source": "hn",
       "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
       "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
-      "score": 37,
-      "comments": 15,
+      "score": 50,
+      "comments": 28,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-21T17:03:18+00:00"
@@ -85,8 +206,8 @@
       "source": "hn",
       "title": "The World's 2,400 Castles",
       "url": "https://thecastlemap.com/",
-      "score": 100,
-      "comments": 73,
+      "score": 109,
+      "comments": 84,
       "author": "marklit",
       "tags": [],
       "date": "2026-07-21T16:05:58+00:00"
@@ -96,8 +217,8 @@
       "source": "hn",
       "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
       "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
-      "score": 45,
-      "comments": 8,
+      "score": 51,
+      "comments": 9,
       "author": "Sami_Lehtinen",
       "tags": [],
       "date": "2026-07-21T16:02:04+00:00"
@@ -129,8 +250,8 @@
       "source": "hn",
       "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
       "url": "https://e360.yale.edu/digest/benin-coral-reef",
-      "score": 151,
-      "comments": 20,
+      "score": 176,
+      "comments": 26,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-21T15:41:51+00:00"
@@ -174,8 +295,8 @@
       "source": "hn",
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 382,
-      "comments": 311,
+      "score": 409,
+      "comments": 330,
       "author": "logickkk1",
       "tags": [],
       "date": "2026-07-21T15:17:16+00:00"
@@ -230,8 +351,8 @@
       "source": "hn",
       "title": "PCjs Machines",
       "url": "https://www.pcjs.org/",
-      "score": 127,
-      "comments": 12,
+      "score": 137,
+      "comments": 13,
       "author": "naves",
       "tags": [],
       "date": "2026-07-21T13:48:35+00:00"
@@ -296,8 +417,8 @@
       "source": "hn",
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "score": 482,
-      "comments": 195,
+      "score": 487,
+      "comments": 199,
       "author": "ilreb",
       "tags": [],
       "date": "2026-07-21T08:44:23+00:00"
@@ -1238,8 +1359,8 @@
       "source": "hn",
       "title": "My USB Drive Has a Hidden Encrypted Vault",
       "url": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
-      "score": 56,
-      "comments": 26,
+      "score": 66,
+      "comments": 43,
       "author": "machinehum",
       "tags": [],
       "date": "2026-07-20T06:09:25+00:00"
@@ -2480,8 +2601,8 @@
       "source": "hn",
       "title": "The unreasonable difficulty of time series forecasting",
       "url": "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html",
-      "score": 46,
-      "comments": 12,
+      "score": 54,
+      "comments": 16,
       "author": "suzyahyah",
       "tags": [],
       "date": "2026-07-18T18:09:36+00:00"
@@ -5137,133 +5258,6 @@
         "Qiita"
       ],
       "date": "2026-07-16T09:23:39+09:00"
-    },
-    {
-      "id": "hn-48928703",
-      "source": "hn",
-      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
-      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
-      "score": 87,
-      "comments": 4,
-      "author": "gslin",
-      "tags": [],
-      "date": "2026-07-15T23:44:59+00:00"
-    },
-    {
-      "id": "qiita-8477f15f37",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Codeで技術面接の壁打ち相手を作ってみませんか",
-      "url": "https://qiita.com/kuma_3838/items/e07a4d45ca5cf2ff14ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kuma_3838",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-16T08:39:44+09:00"
-    },
-    {
-      "id": "qiita-24362d305d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIから事実を、本から考えを学ぶ。『本を読む人はうまくいく』を読んだ",
-      "url": "https://qiita.com/kuma_3838/items/7d73ee9456dcec649580?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kuma_3838",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-16T08:39:33+09:00"
-    },
-    {
-      "id": "qiita-144a3c273f",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Dart + Ollamaでチャットアプリを作ってみる",
-      "url": "https://qiita.com/y_abe_bc/items/02617ceb3fb71464dd04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "y_abe_bc",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-16T08:14:25+09:00"
-    },
-    {
-      "id": "hn-48928402",
-      "source": "hn",
-      "title": "Show HN: One More Letter",
-      "url": "https://playonemoreletter.com/",
-      "score": 58,
-      "comments": 34,
-      "author": "hmate9",
-      "tags": [],
-      "date": "2026-07-15T23:10:10+00:00"
-    },
-    {
-      "id": "hn-48928343",
-      "source": "hn",
-      "title": "Nul Characters in Strings in SQLite",
-      "url": "https://sqlite.org/nulinstr.html",
-      "score": 39,
-      "comments": 14,
-      "author": "basilikum",
-      "tags": [],
-      "date": "2026-07-15T23:03:45+00:00"
-    },
-    {
-      "id": "hn-48928313",
-      "source": "hn",
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-      "score": 50,
-      "comments": 12,
-      "author": "andsoitis",
-      "tags": [],
-      "date": "2026-07-15T23:00:31+00:00"
-    },
-    {
-      "id": "hn-48928234",
-      "source": "hn",
-      "title": "The Anti-Mac User Interface (1996)",
-      "url": "https://www.nngroup.com/articles/anti-mac-interface/",
-      "score": 59,
-      "comments": 20,
-      "author": "ninglor",
-      "tags": [],
-      "date": "2026-07-15T22:52:36+00:00"
-    },
-    {
-      "id": "hn-48928135",
-      "source": "hn",
-      "title": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "score": 327,
-      "comments": 151,
-      "author": "gnyeki",
-      "tags": [],
-      "date": "2026-07-15T22:42:58+00:00"
-    },
-    {
-      "id": "hn-48927915",
-      "source": "hn",
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "score": 95,
-      "comments": 42,
-      "author": "gregsadetsky",
-      "tags": [],
-      "date": "2026-07-15T22:23:27+00:00"
-    },
-    {
-      "id": "hn-48918140",
-      "source": "hn",
-      "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
-      "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
-      "score": 124,
-      "comments": 8,
-      "author": "rbanffy",
-      "tags": [],
-      "date": "2026-07-15T09:07:02+00:00"
     },
     {
       "id": "ctf-4141955",
