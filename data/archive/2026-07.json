@@ -1,10 +1,10 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-21T19:34:29.040449+00:00",
+  "generated_at": "2026-07-21T20:27:45.379568+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 358,
-    "zennqiita": 92,
+    "hn": 356,
+    "zennqiita": 94,
     "project": 11
   },
   "severity_counts": {
@@ -205,6 +205,13 @@
       "date": "2026-07-20T08:13:36+00:00"
     },
     {
+      "title": "WordPress緊急脆弱性「wp2shell」対応手順 ― 確認・更新・侵害点検まで",
+      "url": "https://qiita.com/BrainDirection/items/0ea9cf3cdfbdbfc94dd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-07-20T05:53:41+09:00"
+    },
+    {
       "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
       "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
       "severity": "critical",
@@ -259,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-16T15:35:13+00:00"
-    },
-    {
-      "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
-      "url": "https://github.com/PrestigePvP/Voicebox",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-16T02:57:30+00:00"
     }
   ]
 }
