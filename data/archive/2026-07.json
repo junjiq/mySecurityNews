@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-21T17:30:38.958493+00:00",
+  "generated_at": "2026-07-21T18:29:16.890781+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 353,
@@ -8,8 +8,8 @@
     "project": 11
   },
   "severity_counts": {
-    "high": 3,
     "critical": 13,
+    "high": 3,
     "medium": 5
   },
   "top_articles": [
@@ -35,18 +35,18 @@
       "date": "2026-07-18T10:21:19+00:00"
     },
     {
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "score": 924,
+      "source": "hn",
+      "date": "2026-07-20T11:05:58+00:00"
+    },
+    {
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
       "score": 910,
       "source": "hn",
       "date": "2026-07-19T08:44:57+00:00"
-    },
-    {
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 907,
-      "source": "hn",
-      "date": "2026-07-20T11:05:58+00:00"
     },
     {
       "title": "The lost joy of music piracy",
@@ -72,7 +72,7 @@
     {
       "title": "Kimi Work",
       "url": "https://www.kimi.com/products/kimi-work",
-      "score": 654,
+      "score": 659,
       "source": "hn",
       "date": "2026-07-20T17:13:23+00:00"
     },
@@ -93,7 +93,7 @@
     {
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
-      "score": 632,
+      "score": 637,
       "source": "hn",
       "date": "2026-07-20T17:07:39+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
+      "url": "https://github.com/cristibaluta/Imagin-Raw",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-21T17:30:01+00:00"
+    },
     {
       "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
       "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
@@ -259,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-16T02:57:30+00:00"
-    },
-    {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-15T21:16:36+00:00"
     }
   ]
 }
