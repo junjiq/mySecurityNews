@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-21T01:35:07.196439+00:00",
+  "generated_at": "2026-07-21T03:04:11.937082+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 363,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 14,
     "medium": 5,
     "high": 2
   },
@@ -37,7 +37,7 @@
     {
       "title": "China’s open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 977,
+      "score": 993,
       "source": "hn",
       "date": "2026-07-20T14:21:47+00:00"
     },
@@ -58,7 +58,7 @@
     {
       "title": "Airport Simulator",
       "url": "https://airport.apunen.com/",
-      "score": 701,
+      "score": 737,
       "source": "hn",
       "date": "2026-07-20T10:30:40+00:00"
     },
@@ -84,18 +84,18 @@
       "date": "2026-07-18T03:14:20+00:00"
     },
     {
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "score": 584,
+      "source": "hn",
+      "date": "2026-07-20T13:28:33+00:00"
+    },
+    {
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "score": 584,
       "source": "hn",
       "date": "2026-07-19T10:03:23+00:00"
-    },
-    {
-      "title": "Hacker wipes Romania's land registry database",
-      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "score": 569,
-      "source": "hn",
-      "date": "2026-07-20T13:28:33+00:00"
     },
     {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
@@ -266,13 +266,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-07-15T14:30:07+00:00"
-    },
-    {
-      "title": "Germany maybe found a new source of renewable energy",
-      "url": "https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-15T12:34:05+00:00"
     }
   ]
 }
