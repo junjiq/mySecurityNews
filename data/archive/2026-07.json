@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-21T15:34:07.805635+00:00",
+  "generated_at": "2026-07-21T16:31:08.487592+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 353,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "high": 2,
+    "high": 3,
     "critical": 14,
     "medium": 5
   },
@@ -28,13 +28,6 @@
       "date": "2026-07-20T14:21:47+00:00"
     },
     {
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 1142,
-      "source": "hn",
-      "date": "2026-07-15T18:12:45+00:00"
-    },
-    {
       "title": "LG monitors silently install software through Windows Update without consent",
       "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
       "score": 1058,
@@ -51,7 +44,7 @@
     {
       "title": "Who's afraid of Chinese models?",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 846,
+      "score": 878,
       "source": "hn",
       "date": "2026-07-20T11:05:58+00:00"
     },
@@ -93,7 +86,7 @@
     {
       "title": "Kimi Work",
       "url": "https://www.kimi.com/products/kimi-work",
-      "score": 630,
+      "score": 638,
       "source": "hn",
       "date": "2026-07-20T17:13:23+00:00"
     },
@@ -107,7 +100,7 @@
     {
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
-      "score": 608,
+      "score": 623,
       "source": "hn",
       "date": "2026-07-20T17:07:39+00:00"
     },
@@ -152,9 +145,23 @@
       "score": 527,
       "source": "hn",
       "date": "2026-07-16T12:13:43+00:00"
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "score": 525,
+      "source": "hn",
+      "date": "2026-07-19T10:34:58+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-21T15:31:41+00:00"
+    },
     {
       "title": "Over 400 Linux CVEs published in the last 24 hours alone",
       "url": "https://lore.kernel.org/linux-cve-announce/",

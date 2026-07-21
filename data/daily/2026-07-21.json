@@ -1,8 +1,8 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T15:34:07.768305+00:00",
-  "total_articles": 60,
-  "urgent_count": 3,
+  "generated_at": "2026-07-21T16:31:08.436836+00:00",
+  "total_articles": 62,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
@@ -19,6 +19,13 @@
       "date": "2026-07-20T18:10:44+00:00"
     },
     {
+      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-21T15:31:41+00:00"
+    },
+    {
       "title": "Over 400 Linux CVEs published in the last 24 hours alone",
       "url": "https://lore.kernel.org/linux-cve-announce/",
       "severity": "high",
@@ -29,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 48,
+      "count": 50,
       "top_items": [
         {
           "title": "Kimi Work",
           "url": "https://www.kimi.com/products/kimi-work",
-          "score": 630,
+          "score": 638,
           "source": "hn",
           "severity": null,
           "date": "2026-07-20T17:13:23+00:00"
@@ -42,7 +49,7 @@
         {
           "title": "Jelly UI: Soft-body physics for native HTML form controls",
           "url": "https://jelly-ui.com/",
-          "score": 608,
+          "score": 623,
           "source": "hn",
           "severity": null,
           "date": "2026-07-20T17:07:39+00:00"
@@ -50,10 +57,18 @@
         {
           "title": "Human mathematicians are being outcounterexampled",
           "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-          "score": 428,
+          "score": 439,
           "source": "hn",
           "severity": null,
           "date": "2026-07-20T19:03:37+00:00"
+        },
+        {
+          "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "score": 432,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-21T08:44:23+00:00"
         },
         {
           "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
@@ -62,14 +77,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-21T00:33:53+00:00"
-        },
-        {
-          "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "score": 393,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-21T08:44:23+00:00"
         }
       ]
     },
