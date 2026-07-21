@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-21T04:35:58.944281+00:00",
+  "generated_at": "2026-07-21T06:00:13.195827+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 363,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "medium": 5,
     "high": 2
   },
@@ -37,7 +37,7 @@
     {
       "title": "China’s open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 1018,
+      "score": 1043,
       "source": "hn",
       "date": "2026-07-20T14:21:47+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Ex Situ – open-source spatial index of displaced cultural artifacts",
+      "url": "https://exsitu.app/map",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-21T04:48:32+00:00"
+    },
     {
       "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
       "url": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
