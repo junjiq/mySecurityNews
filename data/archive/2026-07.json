@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-21T07:03:05.894666+00:00",
+  "generated_at": "2026-07-21T08:17:19.330803+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 363,
-    "zennqiita": 87,
+    "hn": 353,
+    "zennqiita": 97,
     "project": 11
   },
   "severity_counts": {
     "critical": 15,
     "medium": 5,
-    "high": 2
+    "high": 1
   },
   "top_articles": [
     {
@@ -30,7 +30,7 @@
     {
       "title": "China’s open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 1062,
+      "score": 1091,
       "source": "hn",
       "date": "2026-07-20T14:21:47+00:00"
     },
@@ -91,6 +91,13 @@
       "date": "2026-07-20T13:28:33+00:00"
     },
     {
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "score": 590,
+      "source": "hn",
+      "date": "2026-07-20T11:05:58+00:00"
+    },
+    {
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "score": 584,
@@ -119,13 +126,6 @@
       "date": "2026-07-16T10:14:04+00:00"
     },
     {
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 532,
-      "source": "hn",
-      "date": "2026-07-20T11:05:58+00:00"
-    },
-    {
       "title": "The Kimi K3 Moment",
       "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
       "score": 531,
@@ -147,11 +147,11 @@
       "date": "2026-07-19T10:34:58+00:00"
     },
     {
-      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 506,
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "score": 518,
       "source": "hn",
-      "date": "2026-07-17T22:26:30+00:00"
+      "date": "2026-07-20T17:13:23+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-15T16:15:03+00:00"
-    },
-    {
-      "title": "CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
-      "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-15T14:30:07+00:00"
     }
   ]
 }
