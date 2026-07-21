@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-21T13:37:47.678663+00:00",
+  "generated_at": "2026-07-21T14:42:05.958811+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 353,
@@ -8,9 +8,9 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 15,
-    "medium": 5,
-    "high": 1
+    "high": 2,
+    "critical": 14,
+    "medium": 5
   },
   "top_articles": [
     {
@@ -23,7 +23,7 @@
     {
       "title": "China’s open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 1158,
+      "score": 1171,
       "source": "hn",
       "date": "2026-07-20T14:21:47+00:00"
     },
@@ -51,7 +51,7 @@
     {
       "title": "Who's afraid of Chinese models?",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 768,
+      "score": 818,
       "source": "hn",
       "date": "2026-07-20T11:05:58+00:00"
     },
@@ -91,6 +91,13 @@
       "date": "2026-07-18T03:14:20+00:00"
     },
     {
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "score": 625,
+      "source": "hn",
+      "date": "2026-07-20T17:13:23+00:00"
+    },
+    {
       "title": "Hacker wipes Romania's land registry database",
       "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
       "score": 625,
@@ -98,11 +105,11 @@
       "date": "2026-07-20T13:28:33+00:00"
     },
     {
-      "title": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "score": 611,
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "score": 597,
       "source": "hn",
-      "date": "2026-07-20T17:13:23+00:00"
+      "date": "2026-07-20T17:07:39+00:00"
     },
     {
       "title": "Claude Code uses Bun written in Rust now",
@@ -110,13 +117,6 @@
       "score": 584,
       "source": "hn",
       "date": "2026-07-19T10:03:23+00:00"
-    },
-    {
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "url": "https://jelly-ui.com/",
-      "score": 575,
-      "source": "hn",
-      "date": "2026-07-20T17:07:39+00:00"
     },
     {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Over 400 Linux CVEs published in the last 24 hours alone",
+      "url": "https://lore.kernel.org/linux-cve-announce/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-21T14:16:02+00:00"
+    },
     {
       "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
       "url": "https://exsitu.app/map",
@@ -259,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-15T20:24:58+00:00"
-    },
-    {
-      "title": "Open-source memory for coding agents, synced over SSH",
-      "url": "https://github.com/vshulcz/deja-vu/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-15T16:15:03+00:00"
     }
   ]
 }
