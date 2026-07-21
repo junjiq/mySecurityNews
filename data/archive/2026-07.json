@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-21T16:31:08.487592+00:00",
+  "generated_at": "2026-07-21T17:30:38.958493+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 353,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "high": 3,
-    "critical": 14,
+    "critical": 13,
     "medium": 5
   },
   "top_articles": [
@@ -44,7 +44,7 @@
     {
       "title": "Who's afraid of Chinese models?",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 878,
+      "score": 907,
       "source": "hn",
       "date": "2026-07-20T11:05:58+00:00"
     },
@@ -70,6 +70,13 @@
       "date": "2026-07-19T00:38:26+00:00"
     },
     {
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "score": 654,
+      "source": "hn",
+      "date": "2026-07-20T17:13:23+00:00"
+    },
+    {
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
       "score": 649,
@@ -84,11 +91,11 @@
       "date": "2026-07-18T03:14:20+00:00"
     },
     {
-      "title": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "score": 638,
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "score": 632,
       "source": "hn",
-      "date": "2026-07-20T17:13:23+00:00"
+      "date": "2026-07-20T17:07:39+00:00"
     },
     {
       "title": "Hacker wipes Romania's land registry database",
@@ -96,13 +103,6 @@
       "score": 625,
       "source": "hn",
       "date": "2026-07-20T13:28:33+00:00"
-    },
-    {
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "url": "https://jelly-ui.com/",
-      "score": 623,
-      "source": "hn",
-      "date": "2026-07-20T17:07:39+00:00"
     },
     {
       "title": "Claude Code uses Bun written in Rust now",
@@ -117,13 +117,6 @@
       "score": 563,
       "source": "hn",
       "date": "2026-07-18T13:00:52+00:00"
-    },
-    {
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "score": 555,
-      "source": "hn",
-      "date": "2026-07-15T20:24:58+00:00"
     },
     {
       "title": "OnePlus halts operations in USA and Europe",
@@ -152,6 +145,13 @@
       "score": 525,
       "source": "hn",
       "date": "2026-07-19T10:34:58+00:00"
+    },
+    {
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 506,
+      "source": "hn",
+      "date": "2026-07-17T22:26:30+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-15T21:16:36+00:00"
-    },
-    {
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-15T20:24:58+00:00"
     }
   ]
 }
