@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-22T11:14:43.309478+00:00",
+  "generated_at": "2026-07-22T12:06:35.670097+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 358,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 12,
     "high": 3,
     "medium": 5
   },
@@ -16,7 +16,7 @@
     {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "score": 1219,
+      "score": 1269,
       "source": "hn",
       "date": "2026-07-21T20:09:52+00:00"
     },
@@ -51,7 +51,7 @@
     {
       "title": "Advertise in ChatGPT",
       "url": "https://ads.openai.com/",
-      "score": 810,
+      "score": 848,
       "source": "hn",
       "date": "2026-07-21T18:58:44+00:00"
     },
@@ -65,9 +65,16 @@
     {
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 702,
+      "score": 710,
       "source": "hn",
       "date": "2026-07-21T15:17:16+00:00"
+    },
+    {
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "score": 699,
+      "source": "hn",
+      "date": "2026-07-21T22:35:24+00:00"
     },
     {
       "title": "Transcribe.cpp",
@@ -75,13 +82,6 @@
       "score": 699,
       "source": "hn",
       "date": "2026-07-19T00:38:26+00:00"
-    },
-    {
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "url": "https://fireworks.ai/blog/kimik3-fable",
-      "score": 675,
-      "source": "hn",
-      "date": "2026-07-21T22:35:24+00:00"
     },
     {
       "title": "Kimi Work",
@@ -121,7 +121,7 @@
     {
       "title": "FreeInk: Open ecosystem for e-readers",
       "url": "https://freeink.org/",
-      "score": 588,
+      "score": 602,
       "source": "hn",
       "date": "2026-07-21T18:39:06+00:00"
     },
@@ -259,20 +259,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-07-16T22:07:30+00:00"
-    },
-    {
-      "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
-      "url": "https://bamboo.kickstage.com",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-16T15:55:47+00:00"
-    },
-    {
-      "title": "Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
-      "url": "https://blog.simbastack.com/announcing-sentinel/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-16T15:35:13+00:00"
     }
   ]
 }
