@@ -1,9 +1,16 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T15:33:02.050454+00:00",
-  "total_articles": 72,
-  "urgent_count": 2,
+  "generated_at": "2026-07-22T16:31:33.940824+00:00",
+  "total_articles": 79,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling",
+      "url": "https://www.gao.gov/products/gao-26-108687",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-22T15:26:56+00:00"
+    },
     {
       "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
       "url": "https://github.com/chrislgarry/Apollo-11",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 65,
+      "count": 72,
       "top_items": [
         {
           "title": "OpenAI and Hugging Face address security incident during model evaluation",
