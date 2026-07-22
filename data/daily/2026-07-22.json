@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T19:30:45.447666+00:00",
-  "total_articles": 63,
+  "generated_at": "2026-07-22T20:24:50.836423+00:00",
+  "total_articles": 65,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,16 +22,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 54,
       "top_items": [
-        {
-          "title": "OpenAI and Hugging Face address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-          "score": 1445,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-21T20:09:52+00:00"
-        },
         {
           "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
           "url": "https://fireworks.ai/blog/kimik3-fable",
@@ -39,14 +31,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-21T22:35:24+00:00"
-        },
-        {
-          "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-          "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
-          "score": 579,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-21T19:43:59+00:00"
         },
         {
           "title": "OverpAId – Fire your CEO. Hire the future",
@@ -59,17 +43,65 @@
         {
           "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
           "url": "https://bento.page/slides/",
-          "score": 446,
+          "score": 493,
           "source": "hn",
           "severity": null,
           "date": "2026-07-22T15:19:23+00:00"
+        },
+        {
+          "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+          "url": "https://twitter.com/nikitabier/status/2079787406300266743",
+          "score": 344,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-22T14:25:13+00:00"
+        },
+        {
+          "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+          "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "score": 342,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-22T17:30:40+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 11,
       "top_items": [
+        {
+          "title": "社会システムはなぜ誘導されるのか？ ― システム設計で読み解く認知バイアスとフレーミング : システム設計視点の行動経済学 (1)",
+          "url": "https://qiita.com/maskot1977/items/d2798a8cf6840e8709ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-23T00:01:32+09:00"
+        },
+        {
+          "title": "現場でAIを使ったことが無いQAエンジニアがAIを活用する現場に参画してみた結果",
+          "url": "https://qiita.com/tomoya_o/items/8f620b59852246903fce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-22T23:11:30+09:00"
+        },
+        {
+          "title": "個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想",
+          "url": "https://qiita.com/sumomoo/items/700e37b3240717217b37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-22T17:16:40+09:00"
+        },
+        {
+          "title": "先輩の「なぜこうしたの？」に毎回パニックになってたけど、整理するだけで上手に話せるようになった",
+          "url": "https://qiita.com/prumnn/items/0fe99e9afff2c9f79fcd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-22T17:01:40+09:00"
+        },
         {
           "title": "AI を活用した開発に「いちエンジニア」が向き合い、実践している 3 つの仕組み",
           "url": "https://qiita.com/masa-asa/items/343dd140ee519a8d62bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -77,38 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-22T15:38:48+09:00"
-        },
-        {
-          "title": "skills.shのおすすめスキルまとめ",
-          "url": "https://qiita.com/hokutoh/items/575cc42b5dafe8697447?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-22T15:31:24+09:00"
-        },
-        {
-          "title": "【Amazon Connect Customer】より自然で表現力のある音声を提供する「Agentic Voice」がリリースされました！",
-          "url": "https://qiita.com/yosuke-suzuki/items/912583b37b9bba364403?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-22T12:38:16+09:00"
-        },
-        {
-          "title": "10年間パチンコ店で働いた私が、未経験からインフラエンジニアになった話",
-          "url": "https://qiita.com/m_ry/items/8840e5efe93e12d48c8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-22T11:28:26+09:00"
-        },
-        {
-          "title": "LLMコストを最適化する？ AI Routerを実装してみた",
-          "url": "https://qiita.com/bbrfkr/items/03d5a65dd364c0fa5709?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-22T10:09:09+09:00"
         }
       ]
     }
