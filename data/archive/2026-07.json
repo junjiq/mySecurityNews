@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-22T17:30:11.352358+00:00",
+  "generated_at": "2026-07-22T17:57:11.604567+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 360,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "critical": 13,
-    "high": 3,
+    "high": 2,
     "medium": 5
   },
   "top_articles": [
@@ -259,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-16T22:27:22+00:00"
-    },
-    {
-      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
-      "url": "https://hellorecon.com/blog/cve-2026-25089",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-16T22:07:30+00:00"
     }
   ]
 }
