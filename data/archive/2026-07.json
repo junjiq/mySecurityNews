@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-23T22:47:47.799517+00:00",
+  "generated_at": "2026-07-23T23:19:54.086867+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 369,
@@ -10,7 +10,7 @@
   "severity_counts": {
     "critical": 15,
     "high": 2,
-    "medium": 3
+    "medium": 2
   },
   "top_articles": [
     {
@@ -26,13 +26,6 @@
       "score": 1171,
       "source": "hn",
       "date": "2026-07-20T14:21:47+00:00"
-    },
-    {
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "score": 1058,
-      "source": "hn",
-      "date": "2026-07-18T10:21:19+00:00"
     },
     {
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
@@ -72,7 +65,7 @@
     {
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 850,
+      "score": 872,
       "source": "hn",
       "date": "2026-07-23T14:24:43+00:00"
     },
@@ -128,7 +121,7 @@
     {
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 638,
+      "score": 652,
       "source": "hn",
       "date": "2026-07-23T15:18:40+00:00"
     },
@@ -152,6 +145,13 @@
       "score": 625,
       "source": "hn",
       "date": "2026-07-20T13:28:33+00:00"
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "score": 584,
+      "source": "hn",
+      "date": "2026-07-22T17:20:38+00:00"
     }
   ],
   "security_highlights": [
