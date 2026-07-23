@@ -1,14 +1,148 @@
 {
-  "updated_at": "2026-07-23T15:15:24.515298+00:00",
+  "updated_at": "2026-07-23T16:04:35.568660+00:00",
   "count": 500,
   "items": [
     {
+      "id": "hn-49023486",
+      "source": "hn",
+      "title": "Free way to get your data out of ChatGPT Business accounts",
+      "url": "https://github.com/Conradqh/scrapemychats",
+      "score": 8,
+      "comments": 2,
+      "author": "conradqh",
+      "tags": [],
+      "date": "2026-07-23T15:45:51+00:00"
+    },
+    {
+      "id": "hn-49023016",
+      "source": "hn",
+      "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "score": 141,
+      "comments": 126,
+      "author": "theanonymousone",
+      "tags": [],
+      "date": "2026-07-23T15:18:40+00:00"
+    },
+    {
+      "id": "hn-49022838",
+      "source": "hn",
+      "title": "Writing fingerprint analysis of responses reveals Kimi's similarity to Claude",
+      "url": "https://typebulb.com/u/lab/you-re-relatively-right/full",
+      "score": 26,
+      "comments": 32,
+      "author": "maxloh",
+      "tags": [],
+      "date": "2026-07-23T15:05:44+00:00"
+    },
+    {
+      "id": "hn-49022790",
+      "source": "hn",
+      "title": "NerdLens: Mirror your computer with cardboard VR",
+      "url": "https://github.com/ThatXliner/NerdLens",
+      "score": 9,
+      "comments": 2,
+      "author": "thatxliner",
+      "tags": [],
+      "date": "2026-07-23T15:02:27+00:00"
+    },
+    {
+      "id": "hn-49022668",
+      "source": "hn",
+      "title": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699",
+      "score": 13,
+      "comments": 5,
+      "author": "iamnothere",
+      "tags": [],
+      "date": "2026-07-23T14:55:45+00:00"
+    },
+    {
+      "id": "hn-49022663",
+      "source": "hn",
+      "title": "Learn WebGPU for C++",
+      "url": "https://eliemichel.github.io/LearnWebGPU/",
+      "score": 9,
+      "comments": 1,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-07-23T14:55:32+00:00"
+    },
+    {
+      "id": "hn-49022644",
+      "source": "hn",
+      "title": "Vulkan Tutorial",
+      "url": "https://vulkan-tutorial.com/",
+      "score": 15,
+      "comments": 1,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-07-23T14:54:09+00:00"
+    },
+    {
+      "id": "hn-49022634",
+      "source": "hn",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
+      "score": 37,
+      "comments": 5,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-07-23T14:53:34+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49022412",
+      "source": "hn",
+      "title": "How much energy do data centers and artificial intelligence use?",
+      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+      "score": 29,
+      "comments": 7,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-23T14:40:30+00:00"
+    },
+    {
+      "id": "hn-49022371",
+      "source": "hn",
+      "title": "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
+      "url": "https://yamafaktory.github.io/whetuu/",
+      "score": 9,
+      "comments": 2,
+      "author": "yamafaktory",
+      "tags": [],
+      "date": "2026-07-23T14:37:54+00:00"
+    },
+    {
+      "id": "hn-49022302",
+      "source": "hn",
+      "title": "Show HN: macOS menu-bar manager for SSH port forwards",
+      "url": "https://github.com/lx2026/RelayBar",
+      "score": 14,
+      "comments": 1,
+      "author": "linxy97",
+      "tags": [],
+      "date": "2026-07-23T14:32:53+00:00"
+    },
+    {
+      "id": "hn-49022284",
+      "source": "hn",
+      "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
+      "url": "https://github.com/h3nock/remux",
+      "score": 19,
+      "comments": 2,
+      "author": "bitwise42",
+      "tags": [],
+      "date": "2026-07-23T14:31:26+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-49022152",
       "source": "hn",
-      "title": "Writing by Hand is Good for your Brain",
+      "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 46,
-      "comments": 1,
+      "score": 175,
+      "comments": 55,
       "author": "dwwoelfel",
       "tags": [],
       "date": "2026-07-23T14:24:43+00:00"
@@ -18,11 +152,22 @@
       "source": "hn",
       "title": "Software rendering in 500 lines of bare C++",
       "url": "https://haqr.eu/tinyrenderer/",
-      "score": 29,
-      "comments": 5,
+      "score": 71,
+      "comments": 14,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-07-23T14:17:40+00:00"
+    },
+    {
+      "id": "hn-49021868",
+      "source": "hn",
+      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
+      "score": 18,
+      "comments": 1,
+      "author": "r2sk5t",
+      "tags": [],
+      "date": "2026-07-23T14:07:38+00:00"
     },
     {
       "id": "hn-49021856",
@@ -40,11 +185,34 @@
       "source": "hn",
       "title": "Astronomers may have found the first exomoon",
       "url": "https://www.eso.org/public/news/eso2610/",
-      "score": 80,
-      "comments": 36,
+      "score": 102,
+      "comments": 40,
       "author": "MarcoDewey",
       "tags": [],
       "date": "2026-07-23T14:02:24+00:00"
+    },
+    {
+      "id": "hn-49021647",
+      "source": "hn",
+      "title": "Brow6el: A full-featured web browser for the terminal using Chromium",
+      "url": "https://tangled.org/janantos.tngl.sh/brow6el",
+      "score": 15,
+      "comments": 0,
+      "author": "nerdypepper",
+      "tags": [],
+      "date": "2026-07-23T13:55:10+00:00"
+    },
+    {
+      "id": "hn-49021597",
+      "source": "hn",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "score": 28,
+      "comments": 10,
+      "author": "r2sk5t",
+      "tags": [],
+      "date": "2026-07-23T13:51:36+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-49021571",
@@ -56,6 +224,17 @@
       "author": "benwerd",
       "tags": [],
       "date": "2026-07-23T13:49:28+00:00"
+    },
+    {
+      "id": "hn-49021569",
+      "source": "hn",
+      "title": "What happens when the information runs out",
+      "url": "https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/",
+      "score": 14,
+      "comments": 0,
+      "author": "mooreds",
+      "tags": [],
+      "date": "2026-07-23T13:49:17+00:00"
     },
     {
       "id": "hn-49021006",
@@ -73,8 +252,8 @@
       "source": "hn",
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
       "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "score": 183,
-      "comments": 87,
+      "score": 258,
+      "comments": 125,
       "author": "technewssss",
       "tags": [],
       "date": "2026-07-23T13:09:10+00:00"
@@ -139,8 +318,8 @@
       "source": "hn",
       "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
       "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
-      "score": 123,
-      "comments": 86,
+      "score": 134,
+      "comments": 93,
       "author": "Erenay09",
       "tags": [],
       "date": "2026-07-23T05:40:20+00:00"
@@ -1398,8 +1577,8 @@
       "source": "hn",
       "title": "The Unity CLI: manage Unity from your terminal",
       "url": "https://unity.com/blog/meet-the-unity-cli",
-      "score": 52,
-      "comments": 15,
+      "score": 65,
+      "comments": 19,
       "author": "nateb2022",
       "tags": [],
       "date": "2026-07-21T17:51:57+00:00"
@@ -2144,7 +2323,7 @@
       "source": "hn",
       "title": "The Telegarden (1995-2004)",
       "url": "https://goldberg.berkeley.edu/garden/",
-      "score": 15,
+      "score": 18,
       "comments": 2,
       "author": "zetamax",
       "tags": [],
@@ -3594,8 +3773,8 @@
       "source": "hn",
       "title": "OpenStreetMap: Admin_level for All Countries",
       "url": "https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries",
-      "score": 4,
-      "comments": 0,
+      "score": 26,
+      "comments": 1,
       "author": "ivanjermakov",
       "tags": [],
       "date": "2026-07-19T13:19:26+00:00"
@@ -5000,176 +5179,6 @@
       "date": "2026-07-17T21:22:53+00:00"
     },
     {
-      "id": "hn-48952135",
-      "source": "hn",
-      "title": "Open Book Touch: open-source e-reader",
-      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-      "score": 122,
-      "comments": 40,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-17T20:47:57+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-48952067",
-      "source": "hn",
-      "title": "Topcoat: The full full-stack framework for Rust",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "score": 59,
-      "comments": 38,
-      "author": "wertyk",
-      "tags": [],
-      "date": "2026-07-17T20:41:43+00:00"
-    },
-    {
-      "id": "hn-48951898",
-      "source": "hn",
-      "title": "Static search trees: 40x faster than binary search (2024)",
-      "url": "https://curiouscoding.nl/posts/static-search-tree/",
-      "score": 153,
-      "comments": 12,
-      "author": "lalitmaganti",
-      "tags": [],
-      "date": "2026-07-17T20:24:55+00:00"
-    },
-    {
-      "id": "hn-48951780",
-      "source": "hn",
-      "title": "Painting the sides of railroad rails white to reduce derailment",
-      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-      "score": 106,
-      "comments": 62,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-07-17T20:12:59+00:00"
-    },
-    {
-      "id": "hn-48951756",
-      "source": "hn",
-      "title": "Tech note: making your own V-I plots at home",
-      "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
-      "score": 60,
-      "comments": 9,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-07-17T20:10:02+00:00"
-    },
-    {
-      "id": "hn-48951461",
-      "source": "hn",
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "score": 271,
-      "comments": 105,
-      "author": "st_goliath",
-      "tags": [],
-      "date": "2026-07-17T19:41:02+00:00"
-    },
-    {
-      "id": "hn-48951350",
-      "source": "hn",
-      "title": "Meta trying to destroy whistleblower Sarah Wynn-Williams, US senator says",
-      "url": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley",
-      "score": 42,
-      "comments": 2,
-      "author": "barbazoo",
-      "tags": [],
-      "date": "2026-07-17T19:31:33+00:00"
-    },
-    {
-      "id": "hn-48951014",
-      "source": "hn",
-      "title": "ICE Flight Monitor Interactive Dashboard",
-      "url": "https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard",
-      "score": 45,
-      "comments": 14,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-07-17T18:59:28+00:00"
-    },
-    {
-      "id": "hn-48950774",
-      "source": "hn",
-      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-      "url": "https://app.everything.diena.co/",
-      "score": 70,
-      "comments": 30,
-      "author": "lortex",
-      "tags": [],
-      "date": "2026-07-17T18:37:33+00:00"
-    },
-    {
-      "id": "hn-48950667",
-      "source": "hn",
-      "title": "A Year On: The DOGE Disaster",
-      "url": "https://donmoynihan.substack.com/p/a-year-on-the-doge-disaster",
-      "score": 15,
-      "comments": 2,
-      "author": "jamesgill",
-      "tags": [],
-      "date": "2026-07-17T18:31:07+00:00"
-    },
-    {
-      "id": "hn-48950562",
-      "source": "hn",
-      "title": "How we made our LeRobot video reader up to 15× faster",
-      "url": "https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster",
-      "score": 16,
-      "comments": 0,
-      "author": "ykev",
-      "tags": [],
-      "date": "2026-07-17T18:24:29+00:00"
-    },
-    {
-      "id": "hn-48950518",
-      "source": "hn",
-      "title": "Lego building instructions through time",
-      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-      "score": 129,
-      "comments": 32,
-      "author": "NaOH",
-      "tags": [],
-      "date": "2026-07-17T18:21:14+00:00"
-    },
-    {
-      "id": "qiita-89ad4306d5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "3層テスト戦略の設計思想 ── 「どこまでモックするか」",
-      "url": "https://qiita.com/ham-nao/items/b36e80bf9248e1e23707?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ham-nao",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-18T03:08:31+09:00"
-    },
-    {
-      "id": "qiita-a44fc99ca7",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "さくらのAI Engineのモデルに人狼をやらせて比較してみた",
-      "url": "https://qiita.com/shoko3168/items/e8985c8c5a040213ab72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shoko3168",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-18T02:53:44+09:00"
-    },
-    {
-      "id": "hn-48950122",
-      "source": "hn",
-      "title": "Learning a few things about running SQLite",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 295,
-      "comments": 76,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-17T17:45:41+00:00"
-    },
-    {
       "id": "ctf-4167159",
       "source": "project",
       "proj_category": "CTF",
@@ -5202,8 +5211,8 @@
       "source": "hn",
       "title": "Scanning for Pangram Errors",
       "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
-      "score": 40,
-      "comments": 24,
+      "score": 48,
+      "comments": 26,
       "author": "jsnell",
       "tags": [],
       "date": "2026-07-17T09:29:52+00:00"
@@ -5221,17 +5230,6 @@
         "Security"
       ],
       "date": "2026-07-17T09:10:21Z"
-    },
-    {
-      "id": "hn-48928909",
-      "source": "hn",
-      "title": "Test-time training 3D reconstruction",
-      "url": "https://github.com/Inception3D/TTT3R",
-      "score": 22,
-      "comments": 1,
-      "author": "soupspaces",
-      "tags": [],
-      "date": "2026-07-16T00:11:55+00:00"
     },
     {
       "id": "ctf-4141955",

@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-23T15:15:24.600084+00:00",
+  "generated_at": "2026-07-23T16:04:35.685220+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 366,
-    "zennqiita": 84,
+    "hn": 368,
+    "zennqiita": 82,
     "project": 11
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 12,
     "high": 2,
     "medium": 3
   },
@@ -156,6 +156,27 @@
   ],
   "security_highlights": [
     {
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-23T14:53:34+00:00"
+    },
+    {
+      "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
+      "url": "https://github.com/h3nock/remux",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-23T14:31:26+00:00"
+    },
+    {
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-23T13:51:36+00:00"
+    },
+    {
       "title": "Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling",
       "url": "https://www.gao.gov/products/gao-26-108687",
       "severity": "critical",
@@ -231,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-19T08:00:24+00:00"
-    },
-    {
-      "title": "Open Book Touch: open-source e-reader",
-      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-17T20:47:57+00:00"
     }
   ]
 }

@@ -1,21 +1,35 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T15:15:24.568314+00:00",
-  "total_articles": 49,
-  "urgent_count": 1,
+  "generated_at": "2026-07-23T16:04:35.636572+00:00",
+  "total_articles": 57,
+  "urgent_count": 3,
   "urgent_items": [
     {
-      "title": "Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling",
-      "url": "https://www.gao.gov/products/gao-26-108687",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
       "severity": "critical",
       "source": "hn",
-      "date": "2026-07-22T15:26:56+00:00"
+      "date": "2026-07-23T14:53:34+00:00"
+    },
+    {
+      "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
+      "url": "https://github.com/h3nock/remux",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-23T14:31:26+00:00"
+    },
+    {
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-23T13:51:36+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 53,
       "top_items": [
         {
           "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
@@ -24,14 +38,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-22T17:30:40+00:00"
-        },
-        {
-          "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-          "url": "https://bento.page/slides/",
-          "score": 944,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-22T15:19:23+00:00"
         },
         {
           "title": "John C. Dvorak has died",
@@ -56,6 +62,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-22T17:20:38+00:00"
+        },
+        {
+          "title": "Everyone should know SIMD",
+          "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+          "score": 554,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-22T17:48:18+00:00"
         }
       ]
     },
