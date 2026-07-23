@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-23T18:53:29.472837+00:00",
+  "generated_at": "2026-07-23T19:30:50.145914+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 368,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "high": 2,
     "medium": 3
   },
@@ -147,11 +147,11 @@
       "date": "2026-07-20T13:28:33+00:00"
     },
     {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 584,
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "score": 606,
       "source": "hn",
-      "date": "2026-07-22T17:20:38+00:00"
+      "date": "2026-07-23T14:24:43+00:00"
     }
   ],
   "security_highlights": [
@@ -196,6 +196,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-22T15:26:56+00:00"
+    },
+    {
+      "title": "Show HN: Trifle – Open-source analytics that stores answers, not events",
+      "url": "https://trifle.io/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-22T14:39:10+00:00"
     },
     {
       "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
