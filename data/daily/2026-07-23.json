@@ -1,9 +1,16 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T16:04:35.636572+00:00",
-  "total_articles": 57,
-  "urgent_count": 3,
+  "generated_at": "2026-07-23T16:59:46.542340+00:00",
+  "total_articles": 60,
+  "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "Show HN: Palmier Pro – open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-23T15:11:37+00:00"
+    },
     {
       "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
       "url": "https://learnopengl.com/",
@@ -29,7 +36,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 56,
       "top_items": [
         {
           "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
