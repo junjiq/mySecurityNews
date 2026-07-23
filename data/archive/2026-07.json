@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-23T07:22:11.584364+00:00",
+  "generated_at": "2026-07-23T08:17:42.736091+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 371,
-    "zennqiita": 79,
+    "hn": 364,
+    "zennqiita": 86,
     "project": 11
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 11,
     "high": 2,
     "medium": 3
   },
@@ -56,6 +56,13 @@
       "date": "2026-07-19T08:44:57+00:00"
     },
     {
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "score": 831,
+      "source": "hn",
+      "date": "2026-07-22T17:30:40+00:00"
+    },
+    {
       "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
       "url": "https://fireworks.ai/blog/kimik3-fable",
       "score": 802,
@@ -63,16 +70,9 @@
       "date": "2026-07-21T22:35:24+00:00"
     },
     {
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 799,
-      "source": "hn",
-      "date": "2026-07-22T17:30:40+00:00"
-    },
-    {
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
       "url": "https://bento.page/slides/",
-      "score": 777,
+      "score": 798,
       "source": "hn",
       "date": "2026-07-22T15:19:23+00:00"
     },
@@ -93,7 +93,7 @@
     {
       "title": "John C. Dvorak has died",
       "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "score": 704,
+      "score": 724,
       "source": "hn",
       "date": "2026-07-22T19:22:19+00:00"
     },
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-17T14:31:10+00:00"
-    },
-    {
-      "title": "PennyLane is an open-source quantum software platform for quantum",
-      "url": "https://github.com/PennyLaneAI/pennylane",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-17T13:30:47+00:00"
     }
   ]
 }
