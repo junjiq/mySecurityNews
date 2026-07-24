@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-07-24T17:32:08.498701+00:00",
+  "updated_at": "2026-07-24T18:31:18.873272+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49039490",
+      "source": "hn",
+      "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+      "url": "https://blog.cloudflare.com/bgp-origin-attribute/",
+      "score": 5,
+      "comments": 0,
+      "author": "sbulaev",
+      "tags": [],
+      "date": "2026-07-24T18:07:08+00:00"
+    },
+    {
+      "id": "hn-49039448",
+      "source": "hn",
+      "title": "I got into YC by hacking it",
+      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+      "score": 7,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-24T18:03:22+00:00"
+    },
+    {
+      "id": "hn-49039395",
+      "source": "hn",
+      "title": "Gsxui – Shadcn-style components for Go",
+      "url": "https://ui.gsxhq.dev/",
+      "score": 5,
+      "comments": 0,
+      "author": "jackielii",
+      "tags": [],
+      "date": "2026-07-24T17:59:08+00:00"
+    },
+    {
+      "id": "hn-49038481",
+      "source": "hn",
+      "title": "DuckPGQ – A DuckDB community extension for graph workloads",
+      "url": "https://duckpgq.org/",
+      "score": 13,
+      "comments": 0,
+      "author": "rzk",
+      "tags": [],
+      "date": "2026-07-24T17:00:23+00:00"
+    },
     {
       "id": "hn-49038433",
       "source": "hn",
       "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/claude-opus-5-system-card",
-      "score": 276,
-      "comments": 142,
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "score": 573,
+      "comments": 315,
       "author": "alvis",
       "tags": [],
       "date": "2026-07-24T16:57:41+00:00"
@@ -27,20 +71,31 @@
     {
       "id": "hn-49038352",
       "source": "hn",
-      "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+      "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
       "url": "https://openjdk.org/jeps/541",
-      "score": 49,
-      "comments": 25,
+      "score": 76,
+      "comments": 72,
       "author": "pmg1991",
       "tags": [],
       "date": "2026-07-24T16:52:33+00:00"
+    },
+    {
+      "id": "hn-49038298",
+      "source": "hn",
+      "title": "Don't Take the Black Pill [video]",
+      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+      "score": 11,
+      "comments": 5,
+      "author": "signa11",
+      "tags": [],
+      "date": "2026-07-24T16:48:57+00:00"
     },
     {
       "id": "hn-49038276",
       "source": "hn",
       "title": "Online Historical Encyclopaedia of Programming Languages",
       "url": "https://hopl.info/",
-      "score": 10,
+      "score": 14,
       "comments": 1,
       "author": "gregsadetsky",
       "tags": [],
@@ -51,8 +106,8 @@
       "source": "hn",
       "title": "Apple won't let me show my app",
       "url": "https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/",
-      "score": 14,
-      "comments": 13,
+      "score": 31,
+      "comments": 24,
       "author": "codersfocus",
       "tags": [],
       "date": "2026-07-24T16:41:16+00:00"
@@ -62,8 +117,8 @@
       "source": "hn",
       "title": "The rise and fall of language diversity through the Holocene",
       "url": "https://www.science.org/doi/10.1126/science.adx4343",
-      "score": 14,
-      "comments": 1,
+      "score": 31,
+      "comments": 2,
       "author": "delichon",
       "tags": [],
       "date": "2026-07-24T16:40:49+00:00"
@@ -73,8 +128,8 @@
       "source": "hn",
       "title": "Be skeptical of OpenAI's rogue hacker agent story",
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 65,
-      "comments": 20,
+      "score": 160,
+      "comments": 59,
       "author": "rwmj",
       "tags": [],
       "date": "2026-07-24T16:33:31+00:00"
@@ -84,8 +139,8 @@
       "source": "hn",
       "title": "Proving a Human Wrote Something",
       "url": "https://gjtorikian.online/posts/proving-a-human-wrote-something/",
-      "score": 9,
-      "comments": 12,
+      "score": 32,
+      "comments": 28,
       "author": "gjtorikian",
       "tags": [],
       "date": "2026-07-24T16:33:26+00:00"
@@ -95,8 +150,8 @@
       "source": "hn",
       "title": "Unitree As2-W",
       "url": "https://www.unitree.com/As2-W/",
-      "score": 17,
-      "comments": 6,
+      "score": 31,
+      "comments": 9,
       "author": "MehrdadKhnzd",
       "tags": [],
       "date": "2026-07-24T16:32:52+00:00"
@@ -117,8 +172,8 @@
       "source": "hn",
       "title": "The front end framework for correctness: built on Effect, architected like Elm",
       "url": "https://foldkit.dev/",
-      "score": 42,
-      "comments": 20,
+      "score": 50,
+      "comments": 24,
       "author": "plucafs",
       "tags": [],
       "date": "2026-07-24T15:24:00+00:00"
@@ -139,8 +194,8 @@
       "source": "hn",
       "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
       "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-      "score": 206,
-      "comments": 118,
+      "score": 252,
+      "comments": 152,
       "author": "rootkea",
       "tags": [],
       "date": "2026-07-24T14:41:59+00:00"
@@ -289,6 +344,17 @@
       "date": "2026-07-24T13:33:12+00:00"
     },
     {
+      "id": "hn-49035303",
+      "source": "hn",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "score": 62,
+      "comments": 80,
+      "author": "louiereederson",
+      "tags": [],
+      "date": "2026-07-24T13:32:30+00:00"
+    },
+    {
       "id": "hn-49035080",
       "source": "hn",
       "title": "How the God of Israel Was Born",
@@ -326,8 +392,8 @@
       "source": "hn",
       "title": "Half-Life 2 running natively on HaikuOS",
       "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "score": 143,
-      "comments": 16,
+      "score": 174,
+      "comments": 25,
       "author": "m0do1",
       "tags": [],
       "date": "2026-07-24T12:53:59+00:00"
@@ -335,10 +401,10 @@
     {
       "id": "hn-49034747",
       "source": "hn",
-      "title": "Em dashes are fucking amazing",
+      "title": "Em dashes are amazing",
       "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-      "score": 247,
-      "comments": 218,
+      "score": 270,
+      "comments": 239,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-24T12:40:27+00:00"
@@ -381,8 +447,8 @@
       "source": "hn",
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 344,
-      "comments": 130,
+      "score": 380,
+      "comments": 141,
       "author": "hhh",
       "tags": [],
       "date": "2026-07-24T11:54:41+00:00"
@@ -480,7 +546,7 @@
       "source": "hn",
       "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
       "url": "https://bfl.ai/blog/flux-3-mimic",
-      "score": 276,
+      "score": 280,
       "comments": 45,
       "author": "kensai",
       "tags": [],
@@ -557,8 +623,8 @@
       "source": "hn",
       "title": "It's getting harder to focus every day",
       "url": "https://glyphack.com/attention/",
-      "score": 555,
-      "comments": 311,
+      "score": 586,
+      "comments": 331,
       "author": "peykar",
       "tags": [],
       "date": "2026-07-24T08:18:30+00:00"
@@ -603,8 +669,8 @@
       "source": "hn",
       "title": "Flux 3",
       "url": "https://bfl.ai/blog/flux-3",
-      "score": 510,
-      "comments": 121,
+      "score": 516,
+      "comments": 124,
       "author": "ThouYS",
       "tags": [],
       "date": "2026-07-24T06:17:08+00:00"
@@ -2128,8 +2194,8 @@
       "source": "hn",
       "title": "Making Xen's dom0 I/O path NUMA aware",
       "url": "https://edera.dev/stories/numa-part-4-closing-the-xen-dom0-i-o-gap",
-      "score": 15,
-      "comments": 0,
+      "score": 19,
+      "comments": 4,
       "author": "virtio_vixen",
       "tags": [],
       "date": "2026-07-22T10:35:43+00:00"
@@ -2499,6 +2565,17 @@
       "author": "greatgib",
       "tags": [],
       "date": "2026-07-21T21:27:54+00:00"
+    },
+    {
+      "id": "hn-48998589",
+      "source": "hn",
+      "title": "Extending Polars with Rust Expression Plugins",
+      "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
+      "score": 12,
+      "comments": 0,
+      "author": "cpard",
+      "tags": [],
+      "date": "2026-07-21T21:26:32+00:00"
     },
     {
       "id": "hn-48998404",
@@ -4510,8 +4587,8 @@
       "source": "hn",
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 301,
-      "comments": 78,
+      "score": 338,
+      "comments": 87,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-07-20T02:43:54+00:00"
@@ -5084,87 +5161,6 @@
       "author": "backlit4034",
       "tags": [],
       "date": "2026-07-19T13:30:01+00:00"
-    },
-    {
-      "id": "hn-48968063",
-      "source": "hn",
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "score": 171,
-      "comments": 131,
-      "author": "teleforce",
-      "tags": [],
-      "date": "2026-07-19T13:29:29+00:00"
-    },
-    {
-      "id": "hn-48968010",
-      "source": "hn",
-      "title": "OpenStreetMap: Admin_level for All Countries",
-      "url": "https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries",
-      "score": 69,
-      "comments": 9,
-      "author": "ivanjermakov",
-      "tags": [],
-      "date": "2026-07-19T13:19:26+00:00"
-    },
-    {
-      "id": "hn-48967506",
-      "source": "hn",
-      "title": "MemoryPack: Zero encoding extreme performance binary serializer for C#",
-      "url": "https://github.com/Cysharp/MemoryPack",
-      "score": 13,
-      "comments": 3,
-      "author": "breve",
-      "tags": [],
-      "date": "2026-07-19T12:20:56+00:00"
-    },
-    {
-      "id": "hn-48967355",
-      "source": "hn",
-      "title": "I burned all my tokens researching how to save tokens",
-      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
-      "score": 142,
-      "comments": 190,
-      "author": "bkotrys",
-      "tags": [],
-      "date": "2026-07-19T12:01:53+00:00"
-    },
-    {
-      "id": "qiita-cd279dc636",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "cpu-moeで満足するな:Qwen 35Bをさらに速くする3フラグを実測",
-      "url": "https://qiita.com/kenimo49/items/17f2160d71f71c98bf44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kenimo49",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-19T20:57:32+09:00"
-    },
-    {
-      "id": "hn-48967256",
-      "source": "hn",
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 333,
-      "comments": 217,
-      "author": "ObviouslyFlamer",
-      "tags": [],
-      "date": "2026-07-19T11:48:18+00:00"
-    },
-    {
-      "id": "qiita-a60755ddd4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "閉域構成のOracleDB運用支援LLMを作り、RAGでハルシネーションがどこまで減るか18問で実測してみた",
-      "url": "https://qiita.com/asahide/items/2549dbde8e76ae86db8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "asahide",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-19T20:31:39+09:00"
     },
     {
       "id": "ctf-4178473",

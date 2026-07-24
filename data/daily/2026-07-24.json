@@ -1,26 +1,34 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T17:32:08.559112+00:00",
+  "generated_at": "2026-07-24T18:31:18.935024+00:00",
   "total_articles": 79,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 70,
+      "count": 71,
       "top_items": [
         {
           "title": "It's getting harder to focus every day",
           "url": "https://glyphack.com/attention/",
-          "score": 555,
+          "score": 586,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T08:18:30+00:00"
         },
         {
+          "title": "Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "score": 573,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-24T16:57:41+00:00"
+        },
+        {
           "title": "Flux 3",
           "url": "https://bfl.ai/blog/flux-3",
-          "score": 510,
+          "score": 516,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T06:17:08+00:00"
@@ -36,24 +44,16 @@
         {
           "title": "My security camera shipped a GitHub admin token in its login page",
           "url": "https://hhh.hn/hanwha-github-token/",
-          "score": 344,
+          "score": 380,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T11:54:41+00:00"
-        },
-        {
-          "title": "Claude Opus 5",
-          "url": "https://www.anthropic.com/claude-opus-5-system-card",
-          "score": 276,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-24T16:57:41+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "狩野英孝さんのポストは、なぜ1992年へ飛んだのか？整数オーバーフローが起こす時刻バグ",
