@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T15:30:54.184863+00:00",
-  "total_articles": 70,
+  "generated_at": "2026-07-24T16:33:22.604671+00:00",
+  "total_articles": 72,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,8 +15,24 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 61,
+      "count": 63,
       "top_items": [
+        {
+          "title": "It's getting harder to focus every day",
+          "url": "https://glyphack.com/attention/",
+          "score": 499,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-24T08:18:30+00:00"
+        },
+        {
+          "title": "Flux 3",
+          "url": "https://bfl.ai/blog/flux-3",
+          "score": 495,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-24T06:17:08+00:00"
+        },
         {
           "title": "98.css",
           "url": "https://jdan.github.io/98.css/#status-bar",
@@ -24,22 +40,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-23T22:30:29+00:00"
-        },
-        {
-          "title": "Flux 3",
-          "url": "https://bfl.ai/blog/flux-3",
-          "score": 469,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-24T06:17:08+00:00"
-        },
-        {
-          "title": "It's getting harder to focus every day",
-          "url": "https://glyphack.com/attention/",
-          "score": 437,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-24T08:18:30+00:00"
         },
         {
           "title": "What happened to TheNumbers.com",
@@ -50,12 +50,12 @@
           "date": "2026-07-23T16:53:33+00:00"
         },
         {
-          "title": "The arguments against open source AI are bad",
-          "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-          "score": 261,
+          "title": "My security camera shipped a GitHub admin token in its login page",
+          "url": "https://hhh.hn/hanwha-github-token/",
+          "score": 284,
           "source": "hn",
-          "severity": "critical",
-          "date": "2026-07-23T16:49:57+00:00"
+          "severity": null,
+          "date": "2026-07-24T11:54:41+00:00"
         }
       ]
     },
