@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-24T18:31:18.873272+00:00",
+  "updated_at": "2026-07-24T19:30:53.018900+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49040296",
+      "source": "hn",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "score": 22,
+      "comments": 1,
+      "author": "KraftyOne",
+      "tags": [],
+      "date": "2026-07-24T19:05:53+00:00"
+    },
     {
       "id": "hn-49039490",
       "source": "hn",
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "I got into YC by hacking it",
       "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-      "score": 7,
-      "comments": 0,
+      "score": 59,
+      "comments": 30,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-24T18:03:22+00:00"
@@ -29,19 +40,30 @@
       "source": "hn",
       "title": "Gsxui – Shadcn-style components for Go",
       "url": "https://ui.gsxhq.dev/",
-      "score": 5,
+      "score": 14,
       "comments": 0,
       "author": "jackielii",
       "tags": [],
       "date": "2026-07-24T17:59:08+00:00"
     },
     {
+      "id": "hn-49038977",
+      "source": "hn",
+      "title": "The small, real, original web",
+      "url": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
+      "score": 14,
+      "comments": 0,
+      "author": "speckx",
+      "tags": [],
+      "date": "2026-07-24T17:28:59+00:00"
+    },
+    {
       "id": "hn-49038481",
       "source": "hn",
       "title": "DuckPGQ – A DuckDB community extension for graph workloads",
       "url": "https://duckpgq.org/",
-      "score": 13,
-      "comments": 0,
+      "score": 25,
+      "comments": 4,
       "author": "rzk",
       "tags": [],
       "date": "2026-07-24T17:00:23+00:00"
@@ -51,8 +73,8 @@
       "source": "hn",
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 573,
-      "comments": 315,
+      "score": 754,
+      "comments": 424,
       "author": "alvis",
       "tags": [],
       "date": "2026-07-24T16:57:41+00:00"
@@ -73,8 +95,8 @@
       "source": "hn",
       "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
       "url": "https://openjdk.org/jeps/541",
-      "score": 76,
-      "comments": 72,
+      "score": 85,
+      "comments": 80,
       "author": "pmg1991",
       "tags": [],
       "date": "2026-07-24T16:52:33+00:00"
@@ -84,8 +106,8 @@
       "source": "hn",
       "title": "Don't Take the Black Pill [video]",
       "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-      "score": 11,
-      "comments": 5,
+      "score": 27,
+      "comments": 10,
       "author": "signa11",
       "tags": [],
       "date": "2026-07-24T16:48:57+00:00"
@@ -117,7 +139,7 @@
       "source": "hn",
       "title": "The rise and fall of language diversity through the Holocene",
       "url": "https://www.science.org/doi/10.1126/science.adx4343",
-      "score": 31,
+      "score": 39,
       "comments": 2,
       "author": "delichon",
       "tags": [],
@@ -128,8 +150,8 @@
       "source": "hn",
       "title": "Be skeptical of OpenAI's rogue hacker agent story",
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 160,
-      "comments": 59,
+      "score": 239,
+      "comments": 98,
       "author": "rwmj",
       "tags": [],
       "date": "2026-07-24T16:33:31+00:00"
@@ -150,8 +172,8 @@
       "source": "hn",
       "title": "Unitree As2-W",
       "url": "https://www.unitree.com/As2-W/",
-      "score": 31,
-      "comments": 9,
+      "score": 43,
+      "comments": 16,
       "author": "MehrdadKhnzd",
       "tags": [],
       "date": "2026-07-24T16:32:52+00:00"
@@ -172,8 +194,8 @@
       "source": "hn",
       "title": "The front end framework for correctness: built on Effect, architected like Elm",
       "url": "https://foldkit.dev/",
-      "score": 50,
-      "comments": 24,
+      "score": 55,
+      "comments": 29,
       "author": "plucafs",
       "tags": [],
       "date": "2026-07-24T15:24:00+00:00"
@@ -348,8 +370,8 @@
       "source": "hn",
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
       "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "score": 62,
-      "comments": 80,
+      "score": 184,
+      "comments": 124,
       "author": "louiereederson",
       "tags": [],
       "date": "2026-07-24T13:32:30+00:00"
@@ -392,8 +414,8 @@
       "source": "hn",
       "title": "Half-Life 2 running natively on HaikuOS",
       "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "score": 174,
-      "comments": 25,
+      "score": 198,
+      "comments": 29,
       "author": "m0do1",
       "tags": [],
       "date": "2026-07-24T12:53:59+00:00"
@@ -403,8 +425,8 @@
       "source": "hn",
       "title": "Em dashes are amazing",
       "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-      "score": 270,
-      "comments": 239,
+      "score": 289,
+      "comments": 254,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-24T12:40:27+00:00"
@@ -447,8 +469,8 @@
       "source": "hn",
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 380,
-      "comments": 141,
+      "score": 402,
+      "comments": 150,
       "author": "hhh",
       "tags": [],
       "date": "2026-07-24T11:54:41+00:00"
@@ -546,8 +568,8 @@
       "source": "hn",
       "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
       "url": "https://bfl.ai/blog/flux-3-mimic",
-      "score": 280,
-      "comments": 45,
+      "score": 288,
+      "comments": 47,
       "author": "kensai",
       "tags": [],
       "date": "2026-07-24T09:31:48+00:00"
@@ -623,11 +645,22 @@
       "source": "hn",
       "title": "It's getting harder to focus every day",
       "url": "https://glyphack.com/attention/",
-      "score": 586,
-      "comments": 331,
+      "score": 620,
+      "comments": 349,
       "author": "peykar",
       "tags": [],
       "date": "2026-07-24T08:18:30+00:00"
+    },
+    {
+      "id": "hn-49032126",
+      "source": "hn",
+      "title": "The hardest way to make a GIF",
+      "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+      "score": 24,
+      "comments": 5,
+      "author": "plaguna",
+      "tags": [],
+      "date": "2026-07-24T07:05:58+00:00"
     },
     {
       "id": "hn-49032095",
@@ -669,8 +702,8 @@
       "source": "hn",
       "title": "Flux 3",
       "url": "https://bfl.ai/blog/flux-3",
-      "score": 516,
-      "comments": 124,
+      "score": 528,
+      "comments": 125,
       "author": "ThouYS",
       "tags": [],
       "date": "2026-07-24T06:17:08+00:00"
@@ -875,6 +908,17 @@
       "author": "kellyluu",
       "tags": [],
       "date": "2026-07-23T20:15:31+00:00"
+    },
+    {
+      "id": "hn-49026933",
+      "source": "hn",
+      "title": "Fil-C: Garbage In, Memory Safety Out [video]",
+      "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+      "score": 25,
+      "comments": 15,
+      "author": "Bootvis",
+      "tags": [],
+      "date": "2026-07-23T19:37:37+00:00"
     },
     {
       "id": "hn-49026482",
@@ -1333,6 +1377,17 @@
       "author": "yogthos",
       "tags": [],
       "date": "2026-07-23T13:00:03+00:00"
+    },
+    {
+      "id": "hn-49020751",
+      "source": "hn",
+      "title": "Self-host your mail server",
+      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+      "score": 38,
+      "comments": 26,
+      "author": "geek_at",
+      "tags": [],
+      "date": "2026-07-23T12:49:10+00:00"
     },
     {
       "id": "hn-49020335",
@@ -2571,7 +2626,7 @@
       "source": "hn",
       "title": "Extending Polars with Rust Expression Plugins",
       "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
-      "score": 12,
+      "score": 22,
       "comments": 0,
       "author": "cpard",
       "tags": [],
@@ -4385,6 +4440,17 @@
       "date": "2026-07-20T11:05:58+00:00"
     },
     {
+      "id": "hn-48977014",
+      "source": "hn",
+      "title": "Reporting Web 3D Capabilities on a Budget of $3 a Month",
+      "url": "https://ben3d.ca/blog/reporting-web-3d-capabilities-on-a-budget",
+      "score": 7,
+      "comments": 0,
+      "author": "bhouston",
+      "tags": [],
+      "date": "2026-07-20T10:53:59+00:00"
+    },
+    {
       "id": "hn-48976846",
       "source": "hn",
       "title": "Airport Simulator",
@@ -4587,8 +4653,8 @@
       "source": "hn",
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 338,
-      "comments": 87,
+      "score": 357,
+      "comments": 102,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-07-20T02:43:54+00:00"
@@ -5093,74 +5159,6 @@
         "Security"
       ],
       "date": "2026-07-19T14:31:38Z"
-    },
-    {
-      "id": "hn-48968515",
-      "source": "hn",
-      "title": "Terence McKenna's Mega Bad Trip",
-      "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
-      "score": 41,
-      "comments": 31,
-      "author": "Dimmiwoah",
-      "tags": [],
-      "date": "2026-07-19T14:30:31+00:00"
-    },
-    {
-      "id": "hn-48968474",
-      "source": "hn",
-      "title": "Postmortem of a British Startup: Tract",
-      "url": "https://buildwithtract.com/",
-      "score": 10,
-      "comments": 13,
-      "author": "barry-cotter",
-      "tags": [],
-      "date": "2026-07-19T14:25:38+00:00"
-    },
-    {
-      "id": "qiita-f25fcb9ef6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "E2Eテストを保守できる形にするPage Object Model",
-      "url": "https://qiita.com/ryucciarati/items/27cfabcf398c5e40d785?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ryucciarati",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-19T23:18:19+09:00"
-    },
-    {
-      "id": "hn-48968408",
-      "source": "hn",
-      "title": "Show HN: Explore 6048 YC companies as an interactive galaxy",
-      "url": "https://artifacta.io/a/pg_x9pombpdybx90q2s16eu",
-      "score": 27,
-      "comments": 8,
-      "author": "jnakano89",
-      "tags": [],
-      "date": "2026-07-19T14:15:49+00:00"
-    },
-    {
-      "id": "hn-48968348",
-      "source": "hn",
-      "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
-      "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
-      "score": 39,
-      "comments": 14,
-      "author": "sbulaev",
-      "tags": [],
-      "date": "2026-07-19T14:07:07+00:00"
-    },
-    {
-      "id": "hn-48968067",
-      "source": "hn",
-      "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
-      "url": "https://www.cortex.io/drive",
-      "score": 12,
-      "comments": 6,
-      "author": "backlit4034",
-      "tags": [],
-      "date": "2026-07-19T13:30:01+00:00"
     },
     {
       "id": "ctf-4178473",
