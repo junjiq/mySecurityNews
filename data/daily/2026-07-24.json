@@ -1,8 +1,8 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T14:35:12.385694+00:00",
-  "total_articles": 75,
-  "urgent_count": 3,
+  "generated_at": "2026-07-24T15:30:54.184863+00:00",
+  "total_articles": 70,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "The arguments against open source AI are bad",
@@ -10,35 +10,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-23T16:49:57+00:00"
-    },
-    {
-      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-23T15:11:37+00:00"
-    },
-    {
-      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "url": "https://learnopengl.com/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-23T14:53:34+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 66,
+      "count": 61,
       "top_items": [
-        {
-          "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-          "score": 987,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-23T15:18:40+00:00"
-        },
         {
           "title": "98.css",
           "url": "https://jdan.github.io/98.css/#status-bar",
@@ -50,10 +28,18 @@
         {
           "title": "Flux 3",
           "url": "https://bfl.ai/blog/flux-3",
-          "score": 444,
+          "score": 469,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T06:17:08+00:00"
+        },
+        {
+          "title": "It's getting harder to focus every day",
+          "url": "https://glyphack.com/attention/",
+          "score": 437,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-24T08:18:30+00:00"
         },
         {
           "title": "What happened to TheNumbers.com",
@@ -64,12 +50,12 @@
           "date": "2026-07-23T16:53:33+00:00"
         },
         {
-          "title": "It's getting harder to focus every day",
-          "url": "https://glyphack.com/attention/",
-          "score": 367,
+          "title": "The arguments against open source AI are bad",
+          "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+          "score": 261,
           "source": "hn",
-          "severity": null,
-          "date": "2026-07-24T08:18:30+00:00"
+          "severity": "critical",
+          "date": "2026-07-23T16:49:57+00:00"
         }
       ]
     },
