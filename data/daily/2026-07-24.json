@@ -1,18 +1,18 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T19:30:53.078821+00:00",
-  "total_articles": 82,
+  "generated_at": "2026-07-24T20:30:38.763251+00:00",
+  "total_articles": 84,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 74,
+      "count": 72,
       "top_items": [
         {
           "title": "Claude Opus 5",
           "url": "https://www.anthropic.com/news/claude-opus-5",
-          "score": 754,
+          "score": 910,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T16:57:41+00:00"
@@ -20,7 +20,7 @@
         {
           "title": "It's getting harder to focus every day",
           "url": "https://glyphack.com/attention/",
-          "score": 620,
+          "score": 648,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T08:18:30+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Flux 3",
           "url": "https://bfl.ai/blog/flux-3",
-          "score": 528,
+          "score": 537,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T06:17:08+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "My security camera shipped a GitHub admin token in its login page",
           "url": "https://hhh.hn/hanwha-github-token/",
-          "score": 402,
+          "score": 422,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T11:54:41+00:00"
@@ -53,8 +53,40 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 12,
       "top_items": [
+        {
+          "title": "防衛者のジレンマが映し出す国家の弱点 ― 財源ではなく供給能力を守るシステム設計 : システム設計視点の行動経済学 (3)",
+          "url": "https://qiita.com/maskot1977/items/bd993b8b6ce6937c3a76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-25T00:15:50+09:00"
+        },
+        {
+          "title": "AI-DLC V2を導入し、その構成要素を組織に最適化させる",
+          "url": "https://qiita.com/Syoitu/items/a784d74541fac33f6814?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-24T19:14:47+09:00"
+        },
+        {
+          "title": "AI時代のポートフォリオ、転職で本当に見られているのは「言語化力」",
+          "url": "https://qiita.com/sumomoo/items/d8c22cb512d9ba036154?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-24T17:14:32+09:00"
+        },
+        {
+          "title": "ITパスポートと基本情報の違いは？どちらを勉強すべき？",
+          "url": "https://qiita.com/prumnn/items/b5b8a10713e2a96a2861?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-24T17:11:36+09:00"
+        },
         {
           "title": "狩野英孝さんのポストは、なぜ1992年へ飛んだのか？整数オーバーフローが起こす時刻バグ",
           "url": "https://qiita.com/miruky/items/4be4d7e683632ba8c396?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -62,38 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-24T15:41:29+09:00"
-        },
-        {
-          "title": "AI時代、デザインはこれからどうなるのだろうか 〜エンジニア視点で考える〜",
-          "url": "https://qiita.com/kimuchi_a/items/d0cc21f56660cbad5457?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-24T12:27:32+09:00"
-        },
-        {
-          "title": "TROCCOの開発・運用を楽にする？Chromeの「Geminiに相談」を試してみた",
-          "url": "https://qiita.com/suginohara/items/238188d1f18152748e83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-24T12:13:04+09:00"
-        },
-        {
-          "title": "go.sumって何のためにあんの？",
-          "url": "https://qiita.com/kanzawa_kentaro/items/3a2b7cba67f4d8e0a7c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-24T11:08:48+09:00"
-        },
-        {
-          "title": "IBM Bob Premium Package for i のライセンス適用",
-          "url": "https://qiita.com/sugata/items/31b62ccf520a08f49077?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-24T10:30:00+09:00"
         }
       ]
     }

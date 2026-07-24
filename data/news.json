@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:30:53.018900+00:00",
+  "updated_at": "2026-07-24T20:30:38.700684+00:00",
   "count": 500,
   "items": [
     {
@@ -7,8 +7,8 @@
       "source": "hn",
       "title": "Postgres LISTEN/NOTIFY actually scales",
       "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "score": 22,
-      "comments": 1,
+      "score": 72,
+      "comments": 10,
       "author": "KraftyOne",
       "tags": [],
       "date": "2026-07-24T19:05:53+00:00"
@@ -18,8 +18,8 @@
       "source": "hn",
       "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
       "url": "https://blog.cloudflare.com/bgp-origin-attribute/",
-      "score": 5,
-      "comments": 0,
+      "score": 19,
+      "comments": 3,
       "author": "sbulaev",
       "tags": [],
       "date": "2026-07-24T18:07:08+00:00"
@@ -27,10 +27,10 @@
     {
       "id": "hn-49039448",
       "source": "hn",
-      "title": "I got into YC by hacking it",
+      "title": "I got into YC (Startup School) by hacking it",
       "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-      "score": 59,
-      "comments": 30,
+      "score": 71,
+      "comments": 39,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-24T18:03:22+00:00"
@@ -40,7 +40,7 @@
       "source": "hn",
       "title": "Gsxui – Shadcn-style components for Go",
       "url": "https://ui.gsxhq.dev/",
-      "score": 14,
+      "score": 30,
       "comments": 0,
       "author": "jackielii",
       "tags": [],
@@ -51,8 +51,8 @@
       "source": "hn",
       "title": "The small, real, original web",
       "url": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
-      "score": 14,
-      "comments": 0,
+      "score": 28,
+      "comments": 6,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-24T17:28:59+00:00"
@@ -62,8 +62,8 @@
       "source": "hn",
       "title": "DuckPGQ – A DuckDB community extension for graph workloads",
       "url": "https://duckpgq.org/",
-      "score": 25,
-      "comments": 4,
+      "score": 31,
+      "comments": 5,
       "author": "rzk",
       "tags": [],
       "date": "2026-07-24T17:00:23+00:00"
@@ -73,8 +73,8 @@
       "source": "hn",
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 754,
-      "comments": 424,
+      "score": 910,
+      "comments": 498,
       "author": "alvis",
       "tags": [],
       "date": "2026-07-24T16:57:41+00:00"
@@ -106,8 +106,8 @@
       "source": "hn",
       "title": "Don't Take the Black Pill [video]",
       "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-      "score": 27,
-      "comments": 10,
+      "score": 55,
+      "comments": 20,
       "author": "signa11",
       "tags": [],
       "date": "2026-07-24T16:48:57+00:00"
@@ -139,8 +139,8 @@
       "source": "hn",
       "title": "The rise and fall of language diversity through the Holocene",
       "url": "https://www.science.org/doi/10.1126/science.adx4343",
-      "score": 39,
-      "comments": 2,
+      "score": 47,
+      "comments": 7,
       "author": "delichon",
       "tags": [],
       "date": "2026-07-24T16:40:49+00:00"
@@ -150,8 +150,8 @@
       "source": "hn",
       "title": "Be skeptical of OpenAI's rogue hacker agent story",
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 239,
-      "comments": 98,
+      "score": 291,
+      "comments": 138,
       "author": "rwmj",
       "tags": [],
       "date": "2026-07-24T16:33:31+00:00"
@@ -172,8 +172,8 @@
       "source": "hn",
       "title": "Unitree As2-W",
       "url": "https://www.unitree.com/As2-W/",
-      "score": 43,
-      "comments": 16,
+      "score": 56,
+      "comments": 26,
       "author": "MehrdadKhnzd",
       "tags": [],
       "date": "2026-07-24T16:32:52+00:00"
@@ -194,11 +194,24 @@
       "source": "hn",
       "title": "The front end framework for correctness: built on Effect, architected like Elm",
       "url": "https://foldkit.dev/",
-      "score": 55,
-      "comments": 29,
+      "score": 65,
+      "comments": 33,
       "author": "plucafs",
       "tags": [],
       "date": "2026-07-24T15:24:00+00:00"
+    },
+    {
+      "id": "qiita-6f78ece905",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "防衛者のジレンマが映し出す国家の弱点 ― 財源ではなく供給能力を守るシステム設計 : システム設計視点の行動経済学 (3)",
+      "url": "https://qiita.com/maskot1977/items/bd993b8b6ce6937c3a76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-25T00:15:50+09:00"
     },
     {
       "id": "hn-49036765",
@@ -370,8 +383,8 @@
       "source": "hn",
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
       "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "score": 184,
-      "comments": 124,
+      "score": 270,
+      "comments": 157,
       "author": "louiereederson",
       "tags": [],
       "date": "2026-07-24T13:32:30+00:00"
@@ -414,8 +427,8 @@
       "source": "hn",
       "title": "Half-Life 2 running natively on HaikuOS",
       "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "score": 198,
-      "comments": 29,
+      "score": 212,
+      "comments": 33,
       "author": "m0do1",
       "tags": [],
       "date": "2026-07-24T12:53:59+00:00"
@@ -425,8 +438,8 @@
       "source": "hn",
       "title": "Em dashes are amazing",
       "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-      "score": 289,
-      "comments": 254,
+      "score": 306,
+      "comments": 264,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-24T12:40:27+00:00"
@@ -469,8 +482,8 @@
       "source": "hn",
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 402,
-      "comments": 150,
+      "score": 422,
+      "comments": 153,
       "author": "hhh",
       "tags": [],
       "date": "2026-07-24T11:54:41+00:00"
@@ -518,6 +531,19 @@
       "author": "gregnavis",
       "tags": [],
       "date": "2026-07-24T10:15:29+00:00"
+    },
+    {
+      "id": "qiita-fb107eccec",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI-DLC V2を導入し、その構成要素を組織に最適化させる",
+      "url": "https://qiita.com/Syoitu/items/a784d74541fac33f6814?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Syoitu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-24T19:14:47+09:00"
     },
     {
       "id": "hn-49033388",
@@ -568,7 +594,7 @@
       "source": "hn",
       "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
       "url": "https://bfl.ai/blog/flux-3-mimic",
-      "score": 288,
+      "score": 293,
       "comments": 47,
       "author": "kensai",
       "tags": [],
@@ -645,19 +671,45 @@
       "source": "hn",
       "title": "It's getting harder to focus every day",
       "url": "https://glyphack.com/attention/",
-      "score": 620,
-      "comments": 349,
+      "score": 648,
+      "comments": 364,
       "author": "peykar",
       "tags": [],
       "date": "2026-07-24T08:18:30+00:00"
+    },
+    {
+      "id": "qiita-ec1f2aa2f0",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AI時代のポートフォリオ、転職で本当に見られているのは「言語化力」",
+      "url": "https://qiita.com/sumomoo/items/d8c22cb512d9ba036154?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sumomoo",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-24T17:14:32+09:00"
+    },
+    {
+      "id": "qiita-9bef0c1b84",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "ITパスポートと基本情報の違いは？どちらを勉強すべき？",
+      "url": "https://qiita.com/prumnn/items/b5b8a10713e2a96a2861?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "prumnn",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-24T17:11:36+09:00"
     },
     {
       "id": "hn-49032126",
       "source": "hn",
       "title": "The hardest way to make a GIF",
       "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-      "score": 24,
-      "comments": 5,
+      "score": 30,
+      "comments": 7,
       "author": "plaguna",
       "tags": [],
       "date": "2026-07-24T07:05:58+00:00"
@@ -702,7 +754,7 @@
       "source": "hn",
       "title": "Flux 3",
       "url": "https://bfl.ai/blog/flux-3",
-      "score": 528,
+      "score": 537,
       "comments": 125,
       "author": "ThouYS",
       "tags": [],
@@ -875,6 +927,19 @@
       "date": "2026-07-23T22:30:08+00:00"
     },
     {
+      "id": "qiita-5d47c29322",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "さくらのAI Engineたちに「どう盛り上げるか」を議論させたら、結論は「どれをやるかは人間が決めてください」だった",
+      "url": "https://qiita.com/TheGateBreaker/items/d56b52b7ed6426e50f2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "TheGateBreaker",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-24T07:19:00+09:00"
+    },
+    {
       "id": "hn-49027892",
       "source": "hn",
       "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
@@ -914,8 +979,8 @@
       "source": "hn",
       "title": "Fil-C: Garbage In, Memory Safety Out [video]",
       "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-      "score": 25,
-      "comments": 15,
+      "score": 50,
+      "comments": 30,
       "author": "Bootvis",
       "tags": [],
       "date": "2026-07-23T19:37:37+00:00"
@@ -1383,8 +1448,8 @@
       "source": "hn",
       "title": "Self-host your mail server",
       "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-      "score": 38,
-      "comments": 26,
+      "score": 60,
+      "comments": 45,
       "author": "geek_at",
       "tags": [],
       "date": "2026-07-23T12:49:10+00:00"
@@ -1399,6 +1464,19 @@
       "author": "swolpers",
       "tags": [],
       "date": "2026-07-23T12:11:05+00:00"
+    },
+    {
+      "id": "qiita-154caaa883",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "CSRFの仕組みを丁寧に解説 — なぜCookieだけでは「本人からのリクエスト」と言えないのか",
+      "url": "https://qiita.com/gts/items/1e9c395aee83bf30e03a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "gts",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-23T21:07:40+09:00"
     },
     {
       "id": "hn-49019694",
@@ -1421,6 +1499,19 @@
       "author": "bilsbie",
       "tags": [],
       "date": "2026-07-23T11:05:11+00:00"
+    },
+    {
+      "id": "qiita-8616414822",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "`&&` は「かつ」ではない",
+      "url": "https://qiita.com/mameshivaa/items/5d2c29a949a82eea6020?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mameshivaa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-23T19:41:09+09:00"
     },
     {
       "id": "hn-49019220",
@@ -2256,6 +2347,17 @@
       "date": "2026-07-22T10:35:43+00:00"
     },
     {
+      "id": "hn-49004464",
+      "source": "hn",
+      "title": "Marimo Now Runs in PyCharm",
+      "url": "https://marimo.io/blog/pycharm",
+      "score": 16,
+      "comments": 0,
+      "author": "cantdutchthis",
+      "tags": [],
+      "date": "2026-07-22T10:24:40+00:00"
+    },
+    {
       "id": "qiita-7f771020f6",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -2626,7 +2728,7 @@
       "source": "hn",
       "title": "Extending Polars with Rust Expression Plugins",
       "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
-      "score": 22,
+      "score": 32,
       "comments": 0,
       "author": "cpard",
       "tags": [],
@@ -4653,8 +4755,8 @@
       "source": "hn",
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 357,
-      "comments": 102,
+      "score": 382,
+      "comments": 111,
       "author": "sohkamyung",
       "tags": [],
       "date": "2026-07-20T02:43:54+00:00"
@@ -5027,39 +5129,6 @@
       "date": "2026-07-19T16:45:17+00:00"
     },
     {
-      "id": "hn-48969582",
-      "source": "hn",
-      "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
-      "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
-      "score": 64,
-      "comments": 33,
-      "author": "randycupertino",
-      "tags": [],
-      "date": "2026-07-19T16:38:36+00:00"
-    },
-    {
-      "id": "hn-48969530",
-      "source": "hn",
-      "title": "ECC and DDR5",
-      "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-      "score": 65,
-      "comments": 44,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-07-19T16:31:44+00:00"
-    },
-    {
-      "id": "hn-48969291",
-      "source": "hn",
-      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "score": 203,
-      "comments": 75,
-      "author": "serialx",
-      "tags": [],
-      "date": "2026-07-19T16:02:25+00:00"
-    },
-    {
       "id": "ctf-3782036",
       "source": "project",
       "proj_category": "CTF",
@@ -5074,17 +5143,6 @@
       "date": "2026-07-19T15:52:55Z"
     },
     {
-      "id": "hn-48969200",
-      "source": "hn",
-      "title": "Introduction to Formal Verification with Lean Part 1",
-      "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-      "score": 215,
-      "comments": 41,
-      "author": "badcryptobitch",
-      "tags": [],
-      "date": "2026-07-19T15:49:58+00:00"
-    },
-    {
       "id": "ctf-4180475",
       "source": "project",
       "proj_category": "CTF",
@@ -5097,54 +5155,6 @@
         "Security"
       ],
       "date": "2026-07-19T15:23:09Z"
-    },
-    {
-      "id": "hn-48968949",
-      "source": "hn",
-      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-      "score": 75,
-      "comments": 6,
-      "author": "ibobev",
-      "tags": [],
-      "date": "2026-07-19T15:20:22+00:00"
-    },
-    {
-      "id": "qiita-9769277e20",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS障害】2026年7月16日のCloudFront VPC Origins障害まとめ",
-      "url": "https://qiita.com/eureka_/items/6bb207fa1da4add1f61b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "eureka_",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-20T00:01:54+09:00"
-    },
-    {
-      "id": "qiita-42c9d79bb1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Amazon Bedrock AgentCore ハーネスで結婚挨拶シミュレーターを作った",
-      "url": "https://qiita.com/sagochiko/items/77ba979b5cf15d28a8c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sagochiko",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-20T00:01:19+09:00"
-    },
-    {
-      "id": "hn-48968701",
-      "source": "hn",
-      "title": "Natural experiments prove phytoplankton carbon removal works",
-      "url": "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding",
-      "score": 50,
-      "comments": 22,
-      "author": "getnormality",
-      "tags": [],
-      "date": "2026-07-19T14:51:57+00:00"
     },
     {
       "id": "ctf-4180257",
