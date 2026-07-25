@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-25T16:47:33.094499+00:00",
+  "generated_at": "2026-07-25T17:21:42.064960+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 373,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "high": 4,
-    "critical": 12
+    "critical": 11
   },
   "top_articles": [
     {
@@ -97,6 +97,13 @@
       "date": "2026-07-24T09:08:17+00:00"
     },
     {
+      "title": "Android May Soon Restrict On-Device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "score": 687,
+      "source": "hn",
+      "date": "2026-07-25T06:57:14+00:00"
+    },
+    {
       "title": "It's getting harder to focus every day",
       "url": "https://glyphack.com/attention/",
       "score": 671,
@@ -109,13 +116,6 @@
       "score": 667,
       "source": "hn",
       "date": "2026-07-21T18:39:06+00:00"
-    },
-    {
-      "title": "Android May Soon Restrict On-Device ADB",
-      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 663,
-      "source": "hn",
-      "date": "2026-07-25T06:57:14+00:00"
     },
     {
       "title": "Kimi Work",
@@ -258,13 +258,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-20T18:10:44+00:00"
-    },
-    {
-      "title": "Soofi – Sovereign Open Source Foundation Models",
-      "url": "https://www.soofi.info/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-20T12:52:03+00:00"
     }
   ]
 }
