@@ -1,15 +1,15 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-25T03:03:40.508343+00:00",
+  "generated_at": "2026-07-25T04:34:09.752918+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 372,
-    "zennqiita": 78,
+    "hn": 373,
+    "zennqiita": 77,
     "project": 11
   },
   "severity_counts": {
     "high": 3,
-    "critical": 14,
+    "critical": 13,
     "medium": 1
   },
   "top_articles": [
@@ -21,18 +21,18 @@
       "date": "2026-07-21T20:09:52+00:00"
     },
     {
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "score": 1389,
+      "source": "hn",
+      "date": "2026-07-24T16:57:41+00:00"
+    },
+    {
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "score": 1372,
       "source": "hn",
       "date": "2026-07-23T14:24:43+00:00"
-    },
-    {
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1348,
-      "source": "hn",
-      "date": "2026-07-24T16:57:41+00:00"
     },
     {
       "title": "China’s open-weights AI strategy is winning",
@@ -140,18 +140,18 @@
       "date": "2026-07-22T17:17:54+00:00"
     },
     {
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "score": 625,
+      "source": "hn",
+      "date": "2026-07-24T09:08:17+00:00"
+    },
+    {
       "title": "Hacker wipes Romania's land registry database",
       "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
       "score": 625,
       "source": "hn",
       "date": "2026-07-20T13:28:33+00:00"
-    },
-    {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 584,
-      "source": "hn",
-      "date": "2026-07-22T17:20:38+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-20T08:13:36+00:00"
-    },
-    {
-      "title": "WordPress緊急脆弱性「wp2shell」対応手順 ― 確認・更新・侵害点検まで",
-      "url": "https://qiita.com/BrainDirection/items/0ea9cf3cdfbdbfc94dd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-07-20T05:53:41+09:00"
     }
   ]
 }
