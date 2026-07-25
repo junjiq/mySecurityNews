@@ -1,22 +1,22 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-25T14:32:09.923411+00:00",
+  "generated_at": "2026-07-25T15:23:52.440442+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 371,
-    "zennqiita": 79,
+    "hn": 372,
+    "zennqiita": 78,
     "project": 11
   },
   "severity_counts": {
     "high": 3,
-    "critical": 13,
+    "critical": 12,
     "medium": 1
   },
   "top_articles": [
     {
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1679,
+      "score": 1695,
       "source": "hn",
       "date": "2026-07-24T16:57:41+00:00"
     },
@@ -135,7 +135,7 @@
     {
       "title": "India's first privately-developed rocket reaches orbit on debut launch",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 643,
+      "score": 651,
       "source": "hn",
       "date": "2026-07-20T02:43:54+00:00"
     },
@@ -259,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-20T12:52:03+00:00"
-    },
-    {
-      "title": "I found a WordPress RCEs with GPT5.6 and $25",
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-20T08:13:36+00:00"
     }
   ]
 }
