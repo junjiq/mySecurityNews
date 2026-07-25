@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-25T22:47:17.576443+00:00",
+  "generated_at": "2026-07-25T23:20:15.781740+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 364,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "high": 4,
-    "critical": 10
+    "critical": 11
   },
   "top_articles": [
     {
@@ -64,7 +64,7 @@
     {
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 852,
+      "score": 857,
       "source": "hn",
       "date": "2026-07-25T06:57:14+00:00"
     },
@@ -251,6 +251,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-21T04:48:32+00:00"
+    },
+    {
+      "title": "Show HN: GeoChess – open-source geography strategy game",
+      "url": "https://geochess.org",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-20T07:27:44+00:00"
     }
   ]
 }
