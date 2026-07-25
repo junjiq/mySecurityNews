@@ -1,15 +1,15 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-25T22:20:58.052937+00:00",
-  "total_articles": 464,
+  "generated_at": "2026-07-25T22:47:17.576443+00:00",
+  "total_articles": 461,
   "source_counts": {
-    "hn": 366,
-    "zennqiita": 87,
+    "hn": 364,
+    "zennqiita": 86,
     "project": 11
   },
   "severity_counts": {
     "high": 4,
-    "critical": 11
+    "critical": 10
   },
   "top_articles": [
     {
@@ -64,7 +64,7 @@
     {
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 841,
+      "score": 852,
       "source": "hn",
       "date": "2026-07-25T06:57:14+00:00"
     },
@@ -111,13 +111,6 @@
       "date": "2026-07-21T18:39:06+00:00"
     },
     {
-      "title": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "score": 659,
-      "source": "hn",
-      "date": "2026-07-20T17:13:23+00:00"
-    },
-    {
       "title": "Are AI labs pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "score": 633,
@@ -151,6 +144,13 @@
       "score": 579,
       "source": "hn",
       "date": "2026-07-21T19:43:59+00:00"
+    },
+    {
+      "title": "OverpAId – Fire your CEO. Hire the future",
+      "url": "https://overpaid.lol",
+      "score": 556,
+      "source": "hn",
+      "date": "2026-07-22T10:49:04+00:00"
     }
   ],
   "security_highlights": [
@@ -251,13 +251,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-21T04:48:32+00:00"
-    },
-    {
-      "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
-      "url": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-20T18:10:44+00:00"
     }
   ]
 }
