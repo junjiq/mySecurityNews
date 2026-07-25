@@ -1,18 +1,18 @@
 {
   "date": "2026-07-25",
-  "generated_at": "2026-07-25T07:39:13.092577+00:00",
-  "total_articles": 75,
+  "generated_at": "2026-07-25T08:41:44.772686+00:00",
+  "total_articles": 78,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 71,
+      "count": 69,
       "top_items": [
         {
           "title": "Claude Opus 5",
           "url": "https://www.anthropic.com/news/claude-opus-5",
-          "score": 1495,
+          "score": 1522,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T16:57:41+00:00"
@@ -26,17 +26,9 @@
           "date": "2026-07-24T09:08:17+00:00"
         },
         {
-          "title": "It's getting harder to focus every day",
-          "url": "https://glyphack.com/attention/",
-          "score": 671,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-24T08:18:30+00:00"
-        },
-        {
           "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
           "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "score": 583,
+          "score": 596,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T13:32:30+00:00"
@@ -44,48 +36,64 @@
         {
           "title": "My security camera shipped a GitHub admin token in its login page",
           "url": "https://hhh.hn/hanwha-github-token/",
-          "score": 570,
+          "score": 582,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T11:54:41+00:00"
+        },
+        {
+          "title": "Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "score": 438,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-24T16:33:31+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 9,
       "top_items": [
         {
-          "title": "防衛者のジレンマが映し出す国家の弱点 ― 財源ではなく供給能力を守るシステム設計 : システム設計視点の行動経済学 (3)",
-          "url": "https://qiita.com/maskot1977/items/bd993b8b6ce6937c3a76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude Codeから使えるMCPサーバーをAgentCoreゲートウェイで構築する",
+          "url": "https://qiita.com/moritalous/items/96a0427ee21c89fe1289?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-25T00:15:50+09:00"
+          "date": "2026-07-25T15:58:34+09:00"
         },
         {
-          "title": "AI-DLC V2を導入し、その構成要素を組織に最適化させる",
-          "url": "https://qiita.com/Syoitu/items/a784d74541fac33f6814?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AIエージェントがあれば技術書なんてすぐ書けるでしょ、と思ったが無理だった",
+          "url": "https://qiita.com/watany/items/11358e8e8966d5e48a09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-24T19:14:47+09:00"
+          "date": "2026-07-25T15:46:06+09:00"
         },
         {
-          "title": "AI時代のポートフォリオ、転職で本当に見られているのは「言語化力」",
-          "url": "https://qiita.com/sumomoo/items/d8c22cb512d9ba036154?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Gemini Enterprise に ADK エージェントを登録して、スケジュール実行を試みたら詰まった話",
+          "url": "https://qiita.com/re-watanabe/items/4aac7ebd4ad493be92b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-24T17:14:32+09:00"
+          "date": "2026-07-25T14:21:30+09:00"
         },
         {
-          "title": "ITパスポートと基本情報の違いは？どちらを勉強すべき？",
-          "url": "https://qiita.com/prumnn/items/b5b8a10713e2a96a2861?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "個人開発でApp Storeリリースフローを学ぶ（続編）― 3回のリジェクトと審査通過までにやったこと",
+          "url": "https://qiita.com/jqit-yukiono/items/91755838ea8589fde90d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-24T17:11:36+09:00"
+          "date": "2026-07-25T08:20:25+09:00"
+        },
+        {
+          "title": "JenkinsでGitHub Copilot CLIにPRを自動レビューさせる ― E2BIG・プロンプトインジェクション・トークン地獄との戦い",
+          "url": "https://qiita.com/jqit-yukiono/items/21c54529410ba960c388?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-25T07:20:09+09:00"
         }
       ]
     }
