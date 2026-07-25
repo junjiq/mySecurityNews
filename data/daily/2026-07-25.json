@@ -1,34 +1,26 @@
 {
   "date": "2026-07-25",
-  "generated_at": "2026-07-25T08:41:44.772686+00:00",
-  "total_articles": 78,
+  "generated_at": "2026-07-25T09:33:28.196231+00:00",
+  "total_articles": 71,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 69,
+      "count": 63,
       "top_items": [
         {
           "title": "Claude Opus 5",
           "url": "https://www.anthropic.com/news/claude-opus-5",
-          "score": 1522,
+          "score": 1542,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T16:57:41+00:00"
         },
         {
-          "title": "If coding has been solved, why does software keep getting worse?",
-          "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-          "score": 709,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-24T09:08:17+00:00"
-        },
-        {
           "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
           "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "score": 596,
+          "score": 606,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T13:32:30+00:00"
@@ -36,7 +28,7 @@
         {
           "title": "My security camera shipped a GitHub admin token in its login page",
           "url": "https://hhh.hn/hanwha-github-token/",
-          "score": 582,
+          "score": 592,
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T11:54:41+00:00"
@@ -48,12 +40,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T16:33:31+00:00"
+        },
+        {
+          "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+          "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+          "score": 397,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-24T14:41:59+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "Claude Codeから使えるMCPサーバーをAgentCoreゲートウェイで構築する",
