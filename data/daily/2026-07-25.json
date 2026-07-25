@@ -1,9 +1,17 @@
 {
   "date": "2026-07-25",
-  "generated_at": "2026-07-25T16:19:19.653855+00:00",
+  "generated_at": "2026-07-25T16:47:33.046108+00:00",
   "total_articles": 44,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-25T15:51:26+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
@@ -20,7 +28,7 @@
         {
           "title": "Android May Soon Restrict On-Device ADB",
           "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-          "score": 634,
+          "score": 663,
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T06:57:14+00:00"
@@ -28,18 +36,10 @@
         {
           "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
           "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-          "score": 457,
+          "score": 473,
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T01:44:12+00:00"
-        },
-        {
-          "title": "Be skeptical of OpenAI's rogue hacker agent story",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "score": 438,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-24T16:33:31+00:00"
         },
         {
           "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
@@ -48,6 +48,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-24T19:45:10+00:00"
+        },
+        {
+          "title": "Postgres LISTEN/NOTIFY actually scales",
+          "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+          "score": 350,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-24T19:05:53+00:00"
         }
       ]
     },

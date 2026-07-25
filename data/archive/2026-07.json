@@ -1,16 +1,15 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-25T16:19:19.702064+00:00",
+  "generated_at": "2026-07-25T16:47:33.094499+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 372,
-    "zennqiita": 78,
+    "hn": 373,
+    "zennqiita": 77,
     "project": 11
   },
   "severity_counts": {
-    "high": 3,
-    "critical": 12,
-    "medium": 1
+    "high": 4,
+    "critical": 12
   },
   "top_articles": [
     {
@@ -112,11 +111,11 @@
       "date": "2026-07-21T18:39:06+00:00"
     },
     {
-      "title": "India's first privately-developed rocket reaches orbit on debut launch",
-      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 660,
+      "title": "Android May Soon Restrict On-Device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "score": 663,
       "source": "hn",
-      "date": "2026-07-20T02:43:54+00:00"
+      "date": "2026-07-25T06:57:14+00:00"
     },
     {
       "title": "Kimi Work",
@@ -133,13 +132,6 @@
       "date": "2026-07-20T17:07:39+00:00"
     },
     {
-      "title": "Android May Soon Restrict On-Device ADB",
-      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 634,
-      "source": "hn",
-      "date": "2026-07-25T06:57:14+00:00"
-    },
-    {
       "title": "Are AI labs pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "score": 633,
@@ -152,9 +144,23 @@
       "score": 628,
       "source": "hn",
       "date": "2026-07-24T11:54:41+00:00"
+    },
+    {
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "score": 625,
+      "source": "hn",
+      "date": "2026-07-20T13:28:33+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-25T15:51:26+00:00"
+    },
     {
       "title": "Kimi K3 exploited the latest Redis server",
       "url": "https://twitter.com/fried_rice/status/2080059356322918777",

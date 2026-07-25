@@ -1,25 +1,70 @@
 {
-  "updated_at": "2026-07-25T16:19:19.587655+00:00",
+  "updated_at": "2026-07-25T16:47:32.980181+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49049066",
+      "source": "hn",
+      "title": "Rauno's Field Notes #2",
+      "url": "https://rauno.me/notes/2",
+      "score": 4,
+      "comments": 0,
+      "author": "acmnrs",
+      "tags": [],
+      "date": "2026-07-25T16:39:55+00:00"
+    },
     {
       "id": "hn-49048819",
       "source": "hn",
       "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
       "url": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
-      "score": 6,
-      "comments": 0,
+      "score": 33,
+      "comments": 13,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-25T16:09:58+00:00"
+    },
+    {
+      "id": "hn-49048689",
+      "source": "hn",
+      "title": "Bringing PyTorch Monarch to AMD GPUs",
+      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+      "score": 4,
+      "comments": 1,
+      "author": "gmays",
+      "tags": [],
+      "date": "2026-07-25T15:55:27+00:00"
+    },
+    {
+      "id": "hn-49048681",
+      "source": "hn",
+      "title": "The Dark Night of Mathematics",
+      "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+      "score": 21,
+      "comments": 6,
+      "author": "rmdmphilosopher",
+      "tags": [],
+      "date": "2026-07-25T15:54:59+00:00"
+    },
+    {
+      "id": "hn-49048645",
+      "source": "hn",
+      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "score": 18,
+      "comments": 1,
+      "author": "paulpauper",
+      "tags": [],
+      "date": "2026-07-25T15:51:26+00:00",
+      "severity": "high"
     },
     {
       "id": "hn-49048584",
       "source": "hn",
       "title": "The whole premise of checking for human writing is daft",
       "url": "https://mohammedshehu.com/checking-for-human-writing-is-daft/",
-      "score": 6,
-      "comments": 0,
+      "score": 29,
+      "comments": 31,
       "author": "shehuphd",
       "tags": [],
       "date": "2026-07-25T15:46:11+00:00"
@@ -29,11 +74,22 @@
       "source": "hn",
       "title": "Engineering management after the cost of code collapsed",
       "url": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
-      "score": 3,
-      "comments": 0,
+      "score": 22,
+      "comments": 11,
       "author": "kiyanwang",
       "tags": [],
       "date": "2026-07-25T15:10:51+00:00"
+    },
+    {
+      "id": "hn-49048034",
+      "source": "hn",
+      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "score": 27,
+      "comments": 5,
+      "author": "tknaup",
+      "tags": [],
+      "date": "2026-07-25T14:49:49+00:00"
     },
     {
       "id": "hn-49047969",
@@ -45,6 +101,28 @@
       "author": "beardyw",
       "tags": [],
       "date": "2026-07-25T14:41:06+00:00"
+    },
+    {
+      "id": "hn-49047884",
+      "source": "hn",
+      "title": "Task-centered iproute2 user guide",
+      "url": "https://baturin.org/docs/iproute2/",
+      "score": 8,
+      "comments": 0,
+      "author": "greengreengrass",
+      "tags": [],
+      "date": "2026-07-25T14:32:16+00:00"
+    },
+    {
+      "id": "hn-49047707",
+      "source": "hn",
+      "title": "Scanwheel is a drum style mechanical television you can build yourself",
+      "url": "https://github.com/AncientJames/Scanwheel/",
+      "score": 9,
+      "comments": 0,
+      "author": "tobr",
+      "tags": [],
+      "date": "2026-07-25T14:10:43+00:00"
     },
     {
       "id": "hn-49047563",
@@ -62,8 +140,8 @@
       "source": "hn",
       "title": "Bitchat Is Now on Radicle",
       "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-      "score": 40,
-      "comments": 11,
+      "score": 64,
+      "comments": 22,
       "author": "h1watt",
       "tags": [],
       "date": "2026-07-25T13:18:49+00:00"
@@ -95,8 +173,8 @@
       "source": "hn",
       "title": "The Fedora 45 Sausage Factory",
       "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
-      "score": 73,
-      "comments": 12,
+      "score": 78,
+      "comments": 21,
       "author": "6581",
       "tags": [],
       "date": "2026-07-25T11:04:57+00:00"
@@ -106,8 +184,8 @@
       "source": "hn",
       "title": "MouthPad: A Tongue-Controlled Touchpad",
       "url": "https://www.augmental.tech/",
-      "score": 85,
-      "comments": 19,
+      "score": 91,
+      "comments": 21,
       "author": "ZaninAndrea",
       "tags": [],
       "date": "2026-07-25T07:51:19+00:00"
@@ -130,8 +208,8 @@
       "source": "hn",
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 634,
-      "comments": 283,
+      "score": 663,
+      "comments": 291,
       "author": "shscs911",
       "tags": [],
       "date": "2026-07-25T06:57:14+00:00"
@@ -154,8 +232,8 @@
       "source": "hn",
       "title": "ARC-AGI Leaderboard",
       "url": "https://arcprize.org/leaderboard",
-      "score": 148,
-      "comments": 122,
+      "score": 157,
+      "comments": 125,
       "author": "rzk",
       "tags": [],
       "date": "2026-07-25T06:31:40+00:00"
@@ -200,8 +278,8 @@
       "source": "hn",
       "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
       "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "score": 457,
-      "comments": 77,
+      "score": 473,
+      "comments": 79,
       "author": "agnishom",
       "tags": [],
       "date": "2026-07-25T01:44:12+00:00"
@@ -2285,7 +2363,7 @@
       "source": "hn",
       "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
       "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
-      "score": 159,
+      "score": 163,
       "comments": 12,
       "author": "g0xA52A2A",
       "tags": [],
@@ -2452,8 +2530,8 @@
       "source": "hn",
       "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
       "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
-      "score": 44,
-      "comments": 0,
+      "score": 64,
+      "comments": 5,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-07-22T15:29:44+00:00"
@@ -2691,8 +2769,8 @@
       "source": "hn",
       "title": "PyPI Blog: Releases now reject new files after 14 days",
       "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-      "score": 61,
-      "comments": 27,
+      "score": 65,
+      "comments": 28,
       "author": "miketheman",
       "tags": [],
       "date": "2026-07-22T14:20:34+00:00"
@@ -2748,8 +2826,8 @@
       "source": "hn",
       "title": "Spatial languages: Writing code in 2D",
       "url": "https://shukla.io/blog/2026-07/cccx.html",
-      "score": 48,
-      "comments": 15,
+      "score": 52,
+      "comments": 19,
       "author": "BinRoo",
       "tags": [],
       "date": "2026-07-22T14:03:21+00:00"
@@ -2770,8 +2848,8 @@
       "source": "hn",
       "title": "My Images Are Dithered",
       "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
-      "score": 112,
-      "comments": 45,
+      "score": 125,
+      "comments": 48,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-22T13:00:29+00:00"
@@ -4828,8 +4906,8 @@
       "source": "hn",
       "title": "NYC Apartment Aquaponics",
       "url": "https://erinmurphy.dev/projects/project-2/",
-      "score": 138,
-      "comments": 56,
+      "score": 140,
+      "comments": 59,
       "author": "mm1119",
       "tags": [],
       "date": "2026-07-20T15:00:54+00:00"
@@ -5034,95 +5112,15 @@
       "severity": "critical"
     },
     {
-      "id": "hn-48978112",
-      "source": "hn",
-      "title": "Annoying and alarming things about OpenCode",
-      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-      "score": 275,
-      "comments": 190,
-      "author": "alekq",
-      "tags": [],
-      "date": "2026-07-20T12:45:55+00:00"
-    },
-    {
-      "id": "hn-48977849",
-      "source": "hn",
-      "title": "The footprints of every building in NYC",
-      "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
-      "score": 43,
-      "comments": 5,
-      "author": "jonathanmkeegan",
-      "tags": [],
-      "date": "2026-07-20T12:25:49+00:00"
-    },
-    {
-      "id": "hn-48977711",
-      "source": "hn",
-      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "score": 417,
-      "comments": 234,
-      "author": "rapnie",
-      "tags": [],
-      "date": "2026-07-20T12:14:08+00:00"
-    },
-    {
-      "id": "hn-48977628",
-      "source": "hn",
-      "title": "Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day",
-      "url": "https://readthetape.cc/",
-      "score": 40,
-      "comments": 29,
-      "author": "will_asouka",
-      "tags": [],
-      "date": "2026-07-20T12:07:16+00:00"
-    },
-    {
-      "id": "qiita-923943397d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "AIエージェント概論 - 定義からアーキテクチャ・本番運用を見据えた設計まで",
-      "url": "https://qiita.com/Pretzelisa/items/b65441442c8a486d25b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "Pretzelisa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-20T21:01:54+09:00"
-    },
-    {
-      "id": "hn-48977564",
-      "source": "hn",
-      "title": "The Trump administration's Threat to Scientific Research",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html",
-      "score": 17,
-      "comments": 1,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-20T12:00:43+00:00",
-      "severity": "medium"
-    },
-    {
       "id": "hn-48976262",
       "source": "hn",
       "title": "Stolen Buttons",
       "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 92,
-      "comments": 27,
+      "score": 118,
+      "comments": 32,
       "author": "Gecko4072",
       "tags": [],
       "date": "2026-07-20T09:23:42+00:00"
-    },
-    {
-      "id": "hn-48973835",
-      "source": "hn",
-      "title": "India's first privately-developed rocket reaches orbit on debut launch",
-      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 660,
-      "comments": 197,
-      "author": "sohkamyung",
-      "tags": [],
-      "date": "2026-07-20T02:43:54+00:00"
     },
     {
       "id": "ctf-3782036",
