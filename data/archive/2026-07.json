@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-26T19:27:47.029590+00:00",
+  "generated_at": "2026-07-26T19:55:50.788771+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 379,
@@ -10,7 +10,7 @@
   "severity_counts": {
     "critical": 11,
     "medium": 1,
-    "high": 3
+    "high": 2
   },
   "top_articles": [
     {
@@ -119,6 +119,13 @@
       "date": "2026-07-24T11:54:41+00:00"
     },
     {
+      "title": "Kill The Cookie Banner",
+      "url": "https://killthecookiebanner.eu/",
+      "score": 611,
+      "source": "hn",
+      "date": "2026-07-26T11:53:17+00:00"
+    },
+    {
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
       "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
       "score": 606,
@@ -145,13 +152,6 @@
       "score": 556,
       "source": "hn",
       "date": "2026-07-22T10:49:04+00:00"
-    },
-    {
-      "title": "Everyone should know SIMD",
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "score": 554,
-      "source": "hn",
-      "date": "2026-07-22T17:48:18+00:00"
     }
   ],
   "security_highlights": [
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-21T17:30:01+00:00"
-    },
-    {
-      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
-      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-21T15:31:41+00:00"
     }
   ]
 }
