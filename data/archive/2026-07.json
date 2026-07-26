@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-26T18:48:33.004122+00:00",
+  "generated_at": "2026-07-26T19:27:47.029590+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 379,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 11,
     "medium": 1,
     "high": 3
   },
@@ -84,13 +84,6 @@
       "date": "2026-07-21T22:35:24+00:00"
     },
     {
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 729,
-      "source": "hn",
-      "date": "2026-07-21T15:17:16+00:00"
-    },
-    {
       "title": "If coding has been solved, why does software keep getting worse?",
       "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
       "score": 709,
@@ -152,9 +145,23 @@
       "score": 556,
       "source": "hn",
       "date": "2026-07-22T10:49:04+00:00"
+    },
+    {
+      "title": "Everyone should know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "score": 554,
+      "source": "hn",
+      "date": "2026-07-22T17:48:18+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "url": "https://github.com/hertz-ai/HARTOS",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-26T18:40:08+00:00"
+    },
     {
       "title": "Calling all open source maintainers working with Ruby",
       "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",

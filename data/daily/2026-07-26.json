@@ -1,9 +1,16 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T18:48:32.955411+00:00",
-  "total_articles": 68,
-  "urgent_count": 1,
+  "generated_at": "2026-07-26T19:27:46.985255+00:00",
+  "total_articles": 67,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "url": "https://github.com/hertz-ai/HARTOS",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-26T18:40:08+00:00"
+    },
     {
       "title": "Calling all open source maintainers working with Ruby",
       "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
@@ -15,8 +22,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 66,
+      "count": 65,
       "top_items": [
+        {
+          "title": "Kill The Cookie Banner",
+          "url": "https://killthecookiebanner.eu/",
+          "score": 543,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-26T11:53:17+00:00"
+        },
         {
           "title": "The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
@@ -26,12 +41,12 @@
           "date": "2026-07-25T20:42:35+00:00"
         },
         {
-          "title": "Kill The Cookie Banner",
-          "url": "https://killthecookiebanner.eu/",
-          "score": 420,
+          "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+          "url": "https://astral.sh/blog/ruff-v0.16.0",
+          "score": 320,
           "source": "hn",
-          "severity": null,
-          "date": "2026-07-26T11:53:17+00:00"
+          "severity": "medium",
+          "date": "2026-07-26T09:01:39+00:00"
         },
         {
           "title": "Did They Ghost You?",
@@ -42,17 +57,9 @@
           "date": "2026-07-25T20:18:03+00:00"
         },
         {
-          "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-          "url": "https://astral.sh/blog/ruff-v0.16.0",
-          "score": 306,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-07-26T09:01:39+00:00"
-        },
-        {
           "title": "GrapheneOS protections against data extraction from locked devices",
           "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-          "score": 304,
+          "score": 315,
           "source": "hn",
           "severity": null,
           "date": "2026-07-26T05:57:22+00:00"
