@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T12:24:42.670583+00:00",
-  "total_articles": 68,
+  "generated_at": "2026-07-26T12:48:30.526937+00:00",
+  "total_articles": 69,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,8 +15,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 62,
+      "count": 64,
       "top_items": [
+        {
+          "title": "The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "score": 367,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-25T20:42:35+00:00"
+        },
         {
           "title": "Open-weight AI is having its Kubernetes moment",
           "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
@@ -24,14 +32,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T14:49:49+00:00"
-        },
-        {
-          "title": "The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "score": 362,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-25T20:42:35+00:00"
         },
         {
           "title": "Did They Ghost You?",
@@ -44,7 +44,7 @@
         {
           "title": "A shell colon does nothing. Use it anyway",
           "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-          "score": 251,
+          "score": 260,
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T13:33:49+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
           "url": "https://github.com/slvDev/esp32-ai",
-          "score": 212,
+          "score": 219,
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T18:59:50+00:00"
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 5,
       "top_items": [
         {
           "title": "【2026年最新】Zellijチートシート",
