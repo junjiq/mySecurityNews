@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-26T18:21:36.564728+00:00",
+  "generated_at": "2026-07-26T18:48:33.004122+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 377,
-    "zennqiita": 73,
+    "hn": 379,
+    "zennqiita": 71,
     "project": 11
   },
   "severity_counts": {
     "critical": 10,
     "medium": 1,
-    "high": 4
+    "high": 3
   },
   "top_articles": [
     {
@@ -245,13 +245,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-07-21T15:31:41+00:00"
-    },
-    {
-      "title": "Over 400 Linux CVEs published in the last 24 hours alone",
-      "url": "https://lore.kernel.org/linux-cve-announce/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-21T14:16:02+00:00"
     }
   ]
 }
