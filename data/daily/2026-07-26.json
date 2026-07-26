@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T06:01:52.067040+00:00",
-  "total_articles": 69,
+  "generated_at": "2026-07-26T07:22:37.162652+00:00",
+  "total_articles": 64,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,20 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 62,
+      "count": 60,
       "top_items": [
-        {
-          "title": "Android May Soon Restrict On-Device ADB",
-          "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-          "score": 870,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-25T06:57:14+00:00"
-        },
         {
           "title": "Open-weight AI is having its Kubernetes moment",
           "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-          "score": 355,
+          "score": 367,
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T14:49:49+00:00"
@@ -44,7 +36,7 @@
         {
           "title": "The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "score": 251,
+          "score": 289,
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T20:42:35+00:00"
@@ -56,12 +48,20 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T13:18:49+00:00"
+        },
+        {
+          "title": "Turn And Face The Strange",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+          "score": 189,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-25T20:43:11+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 4,
       "top_items": [
         {
           "title": "【Unity】VContainerを利用して安定した拡張性のあるゲーム基盤をつくる！",
@@ -94,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-25T18:18:58+09:00"
-        },
-        {
-          "title": "Claude Codeから使えるMCPサーバーをAgentCoreゲートウェイで構築する",
-          "url": "https://qiita.com/moritalous/items/96a0427ee21c89fe1289?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-25T15:58:34+09:00"
         }
       ]
     }
