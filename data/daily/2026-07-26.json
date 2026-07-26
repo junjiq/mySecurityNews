@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T14:31:47.151123+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-07-26T15:24:43.347021+00:00",
+  "total_articles": 63,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -20,18 +20,10 @@
         {
           "title": "The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "score": 395,
+          "score": 409,
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T20:42:35+00:00"
-        },
-        {
-          "title": "Open-weight AI is having its Kubernetes moment",
-          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-          "score": 367,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-25T14:49:49+00:00"
         },
         {
           "title": "Did They Ghost You?",
@@ -44,7 +36,7 @@
         {
           "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
           "url": "https://github.com/slvDev/esp32-ai",
-          "score": 237,
+          "score": 245,
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T18:59:50+00:00"
@@ -52,16 +44,24 @@
         {
           "title": "GrapheneOS protections against data extraction from locked devices",
           "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-          "score": 211,
+          "score": 241,
           "source": "hn",
           "severity": null,
           "date": "2026-07-26T05:57:22+00:00"
+        },
+        {
+          "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+          "url": "https://astral.sh/blog/ruff-v0.16.0",
+          "score": 235,
+          "source": "hn",
+          "severity": "medium",
+          "date": "2026-07-26T09:01:39+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 4,
       "top_items": [
         {
           "title": "【2026年最新】Zellijチートシート",
@@ -94,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-26T01:56:11+09:00"
-        },
-        {
-          "title": "財源幻想を超える国家設計 ― 限界合理性を前提にした適応的対応 : システム設計視点の行動経済学 (4)",
-          "url": "https://qiita.com/maskot1977/items/2c9f5e67d5fc3f9476b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-26T00:07:35+09:00"
         }
       ]
     }
