@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-26T21:19:06.179034+00:00",
+  "generated_at": "2026-07-26T21:48:09.813476+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 371,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 10,
     "medium": 1,
     "high": 2
   },
@@ -93,7 +93,7 @@
     {
       "title": "Kill The Cookie Banner",
       "url": "https://killthecookiebanner.eu/",
-      "score": 676,
+      "score": 703,
       "source": "hn",
       "date": "2026-07-26T11:53:17+00:00"
     },
@@ -238,13 +238,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-22T05:18:08+00:00"
-    },
-    {
-      "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
-      "url": "https://github.com/cristibaluta/Imagin-Raw",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-21T17:30:01+00:00"
     }
   ]
 }
