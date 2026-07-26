@@ -1,26 +1,18 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T15:49:40.624988+00:00",
-  "total_articles": 64,
-  "urgent_count": 1,
-  "urgent_items": [
-    {
-      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-25T15:51:26+00:00"
-    }
-  ],
+  "generated_at": "2026-07-26T16:21:35.920203+00:00",
+  "total_articles": 63,
+  "urgent_count": 0,
+  "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 60,
+      "count": 59,
       "top_items": [
         {
           "title": "The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "score": 413,
+          "score": 420,
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T20:42:35+00:00"
@@ -36,10 +28,18 @@
         {
           "title": "GrapheneOS protections against data extraction from locked devices",
           "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-          "score": 251,
+          "score": 259,
           "source": "hn",
           "severity": null,
           "date": "2026-07-26T05:57:22+00:00"
+        },
+        {
+          "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+          "url": "https://astral.sh/blog/ruff-v0.16.0",
+          "score": 256,
+          "source": "hn",
+          "severity": "medium",
+          "date": "2026-07-26T09:01:39+00:00"
         },
         {
           "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
@@ -48,14 +48,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T18:59:50+00:00"
-        },
-        {
-          "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-          "url": "https://astral.sh/blog/ruff-v0.16.0",
-          "score": 243,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-07-26T09:01:39+00:00"
         }
       ]
     },
