@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-26T17:48:53.544343+00:00",
+  "generated_at": "2026-07-26T18:21:36.564728+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 377,
@@ -8,9 +8,9 @@
     "project": 11
   },
   "severity_counts": {
+    "critical": 10,
     "medium": 1,
-    "high": 4,
-    "critical": 9
+    "high": 4
   },
   "top_articles": [
     {
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Calling all open source maintainers working with Ruby",
+      "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-26T17:28:03+00:00"
+    },
     {
       "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
       "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",

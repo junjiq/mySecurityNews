@@ -1,13 +1,21 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T17:48:53.498662+00:00",
-  "total_articles": 61,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-07-26T18:21:36.519108+00:00",
+  "total_articles": 63,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Calling all open source maintainers working with Ruby",
+      "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-26T17:28:03+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 60,
       "top_items": [
         {
           "title": "The new rules of context engineering for Claude 5 generation models",
@@ -16,6 +24,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T20:42:35+00:00"
+        },
+        {
+          "title": "Kill The Cookie Banner",
+          "url": "https://killthecookiebanner.eu/",
+          "score": 363,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-26T11:53:17+00:00"
         },
         {
           "title": "Did They Ghost You?",
@@ -28,7 +44,7 @@
         {
           "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
           "url": "https://astral.sh/blog/ruff-v0.16.0",
-          "score": 290,
+          "score": 301,
           "source": "hn",
           "severity": "medium",
           "date": "2026-07-26T09:01:39+00:00"
@@ -36,18 +52,10 @@
         {
           "title": "GrapheneOS protections against data extraction from locked devices",
           "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-          "score": 287,
+          "score": 297,
           "source": "hn",
           "severity": null,
           "date": "2026-07-26T05:57:22+00:00"
-        },
-        {
-          "title": "Kill The Cookie Banner",
-          "url": "https://killthecookiebanner.eu/",
-          "score": 284,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-26T11:53:17+00:00"
         }
       ]
     },
