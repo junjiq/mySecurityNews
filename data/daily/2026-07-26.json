@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T15:24:43.347021+00:00",
-  "total_articles": 63,
+  "generated_at": "2026-07-26T15:49:40.624988+00:00",
+  "total_articles": 64,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 60,
       "top_items": [
         {
           "title": "The new rules of context engineering for Claude 5 generation models",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "score": 409,
+          "score": 413,
           "source": "hn",
           "severity": null,
           "date": "2026-07-25T20:42:35+00:00"
@@ -34,6 +34,14 @@
           "date": "2026-07-25T20:18:03+00:00"
         },
         {
+          "title": "GrapheneOS protections against data extraction from locked devices",
+          "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+          "score": 251,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-26T05:57:22+00:00"
+        },
+        {
           "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
           "url": "https://github.com/slvDev/esp32-ai",
           "score": 245,
@@ -42,17 +50,9 @@
           "date": "2026-07-25T18:59:50+00:00"
         },
         {
-          "title": "GrapheneOS protections against data extraction from locked devices",
-          "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-          "score": 241,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-26T05:57:22+00:00"
-        },
-        {
           "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
           "url": "https://astral.sh/blog/ruff-v0.16.0",
-          "score": 235,
+          "score": 243,
           "source": "hn",
           "severity": "medium",
           "date": "2026-07-26T09:01:39+00:00"
