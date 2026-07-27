@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T19:35:44.614579+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-07-27T20:31:20.324487+00:00",
+  "total_articles": 65,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 54,
       "top_items": [
         {
           "title": "Kimi-K3 on HuggingFace",
           "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "score": 1149,
+          "score": 1210,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T06:18:10+00:00"
@@ -66,7 +66,7 @@
         {
           "title": "How is the Bun Rewrite in Rust going?",
           "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-          "score": 372,
+          "score": 392,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T11:12:26+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 11,
       "top_items": [
         {
           "title": "自治体におけるインターネット分離10年の総括 —— 技術類型・運用の現実・ゼロトラストへの道",
@@ -84,6 +84,22 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-27T21:03:03+09:00"
+        },
+        {
+          "title": "「経験がないから」を言い訳にしなくていい時代になった",
+          "url": "https://qiita.com/sumomoo/items/122f9a34360e256bf042?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-27T17:09:33+09:00"
+        },
+        {
+          "title": "【全6問】ITパスポートと基本情報、実際どのくらい難しいの?比べてみた",
+          "url": "https://qiita.com/prumnn/items/2d7331eac0d4a01ba030?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-27T17:07:02+09:00"
         },
         {
           "title": "RTX 3090（24GB）で7Bモデル学習を成立― 個人GPUで大規模Transformerを動かすための実践記録",
@@ -100,22 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-27T15:17:16+09:00"
-        },
-        {
-          "title": "[Python]4つのデータ構造の特徴と使用用途 ※初心者向け",
-          "url": "https://qiita.com/tomioka_k/items/fff45c209a2c7b955ec1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-27T13:56:11+09:00"
-        },
-        {
-          "title": "実験！Claude Code各モデルの消費トークン比較してみた！",
-          "url": "https://qiita.com/tamashiro_nobuyuki/items/602e632ed24243cbb97c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-27T13:50:52+09:00"
         }
       ]
     }

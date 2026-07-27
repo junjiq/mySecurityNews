@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-27T19:35:44.659770+00:00",
+  "generated_at": "2026-07-27T20:31:20.368423+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 372,
-    "zennqiita": 78,
+    "hn": 368,
+    "zennqiita": 82,
     "project": 11
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 11,
     "high": 3,
     "medium": 1
   },
@@ -30,7 +30,7 @@
     {
       "title": "Kimi-K3 on HuggingFace",
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 1149,
+      "score": 1210,
       "source": "hn",
       "date": "2026-07-27T06:18:10+00:00"
     },
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-22T15:26:56+00:00"
-    },
-    {
-      "title": "Show HN: Trifle – Open-source analytics that stores answers, not events",
-      "url": "https://trifle.io/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-22T14:39:10+00:00"
     }
   ]
 }
