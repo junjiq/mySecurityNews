@@ -1,15 +1,15 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-27T18:01:58.062435+00:00",
+  "generated_at": "2026-07-27T18:58:44.503094+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 371,
-    "zennqiita": 79,
+    "hn": 372,
+    "zennqiita": 78,
     "project": 11
   },
   "severity_counts": {
+    "critical": 12,
     "high": 3,
-    "critical": 11,
     "medium": 1
   },
   "top_articles": [
@@ -28,18 +28,18 @@
       "date": "2026-07-23T14:24:43+00:00"
     },
     {
+      "title": "Kimi-K3 on HuggingFace",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "score": 1110,
+      "source": "hn",
+      "date": "2026-07-27T06:18:10+00:00"
+    },
+    {
       "title": "US citizen charged after GrapheneOS phone wipes during airport search",
       "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
       "score": 1108,
       "source": "hn",
       "date": "2026-07-26T22:21:41+00:00"
-    },
-    {
-      "title": "Kimi-K3 on HuggingFace",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 1042,
-      "source": "hn",
-      "date": "2026-07-27T06:18:10+00:00"
     },
     {
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Bytecode-to-Source Mapping",
+      "url": "https://tidefield.dev/bytecode-to-source-mapping/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-27T18:25:21+00:00"
+    },
     {
       "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
       "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",

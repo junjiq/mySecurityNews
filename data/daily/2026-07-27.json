@@ -1,22 +1,22 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T18:01:58.033058+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-07-27T18:58:44.456053+00:00",
+  "total_articles": 63,
   "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Bytecode-to-Source Mapping",
+      "url": "https://tidefield.dev/bytecode-to-source-mapping/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-27T18:25:21+00:00"
+    },
     {
       "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
       "url": "https://github.com/vercel-labs/scriptc",
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-26T22:46:10+00:00"
-    },
-    {
-      "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-      "url": "https://github.com/hertz-ai/HARTOS",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-26T18:40:08+00:00"
     },
     {
       "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
@@ -29,8 +29,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 55,
       "top_items": [
+        {
+          "title": "Kimi-K3 on HuggingFace",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "score": 1110,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-27T06:18:10+00:00"
+        },
         {
           "title": "US citizen charged after GrapheneOS phone wipes during airport search",
           "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
@@ -38,14 +46,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-26T22:21:41+00:00"
-        },
-        {
-          "title": "Kimi-K3 on HuggingFace",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "score": 1042,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-27T06:18:10+00:00"
         },
         {
           "title": "PGSimCity - How PostgreSQL Works",
@@ -64,12 +64,12 @@
           "date": "2026-07-27T12:32:12+00:00"
         },
         {
-          "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-          "url": "https://beyondloom.com/decker/",
-          "score": 351,
+          "title": "How is the Bun Rewrite in Rust going?",
+          "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+          "score": 363,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-26T18:23:06+00:00"
+          "date": "2026-07-27T11:12:26+00:00"
         }
       ]
     },
