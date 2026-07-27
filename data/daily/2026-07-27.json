@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T10:45:26.928198+00:00",
-  "total_articles": 67,
+  "generated_at": "2026-07-27T12:03:50.626198+00:00",
+  "total_articles": 73,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,20 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 58,
       "top_items": [
-        {
-          "title": "Kill The Cookie Banner",
-          "url": "https://killthecookiebanner.eu/",
-          "score": 991,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-26T11:53:17+00:00"
-        },
         {
           "title": "US citizen charged after GrapheneOS phone wipes during airport search",
           "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-          "score": 808,
+          "score": 876,
           "source": "hn",
           "severity": null,
           "date": "2026-07-26T22:21:41+00:00"
@@ -50,18 +42,18 @@
         {
           "title": "PGSimCity - How PostgreSQL Works",
           "url": "https://nikolays.github.io/PGSimCity/",
-          "score": 631,
+          "score": 686,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T00:19:04+00:00"
         },
         {
-          "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-          "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-          "score": 462,
+          "title": "Kimi-K3 Releases on HuggingFace 7/27",
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "score": 473,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-26T12:00:11+00:00"
+          "date": "2026-07-27T06:18:10+00:00"
         },
         {
           "title": "French firefighters face 'pyrocumulonimbus' for first time",
@@ -70,13 +62,29 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-26T17:49:44+00:00"
+        },
+        {
+          "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+          "url": "https://beyondloom.com/decker/",
+          "score": 330,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-26T18:23:06+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 15,
       "top_items": [
+        {
+          "title": "自治体におけるインターネット分離10年の総括 —— 技術類型・運用の現実・ゼロトラストへの道",
+          "url": "https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-27T21:03:03+09:00"
+        },
         {
           "title": "RTX 3090（24GB）で7Bモデル学習を成立― 個人GPUで大規模Transformerを動かすための実践記録",
           "url": "https://qiita.com/nakatada-lab/items/9f45910262d238964997?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-27T13:50:52+09:00"
-        },
-        {
-          "title": "Agent Skillsを備えたAntigravity CLIとアーキテクチャ設計対決した",
-          "url": "https://qiita.com/satoshi-sugiyama/items/467e10f4af6ff5cb84d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-27T08:23:37+09:00"
         }
       ]
     }

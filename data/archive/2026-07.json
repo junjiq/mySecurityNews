@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-27T10:45:26.974798+00:00",
+  "generated_at": "2026-07-27T12:03:50.673142+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 362,
-    "zennqiita": 88,
+    "hn": 366,
+    "zennqiita": 84,
     "project": 11
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 10,
     "medium": 1,
     "high": 2
   },
@@ -56,6 +56,13 @@
       "date": "2026-07-22T15:19:23+00:00"
     },
     {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "score": 876,
+      "source": "hn",
+      "date": "2026-07-26T22:21:41+00:00"
+    },
+    {
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
       "score": 870,
@@ -70,18 +77,18 @@
       "date": "2026-07-22T19:22:19+00:00"
     },
     {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 808,
-      "source": "hn",
-      "date": "2026-07-26T22:21:41+00:00"
-    },
-    {
       "title": "If coding has been solved, why does software keep getting worse?",
       "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
       "score": 709,
       "source": "hn",
       "date": "2026-07-24T09:08:17+00:00"
+    },
+    {
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "score": 686,
+      "source": "hn",
+      "date": "2026-07-27T00:19:04+00:00"
     },
     {
       "title": "It's getting harder to focus every day",
@@ -96,13 +103,6 @@
       "score": 633,
       "source": "hn",
       "date": "2026-07-22T17:17:54+00:00"
-    },
-    {
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "score": 631,
-      "source": "hn",
-      "date": "2026-07-27T00:19:04+00:00"
     },
     {
       "title": "My security camera shipped a GitHub admin token in its login page",
@@ -238,13 +238,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-22T14:39:10+00:00"
-    },
-    {
-      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-22T05:18:08+00:00"
     }
   ]
 }
