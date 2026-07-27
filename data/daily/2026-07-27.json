@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T06:09:12.106594+00:00",
-  "total_articles": 58,
+  "generated_at": "2026-07-27T07:43:05.392897+00:00",
+  "total_articles": 60,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 54,
       "top_items": [
         {
           "title": "Kill The Cookie Banner",
@@ -42,41 +42,49 @@
         {
           "title": "US citizen charged after GrapheneOS phone wipes during airport search",
           "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-          "score": 486,
+          "score": 624,
           "source": "hn",
           "severity": null,
           "date": "2026-07-26T22:21:41+00:00"
         },
         {
-          "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-          "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-          "score": 401,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-26T12:00:11+00:00"
-        },
-        {
           "title": "PGSimCity - How PostgreSQL Works",
           "url": "https://nikolays.github.io/PGSimCity/",
-          "score": 370,
+          "score": 492,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T00:19:04+00:00"
         },
         {
-          "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-          "url": "https://astral.sh/blog/ruff-v0.16.0",
-          "score": 320,
+          "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+          "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+          "score": 427,
           "source": "hn",
-          "severity": "medium",
-          "date": "2026-07-26T09:01:39+00:00"
+          "severity": null,
+          "date": "2026-07-26T12:00:11+00:00"
+        },
+        {
+          "title": "French firefighters face 'pyrocumulonimbus' for first time",
+          "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+          "score": 326,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-26T17:49:44+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 6,
       "top_items": [
+        {
+          "title": "RTX 3090（24GB）で7Bモデル学習を成立― 個人GPUで大規模Transformerを動かすための実践記録",
+          "url": "https://qiita.com/nakatada-lab/items/9f45910262d238964997?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-27T15:18:19+09:00"
+        },
         {
           "title": "【mise】bootstrap機能でmacOS設定をコード管理",
           "url": "https://qiita.com/umekikazuya/items/5fa8a38049328e301cb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-26T21:26:27+09:00"
-        },
-        {
-          "title": "SQLServerの日本語テーブル・列構成とレコードをSQLite３にお引越し",
-          "url": "https://qiita.com/mylifewithviolin/items/55933ef08fb62d292204?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-26T20:36:27+09:00"
         }
       ]
     }
