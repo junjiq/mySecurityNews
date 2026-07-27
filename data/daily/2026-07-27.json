@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T21:51:23.004891+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-07-27T22:23:47.207171+00:00",
+  "total_articles": 68,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,23 +29,15 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 54,
+      "count": 56,
       "top_items": [
         {
           "title": "Kimi-K3 on HuggingFace",
           "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "score": 1266,
+          "score": 1278,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T06:18:10+00:00"
-        },
-        {
-          "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-          "score": 1108,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-26T22:21:41+00:00"
         },
         {
           "title": "PGSimCity - How PostgreSQL Works",
@@ -66,17 +58,33 @@
         {
           "title": "How is the Bun Rewrite in Rust going?",
           "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-          "score": 419,
+          "score": 428,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T11:12:26+00:00"
+        },
+        {
+          "title": "Kimi-K3 Technical Report [pdf]",
+          "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+          "score": 330,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-27T15:23:45+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 12,
       "top_items": [
+        {
+          "title": "PrivateLink で別アカウントの VPC に接続されているオンプレミスの名前解決が必要なリソースにアクセスする",
+          "url": "https://qiita.com/takeda_h/items/1dd5b788c07b474509c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-28T07:20:56+09:00"
+        },
         {
           "title": "自治体におけるインターネット分離10年の総括 —— 技術類型・運用の現実・ゼロトラストへの道",
           "url": "https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-27T15:18:19+09:00"
-        },
-        {
-          "title": "その質問に、そのまま答えていいのか",
-          "url": "https://qiita.com/sgrs38/items/308919aca9e9770b0643?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-27T15:17:16+09:00"
         }
       ]
     }

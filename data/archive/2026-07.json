@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-27T21:51:23.052326+00:00",
+  "generated_at": "2026-07-27T22:23:47.245414+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 369,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 10,
     "high": 3,
     "medium": 1
   },
@@ -30,7 +30,7 @@
     {
       "title": "Kimi-K3 on HuggingFace",
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 1266,
+      "score": 1278,
       "source": "hn",
       "date": "2026-07-27T06:18:10+00:00"
     },
@@ -61,13 +61,6 @@
       "score": 987,
       "source": "hn",
       "date": "2026-07-23T15:18:40+00:00"
-    },
-    {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 944,
-      "source": "hn",
-      "date": "2026-07-22T15:19:23+00:00"
     },
     {
       "title": "Android May Soon Restrict On-Device ADB",
@@ -152,6 +145,13 @@
       "score": 545,
       "source": "hn",
       "date": "2026-07-23T13:09:10+00:00"
+    },
+    {
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "score": 540,
+      "source": "hn",
+      "date": "2026-07-25T01:44:12+00:00"
     }
   ],
   "security_highlights": [
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-23T13:51:36+00:00"
-    },
-    {
-      "title": "Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling",
-      "url": "https://www.gao.gov/products/gao-26-108687",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-22T15:26:56+00:00"
     }
   ]
 }
