@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-28T17:00:18.835258+00:00",
+  "generated_at": "2026-07-28T17:38:01.919532+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 369,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 11,
     "medium": 2,
     "high": 3
   },
@@ -86,7 +86,7 @@
     {
       "title": "7.1 Earthquake in Japan",
       "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 682,
+      "score": 703,
       "source": "hn",
       "date": "2026-07-28T07:44:24+00:00"
     },
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-23T14:31:26+00:00"
-    },
-    {
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-23T13:51:36+00:00"
     }
   ]
 }
