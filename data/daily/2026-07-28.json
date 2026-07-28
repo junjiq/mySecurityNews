@@ -1,7 +1,7 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T00:33:34.034465+00:00",
-  "total_articles": 66,
+  "generated_at": "2026-07-28T01:33:50.512503+00:00",
+  "total_articles": 67,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 57,
       "top_items": [
         {
           "title": "Kimi-K3 on HuggingFace",
@@ -41,20 +41,20 @@
           "date": "2026-07-27T12:32:12+00:00"
         },
         {
+          "title": "Our position on open-weights models",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "score": 433,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-27T22:03:49+00:00"
+        },
+        {
           "title": "How is the Bun Rewrite in Rust going?",
           "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
           "score": 428,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T11:12:26+00:00"
-        },
-        {
-          "title": "Our position on open-weights models",
-          "url": "https://www.anthropic.com/news/position-open-weights-models",
-          "score": 359,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-27T22:03:49+00:00"
         },
         {
           "title": "Kimi-K3 Technical Report [pdf]",
@@ -76,7 +76,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-28T09:26:09+09:00"
+          "date": "2026-07-28T09:48:23+09:00"
         },
         {
           "title": "PrivateLink で別アカウントの VPC に接続されているオンプレミスの名前解決が必要なリソースにアクセスする",
