@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T14:15:53.678946+00:00",
-  "total_articles": 84,
-  "urgent_count": 4,
+  "generated_at": "2026-07-28T15:16:52.137724+00:00",
+  "total_articles": 80,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
@@ -24,24 +24,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-27T18:25:21+00:00"
-    },
-    {
-      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-27T15:08:16+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 70,
+      "count": 66,
       "top_items": [
         {
           "title": "Our position on open-weights models",
           "url": "https://www.anthropic.com/news/position-open-weights-models",
-          "score": 1048,
+          "score": 1074,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T22:03:49+00:00"
@@ -49,7 +42,7 @@
         {
           "title": "7.1 Earthquake in Japan",
           "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-          "score": 491,
+          "score": 572,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T07:44:24+00:00"
@@ -57,7 +50,7 @@
         {
           "title": "Benchmarking Opus 5 on SlopCodeBench",
           "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-          "score": 346,
+          "score": 358,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T22:37:52+00:00"
