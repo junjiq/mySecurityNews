@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-28T15:16:52.080574+00:00",
+  "updated_at": "2026-07-28T16:11:41.372352+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49085811",
+      "source": "hn",
+      "title": "How Do I Profile eBPF Code?",
+      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+      "score": 11,
+      "comments": 0,
+      "author": "snaveen",
+      "tags": [],
+      "date": "2026-07-28T15:55:44+00:00"
+    },
+    {
+      "id": "hn-49085798",
+      "source": "hn",
+      "title": "Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust",
+      "url": "https://github.com/reflex-dev/xy",
+      "score": 13,
+      "comments": 1,
+      "author": "apetuskey",
+      "tags": [],
+      "date": "2026-07-28T15:54:55+00:00"
+    },
+    {
+      "id": "hn-49085731",
+      "source": "hn",
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
+      "score": 5,
+      "comments": 0,
+      "author": "speerer",
+      "tags": [],
+      "date": "2026-07-28T15:50:38+00:00"
+    },
+    {
+      "id": "hn-49085666",
+      "source": "hn",
+      "title": "Zig's Incremental Compilation Internals",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "score": 11,
+      "comments": 0,
+      "author": "garyhtou",
+      "tags": [],
+      "date": "2026-07-28T15:46:45+00:00"
+    },
+    {
+      "id": "hn-49085509",
+      "source": "hn",
+      "title": "So, you want to make a game engine (2023)",
+      "url": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
+      "score": 3,
+      "comments": 0,
+      "author": "kugurerdem",
+      "tags": [],
+      "date": "2026-07-28T15:36:45+00:00"
+    },
+    {
+      "id": "hn-49085503",
+      "source": "hn",
+      "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
+      "url": "https://flashpaper.app/",
+      "score": 3,
+      "comments": 2,
+      "author": "minpym",
+      "tags": [],
+      "date": "2026-07-28T15:36:35+00:00"
+    },
+    {
+      "id": "hn-49085280",
+      "source": "hn",
+      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+      "url": "https://arxiv.org/abs/1202.4212",
+      "score": 24,
+      "comments": 10,
+      "author": "surprisetalk",
+      "tags": [],
+      "date": "2026-07-28T15:20:35+00:00"
+    },
+    {
+      "id": "hn-49085236",
+      "source": "hn",
+      "title": "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
+      "url": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
+      "score": 67,
+      "comments": 41,
+      "author": "pseudolus",
+      "tags": [],
+      "date": "2026-07-28T15:17:38+00:00"
+    },
     {
       "id": "qiita-728dd6801e",
       "source": "zennqiita",
@@ -14,6 +102,17 @@
         "Qiita"
       ],
       "date": "2026-07-28T23:07:37+09:00"
+    },
+    {
+      "id": "hn-49084091",
+      "source": "hn",
+      "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
+      "url": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
+      "score": 35,
+      "comments": 16,
+      "author": "miniBill",
+      "tags": [],
+      "date": "2026-07-28T14:05:51+00:00"
     },
     {
       "id": "hn-49084031",
@@ -31,8 +130,8 @@
       "source": "hn",
       "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
       "url": "https://github.com/utmapp/UTM/issues/7658",
-      "score": 3,
-      "comments": 1,
+      "score": 15,
+      "comments": 8,
       "author": "IndySun",
       "tags": [],
       "date": "2026-07-28T13:33:42+00:00"
@@ -55,8 +154,8 @@
       "source": "hn",
       "title": "Show HN: tale.fyi, we deserve a home for fiction",
       "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
-      "score": 47,
-      "comments": 30,
+      "score": 66,
+      "comments": 43,
       "author": "samuelcole",
       "tags": [],
       "date": "2026-07-28T13:16:52+00:00"
@@ -99,8 +198,8 @@
       "source": "hn",
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
       "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 204,
-      "comments": 87,
+      "score": 284,
+      "comments": 125,
       "author": "codebyaditya",
       "tags": [],
       "date": "2026-07-28T13:12:01+00:00"
@@ -110,8 +209,8 @@
       "source": "hn",
       "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
       "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "score": 59,
-      "comments": 20,
+      "score": 73,
+      "comments": 32,
       "author": "permute",
       "tags": [],
       "date": "2026-07-28T13:07:14+00:00"
@@ -121,8 +220,8 @@
       "source": "hn",
       "title": "What AI developers could learn from Charles Bukowski?",
       "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-      "score": 35,
-      "comments": 25,
+      "score": 49,
+      "comments": 35,
       "author": "sedovsek",
       "tags": [],
       "date": "2026-07-28T13:00:12+00:00"
@@ -165,8 +264,8 @@
       "source": "hn",
       "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
       "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-      "score": 33,
-      "comments": 14,
+      "score": 46,
+      "comments": 29,
       "author": "882542F3884314B",
       "tags": [],
       "date": "2026-07-28T12:02:57+00:00",
@@ -177,8 +276,8 @@
       "source": "hn",
       "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
       "url": "https://arxiv.org/abs/2510.26692",
-      "score": 101,
-      "comments": 29,
+      "score": 158,
+      "comments": 56,
       "author": "ronfriedhaber",
       "tags": [],
       "date": "2026-07-28T10:52:30+00:00"
@@ -199,8 +298,8 @@
       "source": "hn",
       "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
       "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "score": 64,
-      "comments": 45,
+      "score": 86,
+      "comments": 67,
       "author": "adulion",
       "tags": [],
       "date": "2026-07-28T10:20:50+00:00",
@@ -211,8 +310,8 @@
       "source": "hn",
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
       "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "score": 79,
-      "comments": 45,
+      "score": 98,
+      "comments": 54,
       "author": "jordigg",
       "tags": [],
       "date": "2026-07-28T09:59:13+00:00"
@@ -244,8 +343,8 @@
       "source": "hn",
       "title": "7.1 Earthquake in Japan",
       "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 572,
-      "comments": 115,
+      "score": 639,
+      "comments": 134,
       "author": "krembo",
       "tags": [],
       "date": "2026-07-28T07:44:24+00:00"
@@ -421,8 +520,8 @@
       "source": "hn",
       "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
       "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "score": 269,
-      "comments": 90,
+      "score": 280,
+      "comments": 94,
       "author": "ilreb",
       "tags": [],
       "date": "2026-07-28T02:18:53+00:00"
@@ -628,8 +727,8 @@
       "source": "hn",
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 1074,
-      "comments": 1547,
+      "score": 1104,
+      "comments": 1582,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-07-27T22:03:49+00:00"
@@ -674,8 +773,8 @@
       "source": "hn",
       "title": "Solving Fermat: Andrew Wiles",
       "url": "https://www.pbs.org/wgbh/nova/proof/wiles.html",
-      "score": 25,
-      "comments": 10,
+      "score": 40,
+      "comments": 15,
       "author": "1970-01-01",
       "tags": [],
       "date": "2026-07-27T20:42:46+00:00"
@@ -3237,8 +3336,8 @@
       "source": "hn",
       "title": "Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser",
       "url": "https://scalatutorials.com",
-      "score": 43,
-      "comments": 9,
+      "score": 57,
+      "comments": 16,
       "author": "eranation",
       "tags": [],
       "date": "2026-07-24T19:37:18+00:00"
@@ -3584,8 +3683,8 @@
       "source": "hn",
       "title": "How to Survive Boiling Water",
       "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-      "score": 220,
-      "comments": 35,
+      "score": 269,
+      "comments": 44,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-07-24T14:19:16+00:00"
@@ -4613,6 +4712,17 @@
       "date": "2026-07-23T17:06:22+00:00"
     },
     {
+      "id": "hn-49024766",
+      "source": "hn",
+      "title": "A Deep Logo Study",
+      "url": "https://dannyspina.com/blog/my_new_logo_study",
+      "score": 8,
+      "comments": 2,
+      "author": "nate",
+      "tags": [],
+      "date": "2026-07-23T16:58:50+00:00"
+    },
+    {
       "id": "hn-49024691",
       "source": "hn",
       "title": "What happened to TheNumbers.com",
@@ -5034,118 +5144,6 @@
       "author": "gmays",
       "tags": [],
       "date": "2026-07-23T13:08:52+00:00"
-    },
-    {
-      "id": "hn-49020868",
-      "source": "hn",
-      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-      "score": 160,
-      "comments": 134,
-      "author": "yogthos",
-      "tags": [],
-      "date": "2026-07-23T13:00:03+00:00"
-    },
-    {
-      "id": "hn-49020842",
-      "source": "hn",
-      "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
-      "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
-      "score": 81,
-      "comments": 4,
-      "author": "jxmorris12",
-      "tags": [],
-      "date": "2026-07-23T12:58:02+00:00"
-    },
-    {
-      "id": "hn-49020751",
-      "source": "hn",
-      "title": "Self-host your mail server",
-      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-      "score": 74,
-      "comments": 65,
-      "author": "geek_at",
-      "tags": [],
-      "date": "2026-07-23T12:49:10+00:00"
-    },
-    {
-      "id": "hn-49020647",
-      "source": "hn",
-      "title": "Sum of Cubes via Difference Tables",
-      "url": "https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/",
-      "score": 3,
-      "comments": 0,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-23T12:40:42+00:00"
-    },
-    {
-      "id": "hn-49020545",
-      "source": "hn",
-      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-      "url": "https://globaloilnetwork.staffinganalytics.io/",
-      "score": 209,
-      "comments": 95,
-      "author": "eliotho",
-      "tags": [],
-      "date": "2026-07-23T12:31:21+00:00"
-    },
-    {
-      "id": "hn-49020335",
-      "source": "hn",
-      "title": "Understanding the AI Economy",
-      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
-      "score": 49,
-      "comments": 46,
-      "author": "swolpers",
-      "tags": [],
-      "date": "2026-07-23T12:11:05+00:00"
-    },
-    {
-      "id": "qiita-154caaa883",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "CSRFの仕組みを丁寧に解説 — なぜCookieだけでは「本人からのリクエスト」と言えないのか",
-      "url": "https://qiita.com/gts/items/1e9c395aee83bf30e03a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "gts",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-23T21:07:40+09:00"
-    },
-    {
-      "id": "hn-49020219",
-      "source": "hn",
-      "title": "I wanted a clock that never needed setting. Things escalated",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "score": 141,
-      "comments": 120,
-      "author": "lee_ars",
-      "tags": [],
-      "date": "2026-07-23T12:01:52+00:00"
-    },
-    {
-      "id": "hn-49019694",
-      "source": "hn",
-      "title": "New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory",
-      "url": "https://frame.work/desktop?tab=192gb-coming-soon",
-      "score": 51,
-      "comments": 44,
-      "author": "PhilippGille",
-      "tags": [],
-      "date": "2026-07-23T11:09:48+00:00"
-    },
-    {
-      "id": "hn-49019647",
-      "source": "hn",
-      "title": "Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose",
-      "url": "https://www.worseonpurpose.com/",
-      "score": 76,
-      "comments": 48,
-      "author": "bilsbie",
-      "tags": [],
-      "date": "2026-07-23T11:05:11+00:00"
     },
     {
       "id": "ctf-3782036",
