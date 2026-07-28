@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-28T18:30:21.597903+00:00",
+  "generated_at": "2026-07-28T18:58:25.670455+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 369,
@@ -19,13 +19,6 @@
       "score": 1714,
       "source": "hn",
       "date": "2026-07-24T16:57:41+00:00"
-    },
-    {
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 1372,
-      "source": "hn",
-      "date": "2026-07-23T14:24:43+00:00"
     },
     {
       "title": "Kimi-K3 on HuggingFace",
@@ -79,7 +72,7 @@
     {
       "title": "7.1 Earthquake in Japan",
       "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 722,
+      "score": 731,
       "source": "hn",
       "date": "2026-07-28T07:44:24+00:00"
     },
@@ -152,6 +145,13 @@
       "score": 438,
       "source": "hn",
       "date": "2026-07-24T16:33:31+00:00"
+    },
+    {
+      "title": "How is the Bun Rewrite in Rust going?",
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "score": 428,
+      "source": "hn",
+      "date": "2026-07-27T11:12:26+00:00"
     }
   ],
   "security_highlights": [
@@ -163,7 +163,7 @@
       "date": "2026-07-28T12:02:57+00:00"
     },
     {
-      "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
       "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
       "severity": "critical",
       "source": "hn",
