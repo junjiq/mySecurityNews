@@ -1,7 +1,7 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T10:18:30.422357+00:00",
-  "total_articles": 77,
+  "generated_at": "2026-07-28T11:16:25.504733+00:00",
+  "total_articles": 74,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 63,
+      "count": 61,
       "top_items": [
         {
           "title": "Our position on open-weights models",
           "url": "https://www.anthropic.com/news/position-open-weights-models",
-          "score": 920,
+          "score": 950,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T22:03:49+00:00"
@@ -41,14 +41,6 @@
           "date": "2026-07-27T12:32:12+00:00"
         },
         {
-          "title": "How is the Bun Rewrite in Rust going?",
-          "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-          "score": 428,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-27T11:12:26+00:00"
-        },
-        {
           "title": "Kimi-K3 Technical Report [pdf]",
           "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
           "score": 330,
@@ -59,16 +51,24 @@
         {
           "title": "Benchmarking Opus 5 on SlopCodeBench",
           "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-          "score": 292,
+          "score": 309,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T22:37:52+00:00"
+        },
+        {
+          "title": "Using an open model feels surprisingly good",
+          "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+          "score": 290,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-28T02:37:14+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "「最後に検証して」はもう書かなくていい — Claude Opus 5 でプロンプトの常識が逆転した4つのこと",
