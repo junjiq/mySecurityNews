@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-28T18:58:25.670455+00:00",
+  "generated_at": "2026-07-28T19:36:06.934717+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 369,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 10,
     "medium": 2,
     "high": 3
   },
@@ -72,7 +72,7 @@
     {
       "title": "7.1 Earthquake in Japan",
       "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 731,
+      "score": 737,
       "source": "hn",
       "date": "2026-07-28T07:44:24+00:00"
     },
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-23T14:53:34+00:00"
-    },
-    {
-      "title": "Show HN: Remux – an open-source tmux workspace designed for iPhone",
-      "url": "https://github.com/h3nock/remux",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-23T14:31:26+00:00"
     }
   ]
 }
