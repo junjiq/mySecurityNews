@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T17:38:01.872134+00:00",
-  "total_articles": 93,
-  "urgent_count": 3,
+  "generated_at": "2026-07-28T18:30:21.548507+00:00",
+  "total_articles": 90,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
@@ -17,19 +17,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-28T10:20:50+00:00"
-    },
-    {
-      "title": "Bytecode-to-Source Mapping",
-      "url": "https://tidefield.dev/bytecode-to-source-mapping/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-27T18:25:21+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 79,
+      "count": 77,
       "top_items": [
         {
           "title": "Our position on open-weights models",
@@ -42,10 +35,18 @@
         {
           "title": "7.1 Earthquake in Japan",
           "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-          "score": 703,
+          "score": 722,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T07:44:24+00:00"
+        },
+        {
+          "title": "New HIV vaccine shows unprecedented success in preclinical study",
+          "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+          "score": 388,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-28T13:12:01+00:00"
         },
         {
           "title": "Benchmarking Opus 5 on SlopCodeBench",
@@ -54,14 +55,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T22:37:52+00:00"
-        },
-        {
-          "title": "New HIV vaccine shows unprecedented success in preclinical study",
-          "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-          "score": 356,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-28T13:12:01+00:00"
         },
         {
           "title": "Using an open model feels surprisingly good",
@@ -75,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 13,
       "top_items": [
         {
           "title": "【AWS CDK】「IaCにすれば工数削減」は本当か？ AWS CDKの再利用性を整理してみた【概念編】",
