@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-28T20:52:44.632932+00:00",
+  "generated_at": "2026-07-28T21:25:20.287973+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 363,
@@ -47,13 +47,6 @@
       "score": 991,
       "source": "hn",
       "date": "2026-07-26T11:53:17+00:00"
-    },
-    {
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 987,
-      "source": "hn",
-      "date": "2026-07-23T15:18:40+00:00"
     },
     {
       "title": "Android May Soon Restrict On-Device ADB",
@@ -126,6 +119,13 @@
       "date": "2026-07-24T06:17:08+00:00"
     },
     {
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "score": 483,
+      "source": "hn",
+      "date": "2026-07-28T13:12:01+00:00"
+    },
+    {
       "title": "98.css",
       "url": "https://jdan.github.io/98.css/#status-bar",
       "score": 474,
@@ -140,21 +140,28 @@
       "date": "2026-07-26T12:00:11+00:00"
     },
     {
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 457,
-      "source": "hn",
-      "date": "2026-07-28T13:12:01+00:00"
-    },
-    {
       "title": "Be skeptical of OpenAI's rogue hacker agent story",
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
       "score": 438,
       "source": "hn",
       "date": "2026-07-24T16:33:31+00:00"
+    },
+    {
+      "title": "How is the Bun Rewrite in Rust going?",
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "score": 428,
+      "source": "hn",
+      "date": "2026-07-27T11:12:26+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "OpenAI just open-sourced Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-28T20:52:55+00:00"
+    },
     {
       "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
       "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
@@ -231,13 +238,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-23T16:49:57+00:00"
-    },
-    {
-      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-23T15:11:37+00:00"
     }
   ]
 }

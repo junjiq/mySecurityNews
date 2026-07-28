@@ -1,9 +1,16 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T20:52:44.600699+00:00",
-  "total_articles": 90,
-  "urgent_count": 2,
+  "generated_at": "2026-07-28T21:25:20.243058+00:00",
+  "total_articles": 92,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "OpenAI just open-sourced Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-28T20:52:55+00:00"
+    },
     {
       "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
       "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 74,
+      "count": 77,
       "top_items": [
         {
           "title": "Our position on open-weights models",
@@ -43,7 +50,7 @@
         {
           "title": "New HIV vaccine shows unprecedented success in preclinical study",
           "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-          "score": 457,
+          "score": 483,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T13:12:01+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 16,
+      "count": 15,
       "top_items": [
         {
           "title": "【AWS CDK】「IaCにすれば工数削減」は本当か？ AWS CDKの再利用性を整理してみた【概念編】",
