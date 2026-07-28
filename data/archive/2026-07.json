@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-28T19:36:06.934717+00:00",
+  "generated_at": "2026-07-28T20:27:08.399878+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 369,
-    "zennqiita": 81,
+    "hn": 363,
+    "zennqiita": 87,
     "project": 11
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 9,
     "medium": 2,
     "high": 3
   },
@@ -140,18 +140,18 @@
       "date": "2026-07-26T12:00:11+00:00"
     },
     {
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "score": 445,
+      "source": "hn",
+      "date": "2026-07-28T13:12:01+00:00"
+    },
+    {
       "title": "Be skeptical of OpenAI's rogue hacker agent story",
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
       "score": 438,
       "source": "hn",
       "date": "2026-07-24T16:33:31+00:00"
-    },
-    {
-      "title": "How is the Bun Rewrite in Rust going?",
-      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "score": 428,
-      "source": "hn",
-      "date": "2026-07-27T11:12:26+00:00"
     }
   ],
   "security_highlights": [
@@ -238,13 +238,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-23T15:11:37+00:00"
-    },
-    {
-      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "url": "https://learnopengl.com/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-23T14:53:34+00:00"
     }
   ]
 }
