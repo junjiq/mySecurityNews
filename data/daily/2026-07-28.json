@@ -1,7 +1,7 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T13:04:40.951966+00:00",
-  "total_articles": 73,
+  "generated_at": "2026-07-28T14:15:53.678946+00:00",
+  "total_articles": 84,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,12 +36,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 61,
+      "count": 70,
       "top_items": [
         {
           "title": "Our position on open-weights models",
           "url": "https://www.anthropic.com/news/position-open-weights-models",
-          "score": 1005,
+          "score": 1048,
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T22:03:49+00:00"
@@ -49,10 +49,18 @@
         {
           "title": "7.1 Earthquake in Japan",
           "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-          "score": 383,
+          "score": 491,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T07:44:24+00:00"
+        },
+        {
+          "title": "Benchmarking Opus 5 on SlopCodeBench",
+          "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+          "score": 346,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-27T22:37:52+00:00"
         },
         {
           "title": "Kimi-K3 Technical Report [pdf]",
@@ -61,14 +69,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-27T15:23:45+00:00"
-        },
-        {
-          "title": "Benchmarking Opus 5 on SlopCodeBench",
-          "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-          "score": 329,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-27T22:37:52+00:00"
         },
         {
           "title": "Using an open model feels surprisingly good",
@@ -82,8 +82,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 14,
       "top_items": [
+        {
+          "title": "【AWS CDK】「IaCにすれば工数削減」は本当か？ AWS CDKの再利用性を整理してみた【概念編】",
+          "url": "https://qiita.com/toyoday_8/items/a9a50da72a79d9e91a6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-28T23:07:37+09:00"
+        },
+        {
+          "title": "【ProcrastiNation】今日できることは明日でもできる、全力で先延ばしにしよう【Next.js】",
+          "url": "https://qiita.com/rana_kualu/items/7f6bb159f7d65e53620d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-28T22:32:19+09:00"
+        },
         {
           "title": "「最後に検証して」はもう書かなくていい — Claude Opus 5 でプロンプトの常識が逆転した4つのこと",
           "url": "https://qiita.com/jqit_suwa/items/74a96ce83dde5245407a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -107,22 +123,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-28T13:35:13+09:00"
-        },
-        {
-          "title": "人手不足はなぜ解消しないのか？ ― 改善ループを止める『移行コスト』と財源幻想 : システム設計視点の行動経済学 (6)",
-          "url": "https://qiita.com/maskot1977/items/ae2de9a27a2b2d30c84f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-28T13:18:05+09:00"
-        },
-        {
-          "title": "Laravel APIをフロントから呼ぶまで — 初心者向けの組み込み入門",
-          "url": "https://qiita.com/sewiihidekikudo/items/1897efacb6e1d24d1c15?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-28T11:56:43+09:00"
         }
       ]
     }
