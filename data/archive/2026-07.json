@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-29T15:14:22.708242+00:00",
+  "generated_at": "2026-07-29T16:01:26.798102+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 373,
-    "zennqiita": 77,
+    "hn": 374,
+    "zennqiita": 76,
     "project": 11
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 11,
     "medium": 4,
     "high": 2
   },
@@ -70,13 +70,6 @@
       "date": "2026-07-28T07:44:24+00:00"
     },
     {
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 628,
-      "source": "hn",
-      "date": "2026-07-24T11:54:41+00:00"
-    },
-    {
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
       "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
       "score": 606,
@@ -133,6 +126,13 @@
       "date": "2026-07-26T12:00:11+00:00"
     },
     {
+      "title": "KOReader",
+      "url": "https://koreader.rocks/",
+      "score": 443,
+      "source": "hn",
+      "date": "2026-07-29T11:05:08+00:00"
+    },
+    {
       "title": "How to survive boiling water",
       "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
       "score": 440,
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-29T15:05:43+00:00"
+    },
     {
       "title": "Valve Sponsors Work Bringing Open-Source RADV Driver to Windows",
       "url": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows",
