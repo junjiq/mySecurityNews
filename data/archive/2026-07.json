@@ -1,15 +1,15 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-28T23:48:23.117417+00:00",
+  "generated_at": "2026-07-29T00:29:27.977199+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 363,
-    "zennqiita": 87,
+    "hn": 364,
+    "zennqiita": 86,
     "project": 11
   },
   "severity_counts": {
     "medium": 3,
-    "critical": 8,
+    "critical": 7,
     "high": 2
   },
   "top_articles": [
@@ -105,6 +105,13 @@
       "date": "2026-07-27T12:32:12+00:00"
     },
     {
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "score": 549,
+      "source": "hn",
+      "date": "2026-07-28T13:12:01+00:00"
+    },
+    {
       "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
       "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
       "score": 540,
@@ -117,13 +124,6 @@
       "score": 537,
       "source": "hn",
       "date": "2026-07-24T06:17:08+00:00"
-    },
-    {
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 535,
-      "source": "hn",
-      "date": "2026-07-28T13:12:01+00:00"
     },
     {
       "title": "98.css",
@@ -155,13 +155,6 @@
     }
   ],
   "security_highlights": [
-    {
-      "title": "OpenAI just open-sourced Codex Security",
-      "url": "https://github.com/openai/codex-security",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-28T20:52:55+00:00"
-    },
     {
       "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
       "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
