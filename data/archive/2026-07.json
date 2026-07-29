@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-29T16:01:26.798102+00:00",
+  "generated_at": "2026-07-29T16:55:33.712373+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 374,
-    "zennqiita": 76,
+    "hn": 375,
+    "zennqiita": 75,
     "project": 11
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "medium": 4,
     "high": 2
   },
@@ -112,6 +112,13 @@
       "date": "2026-07-25T01:44:12+00:00"
     },
     {
+      "title": "KOReader",
+      "url": "https://koreader.rocks/",
+      "score": 494,
+      "source": "hn",
+      "date": "2026-07-29T11:05:08+00:00"
+    },
+    {
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
       "score": 468,
@@ -124,13 +131,6 @@
       "score": 462,
       "source": "hn",
       "date": "2026-07-26T12:00:11+00:00"
-    },
-    {
-      "title": "KOReader",
-      "url": "https://koreader.rocks/",
-      "score": 443,
-      "source": "hn",
-      "date": "2026-07-29T11:05:08+00:00"
     },
     {
       "title": "How to survive boiling water",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-29T16:36:59+00:00"
+    },
     {
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
