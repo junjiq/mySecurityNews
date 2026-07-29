@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-29T14:15:52.937626+00:00",
+  "generated_at": "2026-07-29T15:14:22.708242+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 371,
-    "zennqiita": 79,
+    "hn": 373,
+    "zennqiita": 77,
     "project": 11
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 10,
     "medium": 4,
     "high": 2
   },
@@ -98,18 +98,18 @@
       "date": "2026-07-27T12:32:12+00:00"
     },
     {
+      "title": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 568,
+      "source": "hn",
+      "date": "2026-07-28T20:52:55+00:00"
+    },
+    {
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
       "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
       "score": 559,
       "source": "hn",
       "date": "2026-07-28T13:12:01+00:00"
-    },
-    {
-      "title": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
-      "score": 549,
-      "source": "hn",
-      "date": "2026-07-28T20:52:55+00:00"
     },
     {
       "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Valve Sponsors Work Bringing Open-Source RADV Driver to Windows",
+      "url": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-29T13:55:00+00:00"
+    },
     {
       "title": "We Hardened an AI Security Platform Against 16 Critical Vulnerabilities",
       "url": "https://aegis-security.higgsfield.app",
