@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T20:47:03.689072+00:00",
-  "total_articles": 88,
+  "generated_at": "2026-07-29T21:19:21.387272+00:00",
+  "total_articles": 87,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,28 +43,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 77,
+      "count": 76,
       "top_items": [
         {
           "title": "KOReader",
           "url": "https://koreader.rocks/",
-          "score": 600,
+          "score": 611,
           "source": "hn",
           "severity": null,
           "date": "2026-07-29T11:05:08+00:00"
         },
         {
-          "title": "Codex Security",
-          "url": "https://github.com/openai/codex-security",
-          "score": 568,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-28T20:52:55+00:00"
-        },
-        {
           "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
           "url": "https://github.com/drumih/turbo-fieldfare",
-          "score": 510,
+          "score": 535,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-29T15:05:43+00:00"
@@ -72,7 +64,7 @@
         {
           "title": "Superlogical",
           "url": "https://www.superlogical.com/",
-          "score": 376,
+          "score": 397,
           "source": "hn",
           "severity": null,
           "date": "2026-07-29T15:41:33+00:00"
@@ -84,6 +76,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T22:09:06+00:00"
+        },
+        {
+          "title": "More Tailscale tricks for your jailbroken Kindle",
+          "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+          "score": 366,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-29T04:58:46+00:00"
         }
       ]
     },
@@ -97,7 +97,7 @@
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-30T05:34:22+09:00"
+          "date": "2026-07-30T05:51:25+09:00"
         },
         {
           "title": "oracle-ai-ready-data Skill 第2回: Databaseのメタデータを整備してAI Readyスコアを0.22から0.97へ改善し、Select AIで確認してみてみた",
