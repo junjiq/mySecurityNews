@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T18:23:54.051989+00:00",
-  "total_articles": 79,
+  "generated_at": "2026-07-29T18:48:30.095796+00:00",
+  "total_articles": 77,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,7 +43,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 74,
+      "count": 72,
       "top_items": [
         {
           "title": "Codex Security",
@@ -56,10 +56,18 @@
         {
           "title": "KOReader",
           "url": "https://koreader.rocks/",
-          "score": 541,
+          "score": 557,
           "source": "hn",
           "severity": null,
           "date": "2026-07-29T11:05:08+00:00"
+        },
+        {
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "score": 396,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-07-29T15:05:43+00:00"
         },
         {
           "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
@@ -70,17 +78,9 @@
           "date": "2026-07-28T22:09:06+00:00"
         },
         {
-          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "score": 369,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-07-29T15:05:43+00:00"
-        },
-        {
           "title": "More Tailscale tricks for your jailbroken Kindle",
           "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-          "score": 365,
+          "score": 366,
           "source": "hn",
           "severity": null,
           "date": "2026-07-29T04:58:46+00:00"
