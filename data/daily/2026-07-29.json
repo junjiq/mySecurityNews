@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T07:26:37.174515+00:00",
-  "total_articles": 80,
+  "generated_at": "2026-07-29T08:19:29.783038+00:00",
+  "total_articles": 83,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,16 +29,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 76,
+      "count": 75,
       "top_items": [
-        {
-          "title": "7.1 Earthquake in Japan",
-          "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-          "score": 737,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-28T07:44:24+00:00"
-        },
         {
           "title": "New HIV vaccine shows unprecedented success in preclinical study",
           "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
@@ -50,7 +42,7 @@
         {
           "title": "Substack writers, you need a website",
           "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-          "score": 504,
+          "score": 515,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T16:58:31+00:00"
@@ -58,7 +50,7 @@
         {
           "title": "Codex Security",
           "url": "https://github.com/openai/codex-security",
-          "score": 473,
+          "score": 485,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T20:52:55+00:00"
@@ -66,17 +58,57 @@
         {
           "title": "Kimi K3 Architecture Overview and Notes",
           "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-          "score": 389,
+          "score": 402,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T15:48:34+00:00"
+        },
+        {
+          "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
+          "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
+          "score": 354,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-28T14:58:15+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 8,
       "top_items": [
+        {
+          "title": "スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）を、IBM Bob を使って構築しました",
+          "url": "https://qiita.com/Shumpei_Kubo/items/65691b8b38767674bd92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-29T16:09:57+09:00"
+        },
+        {
+          "title": "絵の描き方をさくらのAI Engineに教えてもらいました",
+          "url": "https://qiita.com/torifukukaiou/items/c12bb99ef2016e2a3f0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-29T12:03:26+09:00"
+        },
+        {
+          "title": "オンプレミスからプライベートなAPI Gatewayを呼ぶ ― CognitoのTokenエンドポイントをAPI Gatewayでプロキシする構成",
+          "url": "https://qiita.com/ajisawa/items/43dc7431773cab0b76b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-29T09:32:47+09:00"
+        },
+        {
+          "title": "フロントエンド挫折勢！StreamlitならPythonだけで実用的なWebアプリ、ツールが即作れる。導入、初心者へ",
+          "url": "https://qiita.com/hello_itoLab/items/072d4b33c49491d16c5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-29T08:39:20+09:00"
+        },
         {
           "title": "【AWS CDK】「IaCにすれば工数削減」は本当か？ AWS CDKの再利用性を整理してみた【概念編】",
           "url": "https://qiita.com/toyoday_8/items/a9a50da72a79d9e91a6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -84,30 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-28T23:07:37+09:00"
-        },
-        {
-          "title": "【ProcrastiNation】今日できることは明日でもできる、全力で先延ばしにしよう【Next.js】",
-          "url": "https://qiita.com/rana_kualu/items/7f6bb159f7d65e53620d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-28T22:32:19+09:00"
-        },
-        {
-          "title": "FindyのDevRelインターンとして、イベント参加者から運営になって。",
-          "url": "https://qiita.com/husensan/items/62bf2a60f313d1e3de3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-28T17:45:40+09:00"
-        },
-        {
-          "title": "Claude Opus 5登場！ベンチマーク分析・価格・Fable 5 / GPT-5.6との徹底比較",
-          "url": "https://qiita.com/Adachit-1411/items/3dd6bc76c81aa6918b84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-28T16:55:46+09:00"
         }
       ]
     }
