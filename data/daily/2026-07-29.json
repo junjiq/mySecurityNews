@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T09:25:43.148506+00:00",
-  "total_articles": 83,
-  "urgent_count": 3,
+  "generated_at": "2026-07-29T10:20:55.393024+00:00",
+  "total_articles": 78,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Hubble: Open-source notetaking app for you and your agents",
@@ -17,19 +17,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-28T12:02:57+00:00"
-    },
-    {
-      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-28T10:20:50+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 76,
+      "count": 72,
       "top_items": [
         {
           "title": "New HIV vaccine shows unprecedented success in preclinical study",
@@ -42,7 +35,7 @@
         {
           "title": "Substack writers, you need a website",
           "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-          "score": 533,
+          "score": 549,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T16:58:31+00:00"
@@ -50,7 +43,7 @@
         {
           "title": "Codex Security",
           "url": "https://github.com/openai/codex-security",
-          "score": 496,
+          "score": 505,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T20:52:55+00:00"
@@ -58,7 +51,7 @@
         {
           "title": "Kimi K3 Architecture Overview and Notes",
           "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-          "score": 417,
+          "score": 427,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T15:48:34+00:00"
@@ -75,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）を、IBM Bob を使って構築しました",
