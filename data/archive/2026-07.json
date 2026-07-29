@@ -1,15 +1,15 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-29T11:17:25.578396+00:00",
+  "generated_at": "2026-07-29T12:12:51.905778+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 366,
-    "zennqiita": 84,
+    "hn": 368,
+    "zennqiita": 82,
     "project": 11
   },
   "severity_counts": {
+    "critical": 9,
     "medium": 4,
-    "critical": 8,
     "high": 2
   },
   "top_articles": [
@@ -77,13 +77,6 @@
       "date": "2026-07-24T09:08:17+00:00"
     },
     {
-      "title": "It's getting harder to focus every day",
-      "url": "https://glyphack.com/attention/",
-      "score": 671,
-      "source": "hn",
-      "date": "2026-07-24T08:18:30+00:00"
-    },
-    {
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
       "score": 628,
@@ -107,7 +100,7 @@
     {
       "title": "Substack writers, you need a website",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 559,
+      "score": 569,
       "source": "hn",
       "date": "2026-07-28T16:58:31+00:00"
     },
@@ -128,7 +121,7 @@
     {
       "title": "Codex Security",
       "url": "https://github.com/openai/codex-security",
-      "score": 513,
+      "score": 526,
       "source": "hn",
       "date": "2026-07-28T20:52:55+00:00"
     },
@@ -142,7 +135,7 @@
     {
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 441,
+      "score": 454,
       "source": "hn",
       "date": "2026-07-28T15:48:34+00:00"
     },
@@ -152,9 +145,23 @@
       "score": 440,
       "source": "hn",
       "date": "2026-07-24T14:19:16+00:00"
+    },
+    {
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "score": 438,
+      "source": "hn",
+      "date": "2026-07-24T16:33:31+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "We Hardened an AI Security Platform Against 16 Critical Vulnerabilities",
+      "url": "https://aegis-security.higgsfield.app",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-29T10:56:00+00:00"
+    },
     {
       "title": "Hubble: Open-source notetaking app for you and your agents",
       "url": "https://www.hubble.md/",

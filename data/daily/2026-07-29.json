@@ -1,33 +1,33 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T11:17:25.530911+00:00",
-  "total_articles": 80,
+  "generated_at": "2026-07-29T12:12:51.857870+00:00",
+  "total_articles": 84,
   "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "We Hardened an AI Security Platform Against 16 Critical Vulnerabilities",
+      "url": "https://aegis-security.higgsfield.app",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-29T10:56:00+00:00"
+    },
     {
       "title": "Hubble: Open-source notetaking app for you and your agents",
       "url": "https://www.hubble.md/",
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-29T00:11:23+00:00"
-    },
-    {
-      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-28T12:02:57+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 74,
+      "count": 78,
       "top_items": [
         {
           "title": "Substack writers, you need a website",
           "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-          "score": 559,
+          "score": 569,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T16:58:31+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "Codex Security",
           "url": "https://github.com/openai/codex-security",
-          "score": 513,
+          "score": 526,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T20:52:55+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "Kimi K3 Architecture Overview and Notes",
           "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-          "score": 441,
+          "score": 454,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T15:48:34+00:00"
