@@ -1,11 +1,11 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T01:03:12.550770+00:00",
+  "generated_at": "2026-07-29T02:17:15.238427+00:00",
   "total_articles": 89,
   "urgent_count": 3,
   "urgent_items": [
     {
-      "title": "Hubbele: Open-source notetaking app for you and your agents",
+      "title": "Hubble: Open-source notetaking app for you and your agents",
       "url": "https://www.hubble.md/",
       "severity": "critical",
       "source": "hn",
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 77,
+      "count": 78,
       "top_items": [
         {
           "title": "7.1 Earthquake in Japan",
@@ -50,10 +50,18 @@
         {
           "title": "Substack writers, you need a website",
           "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-          "score": 399,
+          "score": 421,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T16:58:31+00:00"
+        },
+        {
+          "title": "Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "score": 354,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-28T20:52:55+00:00"
         },
         {
           "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
@@ -62,20 +70,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T14:58:15+00:00"
-        },
-        {
-          "title": "Codex Security",
-          "url": "https://github.com/openai/codex-security",
-          "score": 324,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-28T20:52:55+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "【AWS CDK】「IaCにすれば工数削減」は本当か？ AWS CDKの再利用性を整理してみた【概念編】",
