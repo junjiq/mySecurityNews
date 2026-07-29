@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T12:12:51.857870+00:00",
+  "generated_at": "2026-07-29T13:08:01.396602+00:00",
   "total_articles": 84,
   "urgent_count": 2,
   "urgent_items": [
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 78,
+      "count": 77,
       "top_items": [
         {
           "title": "Substack writers, you need a website",
           "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-          "score": 569,
+          "score": 581,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T16:58:31+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "Codex Security",
           "url": "https://github.com/openai/codex-security",
-          "score": 526,
+          "score": 536,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T20:52:55+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "Kimi K3 Architecture Overview and Notes",
           "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-          "score": 454,
+          "score": 468,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T15:48:34+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 7,
       "top_items": [
+        {
+          "title": "oracle-ai-ready-data Skill 第2回: Databaseのメタデータを整備してAI Readyスコアを0.22から0.97へ改善し、Select AIで確認してみてみた",
+          "url": "https://qiita.com/shirok/items/6a2a3e6992ab0eb93d7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-29T21:24:22+09:00"
+        },
         {
           "title": "スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）を、IBM Bob を使って構築しました",
           "url": "https://qiita.com/Shumpei_Kubo/items/65691b8b38767674bd92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-29T08:39:20+09:00"
-        },
-        {
-          "title": "【AWS CDK】「IaCにすれば工数削減」は本当か？ AWS CDKの再利用性を整理してみた【概念編】",
-          "url": "https://qiita.com/toyoday_8/items/a9a50da72a79d9e91a6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-28T23:07:37+09:00"
         }
       ]
     }

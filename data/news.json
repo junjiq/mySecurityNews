@@ -1,14 +1,71 @@
 {
-  "updated_at": "2026-07-29T12:12:51.794482+00:00",
+  "updated_at": "2026-07-29T13:08:01.333578+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49096742",
+      "source": "hn",
+      "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
+      "url": "https://jcgt.org/published/0015/02/01/",
+      "score": 3,
+      "comments": 0,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-07-29T12:40:13+00:00"
+    },
+    {
+      "id": "qiita-20948aa14e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "oracle-ai-ready-data Skill 第2回: Databaseのメタデータを整備してAI Readyスコアを0.22から0.97へ改善し、Select AIで確認してみてみた",
+      "url": "https://qiita.com/shirok/items/6a2a3e6992ab0eb93d7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-29T21:24:22+09:00"
+    },
+    {
+      "id": "hn-49096493",
+      "source": "hn",
+      "title": "Pulse Path – a browser puzzle where placement is the only decision",
+      "url": "https://pulsepathgame.netlify.app/",
+      "score": 3,
+      "comments": 0,
+      "author": "crysislol",
+      "tags": [],
+      "date": "2026-07-29T12:19:30+00:00"
+    },
+    {
+      "id": "hn-49096427",
+      "source": "hn",
+      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "score": 3,
+      "comments": 0,
+      "author": "nyku",
+      "tags": [],
+      "date": "2026-07-29T12:11:18+00:00"
+    },
+    {
+      "id": "hn-49096290",
+      "source": "hn",
+      "title": "French musician Kavinsky found dead",
+      "url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+      "score": 69,
+      "comments": 10,
+      "author": "bristleworm",
+      "tags": [],
+      "date": "2026-07-29T11:54:37+00:00"
+    },
     {
       "id": "hn-49096188",
       "source": "hn",
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
       "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "score": 20,
-      "comments": 6,
+      "score": 82,
+      "comments": 56,
       "author": "Canopy9560",
       "tags": [],
       "date": "2026-07-29T11:44:33+00:00"
@@ -29,8 +86,8 @@
       "source": "hn",
       "title": "KOReader",
       "url": "https://koreader.rocks/",
-      "score": 46,
-      "comments": 8,
+      "score": 143,
+      "comments": 56,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-07-29T11:05:08+00:00"
@@ -75,7 +132,7 @@
       "source": "hn",
       "title": "SpecForge – A Platform for Authoring Formal Specifications",
       "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
-      "score": 25,
+      "score": 36,
       "comments": 1,
       "author": "agnishom",
       "tags": [],
@@ -86,8 +143,8 @@
       "source": "hn",
       "title": "Amiga Graphics Archive",
       "url": "https://amiga.lychesis.net/index.html",
-      "score": 36,
-      "comments": 5,
+      "score": 50,
+      "comments": 9,
       "author": "Bluestein",
       "tags": [],
       "date": "2026-07-29T10:19:44+00:00"
@@ -97,8 +154,8 @@
       "source": "hn",
       "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
       "url": "https://vimgolf.ai",
-      "score": 13,
-      "comments": 12,
+      "score": 19,
+      "comments": 16,
       "author": "nickandbro",
       "tags": [],
       "date": "2026-07-29T09:26:52+00:00"
@@ -108,8 +165,8 @@
       "source": "hn",
       "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
       "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-      "score": 100,
-      "comments": 40,
+      "score": 118,
+      "comments": 45,
       "author": "ankitg12",
       "tags": [],
       "date": "2026-07-29T07:18:24+00:00"
@@ -132,8 +189,8 @@
       "source": "hn",
       "title": "More Tailscale tricks for your jailbroken Kindle",
       "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "score": 250,
-      "comments": 84,
+      "score": 266,
+      "comments": 92,
       "author": "Error6571",
       "tags": [],
       "date": "2026-07-29T04:58:46+00:00"
@@ -143,8 +200,8 @@
       "source": "hn",
       "title": "Cracking Windows Open: Porting RADV to Win32",
       "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-      "score": 57,
-      "comments": 19,
+      "score": 63,
+      "comments": 21,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-29T04:30:47+00:00"
@@ -154,8 +211,8 @@
       "source": "hn",
       "title": "User Interfaces of the Demo Scene",
       "url": "https://www.datagubbe.se/scenegui/",
-      "score": 253,
-      "comments": 40,
+      "score": 273,
+      "comments": 44,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-29T04:30:36+00:00"
@@ -165,8 +222,8 @@
       "source": "hn",
       "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
       "url": "https://transformer-transformer.github.io/",
-      "score": 57,
-      "comments": 5,
+      "score": 65,
+      "comments": 7,
       "author": "ilreb",
       "tags": [],
       "date": "2026-07-29T03:52:29+00:00"
@@ -222,8 +279,8 @@
       "source": "hn",
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
       "url": "https://learnvector.ai/",
-      "score": 217,
-      "comments": 134,
+      "score": 223,
+      "comments": 143,
       "author": "ajhai",
       "tags": [],
       "date": "2026-07-29T01:49:19+00:00"
@@ -326,8 +383,8 @@
       "source": "hn",
       "title": "ReFrame – The EPaper Camera",
       "url": "https://reframe.camera/",
-      "score": 156,
-      "comments": 33,
+      "score": 165,
+      "comments": 37,
       "author": "phil294",
       "tags": [],
       "date": "2026-07-28T23:27:09+00:00"
@@ -371,7 +428,7 @@
       "source": "hn",
       "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
       "url": "https://github.com/twalichiewicz/HNewhere",
-      "score": 336,
+      "score": 350,
       "comments": 100,
       "author": "twalichiewicz",
       "tags": [],
@@ -404,8 +461,8 @@
       "source": "hn",
       "title": "Half-Life ported to Mac OS 9",
       "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "score": 262,
-      "comments": 125,
+      "score": 275,
+      "comments": 129,
       "author": "freediver",
       "tags": [],
       "date": "2026-07-28T20:58:39+00:00"
@@ -415,8 +472,8 @@
       "source": "hn",
       "title": "Codex Security",
       "url": "https://github.com/openai/codex-security",
-      "score": 526,
-      "comments": 191,
+      "score": 536,
+      "comments": 193,
       "author": "bakigul",
       "tags": [],
       "date": "2026-07-28T20:52:55+00:00"
@@ -558,7 +615,7 @@
       "source": "hn",
       "title": "Steel Bank Common Lisp version 2.6.7",
       "url": "https://sbcl.org/all-news.html?2.6.7",
-      "score": 247,
+      "score": 249,
       "comments": 114,
       "author": "tmtvl",
       "tags": [],
@@ -591,8 +648,8 @@
       "source": "hn",
       "title": "Substack writers, you need a website",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 569,
-      "comments": 304,
+      "score": 581,
+      "comments": 309,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-28T16:58:31+00:00"
@@ -657,8 +714,8 @@
       "source": "hn",
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 454,
-      "comments": 98,
+      "score": 468,
+      "comments": 101,
       "author": "ModelForge",
       "tags": [],
       "date": "2026-07-28T15:48:34+00:00"
@@ -1344,19 +1401,6 @@
       "author": "knighthacker",
       "tags": [],
       "date": "2026-07-27T23:33:04+00:00"
-    },
-    {
-      "id": "qiita-20948aa14e",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "oracle-ai-ready-data Skill 第2回: Databaseのメタデータを整備してAI Readyスコアを0.22から0.97へ改善し、Select AIで確認してみてみた",
-      "url": "https://qiita.com/shirok/items/6a2a3e6992ab0eb93d7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-28T08:26:34+09:00"
     },
     {
       "id": "hn-49076975",
@@ -2678,8 +2722,8 @@
       "source": "hn",
       "title": "Lisp moving Forth moving Lisp",
       "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-      "score": 46,
-      "comments": 16,
+      "score": 56,
+      "comments": 18,
       "author": "fallat",
       "tags": [],
       "date": "2026-07-26T17:37:33+00:00"
@@ -3461,6 +3505,17 @@
       "author": "mellosouls",
       "tags": [],
       "date": "2026-07-25T20:42:35+00:00"
+    },
+    {
+      "id": "hn-49051355",
+      "source": "hn",
+      "title": "ALP: Adaptive lossless floating-point compression",
+      "url": "https://github.com/cwida/ALP",
+      "score": 5,
+      "comments": 0,
+      "author": "fanf2",
+      "tags": [],
+      "date": "2026-07-25T20:42:05+00:00"
     },
     {
       "id": "hn-49051120",
@@ -5076,71 +5131,12 @@
       "date": "2026-07-24T18:09:51+09:00"
     },
     {
-      "id": "hn-49033004",
-      "source": "hn",
-      "title": "If coding has been solved, why does software keep getting worse?",
-      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-      "score": 709,
-      "comments": 531,
-      "author": "pchm",
-      "tags": [],
-      "date": "2026-07-24T09:08:17+00:00"
-    },
-    {
-      "id": "hn-49033001",
-      "source": "hn",
-      "title": "The day Steve Jobs dissed me in a keynote (2010)",
-      "url": "https://sive.rs/itunes",
-      "score": 127,
-      "comments": 33,
-      "author": "downbad_",
-      "tags": [],
-      "date": "2026-07-24T09:07:44+00:00"
-    },
-    {
-      "id": "qiita-691d9f1bf1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "MCPサーバの`GET /mcp`を200で返したら、Cloudflareの無料枠10万リクエストが7時間で溶けた話",
-      "url": "https://qiita.com/viva_tweet_x/items/3ff94aa7a63392e56d20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "viva_tweet_x",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-24T17:42:26+09:00"
-    },
-    {
-      "id": "hn-49032756",
-      "source": "hn",
-      "title": "The Book Prize Index",
-      "url": "https://book-prize-index.vercel.app",
-      "score": 41,
-      "comments": 3,
-      "author": "Luc",
-      "tags": [],
-      "date": "2026-07-24T08:29:11+00:00"
-    },
-    {
-      "id": "qiita-62f8e0e2a9",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【研修備忘録】Spring Boot 開発＆テストでよく使ったアノテーション・メソッドまとめ",
-      "url": "https://qiita.com/otokoumeKM/items/ebe23656e7ac5876365d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "otokoumeKM",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-24T17:25:29+09:00"
-    },
-    {
       "id": "hn-49012754",
       "source": "hn",
       "title": "Ancient Rome's version of Google Maps: how long to reach the beach",
       "url": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
-      "score": 28,
-      "comments": 21,
+      "score": 38,
+      "comments": 29,
       "author": "gnabgib",
       "tags": [],
       "date": "2026-07-22T20:14:38+00:00"
