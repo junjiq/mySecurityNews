@@ -1,17 +1,40 @@
 {
-  "updated_at": "2026-07-29T00:29:27.882527+00:00",
+  "updated_at": "2026-07-29T01:03:12.488984+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49091895",
+      "source": "hn",
+      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+      "score": 4,
+      "comments": 0,
+      "author": "ejboy",
+      "tags": [],
+      "date": "2026-07-29T00:32:08+00:00"
+    },
     {
       "id": "hn-49091738",
       "source": "hn",
       "title": "The Difference Between a Button and a Link",
       "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-      "score": 4,
-      "comments": 0,
+      "score": 14,
+      "comments": 3,
       "author": "alexpetros",
       "tags": [],
       "date": "2026-07-29T00:12:14+00:00"
+    },
+    {
+      "id": "hn-49091730",
+      "source": "hn",
+      "title": "Hubbele: Open-source notetaking app for you and your agents",
+      "url": "https://www.hubble.md/",
+      "score": 16,
+      "comments": 0,
+      "author": "handfuloflight",
+      "tags": [],
+      "date": "2026-07-29T00:11:23+00:00",
+      "severity": "critical"
     },
     {
       "id": "hn-49091703",
@@ -25,12 +48,23 @@
       "date": "2026-07-29T00:07:43+00:00"
     },
     {
+      "id": "hn-49091379",
+      "source": "hn",
+      "title": "ReFrame – The EPaper Camera",
+      "url": "https://reframe.camera/",
+      "score": 11,
+      "comments": 3,
+      "author": "phil294",
+      "tags": [],
+      "date": "2026-07-28T23:27:09+00:00"
+    },
+    {
       "id": "hn-49091153",
       "source": "hn",
       "title": "Schools are adding pepper-spraying drones to help combat active shooters",
       "url": "https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/",
-      "score": 6,
-      "comments": 1,
+      "score": 19,
+      "comments": 39,
       "author": "zdw",
       "tags": [],
       "date": "2026-07-28T23:00:02+00:00"
@@ -63,8 +97,8 @@
       "source": "hn",
       "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
       "url": "https://github.com/twalichiewicz/HNewhere",
-      "score": 82,
-      "comments": 29,
+      "score": 97,
+      "comments": 32,
       "author": "twalichiewicz",
       "tags": [],
       "date": "2026-07-28T22:09:06+00:00"
@@ -74,8 +108,8 @@
       "source": "hn",
       "title": "Running Kimi K3 on a M1 Max",
       "url": "https://github.com/gavamedia/deltafin",
-      "score": 79,
-      "comments": 58,
+      "score": 88,
+      "comments": 64,
       "author": "tito",
       "tags": [],
       "date": "2026-07-28T21:35:19+00:00"
@@ -96,8 +130,8 @@
       "source": "hn",
       "title": "Half-Life ported to Mac OS 9",
       "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "score": 121,
-      "comments": 44,
+      "score": 128,
+      "comments": 54,
       "author": "freediver",
       "tags": [],
       "date": "2026-07-28T20:58:39+00:00"
@@ -107,8 +141,8 @@
       "source": "hn",
       "title": "Codex Security",
       "url": "https://github.com/openai/codex-security",
-      "score": 301,
-      "comments": 75,
+      "score": 324,
+      "comments": 87,
       "author": "bakigul",
       "tags": [],
       "date": "2026-07-28T20:52:55+00:00"
@@ -151,8 +185,8 @@
       "source": "hn",
       "title": "Pacing the frontier",
       "url": "https://www.pacingthefrontier.com/",
-      "score": 63,
-      "comments": 51,
+      "score": 69,
+      "comments": 58,
       "author": "reducesuffering",
       "tags": [],
       "date": "2026-07-28T20:09:09+00:00"
@@ -206,7 +240,7 @@
       "source": "hn",
       "title": "MCP 2026-07-28 Specification: transport going stateless",
       "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-      "score": 95,
+      "score": 98,
       "comments": 32,
       "author": "Eldodi",
       "tags": [],
@@ -217,8 +251,8 @@
       "source": "hn",
       "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
       "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-      "score": 130,
-      "comments": 226,
+      "score": 136,
+      "comments": 233,
       "author": "lkurtz",
       "tags": [],
       "date": "2026-07-28T17:37:12+00:00"
@@ -228,8 +262,8 @@
       "source": "hn",
       "title": "Discovering Cryptographic Weaknesses with Claude",
       "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "score": 170,
-      "comments": 111,
+      "score": 175,
+      "comments": 118,
       "author": "gslin",
       "tags": [],
       "date": "2026-07-28T17:22:16+00:00"
@@ -250,8 +284,8 @@
       "source": "hn",
       "title": "Steel Bank Common Lisp version 2.6.7",
       "url": "https://sbcl.org/all-news.html?2.6.7",
-      "score": 189,
-      "comments": 79,
+      "score": 195,
+      "comments": 81,
       "author": "tmtvl",
       "tags": [],
       "date": "2026-07-28T17:11:54+00:00"
@@ -283,8 +317,8 @@
       "source": "hn",
       "title": "Substack writers, you need a website",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 391,
-      "comments": 203,
+      "score": 399,
+      "comments": 207,
       "author": "speckx",
       "tags": [],
       "date": "2026-07-28T16:58:31+00:00"
@@ -338,8 +372,8 @@
       "source": "hn",
       "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
       "url": "https://www.slow-journalism.com/",
-      "score": 230,
-      "comments": 128,
+      "score": 232,
+      "comments": 134,
       "author": "speerer",
       "tags": [],
       "date": "2026-07-28T15:50:38+00:00"
@@ -349,8 +383,8 @@
       "source": "hn",
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 290,
-      "comments": 37,
+      "score": 298,
+      "comments": 39,
       "author": "ModelForge",
       "tags": [],
       "date": "2026-07-28T15:48:34+00:00"
@@ -360,8 +394,8 @@
       "source": "hn",
       "title": "Zig's Incremental Compilation Internals",
       "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-      "score": 184,
-      "comments": 132,
+      "score": 188,
+      "comments": 133,
       "author": "garyhtou",
       "tags": [],
       "date": "2026-07-28T15:46:45+00:00"
@@ -459,8 +493,8 @@
       "source": "hn",
       "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
       "url": "https://unawatch.com/",
-      "score": 131,
-      "comments": 86,
+      "score": 133,
+      "comments": 88,
       "author": "pimterry",
       "tags": [],
       "date": "2026-07-28T14:48:13+00:00"
@@ -573,8 +607,8 @@
       "source": "hn",
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
       "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 549,
-      "comments": 235,
+      "score": 559,
+      "comments": 238,
       "author": "codebyaditya",
       "tags": [],
       "date": "2026-07-28T13:12:01+00:00"
@@ -651,8 +685,8 @@
       "source": "hn",
       "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
       "url": "https://arxiv.org/abs/2510.26692",
-      "score": 269,
-      "comments": 116,
+      "score": 275,
+      "comments": 117,
       "author": "ronfriedhaber",
       "tags": [],
       "date": "2026-07-28T10:52:30+00:00"
@@ -2627,7 +2661,7 @@
       "source": "hn",
       "title": "Teach yourself programming in ten years (1998)",
       "url": "https://www.norvig.com/21-days.html",
-      "score": 10,
+      "score": 22,
       "comments": 1,
       "author": "vinhnx",
       "tags": [],
@@ -4125,8 +4159,8 @@
       "source": "hn",
       "title": "The Fabled Flatbreads of Uzbekistan (2015)",
       "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
-      "score": 70,
-      "comments": 49,
+      "score": 72,
+      "comments": 53,
       "author": "jxub",
       "tags": [],
       "date": "2026-07-24T14:43:57+00:00"
@@ -4919,6 +4953,17 @@
       "date": "2026-07-24T10:30:00+09:00"
     },
     {
+      "id": "hn-49030140",
+      "source": "hn",
+      "title": "Lockless MPSC FIFO queues for io_uring",
+      "url": "https://lwn.net/Articles/1081871/",
+      "score": 4,
+      "comments": 0,
+      "author": "signa11",
+      "tags": [],
+      "date": "2026-07-24T01:06:06+00:00"
+    },
+    {
       "id": "qiita-c8f47f7a5d",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -5019,8 +5064,8 @@
       "source": "hn",
       "title": "Show HN: How far do I have to go to run into 100k people?",
       "url": "https://imjasonh.github.io/playground/population-rays/",
-      "score": 36,
-      "comments": 31,
+      "score": 43,
+      "comments": 32,
       "author": "ImJasonH",
       "tags": [],
       "date": "2026-07-23T21:33:28+00:00"
@@ -5105,50 +5150,6 @@
       "author": "Bootvis",
       "tags": [],
       "date": "2026-07-23T19:37:37+00:00"
-    },
-    {
-      "id": "hn-49026755",
-      "source": "hn",
-      "title": "First Robotic Satellite Servicer Launched",
-      "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
-      "score": 70,
-      "comments": 37,
-      "author": "GlenTheMachine",
-      "tags": [],
-      "date": "2026-07-23T19:21:41+00:00"
-    },
-    {
-      "id": "hn-49026482",
-      "source": "hn",
-      "title": "Selfie for sign-in: a new, easy way to access your Google Account",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/",
-      "score": 37,
-      "comments": 34,
-      "author": "lkurtz",
-      "tags": [],
-      "date": "2026-07-23T19:00:34+00:00"
-    },
-    {
-      "id": "hn-49026059",
-      "source": "hn",
-      "title": "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
-      "url": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
-      "score": 7,
-      "comments": 0,
-      "author": "royapakzad",
-      "tags": [],
-      "date": "2026-07-23T18:29:22+00:00"
-    },
-    {
-      "id": "hn-49025984",
-      "source": "hn",
-      "title": "Building on ATProto",
-      "url": "https://lukekanies.com/writing/building-on-atproto/",
-      "score": 157,
-      "comments": 80,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-07-23T18:23:50+00:00"
     },
     {
       "id": "ctf-3782036",

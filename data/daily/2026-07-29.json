@@ -1,9 +1,16 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T00:29:27.939859+00:00",
-  "total_articles": 87,
-  "urgent_count": 2,
+  "generated_at": "2026-07-29T01:03:12.550770+00:00",
+  "total_articles": 89,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Hubbele: Open-source notetaking app for you and your agents",
+      "url": "https://www.hubble.md/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-29T00:11:23+00:00"
+    },
     {
       "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
       "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 74,
+      "count": 77,
       "top_items": [
         {
           "title": "7.1 Earthquake in Japan",
@@ -35,7 +42,7 @@
         {
           "title": "New HIV vaccine shows unprecedented success in preclinical study",
           "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-          "score": 549,
+          "score": 559,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T13:12:01+00:00"
@@ -43,7 +50,7 @@
         {
           "title": "Substack writers, you need a website",
           "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-          "score": 391,
+          "score": 399,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T16:58:31+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "Codex Security",
           "url": "https://github.com/openai/codex-security",
-          "score": 301,
+          "score": 324,
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T20:52:55+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "【AWS CDK】「IaCにすれば工数削減」は本当か？ AWS CDKの再利用性を整理してみた【概念編】",
