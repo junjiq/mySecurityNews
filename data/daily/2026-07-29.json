@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T20:00:37.355342+00:00",
-  "total_articles": 84,
+  "generated_at": "2026-07-29T20:47:03.689072+00:00",
+  "total_articles": 88,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,12 +43,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 79,
+      "count": 77,
       "top_items": [
         {
           "title": "KOReader",
           "url": "https://koreader.rocks/",
-          "score": 580,
+          "score": 600,
           "source": "hn",
           "severity": null,
           "date": "2026-07-29T11:05:08+00:00"
@@ -64,10 +64,18 @@
         {
           "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
           "url": "https://github.com/drumih/turbo-fieldfare",
-          "score": 476,
+          "score": 510,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-29T15:05:43+00:00"
+        },
+        {
+          "title": "Superlogical",
+          "url": "https://www.superlogical.com/",
+          "score": 376,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-29T15:41:33+00:00"
         },
         {
           "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
@@ -76,21 +84,21 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-28T22:09:06+00:00"
-        },
-        {
-          "title": "More Tailscale tricks for your jailbroken Kindle",
-          "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-          "score": 366,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-29T04:58:46+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 11,
       "top_items": [
+        {
+          "title": "Google A2AをサポートしたOCI Autonomous Databaseでマルチエージェントを実装してみる",
+          "url": "https://qiita.com/ksonoda/items/d2f2263cf9dc5d2ddd67?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-30T05:34:22+09:00"
+        },
         {
           "title": "oracle-ai-ready-data Skill 第2回: Databaseのメタデータを整備してAI Readyスコアを0.22から0.97へ改善し、Select AIで確認してみてみた",
           "url": "https://qiita.com/shirok/items/6a2a3e6992ab0eb93d7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -100,36 +108,28 @@
           "date": "2026-07-29T21:24:22+09:00"
         },
         {
-          "title": "スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）を、IBM Bob を使って構築しました",
-          "url": "https://qiita.com/Shumpei_Kubo/items/65691b8b38767674bd92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "オーダーメイドで九九の計算プリントを作ろう（ローテクAI）",
+          "url": "https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-29T16:09:57+09:00"
+          "date": "2026-07-29T20:27:10+09:00"
         },
         {
-          "title": "絵の描き方をさくらのAI Engineに教えてもらいました",
-          "url": "https://qiita.com/torifukukaiou/items/c12bb99ef2016e2a3f0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "ITの資格勉強で綺麗にノートまとめてるけど、その時間で過去問といた方がマシ",
+          "url": "https://qiita.com/prumnn/items/7d9877f2f7ba3b26b56c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-29T12:03:26+09:00"
+          "date": "2026-07-29T17:32:43+09:00"
         },
         {
-          "title": "オンプレミスからプライベートなAPI Gatewayを呼ぶ ― CognitoのTokenエンドポイントをAPI Gatewayでプロキシする構成",
-          "url": "https://qiita.com/ajisawa/items/43dc7431773cab0b76b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "善意だけでは社会は守れない ― ルールと信頼のシステム設計 : システム設計視点の行動経済学 (7)",
+          "url": "https://qiita.com/maskot1977/items/2293e25bc7722c71a4bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-07-29T09:32:47+09:00"
-        },
-        {
-          "title": "フロントエンド挫折勢！StreamlitならPythonだけで実用的なWebアプリ、ツールが即作れる。導入、初心者へ",
-          "url": "https://qiita.com/hello_itoLab/items/072d4b33c49491d16c5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-29T08:39:20+09:00"
+          "date": "2026-07-29T17:05:37+09:00"
         }
       ]
     }
