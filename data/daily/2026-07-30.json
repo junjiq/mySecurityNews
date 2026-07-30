@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T10:17:29.531391+00:00",
-  "total_articles": 79,
-  "urgent_count": 4,
+  "generated_at": "2026-07-30T11:14:55.329845+00:00",
+  "total_articles": 76,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Keychron announces first open-source firmware for gaming mice",
@@ -24,24 +24,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-29T13:55:00+00:00"
-    },
-    {
-      "title": "We Hardened an AI Security Platform Against 16 Critical Vulnerabilities",
-      "url": "https://aegis-security.higgsfield.app",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-29T10:56:00+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 68,
+      "count": 65,
       "top_items": [
         {
           "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
           "url": "https://github.com/drumih/turbo-fieldfare",
-          "score": 806,
+          "score": 823,
           "source": "hn",
           "severity": "critical",
           "date": "2026-07-29T15:05:43+00:00"
@@ -49,7 +42,7 @@
         {
           "title": "Superlogical",
           "url": "https://www.superlogical.com/",
-          "score": 705,
+          "score": 712,
           "source": "hn",
           "severity": null,
           "date": "2026-07-29T15:41:33+00:00"
@@ -57,26 +50,26 @@
         {
           "title": "The coolest use for the Vision Pro",
           "url": "https://christianselig.com/2026/07/vision-pro-house/",
-          "score": 674,
+          "score": 703,
           "source": "hn",
           "severity": null,
           "date": "2026-07-29T20:39:40+00:00"
         },
         {
-          "title": "KOReader",
-          "url": "https://koreader.rocks/",
-          "score": 671,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-29T11:05:08+00:00"
-        },
-        {
           "title": "AI's top startups are barely publishing their research",
           "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-          "score": 479,
+          "score": 494,
           "source": "hn",
           "severity": null,
           "date": "2026-07-29T21:25:40+00:00"
+        },
+        {
+          "title": "Kimi K3-256k",
+          "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+          "score": 450,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-29T19:25:33+00:00"
         }
       ]
     },
@@ -84,6 +77,14 @@
       "category": "日本語技術記事",
       "count": 11,
       "top_items": [
+        {
+          "title": "【反響分析】Xポストで振り返る UiPath DevCon Tokyo ― 382件の実況データからセッションを振り返る",
+          "url": "https://qiita.com/Hash1mo/items/b466633d6a9e847e8c7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-30T19:41:03+09:00"
+        },
         {
           "title": "次世代のAI駆動開発！？ - Codex Microをセットアップ・修正・検証まで試してみた -",
           "url": "https://qiita.com/ryosuke_ohori/items/2adcbc314db51f527580?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -99,14 +100,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-30T15:47:37+09:00"
-        },
-        {
-          "title": "Xポストで振り返る UiPath DevCon Tokyo ― 382件の実況データからセッションの反響分析",
-          "url": "https://qiita.com/Hash1mo/items/b466633d6a9e847e8c7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-30T14:12:46+09:00"
         },
         {
           "title": "役割を広げたらほんまに強くなれるんかみたいな話",
