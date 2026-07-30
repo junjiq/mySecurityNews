@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-30T20:51:34.357643+00:00",
+  "generated_at": "2026-07-30T21:25:25.925322+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 369,
-    "zennqiita": 81,
+    "hn": 370,
+    "zennqiita": 80,
     "project": 11
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "medium": 4,
     "high": 1
   },
@@ -119,6 +119,13 @@
       "date": "2026-07-28T13:12:01+00:00"
     },
     {
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "score": 477,
+      "source": "hn",
+      "date": "2026-07-30T18:40:52+00:00"
+    },
+    {
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
       "score": 468,
@@ -145,16 +152,16 @@
       "score": 428,
       "source": "hn",
       "date": "2026-07-27T11:12:26+00:00"
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 418,
-      "source": "hn",
-      "date": "2026-07-28T20:28:33+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-30T19:34:27+00:00"
+    },
     {
       "title": "Keychron announces first open-source firmware for gaming mice",
       "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
