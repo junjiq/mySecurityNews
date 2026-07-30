@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T02:17:01.108054+00:00",
+  "generated_at": "2026-07-30T03:36:05.523315+00:00",
   "total_articles": 78,
   "urgent_count": 4,
   "urgent_items": [
@@ -36,8 +36,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 70,
+      "count": 71,
       "top_items": [
+        {
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "url": "https://github.com/drumih/turbo-fieldfare",
+          "score": 683,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-07-29T15:05:43+00:00"
+        },
         {
           "title": "KOReader",
           "url": "https://koreader.rocks/",
@@ -47,17 +55,9 @@
           "date": "2026-07-29T11:05:08+00:00"
         },
         {
-          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "score": 658,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-07-29T15:05:43+00:00"
-        },
-        {
           "title": "Superlogical",
           "url": "https://www.superlogical.com/",
-          "score": 536,
+          "score": 556,
           "source": "hn",
           "severity": null,
           "date": "2026-07-29T15:41:33+00:00"
@@ -65,7 +65,7 @@
         {
           "title": "The coolest use for the Vision Pro",
           "url": "https://christianselig.com/2026/07/vision-pro-house/",
-          "score": 401,
+          "score": 453,
           "source": "hn",
           "severity": null,
           "date": "2026-07-29T20:39:40+00:00"
@@ -82,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
         {
           "title": "Google A2AをサポートしたOCI Autonomous Databaseでマルチエージェントを実装してみる",
