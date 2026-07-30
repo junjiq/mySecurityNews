@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T14:15:34.833403+00:00",
+  "generated_at": "2026-07-30T15:15:07.156313+00:00",
   "total_articles": 74,
-  "urgent_count": 2,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Keychron announces first open-source firmware for gaming mice",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-29T16:36:59+00:00"
-    },
-    {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-29T15:05:43+00:00"
     }
   ],
   "categories": [
@@ -24,14 +17,6 @@
       "category": "テクノロジー",
       "count": 66,
       "top_items": [
-        {
-          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "score": 823,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-07-29T15:05:43+00:00"
-        },
         {
           "title": "The coolest use for the Vision Pro",
           "url": "https://christianselig.com/2026/07/vision-pro-house/",
@@ -63,6 +48,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-29T19:25:33+00:00"
+        },
+        {
+          "title": "Keychron announces first open-source firmware for gaming mice",
+          "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+          "score": 406,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-07-29T16:36:59+00:00"
         }
       ]
     },
