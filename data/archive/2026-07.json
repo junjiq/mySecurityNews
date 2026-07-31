@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-31T18:01:51.054077+00:00",
+  "generated_at": "2026-07-31T18:56:49.579510+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 368,
@@ -8,9 +8,9 @@
     "project": 11
   },
   "severity_counts": {
-    "high": 2,
     "critical": 12,
-    "medium": 4
+    "medium": 4,
+    "high": 1
   },
   "top_articles": [
     {
@@ -93,7 +93,7 @@
     {
       "title": "The session you cannot take with you",
       "url": "https://earendil.com/posts/session-portability/",
-      "score": 687,
+      "score": 700,
       "source": "hn",
       "date": "2026-07-31T03:47:59+00:00"
     },
@@ -119,6 +119,13 @@
       "date": "2026-07-28T16:58:31+00:00"
     },
     {
+      "title": "DeepSeek-V4-Flash Update",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "score": 597,
+      "source": "hn",
+      "date": "2026-07-31T06:08:36+00:00"
+    },
+    {
       "title": "AI companies are shredding rare books",
       "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
       "score": 581,
@@ -131,13 +138,6 @@
       "score": 568,
       "source": "hn",
       "date": "2026-07-28T20:52:55+00:00"
-    },
-    {
-      "title": "DeepSeek-V4-Flash Update",
-      "url": "https://api-docs.deepseek.com/updates/",
-      "score": 567,
-      "source": "hn",
-      "date": "2026-07-31T06:08:36+00:00"
     },
     {
       "title": "AI's top startups are barely publishing their research",
@@ -155,13 +155,6 @@
     }
   ],
   "security_highlights": [
-    {
-      "title": "Anti-fraud tools can't keep pace with scammers exploiting cheap internet calling",
-      "url": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-31T13:28:05+00:00"
-    },
     {
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
       "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
