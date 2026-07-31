@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T04:38:51.253066+00:00",
-  "total_articles": 67,
+  "generated_at": "2026-07-31T06:02:35.768569+00:00",
+  "total_articles": 68,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 61,
+      "count": 62,
       "top_items": [
         {
           "title": "UEFA and its national associations will not participate in FIFA competitions",
           "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-          "score": 864,
+          "score": 906,
           "source": "hn",
           "severity": null,
           "date": "2026-07-30T18:40:52+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Read this before you buy that TV streaming stick",
           "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-          "score": 626,
+          "score": 659,
           "source": "hn",
           "severity": null,
           "date": "2026-07-30T17:04:53+00:00"
@@ -36,10 +36,18 @@
         {
           "title": "Stacked PRs are now live on GitHub",
           "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-          "score": 528,
+          "score": 571,
           "source": "hn",
           "severity": null,
           "date": "2026-07-30T16:26:16+00:00"
+        },
+        {
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+          "score": 522,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-30T15:15:48+00:00"
         },
         {
           "title": "Advancing the price-performance frontier with GPT‑5.6",
@@ -48,14 +56,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-07-30T17:15:51+00:00"
-        },
-        {
-          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-          "score": 508,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-30T15:15:48+00:00"
         }
       ]
     },
@@ -63,6 +63,14 @@
       "category": "日本語技術記事",
       "count": 6,
       "top_items": [
+        {
+          "title": "C#で new を差し替える実験的モックツールを作っている話",
+          "url": "https://qiita.com/kaneko_desu/items/a75831913a96757444fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-31T13:42:03+09:00"
+        },
         {
           "title": "次世代のAI駆動開発！？ - Codex Microをセットアップ・修正・検証まで試してみた -",
           "url": "https://qiita.com/ryosuke_ohori/items/2adcbc314db51f527580?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -94,14 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-30T15:47:37+09:00"
-        },
-        {
-          "title": "C#で new を差し替える実験的モックツールを作っている話",
-          "url": "https://qiita.com/kaneko_desu/items/a75831913a96757444fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-30T15:43:45+09:00"
         }
       ]
     }
