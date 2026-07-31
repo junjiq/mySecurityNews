@@ -1,16 +1,16 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-31T15:16:37.110624+00:00",
+  "generated_at": "2026-07-31T16:09:57.270804+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 365,
-    "zennqiita": 85,
+    "hn": 367,
+    "zennqiita": 83,
     "project": 11
   },
   "severity_counts": {
-    "critical": 14,
-    "medium": 4,
-    "high": 1
+    "high": 2,
+    "critical": 13,
+    "medium": 4
   },
   "top_articles": [
     {
@@ -72,7 +72,7 @@
     {
       "title": "Stacked PRs are now live on GitHub",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 738,
+      "score": 752,
       "source": "hn",
       "date": "2026-07-30T16:26:16+00:00"
     },
@@ -100,9 +100,16 @@
     {
       "title": "The session you cannot take with you",
       "url": "https://earendil.com/posts/session-portability/",
-      "score": 613,
+      "score": 652,
       "source": "hn",
       "date": "2026-07-31T03:47:59+00:00"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 605,
+      "source": "hn",
+      "date": "2026-07-30T15:15:48+00:00"
     },
     {
       "title": "Substack writers, you need a website",
@@ -110,13 +117,6 @@
       "score": 602,
       "source": "hn",
       "date": "2026-07-28T16:58:31+00:00"
-    },
-    {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 599,
-      "source": "hn",
-      "date": "2026-07-30T15:15:48+00:00"
     },
     {
       "title": "AI companies are shredding rare books",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Anti-fraud tools can't keep pace with scammers exploiting cheap internet calling",
+      "url": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-07-31T13:28:05+00:00"
+    },
     {
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
       "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
@@ -245,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-26T18:40:08+00:00"
-    },
-    {
-      "title": "Calling all open source maintainers working with Ruby",
-      "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-26T17:28:03+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
