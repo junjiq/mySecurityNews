@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T19:34:17.633583+00:00",
-  "total_articles": 71,
-  "urgent_count": 2,
+  "generated_at": "2026-07-31T20:29:17.087952+00:00",
+  "total_articles": 75,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
@@ -10,13 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-31T07:33:10+00:00"
-    },
-    {
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-30T19:34:27+00:00"
     }
   ],
   "categories": [
@@ -33,25 +26,25 @@
           "date": "2026-07-31T03:47:59+00:00"
         },
         {
-          "title": "DeepSeek-V4-Flash Update",
-          "url": "https://api-docs.deepseek.com/updates/",
-          "score": 614,
-          "source": "hn",
-          "severity": "medium",
-          "date": "2026-07-31T06:08:36+00:00"
-        },
-        {
           "title": "Elevators",
           "url": "https://john.fun/elevators",
-          "score": 558,
+          "score": 632,
           "source": "hn",
           "severity": null,
           "date": "2026-07-31T15:17:28+00:00"
         },
         {
+          "title": "DeepSeek-V4-Flash Update",
+          "url": "https://api-docs.deepseek.com/updates/",
+          "score": 632,
+          "source": "hn",
+          "severity": "medium",
+          "date": "2026-07-31T06:08:36+00:00"
+        },
+        {
           "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
           "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-          "score": 463,
+          "score": 477,
           "source": "hn",
           "severity": null,
           "date": "2026-07-31T07:59:11+00:00"
@@ -68,8 +61,40 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 14,
       "top_items": [
+        {
+          "title": "New Relic Autopilot (旧SRE Agent) によるSlack通知ワークフローをTerraformで構築する",
+          "url": "https://qiita.com/nr-mito/items/96c0ad26943673114161?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-31T18:47:51+09:00"
+        },
+        {
+          "title": "大吉祥寺.pm2026に参加してきました！ #kichijojipm",
+          "url": "https://qiita.com/saku_rye/items/473987ca21d9dffd15fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-31T16:08:02+09:00"
+        },
+        {
+          "title": "【開催！】2026 Japan AWS Jr. Champions 真夏のQiitaリレー",
+          "url": "https://qiita.com/ys-yoshida/items/6f7c7f85155a993e2c86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-31T15:59:07+09:00"
+        },
+        {
+          "title": "Claude Code の仕組み — ハーネスの動作と Claude API",
+          "url": "https://qiita.com/megmogmog1965/items/7db66f5a5aa306c68eb8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-07-31T15:18:11+09:00"
+        },
         {
           "title": "【初心者必見】CSSとは？基本から書き方までわかりやすく解説　part1",
           "url": "https://qiita.com/nt_matsuda56/items/236b7561460a2d2c4d7e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -77,38 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-31T15:17:33+09:00"
-        },
-        {
-          "title": "AIの限界は頭脳ではなく、電気と冷却にあった【宇宙のデーターセンターって何？】",
-          "url": "https://qiita.com/sumomoo/items/8bbe719ed4de1a36def9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-31T14:21:40+09:00"
-        },
-        {
-          "title": "「アーキテクチャ」って結局何？ITパスポートのEAを調べてみた",
-          "url": "https://qiita.com/prumnn/items/da1cd811a3a7408472d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-31T14:20:25+09:00"
-        },
-        {
-          "title": "C#で new を差し替える実験的モックツールを作っている話",
-          "url": "https://qiita.com/kaneko_desu/items/a75831913a96757444fa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-31T13:42:03+09:00"
-        },
-        {
-          "title": "人手不足なのに働き控え？ 「年収の壁」をシステム設計から考える : システム設計視点の行動経済学 (9)",
-          "url": "https://qiita.com/maskot1977/items/700728d034ce4819aa37?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-31T13:05:50+09:00"
         }
       ]
     }

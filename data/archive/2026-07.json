@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-31T19:34:17.681965+00:00",
+  "generated_at": "2026-07-31T20:29:17.133771+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 369,
-    "zennqiita": 81,
+    "hn": 366,
+    "zennqiita": 84,
     "project": 11
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 11,
     "medium": 4,
     "high": 1
   },
@@ -19,13 +19,6 @@
       "score": 1278,
       "source": "hn",
       "date": "2026-07-27T06:18:10+00:00"
-    },
-    {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 1108,
-      "source": "hn",
-      "date": "2026-07-26T22:21:41+00:00"
     },
     {
       "title": "Our position on open-weights models",
@@ -105,9 +98,16 @@
       "date": "2026-07-29T11:05:08+00:00"
     },
     {
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "score": 632,
+      "source": "hn",
+      "date": "2026-07-31T15:17:28+00:00"
+    },
+    {
       "title": "DeepSeek-V4-Flash Update",
       "url": "https://api-docs.deepseek.com/updates/",
-      "score": 614,
+      "score": 632,
       "source": "hn",
       "date": "2026-07-31T06:08:36+00:00"
     },
@@ -231,13 +231,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-07-27T15:08:16+00:00"
-    },
-    {
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-26T22:46:10+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
