@@ -1,9 +1,16 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T08:23:13.584117+00:00",
+  "generated_at": "2026-07-31T09:28:00.596395+00:00",
   "total_articles": 80,
-  "urgent_count": 1,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-31T07:33:10+00:00"
+    },
     {
       "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
       "url": "https://github.com/AminBlg/SimpleEnglish",
@@ -15,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 62,
+      "count": 64,
       "top_items": [
         {
           "title": "UEFA and its national associations will not participate in FIFA competitions",
@@ -28,7 +35,7 @@
         {
           "title": "Read this before you buy that TV streaming stick",
           "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-          "score": 695,
+          "score": 708,
           "source": "hn",
           "severity": null,
           "date": "2026-07-30T17:04:53+00:00"
@@ -36,7 +43,7 @@
         {
           "title": "Stacked PRs are now live on GitHub",
           "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-          "score": 621,
+          "score": 635,
           "source": "hn",
           "severity": null,
           "date": "2026-07-30T16:26:16+00:00"
@@ -44,7 +51,7 @@
         {
           "title": "Gemini Robotics 2 brings whole body intelligence to robots",
           "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-          "score": 549,
+          "score": 554,
           "source": "hn",
           "severity": null,
           "date": "2026-07-30T15:15:48+00:00"
@@ -61,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 18,
+      "count": 16,
       "top_items": [
         {
           "title": "【初心者必見】CSSとは？基本から書き方までわかりやすく解説　part1",

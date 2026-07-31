@@ -1,15 +1,15 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-31T08:23:13.631622+00:00",
+  "generated_at": "2026-07-31T09:28:00.646840+00:00",
   "total_articles": 461,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 89,
+    "hn": 362,
+    "zennqiita": 88,
     "project": 11
   },
   "severity_counts": {
+    "critical": 14,
     "medium": 4,
-    "critical": 13,
     "high": 1
   },
   "top_articles": [
@@ -33,13 +33,6 @@
       "score": 1104,
       "source": "hn",
       "date": "2026-07-27T22:03:49+00:00"
-    },
-    {
-      "title": "Kill The Cookie Banner",
-      "url": "https://killthecookiebanner.eu/",
-      "score": 991,
-      "source": "hn",
-      "date": "2026-07-26T11:53:17+00:00"
     },
     {
       "title": "UEFA and its national associations will not participate in FIFA competitions",
@@ -86,7 +79,7 @@
     {
       "title": "Read this before you buy that TV streaming stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 695,
+      "score": 708,
       "source": "hn",
       "date": "2026-07-30T17:04:53+00:00"
     },
@@ -100,7 +93,7 @@
     {
       "title": "Stacked PRs are now live on GitHub",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 621,
+      "score": 635,
       "source": "hn",
       "date": "2026-07-30T16:26:16+00:00"
     },
@@ -142,7 +135,7 @@
     {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 549,
+      "score": 554,
       "source": "hn",
       "date": "2026-07-30T15:15:48+00:00"
     },
@@ -152,9 +145,23 @@
       "score": 510,
       "source": "hn",
       "date": "2026-07-30T17:15:51+00:00"
+    },
+    {
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "score": 468,
+      "source": "hn",
+      "date": "2026-07-28T15:48:34+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-31T07:33:10+00:00"
+    },
     {
       "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
       "url": "https://github.com/AminBlg/SimpleEnglish",
