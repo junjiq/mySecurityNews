@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-31T17:01:55.865356+00:00",
+  "generated_at": "2026-07-31T18:01:51.054077+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 368,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "high": 2,
-    "critical": 13,
+    "critical": 12,
     "medium": 4
   },
   "top_articles": [
@@ -91,18 +91,18 @@
       "date": "2026-07-29T15:41:33+00:00"
     },
     {
+      "title": "The session you cannot take with you",
+      "url": "https://earendil.com/posts/session-portability/",
+      "score": 687,
+      "source": "hn",
+      "date": "2026-07-31T03:47:59+00:00"
+    },
+    {
       "title": "KOReader",
       "url": "https://koreader.rocks/",
       "score": 671,
       "source": "hn",
       "date": "2026-07-29T11:05:08+00:00"
-    },
-    {
-      "title": "The session you cannot take with you",
-      "url": "https://earendil.com/posts/session-portability/",
-      "score": 667,
-      "source": "hn",
-      "date": "2026-07-31T03:47:59+00:00"
     },
     {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
@@ -133,6 +133,13 @@
       "date": "2026-07-28T20:52:55+00:00"
     },
     {
+      "title": "DeepSeek-V4-Flash Update",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "score": 567,
+      "source": "hn",
+      "date": "2026-07-31T06:08:36+00:00"
+    },
+    {
       "title": "AI's top startups are barely publishing their research",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
       "score": 559,
@@ -145,13 +152,6 @@
       "score": 559,
       "source": "hn",
       "date": "2026-07-28T13:12:01+00:00"
-    },
-    {
-      "title": "DeepSeek-V4-Flash Update",
-      "url": "https://api-docs.deepseek.com/updates/",
-      "score": 533,
-      "source": "hn",
-      "date": "2026-07-31T06:08:36+00:00"
     }
   ],
   "security_highlights": [
@@ -245,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-26T22:46:10+00:00"
-    },
-    {
-      "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-      "url": "https://github.com/hertz-ai/HARTOS",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-26T18:40:08+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
