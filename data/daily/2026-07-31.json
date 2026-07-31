@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T21:24:31.393640+00:00",
-  "total_articles": 80,
-  "urgent_count": 1,
+  "generated_at": "2026-07-31T21:50:35.299952+00:00",
+  "total_articles": 79,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
@@ -10,13 +10,28 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-31T07:33:10+00:00"
+    },
+    {
+      "title": "Just brute force your embeddings",
+      "url": "https://softwaredoug.com/blog/2026/07/29/just-brute-force-embeddings",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-31T04:39:07+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 66,
+      "count": 65,
       "top_items": [
+        {
+          "title": "Elevators",
+          "url": "https://john.fun/elevators",
+          "score": 716,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-31T15:17:28+00:00"
+        },
         {
           "title": "The session you cannot take with you",
           "url": "https://earendil.com/posts/session-portability/",
@@ -26,17 +41,9 @@
           "date": "2026-07-31T03:47:59+00:00"
         },
         {
-          "title": "Elevators",
-          "url": "https://john.fun/elevators",
-          "score": 685,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-31T15:17:28+00:00"
-        },
-        {
           "title": "DeepSeek-V4-Flash Update",
           "url": "https://api-docs.deepseek.com/updates/",
-          "score": 650,
+          "score": 655,
           "source": "hn",
           "severity": "medium",
           "date": "2026-07-31T06:08:36+00:00"
@@ -44,7 +51,7 @@
         {
           "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
           "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-          "score": 492,
+          "score": 496,
           "source": "hn",
           "severity": null,
           "date": "2026-07-31T07:59:11+00:00"

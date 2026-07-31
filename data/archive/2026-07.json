@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-07-31T21:24:31.439950+00:00",
+  "generated_at": "2026-07-31T21:50:35.337839+00:00",
   "total_articles": 461,
   "source_counts": {
     "hn": 367,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "medium": 4,
     "high": 1
   },
@@ -77,18 +77,18 @@
       "date": "2026-07-29T15:41:33+00:00"
     },
     {
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "score": 716,
+      "source": "hn",
+      "date": "2026-07-31T15:17:28+00:00"
+    },
+    {
       "title": "The session you cannot take with you",
       "url": "https://earendil.com/posts/session-portability/",
       "score": 709,
       "source": "hn",
       "date": "2026-07-31T03:47:59+00:00"
-    },
-    {
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "score": 685,
-      "source": "hn",
-      "date": "2026-07-31T15:17:28+00:00"
     },
     {
       "title": "KOReader",
@@ -100,7 +100,7 @@
     {
       "title": "DeepSeek-V4-Flash Update",
       "url": "https://api-docs.deepseek.com/updates/",
-      "score": 650,
+      "score": 655,
       "source": "hn",
       "date": "2026-07-31T06:08:36+00:00"
     },
@@ -161,6 +161,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-31T07:33:10+00:00"
+    },
+    {
+      "title": "Just brute force your embeddings",
+      "url": "https://softwaredoug.com/blog/2026/07/29/just-brute-force-embeddings",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-31T04:39:07+00:00"
     },
     {
       "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
