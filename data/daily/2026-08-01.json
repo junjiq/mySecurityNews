@@ -1,26 +1,18 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T07:00:07.466575+00:00",
-  "total_articles": 62,
-  "urgent_count": 1,
-  "urgent_items": [
-    {
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-31T07:33:10+00:00"
-    }
-  ],
+  "generated_at": "2026-08-01T07:49:43.224343+00:00",
+  "total_articles": 60,
+  "urgent_count": 0,
+  "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 58,
       "top_items": [
         {
           "title": "Elevators",
           "url": "https://john.fun/elevators",
-          "score": 1172,
+          "score": 1216,
           "source": "hn",
           "severity": null,
           "date": "2026-07-31T15:17:28+00:00"
@@ -28,7 +20,7 @@
         {
           "title": "qm – Multiplayer agent harness for work",
           "url": "https://github.com/yc-software/qm",
-          "score": 531,
+          "score": 541,
           "source": "hn",
           "severity": null,
           "date": "2026-07-31T18:04:58+00:00"
@@ -36,7 +28,7 @@
         {
           "title": "Tailscale didn't stop the Hugging Face intrusion",
           "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "score": 524,
+          "score": 534,
           "source": "hn",
           "severity": null,
           "date": "2026-07-31T19:03:45+00:00"
@@ -50,18 +42,18 @@
           "date": "2026-07-31T07:59:11+00:00"
         },
         {
-          "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-          "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-          "score": 438,
+          "title": "The End of an Era",
+          "url": "https://hughhowey.com/the-end-of-an-era/",
+          "score": 360,
           "source": "hn",
           "severity": null,
-          "date": "2026-07-31T07:29:22+00:00"
+          "date": "2026-07-31T11:51:46+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 2,
       "top_items": [
         {
           "title": "【開催！】2026 Japan AWS Jr. Champions 真夏のQiitaリレー",
@@ -78,14 +70,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-07-31T18:47:51+09:00"
-        },
-        {
-          "title": "大吉祥寺.pm2026に参加してきました！ #kichijojipm",
-          "url": "https://qiita.com/saku_rye/items/473987ca21d9dffd15fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-31T16:08:02+09:00"
         }
       ]
     }
