@@ -1,10 +1,10 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-01T04:37:29.167378+00:00",
-  "total_articles": 456,
+  "generated_at": "2026-08-01T06:00:19.063701+00:00",
+  "total_articles": 454,
   "source_counts": {
     "hn": 371,
-    "zennqiita": 74,
+    "zennqiita": 72,
     "project": 11
   },
   "severity_counts": {
@@ -13,6 +13,13 @@
     "high": 1
   },
   "top_articles": [
+    {
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "score": 1110,
+      "source": "hn",
+      "date": "2026-07-31T15:17:28+00:00"
+    },
     {
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
@@ -26,13 +33,6 @@
       "score": 1086,
       "source": "hn",
       "date": "2026-07-30T18:40:52+00:00"
-    },
-    {
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "score": 1034,
-      "source": "hn",
-      "date": "2026-07-31T15:17:28+00:00"
     },
     {
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
@@ -140,18 +140,18 @@
       "date": "2026-07-28T13:12:01+00:00"
     },
     {
+      "title": "qm – Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "score": 523,
+      "source": "hn",
+      "date": "2026-07-31T18:04:58+00:00"
+    },
+    {
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
       "score": 523,
       "source": "hn",
       "date": "2026-07-31T07:59:11+00:00"
-    },
-    {
-      "title": "qm – Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "score": 513,
-      "source": "hn",
-      "date": "2026-07-31T18:04:58+00:00"
     }
   ],
   "security_highlights": [
