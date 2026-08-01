@@ -1,18 +1,18 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T07:49:43.224343+00:00",
-  "total_articles": 60,
+  "generated_at": "2026-08-01T08:47:15.289324+00:00",
+  "total_articles": 65,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 57,
       "top_items": [
         {
           "title": "Elevators",
           "url": "https://john.fun/elevators",
-          "score": 1216,
+          "score": 1252,
           "source": "hn",
           "severity": null,
           "date": "2026-07-31T15:17:28+00:00"
@@ -20,7 +20,7 @@
         {
           "title": "qm – Multiplayer agent harness for work",
           "url": "https://github.com/yc-software/qm",
-          "score": 541,
+          "score": 560,
           "source": "hn",
           "severity": null,
           "date": "2026-07-31T18:04:58+00:00"
@@ -34,27 +34,59 @@
           "date": "2026-07-31T19:03:45+00:00"
         },
         {
-          "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-          "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-          "score": 523,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-31T07:59:11+00:00"
-        },
-        {
           "title": "The End of an Era",
           "url": "https://hughhowey.com/the-end-of-an-era/",
           "score": 360,
           "source": "hn",
           "severity": null,
           "date": "2026-07-31T11:51:46+00:00"
+        },
+        {
+          "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+          "url": "https://github.com/sqliteai/waste",
+          "score": 241,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-07-31T14:12:38+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 2,
+      "count": 8,
       "top_items": [
+        {
+          "title": "AIのアウトプットをそのまま出すだけの人にならないために",
+          "url": "https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-01T15:25:03+09:00"
+        },
+        {
+          "title": "AppleのUIをSkill化して「AI臭いUI」を脱しようとチャレンジした",
+          "url": "https://qiita.com/t2murata/items/0f6a7551da98464cc54e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-01T10:45:32+09:00"
+        },
+        {
+          "title": "AWS Organizations間のアカウント移行でRAM共有が外れる理由と共有を維持する設定",
+          "url": "https://qiita.com/infra365/items/daed33099cdf34e2e588?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-01T10:18:53+09:00"
+        },
+        {
+          "title": "Genie Codeと始めるDatabricks入門: 2026年の今は「文法から」ではなく「作らせて読む」が最短だと思う",
+          "url": "https://qiita.com/taka_yayoi/items/6aafb88a457e6b5c5740?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-01T10:00:27+09:00"
+        },
         {
           "title": "【開催！】2026 Japan AWS Jr. Champions 真夏のQiitaリレー",
           "url": "https://qiita.com/ys-yoshida/items/6f7c7f85155a993e2c86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -62,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-01T08:55:04+09:00"
-        },
-        {
-          "title": "New Relic Autopilot (旧SRE Agent) によるSlack通知ワークフローをTerraformで構築する",
-          "url": "https://qiita.com/nr-mito/items/96c0ad26943673114161?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-07-31T18:47:51+09:00"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T07:49:43.158157+00:00",
+  "updated_at": "2026-08-01T08:47:15.228039+00:00",
   "count": 500,
   "items": [
     {
@@ -7,19 +7,32 @@
       "source": "hn",
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 7,
-      "comments": 0,
+      "score": 67,
+      "comments": 51,
       "author": "milkshakes",
       "tags": [],
       "date": "2026-08-01T07:37:44+00:00"
+    },
+    {
+      "id": "qiita-298eadd918",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIのアウトプットをそのまま出すだけの人にならないために",
+      "url": "https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ktdatascience",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-01T15:25:03+09:00"
     },
     {
       "id": "hn-49131367",
       "source": "hn",
       "title": "Ten Ways NAS Is Getting Enshitified",
       "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-      "score": 45,
-      "comments": 34,
+      "score": 63,
+      "comments": 49,
       "author": "giuliomagnifico",
       "tags": [],
       "date": "2026-08-01T05:38:16+00:00"
@@ -62,8 +75,8 @@
       "source": "hn",
       "title": "The development pipeline is a production system",
       "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "score": 66,
-      "comments": 21,
+      "score": 72,
+      "comments": 25,
       "author": "firefoxd",
       "tags": [],
       "date": "2026-08-01T03:16:09+00:00"
@@ -73,30 +86,69 @@
       "source": "hn",
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 92,
-      "comments": 30,
+      "score": 104,
+      "comments": 31,
       "author": "vinhnx",
       "tags": [],
       "date": "2026-08-01T02:45:09+00:00"
+    },
+    {
+      "id": "qiita-0c24655945",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AppleのUIをSkill化して「AI臭いUI」を脱しようとチャレンジした",
+      "url": "https://qiita.com/t2murata/items/0f6a7551da98464cc54e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "t2murata",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-01T10:45:32+09:00"
     },
     {
       "id": "hn-49130295",
       "source": "hn",
       "title": "A week in Matrix",
       "url": "https://piegames.de/dumps/a-week-in-matrix/",
-      "score": 50,
-      "comments": 29,
+      "score": 64,
+      "comments": 34,
       "author": "Kesseki",
       "tags": [],
       "date": "2026-08-01T01:35:53+00:00"
+    },
+    {
+      "id": "qiita-b12af27d15",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AWS Organizations間のアカウント移行でRAM共有が外れる理由と共有を維持する設定",
+      "url": "https://qiita.com/infra365/items/daed33099cdf34e2e588?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "infra365",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-01T10:18:53+09:00"
+    },
+    {
+      "id": "qiita-483c553db9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Genie Codeと始めるDatabricks入門: 2026年の今は「文法から」ではなく「作らせて読む」が最短だと思う",
+      "url": "https://qiita.com/taka_yayoi/items/6aafb88a457e6b5c5740?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "taka_yayoi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-01T10:00:27+09:00"
     },
     {
       "id": "hn-49129990",
       "source": "hn",
       "title": "How to Exist",
       "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "score": 161,
-      "comments": 82,
+      "score": 178,
+      "comments": 99,
       "author": "walterbell",
       "tags": [],
       "date": "2026-08-01T00:25:00+00:00"
@@ -152,7 +204,7 @@
       "source": "hn",
       "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
       "url": "https://arxiv.org/abs/2607.28233",
-      "score": 48,
+      "score": 49,
       "comments": 26,
       "author": "Jimmc414",
       "tags": [],
@@ -185,8 +237,8 @@
       "source": "hn",
       "title": "Golang proposal: container/: generic collection types",
       "url": "https://github.com/golang/go/issues/80590",
-      "score": 139,
-      "comments": 86,
+      "score": 150,
+      "comments": 119,
       "author": "jabits",
       "tags": [],
       "date": "2026-07-31T18:39:47+00:00"
@@ -229,8 +281,8 @@
       "source": "hn",
       "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
       "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-      "score": 133,
-      "comments": 44,
+      "score": 142,
+      "comments": 49,
       "author": "iamnothere",
       "tags": [],
       "date": "2026-07-31T18:17:52+00:00"
@@ -262,7 +314,7 @@
       "source": "hn",
       "title": "qm – Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "score": 541,
+      "score": 560,
       "comments": 113,
       "author": "tosh",
       "tags": [],
@@ -328,7 +380,7 @@
       "source": "hn",
       "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
       "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "score": 183,
+      "score": 187,
       "comments": 95,
       "author": "speckx",
       "tags": [],
@@ -339,7 +391,7 @@
       "source": "hn",
       "title": "Big Food vs. the People",
       "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "score": 224,
+      "score": 226,
       "comments": 143,
       "author": "jruohonen",
       "tags": [],
@@ -449,8 +501,8 @@
       "source": "hn",
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 1216,
-      "comments": 285,
+      "score": 1252,
+      "comments": 303,
       "author": "Jrh0203",
       "tags": [],
       "date": "2026-07-31T15:17:28+00:00"
@@ -515,8 +567,8 @@
       "source": "hn",
       "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
       "url": "https://github.com/sqliteai/waste",
-      "score": 230,
-      "comments": 94,
+      "score": 241,
+      "comments": 98,
       "author": "marcobambini",
       "tags": [],
       "date": "2026-07-31T14:12:38+00:00"
@@ -577,6 +629,19 @@
       "date": "2026-07-31T13:28:05+00:00"
     },
     {
+      "id": "qiita-5bf9b00a62",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "OCI GenAI Agents の RAG の回答精度を上げるなら、生成モデルよりハーネスだった",
+      "url": "https://qiita.com/asahide/items/7ef27f2a2fd2c9c3bba7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "asahide",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-31T21:15:45+09:00"
+    },
+    {
       "id": "hn-49122105",
       "source": "hn",
       "title": "Ruby Central's Destructive Legacy",
@@ -625,8 +690,8 @@
       "source": "hn",
       "title": "Increasing the lifespan of a bulb makes it worse in every other way",
       "url": "https://maurycyz.com/misc/tungsten/",
-      "score": 41,
-      "comments": 47,
+      "score": 80,
+      "comments": 74,
       "author": "tonyg",
       "tags": [],
       "date": "2026-07-31T11:34:24+00:00"
@@ -636,8 +701,8 @@
       "source": "hn",
       "title": "Progressive Web Components",
       "url": "https://arielsalminen.com/2026/progressive-web-components/",
-      "score": 143,
-      "comments": 25,
+      "score": 148,
+      "comments": 27,
       "author": "hosteur",
       "tags": [],
       "date": "2026-07-31T10:04:40+00:00"
@@ -654,6 +719,19 @@
         "Qiita"
       ],
       "date": "2026-07-31T18:47:51+09:00"
+    },
+    {
+      "id": "qiita-db40e0ef7b",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Elixir 製 LLM 推論エンジン Llamex を Livebook で動かす",
+      "url": "https://qiita.com/RyoWakabayashi/items/4095d86be797008d799e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "RyoWakabayashi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-31T17:58:40+09:00"
     },
     {
       "id": "hn-49120299",
@@ -683,11 +761,24 @@
       "source": "hn",
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
       "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "score": 438,
-      "comments": 436,
+      "score": 507,
+      "comments": 521,
       "author": "Garbage",
       "tags": [],
       "date": "2026-07-31T07:29:22+00:00"
+    },
+    {
+      "id": "qiita-49a4473fc1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "小売CRMでクーポン施策を伸ばす：クラスタリング・Lifetimes・LightGBMをつなぐ顧客セグメント設計",
+      "url": "https://qiita.com/yoshisen/items/cd67da6c2ae4a93d7575?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yoshisen",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-31T16:23:14+09:00"
     },
     {
       "id": "qiita-8288817775",
@@ -804,7 +895,7 @@
       "source": "hn",
       "title": "Let's make the worst Htmx",
       "url": "https://zserge.com/posts/worst-htmx-ever/",
-      "score": 93,
+      "score": 97,
       "comments": 31,
       "author": "RebelPotato",
       "tags": [],
@@ -1004,8 +1095,8 @@
       "source": "hn",
       "title": "The Absurdity of Albert Camus",
       "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "score": 101,
-      "comments": 51,
+      "score": 113,
+      "comments": 53,
       "author": "apollinaire",
       "tags": [],
       "date": "2026-07-30T23:21:17+00:00"
@@ -1390,6 +1481,19 @@
       "date": "2026-07-30T13:29:03+00:00"
     },
     {
+      "id": "qiita-37d1da9a9d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "HTMLが分からなくてもページ作成できる世界へ。HTMLページビルダーのプロトタイプ開発に挑戦",
+      "url": "https://qiita.com/serizawa7/items/1a18c3c63ee3157f0aba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "serizawa7",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-30T22:22:34+09:00"
+    },
+    {
       "id": "hn-49109616",
       "source": "hn",
       "title": "Upper stage impacting the moon on 2026 August 5",
@@ -1662,6 +1766,19 @@
       "author": "bojangleslover",
       "tags": [],
       "date": "2026-07-30T09:28:01+00:00"
+    },
+    {
+      "id": "qiita-e3381fe66e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "どう頼むかがAIの成果を決める ― 丸投げしないAI協業の「発注の型」",
+      "url": "https://qiita.com/sh-fukaya/items/c1d6c7b0281e8e8afe5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "sh-fukaya",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-30T18:09:02+09:00"
     },
     {
       "id": "qiita-3981eb46ea",
@@ -1968,6 +2085,19 @@
       "author": "8thom",
       "tags": [],
       "date": "2026-07-29T22:51:03+00:00"
+    },
+    {
+      "id": "qiita-0cdc02bf1f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "自分のPCだけで動く「自分専用AI」を Ollama × Docker で動かしてみた",
+      "url": "https://qiita.com/y104autumn/items/6132bcc74fb8d43d4cd3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "y104autumn",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-30T07:43:58+09:00"
     },
     {
       "id": "hn-49103910",
@@ -2435,6 +2565,17 @@
       "date": "2026-07-29T12:55:50+00:00"
     },
     {
+      "id": "hn-49096847",
+      "source": "hn",
+      "title": "G'mic 4.0: Squaring the Pixel, Easier",
+      "url": "https://gmic.eu/gmic40/",
+      "score": 7,
+      "comments": 1,
+      "author": "dtschump",
+      "tags": [],
+      "date": "2026-07-29T12:51:40+00:00"
+    },
+    {
       "id": "hn-49096811",
       "source": "hn",
       "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
@@ -2496,8 +2637,8 @@
       "source": "hn",
       "title": "Software for One",
       "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "score": 90,
-      "comments": 66,
+      "score": 99,
+      "comments": 84,
       "author": "awaxman11",
       "tags": [],
       "date": "2026-07-29T12:29:20+00:00"
@@ -2580,6 +2721,19 @@
       "author": "fanf2",
       "tags": [],
       "date": "2026-07-29T11:42:04+00:00"
+    },
+    {
+      "id": "qiita-d2f7bb3fd2",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "設計レビューがHTMLで返る improve-codebase-architecture が良い",
+      "url": "https://qiita.com/ryoji9702/items/0a989976c3587c0319ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryoji9702",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-07-29T20:34:10+09:00"
     },
     {
       "id": "hn-49096043",
@@ -2994,8 +3148,8 @@
       "source": "hn",
       "title": "A tiny holdout building in the middle of Macy’s is back in view",
       "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-      "score": 13,
-      "comments": 3,
+      "score": 18,
+      "comments": 4,
       "author": "donohoe",
       "tags": [],
       "date": "2026-07-28T23:56:45+00:00"
@@ -3586,8 +3740,8 @@
       "source": "hn",
       "title": "Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)",
       "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
-      "score": 47,
-      "comments": 29,
+      "score": 52,
+      "comments": 32,
       "author": "rzk",
       "tags": [],
       "date": "2026-07-28T13:59:14+00:00"
@@ -4215,7 +4369,7 @@
       "source": "hn",
       "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
       "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-      "score": 18,
+      "score": 26,
       "comments": 0,
       "author": "matt_d",
       "tags": [],
@@ -4977,140 +5131,6 @@
         "Qiita"
       ],
       "date": "2026-07-27T21:03:03+09:00"
-    },
-    {
-      "id": "hn-49068229",
-      "source": "hn",
-      "title": "Show HN: A udev implementation in Guile Scheme",
-      "url": "https://codeberg.org/goodev/goodev",
-      "score": 15,
-      "comments": 5,
-      "author": "mbakke",
-      "tags": [],
-      "date": "2026-07-27T11:51:08+00:00"
-    },
-    {
-      "id": "hn-49068029",
-      "source": "hn",
-      "title": "Elevated errors on Claude Opus 5",
-      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-      "score": 66,
-      "comments": 49,
-      "author": "croemer",
-      "tags": [],
-      "date": "2026-07-27T11:32:32+00:00"
-    },
-    {
-      "id": "hn-49067919",
-      "source": "hn",
-      "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
-      "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
-      "score": 32,
-      "comments": 10,
-      "author": "twapi",
-      "tags": [],
-      "date": "2026-07-27T11:19:33+00:00"
-    },
-    {
-      "id": "hn-49067854",
-      "source": "hn",
-      "title": "How is the Bun Rewrite in Rust going?",
-      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "score": 428,
-      "comments": 324,
-      "author": "tomlockwood",
-      "tags": [],
-      "date": "2026-07-27T11:12:26+00:00"
-    },
-    {
-      "id": "hn-49067690",
-      "source": "hn",
-      "title": "The Birth of the American 12-string Guitar (2013)",
-      "url": "https://www.harpguitars.net/history/grunewald/12-string.htm",
-      "score": 62,
-      "comments": 35,
-      "author": "bilegeek",
-      "tags": [],
-      "date": "2026-07-27T10:52:21+00:00"
-    },
-    {
-      "id": "qiita-c03583d082",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Laravel Eloquent ORMを使いこなす！現場でよく使うメソッドまとめ",
-      "url": "https://qiita.com/yamamoto_a_genee/items/9e20e65086607eefb5d2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yamamoto_a_genee",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-27T19:34:22+09:00"
-    },
-    {
-      "id": "hn-49067556",
-      "source": "hn",
-      "title": "If digital computers are conscious, they are conscious at the hardware level",
-      "url": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
-      "score": 16,
-      "comments": 8,
-      "author": "eatitraw",
-      "tags": [],
-      "date": "2026-07-27T10:33:25+00:00"
-    },
-    {
-      "id": "hn-49067352",
-      "source": "hn",
-      "title": "Libsm64: Mario 64 as a library for use in external game engines",
-      "url": "https://github.com/libsm64/libsm64",
-      "score": 185,
-      "comments": 21,
-      "author": "klaussilveira",
-      "tags": [],
-      "date": "2026-07-27T10:04:48+00:00"
-    },
-    {
-      "id": "hn-49067301",
-      "source": "hn",
-      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-      "score": 236,
-      "comments": 169,
-      "author": "Ralfp",
-      "tags": [],
-      "date": "2026-07-27T09:58:50+00:00"
-    },
-    {
-      "id": "hn-49067162",
-      "source": "hn",
-      "title": "The Alice and Bob After Dinner Speech (1984)",
-      "url": "https://hex.ooo/library/alicebob.html",
-      "score": 29,
-      "comments": 5,
-      "author": "kamma4434",
-      "tags": [],
-      "date": "2026-07-27T09:39:16+00:00"
-    },
-    {
-      "id": "hn-49067043",
-      "source": "hn",
-      "title": "Shay Locomotives",
-      "url": "https://www.shaylocomotives.com/",
-      "score": 51,
-      "comments": 12,
-      "author": "Rygian",
-      "tags": [],
-      "date": "2026-07-27T09:23:29+00:00"
-    },
-    {
-      "id": "hn-49066962",
-      "source": "hn",
-      "title": "Chinese chipmaker shares surge 470%",
-      "url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
-      "score": 145,
-      "comments": 127,
-      "author": "pingou",
-      "tags": [],
-      "date": "2026-07-27T09:11:59+00:00"
     },
     {
       "id": "ctf-4233874",
