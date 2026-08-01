@@ -1,22 +1,21 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-01T14:30:54.593482+00:00",
-  "total_articles": 434,
+  "generated_at": "2026-08-01T15:23:39.870001+00:00",
+  "total_articles": 433,
   "source_counts": {
-    "hn": 352,
+    "hn": 351,
     "zennqiita": 71,
     "project": 11
   },
   "severity_counts": {
     "critical": 12,
-    "medium": 4,
-    "high": 1
+    "medium": 4
   },
   "top_articles": [
     {
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 1443,
+      "score": 1471,
       "source": "hn",
       "date": "2026-07-31T15:17:28+00:00"
     },
@@ -100,7 +99,7 @@
     {
       "title": "qm – Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "score": 605,
+      "score": 616,
       "source": "hn",
       "date": "2026-07-31T18:04:58+00:00"
     },
@@ -231,13 +230,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-27T18:25:21+00:00"
-    },
-    {
-      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-07-27T15:08:16+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
