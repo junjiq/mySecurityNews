@@ -1,9 +1,9 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-01T21:47:21.965305+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-08-01T22:19:19.843076+00:00",
+  "total_articles": 64,
   "source_counts": {
-    "hn": 51,
+    "hn": 53,
     "zennqiita": 11
   },
   "severity_counts": {
@@ -27,30 +27,37 @@
     {
       "title": "Cursor removed cost information from the usage page and CSV export",
       "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "score": 263,
+      "score": 269,
       "source": "hn",
       "date": "2026-08-01T15:25:21+00:00"
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 238,
+      "score": 241,
       "source": "hn",
       "date": "2026-08-01T02:45:09+00:00"
     },
     {
       "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
       "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-      "score": 230,
+      "score": 235,
       "source": "hn",
       "date": "2026-08-01T14:19:51+00:00"
     },
     {
       "title": "RipGrep musl binaries occasionally segfault during very-large searches",
       "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 229,
+      "score": 233,
       "source": "hn",
       "date": "2026-08-01T12:34:25+00:00"
+    },
+    {
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "score": 220,
+      "source": "hn",
+      "date": "2026-08-01T18:07:07+00:00"
     },
     {
       "title": "RamenHaus",
@@ -74,18 +81,18 @@
       "date": "2026-08-01T19:39:43+00:00"
     },
     {
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "score": 181,
-      "source": "hn",
-      "date": "2026-08-01T18:07:07+00:00"
-    },
-    {
       "title": "NetBSD 11.0",
       "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "score": 158,
+      "score": 173,
       "source": "hn",
       "date": "2026-08-01T17:56:41+00:00"
+    },
+    {
+      "title": "The Art of 64-bit Assembly",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "score": 163,
+      "source": "hn",
+      "date": "2026-08-01T14:09:00+00:00"
     },
     {
       "title": "BMW Spider-Man in-car advertising",
@@ -95,18 +102,18 @@
       "date": "2026-08-01T03:25:12+00:00"
     },
     {
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 152,
-      "source": "hn",
-      "date": "2026-08-01T14:09:00+00:00"
-    },
-    {
       "title": "The development pipeline is a production system",
       "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
       "score": 147,
       "source": "hn",
       "date": "2026-08-01T03:16:09+00:00"
+    },
+    {
+      "title": "The Silicon Valley Founder Meat Grinder",
+      "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+      "score": 136,
+      "source": "hn",
+      "date": "2026-08-01T20:20:58+00:00"
     },
     {
       "title": "A directory of people who love RSS",
@@ -130,11 +137,11 @@
       "date": "2026-08-01T12:56:54+00:00"
     },
     {
-      "title": "The Silicon Valley Founder Meat Grinder",
-      "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
-      "score": 90,
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "score": 89,
       "source": "hn",
-      "date": "2026-08-01T20:20:58+00:00"
+      "date": "2026-08-01T18:32:20+00:00"
     },
     {
       "title": "Solid Queue 1.6.0 now supports fiber workers",
@@ -142,13 +149,6 @@
       "score": 85,
       "source": "hn",
       "date": "2026-08-01T07:42:08+00:00"
-    },
-    {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 84,
-      "source": "hn",
-      "date": "2026-08-01T18:32:20+00:00"
     }
   ],
   "security_highlights": [
