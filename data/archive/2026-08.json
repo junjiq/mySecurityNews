@@ -1,9 +1,9 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-01T18:20:38.832599+00:00",
-  "total_articles": 40,
+  "generated_at": "2026-08-01T18:48:23.557182+00:00",
+  "total_articles": 43,
   "source_counts": {
-    "hn": 34,
+    "hn": 37,
     "zennqiita": 6
   },
   "severity_counts": {
@@ -27,9 +27,23 @@
     {
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 227,
+      "score": 229,
       "source": "hn",
       "date": "2026-08-01T02:45:09+00:00"
+    },
+    {
+      "title": "Cursor removed cost information from the usage page and CSV export",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "score": 199,
+      "source": "hn",
+      "date": "2026-08-01T15:25:21+00:00"
+    },
+    {
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "score": 198,
+      "source": "hn",
+      "date": "2026-08-01T12:34:25+00:00"
     },
     {
       "title": "AI doesn't generate working products, that's still your job",
@@ -39,30 +53,16 @@
       "date": "2026-08-01T07:52:10+00:00"
     },
     {
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 191,
-      "source": "hn",
-      "date": "2026-08-01T12:34:25+00:00"
-    },
-    {
-      "title": "Cursor removed cost information from the usage page and CSV export",
-      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "score": 182,
-      "source": "hn",
-      "date": "2026-08-01T15:25:21+00:00"
-    },
-    {
       "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
       "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-      "score": 176,
+      "score": 187,
       "source": "hn",
       "date": "2026-08-01T14:19:51+00:00"
     },
     {
       "title": "RamenHaus",
       "url": "https://ramen.haus/",
-      "score": 173,
+      "score": 174,
       "source": "hn",
       "date": "2026-08-01T08:48:58+00:00"
     },
@@ -90,9 +90,16 @@
     {
       "title": "A directory of people who love RSS",
       "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-      "score": 105,
+      "score": 109,
       "source": "hn",
       "date": "2026-08-01T16:52:41+00:00"
+    },
+    {
+      "title": "The Art of 64-bit Assembly",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "score": 107,
+      "source": "hn",
+      "date": "2026-08-01T14:09:00+00:00"
     },
     {
       "title": "Charlie Stross – On the non-use of AI in my writing process",
@@ -100,13 +107,6 @@
       "score": 101,
       "source": "hn",
       "date": "2026-08-01T12:56:54+00:00"
-    },
-    {
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 100,
-      "source": "hn",
-      "date": "2026-08-01T14:09:00+00:00"
     },
     {
       "title": "How to Do Great Work (2023)",
@@ -118,7 +118,7 @@
     {
       "title": "Solid Queue 1.6.0 now supports fiber workers",
       "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-      "score": 74,
+      "score": 75,
       "source": "hn",
       "date": "2026-08-01T07:42:08+00:00"
     },
@@ -137,18 +137,18 @@
       "date": "2026-08-01T01:35:53+00:00"
     },
     {
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "score": 37,
+      "title": "BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
+      "url": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
+      "score": 50,
       "source": "hn",
-      "date": "2026-08-01T15:23:15+00:00"
+      "date": "2026-08-01T15:58:10+00:00"
     },
     {
-      "title": "What liberal arts education is for (2024)",
-      "url": "https://innig.net/teaching/liberal-arts-manifesto",
-      "score": 37,
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "score": 42,
       "source": "hn",
-      "date": "2026-08-01T04:28:13+00:00"
+      "date": "2026-08-01T15:23:15+00:00"
     }
   ],
   "security_highlights": [

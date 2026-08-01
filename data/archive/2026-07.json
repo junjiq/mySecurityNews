@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-01T18:20:38.832599+00:00",
-  "total_articles": 421,
+  "generated_at": "2026-08-01T18:48:23.557182+00:00",
+  "total_articles": 418,
   "source_counts": {
-    "hn": 340,
+    "hn": 337,
     "zennqiita": 70,
     "project": 11
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 12,
     "medium": 4
   },
   "top_articles": [
@@ -99,7 +99,7 @@
     {
       "title": "qm – Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "score": 634,
+      "score": 635,
       "source": "hn",
       "date": "2026-07-31T18:04:58+00:00"
     },
@@ -230,13 +230,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-28T10:20:50+00:00"
-    },
-    {
-      "title": "Bytecode-to-Source Mapping",
-      "url": "https://tidefield.dev/bytecode-to-source-mapping/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-27T18:25:21+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
