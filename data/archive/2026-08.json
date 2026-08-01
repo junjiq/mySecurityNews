@@ -1,9 +1,9 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-01T13:31:20.093194+00:00",
-  "total_articles": 25,
+  "generated_at": "2026-08-01T14:30:54.593482+00:00",
+  "total_articles": 27,
   "source_counts": {
-    "hn": 19,
+    "hn": 21,
     "zennqiita": 6
   },
   "severity_counts": {
@@ -13,9 +13,16 @@
     {
       "title": "How to Exist",
       "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "score": 264,
+      "score": 279,
       "source": "hn",
       "date": "2026-08-01T00:25:00+00:00"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "score": 224,
+      "source": "hn",
+      "date": "2026-08-01T07:37:44+00:00"
     },
     {
       "title": "AI doesn't generate working products, that's still your job",
@@ -25,16 +32,9 @@
       "date": "2026-08-01T07:52:10+00:00"
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 193,
-      "source": "hn",
-      "date": "2026-08-01T07:37:44+00:00"
-    },
-    {
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 159,
+      "score": 177,
       "source": "hn",
       "date": "2026-08-01T02:45:09+00:00"
     },
@@ -48,9 +48,16 @@
     {
       "title": "RamenHaus",
       "url": "https://ramen.haus/",
-      "score": 125,
+      "score": 138,
       "source": "hn",
       "date": "2026-08-01T08:48:58+00:00"
+    },
+    {
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "score": 118,
+      "source": "hn",
+      "date": "2026-08-01T03:16:09+00:00"
     },
     {
       "title": "Ten Ways NAS Is Getting Enshitified",
@@ -60,11 +67,18 @@
       "date": "2026-08-01T05:38:16+00:00"
     },
     {
-      "title": "The development pipeline is a production system",
-      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "score": 112,
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "score": 89,
       "source": "hn",
-      "date": "2026-08-01T03:16:09+00:00"
+      "date": "2026-08-01T12:34:25+00:00"
+    },
+    {
+      "title": "How to Do Great Work (2023)",
+      "url": "https://paulgraham.com/greatwork.html",
+      "score": 65,
+      "source": "hn",
+      "date": "2026-08-01T08:19:44+00:00"
     },
     {
       "title": "A week in Matrix",
@@ -74,18 +88,11 @@
       "date": "2026-08-01T01:35:53+00:00"
     },
     {
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 52,
+      "title": "Solid Queue 1.6.0 now supports fiber workers",
+      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+      "score": 49,
       "source": "hn",
-      "date": "2026-08-01T12:34:25+00:00"
-    },
-    {
-      "title": "How to Do Great Work (2023)",
-      "url": "https://paulgraham.com/greatwork.html",
-      "score": 52,
-      "source": "hn",
-      "date": "2026-08-01T08:19:44+00:00"
+      "date": "2026-08-01T07:42:08+00:00"
     },
     {
       "title": "What liberal arts education is for (2024)",
@@ -93,13 +100,6 @@
       "score": 37,
       "source": "hn",
       "date": "2026-08-01T04:28:13+00:00"
-    },
-    {
-      "title": "Solid Queue 1.6.0 now supports fiber workers",
-      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-      "score": 35,
-      "source": "hn",
-      "date": "2026-08-01T07:42:08+00:00"
     },
     {
       "title": "Firefighter arson a long-standing issue – expert",
@@ -123,6 +123,13 @@
       "date": "2026-08-01T13:02:44+00:00"
     },
     {
+      "title": "Astro Loop",
+      "url": "https://pubdeer.com/",
+      "score": 7,
+      "source": "hn",
+      "date": "2026-08-01T12:17:48+00:00"
+    },
+    {
       "title": "OpenAI's work on Git for large repositories",
       "url": "https://openai-git-upstream.openai.chatgpt.site/",
       "score": 7,
@@ -137,11 +144,11 @@
       "date": "2026-08-01T12:03:25+00:00"
     },
     {
-      "title": "Kontigo (YC S24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
-      "score": 1,
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "score": 3,
       "source": "hn",
-      "date": "2026-08-01T12:00:25+00:00"
+      "date": "2026-08-01T14:19:51+00:00"
     }
   ],
   "security_highlights": [
