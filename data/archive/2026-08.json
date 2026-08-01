@@ -1,10 +1,10 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-01T19:55:13.117931+00:00",
-  "total_articles": 46,
+  "generated_at": "2026-08-01T20:20:04.934582+00:00",
+  "total_articles": 55,
   "source_counts": {
-    "hn": 40,
-    "zennqiita": 6
+    "hn": 44,
+    "zennqiita": 11
   },
   "severity_counts": {
     "critical": 1
@@ -27,28 +27,28 @@
     {
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 231,
+      "score": 233,
       "source": "hn",
       "date": "2026-08-01T02:45:09+00:00"
     },
     {
       "title": "Cursor removed cost information from the usage page and CSV export",
       "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "score": 223,
+      "score": 232,
       "source": "hn",
       "date": "2026-08-01T15:25:21+00:00"
     },
     {
       "title": "RipGrep musl binaries occasionally segfault during very-large searches",
       "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 212,
+      "score": 217,
       "source": "hn",
       "date": "2026-08-01T12:34:25+00:00"
     },
     {
       "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
       "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-      "score": 206,
+      "score": 207,
       "source": "hn",
       "date": "2026-08-01T14:19:51+00:00"
     },
@@ -62,7 +62,7 @@
     {
       "title": "RamenHaus",
       "url": "https://ramen.haus/",
-      "score": 185,
+      "score": 190,
       "source": "hn",
       "date": "2026-08-01T08:48:58+00:00"
     },
@@ -83,16 +83,23 @@
     {
       "title": "A directory of people who love RSS",
       "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-      "score": 129,
+      "score": 134,
       "source": "hn",
       "date": "2026-08-01T16:52:41+00:00"
     },
     {
       "title": "The Art of 64-bit Assembly",
       "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 128,
+      "score": 132,
       "source": "hn",
       "date": "2026-08-01T14:09:00+00:00"
+    },
+    {
+      "title": "NetBSD 11.0",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "score": 118,
+      "source": "hn",
+      "date": "2026-08-01T17:56:41+00:00"
     },
     {
       "title": "Ten Ways NAS Is Getting Enshitified",
@@ -100,13 +107,6 @@
       "score": 116,
       "source": "hn",
       "date": "2026-08-01T05:38:16+00:00"
-    },
-    {
-      "title": "NetBSD 11.0",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "score": 106,
-      "source": "hn",
-      "date": "2026-08-01T17:56:41+00:00"
     },
     {
       "title": "Charlie Stross – On the non-use of AI in my writing process",
@@ -118,7 +118,7 @@
     {
       "title": "Solid Queue 1.6.0 now supports fiber workers",
       "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-      "score": 81,
+      "score": 85,
       "source": "hn",
       "date": "2026-08-01T07:42:08+00:00"
     },
@@ -144,11 +144,11 @@
       "date": "2026-08-01T01:35:53+00:00"
     },
     {
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "score": 53,
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "score": 62,
       "source": "hn",
-      "date": "2026-08-01T15:23:15+00:00"
+      "date": "2026-08-01T18:32:20+00:00"
     }
   ],
   "security_highlights": [
