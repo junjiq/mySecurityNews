@@ -1,18 +1,26 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T12:22:30.405981+00:00",
-  "total_articles": 63,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-08-01T12:48:24.425901+00:00",
+  "total_articles": 65,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
+      "url": "https://freeaipromptgen.com/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-01T12:03:25+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 60,
       "top_items": [
         {
           "title": "Elevators",
           "url": "https://john.fun/elevators",
-          "score": 1359,
+          "score": 1380,
           "source": "hn",
           "severity": null,
           "date": "2026-07-31T15:17:28+00:00"
@@ -36,7 +44,7 @@
         {
           "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
           "url": "https://github.com/sqliteai/waste",
-          "score": 268,
+          "score": 269,
           "source": "hn",
           "severity": null,
           "date": "2026-07-31T14:12:38+00:00"
@@ -44,7 +52,7 @@
         {
           "title": "How to Exist",
           "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-          "score": 239,
+          "score": 246,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T00:25:00+00:00"
