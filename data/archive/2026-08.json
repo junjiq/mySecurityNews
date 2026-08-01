@@ -1,9 +1,9 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-01T18:48:23.557182+00:00",
-  "total_articles": 43,
+  "generated_at": "2026-08-01T19:26:33.418927+00:00",
+  "total_articles": 46,
   "source_counts": {
-    "hn": 37,
+    "hn": 40,
     "zennqiita": 6
   },
   "severity_counts": {
@@ -27,23 +27,30 @@
     {
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 229,
+      "score": 230,
       "source": "hn",
       "date": "2026-08-01T02:45:09+00:00"
     },
     {
       "title": "Cursor removed cost information from the usage page and CSV export",
       "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "score": 199,
+      "score": 213,
       "source": "hn",
       "date": "2026-08-01T15:25:21+00:00"
     },
     {
       "title": "RipGrep musl binaries occasionally segfault during very-large searches",
       "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 198,
+      "score": 207,
       "source": "hn",
       "date": "2026-08-01T12:34:25+00:00"
+    },
+    {
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "score": 198,
+      "source": "hn",
+      "date": "2026-08-01T14:19:51+00:00"
     },
     {
       "title": "AI doesn't generate working products, that's still your job",
@@ -53,16 +60,9 @@
       "date": "2026-08-01T07:52:10+00:00"
     },
     {
-      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-      "score": 187,
-      "source": "hn",
-      "date": "2026-08-01T14:19:51+00:00"
-    },
-    {
       "title": "RamenHaus",
       "url": "https://ramen.haus/",
-      "score": 174,
+      "score": 177,
       "source": "hn",
       "date": "2026-08-01T08:48:58+00:00"
     },
@@ -76,9 +76,23 @@
     {
       "title": "The development pipeline is a production system",
       "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "score": 140,
+      "score": 147,
       "source": "hn",
       "date": "2026-08-01T03:16:09+00:00"
+    },
+    {
+      "title": "The Art of 64-bit Assembly",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "score": 120,
+      "source": "hn",
+      "date": "2026-08-01T14:09:00+00:00"
+    },
+    {
+      "title": "A directory of people who love RSS",
+      "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+      "score": 117,
+      "source": "hn",
+      "date": "2026-08-01T16:52:41+00:00"
     },
     {
       "title": "Ten Ways NAS Is Getting Enshitified",
@@ -88,20 +102,6 @@
       "date": "2026-08-01T05:38:16+00:00"
     },
     {
-      "title": "A directory of people who love RSS",
-      "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-      "score": 109,
-      "source": "hn",
-      "date": "2026-08-01T16:52:41+00:00"
-    },
-    {
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 107,
-      "source": "hn",
-      "date": "2026-08-01T14:09:00+00:00"
-    },
-    {
       "title": "Charlie Stross – On the non-use of AI in my writing process",
       "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
       "score": 101,
@@ -109,18 +109,25 @@
       "date": "2026-08-01T12:56:54+00:00"
     },
     {
+      "title": "NetBSD 11.0 Released",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "score": 79,
+      "source": "hn",
+      "date": "2026-08-01T17:56:41+00:00"
+    },
+    {
+      "title": "Solid Queue 1.6.0 now supports fiber workers",
+      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+      "score": 78,
+      "source": "hn",
+      "date": "2026-08-01T07:42:08+00:00"
+    },
+    {
       "title": "How to Do Great Work (2023)",
       "url": "https://paulgraham.com/greatwork.html",
       "score": 77,
       "source": "hn",
       "date": "2026-08-01T08:19:44+00:00"
-    },
-    {
-      "title": "Solid Queue 1.6.0 now supports fiber workers",
-      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-      "score": 75,
-      "source": "hn",
-      "date": "2026-08-01T07:42:08+00:00"
     },
     {
       "title": "GitHub has alternatives, but no replacement",
@@ -137,16 +144,9 @@
       "date": "2026-08-01T01:35:53+00:00"
     },
     {
-      "title": "BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
-      "url": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
-      "score": 50,
-      "source": "hn",
-      "date": "2026-08-01T15:58:10+00:00"
-    },
-    {
       "title": "Explorative modeling: Train on the best of K guesses",
       "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "score": 42,
+      "score": 51,
       "source": "hn",
       "date": "2026-08-01T15:23:15+00:00"
     }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T18:48:23.508875+00:00",
-  "total_articles": 49,
+  "generated_at": "2026-08-01T19:26:33.381334+00:00",
+  "total_articles": 51,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,16 +15,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 45,
       "top_items": [
-        {
-          "title": "Tailscale didn't stop the Hugging Face intrusion",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "score": 534,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-07-31T19:03:45+00:00"
-        },
         {
           "title": "How to Exist",
           "url": "https://www.raptitude.com/2026/07/how-to-exist/",
@@ -44,7 +36,7 @@
         {
           "title": "Flint: A Visualization Language for the AI Era",
           "url": "https://microsoft.github.io/flint-chart/",
-          "score": 229,
+          "score": 230,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T02:45:09+00:00"
@@ -52,10 +44,18 @@
         {
           "title": "Cursor removed cost information from the usage page and CSV export",
           "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-          "score": 199,
+          "score": 213,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T15:25:21+00:00"
+        },
+        {
+          "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+          "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+          "score": 207,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-01T12:34:25+00:00"
         }
       ]
     },
