@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T12:23:31.983087+00:00",
-  "total_articles": 85,
+  "generated_at": "2026-08-02T12:48:33.090239+00:00",
+  "total_articles": 89,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 77,
+      "count": 80,
       "top_items": [
         {
           "title": "How Google helped destroy adoption of RSS feeds (2023)",
@@ -35,7 +35,7 @@
         {
           "title": "Diátaxis",
           "url": "https://diataxis.fr/",
-          "score": 386,
+          "score": 392,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T20:33:27+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "Seedance 2.5",
           "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-          "score": 371,
+          "score": 376,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T20:45:12+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 9,
       "top_items": [
+        {
+          "title": "【開催！】2026 Japan AWS Jr. Champions 真夏のQiitaリレー",
+          "url": "https://qiita.com/ys-yoshida/items/6f7c7f85155a993e2c86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-02T21:23:58+09:00"
+        },
         {
           "title": "Microsoft 365 グループの 所有グループを取得するエトセトラ",
           "url": "https://qiita.com/yamad365/items/41fd38bcab586e0e5a27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-02T09:55:01+09:00"
-        },
-        {
-          "title": "ガバメント AI 源内（genai-web）を Entra ID シングルサインオン + カスタムドメインで運用する",
-          "url": "https://qiita.com/takeda_h/items/74e0d6802dafeda4a7b1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-02T00:04:13+09:00"
         }
       ]
     }
