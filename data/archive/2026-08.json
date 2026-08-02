@@ -1,13 +1,13 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-02T19:55:20.544608+00:00",
-  "total_articles": 133,
+  "generated_at": "2026-08-02T20:21:01.758015+00:00",
+  "total_articles": 143,
   "source_counts": {
-    "hn": 116,
-    "zennqiita": 17
+    "hn": 119,
+    "zennqiita": 24
   },
   "severity_counts": {
-    "critical": 3
+    "critical": 4
   },
   "top_articles": [
     {
@@ -95,6 +95,13 @@
       "date": "2026-08-01T02:45:09+00:00"
     },
     {
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "score": 238,
+      "source": "hn",
+      "date": "2026-08-02T04:05:56+00:00"
+    },
+    {
       "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
       "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
       "score": 237,
@@ -123,13 +130,6 @@
       "date": "2026-08-01T14:09:00+00:00"
     },
     {
-      "title": "Karpathy’s Pelican",
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "score": 213,
-      "source": "hn",
-      "date": "2026-08-02T04:05:56+00:00"
-    },
-    {
       "title": "AI doesn't generate working products, that's still your job",
       "url": "https://weeraman.com/the-prototype-isnt-the-product/",
       "score": 197,
@@ -152,6 +152,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "EU rules on AI models become enforceable. What's going to change?",
+      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-02T19:40:19+00:00"
+    },
     {
       "title": "Show HN: Bor – Open-source policy management for Linux desktops",
       "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
