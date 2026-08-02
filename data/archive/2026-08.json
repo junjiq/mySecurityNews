@@ -1,13 +1,13 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-02T10:08:01.739072+00:00",
-  "total_articles": 99,
+  "generated_at": "2026-08-02T11:00:39.118702+00:00",
+  "total_articles": 106,
   "source_counts": {
-    "hn": 82,
+    "hn": 89,
     "zennqiita": 17
   },
   "severity_counts": {
-    "critical": 2
+    "critical": 3
   },
   "top_articles": [
     {
@@ -20,14 +20,14 @@
     {
       "title": "Diátaxis",
       "url": "https://diataxis.fr/",
-      "score": 355,
+      "score": 369,
       "source": "hn",
       "date": "2026-08-01T20:33:27+00:00"
     },
     {
       "title": "Seedance 2.5",
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 342,
+      "score": 355,
       "source": "hn",
       "date": "2026-08-01T20:45:12+00:00"
     },
@@ -81,6 +81,13 @@
       "date": "2026-08-01T02:45:09+00:00"
     },
     {
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "score": 232,
+      "source": "hn",
+      "date": "2026-08-02T01:35:51+00:00"
+    },
+    {
       "title": "RamenHaus",
       "url": "https://ramen.haus/",
       "score": 229,
@@ -93,13 +100,6 @@
       "score": 226,
       "source": "hn",
       "date": "2026-08-01T17:56:41+00:00"
-    },
-    {
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 216,
-      "source": "hn",
-      "date": "2026-08-02T01:35:51+00:00"
     },
     {
       "title": "The Art of 64-bit Assembly",
@@ -125,7 +125,7 @@
     {
       "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
       "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "score": 167,
+      "score": 179,
       "source": "hn",
       "date": "2026-08-02T02:07:09+00:00"
     },
@@ -146,12 +146,19 @@
     {
       "title": "Postmortem for Kernel Soundness Bug #14576",
       "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 148,
+      "score": 151,
       "source": "hn",
       "date": "2026-08-01T18:32:20+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-02T09:06:33+00:00"
+    },
     {
       "title": "CRM: An open-source, agentic-first CRM",
       "url": "https://github.com/trycompai/crm",
