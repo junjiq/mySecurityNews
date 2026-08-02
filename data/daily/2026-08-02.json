@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T01:34:56.246308+00:00",
-  "total_articles": 68,
+  "generated_at": "2026-08-02T03:04:20.986248+00:00",
+  "total_articles": 70,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 63,
       "top_items": [
         {
           "title": "How Google helped destroy adoption of RSS feeds (2023)",
           "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-          "score": 389,
+          "score": 419,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T18:07:07+00:00"
@@ -42,26 +42,26 @@
           "date": "2026-08-01T15:25:21+00:00"
         },
         {
+          "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+          "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+          "score": 256,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-01T12:34:25+00:00"
+        },
+        {
           "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
           "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
           "score": 255,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T14:19:51+00:00"
-        },
-        {
-          "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-          "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-          "score": 249,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-01T12:34:25+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 7,
       "top_items": [
         {
           "title": "HTMLが分からなくてもページ作成できる世界へ。HTMLページビルダーのプロトタイプ開発に挑戦",
