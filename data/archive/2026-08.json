@@ -1,19 +1,19 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-02T07:21:23.926794+00:00",
-  "total_articles": 87,
+  "generated_at": "2026-08-02T08:16:47.388393+00:00",
+  "total_articles": 96,
   "source_counts": {
-    "hn": 76,
-    "zennqiita": 11
+    "hn": 79,
+    "zennqiita": 17
   },
   "severity_counts": {
-    "critical": 1
+    "critical": 2
   },
   "top_articles": [
     {
       "title": "How Google helped destroy adoption of RSS feeds (2023)",
       "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "score": 496,
+      "score": 512,
       "source": "hn",
       "date": "2026-08-01T18:07:07+00:00"
     },
@@ -25,6 +25,20 @@
       "date": "2026-08-01T00:25:00+00:00"
     },
     {
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "score": 315,
+      "source": "hn",
+      "date": "2026-08-01T20:45:12+00:00"
+    },
+    {
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "score": 315,
+      "source": "hn",
+      "date": "2026-08-01T20:33:27+00:00"
+    },
+    {
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
       "score": 298,
@@ -32,18 +46,11 @@
       "date": "2026-08-01T07:37:44+00:00"
     },
     {
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 296,
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "score": 290,
       "source": "hn",
-      "date": "2026-08-01T20:45:12+00:00"
-    },
-    {
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "score": 295,
-      "source": "hn",
-      "date": "2026-08-01T20:33:27+00:00"
+      "date": "2026-08-01T22:25:12+00:00"
     },
     {
       "title": "Cursor removed cost information from the usage page and CSV export",
@@ -51,13 +58,6 @@
       "score": 289,
       "source": "hn",
       "date": "2026-08-01T15:25:21+00:00"
-    },
-    {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 276,
-      "source": "hn",
-      "date": "2026-08-01T22:25:12+00:00"
     },
     {
       "title": "RipGrep musl binaries occasionally segfault during very-large searches",
@@ -118,7 +118,7 @@
     {
       "title": "Go 1.27 Interactive Tour",
       "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 161,
+      "score": 183,
       "source": "hn",
       "date": "2026-08-02T01:35:51+00:00"
     },
@@ -146,12 +146,19 @@
     {
       "title": "Postmortem for Kernel Soundness Bug #14576",
       "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 142,
+      "score": 143,
       "source": "hn",
       "date": "2026-08-01T18:32:20+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "CRM: An open-source, agentic-first CRM",
+      "url": "https://github.com/trycompai/crm",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-02T06:59:28+00:00"
+    },
     {
       "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
       "url": "https://freeaipromptgen.com/",

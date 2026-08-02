@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-02T07:21:23.926794+00:00",
-  "total_articles": 374,
+  "generated_at": "2026-08-02T08:16:47.388393+00:00",
+  "total_articles": 365,
   "source_counts": {
-    "hn": 302,
+    "hn": 293,
     "zennqiita": 61,
     "project": 11
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 10,
     "medium": 3
   },
   "top_articles": [
@@ -216,20 +216,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-29T00:11:23+00:00"
-    },
-    {
-      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-28T12:02:57+00:00"
-    },
-    {
-      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-28T10:20:50+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
