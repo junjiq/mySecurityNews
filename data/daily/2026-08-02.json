@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T16:21:13.581387+00:00",
-  "total_articles": 80,
+  "generated_at": "2026-08-02T16:47:47.980614+00:00",
+  "total_articles": 78,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 75,
+      "count": 73,
       "top_items": [
         {
           "title": "How Google helped destroy adoption of RSS feeds (2023)",
@@ -35,7 +35,7 @@
         {
           "title": "Diátaxis",
           "url": "https://diataxis.fr/",
-          "score": 442,
+          "score": 450,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T20:33:27+00:00"
@@ -43,10 +43,18 @@
         {
           "title": "Seedance 2.5",
           "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-          "score": 404,
+          "score": 408,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T20:45:12+00:00"
+        },
+        {
+          "title": "Go 1.27 Interactive Tour",
+          "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+          "score": 304,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-02T01:35:51+00:00"
         },
         {
           "title": "AI financial advice is surprisingly good, especially if you ask right questions",
@@ -55,14 +63,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T22:25:12+00:00"
-        },
-        {
-          "title": "Go 1.27 Interactive Tour",
-          "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-          "score": 298,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-02T01:35:51+00:00"
         }
       ]
     },
