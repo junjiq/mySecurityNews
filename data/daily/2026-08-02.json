@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T09:14:38.139967+00:00",
-  "total_articles": 76,
+  "generated_at": "2026-08-02T10:08:01.691321+00:00",
+  "total_articles": 77,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 65,
+      "count": 67,
       "top_items": [
         {
           "title": "How Google helped destroy adoption of RSS feeds (2023)",
           "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-          "score": 519,
+          "score": 530,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T18:07:07+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Diátaxis",
           "url": "https://diataxis.fr/",
-          "score": 339,
+          "score": 355,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T20:33:27+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "Seedance 2.5",
           "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-          "score": 328,
+          "score": 342,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T20:45:12+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "AI financial advice is surprisingly good, especially if you ask right questions",
           "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "score": 295,
+          "score": 303,
           "source": "hn",
           "severity": null,
           "date": "2026-08-01T22:25:12+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 10,
       "top_items": [
+        {
+          "title": "Microsoft 365 グループの 所有グループを取得するエトセトラ",
+          "url": "https://qiita.com/yamad365/items/41fd38bcab586e0e5a27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-02T18:46:09+09:00"
+        },
         {
           "title": "【YAMAHAルーター】RTX1300を2台でHA構成。VRRPの基本から（1回目）",
           "url": "https://qiita.com/Heizo_Hasegawa/items/8ea5d459681f7f7ac2a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-02T00:04:13+09:00"
-        },
-        {
-          "title": "Microsoft 365 グループの 所有グループを取得するエトセトラ",
-          "url": "https://qiita.com/yamad365/items/41fd38bcab586e0e5a27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-01T23:36:00+09:00"
         }
       ]
     }
