@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T22:18:52.384583+00:00",
-  "total_articles": 85,
+  "generated_at": "2026-08-02T22:47:24.156438+00:00",
+  "total_articles": 84,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,8 +29,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 74,
+      "count": 73,
       "top_items": [
+        {
+          "title": "Karpathy’s Pelican",
+          "url": "https://twitter.com/karpathy/status/2083749667410727319",
+          "score": 362,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-02T04:05:56+00:00"
+        },
         {
           "title": "Go 1.27 Interactive Tour",
           "url": "https://victoriametrics.com/blog/go-1-27/index.html",
@@ -38,22 +46,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-02T01:35:51+00:00"
-        },
-        {
-          "title": "Karpathy’s Pelican",
-          "url": "https://twitter.com/karpathy/status/2083749667410727319",
-          "score": 329,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-02T04:05:56+00:00"
-        },
-        {
-          "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "score": 303,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-01T22:25:12+00:00"
         },
         {
           "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
@@ -70,6 +62,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-02T11:24:20+00:00"
+        },
+        {
+          "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "score": 176,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-02T04:21:14+00:00"
         }
       ]
     },
