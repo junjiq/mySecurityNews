@@ -1,9 +1,9 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-02T08:16:47.388393+00:00",
-  "total_articles": 96,
+  "generated_at": "2026-08-02T09:14:38.186369+00:00",
+  "total_articles": 97,
   "source_counts": {
-    "hn": 79,
+    "hn": 80,
     "zennqiita": 17
   },
   "severity_counts": {
@@ -13,9 +13,23 @@
     {
       "title": "How Google helped destroy adoption of RSS feeds (2023)",
       "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "score": 512,
+      "score": 519,
       "source": "hn",
       "date": "2026-08-01T18:07:07+00:00"
+    },
+    {
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "score": 339,
+      "source": "hn",
+      "date": "2026-08-01T20:33:27+00:00"
+    },
+    {
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "score": 328,
+      "source": "hn",
+      "date": "2026-08-01T20:45:12+00:00"
     },
     {
       "title": "How to Exist",
@@ -23,20 +37,6 @@
       "score": 324,
       "source": "hn",
       "date": "2026-08-01T00:25:00+00:00"
-    },
-    {
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 315,
-      "source": "hn",
-      "date": "2026-08-01T20:45:12+00:00"
-    },
-    {
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "score": 315,
-      "source": "hn",
-      "date": "2026-08-01T20:33:27+00:00"
     },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
@@ -48,7 +48,7 @@
     {
       "title": "AI financial advice is surprisingly good, especially if you ask right questions",
       "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 290,
+      "score": 295,
       "source": "hn",
       "date": "2026-08-01T22:25:12+00:00"
     },
@@ -102,6 +102,13 @@
       "date": "2026-08-01T14:09:00+00:00"
     },
     {
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "score": 199,
+      "source": "hn",
+      "date": "2026-08-02T01:35:51+00:00"
+    },
+    {
       "title": "AI doesn't generate working products, that's still your job",
       "url": "https://weeraman.com/the-prototype-isnt-the-product/",
       "score": 197,
@@ -116,18 +123,18 @@
       "date": "2026-08-01T19:39:43+00:00"
     },
     {
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 183,
-      "source": "hn",
-      "date": "2026-08-02T01:35:51+00:00"
-    },
-    {
       "title": "BMW Spider-Man in-car advertising",
       "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
       "score": 157,
       "source": "hn",
       "date": "2026-08-01T03:25:12+00:00"
+    },
+    {
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "score": 152,
+      "source": "hn",
+      "date": "2026-08-02T02:07:09+00:00"
     },
     {
       "title": "Linux desktop market share has hit over 10% in North America",
@@ -142,13 +149,6 @@
       "score": 147,
       "source": "hn",
       "date": "2026-08-01T03:16:09+00:00"
-    },
-    {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 143,
-      "source": "hn",
-      "date": "2026-08-01T18:32:20+00:00"
     }
   ],
   "security_highlights": [
