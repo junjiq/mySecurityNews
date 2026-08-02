@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T13:30:59.812887+00:00",
+  "updated_at": "2026-08-02T14:31:29.626960+00:00",
   "count": 500,
   "items": [
     {
@@ -13,7 +13,7 @@
       "tags": [
         "Qiita"
       ],
-      "date": "2026-08-02T22:30:42+09:00"
+      "date": "2026-08-02T22:34:15+09:00"
     },
     {
       "id": "hn-49144273",
@@ -31,11 +31,22 @@
       "source": "hn",
       "title": "Twenty Years of RISC OS Open",
       "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "score": 29,
-      "comments": 1,
+      "score": 50,
+      "comments": 7,
       "author": "AlexeyBrin",
       "tags": [],
       "date": "2026-08-02T12:36:07+00:00"
+    },
+    {
+      "id": "hn-49143925",
+      "source": "hn",
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "url": "https://fstar-lang.org/",
+      "score": 16,
+      "comments": 2,
+      "author": "ducktective",
+      "tags": [],
+      "date": "2026-08-02T12:31:16+00:00"
     },
     {
       "id": "hn-49143688",
@@ -75,8 +86,8 @@
       "source": "hn",
       "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
       "url": "https://meshdiff.com/",
-      "score": 66,
-      "comments": 8,
+      "score": 86,
+      "comments": 11,
       "author": "projscope",
       "tags": [],
       "date": "2026-08-02T11:34:41+00:00"
@@ -97,11 +108,22 @@
       "source": "hn",
       "title": "Show HN: Fuse – statically typed functional programming language",
       "url": "https://fuselang.org",
-      "score": 20,
-      "comments": 2,
+      "score": 33,
+      "comments": 4,
       "author": "the_unproven",
       "tags": [],
       "date": "2026-08-02T11:23:56+00:00"
+    },
+    {
+      "id": "hn-49143304",
+      "source": "hn",
+      "title": "I made a Promise-aware debounce and throttle library for TypeScript",
+      "url": "https://github.com/nyvexis1/temporize",
+      "score": 7,
+      "comments": 4,
+      "author": "slimy74",
+      "tags": [],
+      "date": "2026-08-02T11:07:56+00:00"
     },
     {
       "id": "hn-49143289",
@@ -119,7 +141,7 @@
       "source": "hn",
       "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
       "url": "https://github.com/kamalfarahani/katharos",
-      "score": 6,
+      "score": 14,
       "comments": 1,
       "author": "kamalf",
       "tags": [],
@@ -141,8 +163,8 @@
       "source": "hn",
       "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
       "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "score": 50,
-      "comments": 6,
+      "score": 60,
+      "comments": 8,
       "author": "jruohonen",
       "tags": [],
       "date": "2026-08-02T10:18:24+00:00"
@@ -152,8 +174,8 @@
       "source": "hn",
       "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
       "url": "https://github.com/syncular/syncular",
-      "score": 37,
-      "comments": 17,
+      "score": 47,
+      "comments": 19,
       "author": "quambo",
       "tags": [],
       "date": "2026-08-02T09:48:08+00:00"
@@ -176,8 +198,8 @@
       "source": "hn",
       "title": "Show HN: Bor – Open-source policy management for Linux desktops",
       "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "score": 70,
-      "comments": 13,
+      "score": 96,
+      "comments": 16,
       "author": "eniac111",
       "tags": [],
       "date": "2026-08-02T09:06:33+00:00",
@@ -199,8 +221,8 @@
       "source": "hn",
       "title": "Cyberscript",
       "url": "https://cyberscript.dev",
-      "score": 29,
-      "comments": 27,
+      "score": 35,
+      "comments": 37,
       "author": "dtj1123",
       "tags": [],
       "date": "2026-08-02T07:58:30+00:00"
@@ -256,8 +278,8 @@
       "source": "hn",
       "title": "IBM i (OS/400) the Database Operating System",
       "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
-      "score": 31,
-      "comments": 16,
+      "score": 38,
+      "comments": 22,
       "author": "naves",
       "tags": [],
       "date": "2026-08-02T07:17:49+00:00"
@@ -297,6 +319,17 @@
       "severity": "critical"
     },
     {
+      "id": "hn-49141828",
+      "source": "hn",
+      "title": "ESP32-C3 SuperMini antenna modification",
+      "url": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
+      "score": 21,
+      "comments": 1,
+      "author": "ta988",
+      "tags": [],
+      "date": "2026-08-02T06:56:38+00:00"
+    },
+    {
       "id": "qiita-5f9a1fa3a9",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -314,8 +347,8 @@
       "source": "hn",
       "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
       "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "score": 156,
-      "comments": 74,
+      "score": 165,
+      "comments": 81,
       "author": "ilreb",
       "tags": [],
       "date": "2026-08-02T04:21:14+00:00"
@@ -347,8 +380,8 @@
       "source": "hn",
       "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
       "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-      "score": 70,
-      "comments": 4,
+      "score": 74,
+      "comments": 5,
       "author": "goldenskye",
       "tags": [],
       "date": "2026-08-02T03:12:52+00:00"
@@ -380,8 +413,8 @@
       "source": "hn",
       "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
       "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
-      "score": 68,
-      "comments": 34,
+      "score": 79,
+      "comments": 37,
       "author": "pkaeding",
       "tags": [],
       "date": "2026-08-02T02:51:15+00:00"
@@ -402,8 +435,8 @@
       "source": "hn",
       "title": "When random.bytes() runs but doesn't work",
       "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-      "score": 66,
-      "comments": 33,
+      "score": 72,
+      "comments": 35,
       "author": "Funes-",
       "tags": [],
       "date": "2026-08-02T02:08:26+00:00"
@@ -413,8 +446,8 @@
       "source": "hn",
       "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
       "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "score": 200,
-      "comments": 69,
+      "score": 220,
+      "comments": 73,
       "author": "tomilan",
       "tags": [],
       "date": "2026-08-02T02:07:09+00:00"
@@ -435,8 +468,8 @@
       "source": "hn",
       "title": "Go 1.27 Interactive Tour",
       "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 264,
-      "comments": 108,
+      "score": 278,
+      "comments": 120,
       "author": "Hixon10",
       "tags": [],
       "date": "2026-08-02T01:35:51+00:00"
@@ -446,7 +479,7 @@
       "source": "hn",
       "title": "ASRock BC-250: Building the Budget Steam Machine",
       "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-      "score": 77,
+      "score": 91,
       "comments": 36,
       "author": "plug_world",
       "tags": [],
@@ -613,8 +646,8 @@
       "source": "hn",
       "title": "Seedance 2.5",
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 386,
-      "comments": 202,
+      "score": 392,
+      "comments": 207,
       "author": "njaremko",
       "tags": [],
       "date": "2026-08-01T20:45:12+00:00"
@@ -624,7 +657,7 @@
       "source": "hn",
       "title": "Diátaxis",
       "url": "https://diataxis.fr/",
-      "score": 400,
+      "score": 416,
       "comments": 49,
       "author": "ryanseys",
       "tags": [],
@@ -2408,8 +2441,8 @@
       "source": "hn",
       "title": "Holocloth",
       "url": "https://holocloth.vercel.app",
-      "score": 37,
-      "comments": 8,
+      "score": 55,
+      "comments": 12,
       "author": "ingve",
       "tags": [],
       "date": "2026-07-30T22:59:27+00:00"
@@ -4365,6 +4398,17 @@
       "date": "2026-07-29T06:54:23+00:00"
     },
     {
+      "id": "hn-49093845",
+      "source": "hn",
+      "title": "Folding Paper Globes",
+      "url": "https://foldingglobes.com/globes",
+      "score": 21,
+      "comments": 1,
+      "author": "dango2506",
+      "tags": [],
+      "date": "2026-07-29T05:53:00+00:00"
+    },
+    {
       "id": "qiita-349ef3418b",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -5072,50 +5116,6 @@
       "date": "2026-07-28T15:27:08+00:00"
     },
     {
-      "id": "hn-49085280",
-      "source": "hn",
-      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "url": "https://arxiv.org/abs/1202.4212",
-      "score": 92,
-      "comments": 75,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-28T15:20:35+00:00"
-    },
-    {
-      "id": "hn-49085236",
-      "source": "hn",
-      "title": "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
-      "url": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
-      "score": 67,
-      "comments": 41,
-      "author": "pseudolus",
-      "tags": [],
-      "date": "2026-07-28T15:17:38+00:00"
-    },
-    {
-      "id": "hn-49085065",
-      "source": "hn",
-      "title": "Glyphs 4 – the leading Mac font editor",
-      "url": "https://glyphsapp.com",
-      "score": 62,
-      "comments": 10,
-      "author": "microflash",
-      "tags": [],
-      "date": "2026-07-28T15:06:38+00:00"
-    },
-    {
-      "id": "hn-49084989",
-      "source": "hn",
-      "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
-      "url": "https://anthropeum.com/",
-      "score": 122,
-      "comments": 34,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-07-28T15:01:15+00:00"
-    },
-    {
       "id": "ctf-4233874",
       "source": "project",
       "proj_category": "CTF",
@@ -5325,6 +5325,19 @@
         "Release"
       ],
       "date": "2023-05-23T17:06:23Z"
+    },
+    {
+      "id": "zenn-f89b35604a",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GDBで始めるアセンブリと解析",
+      "url": "https://zenn.dev/juck28/articles/091c07869aba28",
+      "score": null,
+      "author": "JUCK",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Sat, 01 Aug 2026 13:34:19 GMT"
     },
     {
       "id": "zenn-cef5d46b4e",
@@ -5572,19 +5585,6 @@
         "Zenn"
       ],
       "date": "Mon, 27 Jul 2026 04:26:35 GMT"
-    },
-    {
-      "id": "zenn-6dd6cc92e6",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "最近の開発の流れ",
-      "url": "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
-      "score": null,
-      "author": "きむちゃん。",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Jul 2026 00:31:05 GMT"
     },
     {
       "id": "edb-9bdf9aa505",
