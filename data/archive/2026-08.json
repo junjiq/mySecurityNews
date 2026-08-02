@@ -1,13 +1,13 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-02T22:47:24.202407+00:00",
-  "total_articles": 153,
+  "generated_at": "2026-08-02T23:19:59.818922+00:00",
+  "total_articles": 154,
   "source_counts": {
-    "hn": 129,
+    "hn": 130,
     "zennqiita": 24
   },
   "severity_counts": {
-    "critical": 4
+    "critical": 5
   },
   "top_articles": [
     {
@@ -34,7 +34,7 @@
     {
       "title": "Karpathy’s Pelican",
       "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "score": 362,
+      "score": 387,
       "source": "hn",
       "date": "2026-08-02T04:05:56+00:00"
     },
@@ -152,6 +152,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
+      "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-02T22:16:34+00:00"
+    },
     {
       "title": "EU rules on AI models become enforceable. What's going to change?",
       "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
