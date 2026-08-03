@@ -1,10 +1,10 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-03T07:41:02.653727+00:00",
-  "total_articles": 170,
+  "generated_at": "2026-08-03T09:07:16.727533+00:00",
+  "total_articles": 190,
   "source_counts": {
-    "hn": 146,
-    "zennqiita": 24
+    "hn": 152,
+    "zennqiita": 38
   },
   "severity_counts": {
     "critical": 5
@@ -13,9 +13,16 @@
     {
       "title": "Karpathy’s Pelican",
       "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "score": 547,
+      "score": 562,
       "source": "hn",
       "date": "2026-08-02T04:05:56+00:00"
+    },
+    {
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "score": 530,
+      "source": "hn",
+      "date": "2026-08-03T02:16:09+00:00"
     },
     {
       "title": "How Google helped destroy adoption of RSS feeds (2023)",
@@ -32,11 +39,11 @@
       "date": "2026-08-01T20:33:27+00:00"
     },
     {
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "score": 461,
+      "title": "Don't be a meat proxy",
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "score": 421,
       "source": "hn",
-      "date": "2026-08-03T02:16:09+00:00"
+      "date": "2026-08-03T06:28:01+00:00"
     },
     {
       "title": "Seedance 2.5",
@@ -130,23 +137,16 @@
       "date": "2026-08-01T17:56:41+00:00"
     },
     {
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 215,
+      "title": "More German than many Germans",
+      "url": "https://mertbulan.com/more-german-than-many-germans/",
+      "score": 223,
       "source": "hn",
-      "date": "2026-08-01T14:09:00+00:00"
-    },
-    {
-      "title": "How the words we teach English language learners changed",
-      "url": "https://pudding.cool/2026/07/essential-words/",
-      "score": 211,
-      "source": "hn",
-      "date": "2026-08-02T15:41:08+00:00"
+      "date": "2026-08-03T06:00:14+00:00"
     },
     {
       "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
       "url": "https://github.com/wie-project/kakehashi",
-      "score": 209,
+      "score": 216,
       "source": "hn",
       "date": "2026-08-02T16:26:40+00:00"
     }

@@ -1,15 +1,15 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-03T07:41:02.653727+00:00",
-  "total_articles": 291,
+  "generated_at": "2026-08-03T09:07:16.727533+00:00",
+  "total_articles": 271,
   "source_counts": {
-    "hn": 228,
-    "zennqiita": 52,
+    "hn": 214,
+    "zennqiita": 46,
     "project": 11
   },
   "severity_counts": {
-    "critical": 9,
-    "medium": 2
+    "critical": 8,
+    "medium": 1
   },
   "top_articles": [
     {
@@ -67,13 +67,6 @@
       "score": 709,
       "source": "hn",
       "date": "2026-07-31T03:47:59+00:00"
-    },
-    {
-      "title": "KOReader",
-      "url": "https://koreader.rocks/",
-      "score": 671,
-      "source": "hn",
-      "date": "2026-07-29T11:05:08+00:00"
     },
     {
       "title": "DeepSeek-V4-Flash Update",
@@ -151,6 +144,13 @@
       "score": 380,
       "source": "hn",
       "date": "2026-07-30T10:13:46+00:00"
+    },
+    {
+      "title": "The End of an Era",
+      "url": "https://hughhowey.com/the-end-of-an-era/",
+      "score": 360,
+      "source": "hn",
+      "date": "2026-07-31T11:51:46+00:00"
     }
   ],
   "security_highlights": [
@@ -202,13 +202,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-29T13:55:00+00:00"
-    },
-    {
-      "title": "We Hardened an AI Security Platform Against 16 Critical Vulnerabilities",
-      "url": "https://aegis-security.higgsfield.app",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-29T10:56:00+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
