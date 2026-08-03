@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-03T16:20:13.708411+00:00",
-  "total_articles": 250,
+  "generated_at": "2026-08-03T17:14:41.883399+00:00",
+  "total_articles": 244,
   "source_counts": {
-    "hn": 195,
+    "hn": 189,
     "zennqiita": 44,
     "project": 11
   },
   "severity_counts": {
-    "critical": 7,
+    "critical": 6,
     "medium": 1
   },
   "top_articles": [
@@ -25,13 +25,6 @@
       "score": 1086,
       "source": "hn",
       "date": "2026-07-30T18:40:52+00:00"
-    },
-    {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 823,
-      "source": "hn",
-      "date": "2026-07-29T15:05:43+00:00"
     },
     {
       "title": "Read this before you buy that TV streaming stick",
@@ -53,13 +46,6 @@
       "score": 752,
       "source": "hn",
       "date": "2026-07-30T16:26:16+00:00"
-    },
-    {
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "score": 725,
-      "source": "hn",
-      "date": "2026-07-29T15:41:33+00:00"
     },
     {
       "title": "The session you cannot take with you",
@@ -151,6 +137,20 @@
       "score": 360,
       "source": "hn",
       "date": "2026-07-31T11:51:46+00:00"
+    },
+    {
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "score": 354,
+      "source": "hn",
+      "date": "2026-07-29T22:51:03+00:00"
+    },
+    {
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "url": "https://remysharp.com/links/2026-07-23-35890312",
+      "score": 339,
+      "source": "hn",
+      "date": "2026-07-30T13:03:27+00:00"
     }
   ],
   "security_highlights": [
@@ -188,13 +188,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-29T16:36:59+00:00"
-    },
-    {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-29T15:05:43+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
