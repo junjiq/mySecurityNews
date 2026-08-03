@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03T04:41:53.099731+00:00",
-  "total_articles": 72,
+  "generated_at": "2026-08-03T06:04:14.582350+00:00",
+  "total_articles": 71,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -36,8 +36,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 64,
+      "count": 65,
       "top_items": [
+        {
+          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "score": 343,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-03T02:16:09+00:00"
+        },
         {
           "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
           "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
@@ -47,28 +55,20 @@
           "date": "2026-08-02T11:24:20+00:00"
         },
         {
-          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "score": 202,
+          "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+          "url": "https://github.com/wie-project/kakehashi",
+          "score": 203,
           "source": "hn",
           "severity": null,
-          "date": "2026-08-03T02:16:09+00:00"
+          "date": "2026-08-02T16:26:40+00:00"
         },
         {
           "title": "How the words we teach English language learners changed",
           "url": "https://pudding.cool/2026/07/essential-words/",
-          "score": 196,
+          "score": 199,
           "source": "hn",
           "severity": null,
           "date": "2026-08-02T15:41:08+00:00"
-        },
-        {
-          "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-          "url": "https://github.com/wie-project/kakehashi",
-          "score": 194,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-02T16:26:40+00:00"
         },
         {
           "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
@@ -82,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 6,
       "top_items": [
         {
           "title": "【開催！】2026 Japan AWS Jr. Champions 真夏のQiitaリレー",
