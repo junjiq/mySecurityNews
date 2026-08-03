@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-03T17:14:41.883399+00:00",
-  "total_articles": 244,
+  "generated_at": "2026-08-03T18:07:50.001239+00:00",
+  "total_articles": 241,
   "source_counts": {
-    "hn": 189,
+    "hn": 186,
     "zennqiita": 44,
     "project": 11
   },
   "severity_counts": {
-    "critical": 6,
+    "critical": 5,
     "medium": 1
   },
   "top_articles": [
@@ -118,13 +118,6 @@
       "date": "2026-07-29T19:25:33+00:00"
     },
     {
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 406,
-      "source": "hn",
-      "date": "2026-07-29T16:36:59+00:00"
-    },
-    {
       "title": "Google will expand age checks on Android worldwide till the end of the year",
       "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
       "score": 380,
@@ -151,6 +144,13 @@
       "score": 339,
       "source": "hn",
       "date": "2026-07-30T13:03:27+00:00"
+    },
+    {
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "score": 325,
+      "source": "hn",
+      "date": "2026-07-30T23:22:16+00:00"
     }
   ],
   "security_highlights": [
@@ -181,13 +181,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-30T12:20:30+00:00"
-    },
-    {
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-29T16:36:59+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
