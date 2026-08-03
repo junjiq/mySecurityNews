@@ -1,9 +1,9 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-03T06:04:14.631756+00:00",
-  "total_articles": 167,
+  "generated_at": "2026-08-03T07:41:02.653727+00:00",
+  "total_articles": 170,
   "source_counts": {
-    "hn": 143,
+    "hn": 146,
     "zennqiita": 24
   },
   "severity_counts": {
@@ -11,18 +11,18 @@
   },
   "top_articles": [
     {
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "score": 547,
+      "source": "hn",
+      "date": "2026-08-02T04:05:56+00:00"
+    },
+    {
       "title": "How Google helped destroy adoption of RSS feeds (2023)",
       "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
       "score": 530,
       "source": "hn",
       "date": "2026-08-01T18:07:07+00:00"
-    },
-    {
-      "title": "Karpathy’s Pelican",
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "score": 522,
-      "source": "hn",
-      "date": "2026-08-02T04:05:56+00:00"
     },
     {
       "title": "Diátaxis",
@@ -32,18 +32,18 @@
       "date": "2026-08-01T20:33:27+00:00"
     },
     {
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "score": 461,
+      "source": "hn",
+      "date": "2026-08-03T02:16:09+00:00"
+    },
+    {
       "title": "Seedance 2.5",
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
       "score": 408,
       "source": "hn",
       "date": "2026-08-01T20:45:12+00:00"
-    },
-    {
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "score": 343,
-      "source": "hn",
-      "date": "2026-08-03T02:16:09+00:00"
     },
     {
       "title": "Go 1.27 Interactive Tour",
@@ -137,18 +137,18 @@
       "date": "2026-08-01T14:09:00+00:00"
     },
     {
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "url": "https://github.com/wie-project/kakehashi",
-      "score": 203,
-      "source": "hn",
-      "date": "2026-08-02T16:26:40+00:00"
-    },
-    {
       "title": "How the words we teach English language learners changed",
       "url": "https://pudding.cool/2026/07/essential-words/",
-      "score": 199,
+      "score": 211,
       "source": "hn",
       "date": "2026-08-02T15:41:08+00:00"
+    },
+    {
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "score": 209,
+      "source": "hn",
+      "date": "2026-08-02T16:26:40+00:00"
     }
   ],
   "security_highlights": [
