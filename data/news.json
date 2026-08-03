@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-08-03T10:45:26.938144+00:00",
+  "updated_at": "2026-08-03T12:04:45.658952+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49154332",
+      "source": "hn",
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "score": 61,
+      "comments": 13,
+      "author": "ymir_e",
+      "tags": [],
+      "date": "2026-08-03T11:28:54+00:00",
+      "severity": "critical"
+    },
+    {
+      "id": "hn-49154127",
+      "source": "hn",
+      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "url": "https://github.com/garagehq/nightcrawler/",
+      "score": 7,
+      "comments": 0,
+      "author": "NickySlicks",
+      "tags": [],
+      "date": "2026-08-03T11:06:15+00:00"
+    },
     {
       "id": "hn-49153374",
       "source": "hn",
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "score": 38,
-      "comments": 26,
+      "score": 110,
+      "comments": 86,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-08-03T09:32:07+00:00"
@@ -18,8 +41,8 @@
       "source": "hn",
       "title": "What DMARC Protects You From, and What It Does Not",
       "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
-      "score": 13,
-      "comments": 3,
+      "score": 29,
+      "comments": 10,
       "author": "adulion",
       "tags": [],
       "date": "2026-08-03T09:29:46+00:00"
@@ -51,8 +74,8 @@
       "source": "hn",
       "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
       "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-      "score": 6,
-      "comments": 5,
+      "score": 12,
+      "comments": 8,
       "author": "mohamed_am83",
       "tags": [],
       "date": "2026-08-03T08:54:00+00:00"
@@ -62,19 +85,30 @@
       "source": "hn",
       "title": "The true power of regular expressions (2012)",
       "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
-      "score": 8,
-      "comments": 2,
+      "score": 18,
+      "comments": 9,
       "author": "uneven9434",
       "tags": [],
       "date": "2026-08-03T08:47:23+00:00"
+    },
+    {
+      "id": "hn-49152871",
+      "source": "hn",
+      "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+      "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+      "score": 23,
+      "comments": 10,
+      "author": "uneven9434",
+      "tags": [],
+      "date": "2026-08-03T08:34:24+00:00"
     },
     {
       "id": "hn-49152842",
       "source": "hn",
       "title": "Bonsai: Janestreet's UI Library",
       "url": "https://github.com/janestreet/bonsai",
-      "score": 52,
-      "comments": 11,
+      "score": 84,
+      "comments": 25,
       "author": "KolmogorovComp",
       "tags": [],
       "date": "2026-08-03T08:29:57+00:00"
@@ -84,8 +118,8 @@
       "source": "hn",
       "title": "Octane – React's programming model, compiled",
       "url": "https://octanejs.dev",
-      "score": 22,
-      "comments": 8,
+      "score": 43,
+      "comments": 16,
       "author": "nnx",
       "tags": [],
       "date": "2026-08-03T08:04:04+00:00"
@@ -108,8 +142,8 @@
       "source": "hn",
       "title": "The Shape of Things to Come",
       "url": "https://yegge.ai/essays/the-shape-of-things-to-come/",
-      "score": 19,
-      "comments": 20,
+      "score": 36,
+      "comments": 39,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-03T07:22:27+00:00"
@@ -180,8 +214,8 @@
       "source": "hn",
       "title": "Rust project goals: Immobile types and guaranteed destructors",
       "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-      "score": 82,
-      "comments": 18,
+      "score": 106,
+      "comments": 28,
       "author": "paavohtl",
       "tags": [],
       "date": "2026-08-03T06:42:00+00:00"
@@ -191,8 +225,8 @@
       "source": "hn",
       "title": "Don't be a meat proxy",
       "url": "https://gruhn.me/blog/2026-08-03/",
-      "score": 640,
-      "comments": 280,
+      "score": 806,
+      "comments": 353,
       "author": "ngruhn",
       "tags": [],
       "date": "2026-08-03T06:28:01+00:00"
@@ -202,8 +236,8 @@
       "source": "hn",
       "title": "Situational Awareness and the Impending Stock Market Volatility",
       "url": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
-      "score": 6,
-      "comments": 4,
+      "score": 23,
+      "comments": 15,
       "author": "cl42",
       "tags": [],
       "date": "2026-08-03T06:17:53+00:00"
@@ -259,8 +293,8 @@
       "source": "hn",
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
       "url": "https://qwen.ai/blog?id=qwen3.8",
-      "score": 600,
-      "comments": 304,
+      "score": 676,
+      "comments": 337,
       "author": "ai2027",
       "tags": [],
       "date": "2026-08-03T02:16:09+00:00"
@@ -346,8 +380,8 @@
       "source": "hn",
       "title": "Show HN: Isopolis – Isometric pixel map of SF",
       "url": "https://sf.isopolis.city/",
-      "score": 226,
-      "comments": 50,
+      "score": 244,
+      "comments": 52,
       "author": "nuwandavek",
       "tags": [],
       "date": "2026-08-03T00:46:38+00:00"
@@ -358,7 +392,7 @@
       "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
       "url": "https://github.com/johnsonjh/cpm386",
       "score": 70,
-      "comments": 30,
+      "comments": 31,
       "author": "TMWNN",
       "tags": [],
       "date": "2026-08-03T00:38:10+00:00"
@@ -381,8 +415,8 @@
       "source": "hn",
       "title": "Show HN: ssh ssh.place",
       "url": "https://ssh.place",
-      "score": 119,
-      "comments": 72,
+      "score": 130,
+      "comments": 75,
       "author": "jeninh",
       "tags": [],
       "date": "2026-08-03T00:23:21+00:00"
@@ -392,8 +426,8 @@
       "source": "hn",
       "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
       "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-      "score": 103,
-      "comments": 60,
+      "score": 112,
+      "comments": 69,
       "author": "pizzaiolo",
       "tags": [],
       "date": "2026-08-03T00:12:16+00:00"
@@ -655,8 +689,8 @@
       "source": "hn",
       "title": "SwiftUI After 7 Years",
       "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-      "score": 190,
-      "comments": 170,
+      "score": 210,
+      "comments": 200,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-08-02T18:59:05+00:00"
@@ -743,8 +777,8 @@
       "source": "hn",
       "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
       "url": "https://github.com/wie-project/kakehashi",
-      "score": 222,
-      "comments": 55,
+      "score": 225,
+      "comments": 58,
       "author": "vlad_kalinkin",
       "tags": [],
       "date": "2026-08-02T16:26:40+00:00"
@@ -2501,8 +2535,8 @@
       "source": "hn",
       "title": "Why we write our own C and C++ inference engines",
       "url": "https://localai.io/blog/why-we-write-our-own-engines/",
-      "score": 59,
-      "comments": 27,
+      "score": 71,
+      "comments": 30,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-07-31T16:17:04+00:00"
@@ -2809,7 +2843,7 @@
       "source": "hn",
       "title": "Autoregressive Language Model on the 6502 Processor",
       "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "score": 111,
+      "score": 117,
       "comments": 10,
       "author": "nmstoker",
       "tags": [],
@@ -3466,6 +3500,17 @@
       "date": "2026-07-30T21:31:03+00:00"
     },
     {
+      "id": "hn-49115935",
+      "source": "hn",
+      "title": "Train Simulator Controller",
+      "url": "https://z80.me/blog/tsc-2026-july/",
+      "score": 19,
+      "comments": 2,
+      "author": "austinallegro",
+      "tags": [],
+      "date": "2026-07-30T21:18:39+00:00"
+    },
+    {
       "id": "hn-49115506",
       "source": "hn",
       "title": "Man seeks millions after being shot by police in game-related swatting incident",
@@ -3509,6 +3554,17 @@
       "author": "nosolace",
       "tags": [],
       "date": "2026-07-30T19:18:54+00:00"
+    },
+    {
+      "id": "hn-49114146",
+      "source": "hn",
+      "title": "Characterizing Warp Divergence from Pascal to Blackwell",
+      "url": "https://arxiv.org/abs/2607.23402",
+      "score": 4,
+      "comments": 0,
+      "author": "matt_d",
+      "tags": [],
+      "date": "2026-07-30T18:56:00+00:00"
     },
     {
       "id": "hn-49113929",
@@ -5075,63 +5131,6 @@
       "date": "2026-07-29T12:40:13+00:00"
     },
     {
-      "id": "qiita-62cd5ea3e6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【ADB】Icebergで管理しているデータを動かさずにベクトル検索する",
-      "url": "https://qiita.com/yushibats/items/49a986a4b4b504a8482d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yushibats",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-29T21:35:10+09:00"
-    },
-    {
-      "id": "hn-49096654",
-      "source": "hn",
-      "title": "Darktable",
-      "url": "https://www.darktable.org/",
-      "score": 325,
-      "comments": 151,
-      "author": "siatko",
-      "tags": [],
-      "date": "2026-07-29T12:33:02+00:00"
-    },
-    {
-      "id": "hn-49092215",
-      "source": "hn",
-      "title": "How do you rewrite C/C++ projects to Rust?",
-      "url": "https://blog.jetbrains.com/rust/2026/07/27/cpp-to-rust-migration/",
-      "score": 16,
-      "comments": 11,
-      "author": "smokeeaasd",
-      "tags": [],
-      "date": "2026-07-29T01:12:09+00:00"
-    },
-    {
-      "id": "hn-49084324",
-      "source": "hn",
-      "title": "Note-Taking and Personal Knowledge Management",
-      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
-      "score": 206,
-      "comments": 65,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-28T14:21:10+00:00"
-    },
-    {
-      "id": "hn-49076945",
-      "source": "hn",
-      "title": "Convergence is not enough",
-      "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
-      "score": 34,
-      "comments": 6,
-      "author": "zdw",
-      "tags": [],
-      "date": "2026-07-27T23:23:07+00:00"
-    },
-    {
       "id": "ctf-4233874",
       "source": "project",
       "proj_category": "CTF",
@@ -5343,6 +5342,19 @@
       "date": "2023-05-23T17:06:23Z"
     },
     {
+      "id": "zenn-ac15b096d0",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "UnityのDIは本当に必要か：Zenject継続・Reflex新規採用・VContainer比較の判断軸",
+      "url": "https://zenn.dev/gamedev_toollab/articles/945a5084be2a38",
+      "score": null,
+      "author": "GameDev Tool Lab",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 03 Aug 2026 01:00:06 GMT"
+    },
+    {
       "id": "zenn-505bdcc0e9",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5499,6 +5511,19 @@
       "date": "Thu, 30 Jul 2026 08:00:05 GMT"
     },
     {
+      "id": "zenn-29f6c826ea",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "GitHub Actionsのコストが増えているなら、Namespaceを使えばいいじゃない",
+      "url": "https://zenn.dev/aircloset/articles/6b47018589df0f",
+      "score": null,
+      "author": "辻 亮佑",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Wed, 29 Jul 2026 23:52:26 GMT"
+    },
+    {
       "id": "zenn-e2d43fb67a",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5575,32 +5600,6 @@
         "Zenn"
       ],
       "date": "Tue, 28 Jul 2026 04:40:29 GMT"
-    },
-    {
-      "id": "zenn-0a908e85d8",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか",
-      "url": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
-      "score": null,
-      "author": "junko.dohi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Jul 2026 23:19:53 GMT"
-    },
-    {
-      "id": "zenn-34aff9fd0a",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "「Simple Made Easy」の観点から、UI/UXはどうあるべきか",
-      "url": "https://zenn.dev/pksha/articles/6cdf19e5fe8065",
-      "score": null,
-      "author": "Hyuga Yamaguchi",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 27 Jul 2026 07:22:43 GMT"
     },
     {
       "id": "edb-9bdf9aa505",
