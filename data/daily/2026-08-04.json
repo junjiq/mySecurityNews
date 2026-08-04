@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T03:04:04.602881+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-08-04T04:34:17.701251+00:00",
+  "total_articles": 60,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -55,25 +55,25 @@
           "date": "2026-08-03T11:28:54+00:00"
         },
         {
-          "title": "Devtools must be open source",
-          "url": "https://blog.exe.dev/devtools-must-be-open-source",
-          "score": 519,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-08-03T14:15:47+00:00"
-        },
-        {
           "title": "LLMs reward expertise",
           "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-          "score": 515,
+          "score": 615,
           "source": "hn",
           "severity": null,
           "date": "2026-08-03T21:13:53+00:00"
         },
         {
+          "title": "Devtools must be open source",
+          "url": "https://blog.exe.dev/devtools-must-be-open-source",
+          "score": 540,
+          "source": "hn",
+          "severity": "critical",
+          "date": "2026-08-03T14:15:47+00:00"
+        },
+        {
           "title": "Ten advances in mathematics and theoretical computer science",
           "url": "https://openai.com/index/ten-advances-in-mathematics/",
-          "score": 459,
+          "score": 484,
           "source": "hn",
           "severity": null,
           "date": "2026-08-03T16:27:12+00:00"
@@ -82,8 +82,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 5,
       "top_items": [
+        {
+          "title": "【Lambda】NFC 名刺のアクセスカウンターを Lambda Function URL + DynamoDB で作る",
+          "url": "https://qiita.com/ryu-ki/items/60cc8e04d60bbfcf7fa7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-04T12:18:23+09:00"
+        },
         {
           "title": "クラウドだけではないAI推論 ～なぜAIのハードウェア実装が求められているのか～",
           "url": "https://qiita.com/KA026/items/23b0952b181807b5dabd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
