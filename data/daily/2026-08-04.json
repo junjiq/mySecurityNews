@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T13:08:52.079175+00:00",
-  "total_articles": 66,
-  "urgent_count": 4,
+  "generated_at": "2026-08-04T14:15:58.675589+00:00",
+  "total_articles": 58,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
@@ -10,20 +10,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-03T18:58:00+00:00"
-    },
-    {
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-03T14:15:47+00:00"
-    },
-    {
-      "title": "Utah produced more power from solar than any other source in May, a new first",
-      "url": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-03T14:13:24+00:00"
     },
     {
       "title": "毎日137件公開されるCVE、正直ぜんぶ無視していませんか？",
@@ -36,53 +22,53 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 50,
       "top_items": [
         {
           "title": "LLMs reward expertise",
           "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-          "score": 1090,
+          "score": 1134,
           "source": "hn",
           "severity": null,
           "date": "2026-08-03T21:13:53+00:00"
         },
         {
-          "title": "Devtools must be open source",
-          "url": "https://blog.exe.dev/devtools-must-be-open-source",
-          "score": 647,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-08-03T14:15:47+00:00"
-        },
-        {
           "title": "Ten advances in mathematics and theoretical computer science",
           "url": "https://openai.com/index/ten-advances-in-mathematics/",
-          "score": 568,
+          "score": 579,
           "source": "hn",
           "severity": null,
           "date": "2026-08-03T16:27:12+00:00"
         },
         {
-          "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-          "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-          "score": 315,
+          "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+          "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+          "score": 436,
           "source": "hn",
           "severity": null,
-          "date": "2026-08-03T14:09:00+00:00"
+          "date": "2026-08-04T11:30:17+00:00"
         },
         {
           "title": "Twenty Years of Pandoc",
           "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-          "score": 314,
+          "score": 337,
           "source": "hn",
           "severity": null,
           "date": "2026-08-03T15:04:53+00:00"
+        },
+        {
+          "title": "FFmpeg 9.0",
+          "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+          "score": 320,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-04T09:30:33+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる",
