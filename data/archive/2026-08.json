@@ -1,9 +1,9 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-04T10:21:10.756621+00:00",
-  "total_articles": 263,
+  "generated_at": "2026-08-04T11:17:39.948957+00:00",
+  "total_articles": 265,
   "source_counts": {
-    "hn": 208,
+    "hn": 210,
     "zennqiita": 55
   },
   "severity_counts": {
@@ -19,18 +19,18 @@
       "date": "2026-08-03T06:28:01+00:00"
     },
     {
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "score": 1006,
+      "source": "hn",
+      "date": "2026-08-03T21:13:53+00:00"
+    },
+    {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
       "url": "https://qwen.ai/blog?id=qwen3.8",
       "score": 987,
       "source": "hn",
       "date": "2026-08-03T02:16:09+00:00"
-    },
-    {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 962,
-      "source": "hn",
-      "date": "2026-08-03T21:13:53+00:00"
     },
     {
       "title": "SQLite Critical CVEs or LLM Slop?",
@@ -42,7 +42,7 @@
     {
       "title": "Devtools must be open source",
       "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 612,
+      "score": 627,
       "source": "hn",
       "date": "2026-08-03T14:15:47+00:00"
     },
@@ -56,7 +56,7 @@
     {
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 541,
+      "score": 552,
       "source": "hn",
       "date": "2026-08-03T16:27:12+00:00"
     },
@@ -70,7 +70,7 @@
     {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "score": 487,
+      "score": 497,
       "source": "hn",
       "date": "2026-08-03T09:32:07+00:00"
     },
@@ -112,7 +112,7 @@
     {
       "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "score": 313,
+      "score": 315,
       "source": "hn",
       "date": "2026-08-03T14:09:00+00:00"
     },
@@ -131,6 +131,13 @@
       "date": "2026-08-01T22:25:12+00:00"
     },
     {
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "score": 301,
+      "source": "hn",
+      "date": "2026-08-03T13:34:43+00:00"
+    },
+    {
       "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
       "url": "https://github.com/tom-ilan/cycloidal_gearbox",
       "score": 299,
@@ -143,13 +150,6 @@
       "score": 298,
       "source": "hn",
       "date": "2026-08-01T07:37:44+00:00"
-    },
-    {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "score": 297,
-      "source": "hn",
-      "date": "2026-08-03T13:34:43+00:00"
     }
   ],
   "security_highlights": [

@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-04T10:21:10.648052+00:00",
+  "updated_at": "2026-08-04T11:17:39.836556+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49166860",
+      "source": "hn",
+      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+      "score": 21,
+      "comments": 1,
+      "author": "tcp_handshaker",
+      "tags": [],
+      "date": "2026-08-04T10:59:08+00:00"
+    },
     {
       "id": "qiita-727ad6449e",
       "source": "zennqiita",
@@ -14,6 +25,17 @@
         "Qiita"
       ],
       "date": "2026-08-04T19:20:37+09:00"
+    },
+    {
+      "id": "hn-49166386",
+      "source": "hn",
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "score": 44,
+      "comments": 4,
+      "author": "zhoutong",
+      "tags": [],
+      "date": "2026-08-04T10:00:55+00:00"
     },
     {
       "id": "hn-49166254",
@@ -31,8 +53,8 @@
       "source": "hn",
       "title": "FFmpeg 9.0",
       "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "score": 103,
-      "comments": 8,
+      "score": 188,
+      "comments": 29,
       "author": "gyan",
       "tags": [],
       "date": "2026-08-04T09:30:33+00:00"
@@ -53,8 +75,8 @@
       "source": "hn",
       "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
       "url": "https://pedroth.github.io/?p=post/NoNeedReact",
-      "score": 33,
-      "comments": 18,
+      "score": 58,
+      "comments": 47,
       "author": "pedro_movai",
       "tags": [],
       "date": "2026-08-04T08:11:02+00:00"
@@ -75,8 +97,8 @@
       "source": "hn",
       "title": "Harness Engineering for Self-Improvement",
       "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-      "score": 54,
-      "comments": 6,
+      "score": 77,
+      "comments": 9,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-04T06:17:54+00:00"
@@ -211,8 +233,8 @@
       "source": "hn",
       "title": "There Will Come Soft Rains (1950) [pdf]",
       "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 160,
-      "comments": 57,
+      "score": 167,
+      "comments": 59,
       "author": "pmg101",
       "tags": [],
       "date": "2026-08-03T23:24:53+00:00"
@@ -244,8 +266,8 @@
       "source": "hn",
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 962,
-      "comments": 410,
+      "score": 1006,
+      "comments": 422,
       "author": "MaxMussio",
       "tags": [],
       "date": "2026-08-03T21:13:53+00:00"
@@ -333,8 +355,8 @@
       "source": "hn",
       "title": "Smaller, faster, safer: running Kimi and GLM at scale",
       "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "score": 221,
-      "comments": 55,
+      "score": 226,
+      "comments": 58,
       "author": "ascorbic",
       "tags": [],
       "date": "2026-08-03T17:08:46+00:00"
@@ -344,7 +366,7 @@
       "source": "hn",
       "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
       "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "score": 166,
+      "score": 168,
       "comments": 43,
       "author": "roryirvine",
       "tags": [],
@@ -355,8 +377,8 @@
       "source": "hn",
       "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
       "url": "https://github.com/leonickson1/Swiftlet",
-      "score": 186,
-      "comments": 80,
+      "score": 203,
+      "comments": 89,
       "author": "leonickson",
       "tags": [],
       "date": "2026-08-03T16:54:15+00:00"
@@ -388,8 +410,8 @@
       "source": "hn",
       "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
       "url": "https://hoplite.sh",
-      "score": 72,
-      "comments": 59,
+      "score": 74,
+      "comments": 60,
       "author": "BenceRed",
       "tags": [],
       "date": "2026-08-03T16:32:06+00:00"
@@ -399,8 +421,8 @@
       "source": "hn",
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 541,
-      "comments": 831,
+      "score": 552,
+      "comments": 844,
       "author": "milkshakes",
       "tags": [],
       "date": "2026-08-03T16:27:12+00:00"
@@ -454,8 +476,8 @@
       "source": "hn",
       "title": "Twenty Years of Pandoc",
       "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-      "score": 267,
-      "comments": 31,
+      "score": 280,
+      "comments": 32,
       "author": "fiddlosopher",
       "tags": [],
       "date": "2026-08-03T15:04:53+00:00"
@@ -487,8 +509,8 @@
       "source": "hn",
       "title": "Devtools must be open source",
       "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 612,
-      "comments": 206,
+      "score": 627,
+      "comments": 208,
       "author": "bryanmikaelian",
       "tags": [],
       "date": "2026-08-03T14:15:47+00:00",
@@ -511,8 +533,8 @@
       "source": "hn",
       "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "score": 313,
-      "comments": 66,
+      "score": 315,
+      "comments": 67,
       "author": "nikolay_sivko",
       "tags": [],
       "date": "2026-08-03T14:09:00+00:00"
@@ -533,8 +555,8 @@
       "source": "hn",
       "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
       "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "score": 297,
-      "comments": 86,
+      "score": 301,
+      "comments": 87,
       "author": "vblanco",
       "tags": [],
       "date": "2026-08-03T13:34:43+00:00"
@@ -648,8 +670,8 @@
       "source": "hn",
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "score": 487,
-      "comments": 400,
+      "score": 497,
+      "comments": 407,
       "author": "mpweiher",
       "tags": [],
       "date": "2026-08-03T09:32:07+00:00"
@@ -3925,8 +3947,8 @@
       "source": "hn",
       "title": "Beauty in my backyard",
       "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
-      "score": 24,
-      "comments": 7,
+      "score": 29,
+      "comments": 11,
       "author": "footest",
       "tags": [],
       "date": "2026-07-31T06:25:48+00:00"
@@ -5087,49 +5109,23 @@
       "date": "2026-07-30T17:58:17+09:00"
     },
     {
-      "id": "qiita-3981eb46ea",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "個人的な資格の受かり方~Java Gold SE 17~",
-      "url": "https://qiita.com/t_tsuru/items/3f1084b5ba416ea0bc49?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "t_tsuru",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-30T17:52:08+09:00"
-    },
-    {
-      "id": "hn-49107437",
+      "id": "hn-49100853",
       "source": "hn",
-      "title": "The Apple Calculator Language",
-      "url": "https://wadetregaskis.com/the-apple-calculator-language/",
-      "score": 18,
-      "comments": 4,
-      "author": "ingve",
+      "title": "Cyberpunk Video Games",
+      "url": "https://shellzine.net/cyberpunk-video-games/",
+      "score": 5,
+      "comments": 0,
+      "author": "zdw",
       "tags": [],
-      "date": "2026-07-30T08:44:30+00:00"
-    },
-    {
-      "id": "qiita-86326670bc",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "結婚式準備をAIでハックしてみた",
-      "url": "https://qiita.com/ikageso17g/items/734ee24a5cd1c203b835?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "ikageso17g",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-30T17:32:21+09:00"
+      "date": "2026-07-29T18:01:04+00:00"
     },
     {
       "id": "hn-49099336",
       "source": "hn",
       "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
       "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "score": 156,
-      "comments": 123,
+      "score": 165,
+      "comments": 134,
       "author": "marojejian",
       "tags": [],
       "date": "2026-07-29T16:07:46+00:00"
@@ -5139,8 +5135,8 @@
       "source": "hn",
       "title": "That time when I failed the Microsoft interview",
       "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-      "score": 62,
-      "comments": 111,
+      "score": 74,
+      "comments": 131,
       "author": "wofo",
       "tags": [],
       "date": "2026-07-29T10:02:50+00:00"
