@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T09:25:58.145112+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-08-04T10:21:10.711212+00:00",
+  "total_articles": 56,
   "urgent_count": 5,
   "urgent_items": [
     {
@@ -43,12 +43,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 44,
+      "count": 46,
       "top_items": [
         {
           "title": "LLMs reward expertise",
           "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-          "score": 920,
+          "score": 962,
           "source": "hn",
           "severity": null,
           "date": "2026-08-03T21:13:53+00:00"
@@ -64,7 +64,7 @@
         {
           "title": "Devtools must be open source",
           "url": "https://blog.exe.dev/devtools-must-be-open-source",
-          "score": 601,
+          "score": 612,
           "source": "hn",
           "severity": "critical",
           "date": "2026-08-03T14:15:47+00:00"
@@ -72,18 +72,18 @@
         {
           "title": "Ten advances in mathematics and theoretical computer science",
           "url": "https://openai.com/index/ten-advances-in-mathematics/",
-          "score": 534,
+          "score": 541,
           "source": "hn",
           "severity": null,
           "date": "2026-08-03T16:27:12+00:00"
         },
         {
-          "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-          "score": 479,
+          "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+          "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+          "score": 313,
           "source": "hn",
           "severity": null,
-          "date": "2026-08-03T09:32:07+00:00"
+          "date": "2026-08-03T14:09:00+00:00"
         }
       ]
     },
@@ -91,6 +91,14 @@
       "category": "日本語技術記事",
       "count": 10,
       "top_items": [
+        {
+          "title": "新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる",
+          "url": "https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-04T19:20:37+09:00"
+        },
         {
           "title": "Bedrock Tool UseでAIロボットを動かしたらかなり気分屋だった",
           "url": "https://qiita.com/R-You/items/8ee108b6b1f8c4a191c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -122,14 +130,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-04T10:00:00+09:00"
-        },
-        {
-          "title": "Data CatalogでObject Storage内のCSVとParquetを自動カタログ化してみてみた",
-          "url": "https://qiita.com/shirok/items/d23855d5634f528f796c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-04T09:20:24+09:00"
         }
       ]
     }
