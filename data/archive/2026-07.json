@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-04T15:17:45.871064+00:00",
-  "total_articles": 181,
+  "generated_at": "2026-08-04T16:15:16.901937+00:00",
+  "total_articles": 173,
   "source_counts": {
-    "hn": 143,
-    "zennqiita": 27,
+    "hn": 136,
+    "zennqiita": 26,
     "project": 11
   },
   "severity_counts": {
-    "critical": 5,
+    "critical": 4,
     "medium": 1
   },
   "top_articles": [
@@ -174,13 +174,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-30T19:34:27+00:00"
-    },
-    {
-      "title": "Register deprivation: spills and runtime under forced register scarcity",
-      "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-30T12:20:30+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
