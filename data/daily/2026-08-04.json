@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T01:35:09.341939+00:00",
-  "total_articles": 63,
+  "generated_at": "2026-08-04T03:04:04.602881+00:00",
+  "total_articles": 59,
   "urgent_count": 4,
   "urgent_items": [
     {
@@ -47,14 +47,6 @@
           "date": "2026-08-03T06:28:01+00:00"
         },
         {
-          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "score": 987,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-03T02:16:09+00:00"
-        },
-        {
           "title": "SQLite Critical CVEs or LLM Slop?",
           "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
           "score": 678,
@@ -65,15 +57,23 @@
         {
           "title": "Devtools must be open source",
           "url": "https://blog.exe.dev/devtools-must-be-open-source",
-          "score": 500,
+          "score": 519,
           "source": "hn",
           "severity": "critical",
           "date": "2026-08-03T14:15:47+00:00"
         },
         {
+          "title": "LLMs reward expertise",
+          "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+          "score": 515,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-03T21:13:53+00:00"
+        },
+        {
           "title": "Ten advances in mathematics and theoretical computer science",
           "url": "https://openai.com/index/ten-advances-in-mathematics/",
-          "score": 424,
+          "score": 459,
           "source": "hn",
           "severity": null,
           "date": "2026-08-03T16:27:12+00:00"
@@ -82,7 +82,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 4,
       "top_items": [
         {
           "title": "クラウドだけではないAI推論 ～なぜAIのハードウェア実装が求められているのか～",
@@ -115,14 +115,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-03T15:55:47+09:00"
-        },
-        {
-          "title": "【Lambda】NFC 名刺のアクセスカウンターを Lambda Function URL + DynamoDB で作る",
-          "url": "https://qiita.com/ryu-ki/items/60cc8e04d60bbfcf7fa7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-03T11:55:18+09:00"
         }
       ]
     }
