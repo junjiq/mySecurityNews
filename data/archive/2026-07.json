@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-04T20:03:59.669740+00:00",
-  "total_articles": 147,
+  "generated_at": "2026-08-04T20:54:31.369856+00:00",
+  "total_articles": 142,
   "source_counts": {
-    "hn": 113,
+    "hn": 108,
     "zennqiita": 23,
     "project": 11
   },
   "severity_counts": {
-    "critical": 4,
+    "critical": 5,
     "medium": 1
   },
   "top_articles": [
@@ -25,13 +25,6 @@
       "score": 1086,
       "source": "hn",
       "date": "2026-07-30T18:40:52+00:00"
-    },
-    {
-      "title": "Read this before you buy that TV streaming stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 771,
-      "source": "hn",
-      "date": "2026-07-30T17:04:53+00:00"
     },
     {
       "title": "The session you cannot take with you",
@@ -74,13 +67,6 @@
       "score": 523,
       "source": "hn",
       "date": "2026-07-31T07:59:11+00:00"
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "score": 510,
-      "source": "hn",
-      "date": "2026-07-30T17:15:51+00:00"
     },
     {
       "title": "The End of an Era",
@@ -151,9 +137,30 @@
       "score": 212,
       "source": "hn",
       "date": "2026-07-31T04:38:19+00:00"
+    },
+    {
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "score": 211,
+      "source": "hn",
+      "date": "2026-07-31T16:15:31+00:00"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "score": 205,
+      "source": "hn",
+      "date": "2026-07-30T23:00:51+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Don't stop early: Case-folding source code at memory speed",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-07-31T20:07:06+00:00"
+    },
     {
       "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
       "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
