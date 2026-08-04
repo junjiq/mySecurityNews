@@ -1,10 +1,10 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-04T19:02:47.036297+00:00",
-  "total_articles": 151,
+  "generated_at": "2026-08-04T20:03:59.669740+00:00",
+  "total_articles": 147,
   "source_counts": {
-    "hn": 116,
-    "zennqiita": 24,
+    "hn": 113,
+    "zennqiita": 23,
     "project": 11
   },
   "severity_counts": {
@@ -32,13 +32,6 @@
       "score": 771,
       "source": "hn",
       "date": "2026-07-30T17:04:53+00:00"
-    },
-    {
-      "title": "Stacked PRs are now live on GitHub",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 752,
-      "source": "hn",
-      "date": "2026-07-30T16:26:16+00:00"
     },
     {
       "title": "The session you cannot take with you",
@@ -151,6 +144,13 @@
       "score": 226,
       "source": "hn",
       "date": "2026-07-31T16:23:10+00:00"
+    },
+    {
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "url": "https://github.com/openjdk/jdk/pull/31120",
+      "score": 212,
+      "source": "hn",
+      "date": "2026-07-31T04:38:19+00:00"
     }
   ],
   "security_highlights": [
