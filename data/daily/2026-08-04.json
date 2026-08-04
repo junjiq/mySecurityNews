@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T11:17:39.903671+00:00",
-  "total_articles": 55,
-  "urgent_count": 5,
+  "generated_at": "2026-08-04T12:12:21.421279+00:00",
+  "total_articles": 61,
+  "urgent_count": 4,
   "urgent_items": [
     {
       "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
@@ -26,13 +26,6 @@
       "date": "2026-08-03T14:13:24+00:00"
     },
     {
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-03T11:28:54+00:00"
-    },
-    {
       "title": "毎日137件公開されるCVE、正直ぜんぶ無視していませんか？",
       "url": "https://qiita.com/udowanllc/items/024e91ccb6393159c798?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "severity": "high",
@@ -43,28 +36,20 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 52,
       "top_items": [
         {
           "title": "LLMs reward expertise",
           "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-          "score": 1006,
+          "score": 1041,
           "source": "hn",
           "severity": null,
           "date": "2026-08-03T21:13:53+00:00"
         },
         {
-          "title": "SQLite Critical CVEs or LLM Slop?",
-          "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-          "score": 678,
-          "source": "hn",
-          "severity": "critical",
-          "date": "2026-08-03T11:28:54+00:00"
-        },
-        {
           "title": "Devtools must be open source",
           "url": "https://blog.exe.dev/devtools-must-be-open-source",
-          "score": 627,
+          "score": 634,
           "source": "hn",
           "severity": "critical",
           "date": "2026-08-03T14:15:47+00:00"
@@ -72,7 +57,7 @@
         {
           "title": "Ten advances in mathematics and theoretical computer science",
           "url": "https://openai.com/index/ten-advances-in-mathematics/",
-          "score": 552,
+          "score": 561,
           "source": "hn",
           "severity": null,
           "date": "2026-08-03T16:27:12+00:00"
@@ -84,6 +69,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-03T14:09:00+00:00"
+        },
+        {
+          "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+          "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+          "score": 301,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-03T13:34:43+00:00"
         }
       ]
     },
