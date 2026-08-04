@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-04T22:49:15.469214+00:00",
-  "total_articles": 132,
+  "generated_at": "2026-08-04T23:23:03.580950+00:00",
+  "total_articles": 130,
   "source_counts": {
-    "hn": 98,
+    "hn": 96,
     "zennqiita": 23,
     "project": 11
   },
   "severity_counts": {
-    "critical": 5,
+    "critical": 4,
     "medium": 1
   },
   "top_articles": [
@@ -83,13 +83,6 @@
       "date": "2026-07-31T14:12:38+00:00"
     },
     {
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "score": 271,
-      "source": "hn",
-      "date": "2026-07-30T19:34:27+00:00"
-    },
-    {
       "title": "I flagged two research papers for fake authors and both were accepted as orals",
       "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
       "score": 263,
@@ -151,6 +144,13 @@
       "score": 176,
       "source": "hn",
       "date": "2026-07-31T15:00:15+00:00"
+    },
+    {
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "score": 172,
+      "source": "hn",
+      "date": "2026-07-31T18:17:52+00:00"
     }
   ],
   "security_highlights": [
@@ -174,13 +174,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-31T04:39:07+00:00"
-    },
-    {
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-30T19:34:27+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
