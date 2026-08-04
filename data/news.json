@@ -1,7 +1,53 @@
 {
-  "updated_at": "2026-08-04T23:23:03.462123+00:00",
+  "updated_at": "2026-08-04T23:48:58.866780+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-3c2e198d51",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Data CatalogでObject Storage内のCSVとParquetを自動カタログ化してみてみた",
+      "url": "https://qiita.com/shirok/items/d23855d5634f528f796c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "shirok",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-05T08:39:41+09:00"
+    },
+    {
+      "id": "hn-49176644",
+      "source": "hn",
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+      "score": 6,
+      "comments": 1,
+      "author": "jchanimal",
+      "tags": [],
+      "date": "2026-08-04T23:22:37+00:00"
+    },
+    {
+      "id": "hn-49176634",
+      "source": "hn",
+      "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+      "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+      "score": 4,
+      "comments": 0,
+      "author": "meehow",
+      "tags": [],
+      "date": "2026-08-04T23:21:33+00:00"
+    },
+    {
+      "id": "hn-49176606",
+      "source": "hn",
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "score": 32,
+      "comments": 1,
+      "author": "spyc",
+      "tags": [],
+      "date": "2026-08-04T23:18:12+00:00"
+    },
     {
       "id": "qiita-727ad6449e",
       "source": "zennqiita",
@@ -20,18 +66,29 @@
       "source": "hn",
       "title": "We finally learned to center a div, then browsers added sidebars",
       "url": "https://seg6.space/posts/center-div/",
-      "score": 8,
-      "comments": 4,
+      "score": 23,
+      "comments": 12,
       "author": "seg6",
       "tags": [],
       "date": "2026-08-04T22:24:00+00:00"
+    },
+    {
+      "id": "hn-49176038",
+      "source": "hn",
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "score": 12,
+      "comments": 1,
+      "author": "luispa",
+      "tags": [],
+      "date": "2026-08-04T22:22:12+00:00"
     },
     {
       "id": "hn-49175924",
       "source": "hn",
       "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
       "url": "https://techascent.com/blog/just-ducking-around.html",
-      "score": 13,
+      "score": 21,
       "comments": 0,
       "author": "sourdecor",
       "tags": [],
@@ -42,8 +99,8 @@
       "source": "hn",
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
       "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "score": 83,
-      "comments": 39,
+      "score": 106,
+      "comments": 51,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-08-04T22:01:41+00:00"
@@ -64,7 +121,7 @@
       "source": "hn",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "score": 25,
+      "score": 29,
       "comments": 2,
       "author": "glub",
       "tags": [],
@@ -75,8 +132,8 @@
       "source": "hn",
       "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
       "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-      "score": 173,
-      "comments": 37,
+      "score": 190,
+      "comments": 44,
       "author": "stymaar",
       "tags": [],
       "date": "2026-08-04T21:09:39+00:00"
@@ -84,10 +141,10 @@
     {
       "id": "hn-49174900",
       "source": "hn",
-      "title": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
-      "url": "https://twitter.com/i/status/2084739205071343837",
-      "score": 50,
-      "comments": 19,
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "score": 74,
+      "comments": 28,
       "author": "mattsterett",
       "tags": [],
       "date": "2026-08-04T20:48:17+00:00"
@@ -97,8 +154,8 @@
       "source": "hn",
       "title": "Oxide Computer raises $445M (SEC Form D)",
       "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-      "score": 145,
-      "comments": 58,
+      "score": 154,
+      "comments": 65,
       "author": "depr",
       "tags": [],
       "date": "2026-08-04T20:13:40+00:00"
@@ -108,8 +165,8 @@
       "source": "hn",
       "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
       "url": "https://deepgrove.ai/maple-preview",
-      "score": 16,
-      "comments": 4,
+      "score": 28,
+      "comments": 8,
       "author": "edwardbzhang",
       "tags": [],
       "date": "2026-08-04T19:44:55+00:00"
@@ -119,8 +176,8 @@
       "source": "hn",
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "score": 718,
-      "comments": 42,
+      "score": 766,
+      "comments": 43,
       "author": "jdcampolargo",
       "tags": [],
       "date": "2026-08-04T18:51:38+00:00"
@@ -141,8 +198,8 @@
       "source": "hn",
       "title": "Waymo in Dallas",
       "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "score": 218,
-      "comments": 269,
+      "score": 228,
+      "comments": 274,
       "author": "xnx",
       "tags": [],
       "date": "2026-08-04T18:29:41+00:00"
@@ -218,7 +275,7 @@
       "source": "hn",
       "title": "Hop.earth – OpenStreetMap based car racing game",
       "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
-      "score": 73,
+      "score": 74,
       "comments": 37,
       "author": "faebi",
       "tags": [],
@@ -307,8 +364,8 @@
       "source": "hn",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "score": 272,
-      "comments": 68,
+      "score": 281,
+      "comments": 69,
       "author": "riadsila",
       "tags": [],
       "date": "2026-08-04T16:36:05+00:00"
@@ -329,8 +386,8 @@
       "source": "hn",
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
       "url": "https://arxiv.org/abs/2602.16763",
-      "score": 70,
-      "comments": 77,
+      "score": 71,
+      "comments": 78,
       "author": "doppp",
       "tags": [],
       "date": "2026-08-04T16:10:39+00:00"
@@ -384,8 +441,8 @@
       "source": "hn",
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 439,
-      "comments": 86,
+      "score": 445,
+      "comments": 87,
       "author": "automatoney",
       "tags": [],
       "date": "2026-08-04T15:16:22+00:00"
@@ -395,8 +452,8 @@
       "source": "hn",
       "title": "Most tech revolutions made work worse for employees",
       "url": "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/",
-      "score": 78,
-      "comments": 39,
+      "score": 88,
+      "comments": 51,
       "author": "jreynar",
       "tags": [],
       "date": "2026-08-04T15:10:37+00:00"
@@ -553,8 +610,8 @@
       "source": "hn",
       "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
       "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "score": 225,
-      "comments": 114,
+      "score": 227,
+      "comments": 115,
       "author": "cimi_",
       "tags": [],
       "date": "2026-08-04T11:01:37+00:00"
@@ -630,7 +687,7 @@
       "source": "hn",
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "score": 361,
+      "score": 362,
       "comments": 87,
       "author": "zhoutong",
       "tags": [],
@@ -847,19 +904,6 @@
         "Qiita"
       ],
       "date": "2026-08-04T10:00:00+09:00"
-    },
-    {
-      "id": "qiita-3c2e198d51",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Data CatalogでObject Storage内のCSVとParquetを自動カタログ化してみてみた",
-      "url": "https://qiita.com/shirok/items/d23855d5634f528f796c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "shirok",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-04T09:20:24+09:00"
     },
     {
       "id": "qiita-332d4b5ef1",
@@ -2254,8 +2298,8 @@
       "source": "hn",
       "title": "Video2NAND – Abusing video codecs for great computational power",
       "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
-      "score": 17,
-      "comments": 0,
+      "score": 19,
+      "comments": 2,
       "author": "firer",
       "tags": [],
       "date": "2026-08-02T14:29:01+00:00"
@@ -3858,8 +3902,8 @@
       "source": "hn",
       "title": "Don't stop early: Case-folding source code at memory speed",
       "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-      "score": 39,
-      "comments": 9,
+      "score": 42,
+      "comments": 10,
       "author": "sbulaev",
       "tags": [],
       "date": "2026-07-31T20:07:06+00:00",
@@ -4356,7 +4400,7 @@
       "source": "hn",
       "title": "The physics of Docker build caching",
       "url": "https://www.blacksmith.sh/blog/the-physics-of-docker-build-caching",
-      "score": 12,
+      "score": 15,
       "comments": 2,
       "author": "piobio",
       "tags": [],
@@ -5088,52 +5132,6 @@
       "date": "2026-07-30T22:59:27+00:00"
     },
     {
-      "id": "hn-49116721",
-      "source": "hn",
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "score": 263,
-      "comments": 132,
-      "author": "volumes94",
-      "tags": [],
-      "date": "2026-07-30T22:33:11+00:00"
-    },
-    {
-      "id": "qiita-7dbc2a284b",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "数クリックで作成できるVPC、その裏側はどうなっている？",
-      "url": "https://qiita.com/inorin__62/items/aa78b1fe770ee437ba59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "inorin__62",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-31T07:22:33+09:00"
-    },
-    {
-      "id": "hn-49116272",
-      "source": "hn",
-      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
-      "url": "https://rune.build/blog/rune-1-1-release",
-      "score": 80,
-      "comments": 31,
-      "author": "ernestrc",
-      "tags": [],
-      "date": "2026-07-30T21:47:31+00:00"
-    },
-    {
-      "id": "hn-49116074",
-      "source": "hn",
-      "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
-      "url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
-      "score": 49,
-      "comments": 16,
-      "author": "gmays",
-      "tags": [],
-      "date": "2026-07-30T21:31:03+00:00"
-    },
-    {
       "id": "ctf-4233874",
       "source": "project",
       "proj_category": "CTF",
@@ -5358,6 +5356,19 @@
       "date": "Tue, 04 Aug 2026 00:02:05 GMT"
     },
     {
+      "id": "zenn-60198d66af",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "AIエージェント向けのツールを、MCPではなくCLIとして作った — 設計の3原則",
+      "url": "https://zenn.dev/codatum/articles/80b99faba75704",
+      "score": null,
+      "author": "g0e",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 03 Aug 2026 23:02:09 GMT"
+    },
+    {
       "id": "zenn-c243275af6",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5369,19 +5380,6 @@
         "Zenn"
       ],
       "date": "Mon, 03 Aug 2026 14:04:25 GMT"
-    },
-    {
-      "id": "zenn-9ec6dd7f20",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "GH-600: GitHub Agentic AI Developerに合格しました",
-      "url": "https://zenn.dev/microsoft/articles/gh-600-how-to-pass",
-      "score": null,
-      "author": "yuriemori",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Mon, 03 Aug 2026 10:32:42 GMT"
     },
     {
       "id": "zenn-a71f97115f",
