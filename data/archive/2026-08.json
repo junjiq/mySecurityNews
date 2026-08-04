@@ -1,12 +1,13 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-04T07:02:54.203620+00:00",
-  "total_articles": 247,
+  "generated_at": "2026-08-04T08:18:05.714810+00:00",
+  "total_articles": 258,
   "source_counts": {
     "hn": 203,
-    "zennqiita": 44
+    "zennqiita": 55
   },
   "severity_counts": {
+    "high": 1,
     "critical": 9
   },
   "top_articles": [
@@ -27,7 +28,7 @@
     {
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 765,
+      "score": 858,
       "source": "hn",
       "date": "2026-08-03T21:13:53+00:00"
     },
@@ -41,7 +42,7 @@
     {
       "title": "Devtools must be open source",
       "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 573,
+      "score": 587,
       "source": "hn",
       "date": "2026-08-03T14:15:47+00:00"
     },
@@ -62,7 +63,7 @@
     {
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 514,
+      "score": 524,
       "source": "hn",
       "date": "2026-08-03T16:27:12+00:00"
     },
@@ -76,7 +77,7 @@
     {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "score": 461,
+      "score": 470,
       "source": "hn",
       "date": "2026-08-03T09:32:07+00:00"
     },
@@ -109,6 +110,13 @@
       "date": "2026-08-01T00:25:00+00:00"
     },
     {
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "score": 306,
+      "source": "hn",
+      "date": "2026-08-03T14:09:00+00:00"
+    },
+    {
       "title": "Show HN: Isopolis – Isometric pixel map of SF",
       "url": "https://sf.isopolis.city/",
       "score": 305,
@@ -121,13 +129,6 @@
       "score": 303,
       "source": "hn",
       "date": "2026-08-01T22:25:12+00:00"
-    },
-    {
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "score": 302,
-      "source": "hn",
-      "date": "2026-08-03T14:09:00+00:00"
     },
     {
       "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
@@ -144,14 +145,21 @@
       "date": "2026-08-01T07:37:44+00:00"
     },
     {
-      "title": "Cursor removed cost information from the usage page and CSV export",
-      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "score": 289,
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "score": 292,
       "source": "hn",
-      "date": "2026-08-01T15:25:21+00:00"
+      "date": "2026-08-03T13:34:43+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "毎日137件公開されるCVE、正直ぜんぶ無視していませんか？",
+      "url": "https://qiita.com/udowanllc/items/024e91ccb6393159c798?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-08-04T08:57:38+09:00"
+    },
     {
       "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
       "url": "https://github.com/SwagSoftware/KisakCOD",
