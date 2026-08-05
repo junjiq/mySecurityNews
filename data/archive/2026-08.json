@@ -1,14 +1,14 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-05T18:01:45.807464+00:00",
-  "total_articles": 406,
+  "generated_at": "2026-08-05T19:01:27.370052+00:00",
+  "total_articles": 416,
   "source_counts": {
-    "hn": 334,
+    "hn": 344,
     "zennqiita": 72
   },
   "severity_counts": {
-    "critical": 11,
-    "high": 1
+    "high": 2,
+    "critical": 12
   },
   "top_articles": [
     {
@@ -153,6 +153,20 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-08-05T17:23:25+00:00"
+    },
+    {
+      "title": "Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",
+      "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-05T14:46:36+00:00"
+    },
     {
       "title": "Cloudflare OS – an open-source AI productivity environment",
       "url": "https://github.com/cloudflare/cloudflare-os",
