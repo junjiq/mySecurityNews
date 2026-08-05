@@ -1,9 +1,9 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-05T21:26:25.326132+00:00",
-  "total_articles": 36,
+  "generated_at": "2026-08-05T21:55:27.664734+00:00",
+  "total_articles": 32,
   "source_counts": {
-    "hn": 24,
+    "hn": 20,
     "project": 11,
     "zennqiita": 1
   },
@@ -11,13 +11,6 @@
     "critical": 2
   },
   "top_articles": [
-    {
-      "title": "qm – Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "score": 644,
-      "source": "hn",
-      "date": "2026-07-31T18:04:58+00:00"
-    },
     {
       "title": "Tailscale didn't stop the Hugging Face intrusion",
       "url": "https://tailscale.com/blog/hugging-face-intrusion",
@@ -54,16 +47,9 @@
       "date": "2026-07-31T23:31:28+00:00"
     },
     {
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "score": 90,
-      "source": "hn",
-      "date": "2026-07-31T18:06:39+00:00"
-    },
-    {
       "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
       "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
-      "score": 86,
+      "score": 90,
       "source": "hn",
       "date": "2026-07-30T20:09:43+00:00"
     },
@@ -103,6 +89,13 @@
       "date": "2026-07-31T20:44:29+00:00"
     },
     {
+      "title": "Online Friends Are Real Friends",
+      "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
+      "score": 36,
+      "source": "hn",
+      "date": "2026-07-31T16:07:55+00:00"
+    },
+    {
       "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
       "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
       "score": 32,
@@ -110,25 +103,11 @@
       "date": "2026-07-31T19:55:41+00:00"
     },
     {
-      "title": "They Forgot What Happened Last Time: Hacking the Windows 365 Link [video]",
-      "url": "https://media.ccc.de/v/emf2026-93-1-they-forgot-what-happened-last-time",
-      "score": 32,
-      "source": "hn",
-      "date": "2026-07-31T18:04:48+00:00"
-    },
-    {
       "title": "Goodhart's Law Comes for Every Benchmark You Trust",
       "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-      "score": 26,
+      "score": 31,
       "source": "hn",
       "date": "2026-07-31T18:14:48+00:00"
-    },
-    {
-      "title": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
-      "url": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
-      "score": 26,
-      "source": "hn",
-      "date": "2026-07-31T17:33:32+00:00"
     },
     {
       "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
@@ -138,18 +117,39 @@
       "date": "2026-07-31T18:32:43+00:00"
     },
     {
-      "title": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)",
-      "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
-      "score": 12,
-      "source": "hn",
-      "date": "2026-07-31T17:54:39+00:00"
-    },
-    {
       "title": "Designing Icons",
       "url": "https://m3.material.io/styles/icons/designing-icons",
       "score": 11,
       "source": "hn",
       "date": "2026-07-31T19:38:51+00:00"
+    },
+    {
+      "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+      "url": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
+      "score": 10,
+      "source": "hn",
+      "date": "2026-07-31T21:08:05+00:00"
+    },
+    {
+      "title": "Trembling Photons in Non-Abelian Electric Fields",
+      "url": "https://physics.aps.org/articles/v19/89",
+      "score": 9,
+      "source": "hn",
+      "date": "2026-07-31T19:24:19+00:00"
+    },
+    {
+      "title": "How to Survive an Infestation of Toxic Caterpillars",
+      "url": "https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars",
+      "score": 4,
+      "source": "hn",
+      "date": "2026-07-31T18:13:09+00:00"
+    },
+    {
+      "title": "Loops (YC W22) Is Hiring a Product Educator",
+      "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+      "score": 1,
+      "source": "hn",
+      "date": "2026-07-31T21:00:40+00:00"
     }
   ],
   "security_highlights": [
