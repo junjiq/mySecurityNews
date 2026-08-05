@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T19:01:27.140292+00:00",
-  "total_articles": 85,
+  "generated_at": "2026-08-05T20:02:36.595887+00:00",
+  "total_articles": 87,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 74,
+      "count": 76,
       "top_items": [
         {
           "title": "Pi's Minimalism Is Its Advantage",
@@ -40,9 +40,17 @@
           "date": "2026-08-04T22:22:12+00:00"
         },
         {
+          "title": "Discovery Loop",
+          "url": "https://www.discoveryloop.com/",
+          "score": 373,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-05T16:19:44+00:00"
+        },
+        {
           "title": "Cloudflare OS: an open platform for agents, apps, and work",
           "url": "https://blog.cloudflare.com/cloudflare-os/",
-          "score": 347,
+          "score": 370,
           "source": "hn",
           "severity": null,
           "date": "2026-08-05T13:58:53+00:00"
@@ -62,14 +70,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-04T23:18:12+00:00"
-        },
-        {
-          "title": "Discovery Loop",
-          "url": "https://www.discoveryloop.com/",
-          "score": 285,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-05T16:19:44+00:00"
         }
       ]
     },
