@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-05T05:56:15.007420+00:00",
+  "generated_at": "2026-08-05T06:58:03.914215+00:00",
   "total_articles": 111,
   "source_counts": {
     "hn": 83,
@@ -8,7 +8,7 @@
     "project": 11
   },
   "severity_counts": {
-    "critical": 4,
+    "critical": 3,
     "medium": 1
   },
   "top_articles": [
@@ -167,13 +167,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-31T07:33:10+00:00"
-    },
-    {
-      "title": "Just brute force your embeddings",
-      "url": "https://softwaredoug.com/blog/2026/07/29/just-brute-force-embeddings",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-31T04:39:07+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
