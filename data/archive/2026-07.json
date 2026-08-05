@@ -1,15 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-05T07:57:11.810957+00:00",
-  "total_articles": 110,
+  "generated_at": "2026-08-05T09:01:02.836488+00:00",
+  "total_articles": 98,
   "source_counts": {
-    "hn": 83,
-    "zennqiita": 16,
+    "hn": 76,
+    "zennqiita": 11,
     "project": 11
   },
   "severity_counts": {
-    "critical": 3,
-    "medium": 1
+    "critical": 3
   },
   "top_articles": [
     {
@@ -18,13 +17,6 @@
       "score": 1520,
       "source": "hn",
       "date": "2026-07-31T15:17:28+00:00"
-    },
-    {
-      "title": "DeepSeek-V4-Flash Update",
-      "url": "https://api-docs.deepseek.com/updates/",
-      "score": 655,
-      "source": "hn",
-      "date": "2026-07-31T06:08:36+00:00"
     },
     {
       "title": "qm – Multiplayer agent harness for work",
@@ -111,13 +103,6 @@
       "date": "2026-07-31T18:17:52+00:00"
     },
     {
-      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
-      "url": "https://github.com/mokshablr/gander",
-      "score": 166,
-      "source": "hn",
-      "date": "2026-07-31T05:45:13+00:00"
-    },
-    {
       "title": "Severance",
       "url": "https://lcamtuf.substack.com/p/severance",
       "score": 160,
@@ -151,6 +136,20 @@
       "score": 125,
       "source": "hn",
       "date": "2026-07-31T13:38:04+00:00"
+    },
+    {
+      "title": "Dubious research tied to Red Bull has shaped energy drink policy",
+      "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
+      "score": 123,
+      "source": "hn",
+      "date": "2026-07-31T15:58:15+00:00"
+    },
+    {
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "score": 117,
+      "source": "hn",
+      "date": "2026-07-31T13:08:30+00:00"
     }
   ],
   "security_highlights": [

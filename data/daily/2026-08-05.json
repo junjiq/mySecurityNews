@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T07:57:11.761321+00:00",
-  "total_articles": 85,
+  "generated_at": "2026-08-05T09:01:02.791647+00:00",
+  "total_articles": 93,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 78,
+      "count": 77,
       "top_items": [
         {
           "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
           "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-          "score": 1281,
+          "score": 1326,
           "source": "hn",
           "severity": null,
           "date": "2026-08-04T18:51:38+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
           "url": "https://toneyalexander.github.io/inclusive-color-space/",
-          "score": 514,
+          "score": 521,
           "source": "hn",
           "severity": null,
           "date": "2026-08-04T15:16:22+00:00"
@@ -61,8 +61,24 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 16,
       "top_items": [
+        {
+          "title": "新人エンジニア、定年まで続く勉強量に震えてやばいと思った話",
+          "url": "https://qiita.com/prumnn/items/942eaafa9b9435fcc896?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-05T16:19:48+09:00"
+        },
+        {
+          "title": "「試してみよう」が毎回「後回し」になるのは怠惰ではなく、情報渋滞のせい【AI時代の弊害】",
+          "url": "https://qiita.com/sumomoo/items/d5cb8ed4935a8df88811?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-05T15:28:02+09:00"
+        },
         {
           "title": "Bedrock Tool UseでAIロボットを動かしたらかなり気分屋だった",
           "url": "https://qiita.com/R-You/items/8ee108b6b1f8c4a191c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -80,28 +96,12 @@
           "date": "2026-08-05T12:51:16+09:00"
         },
         {
-          "title": "Data CatalogでObject Storage内のCSVとParquetを自動カタログ化してみてみた",
-          "url": "https://qiita.com/shirok/items/d23855d5634f528f796c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AWS Batch と ECS Service は何が違うのか - Terraform で最小構成を作って理解する",
+          "url": "https://qiita.com/sugumura/items/db166669c5dba836871a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-05T11:24:10+09:00"
-        },
-        {
-          "title": "税は社会を支える会費なのか？ ― 国家＝家計フレームから脱却する財政設計 : システム設計視点の行動経済学 (10)",
-          "url": "https://qiita.com/maskot1977/items/53a83521d61331e12e7f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-05T00:02:48+09:00"
-        },
-        {
-          "title": "図解で解説！Anthropic Claude Certified Architect (CCAR-F) 試験ガイド",
-          "url": "https://qiita.com/DeepTama/items/075b66cd7332870a042a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-04T20:15:36+09:00"
+          "date": "2026-08-05T12:21:02+09:00"
         }
       ]
     }
