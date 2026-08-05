@@ -1,11 +1,11 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-05T12:11:36.794668+00:00",
-  "total_articles": 92,
+  "generated_at": "2026-08-05T13:04:57.115792+00:00",
+  "total_articles": 88,
   "source_counts": {
-    "hn": 74,
+    "hn": 72,
     "project": 11,
-    "zennqiita": 7
+    "zennqiita": 5
   },
   "severity_counts": {
     "critical": 2
@@ -68,13 +68,6 @@
       "date": "2026-07-31T16:15:31+00:00"
     },
     {
-      "title": "Progressive Web Components",
-      "url": "https://arielsalminen.com/2026/progressive-web-components/",
-      "score": 177,
-      "source": "hn",
-      "date": "2026-07-31T10:04:40+00:00"
-    },
-    {
       "title": "The most official water costs $120k a gallon",
       "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
       "score": 176,
@@ -119,7 +112,7 @@
     {
       "title": "“Gravity is worth asking about”",
       "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-      "score": 131,
+      "score": 148,
       "source": "hn",
       "date": "2026-07-30T03:57:33+00:00"
     },
@@ -150,6 +143,13 @@
       "score": 117,
       "source": "hn",
       "date": "2026-07-31T11:34:24+00:00"
+    },
+    {
+      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+      "score": 108,
+      "source": "hn",
+      "date": "2026-07-31T15:53:37+00:00"
     }
   ],
   "security_highlights": [

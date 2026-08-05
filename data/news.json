@@ -1,25 +1,58 @@
 {
-  "updated_at": "2026-08-05T12:11:36.686166+00:00",
+  "updated_at": "2026-08-05T13:04:57.004153+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49182052",
+      "source": "hn",
+      "title": "Iowa et al asks OpenAI to keep their bots sandboxed",
+      "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "score": 18,
+      "comments": 12,
+      "author": "ArcHound",
+      "tags": [],
+      "date": "2026-08-05T12:42:50+00:00"
+    },
+    {
+      "id": "hn-49182041",
+      "source": "hn",
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+      "score": 8,
+      "comments": 1,
+      "author": "vincent_s",
+      "tags": [],
+      "date": "2026-08-05T12:41:47+00:00"
+    },
     {
       "id": "hn-49181678",
       "source": "hn",
       "title": "Three Six Mafia – Data about \"6/6/6 dating\" (2024)",
       "url": "https://divingintheshallowend.com/three-six-mafia/",
-      "score": 3,
-      "comments": 0,
+      "score": 75,
+      "comments": 45,
       "author": "embedding-shape",
       "tags": [],
       "date": "2026-08-05T12:06:14+00:00"
+    },
+    {
+      "id": "hn-49181419",
+      "source": "hn",
+      "title": "Could psilocybin be the key to treating anorexia?",
+      "url": "https://www.scientificamerican.com/article/psilocybin-could-kick-start-anorexia-recovery-early-results-suggest/",
+      "score": 16,
+      "comments": 12,
+      "author": "tzury",
+      "tags": [],
+      "date": "2026-08-05T11:39:09+00:00"
     },
     {
       "id": "hn-49181083",
       "source": "hn",
       "title": "Position: LLMs Can't Jump",
       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "score": 31,
-      "comments": 12,
+      "score": 82,
+      "comments": 46,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-08-05T11:01:37+00:00"
@@ -62,8 +95,8 @@
       "source": "hn",
       "title": "Helsinki Hacker News Meetup",
       "url": "https://calpaterson.com/helsinki-hn.html",
-      "score": 116,
-      "comments": 63,
+      "score": 136,
+      "comments": 84,
       "author": "calpaterson",
       "tags": [],
       "date": "2026-08-05T09:15:33+00:00"
@@ -121,7 +154,7 @@
       "source": "hn",
       "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
       "url": "https://arxiv.org/abs/2607.29377",
-      "score": 59,
+      "score": 66,
       "comments": 10,
       "author": "theanonymousone",
       "tags": [],
@@ -145,7 +178,7 @@
       "source": "hn",
       "title": "An SLM trained on $8 ESP32-S3",
       "url": "https://github.com/Carloscodix/qapla",
-      "score": 43,
+      "score": 46,
       "comments": 15,
       "author": "pavelai",
       "tags": [],
@@ -280,8 +313,8 @@
       "source": "hn",
       "title": "Bugtraq is back",
       "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-      "score": 56,
-      "comments": 18,
+      "score": 65,
+      "comments": 22,
       "author": "bashtoni",
       "tags": [],
       "date": "2026-08-05T00:05:49+00:00"
@@ -302,8 +335,8 @@
       "source": "hn",
       "title": "Eight Myths on Software Engineering and GenAI",
       "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "score": 234,
-      "comments": 195,
+      "score": 246,
+      "comments": 203,
       "author": "tchalla",
       "tags": [],
       "date": "2026-08-04T23:50:52+00:00"
@@ -326,8 +359,8 @@
       "source": "hn",
       "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
       "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "score": 133,
-      "comments": 19,
+      "score": 138,
+      "comments": 22,
       "author": "lapcat",
       "tags": [],
       "date": "2026-08-04T23:31:46+00:00"
@@ -381,8 +414,8 @@
       "source": "hn",
       "title": "We finally learned to center a div, then browsers added sidebars",
       "url": "https://seg6.space/posts/center-div/",
-      "score": 149,
-      "comments": 121,
+      "score": 160,
+      "comments": 126,
       "author": "seg6",
       "tags": [],
       "date": "2026-08-04T22:24:00+00:00"
@@ -392,8 +425,8 @@
       "source": "hn",
       "title": "Pi's Minimalism Is Its Advantage",
       "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 415,
-      "comments": 190,
+      "score": 434,
+      "comments": 212,
       "author": "luispa",
       "tags": [],
       "date": "2026-08-04T22:22:12+00:00"
@@ -403,8 +436,8 @@
       "source": "hn",
       "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
       "url": "https://techascent.com/blog/just-ducking-around.html",
-      "score": 122,
-      "comments": 17,
+      "score": 127,
+      "comments": 18,
       "author": "sourdecor",
       "tags": [],
       "date": "2026-08-04T22:09:43+00:00"
@@ -480,8 +513,8 @@
       "source": "hn",
       "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
       "url": "https://deepgrove.ai/maple-preview",
-      "score": 143,
-      "comments": 42,
+      "score": 147,
+      "comments": 43,
       "author": "edwardbzhang",
       "tags": [],
       "date": "2026-08-04T19:44:55+00:00"
@@ -491,8 +524,8 @@
       "source": "hn",
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "score": 1451,
-      "comments": 83,
+      "score": 1479,
+      "comments": 84,
       "author": "jdcampolargo",
       "tags": [],
       "date": "2026-08-04T18:51:38+00:00"
@@ -690,8 +723,8 @@
       "source": "hn",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "score": 446,
-      "comments": 112,
+      "score": 451,
+      "comments": 115,
       "author": "riadsila",
       "tags": [],
       "date": "2026-08-04T16:36:05+00:00"
@@ -780,8 +813,8 @@
       "source": "hn",
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 554,
-      "comments": 95,
+      "score": 561,
+      "comments": 96,
       "author": "automatoney",
       "tags": [],
       "date": "2026-08-04T15:16:22+00:00"
@@ -2368,6 +2401,17 @@
       "author": "mediaeater",
       "tags": [],
       "date": "2026-08-02T21:30:04+00:00"
+    },
+    {
+      "id": "hn-49148176",
+      "source": "hn",
+      "title": "Bubble Memory",
+      "url": "https://en.wikipedia.org/wiki/Bubble_memory",
+      "score": 25,
+      "comments": 6,
+      "author": "jacquesm",
+      "tags": [],
+      "date": "2026-08-02T20:50:02+00:00"
     },
     {
       "id": "hn-49148163",
@@ -4035,8 +4079,8 @@
       "source": "hn",
       "title": "Stateless MCP has recaptured my interest",
       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-      "score": 271,
-      "comments": 143,
+      "score": 295,
+      "comments": 157,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-01T05:51:36+00:00"
@@ -4699,8 +4743,8 @@
       "source": "hn",
       "title": "The Pneumatics of Hero of Alexandria (1851)",
       "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
-      "score": 36,
-      "comments": 3,
+      "score": 39,
+      "comments": 6,
       "author": "gregsadetsky",
       "tags": [],
       "date": "2026-07-31T15:22:35+00:00"
@@ -5042,49 +5086,12 @@
       "date": "2026-07-31T11:34:24+00:00"
     },
     {
-      "id": "qiita-3b28721fcb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと",
-      "url": "https://qiita.com/rira__/items/dab9765ffd6aae8f0c07?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "rira__",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-31T20:28:10+09:00"
-    },
-    {
-      "id": "hn-49121196",
-      "source": "hn",
-      "title": "Progressive Web Components",
-      "url": "https://arielsalminen.com/2026/progressive-web-components/",
-      "score": 177,
-      "comments": 42,
-      "author": "hosteur",
-      "tags": [],
-      "date": "2026-07-31T10:04:40+00:00"
-    },
-    {
-      "id": "qiita-6dc80e86e4",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "MacBook Air M5にDockerフリーなローカルLLM+Web検索環境を構築",
-      "url": "https://qiita.com/tcmmmtc9/items/a937f38ca3dc44fb7f2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tcmmmtc9",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-07-31T18:51:28+09:00"
-    },
-    {
       "id": "hn-49113523",
       "source": "hn",
       "title": "Birduino: A card-triggered audio player for [learning] the birds",
       "url": "https://hannahilea.com/blog/birduino/",
-      "score": 13,
-      "comments": 2,
+      "score": 17,
+      "comments": 3,
       "author": "austinallegro",
       "tags": [],
       "date": "2026-07-30T18:07:39+00:00"
@@ -5094,8 +5101,8 @@
       "source": "hn",
       "title": "Scaling NumPy on Free-Threaded Python",
       "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
-      "score": 13,
-      "comments": 1,
+      "score": 32,
+      "comments": 7,
       "author": "ngoldbaum",
       "tags": [],
       "date": "2026-07-30T16:09:39+00:00"
@@ -5105,22 +5112,11 @@
       "source": "hn",
       "title": "“Gravity is worth asking about”",
       "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-      "score": 131,
-      "comments": 78,
+      "score": 148,
+      "comments": 87,
       "author": "nozzlegear",
       "tags": [],
       "date": "2026-07-30T03:57:33+00:00"
-    },
-    {
-      "id": "hn-49084236",
-      "source": "hn",
-      "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
-      "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
-      "score": 43,
-      "comments": 14,
-      "author": "vinhnx",
-      "tags": [],
-      "date": "2026-07-28T14:15:49+00:00"
     },
     {
       "id": "ctf-4233874",
