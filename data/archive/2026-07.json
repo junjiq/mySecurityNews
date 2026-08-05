@@ -1,9 +1,9 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-05T14:15:45.289220+00:00",
-  "total_articles": 81,
+  "generated_at": "2026-08-05T15:15:31.415516+00:00",
+  "total_articles": 69,
   "source_counts": {
-    "hn": 68,
+    "hn": 56,
     "project": 11,
     "zennqiita": 2
   },
@@ -31,13 +31,6 @@
       "score": 534,
       "source": "hn",
       "date": "2026-07-31T19:03:45+00:00"
-    },
-    {
-      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-      "url": "https://github.com/sqliteai/waste",
-      "score": 306,
-      "source": "hn",
-      "date": "2026-07-31T14:12:38+00:00"
     },
     {
       "title": "Big Food vs. the People",
@@ -75,6 +68,13 @@
       "date": "2026-07-31T18:17:52+00:00"
     },
     {
+      "title": "“Gravity is worth asking about”",
+      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+      "score": 166,
+      "source": "hn",
+      "date": "2026-07-30T03:57:33+00:00"
+    },
+    {
       "title": "Severance",
       "url": "https://lcamtuf.substack.com/p/severance",
       "score": 160,
@@ -87,13 +87,6 @@
       "score": 160,
       "source": "hn",
       "date": "2026-07-31T15:01:07+00:00"
-    },
-    {
-      "title": "“Gravity is worth asking about”",
-      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-      "score": 160,
-      "source": "hn",
-      "date": "2026-07-30T03:57:33+00:00"
     },
     {
       "title": "Golang proposal: container/: generic collection types",
@@ -110,25 +103,11 @@
       "date": "2026-07-31T15:29:39+00:00"
     },
     {
-      "title": "When transit passes were designed by hand (2022)",
-      "url": "https://letterformarchive.org/news/milwaukee-transit-passes/",
-      "score": 125,
-      "source": "hn",
-      "date": "2026-07-31T13:38:04+00:00"
-    },
-    {
       "title": "Dubious research tied to Red Bull has shaped energy drink policy",
       "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
       "score": 123,
       "source": "hn",
       "date": "2026-07-31T15:58:15+00:00"
-    },
-    {
-      "title": "Autoregressive Language Model on the 6502 Processor",
-      "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "score": 117,
-      "source": "hn",
-      "date": "2026-07-31T13:08:30+00:00"
     },
     {
       "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
@@ -150,6 +129,27 @@
       "score": 91,
       "source": "hn",
       "date": "2026-07-31T23:31:28+00:00"
+    },
+    {
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "score": 90,
+      "source": "hn",
+      "date": "2026-07-31T18:06:39+00:00"
+    },
+    {
+      "title": "Massively Parallel Postgres Backups",
+      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+      "score": 85,
+      "source": "hn",
+      "date": "2026-07-31T15:17:18+00:00"
+    },
+    {
+      "title": "Why we write our own C and C++ inference engines",
+      "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+      "score": 82,
+      "source": "hn",
+      "date": "2026-07-31T16:17:04+00:00"
     }
   ],
   "security_highlights": [

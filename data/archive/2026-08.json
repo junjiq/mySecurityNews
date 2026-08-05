@@ -1,13 +1,13 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-05T14:15:45.289220+00:00",
-  "total_articles": 380,
+  "generated_at": "2026-08-05T15:15:31.415516+00:00",
+  "total_articles": 392,
   "source_counts": {
-    "hn": 308,
+    "hn": 320,
     "zennqiita": 72
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 11,
     "high": 1
   },
   "top_articles": [
@@ -112,7 +112,7 @@
     {
       "title": "Pi's Minimalism Is Its Advantage",
       "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 460,
+      "score": 476,
       "source": "hn",
       "date": "2026-08-04T22:22:12+00:00"
     },
@@ -153,6 +153,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Cloudflare OS – an open-source AI productivity environment",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-05T13:23:52+00:00"
+    },
     {
       "title": "What's Behind the Sharp Drop in Labor Force Participation?",
       "url": "https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation",

@@ -1,9 +1,16 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T14:15:45.238750+00:00",
-  "total_articles": 84,
-  "urgent_count": 1,
+  "generated_at": "2026-08-05T15:15:31.369405+00:00",
+  "total_articles": 91,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Cloudflare OS – an open-source AI productivity environment",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-05T13:23:52+00:00"
+    },
     {
       "title": "What's Behind the Sharp Drop in Labor Force Participation?",
       "url": "https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation",
@@ -15,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 71,
+      "count": 79,
       "top_items": [
         {
           "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
@@ -36,7 +43,7 @@
         {
           "title": "Pi's Minimalism Is Its Advantage",
           "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-          "score": 460,
+          "score": 476,
           "source": "hn",
           "severity": null,
           "date": "2026-08-04T22:22:12+00:00"
@@ -61,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "新人エンジニア、定年まで続く勉強量に震えてやばいと思った話",
