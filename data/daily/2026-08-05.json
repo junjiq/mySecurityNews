@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T20:02:36.595887+00:00",
-  "total_articles": 87,
+  "generated_at": "2026-08-05T20:49:35.265672+00:00",
+  "total_articles": 89,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 76,
+      "count": 75,
       "top_items": [
         {
           "title": "Pi's Minimalism Is Its Advantage",
@@ -42,7 +42,7 @@
         {
           "title": "Discovery Loop",
           "url": "https://www.discoveryloop.com/",
-          "score": 373,
+          "score": 414,
           "source": "hn",
           "severity": null,
           "date": "2026-08-05T16:19:44+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "Cloudflare OS: an open platform for agents, apps, and work",
           "url": "https://blog.cloudflare.com/cloudflare-os/",
-          "score": 370,
+          "score": 391,
           "source": "hn",
           "severity": null,
           "date": "2026-08-05T13:58:53+00:00"
@@ -75,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 11,
+      "count": 14,
       "top_items": [
         {
           "title": "新人エンジニア、定年まで続く勉強量に震えてやばいと思った話",
@@ -84,6 +84,14 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-05T16:19:48+09:00"
+        },
+        {
+          "title": "【新卒エンジニアが考える】「読みやすさ」の正体とは？大学で学んだ認知心理学をUI実装とJavaのコード設計にあてはめてみた",
+          "url": "https://qiita.com/tkmrtkm/items/f6f6c10b802372a53c0d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-05T15:31:13+09:00"
         },
         {
           "title": "「試してみよう」が毎回「後回し」になるのは怠惰ではなく、情報渋滞のせい【AI時代の弊害】",
@@ -108,14 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-05T12:51:16+09:00"
-        },
-        {
-          "title": "AWS Batch と ECS Service は何が違うのか - Terraform で最小構成を作って理解する",
-          "url": "https://qiita.com/sugumura/items/db166669c5dba836871a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-05T12:21:02+09:00"
         }
       ]
     }

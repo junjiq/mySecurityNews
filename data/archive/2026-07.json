@@ -1,11 +1,11 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-05T20:02:36.647266+00:00",
-  "total_articles": 42,
+  "generated_at": "2026-08-05T20:49:35.303735+00:00",
+  "total_articles": 36,
   "source_counts": {
-    "hn": 29,
+    "hn": 24,
     "project": 11,
-    "zennqiita": 2
+    "zennqiita": 1
   },
   "severity_counts": {
     "critical": 2
@@ -31,13 +31,6 @@
       "score": 172,
       "source": "hn",
       "date": "2026-07-31T18:17:52+00:00"
-    },
-    {
-      "title": "Severance",
-      "url": "https://lcamtuf.substack.com/p/severance",
-      "score": 160,
-      "source": "hn",
-      "date": "2026-07-31T17:15:09+00:00"
     },
     {
       "title": "Golang proposal: container/: generic collection types",
@@ -68,18 +61,18 @@
       "date": "2026-07-31T18:06:39+00:00"
     },
     {
+      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+      "score": 82,
+      "source": "hn",
+      "date": "2026-07-30T20:09:43+00:00"
+    },
+    {
       "title": "Why etymologies matter: How tracing words can illuminate history (2024)",
       "url": "https://resobscura.substack.com/p/why-i-love-etymologies",
       "score": 81,
       "source": "hn",
       "date": "2026-07-31T23:13:03+00:00"
-    },
-    {
-      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
-      "score": 76,
-      "source": "hn",
-      "date": "2026-07-30T20:09:43+00:00"
     },
     {
       "title": "Don't stop early: Case-folding source code at memory speed",
@@ -131,6 +124,13 @@
       "date": "2026-07-31T17:33:32+00:00"
     },
     {
+      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+      "score": 18,
+      "source": "hn",
+      "date": "2026-07-31T18:14:48+00:00"
+    },
+    {
       "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
       "url": "https://arxiv.org/abs/2607.28545",
       "score": 17,
@@ -138,18 +138,18 @@
       "date": "2026-07-31T18:32:43+00:00"
     },
     {
-      "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
-      "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
-      "score": 16,
-      "source": "hn",
-      "date": "2026-07-31T16:49:30+00:00"
-    },
-    {
       "title": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)",
       "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
       "score": 12,
       "source": "hn",
       "date": "2026-07-31T17:54:39+00:00"
+    },
+    {
+      "title": "Designing Icons",
+      "url": "https://m3.material.io/styles/icons/designing-icons",
+      "score": 11,
+      "source": "hn",
+      "date": "2026-07-31T19:38:51+00:00"
     }
   ],
   "security_highlights": [
