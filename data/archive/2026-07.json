@@ -1,11 +1,11 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-05T13:04:57.115792+00:00",
-  "total_articles": 88,
+  "generated_at": "2026-08-05T14:15:45.289220+00:00",
+  "total_articles": 81,
   "source_counts": {
-    "hn": 72,
+    "hn": 68,
     "project": 11,
-    "zennqiita": 5
+    "zennqiita": 2
   },
   "severity_counts": {
     "critical": 2
@@ -31,13 +31,6 @@
       "score": 534,
       "source": "hn",
       "date": "2026-07-31T19:03:45+00:00"
-    },
-    {
-      "title": "The End of an Era",
-      "url": "https://hughhowey.com/the-end-of-an-era/",
-      "score": 360,
-      "source": "hn",
-      "date": "2026-07-31T11:51:46+00:00"
     },
     {
       "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
@@ -96,6 +89,13 @@
       "date": "2026-07-31T15:01:07+00:00"
     },
     {
+      "title": "“Gravity is worth asking about”",
+      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+      "score": 160,
+      "source": "hn",
+      "date": "2026-07-30T03:57:33+00:00"
+    },
+    {
       "title": "Golang proposal: container/: generic collection types",
       "url": "https://github.com/golang/go/issues/80590",
       "score": 150,
@@ -108,13 +108,6 @@
       "score": 149,
       "source": "hn",
       "date": "2026-07-31T15:29:39+00:00"
-    },
-    {
-      "title": "“Gravity is worth asking about”",
-      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-      "score": 148,
-      "source": "hn",
-      "date": "2026-07-30T03:57:33+00:00"
     },
     {
       "title": "When transit passes were designed by hand (2022)",
@@ -138,18 +131,25 @@
       "date": "2026-07-31T13:08:30+00:00"
     },
     {
-      "title": "Increasing the lifespan of a bulb makes it worse in every other way",
-      "url": "https://maurycyz.com/misc/tungsten/",
-      "score": 117,
-      "source": "hn",
-      "date": "2026-07-31T11:34:24+00:00"
-    },
-    {
       "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
       "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
       "score": 108,
       "source": "hn",
       "date": "2026-07-31T15:53:37+00:00"
+    },
+    {
+      "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+      "url": "https://code.intellios.ai/cwbrowser/",
+      "score": 99,
+      "source": "hn",
+      "date": "2026-07-31T21:39:52+00:00"
+    },
+    {
+      "title": "Read the novels and forget everything else",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+      "score": 91,
+      "source": "hn",
+      "date": "2026-07-31T23:31:28+00:00"
     }
   ],
   "security_highlights": [
