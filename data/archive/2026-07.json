@@ -1,9 +1,9 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-05T16:08:54.525662+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-08-05T17:01:23.067993+00:00",
+  "total_articles": 56,
   "source_counts": {
-    "hn": 49,
+    "hn": 43,
     "project": 11,
     "zennqiita": 2
   },
@@ -11,13 +11,6 @@
     "critical": 2
   },
   "top_articles": [
-    {
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "score": 1520,
-      "source": "hn",
-      "date": "2026-07-31T15:17:28+00:00"
-    },
     {
       "title": "qm – Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
@@ -66,13 +59,6 @@
       "score": 160,
       "source": "hn",
       "date": "2026-07-31T17:15:09+00:00"
-    },
-    {
-      "title": "A big win for Android interoperability",
-      "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
-      "score": 160,
-      "source": "hn",
-      "date": "2026-07-31T15:01:07+00:00"
     },
     {
       "title": "Golang proposal: container/: generic collection types",
@@ -124,13 +110,6 @@
       "date": "2026-07-31T18:06:39+00:00"
     },
     {
-      "title": "Massively Parallel Postgres Backups",
-      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
-      "score": 85,
-      "source": "hn",
-      "date": "2026-07-31T15:17:18+00:00"
-    },
-    {
       "title": "Why we write our own C and C++ inference engines",
       "url": "https://localai.io/blog/why-we-write-our-own-engines/",
       "score": 82,
@@ -150,6 +129,27 @@
       "score": 71,
       "source": "hn",
       "date": "2026-07-31T15:24:25+00:00"
+    },
+    {
+      "title": "Don't stop early: Case-folding source code at memory speed",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "score": 59,
+      "source": "hn",
+      "date": "2026-07-31T20:07:06+00:00"
+    },
+    {
+      "title": "Termixer (TUI DJ Mixer)",
+      "url": "https://github.com/l00sed/termixer",
+      "score": 56,
+      "source": "hn",
+      "date": "2026-07-31T18:28:08+00:00"
+    },
+    {
+      "title": "Using the railway network as a flatbed scanner [video]",
+      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+      "score": 50,
+      "source": "hn",
+      "date": "2026-07-31T18:30:44+00:00"
     }
   ],
   "security_highlights": [
