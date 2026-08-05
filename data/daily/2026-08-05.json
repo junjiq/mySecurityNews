@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T17:01:23.020713+00:00",
-  "total_articles": 93,
-  "urgent_count": 2,
+  "generated_at": "2026-08-05T18:01:45.758788+00:00",
+  "total_articles": 86,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Cloudflare OS – an open-source AI productivity environment",
@@ -10,19 +10,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-05T13:23:52+00:00"
-    },
-    {
-      "title": "What's Behind the Sharp Drop in Labor Force Participation?",
-      "url": "https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-04T17:37:17+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 82,
+      "count": 75,
       "top_items": [
         {
           "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
@@ -41,28 +34,28 @@
           "date": "2026-08-04T22:22:12+00:00"
         },
         {
+          "title": "Google DeepMind CEO Demis Hassabis is stepping down",
+          "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+          "score": 336,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-05T16:05:37+00:00"
+        },
+        {
+          "title": "Cloudflare OS: an open platform for agents, apps, and work",
+          "url": "https://blog.cloudflare.com/cloudflare-os/",
+          "score": 317,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-05T13:58:53+00:00"
+        },
+        {
           "title": "Waymo in Dallas",
           "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
           "score": 293,
           "source": "hn",
           "severity": null,
           "date": "2026-08-04T18:29:41+00:00"
-        },
-        {
-          "title": "libexpat now funded by the City of Munich for up to 6 months",
-          "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-          "score": 291,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-04T23:18:12+00:00"
-        },
-        {
-          "title": "Cloudflare OS: an open platform for agents, apps, and work",
-          "url": "https://blog.cloudflare.com/cloudflare-os/",
-          "score": 283,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-05T13:58:53+00:00"
         }
       ]
     },
