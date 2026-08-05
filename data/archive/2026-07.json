@@ -1,14 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-05T10:18:40.018193+00:00",
-  "total_articles": 96,
+  "generated_at": "2026-08-05T11:16:45.746406+00:00",
+  "total_articles": 94,
   "source_counts": {
-    "hn": 75,
+    "hn": 73,
     "project": 11,
     "zennqiita": 10
   },
   "severity_counts": {
-    "critical": 3
+    "critical": 2
   },
   "top_articles": [
     {
@@ -31,13 +31,6 @@
       "score": 534,
       "source": "hn",
       "date": "2026-07-31T19:03:45+00:00"
-    },
-    {
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "score": 523,
-      "source": "hn",
-      "date": "2026-07-31T07:59:11+00:00"
     },
     {
       "title": "The End of an Era",
@@ -150,6 +143,13 @@
       "score": 117,
       "source": "hn",
       "date": "2026-07-31T11:34:24+00:00"
+    },
+    {
+      "title": "“Gravity is worth asking about”",
+      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+      "score": 111,
+      "source": "hn",
+      "date": "2026-07-30T03:57:33+00:00"
     }
   ],
   "security_highlights": [
@@ -159,13 +159,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-07-31T20:07:06+00:00"
-    },
-    {
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-31T07:33:10+00:00"
     },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
