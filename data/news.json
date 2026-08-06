@@ -1,7 +1,184 @@
 {
-  "updated_at": "2026-08-06T15:16:30.551158+00:00",
+  "updated_at": "2026-08-06T22:53:29.428841+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49203105",
+      "source": "hn",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "score": 29,
+      "comments": 4,
+      "author": "gnabgib",
+      "tags": [],
+      "date": "2026-08-06T21:52:16+00:00"
+    },
+    {
+      "id": "hn-49203059",
+      "source": "hn",
+      "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+      "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+      "score": 22,
+      "comments": 6,
+      "author": "mdeeds",
+      "tags": [],
+      "date": "2026-08-06T21:49:07+00:00"
+    },
+    {
+      "id": "hn-49202852",
+      "source": "hn",
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "score": 19,
+      "comments": 1,
+      "author": "sebg",
+      "tags": [],
+      "date": "2026-08-06T21:30:21+00:00"
+    },
+    {
+      "id": "hn-49202321",
+      "source": "hn",
+      "title": "Civilians under siege by Mexican cartel fight back with AK-47s, grenades",
+      "url": "https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades",
+      "score": 74,
+      "comments": 53,
+      "author": "starkparker",
+      "tags": [],
+      "date": "2026-08-06T20:48:14+00:00"
+    },
+    {
+      "id": "hn-49201970",
+      "source": "hn",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 218,
+      "comments": 151,
+      "author": "itvision",
+      "tags": [],
+      "date": "2026-08-06T20:23:11+00:00"
+    },
+    {
+      "id": "hn-49201930",
+      "source": "hn",
+      "title": "Quake – 30th Anniversary Update",
+      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+      "score": 169,
+      "comments": 73,
+      "author": "dsubburam",
+      "tags": [],
+      "date": "2026-08-06T20:21:19+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-49201003",
+      "source": "hn",
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "score": 98,
+      "comments": 65,
+      "author": "collinmanderson",
+      "tags": [],
+      "date": "2026-08-06T19:14:21+00:00"
+    },
+    {
+      "id": "hn-49200933",
+      "source": "hn",
+      "title": "Can you reverse engineer an ASIC?",
+      "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+      "score": 41,
+      "comments": 24,
+      "author": "bschne",
+      "tags": [],
+      "date": "2026-08-06T19:07:33+00:00"
+    },
+    {
+      "id": "hn-49200652",
+      "source": "hn",
+      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "score": 375,
+      "comments": 241,
+      "author": "apitman",
+      "tags": [],
+      "date": "2026-08-06T18:44:49+00:00"
+    },
+    {
+      "id": "hn-49200439",
+      "source": "hn",
+      "title": "My phone detects going on a run as \"someone snatching my phone and running off\"",
+      "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+      "score": 59,
+      "comments": 91,
+      "author": "luu",
+      "tags": [],
+      "date": "2026-08-06T18:26:08+00:00"
+    },
+    {
+      "id": "hn-49199357",
+      "source": "hn",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "score": 113,
+      "comments": 83,
+      "author": "tedsanders",
+      "tags": [],
+      "date": "2026-08-06T17:02:04+00:00"
+    },
+    {
+      "id": "hn-49199346",
+      "source": "hn",
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "score": 123,
+      "comments": 93,
+      "author": "tsak",
+      "tags": [],
+      "date": "2026-08-06T17:01:33+00:00"
+    },
+    {
+      "id": "hn-49198583",
+      "source": "hn",
+      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "url": "https://github.com/CopilotKit/channels-sdk",
+      "score": 76,
+      "comments": 20,
+      "author": "davidmckayv",
+      "tags": [],
+      "date": "2026-08-06T16:05:51+00:00"
+    },
+    {
+      "id": "hn-49198464",
+      "source": "hn",
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
+      "score": 170,
+      "comments": 118,
+      "author": "willcarkner",
+      "tags": [],
+      "date": "2026-08-06T15:59:15+00:00"
+    },
+    {
+      "id": "hn-49198302",
+      "source": "hn",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "score": 274,
+      "comments": 234,
+      "author": "Footkerchief",
+      "tags": [],
+      "date": "2026-08-06T15:49:38+00:00"
+    },
+    {
+      "id": "hn-49198069",
+      "source": "hn",
+      "title": "Almost no skill required to cook a steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "score": 241,
+      "comments": 281,
+      "author": "yusyd",
+      "tags": [],
+      "date": "2026-08-06T15:30:48+00:00"
+    },
     {
       "id": "hn-49197498",
       "source": "hn",
@@ -88,8 +265,8 @@
       "source": "hn",
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
       "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "score": 99,
-      "comments": 74,
+      "score": 231,
+      "comments": 181,
       "author": "Wirbelwind",
       "tags": [],
       "date": "2026-08-06T11:58:07+00:00",
@@ -134,8 +311,8 @@
       "source": "hn",
       "title": "Mario Meets Pareto",
       "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "score": 324,
-      "comments": 55,
+      "score": 822,
+      "comments": 142,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-08-06T11:24:53+00:00"
@@ -191,8 +368,8 @@
       "source": "hn",
       "title": "Crime Pays but Botany Doesn't",
       "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "score": 428,
-      "comments": 130,
+      "score": 630,
+      "comments": 194,
       "author": "DarkContinent",
       "tags": [],
       "date": "2026-08-06T04:46:35+00:00"
@@ -569,6 +746,17 @@
       "author": "jandrewrogers",
       "tags": [],
       "date": "2026-08-05T15:57:54+00:00"
+    },
+    {
+      "id": "hn-49184355",
+      "source": "hn",
+      "title": "NSF Inouye Solar Telescope Enables Major Discovery of a Hidden Solar Process",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 91,
+      "comments": 11,
+      "author": "neversaydie",
+      "tags": [],
+      "date": "2026-08-05T15:33:23+00:00"
     },
     {
       "id": "hn-49184251",
@@ -1861,8 +2049,8 @@
       "source": "hn",
       "title": "How to Make a Nintendo 64 Game in 2026",
       "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-      "score": 295,
-      "comments": 86,
+      "score": 446,
+      "comments": 240,
       "author": "atan2",
       "tags": [],
       "date": "2026-08-04T13:24:03+00:00"
@@ -2362,6 +2550,17 @@
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-08-03T21:39:02+00:00"
+    },
+    {
+      "id": "hn-49161617",
+      "source": "hn",
+      "title": "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
+      "url": "https://arxiv.org/abs/2607.25373",
+      "score": 8,
+      "comments": 1,
+      "author": "Jimmc414",
+      "tags": [],
+      "date": "2026-08-03T21:22:01+00:00"
     },
     {
       "id": "hn-49161518",
@@ -2955,6 +3154,17 @@
       "author": "tosh",
       "tags": [],
       "date": "2026-08-03T07:22:27+00:00"
+    },
+    {
+      "id": "hn-49152255",
+      "source": "hn",
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "score": 24,
+      "comments": 12,
+      "author": "baranul",
+      "tags": [],
+      "date": "2026-08-03T07:12:57+00:00"
     },
     {
       "id": "hn-49152222",
@@ -3826,6 +4036,17 @@
       "author": "ducktective",
       "tags": [],
       "date": "2026-08-02T12:31:16+00:00"
+    },
+    {
+      "id": "hn-49143782",
+      "source": "hn",
+      "title": "The simple elegance of the integrated timing belt loopback fastener",
+      "url": "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/",
+      "score": 89,
+      "comments": 18,
+      "author": "hasheddan",
+      "tags": [],
+      "date": "2026-08-02T12:14:34+00:00"
     },
     {
       "id": "hn-49143688",
@@ -5062,70 +5283,15 @@
       "date": "2026-08-01T08:26:55+00:00"
     },
     {
-      "id": "hn-49132289",
+      "id": "hn-49120149",
       "source": "hn",
-      "title": "How to Do Great Work (2023)",
-      "url": "https://paulgraham.com/greatwork.html",
-      "score": 77,
-      "comments": 51,
-      "author": "tosh",
+      "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+      "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+      "score": 88,
+      "comments": 15,
+      "author": "laurentiurad",
       "tags": [],
-      "date": "2026-08-01T08:19:44+00:00"
-    },
-    {
-      "id": "hn-49132130",
-      "source": "hn",
-      "title": "AI doesn't generate working products, that's still your job",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "score": 197,
-      "comments": 173,
-      "author": "smckk",
-      "tags": [],
-      "date": "2026-08-01T07:52:10+00:00"
-    },
-    {
-      "id": "hn-49129551",
-      "source": "hn",
-      "title": "Morioka Shoten",
-      "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
-      "score": 40,
-      "comments": 13,
-      "author": "skogstokig",
-      "tags": [],
-      "date": "2026-07-31T23:14:08+00:00"
-    },
-    {
-      "id": "hn-49129008",
-      "source": "hn",
-      "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
-      "url": "https://nanochess.org/the_am29000_computer.html",
-      "score": 73,
-      "comments": 11,
-      "author": "nanochess",
-      "tags": [],
-      "date": "2026-07-31T21:57:03+00:00"
-    },
-    {
-      "id": "hn-49122190",
-      "source": "hn",
-      "title": "Join Me in Jamverse",
-      "url": "https://contraptions.venkateshrao.com/p/join-me-in-jamverse",
-      "score": 20,
-      "comments": 1,
-      "author": "surprisetalk",
-      "tags": [],
-      "date": "2026-07-31T12:20:26+00:00"
-    },
-    {
-      "id": "hn-49096439",
-      "source": "hn",
-      "title": "Pareto Front",
-      "url": "https://en.wikipedia.org/wiki/Pareto_front",
-      "score": 119,
-      "comments": 52,
-      "author": "binyu",
-      "tags": [],
-      "date": "2026-07-29T12:12:29+00:00"
+      "date": "2026-07-31T07:37:13+00:00"
     },
     {
       "id": "ctf-4233874",
@@ -5597,231 +5763,6 @@
         "Zenn"
       ],
       "date": "Sun, 02 Aug 2026 07:13:50 GMT"
-    },
-    {
-      "id": "edb-9bdf9aa505",
-      "source": "msf",
-      "title": "[webapps] Krayin CRM v2.2.x - Authenticated Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52629",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-c29e4f3a23",
-      "source": "msf",
-      "title": "[webapps] Atarim WordPress Plugin  4.2.2 - Sensitive Information Exposure",
-      "url": "https://www.exploit-db.com/exploits/52628",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-8d61b06af7",
-      "source": "msf",
-      "title": "[webapps] Langflow 1.9.0 - RCE",
-      "url": "https://www.exploit-db.com/exploits/52627",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-143370345c",
-      "source": "msf",
-      "title": "[webapps] Joomla Page Builder CK  3.5.10 -  Arbitrary File Upload",
-      "url": "https://www.exploit-db.com/exploits/52626",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0b3fb20562",
-      "source": "msf",
-      "title": "[webapps] MCPJam Inspector - Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52625",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-04d6169327",
-      "source": "msf",
-      "title": "[local] ProtonVPN v4.4.1 - Unquoted Service Path",
-      "url": "https://www.exploit-db.com/exploits/52624",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-d63c1462cc",
-      "source": "msf",
-      "title": "[webapps] Flowise  3.1.3 - arbitrary code execution",
-      "url": "https://www.exploit-db.com/exploits/52623",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-4893d24fba",
-      "source": "msf",
-      "title": "[remote] Hydra - Stack Buffer Overflow",
-      "url": "https://www.exploit-db.com/exploits/52622",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-de3fae1aef",
-      "source": "msf",
-      "title": "[webapps] Discuz! X5.0 - Authentication Bypass",
-      "url": "https://www.exploit-db.com/exploits/52621",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-d3b8e76e1f",
-      "source": "msf",
-      "title": "[webapps] Tenable Nessus 10.12.1 - SQL Injection",
-      "url": "https://www.exploit-db.com/exploits/52620",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-5af796c5ff",
-      "source": "msf",
-      "title": "[webapps] WordPress Bricks Builder Theme  -  RCE",
-      "url": "https://www.exploit-db.com/exploits/52619",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-00c1612776",
-      "source": "msf",
-      "title": "[remote] iOS Bluetooth PAN Exploit - Ethernet Gateway without Adapter",
-      "url": "https://www.exploit-db.com/exploits/52618",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-36aec9a13b",
-      "source": "msf",
-      "title": "[webapps] Joomla Extension 4.1.4 - PHP Object injection",
-      "url": "https://www.exploit-db.com/exploits/52617",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-d1fd93824d",
-      "source": "msf",
-      "title": "[webapps] Pulpy 0.1.1-Beta - Filesystem Sandbox Bypass",
-      "url": "https://www.exploit-db.com/exploits/52616",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-ad7f95cccd",
-      "source": "msf",
-      "title": "[local] MEmu Android Emulator 9.2.7.0 - Local Privilege Escalation",
-      "url": "https://www.exploit-db.com/exploits/52615",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Mon, 06 Jul 2026 00:00:00 +0000"
     }
   ]
 }

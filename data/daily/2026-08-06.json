@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T15:16:30.620518+00:00",
-  "total_articles": 53,
-  "urgent_count": 3,
+  "generated_at": "2026-08-06T22:53:29.497067+00:00",
+  "total_articles": 40,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Show HN: demake – one source project compiles to any retro game console ROM",
@@ -17,65 +17,58 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-06T04:02:28+00:00"
-    },
-    {
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-08-05T17:23:25+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 34,
       "top_items": [
         {
-          "title": "Discovery Loop",
-          "url": "https://www.discoveryloop.com/",
-          "score": 829,
+          "title": "Mario Meets Pareto",
+          "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+          "score": 822,
           "source": "hn",
           "severity": null,
-          "date": "2026-08-05T16:19:44+00:00"
-        },
-        {
-          "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-          "score": 747,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-05T16:05:31+00:00"
-        },
-        {
-          "title": "Zed DeltaDB",
-          "url": "https://zed.dev/deltadb",
-          "score": 485,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-05T18:52:54+00:00"
+          "date": "2026-08-06T11:24:53+00:00"
         },
         {
           "title": "Crime Pays but Botany Doesn't",
           "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-          "score": 428,
+          "score": 630,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T04:46:35+00:00"
         },
         {
-          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-          "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-          "score": 368,
+          "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+          "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+          "score": 375,
           "source": "hn",
           "severity": null,
-          "date": "2026-08-05T18:18:56+00:00"
+          "date": "2026-08-06T18:44:49+00:00"
+        },
+        {
+          "title": "GitHub Actions and Pages are experiencing degraded availability",
+          "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+          "score": 274,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-06T15:49:38+00:00"
+        },
+        {
+          "title": "Nashville uses eminent domain to block data center near zoo",
+          "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+          "score": 258,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-06T02:15:14+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "【前編】AI駆動開発、用語で挫折していませんか？ ——歴史をたどれば「Skills」も「Hooks」も一本の線でつながる",
