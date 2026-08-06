@@ -1,14 +1,13 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-06T07:04:32.277259+00:00",
-  "total_articles": 21,
+  "generated_at": "2026-08-06T08:17:49.220370+00:00",
+  "total_articles": 18,
   "source_counts": {
     "project": 11,
-    "hn": 9,
-    "zennqiita": 1
+    "hn": 7
   },
   "severity_counts": {
-    "critical": 2
+    "critical": 1
   },
   "top_articles": [
     {
@@ -33,30 +32,9 @@
       "date": "2026-07-31T23:13:03+00:00"
     },
     {
-      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
-      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-      "score": 78,
-      "source": "hn",
-      "date": "2026-07-31T18:14:48+00:00"
-    },
-    {
-      "title": "Don't stop early: Case-folding source code at memory speed",
-      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-      "score": 59,
-      "source": "hn",
-      "date": "2026-07-31T20:07:06+00:00"
-    },
-    {
-      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-      "url": "https://arxiv.org/abs/2607.28233",
-      "score": 49,
-      "source": "hn",
-      "date": "2026-07-31T20:44:29+00:00"
-    },
-    {
       "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
       "url": "https://quantego.org/",
-      "score": 16,
+      "score": 19,
       "source": "hn",
       "date": "2026-07-30T16:35:08+00:00"
     },
@@ -68,6 +46,13 @@
       "date": "2026-07-31T21:08:05+00:00"
     },
     {
+      "title": "Morioka Shoten",
+      "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
+      "score": 6,
+      "source": "hn",
+      "date": "2026-07-31T23:14:08+00:00"
+    },
+    {
       "title": "Loops (YC W22) Is Hiring a Product Educator",
       "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
       "score": 1,
@@ -76,13 +61,6 @@
     }
   ],
   "security_highlights": [
-    {
-      "title": "Don't stop early: Case-folding source code at memory speed",
-      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-07-31T20:07:06+00:00"
-    },
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
       "url": "https://dev.to/pyhacksecgp/htb-orion-craftcms-rce-a-reverse-shell-that-wouldnt-connect-and-a-telnetd-auth-bypass-4nj2",
