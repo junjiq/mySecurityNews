@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T03:03:35.743755+00:00",
-  "total_articles": 70,
+  "generated_at": "2026-08-06T04:34:01.652536+00:00",
+  "total_articles": 66,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 64,
+      "count": 63,
       "top_items": [
         {
           "title": "Discovery Loop",
           "url": "https://www.discoveryloop.com/",
-          "score": 624,
+          "score": 652,
           "source": "hn",
           "severity": null,
           "date": "2026-08-05T16:19:44+00:00"
@@ -42,7 +42,7 @@
         {
           "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
           "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-          "score": 508,
+          "score": 547,
           "source": "hn",
           "severity": null,
           "date": "2026-08-05T16:05:31+00:00"
@@ -50,10 +50,18 @@
         {
           "title": "Cloudflare OS: an open platform for agents, apps, and work",
           "url": "https://blog.cloudflare.com/cloudflare-os/",
-          "score": 482,
+          "score": 501,
           "source": "hn",
           "severity": null,
           "date": "2026-08-05T13:58:53+00:00"
+        },
+        {
+          "title": "Zed DeltaDB",
+          "url": "https://zed.dev/deltadb",
+          "score": 340,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-05T18:52:54+00:00"
         },
         {
           "title": "Google DeepMind CEO Demis Hassabis is stepping down",
@@ -62,20 +70,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-05T16:05:37+00:00"
-        },
-        {
-          "title": "Zed DeltaDB",
-          "url": "https://zed.dev/deltadb",
-          "score": 324,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-05T18:52:54+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 3,
       "top_items": [
         {
           "title": "新人エンジニア、定年まで続く勉強量に震えてやばいと思った話",
@@ -100,22 +100,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-05T15:28:02+09:00"
-        },
-        {
-          "title": "Bedrock Tool UseでAIロボットを動かしたらかなり気分屋だった",
-          "url": "https://qiita.com/R-You/items/8ee108b6b1f8c4a191c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-05T13:13:37+09:00"
-        },
-        {
-          "title": "新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる",
-          "url": "https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-05T12:51:16+09:00"
         }
       ]
     }
