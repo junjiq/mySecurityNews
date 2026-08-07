@@ -1,26 +1,33 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-07T09:48:23.221910+00:00",
-  "total_articles": 13,
+  "generated_at": "2026-08-07T10:19:19.360804+00:00",
+  "total_articles": 14,
   "source_counts": {
     "project": 11,
-    "hn": 2
+    "hn": 3
   },
   "severity_counts": {
     "critical": 1
   },
   "top_articles": [
     {
+      "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+      "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+      "score": 163,
+      "source": "hn",
+      "date": "2026-07-31T07:37:13+00:00"
+    },
+    {
       "title": "Atomic Clocks",
       "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
-      "score": 61,
+      "score": 67,
       "source": "hn",
       "date": "2026-07-31T21:58:03+00:00"
     },
     {
       "title": "Parsers don't have to be complicated",
       "url": "https://bkaradzic.github.io/posts/scanner/",
-      "score": 28,
+      "score": 39,
       "source": "hn",
       "date": "2026-07-29T11:15:50+00:00"
     }
