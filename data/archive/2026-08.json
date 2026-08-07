@@ -1,13 +1,13 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-07T18:17:01.821850+00:00",
+  "generated_at": "2026-08-07T18:47:05.479997+00:00",
   "total_articles": 449,
   "source_counts": {
-    "hn": 367,
-    "zennqiita": 82
+    "hn": 368,
+    "zennqiita": 81
   },
   "severity_counts": {
-    "critical": 16,
+    "critical": 15,
     "medium": 2,
     "high": 2
   },
@@ -50,7 +50,7 @@
     {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 831,
+      "score": 839,
       "source": "hn",
       "date": "2026-08-06T20:23:11+00:00"
     },
@@ -90,6 +90,13 @@
       "date": "2026-08-03T11:28:54+00:00"
     },
     {
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "score": 634,
+      "source": "hn",
+      "date": "2026-08-07T00:06:28+00:00"
+    },
+    {
       "title": "Crime Pays but Botany Doesn't",
       "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
       "score": 630,
@@ -97,16 +104,9 @@
       "date": "2026-08-06T04:46:35+00:00"
     },
     {
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 619,
-      "source": "hn",
-      "date": "2026-08-07T00:06:28+00:00"
-    },
-    {
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 619,
+      "score": 621,
       "source": "hn",
       "date": "2026-08-06T17:01:33+00:00"
     },
@@ -272,13 +272,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-02T09:06:33+00:00"
-    },
-    {
-      "title": "CRM: An open-source, agentic-first CRM",
-      "url": "https://github.com/trycompai/crm",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-02T06:59:28+00:00"
     }
   ]
 }
