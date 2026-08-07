@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T01:47:44.338263+00:00",
-  "total_articles": 44,
+  "generated_at": "2026-08-07T03:01:48.834038+00:00",
+  "total_articles": 42,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 34,
       "top_items": [
         {
           "title": "Mario Meets Pareto",
           "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-          "score": 874,
+          "score": 904,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T11:24:53+00:00"
@@ -41,6 +41,14 @@
           "date": "2026-08-06T04:46:35+00:00"
         },
         {
+          "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+          "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+          "score": 418,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-06T20:23:11+00:00"
+        },
+        {
           "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
           "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
           "score": 375,
@@ -49,17 +57,9 @@
           "date": "2026-08-06T18:44:49+00:00"
         },
         {
-          "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-          "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-          "score": 368,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-06T20:23:11+00:00"
-        },
-        {
           "title": "GitHub Actions and Pages are experiencing degraded availability",
           "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-          "score": 322,
+          "score": 342,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T15:49:38+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "システム設計視点の行動経済学 全10回 総復習",
