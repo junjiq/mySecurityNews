@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T18:47:05.439560+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-08-07T19:21:17.878390+00:00",
+  "total_articles": 55,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 50,
+      "count": 51,
       "top_items": [
         {
           "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
           "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-          "score": 839,
+          "score": 850,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T20:23:11+00:00"
@@ -50,10 +50,18 @@
         {
           "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
           "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-          "score": 634,
+          "score": 653,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T00:06:28+00:00"
+        },
+        {
+          "title": "A year of fighting scrapers on my 1.5 million-page website",
+          "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+          "score": 295,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-07T14:51:57+00:00"
         },
         {
           "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
@@ -62,14 +70,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T12:42:58+00:00"
-        },
-        {
-          "title": "99% of My Website Traffic Is Bots",
-          "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-          "score": 264,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-07T14:51:57+00:00"
         }
       ]
     },
