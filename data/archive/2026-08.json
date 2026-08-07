@@ -1,14 +1,14 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-07T11:45:50.082189+00:00",
-  "total_articles": 448,
+  "generated_at": "2026-08-07T12:16:52.577442+00:00",
+  "total_articles": 450,
   "source_counts": {
-    "hn": 362,
+    "hn": 364,
     "zennqiita": 86
   },
   "severity_counts": {
+    "critical": 14,
     "medium": 2,
-    "critical": 13,
     "high": 2
   },
   "top_articles": [
@@ -64,7 +64,7 @@
     {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 714,
+      "score": 724,
       "source": "hn",
       "date": "2026-08-06T20:23:11+00:00"
     },
@@ -146,14 +146,21 @@
       "date": "2026-08-05T18:52:54+00:00"
     },
     {
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 476,
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "score": 483,
       "source": "hn",
-      "date": "2026-08-04T22:22:12+00:00"
+      "date": "2026-08-06T17:01:33+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Certo – An open source platform to deliver Open Badges",
+      "url": "https://github.com/schroedinger-Hat/certo",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-07T09:10:30+00:00"
+    },
     {
       "title": "Show HN: demake – one source project compiles to any retro game console ROM",
       "url": "https://geosona.com/demake/",

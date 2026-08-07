@@ -1,10 +1,10 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-07T11:45:50.082189+00:00",
-  "total_articles": 13,
+  "generated_at": "2026-08-07T12:16:52.577442+00:00",
+  "total_articles": 14,
   "source_counts": {
     "project": 11,
-    "hn": 2
+    "hn": 3
   },
   "severity_counts": {
     "critical": 1
@@ -13,16 +13,23 @@
     {
       "title": "Atomic Clocks",
       "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
-      "score": 90,
+      "score": 98,
       "source": "hn",
       "date": "2026-07-31T21:58:03+00:00"
     },
     {
       "title": "The BBC Tetris Companion",
       "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
-      "score": 18,
+      "score": 20,
       "source": "hn",
       "date": "2026-07-29T02:24:38+00:00"
+    },
+    {
+      "title": "TypeStax: A type scale generator with vintage audio hardware interface",
+      "url": "https://www.typestax.com/",
+      "score": 3,
+      "source": "hn",
+      "date": "2026-07-30T16:46:59+00:00"
     }
   ],
   "security_highlights": [
