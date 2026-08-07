@@ -1,9 +1,16 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T16:47:04.552263+00:00",
-  "total_articles": 47,
-  "urgent_count": 2,
+  "generated_at": "2026-08-07T17:17:33.013806+00:00",
+  "total_articles": 49,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-07T16:39:36+00:00"
+    },
     {
       "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
       "url": "https://textlog.cc/about",
@@ -22,12 +29,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 43,
+      "count": 45,
       "top_items": [
         {
           "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
           "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-          "score": 797,
+          "score": 809,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T20:23:11+00:00"
@@ -41,17 +48,9 @@
           "date": "2026-08-07T10:28:55+00:00"
         },
         {
-          "title": "Taste Is All That's Left",
-          "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-          "score": 592,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-06T17:01:33+00:00"
-        },
-        {
           "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
           "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-          "score": 550,
+          "score": 575,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T00:06:28+00:00"
@@ -63,6 +62,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T18:44:49+00:00"
+        },
+        {
+          "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+          "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+          "score": 295,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-07T12:42:58+00:00"
         }
       ]
     },

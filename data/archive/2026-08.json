@@ -1,13 +1,13 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-07T16:47:04.600811+00:00",
-  "total_articles": 448,
+  "generated_at": "2026-08-07T17:17:33.059966+00:00",
+  "total_articles": 449,
   "source_counts": {
-    "hn": 365,
+    "hn": 366,
     "zennqiita": 83
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 16,
     "medium": 2,
     "high": 2
   },
@@ -57,7 +57,7 @@
     {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 797,
+      "score": 809,
       "source": "hn",
       "date": "2026-08-06T20:23:11+00:00"
     },
@@ -111,6 +111,13 @@
       "date": "2026-08-05T13:58:53+00:00"
     },
     {
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "score": 600,
+      "source": "hn",
+      "date": "2026-08-06T17:01:33+00:00"
+    },
+    {
       "title": "AI-Generated Images Discourage Me from Reading Your Blog",
       "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
       "score": 593,
@@ -118,18 +125,18 @@
       "date": "2026-08-04T11:30:17+00:00"
     },
     {
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 592,
-      "source": "hn",
-      "date": "2026-08-06T17:01:33+00:00"
-    },
-    {
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
       "score": 576,
       "source": "hn",
       "date": "2026-08-04T15:16:22+00:00"
+    },
+    {
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "score": 575,
+      "source": "hn",
+      "date": "2026-08-07T00:06:28+00:00"
     },
     {
       "title": "Karpathy’s Pelican",
@@ -144,16 +151,16 @@
       "score": 561,
       "source": "hn",
       "date": "2026-08-04T12:01:02+00:00"
-    },
-    {
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 550,
-      "source": "hn",
-      "date": "2026-08-07T00:06:28+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-07T16:39:36+00:00"
+    },
     {
       "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
       "url": "https://textlog.cc/about",
