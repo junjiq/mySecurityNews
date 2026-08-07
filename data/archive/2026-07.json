@@ -1,10 +1,10 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-07T12:47:29.783259+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-08-07T13:27:52.440804+00:00",
+  "total_articles": 15,
   "source_counts": {
     "project": 11,
-    "hn": 3
+    "hn": 4
   },
   "severity_counts": {
     "critical": 1
@@ -13,23 +13,30 @@
     {
       "title": "Atomic Clocks",
       "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
-      "score": 102,
+      "score": 107,
       "source": "hn",
       "date": "2026-07-31T21:58:03+00:00"
     },
     {
       "title": "The BBC Tetris Companion",
       "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
-      "score": 26,
+      "score": 30,
       "source": "hn",
       "date": "2026-07-29T02:24:38+00:00"
     },
     {
       "title": "TypeStax: A type scale generator with vintage audio hardware interface",
       "url": "https://www.typestax.com/",
-      "score": 5,
+      "score": 9,
       "source": "hn",
       "date": "2026-07-30T16:46:59+00:00"
+    },
+    {
+      "title": "How to Generate a TLSA Record and Fix the 3 1 1 Mismatch",
+      "url": "https://dmarcguard.io/blog/tlsa-record-setup/",
+      "score": 3,
+      "source": "hn",
+      "date": "2026-07-31T14:00:28+00:00"
     }
   ],
   "security_highlights": [
