@@ -1,9 +1,16 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T14:26:27.316566+00:00",
-  "total_articles": 47,
-  "urgent_count": 1,
+  "generated_at": "2026-08-07T14:48:24.447774+00:00",
+  "total_articles": 48,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+      "url": "https://textlog.cc/about",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-07T10:52:21+00:00"
+    },
     {
       "title": "Show HN: Certo – An open source platform to deliver Open Badges",
       "url": "https://github.com/schroedinger-Hat/certo",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 43,
       "top_items": [
         {
           "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
           "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-          "score": 756,
+          "score": 760,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T20:23:11+00:00"
@@ -28,7 +35,7 @@
         {
           "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
           "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-          "score": 587,
+          "score": 635,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T10:28:55+00:00"
@@ -36,7 +43,7 @@
         {
           "title": "Taste Is All That's Left",
           "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-          "score": 544,
+          "score": 551,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T17:01:33+00:00"
@@ -44,7 +51,7 @@
         {
           "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
           "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-          "score": 458,
+          "score": 471,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T00:06:28+00:00"
@@ -52,7 +59,7 @@
         {
           "title": "GitHub Actions and Pages are experiencing degraded availability",
           "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-          "score": 446,
+          "score": 448,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T15:49:38+00:00"

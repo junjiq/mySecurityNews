@@ -1,13 +1,13 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-07T14:26:27.353466+00:00",
-  "total_articles": 449,
+  "generated_at": "2026-08-07T14:48:24.502507+00:00",
+  "total_articles": 448,
   "source_counts": {
-    "hn": 366,
+    "hn": 365,
     "zennqiita": 83
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "medium": 2,
     "high": 2
   },
@@ -57,7 +57,7 @@
     {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 756,
+      "score": 760,
       "source": "hn",
       "date": "2026-08-06T20:23:11+00:00"
     },
@@ -81,6 +81,13 @@
       "score": 678,
       "source": "hn",
       "date": "2026-08-03T11:28:54+00:00"
+    },
+    {
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "score": 635,
+      "source": "hn",
+      "date": "2026-08-07T10:28:55+00:00"
     },
     {
       "title": "Crime Pays but Botany Doesn't",
@@ -111,13 +118,6 @@
       "date": "2026-08-04T11:30:17+00:00"
     },
     {
-      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "score": 587,
-      "source": "hn",
-      "date": "2026-08-07T10:28:55+00:00"
-    },
-    {
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
       "score": 576,
@@ -141,7 +141,7 @@
     {
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 544,
+      "score": 551,
       "source": "hn",
       "date": "2026-08-06T17:01:33+00:00"
     },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+      "url": "https://textlog.cc/about",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-07T10:52:21+00:00"
+    },
     {
       "title": "Show HN: Certo – An open source platform to deliver Open Badges",
       "url": "https://github.com/schroedinger-Hat/certo",
