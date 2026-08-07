@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T07:30:45.525170+00:00",
-  "total_articles": 41,
+  "generated_at": "2026-08-07T08:24:53.472929+00:00",
+  "total_articles": 46,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 36,
       "top_items": [
         {
           "title": "Mario Meets Pareto",
@@ -28,15 +28,23 @@
         {
           "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
           "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-          "score": 588,
+          "score": 627,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T20:23:11+00:00"
         },
         {
+          "title": "Taste Is All That's Left",
+          "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+          "score": 395,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-06T17:01:33+00:00"
+        },
+        {
           "title": "GitHub Actions and Pages are experiencing degraded availability",
           "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-          "score": 380,
+          "score": 392,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T15:49:38+00:00"
@@ -48,21 +56,45 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T18:44:49+00:00"
-        },
-        {
-          "title": "Taste Is All That's Left",
-          "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-          "score": 364,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-06T17:01:33+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 10,
       "top_items": [
+        {
+          "title": "鍵を渡さず・文脈を可視化する — マルチエージェント管理デスクトップアプリ「moeca」を個人開発している話",
+          "url": "https://qiita.com/can-can/items/ec8cd4dd183e12ac5781?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-07T15:29:31+09:00"
+        },
+        {
+          "title": "Web API設計の現在地2026",
+          "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-07T12:06:02+09:00"
+        },
+        {
+          "title": "AWS検証環境の削除し忘れ対策を、簡易的に自動化してみた！",
+          "url": "https://qiita.com/KoheiMaeno/items/880a89f6cd25a3f115b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-07T09:35:01+09:00"
+        },
+        {
+          "title": "40万件のAI承認を分析したら、見逃し率が3倍違った — 危ないものほど、ちゃんと止められている",
+          "url": "https://qiita.com/jqit_suwa/items/ac7d1201bd14e9a4e1ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-07T08:53:59+09:00"
+        },
         {
           "title": "システム設計視点の行動経済学 全10回 総復習",
           "url": "https://qiita.com/maskot1977/items/198f98dbbdce80c1790e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,38 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-07T01:03:23+09:00"
-        },
-        {
-          "title": "【前編】AI駆動開発、用語で挫折していませんか？ ——歴史をたどれば「Skills」も「Hooks」も一本の線でつながる",
-          "url": "https://qiita.com/shou-dev19/items/e1583af614a573e4b245?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-06T23:12:51+09:00"
-        },
-        {
-          "title": "Data CatalogでObject Storage内のCSVとParquetを自動カタログ化してみてみた",
-          "url": "https://qiita.com/shirok/items/d23855d5634f528f796c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-06T21:58:05+09:00"
-        },
-        {
-          "title": "【さくらのAI Engine】 Powershellのソースコードレビューをしてみた！",
-          "url": "https://qiita.com/nogizakapython/items/45d77eea55b895946c71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-06T17:25:36+09:00"
-        },
-        {
-          "title": "グラフエンジニアリング を知ろう-これからも増えてくOOエンジニアリングに我々はどう付き合うべきか",
-          "url": "https://qiita.com/Syoitu/items/e529a09b3d840c85c339?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-06T16:35:54+09:00"
         }
       ]
     }
