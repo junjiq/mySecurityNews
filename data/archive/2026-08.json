@@ -1,13 +1,13 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-07T19:47:26.762207+00:00",
+  "generated_at": "2026-08-07T20:15:43.137206+00:00",
   "total_articles": 450,
   "source_counts": {
-    "hn": 370,
-    "zennqiita": 80
+    "hn": 365,
+    "zennqiita": 85
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 14,
     "medium": 2,
     "high": 2
   },
@@ -83,6 +83,13 @@
       "date": "2026-08-03T14:15:47+00:00"
     },
     {
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "score": 681,
+      "source": "hn",
+      "date": "2026-08-07T00:06:28+00:00"
+    },
+    {
       "title": "SQLite Critical CVEs or LLM Slop?",
       "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
       "score": 678,
@@ -90,16 +97,9 @@
       "date": "2026-08-03T11:28:54+00:00"
     },
     {
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 669,
-      "source": "hn",
-      "date": "2026-08-07T00:06:28+00:00"
-    },
-    {
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 639,
+      "score": 640,
       "source": "hn",
       "date": "2026-08-06T17:01:33+00:00"
     },
@@ -265,13 +265,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-02T19:40:19+00:00"
-    },
-    {
-      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-02T09:06:33+00:00"
     }
   ]
 }

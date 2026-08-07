@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T19:47:26.716807+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-08-07T20:15:43.089910+00:00",
+  "total_articles": 64,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 53,
       "top_items": [
         {
           "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
@@ -50,7 +50,7 @@
         {
           "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
           "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-          "score": 669,
+          "score": 681,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T00:06:28+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "A year of fighting scrapers on my 1.5 million-page website",
           "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-          "score": 307,
+          "score": 314,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T14:51:57+00:00"
@@ -75,39 +75,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 11,
       "top_items": [
         {
-          "title": "鍵を渡さず・文脈を可視化する — マルチエージェント管理デスクトップアプリ「moeca」を個人開発している話",
-          "url": "https://qiita.com/can-can/items/ec8cd4dd183e12ac5781?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "GPT 5.6 on Bedrockでサーバーサイドツールを使う with AgentCoreゲートウェイ",
+          "url": "https://qiita.com/moritalous/items/1968a359d8eb54585421?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-07T15:29:31+09:00"
+          "date": "2026-08-07T23:32:58+09:00"
         },
         {
-          "title": "Web API設計の現在地2026",
-          "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "kaggle ROGIIコンペ 6位 - 勘違いからソロ金メダルでマスターへ",
+          "url": "https://qiita.com/kosakae256/items/4190925a724b436eb303?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-07T12:06:02+09:00"
+          "date": "2026-08-07T19:52:32+09:00"
         },
         {
-          "title": "AWS検証環境の削除し忘れ対策を、簡易的に自動化してみた！",
-          "url": "https://qiita.com/KoheiMaeno/items/880a89f6cd25a3f115b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AIで完成度を上げたい、でも人間味のない完璧すぎる作品は嫌だ",
+          "url": "https://qiita.com/sumomoo/items/cfe3c47453968b2d3c29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-07T09:35:01+09:00"
+          "date": "2026-08-07T18:20:59+09:00"
         },
         {
-          "title": "40万件のAI承認を分析したら、見逃し率が3倍違った — 危ないものほど、ちゃんと止められている",
-          "url": "https://qiita.com/jqit_suwa/items/ac7d1201bd14e9a4e1ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "OS？カーネル開発？聞いたことありませんねその単語🤔【ITパスポート】",
+          "url": "https://qiita.com/prumnn/items/4da8a4aa027730db23e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-07T08:53:59+09:00"
+          "date": "2026-08-07T18:18:41+09:00"
+        },
+        {
+          "title": "新卒1年目の開発未経験がタスク管理システムを作った話",
+          "url": "https://qiita.com/kt67_cr7/items/a693ab48718bc6e3e880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-07T17:50:24+09:00"
         }
       ]
     }
