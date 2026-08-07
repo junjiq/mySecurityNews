@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T06:31:53.922307+00:00",
-  "total_articles": 40,
+  "generated_at": "2026-08-07T07:30:45.525170+00:00",
+  "total_articles": 41,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 33,
+      "count": 35,
       "top_items": [
         {
           "title": "Mario Meets Pareto",
           "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-          "score": 982,
+          "score": 1010,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T11:24:53+00:00"
@@ -28,10 +28,18 @@
         {
           "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
           "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-          "score": 545,
+          "score": 588,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T20:23:11+00:00"
+        },
+        {
+          "title": "GitHub Actions and Pages are experiencing degraded availability",
+          "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+          "score": 380,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-06T15:49:38+00:00"
         },
         {
           "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
@@ -42,17 +50,9 @@
           "date": "2026-08-06T18:44:49+00:00"
         },
         {
-          "title": "GitHub Actions and Pages are experiencing degraded availability",
-          "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-          "score": 374,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-06T15:49:38+00:00"
-        },
-        {
           "title": "Taste Is All That's Left",
           "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-          "score": 332,
+          "score": 364,
           "source": "hn",
           "severity": null,
           "date": "2026-08-06T17:01:33+00:00"
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 7,
+      "count": 6,
       "top_items": [
         {
           "title": "システム設計視点の行動経済学 全10回 総復習",
