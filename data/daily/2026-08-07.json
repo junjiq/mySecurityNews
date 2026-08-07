@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T20:15:43.089910+00:00",
-  "total_articles": 64,
+  "generated_at": "2026-08-07T20:45:23.999430+00:00",
+  "total_articles": 62,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,16 +29,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 51,
       "top_items": [
-        {
-          "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-          "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-          "score": 856,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-06T20:23:11+00:00"
-        },
         {
           "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
           "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
@@ -58,7 +50,7 @@
         {
           "title": "A year of fighting scrapers on my 1.5 million-page website",
           "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-          "score": 314,
+          "score": 325,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T14:51:57+00:00"
@@ -70,6 +62,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T12:42:58+00:00"
+        },
+        {
+          "title": "Oracle bans AI-generated code from OpenJDK",
+          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+          "score": 259,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-07T17:36:30+00:00"
         }
       ]
     },
