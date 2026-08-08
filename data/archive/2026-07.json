@@ -1,23 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-08T18:08:14.102386+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-08-08T18:45:20.291017+00:00",
+  "total_articles": 10,
   "source_counts": {
-    "project": 10,
-    "hn": 1
+    "project": 10
   },
   "severity_counts": {
     "critical": 1
   },
-  "top_articles": [
-    {
-      "title": "k-Coloring is Faster than Computing the Chromatic Number",
-      "url": "https://arxiv.org/abs/2607.25973",
-      "score": 49,
-      "source": "hn",
-      "date": "2026-07-31T06:00:34+00:00"
-    }
-  ],
+  "top_articles": [],
   "security_highlights": [
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
