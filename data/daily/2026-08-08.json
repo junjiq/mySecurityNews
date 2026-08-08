@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T10:43:42.971731+00:00",
-  "total_articles": 48,
-  "urgent_count": 2,
+  "generated_at": "2026-08-08T11:08:26.542932+00:00",
+  "total_articles": 45,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -10,24 +10,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-07T16:39:36+00:00"
-    },
-    {
-      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
-      "url": "https://textlog.cc/about",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-07T10:52:21+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 40,
+      "count": 38,
       "top_items": [
         {
           "title": "What happens if an entire class of workers loses faith in their careers",
           "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-          "score": 690,
+          "score": 702,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T12:42:27+00:00"
@@ -35,7 +28,7 @@
         {
           "title": "DeepSeek V4 Flash 0731",
           "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-          "score": 643,
+          "score": 646,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T17:56:20+00:00"
@@ -43,7 +36,7 @@
         {
           "title": "Oracle bans AI-generated code from OpenJDK",
           "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "score": 474,
+          "score": 479,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T17:36:30+00:00"
@@ -59,7 +52,7 @@
         {
           "title": "Assembly Hall of Shame",
           "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-          "score": 349,
+          "score": 354,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T18:01:30+00:00"
@@ -68,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 8,
+      "count": 7,
       "top_items": [
         {
           "title": "Amazon DynamoDBのリアルタイムベクトル検索機能をちょっと整理する",
