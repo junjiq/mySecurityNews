@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T20:07:21.940451+00:00",
-  "total_articles": 36,
+  "generated_at": "2026-08-08T20:42:43.158731+00:00",
+  "total_articles": 41,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 31,
+      "count": 29,
       "top_items": [
         {
           "title": "The Nixpkgs core team has disbanded",
@@ -34,6 +34,14 @@
           "date": "2026-08-07T22:24:27+00:00"
         },
         {
+          "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "score": 327,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-08T09:18:50+00:00"
+        },
+        {
           "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
           "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
           "score": 319,
@@ -42,27 +50,51 @@
           "date": "2026-08-08T01:49:11+00:00"
         },
         {
-          "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-          "score": 318,
+          "title": "\"Code was never the hard part\" is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "score": 301,
           "source": "hn",
           "severity": null,
-          "date": "2026-08-08T09:18:50+00:00"
-        },
-        {
-          "title": "Hardware backdoors in some x86 CPUs",
-          "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-          "score": 288,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-08T07:04:51+00:00"
+          "date": "2026-08-08T14:32:33+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 11,
       "top_items": [
+        {
+          "title": "LTできたらバンジー飛べる",
+          "url": "https://qiita.com/tanahiro2010/items/e536eabc73691f87dc0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T21:27:46+09:00"
+        },
+        {
+          "title": "ネットワーク分離における端末内論理分離の系譜",
+          "url": "https://qiita.com/k2_naka/items/024172f90e049d5643ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T19:25:22+09:00"
+        },
+        {
+          "title": "WindowsでDNSサーバーを構築して、オンプレ想定VPCからGenU閉域モードへ接続してみた",
+          "url": "https://qiita.com/infra365/items/c350d66f0575cd1303f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T18:39:20+09:00"
+        },
+        {
+          "title": "今更だけど、DynamoDBの設計の勘所をサクッとまとめてみた",
+          "url": "https://qiita.com/miruky/items/c7beb2fbed6492d195d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T17:58:27+09:00"
+        },
         {
           "title": "Amazon DynamoDBのリアルタイムベクトル検索機能をちょっと整理する",
           "url": "https://qiita.com/Syoitu/items/068db63a8bf3bb961b2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,30 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-08T15:15:11+09:00"
-        },
-        {
-          "title": "SES現場で信頼を失わない報告・確認・問題解析の基本",
-          "url": "https://qiita.com/s_horikoshi/items/6798759ebad83c027ac1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-08T14:45:10+09:00"
-        },
-        {
-          "title": "[AWS]ベクトル対応した DynamoDB のエンベディング戦略を考えてみる",
-          "url": "https://qiita.com/kikuziro/items/7eb821ebe7f15fc0fdd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-08T14:22:22+09:00"
-        },
-        {
-          "title": "担当者の長期休暇でデータが1件に！？絶望的な状況を時系列ベイズで乗り切る方法を教えます",
-          "url": "https://qiita.com/Gotoubun_taiwan/items/e35a4b45a2c1c313fbe9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-08T06:46:20+09:00"
         }
       ]
     },
