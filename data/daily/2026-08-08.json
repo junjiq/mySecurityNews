@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T07:46:25.860970+00:00",
-  "total_articles": 51,
+  "generated_at": "2026-08-08T08:13:08.595168+00:00",
+  "total_articles": 58,
   "urgent_count": 3,
   "urgent_items": [
     {
@@ -29,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 44,
       "top_items": [
         {
           "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
@@ -42,7 +42,7 @@
         {
           "title": "DeepSeek V4 Flash 0731",
           "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-          "score": 586,
+          "score": 597,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T17:56:20+00:00"
@@ -50,7 +50,7 @@
         {
           "title": "What happens if an entire class of workers loses faith in their careers",
           "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-          "score": 583,
+          "score": 597,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T12:42:27+00:00"
@@ -58,7 +58,7 @@
         {
           "title": "Oracle bans AI-generated code from OpenJDK",
           "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "score": 449,
+          "score": 459,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T17:36:30+00:00"
@@ -75,8 +75,40 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 14,
       "top_items": [
+        {
+          "title": "Amazon DynamoDBのリアルタイムベクトル検索機能をちょっと整理する",
+          "url": "https://qiita.com/Syoitu/items/068db63a8bf3bb961b2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T15:15:11+09:00"
+        },
+        {
+          "title": "SES現場で信頼を失わない報告・確認・問題解析の基本",
+          "url": "https://qiita.com/s_horikoshi/items/6798759ebad83c027ac1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T14:45:10+09:00"
+        },
+        {
+          "title": "[AWS]ベクトル対応した DynamoDB のエンベディング戦略を考えてみる",
+          "url": "https://qiita.com/kikuziro/items/7eb821ebe7f15fc0fdd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T14:22:22+09:00"
+        },
+        {
+          "title": "担当者の長期休暇でデータが1件に！？絶望的な状況を時系列ベイズで乗り切る方法を教えます",
+          "url": "https://qiita.com/Gotoubun_taiwan/items/e35a4b45a2c1c313fbe9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T06:46:20+09:00"
+        },
         {
           "title": "GPT 5.6 on Bedrockでサーバーサイドツールを使う with AgentCoreゲートウェイ",
           "url": "https://qiita.com/moritalous/items/1968a359d8eb54585421?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -84,38 +116,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-07T23:32:58+09:00"
-        },
-        {
-          "title": "kaggle ROGIIコンペ 6位 - 勘違いからソロ金メダルでマスターへ",
-          "url": "https://qiita.com/kosakae256/items/4190925a724b436eb303?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-07T19:52:32+09:00"
-        },
-        {
-          "title": "AIで完成度を上げたい、でも人間味のない完璧すぎる作品は嫌だ",
-          "url": "https://qiita.com/sumomoo/items/cfe3c47453968b2d3c29?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-07T18:20:59+09:00"
-        },
-        {
-          "title": "OS？カーネル開発？聞いたことありませんねその単語🤔【ITパスポート】",
-          "url": "https://qiita.com/prumnn/items/4da8a4aa027730db23e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-07T18:18:41+09:00"
-        },
-        {
-          "title": "新卒1年目の開発未経験がタスク管理システムを作った話",
-          "url": "https://qiita.com/kt67_cr7/items/a693ab48718bc6e3e880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-07T17:50:24+09:00"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T07:46:25.808663+00:00",
+  "updated_at": "2026-08-08T08:13:08.527943+00:00",
   "count": 500,
   "items": [
     {
@@ -7,11 +7,50 @@
       "source": "hn",
       "title": "Hardware backdoors in some x86 CPUs",
       "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-      "score": 7,
-      "comments": 1,
+      "score": 26,
+      "comments": 2,
       "author": "epestr",
       "tags": [],
       "date": "2026-08-08T07:04:51+00:00"
+    },
+    {
+      "id": "qiita-131307d13d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Amazon DynamoDBのリアルタイムベクトル検索機能をちょっと整理する",
+      "url": "https://qiita.com/Syoitu/items/068db63a8bf3bb961b2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Syoitu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-08T15:15:11+09:00"
+    },
+    {
+      "id": "qiita-845eff6e35",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "SES現場で信頼を失わない報告・確認・問題解析の基本",
+      "url": "https://qiita.com/s_horikoshi/items/6798759ebad83c027ac1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "s_horikoshi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-08T14:45:10+09:00"
+    },
+    {
+      "id": "qiita-fa6f0e01ff",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "[AWS]ベクトル対応した DynamoDB のエンベディング戦略を考えてみる",
+      "url": "https://qiita.com/kikuziro/items/7eb821ebe7f15fc0fdd0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kikuziro",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-08T14:22:22+09:00"
     },
     {
       "id": "hn-49218707",
@@ -29,8 +68,8 @@
       "source": "hn",
       "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
       "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "score": 207,
-      "comments": 35,
+      "score": 213,
+      "comments": 36,
       "author": "wglb",
       "tags": [],
       "date": "2026-08-08T01:49:11+00:00"
@@ -40,8 +79,8 @@
       "source": "hn",
       "title": "The Nixpkgs core team has disbanded",
       "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "score": 270,
-      "comments": 125,
+      "score": 280,
+      "comments": 130,
       "author": "Meleagris",
       "tags": [],
       "date": "2026-08-08T01:12:45+00:00"
@@ -51,11 +90,24 @@
       "source": "hn",
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
       "url": "https://genesisopenmodels.anl.gov/",
-      "score": 207,
-      "comments": 68,
+      "score": 214,
+      "comments": 71,
       "author": "moelf",
       "tags": [],
       "date": "2026-08-07T22:24:27+00:00"
+    },
+    {
+      "id": "qiita-6ae51173b9",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "担当者の長期休暇でデータが1件に！？絶望的な状況を時系列ベイズで乗り切る方法を教えます",
+      "url": "https://qiita.com/Gotoubun_taiwan/items/e35a4b45a2c1c313fbe9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Gotoubun_taiwan",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-08T06:46:20+09:00"
     },
     {
       "id": "hn-49216389",
@@ -73,8 +125,8 @@
       "source": "hn",
       "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
       "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-      "score": 180,
-      "comments": 115,
+      "score": 183,
+      "comments": 119,
       "author": "Bender",
       "tags": [],
       "date": "2026-08-07T21:19:57+00:00"
@@ -106,8 +158,8 @@
       "source": "hn",
       "title": "Psychological Warfare in Reverse Engineering (2015)",
       "url": "https://github.com/xoreaxeaxeax/repsych",
-      "score": 65,
-      "comments": 3,
+      "score": 67,
+      "comments": 4,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-08-07T18:51:45+00:00"
@@ -117,8 +169,8 @@
       "source": "hn",
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "url": "https://ancientlibrary.net/",
-      "score": 196,
-      "comments": 58,
+      "score": 199,
+      "comments": 61,
       "author": "aagha",
       "tags": [],
       "date": "2026-08-07T18:51:14+00:00"
@@ -128,8 +180,8 @@
       "source": "hn",
       "title": "Managing AI Coding Costs at Scale",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "score": 221,
-      "comments": 195,
+      "score": 229,
+      "comments": 196,
       "author": "moonikakiss",
       "tags": [],
       "date": "2026-08-07T18:25:17+00:00"
@@ -150,8 +202,8 @@
       "source": "hn",
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "score": 321,
-      "comments": 78,
+      "score": 329,
+      "comments": 83,
       "author": "piotrgrabowski",
       "tags": [],
       "date": "2026-08-07T18:01:30+00:00"
@@ -172,8 +224,8 @@
       "source": "hn",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 586,
-      "comments": 351,
+      "score": 597,
+      "comments": 356,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-07T17:56:20+00:00"
@@ -194,7 +246,7 @@
       "source": "hn",
       "title": "Oracle bans AI-generated code from OpenJDK",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 449,
+      "score": 459,
       "comments": 308,
       "author": "delduca",
       "tags": [],
@@ -227,7 +279,7 @@
       "source": "hn",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 178,
+      "score": 180,
       "comments": 174,
       "author": "artninja1988",
       "tags": [],
@@ -261,7 +313,7 @@
       "source": "hn",
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "score": 161,
+      "score": 165,
       "comments": 37,
       "author": "MarcoDewey",
       "tags": [],
@@ -347,6 +399,19 @@
       "date": "2026-08-07T14:02:15+00:00"
     },
     {
+      "id": "qiita-d017e0c92d",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "未経験薬剤師が3ヶ月150時間でCISSPに合格した",
+      "url": "https://qiita.com/kentyo0813/items/c9829708187eef262d7b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kentyo0813",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-07T22:17:30+09:00"
+    },
+    {
       "id": "hn-49209921",
       "source": "hn",
       "title": "The web server deployment model breaks at hobby scale",
@@ -362,8 +427,8 @@
       "source": "hn",
       "title": "Radical Study Suggests Life on Earth Arose Twice",
       "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-      "score": 136,
-      "comments": 96,
+      "score": 138,
+      "comments": 97,
       "author": "jnord",
       "tags": [],
       "date": "2026-08-07T12:45:08+00:00"
@@ -384,8 +449,8 @@
       "source": "hn",
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "score": 583,
-      "comments": 668,
+      "score": 597,
+      "comments": 677,
       "author": "RickJWagner",
       "tags": [],
       "date": "2026-08-07T12:42:27+00:00"
@@ -424,11 +489,24 @@
       "date": "2026-08-07T11:19:15+00:00"
     },
     {
+      "id": "qiita-f0a80d47d6",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "わかるようでわからないssh接続について",
+      "url": "https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "hrfm1623",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-07T20:10:01+09:00"
+    },
+    {
       "id": "hn-49208535",
       "source": "hn",
       "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
       "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "score": 275,
+      "score": 280,
       "comments": 136,
       "author": "poly2it",
       "tags": [],
@@ -464,7 +542,7 @@
       "source": "hn",
       "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
       "url": "https://blog.cloudflare.com/kitesurf/",
-      "score": 185,
+      "score": 190,
       "comments": 49,
       "author": "m3h",
       "tags": [],
@@ -491,6 +569,19 @@
       "author": "defrost",
       "tags": [],
       "date": "2026-08-07T10:28:55+00:00"
+    },
+    {
+      "id": "qiita-be35da3d20",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "検証環境にEC2 Spot Instanceは最適解なのか？コストと可用性の観点から考えてみた",
+      "url": "https://qiita.com/01_Riri_53/items/047d2c4867e9d21316bb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "01_Riri_53",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-07T18:24:11+09:00"
     },
     {
       "id": "qiita-18fec5cef1",
@@ -555,6 +646,19 @@
       "date": "2026-08-07T17:50:24+09:00"
     },
     {
+      "id": "qiita-253c6f4c16",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "CSS初心者向け part2：レイアウトを整えるCSSを覚えよう",
+      "url": "https://qiita.com/nt_matsuda56/items/5616f18a93920c74ade6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nt_matsuda56",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-07T17:34:28+09:00"
+    },
+    {
       "id": "qiita-0429f5ee85",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -568,12 +672,25 @@
       "date": "2026-08-07T17:14:06+09:00"
     },
     {
+      "id": "qiita-736bca6704",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【AWS入門】ハンズオンで学んだ5つのサービス（VPC・EC2・RDS・ELB・S3）を整理してみた",
+      "url": "https://qiita.com/NT_seki/items/1dcc68ba7de69473d46d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "NT_seki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-07T17:05:08+09:00"
+    },
+    {
       "id": "hn-49207236",
       "source": "hn",
       "title": "2027 memory capacity is reportedly sold out",
       "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "score": 334,
-      "comments": 305,
+      "score": 341,
+      "comments": 308,
       "author": "inigyou",
       "tags": [],
       "date": "2026-08-07T07:58:24+00:00"
@@ -1314,12 +1431,25 @@
       "date": "2026-08-06T09:29:04+09:00"
     },
     {
+      "id": "qiita-2a3c0c1b2f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "設計図の描き方入門：Mermaid記法とER図・シーケンス図・クラス図(UML)の基礎",
+      "url": "https://qiita.com/mame_hiro416/items/2dd4a428bdf6473c712c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "mame_hiro416",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-06T07:02:58+09:00"
+    },
+    {
       "id": "hn-49189457",
       "source": "hn",
       "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
       "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "score": 131,
-      "comments": 21,
+      "score": 149,
+      "comments": 22,
       "author": "aanet",
       "tags": [],
       "date": "2026-08-05T21:44:42+00:00"
@@ -2759,8 +2889,8 @@
       "source": "hn",
       "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
       "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/",
-      "score": 55,
-      "comments": 23,
+      "score": 64,
+      "comments": 25,
       "author": "yk",
       "tags": [],
       "date": "2026-08-04T16:32:08+00:00"
@@ -2928,8 +3058,8 @@
       "source": "hn",
       "title": "How the 'fecal revolution' changed Earth's ecosystems",
       "url": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
-      "score": 9,
-      "comments": 0,
+      "score": 11,
+      "comments": 2,
       "author": "the-mitr",
       "tags": [],
       "date": "2026-08-04T14:33:12+00:00"
@@ -2939,7 +3069,7 @@
       "source": "hn",
       "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
       "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
-      "score": 9,
+      "score": 10,
       "comments": 0,
       "author": "denismenace",
       "tags": [],
@@ -4773,7 +4903,7 @@
       "source": "hn",
       "title": "Games at the press of a button: The Rip-O-Bot (1989)",
       "url": "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/",
-      "score": 31,
+      "score": 32,
       "comments": 9,
       "author": "msephton",
       "tags": [],
@@ -5001,125 +5131,11 @@
       "date": "2026-08-02T16:19:17+00:00"
     },
     {
-      "id": "hn-49145590",
-      "source": "hn",
-      "title": "How the words we teach English language learners changed",
-      "url": "https://pudding.cool/2026/07/essential-words/",
-      "score": 211,
-      "comments": 158,
-      "author": "c-oreills",
-      "tags": [],
-      "date": "2026-08-02T15:41:08+00:00"
-    },
-    {
-      "id": "qiita-2cffb722c6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "M5Stack Dial を VS Code ＋ PlatformIO ＋ M5Unified で扱うお試しを軽くやってみる",
-      "url": "https://qiita.com/youtoy/items/d1308fb955b18a4f6ba7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "youtoy",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-03T00:27:02+09:00"
-    },
-    {
-      "id": "hn-49145480",
-      "source": "hn",
-      "title": "Mosh in a Lift (2012)",
-      "url": "https://mosh.org/elevator.txt",
-      "score": 24,
-      "comments": 8,
-      "author": "gavide",
-      "tags": [],
-      "date": "2026-08-02T15:26:47+00:00"
-    },
-    {
-      "id": "hn-49145259",
-      "source": "hn",
-      "title": "Thoroughly Understanding C++ ABI",
-      "url": "https://ykiko.me/en/articles/692886292/",
-      "score": 40,
-      "comments": 37,
-      "author": "rramadass",
-      "tags": [],
-      "date": "2026-08-02T14:58:08+00:00"
-    },
-    {
-      "id": "hn-49145201",
-      "source": "hn",
-      "title": "A Rant About “Technology” (2005)",
-      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-      "score": 103,
-      "comments": 59,
-      "author": "jamesgill",
-      "tags": [],
-      "date": "2026-08-02T14:51:18+00:00"
-    },
-    {
-      "id": "hn-49145037",
-      "source": "hn",
-      "title": "Video2NAND – Abusing video codecs for great computational power",
-      "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
-      "score": 69,
-      "comments": 15,
-      "author": "firer",
-      "tags": [],
-      "date": "2026-08-02T14:29:01+00:00"
-    },
-    {
-      "id": "qiita-ffa73c633d",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Claude Code × AWS MCP Serverによるマルチアカウント操作",
-      "url": "https://qiita.com/eureka_/items/cf4b7690dab316cceb1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "eureka_",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-02T22:24:22+09:00"
-    },
-    {
-      "id": "hn-49144273",
-      "source": "hn",
-      "title": "Has the New Cocaine Arrived?",
-      "url": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
-      "score": 14,
-      "comments": 5,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-08-02T13:05:06+00:00"
-    },
-    {
-      "id": "hn-49143967",
-      "source": "hn",
-      "title": "Twenty Years of RISC OS Open",
-      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "score": 153,
-      "comments": 29,
-      "author": "AlexeyBrin",
-      "tags": [],
-      "date": "2026-08-02T12:36:07+00:00"
-    },
-    {
-      "id": "hn-49143925",
-      "source": "hn",
-      "title": "F*: A general-purpose proof-oriented programming language",
-      "url": "https://fstar-lang.org/",
-      "score": 170,
-      "comments": 77,
-      "author": "ducktective",
-      "tags": [],
-      "date": "2026-08-02T12:31:16+00:00"
-    },
-    {
       "id": "hn-49135457",
       "source": "hn",
       "title": "Carl's Required Reading",
       "url": "https://carlkolon.com/reading/",
-      "score": 154,
+      "score": 157,
       "comments": 20,
       "author": "cckolon",
       "tags": [],
@@ -5130,8 +5146,8 @@
       "source": "hn",
       "title": "SupererDuperer",
       "url": "https://www.shirtpocket.com/blog/supererduperer",
-      "score": 86,
-      "comments": 16,
+      "score": 92,
+      "comments": 18,
       "author": "zdw",
       "tags": [],
       "date": "2026-08-01T15:26:29+00:00"
