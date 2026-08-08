@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T12:08:46.037073+00:00",
-  "total_articles": 45,
+  "generated_at": "2026-08-08T12:46:08.477775+00:00",
+  "total_articles": 43,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,20 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 39,
+      "count": 36,
       "top_items": [
-        {
-          "title": "What happens if an entire class of workers loses faith in their careers",
-          "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-          "score": 731,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-07T12:42:27+00:00"
-        },
         {
           "title": "DeepSeek V4 Flash 0731",
           "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-          "score": 661,
+          "score": 671,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T17:56:20+00:00"
@@ -44,7 +36,7 @@
         {
           "title": "Assembly Hall of Shame",
           "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-          "score": 360,
+          "score": 362,
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T18:01:30+00:00"
@@ -56,6 +48,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-07T14:51:57+00:00"
+        },
+        {
+          "title": "The Nixpkgs core team has disbanded",
+          "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "score": 322,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-08T01:12:45+00:00"
         }
       ]
     },
@@ -102,6 +102,20 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-07T23:32:58+09:00"
+        }
+      ]
+    },
+    {
+      "category": "注目リリース",
+      "count": 1,
+      "top_items": [
+        {
+          "title": "Nuclei v3.11.1 — v3.11.1",
+          "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.11.1",
+          "score": null,
+          "source": "project",
+          "severity": null,
+          "date": "2026-08-08T12:21:32Z"
         }
       ]
     }
