@@ -1,9 +1,16 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T20:42:43.158731+00:00",
-  "total_articles": 41,
-  "urgent_count": 1,
+  "generated_at": "2026-08-08T21:08:22.159905+00:00",
+  "total_articles": 42,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-08T19:38:08+00:00"
+    },
     {
       "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
       "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
@@ -15,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 29,
+      "count": 30,
       "top_items": [
         {
           "title": "The Nixpkgs core team has disbanded",
@@ -26,6 +33,22 @@
           "date": "2026-08-08T01:12:45+00:00"
         },
         {
+          "title": "\"Code was never the hard part\" is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "score": 336,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-08T14:32:33+00:00"
+        },
+        {
+          "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "score": 332,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-08T09:18:50+00:00"
+        },
+        {
           "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
           "url": "https://genesisopenmodels.anl.gov/",
           "score": 330,
@@ -34,28 +57,12 @@
           "date": "2026-08-07T22:24:27+00:00"
         },
         {
-          "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-          "score": 327,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-08T09:18:50+00:00"
-        },
-        {
           "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
           "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
           "score": 319,
           "source": "hn",
           "severity": null,
           "date": "2026-08-08T01:49:11+00:00"
-        },
-        {
-          "title": "\"Code was never the hard part\" is an insult to all programmers",
-          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-          "score": 301,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-08T14:32:33+00:00"
         }
       ]
     },
