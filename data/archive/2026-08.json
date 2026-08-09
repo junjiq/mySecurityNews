@@ -1,16 +1,16 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-09T21:09:11.384456+00:00",
+  "generated_at": "2026-08-09T21:42:41.718648+00:00",
   "total_articles": 451,
   "source_counts": {
-    "hn": 356,
-    "zennqiita": 94,
+    "hn": 359,
+    "zennqiita": 91,
     "project": 1
   },
   "severity_counts": {
     "critical": 13,
     "medium": 2,
-    "high": 2
+    "high": 1
   },
   "top_articles": [
     {
@@ -133,6 +133,13 @@
       "date": "2026-08-08T18:09:31+00:00"
     },
     {
+      "title": "Mea Culpa – Dark Hours",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "score": 501,
+      "source": "hn",
+      "date": "2026-08-09T13:20:43+00:00"
+    },
+    {
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
       "score": 485,
@@ -145,13 +152,6 @@
       "score": 483,
       "source": "hn",
       "date": "2026-08-08T16:04:51+00:00"
-    },
-    {
-      "title": "Mea Culpa – Dark Hours",
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "score": 482,
-      "source": "hn",
-      "date": "2026-08-09T13:20:43+00:00"
     }
   ],
   "security_highlights": [
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-04T17:37:17+00:00"
-    },
-    {
-      "title": "毎日137件公開されるCVE、正直ぜんぶ無視していませんか？",
-      "url": "https://qiita.com/udowanllc/items/024e91ccb6393159c798?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "high",
-      "source": "zennqiita",
-      "date": "2026-08-04T08:57:38+09:00"
     }
   ]
 }
