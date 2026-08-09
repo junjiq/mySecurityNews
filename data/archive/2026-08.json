@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-09T10:11:15.041833+00:00",
+  "generated_at": "2026-08-09T10:44:11.165826+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 360,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 15,
+    "critical": 14,
     "medium": 2,
     "high": 2
   },
@@ -91,13 +91,6 @@
       "date": "2026-08-03T14:15:47+00:00"
     },
     {
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "score": 678,
-      "source": "hn",
-      "date": "2026-08-03T11:28:54+00:00"
-    },
-    {
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
       "score": 640,
@@ -152,6 +145,13 @@
       "score": 561,
       "source": "hn",
       "date": "2026-08-04T12:01:02+00:00"
+    },
+    {
+      "title": "Danish high schoolers will have to verbally defend written assignments",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "score": 530,
+      "source": "hn",
+      "date": "2026-08-08T18:09:31+00:00"
     }
   ],
   "security_highlights": [
@@ -266,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-03T14:13:24+00:00"
-    },
-    {
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-03T11:28:54+00:00"
     }
   ]
 }
