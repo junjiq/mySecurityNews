@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-09T13:46:35.109100+00:00",
+  "generated_at": "2026-08-09T14:12:55.576525+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 361,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 12,
     "medium": 2,
     "high": 2
   },
@@ -84,13 +84,6 @@
       "date": "2026-08-07T00:06:28+00:00"
     },
     {
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 687,
-      "source": "hn",
-      "date": "2026-08-03T14:15:47+00:00"
-    },
-    {
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
       "score": 640,
@@ -152,6 +145,13 @@
       "score": 530,
       "source": "hn",
       "date": "2026-08-08T18:09:31+00:00"
+    },
+    {
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "score": 485,
+      "source": "hn",
+      "date": "2026-08-05T18:52:54+00:00"
     }
   ],
   "security_highlights": [
@@ -252,20 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-03T18:58:00+00:00"
-    },
-    {
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-03T14:15:47+00:00"
-    },
-    {
-      "title": "Utah produced more power from solar than any other source in May, a new first",
-      "url": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-03T14:13:24+00:00"
     }
   ]
 }
