@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-09T19:14:33.298591+00:00",
+  "generated_at": "2026-08-09T19:42:53.111405+00:00",
   "total_articles": 451,
   "source_counts": {
     "hn": 362,
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+      "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-09T19:20:40+00:00"
+    },
+    {
       "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
       "url": "https://alexanderwanyoike.github.io/vibez/",
       "severity": "critical",
@@ -252,13 +259,6 @@
       "severity": "high",
       "source": "zennqiita",
       "date": "2026-08-04T08:57:38+09:00"
-    },
-    {
-      "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
-      "url": "https://github.com/SwagSoftware/KisakCOD",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-03T18:58:00+00:00"
     }
   ]
 }
