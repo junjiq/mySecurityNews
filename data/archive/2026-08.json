@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-09T16:08:02.220912+00:00",
+  "generated_at": "2026-08-09T16:44:35.786084+00:00",
   "total_articles": 450,
   "source_counts": {
     "hn": 361,
@@ -8,7 +8,7 @@
     "project": 1
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "medium": 2,
     "high": 2
   },
@@ -105,13 +105,6 @@
       "date": "2026-08-06T04:46:35+00:00"
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 609,
-      "source": "hn",
-      "date": "2026-08-03T16:27:12+00:00"
-    },
-    {
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "url": "https://blog.cloudflare.com/cloudflare-os/",
       "score": 605,
@@ -152,9 +145,23 @@
       "score": 485,
       "source": "hn",
       "date": "2026-08-05T18:52:54+00:00"
+    },
+    {
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "score": 483,
+      "source": "hn",
+      "date": "2026-08-08T16:04:51+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
+      "url": "https://alexanderwanyoike.github.io/vibez/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-09T15:31:49+00:00"
+    },
     {
       "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
       "url": "https://marketnow.site/",
