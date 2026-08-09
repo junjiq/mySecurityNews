@@ -1,14 +1,14 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-09T05:46:09.491354+00:00",
-  "total_articles": 449,
+  "generated_at": "2026-08-09T06:16:04.432871+00:00",
+  "total_articles": 450,
   "source_counts": {
-    "hn": 366,
-    "zennqiita": 82,
+    "hn": 369,
+    "zennqiita": 80,
     "project": 1
   },
   "severity_counts": {
-    "critical": 14,
+    "critical": 15,
     "medium": 2,
     "high": 2
   },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://marketnow.site/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-09T03:13:01+00:00"
+    },
     {
       "title": "Open-source interactive map for the Aug 12 total solar eclipse",
       "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",

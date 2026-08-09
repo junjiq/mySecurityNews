@@ -1,9 +1,16 @@
 {
   "date": "2026-08-09",
-  "generated_at": "2026-08-09T05:46:09.444521+00:00",
-  "total_articles": 48,
-  "urgent_count": 2,
+  "generated_at": "2026-08-09T06:16:04.384699+00:00",
+  "total_articles": 50,
+  "urgent_count": 3,
   "urgent_items": [
+    {
+      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://marketnow.site/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-09T03:13:01+00:00"
+    },
     {
       "title": "Open-source interactive map for the Aug 12 total solar eclipse",
       "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
@@ -22,7 +29,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 42,
+      "count": 45,
       "top_items": [
         {
           "title": "“Code was never the hard part” is an insult to all programmers",
@@ -51,7 +58,7 @@
         {
           "title": "_for-sale DNS records",
           "url": "https://specification.website/spec/foundations/for-sale-dns/",
-          "score": 375,
+          "score": 377,
           "source": "hn",
           "severity": null,
           "date": "2026-08-08T13:26:51+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 4,
       "top_items": [
         {
           "title": "LTできたらバンジー飛べる",
@@ -101,14 +108,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-08T17:58:27+09:00"
-        },
-        {
-          "title": "Amazon DynamoDBのリアルタイムベクトル検索機能をちょっと整理する",
-          "url": "https://qiita.com/Syoitu/items/068db63a8bf3bb961b2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-08T15:15:11+09:00"
         }
       ]
     },
