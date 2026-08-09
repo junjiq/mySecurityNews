@@ -1,0 +1,130 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T00:16:29.526436+00:00",
+  "total_articles": 42,
+  "urgent_count": 2,
+  "urgent_items": [
+    {
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-08T19:38:08+00:00"
+    },
+    {
+      "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+      "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-08T17:27:52+00:00"
+    }
+  ],
+  "categories": [
+    {
+      "category": "テクノロジー",
+      "count": 31,
+      "top_items": [
+        {
+          "title": "“Code was never the hard part” is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "score": 528,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-08T14:32:33+00:00"
+        },
+        {
+          "title": "Danish high schoolers will have to verbally defend written assignments",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+          "score": 488,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-08T18:09:31+00:00"
+        },
+        {
+          "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "score": 367,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-08T09:18:50+00:00"
+        },
+        {
+          "title": "The Nixpkgs core team has disbanded",
+          "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "score": 345,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-08T01:12:45+00:00"
+        },
+        {
+          "title": "Hardware backdoors in some x86 CPUs",
+          "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+          "score": 335,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-08T07:04:51+00:00"
+        }
+      ]
+    },
+    {
+      "category": "日本語技術記事",
+      "count": 10,
+      "top_items": [
+        {
+          "title": "LTできたらバンジー飛べる",
+          "url": "https://qiita.com/tanahiro2010/items/e536eabc73691f87dc0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T21:27:46+09:00"
+        },
+        {
+          "title": "ネットワーク分離における端末内論理分離の系譜",
+          "url": "https://qiita.com/k2_naka/items/024172f90e049d5643ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T19:25:22+09:00"
+        },
+        {
+          "title": "WindowsでDNSサーバーを構築して、オンプレ想定VPCからGenU閉域モードへ接続してみた",
+          "url": "https://qiita.com/infra365/items/c350d66f0575cd1303f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T18:39:20+09:00"
+        },
+        {
+          "title": "今更だけど、DynamoDBの設計の勘所をサクッとまとめてみた",
+          "url": "https://qiita.com/miruky/items/c7beb2fbed6492d195d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T17:58:27+09:00"
+        },
+        {
+          "title": "Amazon DynamoDBのリアルタイムベクトル検索機能をちょっと整理する",
+          "url": "https://qiita.com/Syoitu/items/068db63a8bf3bb961b2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-08T15:15:11+09:00"
+        }
+      ]
+    },
+    {
+      "category": "注目リリース",
+      "count": 1,
+      "top_items": [
+        {
+          "title": "Nuclei v3.11.1 — v3.11.1",
+          "url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.11.1",
+          "score": null,
+          "source": "project",
+          "severity": null,
+          "date": "2026-08-08T12:21:32Z"
+        }
+      ]
+    }
+  ]
+}
