@@ -1,23 +1,14 @@
 {
   "month": "2026-07",
-  "generated_at": "2026-08-09T17:10:16.345646+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-08-09T17:42:17.492867+00:00",
+  "total_articles": 10,
   "source_counts": {
-    "project": 10,
-    "hn": 1
+    "project": 10
   },
   "severity_counts": {
     "critical": 1
   },
-  "top_articles": [
-    {
-      "title": "Improving Heuristics for A* Pathfinding",
-      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-      "score": 325,
-      "source": "hn",
-      "date": "2026-07-28T06:04:42+00:00"
-    }
-  ],
+  "top_articles": [],
   "security_highlights": [
     {
       "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
