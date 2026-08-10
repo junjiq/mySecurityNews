@@ -1,14 +1,14 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-10T15:22:06.986094+00:00",
+  "generated_at": "2026-08-10T15:48:05.812662+00:00",
   "total_articles": 452,
   "source_counts": {
-    "hn": 357,
-    "zennqiita": 93,
+    "hn": 358,
+    "zennqiita": 92,
     "project": 2
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 14,
     "medium": 3,
     "high": 1
   },
@@ -56,18 +56,18 @@
       "date": "2026-08-07T10:28:55+00:00"
     },
     {
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "score": 761,
+      "source": "hn",
+      "date": "2026-08-09T19:16:49+00:00"
+    },
+    {
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
       "score": 759,
       "source": "hn",
       "date": "2026-08-07T17:56:20+00:00"
-    },
-    {
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 755,
-      "source": "hn",
-      "date": "2026-08-09T19:16:49+00:00"
     },
     {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
@@ -112,18 +112,18 @@
       "date": "2026-08-05T13:58:53+00:00"
     },
     {
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "score": 593,
+      "source": "hn",
+      "date": "2026-08-10T10:10:02+00:00"
+    },
+    {
       "title": "Mea Culpa – Dark Hours",
       "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
       "score": 567,
       "source": "hn",
       "date": "2026-08-09T13:20:43+00:00"
-    },
-    {
-      "title": "Meta Muse Glimmer – open weights 30B local coding model",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 545,
-      "source": "hn",
-      "date": "2026-08-10T10:10:02+00:00"
     },
     {
       "title": "Danish high schoolers will have to verbally defend written assignments",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Force-Fed by ICE",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-10T15:35:44+00:00"
+    },
     {
       "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
       "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
