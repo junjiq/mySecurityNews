@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-08-10T19:47:48.960187+00:00",
+  "updated_at": "2026-08-10T20:13:51.281470+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49248629",
+      "source": "hn",
+      "title": "Attacker Takes over Zoom AI",
+      "url": "https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai",
+      "score": 6,
+      "comments": 1,
+      "author": "hackerBanana",
+      "tags": [],
+      "date": "2026-08-10T19:38:42+00:00"
+    },
     {
       "id": "hn-49247477",
       "source": "hn",
       "title": "Rust SIMD on the GPU",
       "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "score": 14,
-      "comments": 5,
+      "score": 33,
+      "comments": 18,
       "author": "sagacity",
       "tags": [],
       "date": "2026-08-10T18:12:49+00:00"
@@ -41,8 +52,8 @@
       "source": "hn",
       "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
       "url": "https://www.stoaexchange.com",
-      "score": 48,
-      "comments": 22,
+      "score": 52,
+      "comments": 23,
       "author": "erenberke",
       "tags": [],
       "date": "2026-08-10T16:35:27+00:00"
@@ -64,7 +75,7 @@
       "title": "Exploiting System Management Mode with a very long interrupt",
       "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
       "score": 82,
-      "comments": 23,
+      "comments": 25,
       "author": "WhiteDawn",
       "tags": [],
       "date": "2026-08-10T16:03:14+00:00",
@@ -86,8 +97,8 @@
       "source": "hn",
       "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
       "url": "https://github.com/AntigmaLabs/ante",
-      "score": 93,
-      "comments": 59,
+      "score": 101,
+      "comments": 64,
       "author": "ubermon",
       "tags": [],
       "date": "2026-08-10T15:59:23+00:00"
@@ -108,8 +119,8 @@
       "source": "hn",
       "title": "The Tragedy of the Cognitive Commons",
       "url": "https://arxiv.org/abs/2607.29380",
-      "score": 53,
-      "comments": 31,
+      "score": 57,
+      "comments": 36,
       "author": "jmintz",
       "tags": [],
       "date": "2026-08-10T15:55:15+00:00"
@@ -119,8 +130,8 @@
       "source": "hn",
       "title": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
       "url": "https://www.neurology.org/doi/10.1212/WN9.0000000000000152",
-      "score": 59,
-      "comments": 42,
+      "score": 66,
+      "comments": 51,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-08-10T15:54:47+00:00"
@@ -130,8 +141,8 @@
       "source": "hn",
       "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
       "url": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
-      "score": 41,
-      "comments": 15,
+      "score": 44,
+      "comments": 16,
       "author": "peter_d_sherman",
       "tags": [],
       "date": "2026-08-10T15:53:01+00:00"
@@ -141,8 +152,8 @@
       "source": "hn",
       "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
-      "score": 122,
-      "comments": 37,
+      "score": 126,
+      "comments": 39,
       "author": "Bender",
       "tags": [],
       "date": "2026-08-10T15:49:48+00:00"
@@ -164,8 +175,8 @@
       "source": "hn",
       "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
       "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-      "score": 226,
-      "comments": 328,
+      "score": 230,
+      "comments": 340,
       "author": "RickJWagner",
       "tags": [],
       "date": "2026-08-10T15:32:04+00:00"
@@ -186,7 +197,7 @@
       "source": "hn",
       "title": "Itadakimasu: A word you say to the food, not the cook",
       "url": "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the",
-      "score": 93,
+      "score": 94,
       "comments": 47,
       "author": "surprisetalk",
       "tags": [],
@@ -230,11 +241,24 @@
       "source": "hn",
       "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
       "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "score": 60,
-      "comments": 85,
+      "score": 62,
+      "comments": 100,
       "author": "hackerBanana",
       "tags": [],
       "date": "2026-08-10T14:38:20+00:00"
+    },
+    {
+      "id": "qiita-47acc1f170",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "DynamoDB のベクトル検索を1万件で試してみた",
+      "url": "https://qiita.com/asahide/items/7828054c74bb187552d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "asahide",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-10T23:35:12+09:00"
     },
     {
       "id": "hn-49244265",
@@ -287,8 +311,8 @@
       "source": "hn",
       "title": "Humanising LLM Outputs Is Dumb",
       "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "score": 59,
-      "comments": 29,
+      "score": 66,
+      "comments": 33,
       "author": "kuberwastaken",
       "tags": [],
       "date": "2026-08-10T13:35:40+00:00"
@@ -298,11 +322,24 @@
       "source": "hn",
       "title": "Mistral Patent for “Code implemented tool calls”",
       "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "score": 161,
-      "comments": 131,
+      "score": 170,
+      "comments": 134,
       "author": "theanonymousone",
       "tags": [],
       "date": "2026-08-10T13:29:12+00:00"
+    },
+    {
+      "id": "qiita-d3731275c4",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "RAGに古い情報で答えさせないためには？\"コンバージド\"データベースから考えるAI時代のデータ基盤",
+      "url": "https://qiita.com/yushibats/items/9dd91baaa89c919d0992?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "yushibats",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-10T22:24:26+09:00"
     },
     {
       "id": "hn-49243269",
@@ -331,8 +368,8 @@
       "source": "hn",
       "title": "50k Boat Names",
       "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "score": 131,
-      "comments": 83,
+      "score": 136,
+      "comments": 93,
       "author": "jonathanmkeegan",
       "tags": [],
       "date": "2026-08-10T12:58:16+00:00"
@@ -364,19 +401,32 @@
       "source": "hn",
       "title": "Squeak 6.1",
       "url": "https://squeak.org/release_notes/6.1/",
-      "score": 161,
-      "comments": 87,
+      "score": 167,
+      "comments": 88,
       "author": "fniephaus",
       "tags": [],
       "date": "2026-08-10T12:15:53+00:00"
+    },
+    {
+      "id": "qiita-a8d9d2b32c",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【Unity】コルーチンのように扱える非同期タスクで専用ライブラリのパフォーマンスに迫る【Omochaya Story 1.3 ～ Tween機能】",
+      "url": "https://qiita.com/Omochaya/items/851106dfe25b5c34afae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "Omochaya",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-10T20:57:32+09:00"
     },
     {
       "id": "hn-49242297",
       "source": "hn",
       "title": "Tail-call optimization in C is relatively recent (2025)",
       "url": "https://lwn.net/Articles/1034703/",
-      "score": 100,
-      "comments": 85,
+      "score": 101,
+      "comments": 90,
       "author": "prakashqwerty",
       "tags": [],
       "date": "2026-08-10T11:34:40+00:00"
@@ -419,8 +469,8 @@
       "source": "hn",
       "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
       "url": "https://ethw.org/Milestones:Parametron,_1954",
-      "score": 134,
-      "comments": 40,
+      "score": 135,
+      "comments": 41,
       "author": "xeonmc",
       "tags": [],
       "date": "2026-08-10T10:29:14+00:00"
@@ -430,8 +480,8 @@
       "source": "hn",
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 857,
-      "comments": 483,
+      "score": 881,
+      "comments": 499,
       "author": "riordan",
       "tags": [],
       "date": "2026-08-10T10:10:02+00:00"
@@ -450,12 +500,25 @@
       "date": "2026-08-10T18:32:01+09:00"
     },
     {
+      "id": "qiita-66ba963270",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Maestro CLIとMaestro MCPでネイティブアプリのE2Eテストを試してみた",
+      "url": "https://qiita.com/ma-ryu/items/9614d08d25a9b9adc2d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ma-ryu",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-10T17:21:30+09:00"
+    },
+    {
       "id": "hn-49239751",
       "source": "hn",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 564,
-      "comments": 325,
+      "score": 567,
+      "comments": 330,
       "author": "etoxin",
       "tags": [],
       "date": "2026-08-10T06:02:38+00:00"
@@ -634,6 +697,19 @@
       "author": "herbertl",
       "tags": [],
       "date": "2026-08-09T23:36:05+00:00"
+    },
+    {
+      "id": "qiita-7bbe6b108f",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "IBM i でsshほかTCP/IPサーバージョブ（デーモン）を開始する方法",
+      "url": "https://qiita.com/gomAnomalocaris/items/5554003e62ce3a51ef9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "gomAnomalocaris",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-10T07:36:28+09:00"
     },
     {
       "id": "qiita-393d776a6c",
@@ -903,6 +979,19 @@
       "author": "nmaroulis21",
       "tags": [],
       "date": "2026-08-09T17:10:05+00:00"
+    },
+    {
+      "id": "qiita-4dbee9a403",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "VLC media playerでApple Silicon Macの快適なBlu-ray再生環境をタダで構築",
+      "url": "https://qiita.com/y-vectorfield/items/889eef420b9224f5421a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "y-vectorfield",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-10T01:33:59+09:00"
     },
     {
       "id": "hn-49232942",
@@ -1460,6 +1549,19 @@
       "author": "frozenseven",
       "tags": [],
       "date": "2026-08-09T01:23:36+00:00"
+    },
+    {
+      "id": "qiita-f65ba6b035",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "人間もまた一つのシステムである ― 「人間システム論」というものの見方",
+      "url": "https://qiita.com/k_iwata_office/items/531ad0ff24558455ee3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "k_iwata_office",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-09T10:20:31+09:00"
     },
     {
       "id": "hn-49227365",
@@ -2716,8 +2818,8 @@
       "source": "hn",
       "title": "Sonic Pi v5",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "score": 182,
-      "comments": 48,
+      "score": 195,
+      "comments": 52,
       "author": "samaaron",
       "tags": [],
       "date": "2026-08-07T10:26:34+00:00"
@@ -4667,8 +4769,8 @@
       "source": "hn",
       "title": "Why Can't You Pack a Bag?",
       "url": "https://www.newyorker.com/culture/open-questions/why-cant-you-pack-a-bag",
-      "score": 4,
-      "comments": 0,
+      "score": 12,
+      "comments": 2,
       "author": "prathamtharwani",
       "tags": [],
       "date": "2026-08-05T06:53:38+00:00"
@@ -5085,100 +5187,12 @@
       "date": "2026-08-04T22:09:43+00:00"
     },
     {
-      "id": "hn-49175826",
-      "source": "hn",
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "score": 263,
-      "comments": 204,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-08-04T22:01:41+00:00"
-    },
-    {
-      "id": "hn-49175774",
-      "source": "hn",
-      "title": "Show HN: Sign language translation with smart glasses",
-      "url": "https://github.com/aadisang/hand-wave",
-      "score": 8,
-      "comments": 4,
-      "author": "aadisang",
-      "tags": [],
-      "date": "2026-08-04T21:58:28+00:00"
-    },
-    {
-      "id": "hn-49175717",
-      "source": "hn",
-      "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
-      "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
-      "score": 44,
-      "comments": 33,
-      "author": "_pdp_",
-      "tags": [],
-      "date": "2026-08-04T21:52:58+00:00"
-    },
-    {
-      "id": "hn-49175248",
-      "source": "hn",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "score": 41,
-      "comments": 5,
-      "author": "glub",
-      "tags": [],
-      "date": "2026-08-04T21:14:19+00:00"
-    },
-    {
-      "id": "hn-49175192",
-      "source": "hn",
-      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-      "score": 209,
-      "comments": 57,
-      "author": "stymaar",
-      "tags": [],
-      "date": "2026-08-04T21:09:39+00:00"
-    },
-    {
-      "id": "hn-49174900",
-      "source": "hn",
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
-      "score": 267,
-      "comments": 165,
-      "author": "mattsterett",
-      "tags": [],
-      "date": "2026-08-04T20:48:17+00:00"
-    },
-    {
-      "id": "hn-49174407",
-      "source": "hn",
-      "title": "Oxide Computer raises $445M (SEC Form D)",
-      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-      "score": 171,
-      "comments": 73,
-      "author": "depr",
-      "tags": [],
-      "date": "2026-08-04T20:13:40+00:00"
-    },
-    {
-      "id": "hn-49174017",
-      "source": "hn",
-      "title": "Nearest Pint",
-      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
-      "score": 40,
-      "comments": 22,
-      "author": "bookofjoe",
-      "tags": [],
-      "date": "2026-08-04T19:47:10+00:00"
-    },
-    {
       "id": "hn-49172319",
       "source": "hn",
       "title": "The Psychedelic Toad of the Sonoran Desert",
       "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
-      "score": 20,
-      "comments": 18,
+      "score": 26,
+      "comments": 23,
       "author": "simonebrunozzi",
       "tags": [],
       "date": "2026-08-04T17:49:29+00:00"
