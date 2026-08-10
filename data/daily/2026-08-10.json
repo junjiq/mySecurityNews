@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T08:32:57.815458+00:00",
-  "total_articles": 74,
+  "generated_at": "2026-08-10T09:32:10.862334+00:00",
+  "total_articles": 72,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 61,
+      "count": 60,
       "top_items": [
         {
           "title": "How I use LLMs to learn complex topics",
           "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-          "score": 614,
+          "score": 628,
           "source": "hn",
           "severity": null,
           "date": "2026-08-09T19:16:49+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "Taxi drivers rarely die of Alzheimer's",
           "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-          "score": 276,
+          "score": 285,
           "source": "hn",
           "severity": null,
           "date": "2026-08-09T15:21:46+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "Cool URIs Don't Change (1998)",
           "url": "https://www.w3.org/Provider/Style/URI",
-          "score": 233,
+          "score": 237,
           "source": "hn",
           "severity": null,
           "date": "2026-08-09T14:32:53+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
+        {
+          "title": "ネットワーク分離における端末内論理分離の系譜",
+          "url": "https://qiita.com/k2_naka/items/024172f90e049d5643ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-10T18:32:01+09:00"
+        },
         {
           "title": "OCI Data Catalog 第3回：Object Storage上のOracle DatabaseマニュアルPDFでSelect AI with RAGを構築してみてみた",
           "url": "https://qiita.com/shirok/items/704f8f380fee205e06d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -93,14 +101,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-10T14:46:52+09:00"
-        },
-        {
-          "title": "ネットワーク分離における端末内論理分離の系譜",
-          "url": "https://qiita.com/k2_naka/items/024172f90e049d5643ba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-10T14:08:08+09:00"
         },
         {
           "title": "BedrockのOpenAIモデルでWeb検索が使えるようになったので、Tavilyと⽐べてみた",
