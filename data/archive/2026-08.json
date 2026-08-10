@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-10T16:17:40.551754+00:00",
+  "generated_at": "2026-08-10T16:47:16.774023+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 358,
@@ -8,9 +8,9 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 14,
-    "medium": 3,
-    "high": 1
+    "high": 2,
+    "critical": 13,
+    "medium": 3
   },
   "top_articles": [
     {
@@ -84,18 +84,18 @@
       "date": "2026-08-07T00:06:28+00:00"
     },
     {
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "score": 671,
+      "source": "hn",
+      "date": "2026-08-10T10:10:02+00:00"
+    },
+    {
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
       "score": 640,
       "source": "hn",
       "date": "2026-08-06T17:01:33+00:00"
-    },
-    {
-      "title": "Meta Muse Glimmer – open weights 30B local coding model",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 637,
-      "source": "hn",
-      "date": "2026-08-10T10:10:02+00:00"
     },
     {
       "title": "“Code was never the hard part” is an insult to all programmers",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-08-10T16:03:14+00:00"
+    },
     {
       "title": "Force-Fed by ICE",
       "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
@@ -252,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-05T13:23:52+00:00"
-    },
-    {
-      "title": "What's Behind the Sharp Drop in Labor Force Participation?",
-      "url": "https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-04T17:37:17+00:00"
     }
   ]
 }

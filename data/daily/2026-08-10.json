@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T16:17:40.504109+00:00",
-  "total_articles": 72,
-  "urgent_count": 2,
+  "generated_at": "2026-08-10T16:47:16.727114+00:00",
+  "total_articles": 74,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "Force-Fed by ICE",
@@ -17,12 +17,19 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-09T19:20:40+00:00"
+    },
+    {
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-08-10T16:03:14+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 62,
+      "count": 65,
       "top_items": [
         {
           "title": "How I use LLMs to learn complex topics",
@@ -35,7 +42,7 @@
         {
           "title": "Meta Muse Glimmer – open weights 30B local coding model",
           "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-          "score": 637,
+          "score": 671,
           "source": "hn",
           "severity": null,
           "date": "2026-08-10T10:10:02+00:00"
@@ -43,7 +50,7 @@
         {
           "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
           "url": "https://www.docker.com/products/docker-sandboxes/",
-          "score": 454,
+          "score": 476,
           "source": "hn",
           "severity": null,
           "date": "2026-08-10T06:02:38+00:00"
@@ -51,7 +58,7 @@
         {
           "title": "What Happened to HackerOne?",
           "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-          "score": 338,
+          "score": 340,
           "source": "hn",
           "severity": null,
           "date": "2026-08-10T02:23:17+00:00"
@@ -59,7 +66,7 @@
         {
           "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
           "url": "https://bobdahacker.com/blog/tldv-hack",
-          "score": 295,
+          "score": 319,
           "source": "hn",
           "severity": null,
           "date": "2026-08-10T12:26:05+00:00"
@@ -68,7 +75,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 10,
+      "count": 9,
       "top_items": [
         {
           "title": "OCI Data Catalog 第3回：Object Storage上のOracle DatabaseマニュアルPDFでSelect AI with RAGを構築してみてみた",
