@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-08-10T12:16:53.185453+00:00",
+  "updated_at": "2026-08-10T12:47:40.241280+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49242728",
+      "source": "hn",
+      "title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+      "url": "https://twitter.com/thdxr/status/2086599224674681242",
+      "score": 6,
+      "comments": 2,
+      "author": "delduca",
+      "tags": [],
+      "date": "2026-08-10T12:24:48+00:00"
+    },
     {
       "id": "hn-49242297",
       "source": "hn",
       "title": "Tail-call optimization in C is relatively recent",
       "url": "https://lwn.net/Articles/1034703/",
-      "score": 16,
-      "comments": 0,
+      "score": 24,
+      "comments": 8,
       "author": "prakashqwerty",
       "tags": [],
       "date": "2026-08-10T11:34:40+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "Because It's Not Fun Enough: why languages fail",
       "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
-      "score": 15,
-      "comments": 0,
+      "score": 37,
+      "comments": 11,
       "author": "jottinger",
       "tags": [],
       "date": "2026-08-10T11:27:47+00:00"
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "A 'bananas' order for 5000 obscure book titles fuels suspicion",
       "url": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
-      "score": 19,
-      "comments": 1,
+      "score": 42,
+      "comments": 28,
       "author": "ohaodha",
       "tags": [],
       "date": "2026-08-10T11:22:34+00:00"
@@ -40,19 +51,30 @@
       "source": "hn",
       "title": "Meta's new open-weight model targets local agentic AI",
       "url": "https://twitter.com/finkd/status/2086754845218726027",
-      "score": 8,
-      "comments": 0,
+      "score": 16,
+      "comments": 2,
       "author": "bakigul",
       "tags": [],
       "date": "2026-08-10T10:55:03+00:00"
+    },
+    {
+      "id": "hn-49241846",
+      "source": "hn",
+      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+      "url": "https://ethw.org/Milestones:Parametron,_1954",
+      "score": 8,
+      "comments": 1,
+      "author": "xeonmc",
+      "tags": [],
+      "date": "2026-08-10T10:29:14+00:00"
     },
     {
       "id": "hn-49241679",
       "source": "hn",
       "title": "Meta Muse Glimmer – open weights 30B local coding model",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 218,
-      "comments": 86,
+      "score": 266,
+      "comments": 105,
       "author": "riordan",
       "tags": [],
       "date": "2026-08-10T10:10:02+00:00"
@@ -88,8 +110,8 @@
       "source": "hn",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 297,
-      "comments": 170,
+      "score": 319,
+      "comments": 183,
       "author": "etoxin",
       "tags": [],
       "date": "2026-08-10T06:02:38+00:00"
@@ -171,8 +193,8 @@
       "source": "hn",
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
-      "score": 116,
-      "comments": 51,
+      "score": 124,
+      "comments": 52,
       "author": "MrRowTheBoat",
       "tags": [],
       "date": "2026-08-10T03:18:40+00:00"
@@ -182,8 +204,8 @@
       "source": "hn",
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "url": "https://github.com/shinyquagsire23/Klepton",
-      "score": 109,
-      "comments": 15,
+      "score": 114,
+      "comments": 16,
       "author": "LorenDB",
       "tags": [],
       "date": "2026-08-10T03:12:48+00:00"
@@ -204,8 +226,8 @@
       "source": "hn",
       "title": "What Happened to HackerOne?",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "score": 273,
-      "comments": 136,
+      "score": 280,
+      "comments": 142,
       "author": "hipparchus",
       "tags": [],
       "date": "2026-08-10T02:23:17+00:00"
@@ -215,8 +237,8 @@
       "source": "hn",
       "title": "How We Pushed CDC into Postgres",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "score": 104,
-      "comments": 15,
+      "score": 107,
+      "comments": 18,
       "author": "craigkerstiens",
       "tags": [],
       "date": "2026-08-10T01:01:34+00:00"
@@ -331,7 +353,7 @@
       "source": "hn",
       "title": "Tuxedo No. 2 – Cocktail recipes",
       "url": "https://tuxedono2.com",
-      "score": 104,
+      "score": 107,
       "comments": 34,
       "author": "smartmic",
       "tags": [],
@@ -455,8 +477,8 @@
       "source": "hn",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 685,
-      "comments": 435,
+      "score": 698,
+      "comments": 442,
       "author": "laurentiurad",
       "tags": [],
       "date": "2026-08-09T19:16:49+00:00"
@@ -645,8 +667,8 @@
       "source": "hn",
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "score": 315,
-      "comments": 219,
+      "score": 319,
+      "comments": 223,
       "author": "jader201",
       "tags": [],
       "date": "2026-08-09T15:21:46+00:00"
@@ -726,7 +748,7 @@
       "source": "hn",
       "title": "Cool URIs Don't Change (1998)",
       "url": "https://www.w3.org/Provider/Style/URI",
-      "score": 253,
+      "score": 255,
       "comments": 62,
       "author": "Klaster_1",
       "tags": [],
@@ -2053,7 +2075,7 @@
       "source": "hn",
       "title": "An alias-based formulation of the borrow checker (2018)",
       "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
-      "score": 14,
+      "score": 17,
       "comments": 1,
       "author": "parksb",
       "tags": [],
@@ -2222,8 +2244,8 @@
       "source": "hn",
       "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
       "url": "https://lordgoati.us/blog/tail-call/",
-      "score": 40,
-      "comments": 13,
+      "score": 44,
+      "comments": 15,
       "author": "amatheus",
       "tags": [],
       "date": "2026-08-07T12:05:10+00:00"
@@ -2583,8 +2605,8 @@
       "source": "hn",
       "title": "An Interesting Fourier Transform – 1/F Noise",
       "url": "https://www.dsprelated.com/showarticle/40.php",
-      "score": 60,
-      "comments": 14,
+      "score": 65,
+      "comments": 15,
       "author": "q7m",
       "tags": [],
       "date": "2026-08-07T01:56:10+00:00"
@@ -2697,7 +2719,7 @@
       "source": "hn",
       "title": "ATProto for Distributed Systems Engineers",
       "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
-      "score": 96,
+      "score": 100,
       "comments": 18,
       "author": "LelouBil",
       "tags": [],
@@ -3772,8 +3794,8 @@
       "source": "hn",
       "title": "How Blackwing Pencils are Made [video]",
       "url": "https://www.youtube.com/watch?v=fow-LsdaH2E",
-      "score": 25,
-      "comments": 7,
+      "score": 29,
+      "comments": 11,
       "author": "NaOH",
       "tags": [],
       "date": "2026-08-05T14:58:09+00:00"
@@ -4016,7 +4038,7 @@
       "source": "hn",
       "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
       "url": "https://gitlab.com/Kazade/picophysics",
-      "score": 65,
+      "score": 67,
       "comments": 22,
       "author": "klaussilveira",
       "tags": [],
@@ -4065,6 +4087,17 @@
       "author": "embedding-shape",
       "tags": [],
       "date": "2026-08-05T12:06:14+00:00"
+    },
+    {
+      "id": "hn-49181584",
+      "source": "hn",
+      "title": "Findphone: Locate a nearby Bluetooth device by signal strength",
+      "url": "https://github.com/ben-z/findphone",
+      "score": 5,
+      "comments": 0,
+      "author": "helsinkiandrew",
+      "tags": [],
+      "date": "2026-08-05T11:54:59+00:00"
     },
     {
       "id": "hn-49181519",
@@ -4734,7 +4767,7 @@
       "source": "hn",
       "title": "Nearest Pint",
       "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
-      "score": 38,
+      "score": 40,
       "comments": 22,
       "author": "bookofjoe",
       "tags": [],
@@ -5153,39 +5186,6 @@
       "date": "2026-08-04T14:49:50+00:00"
     },
     {
-      "id": "hn-49169640",
-      "source": "hn",
-      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "url": "https://github.com/tikalk/adlc-team-skills",
-      "score": 52,
-      "comments": 23,
-      "author": "kanfilior",
-      "tags": [],
-      "date": "2026-08-04T14:38:31+00:00"
-    },
-    {
-      "id": "hn-49169566",
-      "source": "hn",
-      "title": "How the 'fecal revolution' changed Earth's ecosystems",
-      "url": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
-      "score": 11,
-      "comments": 2,
-      "author": "the-mitr",
-      "tags": [],
-      "date": "2026-08-04T14:33:12+00:00"
-    },
-    {
-      "id": "hn-49169417",
-      "source": "hn",
-      "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
-      "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
-      "score": 29,
-      "comments": 2,
-      "author": "denismenace",
-      "tags": [],
-      "date": "2026-08-04T14:21:50+00:00"
-    },
-    {
       "id": "ctf-4233874",
       "source": "project",
       "proj_category": "CTF",
@@ -5473,19 +5473,6 @@
       "date": "Fri, 07 Aug 2026 09:18:18 GMT"
     },
     {
-      "id": "zenn-1c35c670e3",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "楽観ロックの実装でおさえたいポイントと、よくあるしくじり",
-      "url": "https://zenn.dev/levtech/articles/how-to-concrete-optimistic-lock",
-      "score": null,
-      "author": "もりた",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Fri, 07 Aug 2026 03:03:06 GMT"
-    },
-    {
       "id": "zenn-174a14c3f1",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5628,6 +5615,19 @@
         "Zenn"
       ],
       "date": "Tue, 04 Aug 2026 00:02:05 GMT"
+    },
+    {
+      "id": "zenn-af192b5b0b",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた",
+      "url": "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy",
+      "score": null,
+      "author": "いなりく / Riku Inada",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Mon, 03 Aug 2026 05:26:48 GMT"
     },
     {
       "id": "edb-9bdf9aa505",
