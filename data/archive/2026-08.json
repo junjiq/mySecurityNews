@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-10T18:47:12.267094+00:00",
+  "generated_at": "2026-08-10T19:21:40.626912+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 358,
@@ -8,18 +8,11 @@
     "project": 2
   },
   "severity_counts": {
-    "high": 2,
+    "high": 3,
     "critical": 13,
     "medium": 3
   },
   "top_articles": [
-    {
-      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "score": 1479,
-      "source": "hn",
-      "date": "2026-08-04T18:51:38+00:00"
-    },
     {
       "title": "Mario Meets Pareto",
       "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
@@ -42,18 +35,18 @@
       "date": "2026-08-06T20:23:11+00:00"
     },
     {
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "score": 832,
+      "source": "hn",
+      "date": "2026-08-10T10:10:02+00:00"
+    },
+    {
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
       "score": 829,
       "source": "hn",
       "date": "2026-08-05T16:19:44+00:00"
-    },
-    {
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 804,
-      "source": "hn",
-      "date": "2026-08-10T10:10:02+00:00"
     },
     {
       "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
@@ -128,7 +121,7 @@
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 535,
+      "score": 551,
       "source": "hn",
       "date": "2026-08-10T06:02:38+00:00"
     },
@@ -152,9 +145,23 @@
       "score": 483,
       "source": "hn",
       "date": "2026-08-08T16:04:51+00:00"
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "score": 479,
+      "source": "hn",
+      "date": "2026-08-07T17:36:30+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Security Vulnerability in Pioneer Rekordbox",
+      "url": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-08-10T18:11:52+00:00"
+    },
     {
       "title": "Exploiting System Management Mode with a very long interrupt",
       "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
