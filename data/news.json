@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T22:15:16.384880+00:00",
+  "updated_at": "2026-08-11T22:45:45.019470+00:00",
   "count": 500,
   "items": [
     {
@@ -16,12 +16,34 @@
       "date": "2026-08-12T07:00:13+09:00"
     },
     {
+      "id": "hn-49265051",
+      "source": "hn",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "score": 16,
+      "comments": 3,
+      "author": "EwanG",
+      "tags": [],
+      "date": "2026-08-11T21:56:18+00:00"
+    },
+    {
+      "id": "hn-49265031",
+      "source": "hn",
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "score": 4,
+      "comments": 0,
+      "author": "saisrirampur",
+      "tags": [],
+      "date": "2026-08-11T21:54:25+00:00"
+    },
+    {
       "id": "hn-49264755",
       "source": "hn",
       "title": "Suzanne: AI tool for designing and manufacturing physical products",
       "url": "https://www.suzanne3d.com/",
-      "score": 5,
-      "comments": 0,
+      "score": 9,
+      "comments": 6,
       "author": "Samanthajeanneb",
       "tags": [],
       "date": "2026-08-11T21:28:26+00:00"
@@ -31,8 +53,8 @@
       "source": "hn",
       "title": "Emergent Introspective Awareness in Large Language Models",
       "url": "https://arxiv.org/abs/2601.01828",
-      "score": 4,
-      "comments": 1,
+      "score": 10,
+      "comments": 2,
       "author": "doener",
       "tags": [],
       "date": "2026-08-11T21:14:10+00:00"
@@ -53,8 +75,8 @@
       "source": "hn",
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "score": 141,
-      "comments": 62,
+      "score": 163,
+      "comments": 67,
       "author": "nikolay",
       "tags": [],
       "date": "2026-08-11T19:49:44+00:00"
@@ -75,8 +97,8 @@
       "source": "hn",
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "score": 119,
-      "comments": 57,
+      "score": 136,
+      "comments": 64,
       "author": "droidjj",
       "tags": [],
       "date": "2026-08-11T19:35:52+00:00"
@@ -97,8 +119,8 @@
       "source": "hn",
       "title": "Making holograms with a pen plotter",
       "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "score": 72,
-      "comments": 6,
+      "score": 86,
+      "comments": 10,
       "author": "DemiGuru",
       "tags": [],
       "date": "2026-08-11T18:51:35+00:00"
@@ -119,8 +141,8 @@
       "source": "hn",
       "title": "How we used to get jobs: A newspaper classifieds story",
       "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "score": 75,
-      "comments": 59,
+      "score": 85,
+      "comments": 68,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-11T18:09:56+00:00"
@@ -130,8 +152,8 @@
       "source": "hn",
       "title": "OpenSSH 10.5/10.5p1",
       "url": "https://www.openssh.org/releasenotes.html#10.5",
-      "score": 79,
-      "comments": 28,
+      "score": 80,
+      "comments": 29,
       "author": "voxadam",
       "tags": [],
       "date": "2026-08-11T17:49:37+00:00"
@@ -163,8 +185,8 @@
       "source": "hn",
       "title": "Grok Bot",
       "url": "https://x.ai/bot",
-      "score": 53,
-      "comments": 50,
+      "score": 61,
+      "comments": 64,
       "author": "rvz",
       "tags": [],
       "date": "2026-08-11T17:23:09+00:00"
@@ -174,8 +196,8 @@
       "source": "hn",
       "title": "CSS properties you should know for better text designs",
       "url": "https://master.dev/blog/typographic-css-tricks/",
-      "score": 45,
-      "comments": 3,
+      "score": 50,
+      "comments": 5,
       "author": "ibobev",
       "tags": [],
       "date": "2026-08-11T17:16:06+00:00"
@@ -196,8 +218,8 @@
       "source": "hn",
       "title": "RSI Simulator",
       "url": "https://www.paradigm.xyz/writing/rsi-simulator",
-      "score": 9,
-      "comments": 2,
+      "score": 12,
+      "comments": 6,
       "author": "ckraeuter",
       "tags": [],
       "date": "2026-08-11T17:01:21+00:00"
@@ -218,8 +240,8 @@
       "source": "hn",
       "title": "Mojo 1.0",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "score": 221,
-      "comments": 96,
+      "score": 233,
+      "comments": 105,
       "author": "dayanruben",
       "tags": [],
       "date": "2026-08-11T16:56:46+00:00"
@@ -229,8 +251,8 @@
       "source": "hn",
       "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
       "url": "https://github.com/TheRealYT/git-knife",
-      "score": 111,
-      "comments": 80,
+      "score": 114,
+      "comments": 83,
       "author": "YonathanTesfaye",
       "tags": [],
       "date": "2026-08-11T15:09:34+00:00"
@@ -253,8 +275,8 @@
       "source": "hn",
       "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
       "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "score": 270,
-      "comments": 42,
+      "score": 271,
+      "comments": 43,
       "author": "frabonacci",
       "tags": [],
       "date": "2026-08-11T14:50:33+00:00"
@@ -297,8 +319,8 @@
       "source": "hn",
       "title": "Manus will return to operating as an independent company",
       "url": "https://manus.im/blog/a-note-to-our-users",
-      "score": 116,
-      "comments": 62,
+      "score": 119,
+      "comments": 64,
       "author": "thm",
       "tags": [],
       "date": "2026-08-11T14:14:53+00:00"
@@ -389,8 +411,8 @@
       "source": "hn",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 425,
-      "comments": 168,
+      "score": 439,
+      "comments": 177,
       "author": "quantumgarbage",
       "tags": [],
       "date": "2026-08-11T13:22:00+00:00"
@@ -437,8 +459,8 @@
       "source": "hn",
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 463,
-      "comments": 329,
+      "score": 466,
+      "comments": 334,
       "author": "stevekemp",
       "tags": [],
       "date": "2026-08-11T12:41:59+00:00"
@@ -483,8 +505,8 @@
       "source": "hn",
       "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
       "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "score": 139,
-      "comments": 18,
+      "score": 140,
+      "comments": 22,
       "author": "j0selit0",
       "tags": [],
       "date": "2026-08-11T10:40:47+00:00"
@@ -505,8 +527,8 @@
       "source": "hn",
       "title": "Nvidia's Risky Business",
       "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "score": 265,
-      "comments": 119,
+      "score": 269,
+      "comments": 122,
       "author": "jonbaer",
       "tags": [],
       "date": "2026-08-11T10:02:00+00:00"
@@ -540,8 +562,8 @@
       "source": "hn",
       "title": "London Underground begins scanning passengers' faces",
       "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
-      "score": 154,
-      "comments": 184,
+      "score": 174,
+      "comments": 207,
       "author": "BlueBerry2001",
       "tags": [],
       "date": "2026-08-11T09:40:02+00:00"
@@ -2644,8 +2666,8 @@
       "source": "hn",
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "url": "https://photosynthesis.camera",
-      "score": 145,
-      "comments": 153,
+      "score": 157,
+      "comments": 164,
       "author": "sajomes",
       "tags": [],
       "date": "2026-08-08T22:47:10+00:00"
@@ -2759,8 +2781,8 @@
       "source": "hn",
       "title": "Jolt: Clojure compiler implemented with Chez Scheme",
       "url": "https://jolt-lang.github.io",
-      "score": 126,
-      "comments": 43,
+      "score": 133,
+      "comments": 48,
       "author": "mark_l_watson",
       "tags": [],
       "date": "2026-08-08T17:38:20+00:00"
@@ -3269,8 +3291,8 @@
       "source": "hn",
       "title": "The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics",
       "url": "https://momath.org/the-hat/",
-      "score": 4,
-      "comments": 0,
+      "score": 5,
+      "comments": 1,
       "author": "vismit2000",
       "tags": [],
       "date": "2026-08-08T02:43:01+00:00"
@@ -5171,28 +5193,6 @@
       "author": "moonikakiss",
       "tags": [],
       "date": "2026-08-05T18:18:56+00:00"
-    },
-    {
-      "id": "hn-49186720",
-      "source": "hn",
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "score": 101,
-      "comments": 62,
-      "author": "robin_reala",
-      "tags": [],
-      "date": "2026-08-05T18:17:03+00:00"
-    },
-    {
-      "id": "hn-49180424",
-      "source": "hn",
-      "title": "An Exegesis of the Visionary Autobiography of a Fourteenth-Century French Monk",
-      "url": "https://www.psupress.org/books/titles/978-0-271-06650-9.html?srsltid=AfmBOorGIOS9Y77k3J_CX6UWqfZlPbHXO-8zSjtD5coAKmnN47_e9kAW&utm_source=chatgpt.com",
-      "score": 7,
-      "comments": 0,
-      "author": "Bluestein",
-      "tags": [],
-      "date": "2026-08-05T09:17:30+00:00"
     },
     {
       "id": "ctf-4233874",

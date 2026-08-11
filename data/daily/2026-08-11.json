@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T22:15:16.507211+00:00",
-  "total_articles": 75,
+  "generated_at": "2026-08-11T22:45:45.085444+00:00",
+  "total_articles": 74,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 60,
+      "count": 59,
       "top_items": [
         {
           "title": "France to ban unsolicited telemarketing calls",
@@ -31,14 +31,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T08:15:46+00:00"
-        },
-        {
-          "title": "As AI eats the web, the internet’s collective memory is disappearing",
-          "url": "https://thewalrus.ca/google-search-is-dying/",
-          "score": 823,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-10T22:36:30+00:00"
         },
         {
           "title": "The UK's war on anonymity has come to America",
@@ -51,7 +43,7 @@
         {
           "title": "England set to be one of the first countries to eliminate hepatitis C",
           "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-          "score": 463,
+          "score": 466,
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T12:41:59+00:00"
@@ -59,10 +51,18 @@
         {
           "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
           "url": "https://stolen-thoughts.com/",
-          "score": 425,
+          "score": 439,
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T13:22:00+00:00"
+        },
+        {
+          "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+          "url": "https://github.com/antirez/h3.c",
+          "score": 416,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-11T01:22:09+00:00"
         }
       ]
     },
