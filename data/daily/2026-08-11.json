@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T23:15:41.181044+00:00",
-  "total_articles": 74,
+  "generated_at": "2026-08-11T23:45:17.230221+00:00",
+  "total_articles": 73,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -43,7 +43,7 @@
         {
           "title": "England set to be one of the first countries to eliminate hepatitis C",
           "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-          "score": 471,
+          "score": 477,
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T12:41:59+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
           "url": "https://stolen-thoughts.com/",
-          "score": 448,
+          "score": 458,
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T13:22:00+00:00"
@@ -68,8 +68,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 15,
+      "count": 14,
       "top_items": [
+        {
+          "title": "[AWS] DynamoDBでチャンク分割時のデータ保持構造を考えてみた",
+          "url": "https://qiita.com/kikuziro/items/f8f892066235e2d3601e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-12T08:25:16+09:00"
+        },
         {
           "title": "Data Catalog 第3回：Object Storage上のOracle DatabaseマニュアルPDFでSelect AI with RAGを構築してみてみた",
           "url": "https://qiita.com/shirok/items/704f8f380fee205e06d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-11T22:12:45+09:00"
-        },
-        {
-          "title": "[AWS] DynamoDBでチャンク分割時のデータ保持構造を考えてみた",
-          "url": "https://qiita.com/kikuziro/items/f8f892066235e2d3601e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-11T22:07:38+09:00"
         }
       ]
     }
