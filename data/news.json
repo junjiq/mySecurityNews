@@ -1,17 +1,62 @@
 {
-  "updated_at": "2026-08-11T14:02:45.461389+00:00",
+  "updated_at": "2026-08-11T14:48:31.267250+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49258687",
+      "source": "hn",
+      "title": "Greenland issues \"strong warning\" as American oil firm illegally drills wells",
+      "url": "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill",
+      "score": 38,
+      "comments": 32,
+      "author": "ck2",
+      "tags": [],
+      "date": "2026-08-11T14:09:07+00:00",
+      "severity": "medium"
+    },
+    {
+      "id": "hn-49258581",
+      "source": "hn",
+      "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+      "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+      "score": 14,
+      "comments": 8,
+      "author": "ashurandi",
+      "tags": [],
+      "date": "2026-08-11T14:03:18+00:00"
+    },
+    {
+      "id": "hn-49258202",
+      "source": "hn",
+      "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
+      "url": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
+      "score": 17,
+      "comments": 6,
+      "author": "rbanffy",
+      "tags": [],
+      "date": "2026-08-11T13:42:27+00:00"
+    },
     {
       "id": "hn-49257947",
       "source": "hn",
       "title": "Nvidia Nemotron 3.5 Lightning",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-      "score": 11,
-      "comments": 0,
+      "score": 30,
+      "comments": 9,
       "author": "beklein",
       "tags": [],
       "date": "2026-08-11T13:26:02+00:00"
+    },
+    {
+      "id": "hn-49257876",
+      "source": "hn",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "score": 3,
+      "comments": 0,
+      "author": "quantumgarbage",
+      "tags": [],
+      "date": "2026-08-11T13:22:00+00:00"
     },
     {
       "id": "hn-49257601",
@@ -29,8 +74,8 @@
       "source": "hn",
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 89,
-      "comments": 45,
+      "score": 153,
+      "comments": 79,
       "author": "stevekemp",
       "tags": [],
       "date": "2026-08-11T12:41:59+00:00"
@@ -75,8 +120,8 @@
       "source": "hn",
       "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
       "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "score": 23,
-      "comments": 2,
+      "score": 44,
+      "comments": 4,
       "author": "j0selit0",
       "tags": [],
       "date": "2026-08-11T10:40:47+00:00"
@@ -97,8 +142,8 @@
       "source": "hn",
       "title": "Nvidia's Risky Business",
       "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "score": 45,
-      "comments": 7,
+      "score": 73,
+      "comments": 14,
       "author": "jonbaer",
       "tags": [],
       "date": "2026-08-11T10:02:00+00:00"
@@ -130,8 +175,8 @@
       "source": "hn",
       "title": "Closing Canario Terminal source code",
       "url": "https://rapha.land/closing-canario-terminal-source-code/",
-      "score": 27,
-      "comments": 33,
+      "score": 33,
+      "comments": 35,
       "author": "atan2",
       "tags": [],
       "date": "2026-08-11T08:16:19+00:00",
@@ -142,8 +187,8 @@
       "source": "hn",
       "title": "France to ban unsolicited telemarketing calls",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "score": 587,
-      "comments": 325,
+      "score": 676,
+      "comments": 352,
       "author": "aziaziazi",
       "tags": [],
       "date": "2026-08-11T08:15:46+00:00"
@@ -332,8 +377,8 @@
       "source": "hn",
       "title": "Recycle – Floppydisks",
       "url": "https://www.floppydisk.com/recycle",
-      "score": 86,
-      "comments": 37,
+      "score": 94,
+      "comments": 39,
       "author": "calvinmorrison",
       "tags": [],
       "date": "2026-08-11T02:01:01+00:00"
@@ -343,7 +388,7 @@
       "source": "hn",
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "url": "https://github.com/antirez/h3.c",
-      "score": 352,
+      "score": 366,
       "comments": 77,
       "author": "swyx",
       "tags": [],
@@ -354,8 +399,8 @@
       "source": "hn",
       "title": "Chicken Scheme 6.0",
       "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "score": 237,
-      "comments": 32,
+      "score": 244,
+      "comments": 37,
       "author": "eatonphil",
       "tags": [],
       "date": "2026-08-11T00:24:15+00:00"
@@ -365,8 +410,8 @@
       "source": "hn",
       "title": "The UK's war on anonymity has come to America",
       "url": "https://www.effort.news/uk-lobby",
-      "score": 569,
-      "comments": 599,
+      "score": 583,
+      "comments": 617,
       "author": "slowin",
       "tags": [],
       "date": "2026-08-10T23:45:50+00:00"
@@ -389,8 +434,8 @@
       "source": "hn",
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "url": "https://everycube.alen.is/",
-      "score": 239,
-      "comments": 81,
+      "score": 243,
+      "comments": 90,
       "author": "Alen123",
       "tags": [],
       "date": "2026-08-10T23:16:25+00:00"
@@ -411,8 +456,8 @@
       "source": "hn",
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "score": 517,
-      "comments": 598,
+      "score": 569,
+      "comments": 651,
       "author": "awnird",
       "tags": [],
       "date": "2026-08-10T22:36:30+00:00"
@@ -433,8 +478,8 @@
       "source": "hn",
       "title": "How Claude marks AI-generated content",
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "score": 270,
-      "comments": 244,
+      "score": 300,
+      "comments": 264,
       "author": "mfiguiere",
       "tags": [],
       "date": "2026-08-10T21:36:56+00:00"
@@ -511,8 +556,8 @@
       "source": "hn",
       "title": "Rust SIMD on the GPU",
       "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "score": 204,
-      "comments": 98,
+      "score": 206,
+      "comments": 101,
       "author": "sagacity",
       "tags": [],
       "date": "2026-08-10T18:12:49+00:00"
@@ -545,8 +590,8 @@
       "source": "hn",
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
-      "score": 419,
-      "comments": 153,
+      "score": 436,
+      "comments": 155,
       "author": "HenryNdubuaku",
       "tags": [],
       "date": "2026-08-10T17:22:07+00:00"
@@ -3181,8 +3226,8 @@
       "source": "hn",
       "title": "Stowaway – Take the window seat on any plane or satellite overhead",
       "url": "https://stowaway.live/",
-      "score": 331,
-      "comments": 40,
+      "score": 343,
+      "comments": 42,
       "author": "thunderbong",
       "tags": [],
       "date": "2026-08-07T13:15:10+00:00"
@@ -3375,8 +3420,8 @@
       "source": "hn",
       "title": "Sonic Pi v5",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "score": 400,
-      "comments": 96,
+      "score": 406,
+      "comments": 101,
       "author": "samaaron",
       "tags": [],
       "date": "2026-08-07T10:26:34+00:00"
@@ -4068,8 +4113,8 @@
       "source": "hn",
       "title": "Faster floating point math with Rust's new API",
       "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-      "score": 65,
-      "comments": 18,
+      "score": 75,
+      "comments": 19,
       "author": "subset",
       "tags": [],
       "date": "2026-08-06T13:43:12+00:00"
@@ -4850,8 +4895,8 @@
       "source": "hn",
       "title": "The “mechanical miracle” that ruined Mark Twain’s life",
       "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "score": 165,
-      "comments": 86,
+      "score": 175,
+      "comments": 89,
       "author": "benbreen",
       "tags": [],
       "date": "2026-08-05T15:22:23+00:00"
@@ -5124,57 +5169,12 @@
       "date": "2026-08-05T13:26:01+00:00"
     },
     {
-      "id": "hn-49182560",
-      "source": "hn",
-      "title": "KTX Images Converter for WebGL/GPU and Threejs",
-      "url": "https://ktxconverter.robertborghesi.is",
-      "score": 5,
-      "comments": 1,
-      "author": "dghez",
-      "tags": [],
-      "date": "2026-08-05T13:24:24+00:00"
-    },
-    {
-      "id": "hn-49182551",
-      "source": "hn",
-      "title": "Cloudflare OS – an open-source AI productivity environment",
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "score": 17,
-      "comments": 3,
-      "author": "berlianta",
-      "tags": [],
-      "date": "2026-08-05T13:23:52+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49182148",
-      "source": "hn",
-      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-      "url": "https://gitlab.com/Kazade/picophysics",
-      "score": 67,
-      "comments": 22,
-      "author": "klaussilveira",
-      "tags": [],
-      "date": "2026-08-05T12:52:00+00:00"
-    },
-    {
-      "id": "hn-49182052",
-      "source": "hn",
-      "title": "Iowa et al asks OpenAI to keep their bots sandboxed",
-      "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
-      "score": 18,
-      "comments": 12,
-      "author": "ArcHound",
-      "tags": [],
-      "date": "2026-08-05T12:42:50+00:00"
-    },
-    {
       "id": "hn-49173107",
       "source": "hn",
       "title": "LFM2.5 2.6B model competitive with 4x larger models",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "score": 106,
-      "comments": 31,
+      "score": 119,
+      "comments": 33,
       "author": "nateb2022",
       "tags": [],
       "date": "2026-08-04T18:47:25+00:00"
@@ -5623,6 +5623,51 @@
       "date": "Wed, 05 Aug 2026 07:42:28 GMT"
     },
     {
+      "id": "edb-0493d6ac0d",
+      "source": "msf",
+      "title": "[webapps] Apache Gravitino 1.2.1 - SSRF",
+      "url": "https://www.exploit-db.com/exploits/52641",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 11 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-7551c8e76a",
+      "source": "msf",
+      "title": "[webapps] Blocksy Companion  2.1.46 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52640",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 11 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-3f05c23c86",
+      "source": "msf",
+      "title": "[remote] PraisonAI praisonaiagents  1.6.77 - Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52639",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Tue, 11 Aug 2026 00:00:00 +0000"
+    },
+    {
       "id": "edb-e2d2025f4e",
       "source": "msf",
       "title": "[remote] mcp-server-kubernetes 3.8.x - Argument Injection",
@@ -5801,51 +5846,6 @@
       ],
       "severity": "high",
       "date": "Wed, 08 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-0b3fb20562",
-      "source": "msf",
-      "title": "[webapps] MCPJam Inspector - Remote Code Execution",
-      "url": "https://www.exploit-db.com/exploits/52625",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-04d6169327",
-      "source": "msf",
-      "title": "[local] ProtonVPN v4.4.1 - Unquoted Service Path",
-      "url": "https://www.exploit-db.com/exploits/52624",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "id": "edb-d63c1462cc",
-      "source": "msf",
-      "title": "[webapps] Flowise  3.1.3 - arbitrary code execution",
-      "url": "https://www.exploit-db.com/exploits/52623",
-      "score": null,
-      "author": "Exploit-DB",
-      "tags": [
-        "Exploit-DB",
-        "CVE",
-        "PoC"
-      ],
-      "severity": "high",
-      "date": "Tue, 07 Jul 2026 00:00:00 +0000"
     }
   ]
 }

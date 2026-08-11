@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-11T14:02:45.578256+00:00",
+  "generated_at": "2026-08-11T14:48:31.361749+00:00",
   "total_articles": 452,
   "source_counts": {
     "hn": 362,
@@ -8,8 +8,8 @@
     "project": 2
   },
   "severity_counts": {
-    "critical": 15,
-    "medium": 5,
+    "medium": 6,
+    "critical": 14,
     "high": 3
   },
   "top_articles": [
@@ -84,6 +84,13 @@
       "date": "2026-08-07T00:06:28+00:00"
     },
     {
+      "title": "France to ban unsolicited telemarketing calls",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+      "score": 676,
+      "source": "hn",
+      "date": "2026-08-11T08:15:46+00:00"
+    },
+    {
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
       "score": 640,
@@ -119,18 +126,18 @@
       "date": "2026-08-10T06:02:38+00:00"
     },
     {
-      "title": "France to ban unsolicited telemarketing calls",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "score": 587,
-      "source": "hn",
-      "date": "2026-08-11T08:15:46+00:00"
-    },
-    {
       "title": "The UK's war on anonymity has come to America",
       "url": "https://www.effort.news/uk-lobby",
-      "score": 569,
+      "score": 583,
       "source": "hn",
       "date": "2026-08-10T23:45:50+00:00"
+    },
+    {
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "score": 569,
+      "source": "hn",
+      "date": "2026-08-10T22:36:30+00:00"
     },
     {
       "title": "Mea Culpa – Dark Hours",
@@ -145,13 +152,6 @@
       "score": 530,
       "source": "hn",
       "date": "2026-08-08T18:09:31+00:00"
-    },
-    {
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "score": 517,
-      "source": "hn",
-      "date": "2026-08-10T22:36:30+00:00"
     }
   ],
   "security_highlights": [
@@ -273,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-05T14:46:36+00:00"
-    },
-    {
-      "title": "Cloudflare OS – an open-source AI productivity environment",
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-05T13:23:52+00:00"
     }
   ]
 }
