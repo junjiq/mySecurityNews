@@ -1,0 +1,6 @@
+{
+  "scriptId": "ここに Apps Script のスクリプト ID を入れる",
+  "rootDir": "src",
+  "fileExtension": "js",
+  "filePushOrder": ["src/Config.js", "src/Utils.js", "src/SheetService.js", "src/Api.js", "src/Code.js"]
+}

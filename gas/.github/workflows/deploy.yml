@@ -1,0 +1,47 @@
+name: Deploy to Apps Script
+
+# 手動実行のみ。誤って本番へ push しないように push トリガーは付けていない。
+on:
+  workflow_dispatch:
+    inputs:
+      create_version:
+        description: 'clasp deploy まで実行して新しいバージョンを作る'
+        type: boolean
+        default: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # package-lock.json をコミットしたら npm ci に切り替えるとより速い。
+      - name: 依存パッケージのインストール
+        run: npm install --no-audit --no-fund
+
+      # clasp login で作られる ~/.clasprc.json の中身を
+      # リポジトリの Secrets に CLASPRC_JSON として登録しておく。
+      - name: clasp の認証情報を配置
+        run: echo "$CLASPRC_JSON" > ~/.clasprc.json
+        env:
+          CLASPRC_JSON: ${{ secrets.CLASPRC_JSON }}
+
+      - name: .clasp.json を生成
+        run: |
+          cat > .clasp.json <<EOF
+          {
+            "scriptId": "${{ secrets.SCRIPT_ID }}",
+            "rootDir": "src"
+          }
+          EOF
+
+      - name: Apps Script へ push
+        run: npx clasp push --force
+
+      - name: バージョンをデプロイ
+        if: ${{ inputs.create_version }}
+        run: npx clasp deploy --description "CI ${{ github.sha }}"

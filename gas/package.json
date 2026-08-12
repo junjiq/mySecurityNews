@@ -1,0 +1,31 @@
+{
+  "name": "gas-sheets-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Google Apps Script + HTML Service + Google Sheets のプロジェクト環境",
+  "scripts": {
+    "login": "clasp login",
+    "clone": "clasp clone",
+    "push": "clasp push",
+    "watch": "clasp push --watch",
+    "pull": "clasp pull",
+    "open": "clasp open",
+    "logs": "clasp logs --watch",
+    "deploy": "clasp deploy --description \"$npm_config_message\"",
+    "deployments": "clasp deployments",
+    "lint": "eslint \"src/**/*.js\"",
+    "lint:fix": "eslint \"src/**/*.js\" --fix",
+    "format": "prettier --write \"src/**/*.{js,html}\" \"*.{json,md}\"",
+    "format:check": "prettier --check \"src/**/*.{js,html}\" \"*.{json,md}\""
+  },
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-googleappsscript": "^1.0.5",
+    "prettier": "^3.3.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

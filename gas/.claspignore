@@ -1,0 +1,6 @@
+# clasp push の対象から外すファイル。
+# rootDir (src) 配下だけが push 対象なので、念のための保険として書いておく。
+node_modules/**
+**/node_modules/**
+.git/**
+**/*.md

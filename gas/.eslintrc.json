@@ -1,0 +1,25 @@
+{
+  "root": true,
+  "env": {
+    "es2020": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "script"
+  },
+  "plugins": ["googleappsscript"],
+  "extends": ["eslint:recommended", "plugin:googleappsscript/recommended", "prettier"],
+  "globals": {
+    "APP_TITLE": "writable",
+    "SHEET_NAME": "writable",
+    "LOG_SHEET_NAME": "writable",
+    "HEADERS": "writable",
+    "STATUSES": "writable"
+  },
+  "rules": {
+    "no-unused-vars": ["warn", { "args": "none" }],
+    "no-var": "off",
+    "eqeqeq": ["error", "smart"],
+    "curly": ["error", "multi-line"]
+  }
+}

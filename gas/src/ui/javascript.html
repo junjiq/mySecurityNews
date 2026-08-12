@@ -1,0 +1,326 @@
+<script>
+  (function () {
+    'use strict';
+
+    /**
+     * google.script.run を Promise でラップする。
+     * サーバー側は {ok:true,data} / {ok:false,error} を返す約束なので、
+     * ok:false は reject に変換する。
+     *
+     * @param {string} name サーバー関数名
+     * @param {...*} args 引数
+     * @return {Promise<*>}
+     */
+    function call(name) {
+      var args = Array.prototype.slice.call(arguments, 1);
+      return new Promise(function (resolve, reject) {
+        google.script.run
+          .withSuccessHandler(function (response) {
+            if (response && response.ok) resolve(response.data);
+            else reject(new Error((response && response.error) || '不明なエラーが発生しました。'));
+          })
+          .withFailureHandler(function (error) {
+            reject(new Error(error && error.message ? error.message : String(error)));
+          })
+          [name].apply(null, args);
+      });
+    }
+
+    var state = {
+      items: [],
+      statuses: [],
+      editingId: ''
+    };
+
+    var el = {};
+    var pending = 0;
+
+    /** 画面のローディング表示を切り替える。 */
+    function setLoading(isLoading) {
+      pending += isLoading ? 1 : -1;
+      if (pending < 0) pending = 0;
+      el.loading.hidden = pending === 0;
+    }
+
+    /** トーストを表示する。 */
+    var toastTimer = null;
+    function toast(message, isError) {
+      el.toast.textContent = message;
+      el.toast.classList.toggle('is-error', !!isError);
+      el.toast.hidden = false;
+      if (toastTimer) clearTimeout(toastTimer);
+      toastTimer = setTimeout(function () {
+        el.toast.hidden = true;
+      }, isError ? 6000 : 3000);
+    }
+
+    /** 日時文字列を読みやすく整形する。 */
+    function formatDateTime(value) {
+      if (!value) return '';
+      var date = new Date(value);
+      if (isNaN(date.getTime())) return value;
+      var pad = function (n) {
+        return String(n).padStart(2, '0');
+      };
+      return (
+        date.getFullYear() +
+        '/' +
+        pad(date.getMonth() + 1) +
+        '/' +
+        pad(date.getDate()) +
+        ' ' +
+        pad(date.getHours()) +
+        ':' +
+        pad(date.getMinutes())
+      );
+    }
+
+    /** セルを作る。textContent を使うので HTML は挿入されない。 */
+    function cell(text) {
+      var td = document.createElement('td');
+      td.textContent = text || '';
+      return td;
+    }
+
+    /** ステータスのバッジ要素を作る。 */
+    function statusCell(status) {
+      var td = document.createElement('td');
+      var span = document.createElement('span');
+      span.className = 'badge badge-' + (status || 'todo');
+      span.textContent = status || '';
+      td.appendChild(span);
+      return td;
+    }
+
+    /** 一覧を描画する。 */
+    function render() {
+      el.tbody.textContent = '';
+      el.empty.hidden = state.items.length > 0;
+
+      state.items.forEach(function (item) {
+        var tr = document.createElement('tr');
+        if (item.id === state.editingId) tr.classList.add('is-editing');
+
+        tr.appendChild(cell(item.title));
+        tr.appendChild(cell(item.category));
+        tr.appendChild(statusCell(item.status));
+        tr.appendChild(cell(formatDateTime(item.updatedAt)));
+
+        var actions = document.createElement('td');
+        actions.className = 'col-actions';
+
+        var editButton = document.createElement('button');
+        editButton.type = 'button';
+        editButton.className = 'link-button';
+        editButton.textContent = '編集';
+        editButton.addEventListener('click', function () {
+          startEdit(item);
+        });
+
+        var deleteButton = document.createElement('button');
+        deleteButton.type = 'button';
+        deleteButton.className = 'link-button danger';
+        deleteButton.textContent = '削除';
+        deleteButton.addEventListener('click', function () {
+          removeItem(item);
+        });
+
+        actions.appendChild(editButton);
+        actions.appendChild(deleteButton);
+        tr.appendChild(actions);
+
+        el.tbody.appendChild(tr);
+      });
+
+      renderCategorySuggestions();
+    }
+
+    /** 入力補助用のカテゴリ候補を更新する。 */
+    function renderCategorySuggestions() {
+      var seen = {};
+      el.categoryList.textContent = '';
+      state.items.forEach(function (item) {
+        if (!item.category || seen[item.category]) return;
+        seen[item.category] = true;
+        var option = document.createElement('option');
+        option.value = item.category;
+        el.categoryList.appendChild(option);
+      });
+    }
+
+    /** サーバーから一覧を取り直す。 */
+    function reload() {
+      setLoading(true);
+      return call('apiListItems', {
+        keyword: el.keyword.value,
+        status: el.filterStatus.value
+      })
+        .then(function (items) {
+          state.items = items || [];
+          render();
+        })
+        .catch(function (error) {
+          toast(error.message, true);
+        })
+        .then(function () {
+          setLoading(false);
+        });
+    }
+
+    /** フォームを新規登録モードに戻す。 */
+    function resetForm() {
+      state.editingId = '';
+      el.form.reset();
+      el.itemId.value = '';
+      el.status.value = state.statuses[0] || '';
+      el.formTitle.textContent = '新規登録';
+      el.submitButton.textContent = '登録する';
+      render();
+    }
+
+    /** 指定レコードを編集モードで読み込む。 */
+    function startEdit(item) {
+      state.editingId = item.id;
+      el.itemId.value = item.id;
+      el.title.value = item.title || '';
+      el.category.value = item.category || '';
+      el.status.value = item.status || state.statuses[0] || '';
+      el.note.value = item.note || '';
+      el.formTitle.textContent = '編集中';
+      el.submitButton.textContent = '更新する';
+      render();
+      el.title.focus();
+    }
+
+    /** フォームの内容を保存する（新規 or 更新）。 */
+    function save(event) {
+      event.preventDefault();
+      var form = {
+        title: el.title.value,
+        category: el.category.value,
+        status: el.status.value,
+        note: el.note.value
+      };
+      var id = el.itemId.value;
+
+      setLoading(true);
+      el.submitButton.disabled = true;
+
+      var request = id ? call('apiUpdateItem', id, form) : call('apiCreateItem', form);
+
+      request
+        .then(function () {
+          toast(id ? '更新しました' : '登録しました');
+          resetForm();
+          return reload();
+        })
+        .catch(function (error) {
+          toast(error.message, true);
+        })
+        .then(function () {
+          el.submitButton.disabled = false;
+          setLoading(false);
+        });
+    }
+
+    /** レコードを削除する。 */
+    function removeItem(item) {
+      if (!window.confirm('「' + item.title + '」を削除します。よろしいですか？')) return;
+
+      setLoading(true);
+      call('apiDeleteItem', item.id)
+        .then(function () {
+          toast('削除しました');
+          if (state.editingId === item.id) resetForm();
+          return reload();
+        })
+        .catch(function (error) {
+          toast(error.message, true);
+        })
+        .then(function () {
+          setLoading(false);
+        });
+    }
+
+    /** 入力から一定時間止まったら実行する。 */
+    function debounce(fn, wait) {
+      var timer = null;
+      return function () {
+        var args = arguments;
+        if (timer) clearTimeout(timer);
+        timer = setTimeout(function () {
+          fn.apply(null, args);
+        }, wait);
+      };
+    }
+
+    /** 起動時の初期化。 */
+    function init() {
+      el = {
+        appTitle: document.getElementById('app-title'),
+        userEmail: document.getElementById('user-email'),
+        sheetLink: document.getElementById('sheet-link'),
+        form: document.getElementById('item-form'),
+        formTitle: document.getElementById('form-title'),
+        itemId: document.getElementById('item-id'),
+        title: document.getElementById('title'),
+        category: document.getElementById('category'),
+        categoryList: document.getElementById('category-list'),
+        status: document.getElementById('status'),
+        note: document.getElementById('note'),
+        submitButton: document.getElementById('submit-button'),
+        resetButton: document.getElementById('reset-button'),
+        keyword: document.getElementById('keyword'),
+        filterStatus: document.getElementById('filter-status'),
+        reloadButton: document.getElementById('reload-button'),
+        tbody: document.getElementById('item-tbody'),
+        empty: document.getElementById('empty-message'),
+        toast: document.getElementById('toast'),
+        loading: document.getElementById('loading')
+      };
+
+      el.form.addEventListener('submit', save);
+      el.resetButton.addEventListener('click', resetForm);
+      el.reloadButton.addEventListener('click', reload);
+      el.keyword.addEventListener('input', debounce(reload, 300));
+      el.filterStatus.addEventListener('change', reload);
+
+      setLoading(true);
+      call('apiGetBootstrap')
+        .then(function (bootstrap) {
+          state.statuses = bootstrap.statuses || [];
+          el.appTitle.textContent = bootstrap.appTitle;
+          document.title = bootstrap.appTitle;
+          el.userEmail.textContent = bootstrap.user || '';
+
+          if (bootstrap.spreadsheetUrl) {
+            el.sheetLink.href = bootstrap.spreadsheetUrl;
+            el.sheetLink.hidden = false;
+          }
+
+          state.statuses.forEach(function (status) {
+            var option = document.createElement('option');
+            option.value = status;
+            option.textContent = status;
+            el.status.appendChild(option);
+
+            var filterOption = document.createElement('option');
+            filterOption.value = status;
+            filterOption.textContent = status;
+            el.filterStatus.appendChild(filterOption);
+          });
+
+          resetForm();
+          return reload();
+        })
+        .catch(function (error) {
+          toast(error.message, true);
+        })
+        .then(function () {
+          setLoading(false);
+        });
+    }
+
+    document.addEventListener('DOMContentLoaded', init);
+  })();
+</script>

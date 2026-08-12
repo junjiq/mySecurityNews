@@ -1,0 +1,18 @@
+# clasp（scriptId は環境ごとに異なるためコミットしない）
+.clasp.json
+.clasprc.json
+
+# 依存パッケージ
+node_modules/
+
+# ログ・一時ファイル
+*.log
+npm-debug.log*
+.DS_Store
+
+# 認証情報
+credentials.json
+token.json
+.env
+.env.*
+!.env.example

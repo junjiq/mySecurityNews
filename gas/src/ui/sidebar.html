@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <base target="_top" />
+    <meta charset="utf-8" />
+    <?!= include('ui/stylesheet'); ?>
+    <style>
+      body {
+        padding: 12px;
+        background: #fff;
+      }
+      .panel {
+        border: none;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>クイック登録</h2>
+    <form id="quick-form" autocomplete="off">
+      <label for="quick-title">タイトル <span class="required">*</span></label>
+      <input type="text" id="quick-title" maxlength="200" required />
+
+      <label for="quick-category">カテゴリ</label>
+      <input type="text" id="quick-category" maxlength="100" />
+
+      <label for="quick-note">メモ</label>
+      <textarea id="quick-note" rows="3" maxlength="1000"></textarea>
+
+      <div class="actions">
+        <button type="submit" id="quick-submit" class="primary">登録する</button>
+      </div>
+    </form>
+
+    <p id="quick-message" class="muted"></p>
+
+    <script>
+      (function () {
+        'use strict';
+
+        var form = document.getElementById('quick-form');
+        var button = document.getElementById('quick-submit');
+        var message = document.getElementById('quick-message');
+
+        form.addEventListener('submit', function (event) {
+          event.preventDefault();
+          button.disabled = true;
+          message.textContent = '登録中…';
+
+          google.script.run
+            .withSuccessHandler(function (response) {
+              button.disabled = false;
+              if (response && response.ok) {
+                message.textContent = '登録しました。';
+                form.reset();
+                document.getElementById('quick-title').focus();
+              } else {
+                message.textContent = (response && response.error) || '登録に失敗しました。';
+              }
+            })
+            .withFailureHandler(function (error) {
+              button.disabled = false;
+              message.textContent = error && error.message ? error.message : String(error);
+            })
+            .apiCreateItem({
+              title: document.getElementById('quick-title').value,
+              category: document.getElementById('quick-category').value,
+              note: document.getElementById('quick-note').value
+            });
+        });
+      })();
+    </script>
+  </body>
+</html>
