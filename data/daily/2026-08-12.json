@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T19:23:14.919977+00:00",
-  "total_articles": 72,
+  "generated_at": "2026-08-12T19:51:18.968661+00:00",
+  "total_articles": 68,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,20 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 66,
+      "count": 62,
       "top_items": [
-        {
-          "title": "Compression is prediction",
-          "url": "https://ngrok.com/blog/compression-is-prediction",
-          "score": 611,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-11T19:49:44+00:00"
-        },
         {
           "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
           "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-          "score": 529,
+          "score": 547,
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T14:22:30+00:00"
@@ -43,7 +35,7 @@
         {
           "title": "AI is removing the middle class of software engineering",
           "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "score": 505,
+          "score": 527,
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T13:20:05+00:00"
@@ -51,7 +43,7 @@
         {
           "title": "DeepSeek V4 Pro 0813",
           "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-          "score": 436,
+          "score": 459,
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T16:04:50+00:00"
@@ -63,6 +55,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T06:30:49+00:00"
+        },
+        {
+          "title": "License plate reader searches should require a warrant",
+          "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+          "score": 424,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-12T14:43:39+00:00"
         }
       ]
     },
