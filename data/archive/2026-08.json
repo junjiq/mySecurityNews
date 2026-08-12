@@ -1,16 +1,16 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-12T14:26:27.003568+00:00",
+  "generated_at": "2026-08-12T14:49:11.671825+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 361,
-    "zennqiita": 89,
+    "hn": 362,
+    "zennqiita": 88,
     "project": 3
   },
   "severity_counts": {
+    "high": 3,
     "critical": 13,
-    "medium": 5,
-    "high": 2
+    "medium": 5
   },
   "top_articles": [
     {
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-08-12T14:02:46+00:00"
+    },
     {
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
       "url": "https://woxi.ad-si.com",

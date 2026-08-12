@@ -1,25 +1,59 @@
 {
-  "updated_at": "2026-08-12T14:26:26.896616+00:00",
+  "updated_at": "2026-08-12T14:49:11.558587+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49273165",
+      "source": "hn",
+      "title": "License Plate Reader Searches Should Require a Warrant",
+      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+      "score": 6,
+      "comments": 0,
+      "author": "apwheele",
+      "tags": [],
+      "date": "2026-08-12T14:43:39+00:00"
+    },
+    {
+      "id": "hn-49272832",
+      "source": "hn",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 8,
+      "comments": 0,
+      "author": "ropbear",
+      "tags": [],
+      "date": "2026-08-12T14:22:30+00:00"
+    },
     {
       "id": "hn-49272655",
       "source": "hn",
       "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 7,
-      "comments": 0,
+      "score": 35,
+      "comments": 7,
       "author": "doener",
       "tags": [],
       "date": "2026-08-12T14:09:11+00:00"
+    },
+    {
+      "id": "hn-49272569",
+      "source": "hn",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "score": 16,
+      "comments": 3,
+      "author": "gavinhking",
+      "tags": [],
+      "date": "2026-08-12T14:02:46+00:00",
+      "severity": "high"
     },
     {
       "id": "hn-49272549",
       "source": "hn",
       "title": "Why Tiny JPEGs Look Different in Chrome",
       "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 25,
-      "comments": 0,
+      "score": 58,
+      "comments": 1,
       "author": "gutechh",
       "tags": [],
       "date": "2026-08-12T14:00:54+00:00"
@@ -40,8 +74,8 @@
       "source": "hn",
       "title": "My Agent Setup",
       "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
-      "score": 6,
-      "comments": 2,
+      "score": 17,
+      "comments": 12,
       "author": "carimura",
       "tags": [],
       "date": "2026-08-12T13:56:05+00:00"
@@ -51,8 +85,8 @@
       "source": "hn",
       "title": "Only 2.6% of the most visited websites have fully valid HTML",
       "url": "https://validatehtml.com/html-error-statistics",
-      "score": 6,
-      "comments": 5,
+      "score": 12,
+      "comments": 11,
       "author": "theo_dcrx",
       "tags": [],
       "date": "2026-08-12T13:44:01+00:00"
@@ -62,8 +96,8 @@
       "source": "hn",
       "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
       "url": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
-      "score": 10,
-      "comments": 0,
+      "score": 19,
+      "comments": 2,
       "author": "dmikey831",
       "tags": [],
       "date": "2026-08-12T13:41:12+00:00"
@@ -73,8 +107,8 @@
       "source": "hn",
       "title": "Show HN: Meteor shower, planet alignment, eclipse kit",
       "url": "https://lifesprites.com/share/0ACA25",
-      "score": 3,
-      "comments": 3,
+      "score": 5,
+      "comments": 4,
       "author": "jmtrevarton",
       "tags": [],
       "date": "2026-08-12T13:39:10+00:00"
@@ -95,11 +129,33 @@
       "source": "hn",
       "title": "AI is removing the middle class of software engineering",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "score": 22,
-      "comments": 6,
+      "score": 97,
+      "comments": 62,
       "author": "florianherrengt",
       "tags": [],
       "date": "2026-08-12T13:20:05+00:00"
+    },
+    {
+      "id": "hn-49271757",
+      "source": "hn",
+      "title": "Shade Map",
+      "url": "https://shademap.app",
+      "score": 15,
+      "comments": 5,
+      "author": "fredley",
+      "tags": [],
+      "date": "2026-08-12T13:01:21+00:00"
+    },
+    {
+      "id": "hn-49271413",
+      "source": "hn",
+      "title": "YC startups are abandoning .com",
+      "url": "https://www.orangecrumbs.com/stories/yc-domains",
+      "score": 18,
+      "comments": 16,
+      "author": "oyster143",
+      "tags": [],
+      "date": "2026-08-12T12:33:22+00:00"
     },
     {
       "id": "hn-49271126",
@@ -117,8 +173,8 @@
       "source": "hn",
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 229,
-      "comments": 54,
+      "score": 264,
+      "comments": 60,
       "author": "zoenolan",
       "tags": [],
       "date": "2026-08-12T11:53:01+00:00"
@@ -135,6 +191,17 @@
       "date": "2026-08-12T11:44:40+00:00"
     },
     {
+      "id": "hn-49270857",
+      "source": "hn",
+      "title": "5th Heat Dome Expands Across Europe: 40°C+ Target Western and Central Europe",
+      "url": "https://www.severe-weather.eu/global-weather/excessive-heat-dome-heatwave-western-europe-mid-august-2026-mk/",
+      "score": 24,
+      "comments": 1,
+      "author": "robtherobber",
+      "tags": [],
+      "date": "2026-08-12T11:42:17+00:00"
+    },
+    {
       "id": "hn-49270764",
       "source": "hn",
       "title": "I hate packaging my software for Linux",
@@ -146,12 +213,23 @@
       "date": "2026-08-12T11:33:48+00:00"
     },
     {
+      "id": "hn-49270726",
+      "source": "hn",
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "score": 15,
+      "comments": 6,
+      "author": "Markoff",
+      "tags": [],
+      "date": "2026-08-12T11:28:27+00:00"
+    },
+    {
       "id": "hn-49270621",
       "source": "hn",
       "title": "Delphi 13 Community Edition Is Now Available",
       "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-      "score": 72,
-      "comments": 55,
+      "score": 79,
+      "comments": 59,
       "author": "layer8",
       "tags": [],
       "date": "2026-08-12T11:13:36+00:00"
@@ -161,8 +239,8 @@
       "source": "hn",
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
       "url": "https://woxi.ad-si.com",
-      "score": 146,
-      "comments": 16,
+      "score": 157,
+      "comments": 19,
       "author": "adius",
       "tags": [],
       "date": "2026-08-12T10:06:29+00:00",
@@ -173,8 +251,8 @@
       "source": "hn",
       "title": "What sort of maths are LLMs good at?",
       "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "score": 160,
-      "comments": 68,
+      "score": 164,
+      "comments": 72,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-08-12T10:04:25+00:00"
@@ -184,8 +262,8 @@
       "source": "hn",
       "title": "Facebook is paying controversial creators to produce rage-bait content",
       "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-      "score": 358,
-      "comments": 224,
+      "score": 383,
+      "comments": 234,
       "author": "robtherobber",
       "tags": [],
       "date": "2026-08-12T09:35:30+00:00"
@@ -505,8 +583,8 @@
       "source": "hn",
       "title": "The Ultimate Horse",
       "url": "https://worksinprogress.co/issue/the-ultimate-horse/",
-      "score": 11,
-      "comments": 0,
+      "score": 16,
+      "comments": 2,
       "author": "Petiver",
       "tags": [],
       "date": "2026-08-11T19:29:14+00:00"
@@ -4668,8 +4746,8 @@
       "source": "hn",
       "title": "Bigos (Polish Hunter's Stew) Recipe Builder",
       "url": "https://chefsbinge.com/bigos-recipe-builder/",
-      "score": 29,
-      "comments": 9,
+      "score": 34,
+      "comments": 12,
       "author": "doublepg23",
       "tags": [],
       "date": "2026-08-07T05:27:45+00:00"
@@ -4838,6 +4916,17 @@
       "date": "2026-08-07T08:53:59+09:00"
     },
     {
+      "id": "hn-49204173",
+      "source": "hn",
+      "title": "ArenaAllocators don't play nicely with ArrayLists",
+      "url": "https://www.openmymind.net/Arena-Allocators-and-ArrayLists/",
+      "score": 5,
+      "comments": 1,
+      "author": "ibobev",
+      "tags": [],
+      "date": "2026-08-06T23:43:35+00:00"
+    },
+    {
       "id": "hn-49203707",
       "source": "hn",
       "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
@@ -4974,8 +5063,8 @@
       "source": "hn",
       "title": "The hardest working font in Manhattan (2025)",
       "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-      "score": 300,
-      "comments": 46,
+      "score": 310,
+      "comments": 48,
       "author": "dcminter",
       "tags": [],
       "date": "2026-08-06T20:22:29+00:00"
@@ -5081,101 +5170,11 @@
       "date": "2026-08-06T17:01:33+00:00"
     },
     {
-      "id": "hn-49198583",
-      "source": "hn",
-      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
-      "url": "https://github.com/CopilotKit/channels-sdk",
-      "score": 98,
-      "comments": 21,
-      "author": "davidmckayv",
-      "tags": [],
-      "date": "2026-08-06T16:05:51+00:00"
-    },
-    {
-      "id": "qiita-c2c714d172",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "システム設計視点の行動経済学 全10回 総復習",
-      "url": "https://qiita.com/maskot1977/items/198f98dbbdce80c1790e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T01:03:23+09:00"
-    },
-    {
-      "id": "hn-49198464",
-      "source": "hn",
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
-      "score": 216,
-      "comments": 152,
-      "author": "willcarkner",
-      "tags": [],
-      "date": "2026-08-06T15:59:15+00:00"
-    },
-    {
-      "id": "hn-49198302",
-      "source": "hn",
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "score": 477,
-      "comments": 397,
-      "author": "Footkerchief",
-      "tags": [],
-      "date": "2026-08-06T15:49:38+00:00"
-    },
-    {
-      "id": "hn-49198069",
-      "source": "hn",
-      "title": "Software development with AI is starting to feel like cooking steak",
-      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "score": 351,
-      "comments": 380,
-      "author": "yusyd",
-      "tags": [],
-      "date": "2026-08-06T15:30:48+00:00"
-    },
-    {
-      "id": "hn-49197565",
-      "source": "hn",
-      "title": "A shell exclamation mark is not for yelling. Be lazy",
-      "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-      "score": 119,
-      "comments": 59,
-      "author": "refp",
-      "tags": [],
-      "date": "2026-08-06T14:53:40+00:00"
-    },
-    {
-      "id": "hn-49197498",
-      "source": "hn",
-      "title": "Taylor Farms Cyclospora outbreak triples in size",
-      "url": "https://efoodalert.com/2026/08/05/taylor-farms-cyclospora-outbreak-triples-in-size/",
-      "score": 8,
-      "comments": 2,
-      "author": "speckx",
-      "tags": [],
-      "date": "2026-08-06T14:48:40+00:00"
-    },
-    {
-      "id": "hn-49197109",
-      "source": "hn",
-      "title": "Degrees of Wealth",
-      "url": "https://jaapgrolleman.com/degrees-of-wealth/",
-      "score": 17,
-      "comments": 13,
-      "author": "jxub",
-      "tags": [],
-      "date": "2026-08-06T14:23:57+00:00"
-    },
-    {
       "id": "hn-49194856",
       "source": "hn",
       "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
       "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-      "score": 84,
+      "score": 96,
       "comments": 7,
       "author": "bookofjoe",
       "tags": [],
@@ -5186,7 +5185,7 @@
       "source": "hn",
       "title": "I built a jellyfish laboratory in my backyard [video]",
       "url": "https://www.youtube.com/watch?v=MILwxfQBm6Q",
-      "score": 26,
+      "score": 28,
       "comments": 2,
       "author": "surprisetalk",
       "tags": [],

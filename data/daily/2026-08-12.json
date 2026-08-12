@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T14:26:26.958250+00:00",
-  "total_articles": 68,
-  "urgent_count": 1,
+  "generated_at": "2026-08-12T14:49:11.623644+00:00",
+  "total_articles": 72,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
@@ -10,12 +10,19 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-12T10:06:29+00:00"
+    },
+    {
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-08-12T14:02:46+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 62,
       "top_items": [
         {
           "title": "Compression is prediction",
@@ -44,7 +51,7 @@
         {
           "title": "Facebook is paying controversial creators to produce rage-bait content",
           "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-          "score": 358,
+          "score": 383,
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T09:35:30+00:00"
