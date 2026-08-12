@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-12T08:55:13.089878+00:00",
+  "generated_at": "2026-08-12T09:26:16.858159+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 352,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 6,
-    "critical": 14,
+    "critical": 13,
     "high": 2
   },
   "top_articles": [
@@ -100,7 +100,7 @@
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 614,
+      "score": 620,
       "source": "hn",
       "date": "2026-08-11T13:22:00+00:00"
     },
@@ -133,18 +133,18 @@
       "date": "2026-08-08T18:09:31+00:00"
     },
     {
+      "title": "Compression is prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "score": 520,
+      "source": "hn",
+      "date": "2026-08-11T19:49:44+00:00"
+    },
+    {
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
       "score": 520,
       "source": "hn",
       "date": "2026-08-11T12:41:59+00:00"
-    },
-    {
-      "title": "Compression is prediction",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "score": 506,
-      "source": "hn",
-      "date": "2026-08-11T19:49:44+00:00"
     },
     {
       "title": "Tl;dv: Over 180k meetings left wide open",
@@ -259,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-06T11:28:00+00:00"
-    },
-    {
-      "title": "How to Install Python3.14 from source on Ubuntu 26.04",
-      "url": "https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu-26-04/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-06T02:31:11+00:00"
     }
   ]
 }
