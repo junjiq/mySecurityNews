@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T13:30:46.313538+00:00",
-  "total_articles": 62,
+  "generated_at": "2026-08-12T14:26:26.958250+00:00",
+  "total_articles": 68,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,15 +15,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 52,
+      "count": 58,
       "top_items": [
         {
           "title": "Compression is prediction",
           "url": "https://ngrok.com/blog/compression-is-prediction",
-          "score": 595,
+          "score": 611,
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T19:49:44+00:00"
+        },
+        {
+          "title": "LinkedIn CringeBot 3000",
+          "url": "https://www.cringebot3000.com/",
+          "score": 426,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-12T06:30:49+00:00"
         },
         {
           "title": "Mojo 1.0",
@@ -34,12 +42,12 @@
           "date": "2026-08-11T16:56:46+00:00"
         },
         {
-          "title": "LinkedIn CringeBot 3000",
-          "url": "https://www.cringebot3000.com/",
-          "score": 372,
+          "title": "Facebook is paying controversial creators to produce rage-bait content",
+          "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+          "score": 358,
           "source": "hn",
           "severity": null,
-          "date": "2026-08-12T06:30:49+00:00"
+          "date": "2026-08-12T09:35:30+00:00"
         },
         {
           "title": "Go is an ideal language for AI-assisted software engineering",
@@ -48,14 +56,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T16:57:09+00:00"
-        },
-        {
-          "title": "Grok Bot",
-          "url": "https://x.ai/bot",
-          "score": 302,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-11T17:23:09+00:00"
         }
       ]
     },
