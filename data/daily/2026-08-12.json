@@ -1,9 +1,16 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T09:50:04.441499+00:00",
-  "total_articles": 70,
-  "urgent_count": 1,
+  "generated_at": "2026-08-12T10:23:01.232322+00:00",
+  "total_articles": 71,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-12T10:06:29+00:00"
+    },
     {
       "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",
       "url": "https://writemd.app/",
@@ -15,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 57,
+      "count": 58,
       "top_items": [
         {
           "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
           "url": "https://stolen-thoughts.com/",
-          "score": 621,
+          "score": 626,
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T13:22:00+00:00"
@@ -28,7 +35,7 @@
         {
           "title": "Compression is prediction",
           "url": "https://ngrok.com/blog/compression-is-prediction",
-          "score": 527,
+          "score": 540,
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T19:49:44+00:00"
@@ -44,7 +51,7 @@
         {
           "title": "Mojo 1.0",
           "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-          "score": 385,
+          "score": 389,
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T16:56:46+00:00"
