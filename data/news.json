@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-08-12T00:21:35.519839+00:00",
+  "updated_at": "2026-08-12T00:48:52.424528+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49266277",
+      "source": "hn",
+      "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+      "score": 15,
+      "comments": 2,
+      "author": "michaefe",
+      "tags": [],
+      "date": "2026-08-12T00:17:59+00:00"
+    },
     {
       "id": "hn-49265879",
       "source": "hn",
       "title": "US hires over 2k video gamers as air traffic controllers",
       "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-      "score": 29,
-      "comments": 12,
+      "score": 42,
+      "comments": 28,
       "author": "shagie",
       "tags": [],
       "date": "2026-08-11T23:26:17+00:00"
@@ -44,8 +55,8 @@
       "source": "hn",
       "title": "WorldClaw Agentic 3D open-world generation at scale",
       "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "score": 81,
-      "comments": 28,
+      "score": 98,
+      "comments": 31,
       "author": "EwanG",
       "tags": [],
       "date": "2026-08-11T21:56:18+00:00"
@@ -55,8 +66,8 @@
       "source": "hn",
       "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-      "score": 30,
-      "comments": 1,
+      "score": 31,
+      "comments": 2,
       "author": "saisrirampur",
       "tags": [],
       "date": "2026-08-11T21:54:25+00:00"
@@ -66,19 +77,33 @@
       "source": "hn",
       "title": "Suzanne: AI tool for designing and manufacturing physical products",
       "url": "https://www.suzanne3d.com/",
-      "score": 27,
-      "comments": 20,
+      "score": 29,
+      "comments": 23,
       "author": "Samanthajeanneb",
       "tags": [],
       "date": "2026-08-11T21:28:26+00:00"
+    },
+    {
+      "id": "ctf-4372374",
+      "source": "project",
+      "proj_category": "CTF",
+      "title": "Support HTB Writeup",
+      "url": "https://dev.to/blue0x1/support-htb-writeup-4p30",
+      "score": 0,
+      "author": "CTF Platform",
+      "tags": [
+        "CTF",
+        "Security"
+      ],
+      "date": "2026-08-11T21:16:15Z"
     },
     {
       "id": "hn-49264583",
       "source": "hn",
       "title": "Emergent Introspective Awareness in Large Language Models",
       "url": "https://arxiv.org/abs/2601.01828",
-      "score": 18,
-      "comments": 7,
+      "score": 21,
+      "comments": 9,
       "author": "doener",
       "tags": [],
       "date": "2026-08-11T21:14:10+00:00"
@@ -99,8 +124,8 @@
       "source": "hn",
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "score": 210,
-      "comments": 92,
+      "score": 222,
+      "comments": 99,
       "author": "nikolay",
       "tags": [],
       "date": "2026-08-11T19:49:44+00:00"
@@ -121,8 +146,8 @@
       "source": "hn",
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "score": 162,
-      "comments": 82,
+      "score": 170,
+      "comments": 84,
       "author": "droidjj",
       "tags": [],
       "date": "2026-08-11T19:35:52+00:00"
@@ -143,7 +168,7 @@
       "source": "hn",
       "title": "Making holograms with a pen plotter",
       "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "score": 104,
+      "score": 107,
       "comments": 11,
       "author": "DemiGuru",
       "tags": [],
@@ -165,8 +190,8 @@
       "source": "hn",
       "title": "How we used to get jobs: A newspaper classifieds story",
       "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "score": 98,
-      "comments": 82,
+      "score": 104,
+      "comments": 85,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-11T18:09:56+00:00"
@@ -220,8 +245,8 @@
       "source": "hn",
       "title": "Grok Bot",
       "url": "https://x.ai/bot",
-      "score": 106,
-      "comments": 105,
+      "score": 118,
+      "comments": 112,
       "author": "rvz",
       "tags": [],
       "date": "2026-08-11T17:23:09+00:00"
@@ -253,8 +278,8 @@
       "source": "hn",
       "title": "RSI Simulator",
       "url": "https://www.paradigm.xyz/writing/rsi-simulator",
-      "score": 26,
-      "comments": 11,
+      "score": 28,
+      "comments": 12,
       "author": "ckraeuter",
       "tags": [],
       "date": "2026-08-11T17:01:21+00:00"
@@ -264,8 +289,8 @@
       "source": "hn",
       "title": "Go is an ideal language for AI-assisted software engineering",
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "score": 230,
-      "comments": 277,
+      "score": 248,
+      "comments": 291,
       "author": "0xedb",
       "tags": [],
       "date": "2026-08-11T16:57:09+00:00"
@@ -275,8 +300,8 @@
       "source": "hn",
       "title": "Mojo 1.0",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "score": 265,
-      "comments": 118,
+      "score": 275,
+      "comments": 125,
       "author": "dayanruben",
       "tags": [],
       "date": "2026-08-11T16:56:46+00:00"
@@ -286,7 +311,7 @@
       "source": "hn",
       "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
       "url": "https://github.com/TheRealYT/git-knife",
-      "score": 124,
+      "score": 125,
       "comments": 85,
       "author": "YonathanTesfaye",
       "tags": [],
@@ -354,7 +379,7 @@
       "source": "hn",
       "title": "Manus will return to operating as an independent company",
       "url": "https://manus.im/blog/a-note-to-our-users",
-      "score": 129,
+      "score": 130,
       "comments": 68,
       "author": "thm",
       "tags": [],
@@ -446,7 +471,7 @@
       "source": "hn",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 470,
+      "score": 477,
       "comments": 201,
       "author": "quantumgarbage",
       "tags": [],
@@ -482,7 +507,7 @@
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
       "score": 483,
-      "comments": 347,
+      "comments": 348,
       "author": "stevekemp",
       "tags": [],
       "date": "2026-08-11T12:41:59+00:00"
@@ -549,8 +574,8 @@
       "source": "hn",
       "title": "Nvidia's Risky Business",
       "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "score": 285,
-      "comments": 134,
+      "score": 288,
+      "comments": 136,
       "author": "jonbaer",
       "tags": [],
       "date": "2026-08-11T10:02:00+00:00"
@@ -584,8 +609,8 @@
       "source": "hn",
       "title": "London Underground begins scanning passengers' faces",
       "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
-      "score": 205,
-      "comments": 245,
+      "score": 209,
+      "comments": 247,
       "author": "BlueBerry2001",
       "tags": [],
       "date": "2026-08-11T09:40:02+00:00"
@@ -2688,8 +2713,8 @@
       "source": "hn",
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "url": "https://photosynthesis.camera",
-      "score": 188,
-      "comments": 192,
+      "score": 196,
+      "comments": 199,
       "author": "sajomes",
       "tags": [],
       "date": "2026-08-08T22:47:10+00:00"
@@ -2803,8 +2828,8 @@
       "source": "hn",
       "title": "Jolt: Clojure compiler implemented with Chez Scheme",
       "url": "https://jolt-lang.github.io",
-      "score": 140,
-      "comments": 51,
+      "score": 142,
+      "comments": 52,
       "author": "mark_l_watson",
       "tags": [],
       "date": "2026-08-08T17:38:20+00:00"
@@ -3729,7 +3754,7 @@
       "source": "hn",
       "title": "Show HN: Tamron Lens Utility Alternative on Linux",
       "url": "https://github.com/yikerman/tamron-lens-control",
-      "score": 12,
+      "score": 15,
       "comments": 0,
       "author": "xiaoyu2006",
       "tags": [],
@@ -4662,8 +4687,8 @@
       "source": "hn",
       "title": "Show HN: Line9 - a Mermaid rendering engine with its own layout",
       "url": "https://line9.ai/diagram",
-      "score": 3,
-      "comments": 0,
+      "score": 8,
+      "comments": 1,
       "author": "jumpalongjim",
       "tags": [],
       "date": "2026-08-06T13:47:54+00:00"
@@ -5184,17 +5209,6 @@
       "date": "2026-08-05T19:15:52+00:00"
     },
     {
-      "id": "hn-49187259",
-      "source": "hn",
-      "title": "Sula: A Gemini protocol server written in Scryer Prolog",
-      "url": "https://sagredo.dev/projects/sula/",
-      "score": 42,
-      "comments": 1,
-      "author": "triska",
-      "tags": [],
-      "date": "2026-08-05T18:52:58+00:00"
-    },
-    {
       "id": "ctf-4233874",
       "source": "project",
       "proj_category": "CTF",
@@ -5222,20 +5236,6 @@
         "Security"
       ],
       "date": "2026-07-19T15:52:55Z"
-    },
-    {
-      "id": "ctf-4180475",
-      "source": "project",
-      "proj_category": "CTF",
-      "title": "HackTheBox : Pterodactyl Writeup",
-      "url": "https://dev.to/exploitnotes/hackthebox-pterodactyl-writeup-pgf",
-      "score": 0,
-      "author": "CTF Platform",
-      "tags": [
-        "CTF",
-        "Security"
-      ],
-      "date": "2026-07-19T15:23:09Z"
     },
     {
       "id": "ctf-4180257",
