@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T10:48:34.936198+00:00",
-  "total_articles": 69,
+  "generated_at": "2026-08-12T11:17:12.937565+00:00",
+  "total_articles": 67,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 56,
+      "count": 55,
       "top_items": [
         {
           "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
           "url": "https://stolen-thoughts.com/",
-          "score": 626,
+          "score": 630,
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T13:22:00+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Compression is prediction",
           "url": "https://ngrok.com/blog/compression-is-prediction",
-          "score": 546,
+          "score": 554,
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T19:49:44+00:00"
@@ -51,7 +51,7 @@
         {
           "title": "Mojo 1.0",
           "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-          "score": 390,
+          "score": 393,
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T16:56:46+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "RAGに古い情報で答えさせないためには？\"コンバージド\"データベースから考えるAI時代のデータ基盤",
