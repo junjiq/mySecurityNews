@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T17:48:26.707888+00:00",
-  "total_articles": 74,
+  "generated_at": "2026-08-12T18:21:06.084953+00:00",
+  "total_articles": 72,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 68,
+      "count": 66,
       "top_items": [
         {
           "title": "Compression is prediction",
@@ -31,6 +31,22 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-11T19:49:44+00:00"
+        },
+        {
+          "title": "AI is removing the middle class of software engineering",
+          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+          "score": 446,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-12T13:20:05+00:00"
+        },
+        {
+          "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+          "score": 441,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-12T14:22:30+00:00"
         },
         {
           "title": "LinkedIn CringeBot 3000",
@@ -47,22 +63,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T09:35:30+00:00"
-        },
-        {
-          "title": "AI is removing the middle class of software engineering",
-          "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "score": 414,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-12T13:20:05+00:00"
-        },
-        {
-          "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-          "score": 405,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-12T14:22:30+00:00"
         }
       ]
     },
