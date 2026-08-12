@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T19:51:18.968661+00:00",
-  "total_articles": 68,
+  "generated_at": "2026-08-12T20:14:14.856754+00:00",
+  "total_articles": 75,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -27,7 +27,7 @@
         {
           "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
           "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-          "score": 547,
+          "score": 566,
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T14:22:30+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "AI is removing the middle class of software engineering",
           "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "score": 527,
+          "score": 554,
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T13:20:05+00:00"
@@ -43,10 +43,18 @@
         {
           "title": "DeepSeek V4 Pro 0813",
           "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-          "score": 459,
+          "score": 489,
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T16:04:50+00:00"
+        },
+        {
+          "title": "License plate reader searches should require a warrant",
+          "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+          "score": 437,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-12T14:43:39+00:00"
         },
         {
           "title": "LinkedIn CringeBot 3000",
@@ -55,60 +63,52 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T06:30:49+00:00"
-        },
-        {
-          "title": "License plate reader searches should require a warrant",
-          "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-          "score": 424,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-12T14:43:39+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 12,
       "top_items": [
         {
-          "title": "RAGに古い情報で答えさせないためには？\"コンバージド\"データベースから考えるAI時代のデータ基盤",
-          "url": "https://qiita.com/yushibats/items/9dd91baaa89c919d0992?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "なぜ日本では「起業→投資→賃金→相続」の循環が弱いのか？ ― 諸外国の税制から考える国家OSの再設計 : システム設計視点の行動経済学 (13)",
+          "url": "https://qiita.com/maskot1977/items/f1195b799622c55e7234?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-12T16:32:19+09:00"
+          "date": "2026-08-12T23:33:09+09:00"
         },
         {
-          "title": "IBM Bob × Confluent MCP入門：KafkaとFlinkを自然言語で触ってみた",
-          "url": "https://qiita.com/kaku_zui/items/81af00d831d1a412f953?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "TypeScriptをシングルバイナリ実行ファイルにする。ついでにMCPサーバーもシングルバイナリー化",
+          "url": "https://qiita.com/moritalous/items/8049684e8d746a81af3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-12T14:41:27+09:00"
+          "date": "2026-08-12T23:06:40+09:00"
         },
         {
-          "title": "私の order: がこんなに効かないわけがない(Mongoidの includes と scope: の話)",
-          "url": "https://qiita.com/Yamamoto1012/items/c03d12ce4325c2ebbc4e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "数狂、入青達成(学んだアルゴリズム、精進方法)",
+          "url": "https://qiita.com/Youteru/items/2c0b15ac43e836739676?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-12T10:00:22+09:00"
+          "date": "2026-08-12T21:22:22+09:00"
         },
         {
-          "title": "[AWS] DynamoDBでチャンク分割時のデータ保持構造を考えてみた",
-          "url": "https://qiita.com/kikuziro/items/f8f892066235e2d3601e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "技術力より先に、信頼を積む人がやっている地味な行動",
+          "url": "https://qiita.com/sumomoo/items/4e57aa62c090cf9d9979?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-12T08:25:16+09:00"
+          "date": "2026-08-12T17:16:04+09:00"
         },
         {
-          "title": "Data Catalog 第3回：Object Storage上のOracle DatabaseマニュアルPDFでSelect AI with RAGを構築してみてみた",
-          "url": "https://qiita.com/shirok/items/704f8f380fee205e06d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "コンピューターが動く裏側、５大装置を人に例えたら覚えやすかった【ITパスポート】",
+          "url": "https://qiita.com/prumnn/items/37068142536443812690?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-12T07:00:13+09:00"
+          "date": "2026-08-12T17:13:47+09:00"
         }
       ]
     },
