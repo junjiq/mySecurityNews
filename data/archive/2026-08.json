@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-13T17:48:01.882910+00:00",
+  "generated_at": "2026-08-13T18:18:53.778006+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 362,
@@ -9,8 +9,8 @@
   },
   "severity_counts": {
     "medium": 5,
-    "high": 4,
-    "critical": 12
+    "critical": 13,
+    "high": 4
   },
   "top_articles": [
     {
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
+      "url": "https://goaccess.io/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-13T16:22:16+00:00"
+    },
     {
       "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
       "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
