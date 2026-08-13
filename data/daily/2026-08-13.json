@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T16:18:34.400077+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-08-13T16:47:27.001817+00:00",
+  "total_articles": 50,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 46,
       "top_items": [
         {
           "title": "Delta",
@@ -26,20 +26,28 @@
           "date": "2026-08-12T18:19:59+00:00"
         },
         {
-          "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-          "url": "https://openai.com/codex/",
-          "score": 355,
+          "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+          "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+          "score": 371,
           "source": "hn",
           "severity": null,
           "date": "2026-08-13T04:53:41+00:00"
         },
         {
-          "title": "DeepSeek Harness",
-          "url": "https://github.com/deepseek-ai/deepseek-harness",
-          "score": 332,
+          "title": "DeepSeek Harness developer preview",
+          "url": "https://deepseek.com/harness/en/",
+          "score": 364,
           "source": "hn",
           "severity": null,
           "date": "2026-08-13T12:58:02+00:00"
+        },
+        {
+          "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+          "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+          "score": 303,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-13T12:09:50+00:00"
         },
         {
           "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
@@ -48,20 +56,12 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T16:54:25+00:00"
-        },
-        {
-          "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-          "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-          "score": 272,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-13T12:09:50+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 4,
       "top_items": [
         {
           "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証",
@@ -94,14 +94,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-13T10:29:27+09:00"
-        },
-        {
-          "title": "「無料3,000リクエスト」を使い切る！AIエージェントを自作して、やっと「ループエンジニアリング」の意味がわかった",
-          "url": "https://qiita.com/mi25/items/32e27c4d51f468214ec9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-13T01:33:06+09:00"
         }
       ]
     }
