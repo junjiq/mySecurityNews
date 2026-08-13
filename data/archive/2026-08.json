@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-13T01:32:52.423708+00:00",
+  "generated_at": "2026-08-13T02:54:47.024293+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 362,
@@ -35,6 +35,13 @@
       "date": "2026-08-11T08:15:46+00:00"
     },
     {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 832,
+      "source": "hn",
+      "date": "2026-08-12T14:22:30+00:00"
+    },
+    {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "score": 823,
@@ -42,11 +49,11 @@
       "date": "2026-08-10T22:36:30+00:00"
     },
     {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 794,
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "score": 775,
       "source": "hn",
-      "date": "2026-08-12T14:22:30+00:00"
+      "date": "2026-08-12T16:04:50+00:00"
     },
     {
       "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
@@ -68,13 +75,6 @@
       "score": 759,
       "source": "hn",
       "date": "2026-08-07T17:56:20+00:00"
-    },
-    {
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 733,
-      "source": "hn",
-      "date": "2026-08-12T16:04:50+00:00"
     },
     {
       "title": "AI is removing the middle class of software engineering?",
@@ -140,18 +140,18 @@
       "date": "2026-08-11T12:41:59+00:00"
     },
     {
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "score": 519,
+      "source": "hn",
+      "date": "2026-08-12T15:01:17+00:00"
+    },
+    {
       "title": "License plate reader searches should require a warrant",
       "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
       "score": 507,
       "source": "hn",
       "date": "2026-08-12T14:43:39+00:00"
-    },
-    {
-      "title": "Tl;dv: Over 180k meetings left wide open",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
-      "score": 502,
-      "source": "hn",
-      "date": "2026-08-10T12:26:05+00:00"
     }
   ],
   "security_highlights": [
@@ -240,6 +240,13 @@
       "date": "2026-08-08T19:38:08+00:00"
     },
     {
+      "title": "Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting",
+      "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-08T19:01:18+00:00"
+    },
+    {
       "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
       "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
       "severity": "critical",
@@ -259,13 +266,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-07T10:52:21+00:00"
-    },
-    {
-      "title": "Show HN: Certo – An open source platform to deliver Open Badges",
-      "url": "https://github.com/schroedinger-Hat/certo",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-07T09:10:30+00:00"
     }
   ]
 }
