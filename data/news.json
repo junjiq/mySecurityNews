@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T00:22:13.624997+00:00",
+  "updated_at": "2026-08-13T00:48:46.922842+00:00",
   "count": 500,
   "items": [
     {
@@ -7,8 +7,8 @@
       "source": "hn",
       "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
       "url": "https://www.ballet.dev/",
-      "score": 8,
-      "comments": 0,
+      "score": 11,
+      "comments": 1,
       "author": "danielkimber",
       "tags": [],
       "date": "2026-08-13T00:01:43+00:00"
@@ -18,18 +18,29 @@
       "source": "hn",
       "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
       "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "score": 3,
-      "comments": 0,
+      "score": 13,
+      "comments": 1,
       "author": "tart-lemonade",
       "tags": [],
       "date": "2026-08-12T23:50:33+00:00"
+    },
+    {
+      "id": "hn-49280061",
+      "source": "hn",
+      "title": "What's New in Flutter 3.47",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "score": 17,
+      "comments": 10,
+      "author": "gumby271",
+      "tags": [],
+      "date": "2026-08-12T23:46:00+00:00"
     },
     {
       "id": "hn-49280047",
       "source": "hn",
       "title": "Build Wide, Ship Narrow",
       "url": "https://adapt.com/blog/build-wide-ship-narrow",
-      "score": 5,
+      "score": 10,
       "comments": 0,
       "author": "ashumz",
       "tags": [],
@@ -51,8 +62,8 @@
       "source": "hn",
       "title": "Principia Mathematica is modern and insightful",
       "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "score": 8,
-      "comments": 0,
+      "score": 18,
+      "comments": 2,
       "author": "matt_d",
       "tags": [],
       "date": "2026-08-12T23:26:21+00:00"
@@ -73,8 +84,8 @@
       "source": "hn",
       "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers",
       "url": "https://bipluk.com/",
-      "score": 7,
-      "comments": 4,
+      "score": 8,
+      "comments": 5,
       "author": "halfradaition",
       "tags": [],
       "date": "2026-08-12T22:47:20+00:00"
@@ -84,7 +95,7 @@
       "source": "hn",
       "title": "Process as a Proxy for Motivation",
       "url": "https://bengodfrey.dev/blog/process/",
-      "score": 14,
+      "score": 19,
       "comments": 1,
       "author": "sudo-bendg",
       "tags": [],
@@ -106,7 +117,7 @@
       "source": "hn",
       "title": "Breaking the WAL",
       "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
-      "score": 45,
+      "score": 48,
       "comments": 31,
       "author": "wwilson",
       "tags": [],
@@ -128,8 +139,8 @@
       "source": "hn",
       "title": "Delta",
       "url": "https://zed.dev/blog/introducing-delta",
-      "score": 355,
-      "comments": 118,
+      "score": 362,
+      "comments": 121,
       "author": "khy",
       "tags": [],
       "date": "2026-08-12T18:19:59+00:00"
@@ -172,8 +183,8 @@
       "source": "hn",
       "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
       "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "score": 135,
-      "comments": 102,
+      "score": 136,
+      "comments": 105,
       "author": "redbell",
       "tags": [],
       "date": "2026-08-12T16:51:25+00:00"
@@ -249,8 +260,8 @@
       "source": "hn",
       "title": "Pixel Watch 5",
       "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "score": 92,
-      "comments": 170,
+      "score": 95,
+      "comments": 177,
       "author": "ortusdux",
       "tags": [],
       "date": "2026-08-12T16:14:37+00:00"
@@ -260,8 +271,8 @@
       "source": "hn",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 705,
-      "comments": 259,
+      "score": 718,
+      "comments": 270,
       "author": "explosion-s",
       "tags": [],
       "date": "2026-08-12T16:04:50+00:00"
@@ -271,8 +282,8 @@
       "source": "hn",
       "title": "Grok 4.6",
       "url": "https://x.ai/news/grok-4-6",
-      "score": 374,
-      "comments": 378,
+      "score": 385,
+      "comments": 386,
       "author": "iLuddite",
       "tags": [],
       "date": "2026-08-12T15:32:50+00:00"
@@ -282,8 +293,8 @@
       "source": "hn",
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 468,
-      "comments": 101,
+      "score": 477,
+      "comments": 102,
       "author": "Philpax",
       "tags": [],
       "date": "2026-08-12T15:01:17+00:00"
@@ -350,8 +361,8 @@
       "source": "hn",
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 758,
-      "comments": 133,
+      "score": 774,
+      "comments": 136,
       "author": "ropbear",
       "tags": [],
       "date": "2026-08-12T14:22:30+00:00"
@@ -361,7 +372,7 @@
       "source": "hn",
       "title": "Tim King, AmigaDOS developer, has died",
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 226,
+      "score": 230,
       "comments": 28,
       "author": "doener",
       "tags": [],
@@ -396,8 +407,8 @@
       "source": "hn",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
-      "score": 222,
-      "comments": 145,
+      "score": 226,
+      "comments": 164,
       "author": "gavinhking",
       "tags": [],
       "date": "2026-08-12T14:02:46+00:00",
@@ -408,7 +419,7 @@
       "source": "hn",
       "title": "Why tiny JPEGs look different in Chrome",
       "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 243,
+      "score": 246,
       "comments": 58,
       "author": "gutechh",
       "tags": [],
@@ -553,7 +564,7 @@
       "source": "hn",
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 454,
+      "score": 456,
       "comments": 124,
       "author": "zoenolan",
       "tags": [],
@@ -597,8 +608,8 @@
       "source": "hn",
       "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
       "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-      "score": 270,
-      "comments": 374,
+      "score": 282,
+      "comments": 383,
       "author": "Markoff",
       "tags": [],
       "date": "2026-08-12T11:28:27+00:00"
@@ -675,8 +686,8 @@
       "source": "hn",
       "title": "Why Target Common Lisp for Code Generation?",
       "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-      "score": 19,
-      "comments": 11,
+      "score": 21,
+      "comments": 17,
       "author": "oumua_don17",
       "tags": [],
       "date": "2026-08-12T08:40:53+00:00"
@@ -712,7 +723,7 @@
       "source": "hn",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
-      "score": 111,
+      "score": 113,
       "comments": 20,
       "author": "advaith08",
       "tags": [],
@@ -3183,7 +3194,7 @@
       "source": "hn",
       "title": "A Tale of Dynamic Programming (2022)",
       "url": "https://iagoleal.com/posts/dynamic-programming/",
-      "score": 62,
+      "score": 65,
       "comments": 3,
       "author": "Brajeshwar",
       "tags": [],
@@ -3996,6 +4007,17 @@
       "author": "senko",
       "tags": [],
       "date": "2026-08-08T14:32:33+00:00"
+    },
+    {
+      "id": "hn-49221990",
+      "source": "hn",
+      "title": "Program images and portable Scheme back ends for Jolt",
+      "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+      "score": 4,
+      "comments": 0,
+      "author": "yogthos",
+      "tags": [],
+      "date": "2026-08-08T14:13:11+00:00"
     },
     {
       "id": "hn-49221939",
@@ -5168,93 +5190,6 @@
       "date": "2026-08-07T09:07:36+00:00"
     },
     {
-      "id": "qiita-2fe82f5057",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "新卒1年目の開発未経験がタスク管理システムを作った話",
-      "url": "https://qiita.com/kt67_cr7/items/a693ab48718bc6e3e880?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kt67_cr7",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T17:50:24+09:00"
-    },
-    {
-      "id": "qiita-253c6f4c16",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "CSS初心者向け part2：レイアウトを整えるCSSを覚えよう",
-      "url": "https://qiita.com/nt_matsuda56/items/5616f18a93920c74ade6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "nt_matsuda56",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T17:34:28+09:00"
-    },
-    {
-      "id": "qiita-0429f5ee85",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ",
-      "url": "https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "tamashiro_nobuyuki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T17:14:06+09:00"
-    },
-    {
-      "id": "qiita-736bca6704",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【AWS入門】ハンズオンで学んだ5つのサービス（VPC・EC2・RDS・ELB・S3）を整理してみた",
-      "url": "https://qiita.com/NT_seki/items/1dcc68ba7de69473d46d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "NT_seki",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T17:05:08+09:00"
-    },
-    {
-      "id": "hn-49207236",
-      "source": "hn",
-      "title": "2027 memory capacity is reportedly sold out",
-      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "score": 446,
-      "comments": 427,
-      "author": "inigyou",
-      "tags": [],
-      "date": "2026-08-07T07:58:24+00:00"
-    },
-    {
-      "id": "hn-49207146",
-      "source": "hn",
-      "title": "I won't read LLM authored fiction",
-      "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-      "score": 43,
-      "comments": 31,
-      "author": "chr15m",
-      "tags": [],
-      "date": "2026-08-07T07:45:56+00:00"
-    },
-    {
-      "id": "qiita-21effd34a1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "【超初心者エンジニアのgit失敗談】`git pull` すれば最新になると思ってた",
-      "url": "https://qiita.com/yamasaki_k/items/8bd8dd1c53d1790dfafb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "yamasaki_k",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-07T16:36:05+09:00"
-    },
-    {
       "id": "ctf-4233874",
       "source": "project",
       "proj_category": "CTF",
@@ -5832,6 +5767,81 @@
       ],
       "severity": "high",
       "date": "Mon, 10 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-c65ec9c47f",
+      "source": "msf",
+      "title": "[webapps] Joomla 2.9.99.4 - Unauthenticated Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52630",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Mon, 10 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-9bdf9aa505",
+      "source": "msf",
+      "title": "[webapps] Krayin CRM v2.2.x - Authenticated Remote Code Execution",
+      "url": "https://www.exploit-db.com/exploits/52629",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-c29e4f3a23",
+      "source": "msf",
+      "title": "[webapps] Atarim WordPress Plugin  4.2.2 - Sensitive Information Exposure",
+      "url": "https://www.exploit-db.com/exploits/52628",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-8d61b06af7",
+      "source": "msf",
+      "title": "[webapps] Langflow 1.9.0 - RCE",
+      "url": "https://www.exploit-db.com/exploits/52627",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "id": "edb-143370345c",
+      "source": "msf",
+      "title": "[webapps] Joomla Page Builder CK  3.5.10 -  Arbitrary File Upload",
+      "url": "https://www.exploit-db.com/exploits/52626",
+      "score": null,
+      "author": "Exploit-DB",
+      "tags": [
+        "Exploit-DB",
+        "CVE",
+        "PoC"
+      ],
+      "severity": "high",
+      "date": "Wed, 08 Jul 2026 00:00:00 +0000"
     }
   ]
 }
