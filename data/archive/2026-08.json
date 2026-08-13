@@ -1,15 +1,15 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-13T20:12:07.187200+00:00",
+  "generated_at": "2026-08-13T20:45:45.278517+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 365,
-    "zennqiita": 85,
+    "hn": 363,
+    "zennqiita": 87,
     "project": 3
   },
   "severity_counts": {
-    "medium": 5,
     "critical": 13,
+    "medium": 5,
     "high": 4
   },
   "top_articles": [
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "AI Is Threatening Natural Resources for Billions",
+      "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-13T18:28:20+00:00"
+    },
+    {
       "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
       "url": "https://goaccess.io/",
       "severity": "critical",
@@ -266,13 +273,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-08T17:27:52+00:00"
-    },
-    {
-      "title": "Translating the Renaissance: 17,000+ historical source texts",
-      "url": "https://sourcelibrary.org",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-08T02:55:51+00:00"
     }
   ]
 }
