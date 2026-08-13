@@ -1,34 +1,34 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T14:50:34.531463+00:00",
-  "total_articles": 56,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-08-13T15:21:26.455543+00:00",
+  "total_articles": 55,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+      "severity": "high",
+      "source": "hn",
+      "date": "2026-08-13T14:18:34+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 50,
       "top_items": [
         {
           "title": "DeepSeek V4 Pro 0813",
           "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-          "score": 998,
+          "score": 1005,
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T16:04:50+00:00"
         },
         {
-          "title": "Qwen3.8-2.4T",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-          "score": 689,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-12T15:01:17+00:00"
-        },
-        {
           "title": "Delta",
           "url": "https://zed.dev/blog/introducing-delta",
-          "score": 622,
+          "score": 628,
           "source": "hn",
           "severity": null,
           "date": "2026-08-12T18:19:59+00:00"
@@ -44,10 +44,18 @@
         {
           "title": "ChatGPT Desktop (Codex Desktop) for Linux",
           "url": "https://openai.com/codex/",
-          "score": 322,
+          "score": 330,
           "source": "hn",
           "severity": null,
           "date": "2026-08-13T04:53:41+00:00"
+        },
+        {
+          "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+          "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+          "score": 301,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-12T16:54:25+00:00"
         }
       ]
     },

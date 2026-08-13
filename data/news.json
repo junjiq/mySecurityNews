@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T14:50:34.461891+00:00",
+  "updated_at": "2026-08-13T15:21:26.388175+00:00",
   "count": 500,
   "items": [
     {
@@ -33,7 +33,7 @@
       "source": "hn",
       "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
       "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "score": 8,
+      "score": 18,
       "comments": 0,
       "author": "stevehipwell",
       "tags": [],
@@ -62,12 +62,24 @@
       "date": "2026-08-13T14:22:54+00:00"
     },
     {
+      "id": "hn-49286357",
+      "source": "hn",
+      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+      "score": 12,
+      "comments": 2,
+      "author": "omrimaya",
+      "tags": [],
+      "date": "2026-08-13T14:18:34+00:00",
+      "severity": "high"
+    },
+    {
       "id": "hn-49286341",
       "source": "hn",
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 37,
-      "comments": 0,
+      "score": 89,
+      "comments": 18,
       "author": "matt_d",
       "tags": [],
       "date": "2026-08-13T14:17:13+00:00"
@@ -77,8 +89,8 @@
       "source": "hn",
       "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
       "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-      "score": 27,
-      "comments": 12,
+      "score": 43,
+      "comments": 26,
       "author": "chha",
       "tags": [],
       "date": "2026-08-13T14:11:51+00:00"
@@ -88,8 +100,8 @@
       "source": "hn",
       "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
       "url": "https://github.com/fellowgeek/mcp-memory",
-      "score": 17,
-      "comments": 3,
+      "score": 26,
+      "comments": 8,
       "author": "pcbmaker20",
       "tags": [],
       "date": "2026-08-13T13:57:47+00:00"
@@ -99,7 +111,7 @@
       "source": "hn",
       "title": "Time to Move On: Querying Without Nulls and Bags",
       "url": "https://arxiv.org/abs/2608.10863",
-      "score": 10,
+      "score": 20,
       "comments": 0,
       "author": "Jimmc414",
       "tags": [],
@@ -110,8 +122,8 @@
       "source": "hn",
       "title": "Gloomberb",
       "url": "https://gloom.sh/",
-      "score": 66,
-      "comments": 9,
+      "score": 99,
+      "comments": 35,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-08-13T13:52:32+00:00"
@@ -121,8 +133,8 @@
       "source": "hn",
       "title": "Anthropic: Introducing The Conceptual Reasoning Index",
       "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
-      "score": 18,
-      "comments": 13,
+      "score": 38,
+      "comments": 28,
       "author": "optimalsolver",
       "tags": [],
       "date": "2026-08-13T13:48:14+00:00"
@@ -132,8 +144,8 @@
       "source": "hn",
       "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
       "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-      "score": 19,
-      "comments": 8,
+      "score": 26,
+      "comments": 17,
       "author": "dreamforever",
       "tags": [],
       "date": "2026-08-13T13:36:19+00:00"
@@ -152,10 +164,10 @@
     {
       "id": "hn-49285418",
       "source": "hn",
-      "title": "PBS loses 50TB of data; 70 years of TV history after cloud vendor defunct",
+      "title": "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
       "url": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
-      "score": 28,
-      "comments": 10,
+      "score": 55,
+      "comments": 26,
       "author": "vinayakborkar",
       "tags": [],
       "date": "2026-08-13T13:14:12+00:00"
@@ -176,8 +188,8 @@
       "source": "hn",
       "title": "My Rules for Using Spreadsheets",
       "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
-      "score": 29,
-      "comments": 21,
+      "score": 37,
+      "comments": 29,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-13T13:00:24+00:00"
@@ -187,8 +199,8 @@
       "source": "hn",
       "title": "DeepSeek Harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "score": 174,
-      "comments": 70,
+      "score": 236,
+      "comments": 107,
       "author": "bjin",
       "tags": [],
       "date": "2026-08-13T12:58:02+00:00"
@@ -198,8 +210,8 @@
       "source": "hn",
       "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
       "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "score": 215,
-      "comments": 247,
+      "score": 237,
+      "comments": 268,
       "author": "Markoff",
       "tags": [],
       "date": "2026-08-13T12:09:50+00:00"
@@ -238,6 +250,17 @@
       "date": "2026-08-13T09:34:13+00:00"
     },
     {
+      "id": "hn-49283063",
+      "source": "hn",
+      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "url": "https://www.codewithbullet.com",
+      "score": 5,
+      "comments": 2,
+      "author": "adi1",
+      "tags": [],
+      "date": "2026-08-13T08:14:30+00:00"
+    },
+    {
       "id": "qiita-e69be4aa40",
       "source": "zennqiita",
       "sub_source": "Qiita",
@@ -255,8 +278,8 @@
       "source": "hn",
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "url": "https://openai.com/codex/",
-      "score": 322,
-      "comments": 221,
+      "score": 330,
+      "comments": 233,
       "author": "allanrbo",
       "tags": [],
       "date": "2026-08-13T04:53:41+00:00"
@@ -433,8 +456,8 @@
       "source": "hn",
       "title": "Delta",
       "url": "https://zed.dev/blog/introducing-delta",
-      "score": 622,
-      "comments": 226,
+      "score": 628,
+      "comments": 229,
       "author": "khy",
       "tags": [],
       "date": "2026-08-12T18:19:59+00:00"
@@ -578,8 +601,8 @@
       "source": "hn",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 998,
-      "comments": 428,
+      "score": 1005,
+      "comments": 431,
       "author": "explosion-s",
       "tags": [],
       "date": "2026-08-12T16:04:50+00:00"
@@ -600,7 +623,7 @@
       "source": "hn",
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 689,
+      "score": 692,
       "comments": 161,
       "author": "Philpax",
       "tags": [],
@@ -2015,6 +2038,17 @@
       "date": "2026-08-11T16:44:53+09:00"
     },
     {
+      "id": "hn-49254376",
+      "source": "hn",
+      "title": "The mathematical physics of rainbows and glories(2001) [pdf]",
+      "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
+      "score": 4,
+      "comments": 0,
+      "author": "num42",
+      "tags": [],
+      "date": "2026-08-11T07:03:49+00:00"
+    },
+    {
       "id": "hn-49254351",
       "source": "hn",
       "title": "The Water Footprint of AI",
@@ -2714,8 +2748,8 @@
       "source": "hn",
       "title": "The lattice of sets of natural numbers is rich (2021)",
       "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-      "score": 78,
-      "comments": 13,
+      "score": 80,
+      "comments": 14,
       "author": "benmandrew",
       "tags": [],
       "date": "2026-08-10T13:53:13+00:00"
@@ -3674,8 +3708,8 @@
       "source": "hn",
       "title": "Better Gaussian Splatting in Julia",
       "url": "https://pxl-th.github.io/blog/better-gs-julia/",
-      "score": 48,
-      "comments": 5,
+      "score": 52,
+      "comments": 6,
       "author": "pxl-th",
       "tags": [],
       "date": "2026-08-09T15:01:04+00:00"
@@ -4301,8 +4335,8 @@
       "source": "hn",
       "title": "Picking berries is my meditation",
       "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-      "score": 69,
-      "comments": 48,
+      "score": 74,
+      "comments": 52,
       "author": "mooreds",
       "tags": [],
       "date": "2026-08-08T19:24:02+00:00"
@@ -5153,40 +5187,6 @@
       "author": "vrganj",
       "tags": [],
       "date": "2026-08-07T17:05:15+00:00"
-    },
-    {
-      "id": "hn-49213097",
-      "source": "hn",
-      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
-      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
-      "score": 135,
-      "comments": 91,
-      "author": "mooreds",
-      "tags": [],
-      "date": "2026-08-07T16:44:28+00:00"
-    },
-    {
-      "id": "hn-49213029",
-      "source": "hn",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 189,
-      "comments": 183,
-      "author": "artninja1988",
-      "tags": [],
-      "date": "2026-08-07T16:39:36+00:00",
-      "severity": "critical"
-    },
-    {
-      "id": "hn-49212928",
-      "source": "hn",
-      "title": "The AI Billboards Are Killing SF",
-      "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
-      "score": 24,
-      "comments": 34,
-      "author": "danorama",
-      "tags": [],
-      "date": "2026-08-07T16:32:16+00:00"
     },
     {
       "id": "ctf-4233874",
