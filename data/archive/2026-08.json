@@ -1,9 +1,9 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-13T05:32:46.550622+00:00",
-  "total_articles": 453,
+  "generated_at": "2026-08-13T06:31:14.963864+00:00",
+  "total_articles": 454,
   "source_counts": {
-    "hn": 365,
+    "hn": 366,
     "zennqiita": 85,
     "project": 3
   },
@@ -28,6 +28,13 @@
       "date": "2026-08-07T12:42:27+00:00"
     },
     {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 954,
+      "source": "hn",
+      "date": "2026-08-12T14:22:30+00:00"
+    },
+    {
       "title": "France to ban unsolicited telemarketing calls",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
       "score": 939,
@@ -35,16 +42,9 @@
       "date": "2026-08-11T08:15:46+00:00"
     },
     {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 914,
-      "source": "hn",
-      "date": "2026-08-12T14:22:30+00:00"
-    },
-    {
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 831,
+      "score": 859,
       "source": "hn",
       "date": "2026-08-12T16:04:50+00:00"
     },
@@ -119,18 +119,18 @@
       "date": "2026-08-10T23:45:50+00:00"
     },
     {
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "score": 574,
+      "source": "hn",
+      "date": "2026-08-12T15:01:17+00:00"
+    },
+    {
       "title": "Mea Culpa – Dark Hours",
       "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
       "score": 567,
       "source": "hn",
       "date": "2026-08-09T13:20:43+00:00"
-    },
-    {
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 558,
-      "source": "hn",
-      "date": "2026-08-12T15:01:17+00:00"
     },
     {
       "title": "Danish high schoolers will have to verbally defend written assignments",
@@ -240,7 +240,7 @@
       "date": "2026-08-08T19:38:08+00:00"
     },
     {
-      "title": "Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting",
+      "title": "Locating an unknown source of radiation in a heterogeneous environment (2019)",
       "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
       "severity": "critical",
       "source": "hn",
