@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-08-13T19:48:30.074181+00:00",
+  "updated_at": "2026-08-13T20:12:07.067972+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49290969",
+      "source": "hn",
+      "title": "How Gödel's Proof Works",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "score": 5,
+      "comments": 1,
+      "author": "tzury",
+      "tags": [],
+      "date": "2026-08-13T19:44:46+00:00"
+    },
     {
       "id": "hn-49290768",
       "source": "hn",
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "score": 4,
-      "comments": 0,
+      "score": 9,
+      "comments": 1,
       "author": "malshe",
       "tags": [],
       "date": "2026-08-13T19:25:38+00:00"
@@ -18,8 +29,8 @@
       "source": "hn",
       "title": "Understanding is the new bottleneck",
       "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "score": 16,
-      "comments": 4,
+      "score": 30,
+      "comments": 13,
       "author": "sebg",
       "tags": [],
       "date": "2026-08-13T18:47:19+00:00"
@@ -29,8 +40,8 @@
       "source": "hn",
       "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
       "url": "https://github.com/systemd/systemd/issues/40262",
-      "score": 17,
-      "comments": 3,
+      "score": 42,
+      "comments": 8,
       "author": "ValdikSS",
       "tags": [],
       "date": "2026-08-13T18:41:01+00:00"
@@ -40,8 +51,8 @@
       "source": "hn",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 159,
-      "comments": 46,
+      "score": 188,
+      "comments": 61,
       "author": "pr337h4m",
       "tags": [],
       "date": "2026-08-13T18:10:02+00:00"
@@ -51,8 +62,8 @@
       "source": "hn",
       "title": "Where did the old web go? We followed 657,607 links to find out",
       "url": "https://0.mk/blog/link-rot",
-      "score": 54,
-      "comments": 24,
+      "score": 66,
+      "comments": 32,
       "author": "tdx",
       "tags": [],
       "date": "2026-08-13T17:49:18+00:00"
@@ -62,8 +73,8 @@
       "source": "hn",
       "title": "Choose Boring Technology (2015)",
       "url": "https://mcfunley.com/choose-boring-technology",
-      "score": 120,
-      "comments": 57,
+      "score": 126,
+      "comments": 65,
       "author": "tosh",
       "tags": [],
       "date": "2026-08-13T17:48:13+00:00"
@@ -73,8 +84,8 @@
       "source": "hn",
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "url": "https://donkeybas.com/",
-      "score": 79,
-      "comments": 32,
+      "score": 93,
+      "comments": 38,
       "author": "jkrauska",
       "tags": [],
       "date": "2026-08-13T17:45:50+00:00"
@@ -84,8 +95,8 @@
       "source": "hn",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 337,
-      "comments": 218,
+      "score": 363,
+      "comments": 231,
       "author": "thisisauserid",
       "tags": [],
       "date": "2026-08-13T17:23:22+00:00"
@@ -95,7 +106,7 @@
       "source": "hn",
       "title": "JDK 27 G1/Parallel/Serial GC Changes",
       "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
-      "score": 21,
+      "score": 22,
       "comments": 7,
       "author": "0x54MUR41",
       "tags": [],
@@ -106,8 +117,8 @@
       "source": "hn",
       "title": "Tocharian Online",
       "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-      "score": 33,
-      "comments": 1,
+      "score": 36,
+      "comments": 3,
       "author": "Bluestein",
       "tags": [],
       "date": "2026-08-13T17:15:46+00:00"
@@ -117,8 +128,8 @@
       "source": "hn",
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 136,
-      "comments": 45,
+      "score": 144,
+      "comments": 50,
       "author": "spelk",
       "tags": [],
       "date": "2026-08-13T17:05:12+00:00"
@@ -152,8 +163,8 @@
       "source": "hn",
       "title": "AI At Home Part 1: A Box Of Scraps",
       "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "score": 44,
-      "comments": 21,
+      "score": 46,
+      "comments": 23,
       "author": "timmmmmmay",
       "tags": [],
       "date": "2026-08-13T16:22:05+00:00"
@@ -212,8 +223,8 @@
       "source": "hn",
       "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "score": 111,
-      "comments": 50,
+      "score": 115,
+      "comments": 51,
       "author": "stevehipwell",
       "tags": [],
       "date": "2026-08-13T14:26:41+00:00"
@@ -257,8 +268,8 @@
       "source": "hn",
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 351,
-      "comments": 105,
+      "score": 366,
+      "comments": 111,
       "author": "matt_d",
       "tags": [],
       "date": "2026-08-13T14:17:13+00:00"
@@ -301,8 +312,8 @@
       "source": "hn",
       "title": "Gloomberb",
       "url": "https://gloom.sh/",
-      "score": 316,
-      "comments": 162,
+      "score": 324,
+      "comments": 165,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-08-13T13:52:32+00:00"
@@ -323,8 +334,8 @@
       "source": "hn",
       "title": "Ordinary abundance",
       "url": "https://ordinaryabundance.com/",
-      "score": 134,
-      "comments": 58,
+      "score": 142,
+      "comments": 67,
       "author": "yen223",
       "tags": [],
       "date": "2026-08-13T13:39:41+00:00"
@@ -334,8 +345,8 @@
       "source": "hn",
       "title": "I built a 500k-domain search engine for makers in a weekend for $10",
       "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-      "score": 103,
-      "comments": 58,
+      "score": 110,
+      "comments": 61,
       "author": "dreamforever",
       "tags": [],
       "date": "2026-08-13T13:36:19+00:00"
@@ -367,8 +378,8 @@
       "source": "hn",
       "title": "Choosing an AI model: one prompt, 11 models, different results",
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "score": 137,
-      "comments": 59,
+      "score": 142,
+      "comments": 61,
       "author": "toddmorey",
       "tags": [],
       "date": "2026-08-13T13:05:29+00:00"
@@ -389,8 +400,8 @@
       "source": "hn",
       "title": "DeepSeek Harness developer preview",
       "url": "https://deepseek.com/harness/en/",
-      "score": 472,
-      "comments": 212,
+      "score": 476,
+      "comments": 217,
       "author": "bjin",
       "tags": [],
       "date": "2026-08-13T12:58:02+00:00"
@@ -468,8 +479,8 @@
       "source": "hn",
       "title": "Codex in ChatGPT desktop app for Linux is now in preview",
       "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "score": 416,
-      "comments": 287,
+      "score": 417,
+      "comments": 289,
       "author": "allanrbo",
       "tags": [],
       "date": "2026-08-13T04:53:41+00:00"
@@ -591,8 +602,8 @@
       "source": "hn",
       "title": "How art invented humanity",
       "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-      "score": 53,
-      "comments": 14,
+      "score": 58,
+      "comments": 17,
       "author": "prismatic",
       "tags": [],
       "date": "2026-08-12T22:47:40+00:00"
@@ -1946,8 +1957,8 @@
       "source": "hn",
       "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
       "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-      "score": 47,
-      "comments": 12,
+      "score": 50,
+      "comments": 13,
       "author": "cainxinth",
       "tags": [],
       "date": "2026-08-11T13:55:26+00:00"
@@ -3438,6 +3449,17 @@
         "Qiita"
       ],
       "date": "2026-08-10T07:36:28+09:00"
+    },
+    {
+      "id": "hn-49236811",
+      "source": "hn",
+      "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
+      "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+      "score": 7,
+      "comments": 0,
+      "author": "nicole_express",
+      "tags": [],
+      "date": "2026-08-09T22:26:52+00:00"
     },
     {
       "id": "hn-49236596",
@@ -5163,28 +5185,6 @@
       "author": "Thevet",
       "tags": [],
       "date": "2026-08-08T01:51:35+00:00"
-    },
-    {
-      "id": "hn-49218179",
-      "source": "hn",
-      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "score": 319,
-      "comments": 70,
-      "author": "wglb",
-      "tags": [],
-      "date": "2026-08-08T01:49:11+00:00"
-    },
-    {
-      "id": "hn-49218040",
-      "source": "hn",
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "score": 218,
-      "comments": 176,
-      "author": "wglb",
-      "tags": [],
-      "date": "2026-08-08T01:20:20+00:00"
     },
     {
       "id": "ctf-4233874",
