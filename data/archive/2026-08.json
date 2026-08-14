@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-14T22:04:59.708699+00:00",
+  "generated_at": "2026-08-14T22:39:12.192529+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 362,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "medium": 6,
     "high": 4
   },
@@ -30,7 +30,7 @@
     {
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 1007,
+      "score": 1010,
       "source": "hn",
       "date": "2026-08-14T05:19:59+00:00"
     },
@@ -70,18 +70,18 @@
       "date": "2026-08-12T13:20:05+00:00"
     },
     {
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "score": 766,
+      "source": "hn",
+      "date": "2026-08-14T15:00:00+00:00"
+    },
+    {
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "score": 761,
       "source": "hn",
       "date": "2026-08-09T19:16:49+00:00"
-    },
-    {
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 736,
-      "source": "hn",
-      "date": "2026-08-14T15:00:00+00:00"
     },
     {
       "title": "DeepSeek Harness developer preview",
@@ -91,18 +91,25 @@
       "date": "2026-08-13T12:58:02+00:00"
     },
     {
+      "title": "Every Fucking Website (2020)",
+      "url": "https://lxe.github.io/everywebsite/",
+      "score": 699,
+      "source": "hn",
+      "date": "2026-08-14T14:31:08+00:00"
+    },
+    {
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "score": 698,
+      "source": "hn",
+      "date": "2026-08-14T10:12:48+00:00"
+    },
+    {
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "score": 692,
       "source": "hn",
       "date": "2026-08-12T15:01:17+00:00"
-    },
-    {
-      "title": "Every Fucking Website (2020)",
-      "url": "https://lxe.github.io/everywebsite/",
-      "score": 686,
-      "source": "hn",
-      "date": "2026-08-14T14:31:08+00:00"
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
@@ -117,13 +124,6 @@
       "score": 678,
       "source": "hn",
       "date": "2026-08-13T14:17:13+00:00"
-    },
-    {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 673,
-      "source": "hn",
-      "date": "2026-08-14T10:12:48+00:00"
     },
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-14T20:52:44+00:00"
+    },
     {
       "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
       "url": "https://rayforcedb.com/",
