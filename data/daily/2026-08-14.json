@@ -1,9 +1,16 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T16:17:15.903970+00:00",
-  "total_articles": 73,
+  "generated_at": "2026-08-14T16:48:49.362471+00:00",
+  "total_articles": 74,
   "urgent_count": 4,
   "urgent_items": [
+    {
+      "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
+      "url": "https://rayforcedb.com/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-14T16:02:20+00:00"
+    },
     {
       "title": "Ntfy – open-source Push to Mobile",
       "url": "https://ntfy.sh/",
@@ -24,19 +31,12 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-13T18:28:20+00:00"
-    },
-    {
-      "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
-      "url": "https://goaccess.io/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-13T16:22:16+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 62,
+      "count": 63,
       "top_items": [
         {
           "title": "Gemini 3.7 Flash",
@@ -49,7 +49,7 @@
         {
           "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
           "url": "https://z.ai/blog/glm-5.3",
-          "score": 866,
+          "score": 894,
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T05:19:59+00:00"
@@ -65,7 +65,7 @@
         {
           "title": "Every Fucking Website (2020)",
           "url": "https://lxe.github.io/everywebsite/",
-          "score": 409,
+          "score": 492,
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T14:31:08+00:00"
