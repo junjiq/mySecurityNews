@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-08-14T16:48:49.298688+00:00",
+  "updated_at": "2026-08-14T17:19:00.455828+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49301417",
+      "source": "hn",
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "score": 3,
+      "comments": 0,
+      "author": "Jimmc414",
+      "tags": [],
+      "date": "2026-08-14T16:57:14+00:00"
+    },
+    {
+      "id": "hn-49301342",
+      "source": "hn",
+      "title": "Discrete Fourier Transform by Hand",
+      "url": "https://www.byhand.ai/p/28-discrete-fourier-transform",
+      "score": 5,
+      "comments": 1,
+      "author": "Bluestein",
+      "tags": [],
+      "date": "2026-08-14T16:52:46+00:00"
+    },
+    {
+      "id": "hn-49300800",
+      "source": "hn",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "score": 8,
+      "comments": 0,
+      "author": "twapi",
+      "tags": [],
+      "date": "2026-08-14T16:15:21+00:00"
+    },
     {
       "id": "hn-49300759",
       "source": "hn",
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "score": 23,
-      "comments": 2,
+      "score": 41,
+      "comments": 8,
       "author": "rustdesk",
       "tags": [],
       "date": "2026-08-14T16:12:52+00:00"
@@ -16,10 +49,10 @@
     {
       "id": "hn-49300671",
       "source": "hn",
-      "title": "France blocks social media ban because it would require adults to prove age",
+      "title": "France's top court blocks social media ban for under-15s",
       "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
-      "score": 40,
-      "comments": 7,
+      "score": 79,
+      "comments": 24,
       "author": "BlueBerry2001",
       "tags": [],
       "date": "2026-08-14T16:06:49+00:00"
@@ -29,12 +62,23 @@
       "source": "hn",
       "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
       "url": "https://rayforcedb.com/",
-      "score": 9,
-      "comments": 1,
+      "score": 15,
+      "comments": 6,
       "author": "sourdecor",
       "tags": [],
       "date": "2026-08-14T16:02:20+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "hn-49300568",
+      "source": "hn",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "score": 18,
+      "comments": 1,
+      "author": "sans_souse",
+      "tags": [],
+      "date": "2026-08-14T15:58:59+00:00"
     },
     {
       "id": "hn-49300419",
@@ -52,8 +96,8 @@
       "source": "hn",
       "title": "\"Solving a largely imaginary user goal\"",
       "url": "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/",
-      "score": 20,
-      "comments": 22,
+      "score": 29,
+      "comments": 32,
       "author": "euthymiclabs",
       "tags": [],
       "date": "2026-08-14T15:48:59+00:00"
@@ -61,10 +105,10 @@
     {
       "id": "hn-49300314",
       "source": "hn",
-      "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+      "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "score": 22,
-      "comments": 9,
+      "score": 48,
+      "comments": 26,
       "author": "u1hcw9nx",
       "tags": [],
       "date": "2026-08-14T15:43:10+00:00"
@@ -74,8 +118,8 @@
       "source": "hn",
       "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
       "url": "https://github.com/NanoNets/Graft",
-      "score": 18,
-      "comments": 12,
+      "score": 25,
+      "comments": 24,
       "author": "shrishdwi",
       "tags": [],
       "date": "2026-08-14T15:22:02+00:00"
@@ -107,8 +151,8 @@
       "source": "hn",
       "title": "Introducing Toast 1",
       "url": "https://www.mixedbread.com/blog/toast-1",
-      "score": 66,
-      "comments": 20,
+      "score": 81,
+      "comments": 23,
       "author": "mplappert",
       "tags": [],
       "date": "2026-08-14T15:07:57+00:00"
@@ -129,8 +173,8 @@
       "source": "hn",
       "title": "Seven books I keep close because I love them",
       "url": "https://blog.plover.com/2026/08/02/",
-      "score": 83,
-      "comments": 29,
+      "score": 115,
+      "comments": 41,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-14T15:03:26+00:00"
@@ -140,8 +184,8 @@
       "source": "hn",
       "title": "Self-hosted web push Cloudflare Worker, works on iOS",
       "url": "https://kukuroo.cc/",
-      "score": 26,
-      "comments": 9,
+      "score": 30,
+      "comments": 10,
       "author": "saiday",
       "tags": [],
       "date": "2026-08-14T15:03:12+00:00"
@@ -149,10 +193,10 @@
     {
       "id": "hn-49299605",
       "source": "hn",
-      "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+      "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 90,
-      "comments": 17,
+      "score": 213,
+      "comments": 173,
       "author": "erdaltoprak",
       "tags": [],
       "date": "2026-08-14T15:00:00+00:00"
@@ -184,8 +228,8 @@
       "source": "hn",
       "title": "Every Fucking Website (2020)",
       "url": "https://lxe.github.io/everywebsite/",
-      "score": 492,
-      "comments": 276,
+      "score": 519,
+      "comments": 308,
       "author": "doubletwoyou",
       "tags": [],
       "date": "2026-08-14T14:31:08+00:00"
@@ -195,8 +239,8 @@
       "source": "hn",
       "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
       "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-      "score": 19,
-      "comments": 3,
+      "score": 21,
+      "comments": 4,
       "author": "bj-rn",
       "tags": [],
       "date": "2026-08-14T14:22:39+00:00"
@@ -206,8 +250,8 @@
       "source": "hn",
       "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
       "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "score": 45,
-      "comments": 19,
+      "score": 53,
+      "comments": 22,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-14T14:21:18+00:00"
@@ -226,10 +270,10 @@
     {
       "id": "hn-49298910",
       "source": "hn",
-      "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+      "title": "In Australia, a home battery boom has helped cut wholesale power prices",
       "url": "https://e360.yale.edu/digest/australia-home-batteries",
-      "score": 188,
-      "comments": 144,
+      "score": 205,
+      "comments": 158,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-14T14:07:52+00:00"
@@ -244,6 +288,17 @@
       "author": "rzk",
       "tags": [],
       "date": "2026-08-14T13:18:53+00:00"
+    },
+    {
+      "id": "hn-49298211",
+      "source": "hn",
+      "title": "Cursor is now a part of SpaceX",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "score": 46,
+      "comments": 24,
+      "author": "billy_jones_75",
+      "tags": [],
+      "date": "2026-08-14T13:10:12+00:00"
     },
     {
       "id": "hn-49298088",
@@ -283,8 +338,8 @@
       "source": "hn",
       "title": "The TEMU-Fication of Software, Digital Goods and Services",
       "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
-      "score": 69,
-      "comments": 41,
+      "score": 73,
+      "comments": 50,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-14T12:00:51+00:00"
@@ -339,8 +394,8 @@
       "source": "hn",
       "title": "Why does Opus 5 feel worse to work with?",
       "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 356,
-      "comments": 347,
+      "score": 400,
+      "comments": 393,
       "author": "numeri",
       "tags": [],
       "date": "2026-08-14T10:12:48+00:00"
@@ -372,8 +427,8 @@
       "source": "hn",
       "title": "DeepSeek peak/off-peak pricing update",
       "url": "https://api-docs.deepseek.com/news/news260813/",
-      "score": 191,
-      "comments": 105,
+      "score": 197,
+      "comments": 108,
       "author": "fagnerbrack",
       "tags": [],
       "date": "2026-08-14T09:55:33+00:00",
@@ -431,8 +486,8 @@
       "source": "hn",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 894,
-      "comments": 460,
+      "score": 907,
+      "comments": 461,
       "author": "pella",
       "tags": [],
       "date": "2026-08-14T05:19:59+00:00"
@@ -3510,10 +3565,10 @@
     {
       "id": "hn-49249523",
       "source": "hn",
-      "title": "Don't classify, hallucinate!",
+      "title": "Don't classify, hallucinate",
       "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "score": 154,
-      "comments": 70,
+      "score": 161,
+      "comments": 71,
       "author": "softwaredoug",
       "tags": [],
       "date": "2026-08-10T20:50:36+00:00"
@@ -5095,50 +5150,6 @@
       "date": "2026-08-09T13:03:49+00:00"
     },
     {
-      "id": "hn-49230954",
-      "source": "hn",
-      "title": "Amazon circumvents Gilroy community vote for AI data center",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-      "score": 36,
-      "comments": 13,
-      "author": "mikhael",
-      "tags": [],
-      "date": "2026-08-09T12:52:10+00:00"
-    },
-    {
-      "id": "hn-49230891",
-      "source": "hn",
-      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-      "score": 109,
-      "comments": 16,
-      "author": "Rochus",
-      "tags": [],
-      "date": "2026-08-09T12:43:16+00:00"
-    },
-    {
-      "id": "hn-49230630",
-      "source": "hn",
-      "title": "Why Wall Street Is Ignoring Big Tech's Debt",
-      "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
-      "score": 39,
-      "comments": 22,
-      "author": "johnbarron",
-      "tags": [],
-      "date": "2026-08-09T12:01:39+00:00"
-    },
-    {
-      "id": "hn-49230550",
-      "source": "hn",
-      "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-      "score": 17,
-      "comments": 9,
-      "author": "nmitchko",
-      "tags": [],
-      "date": "2026-08-09T11:46:28+00:00"
-    },
-    {
       "id": "ctf-4348953",
       "source": "project",
       "proj_category": "CTF",
@@ -5171,22 +5182,11 @@
       "source": "hn",
       "title": "Ultraviolet Bird Photography",
       "url": "https://uvbirds.com/",
-      "score": 6,
-      "comments": 0,
+      "score": 18,
+      "comments": 1,
       "author": "EndXA",
       "tags": [],
       "date": "2026-08-07T14:51:09+00:00"
-    },
-    {
-      "id": "hn-49175067",
-      "source": "hn",
-      "title": "Gödel, Escher, Elisp: The Beauty of Macros",
-      "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
-      "score": 25,
-      "comments": 9,
-      "author": "JNRowe",
-      "tags": [],
-      "date": "2026-08-04T20:59:43+00:00"
     },
     {
       "id": "ctf-4233874",
