@@ -1,14 +1,14 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-14T20:10:21.821847+00:00",
+  "generated_at": "2026-08-14T20:41:17.677239+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 366,
-    "zennqiita": 84,
+    "hn": 360,
+    "zennqiita": 90,
     "project": 3
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 11,
     "medium": 6,
     "high": 4
   },
@@ -37,7 +37,7 @@
     {
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 974,
+      "score": 981,
       "source": "hn",
       "date": "2026-08-14T05:19:59+00:00"
     },
@@ -112,18 +112,25 @@
       "date": "2026-08-11T13:22:00+00:00"
     },
     {
+      "title": "Every Fucking Website (2020)",
+      "url": "https://lxe.github.io/everywebsite/",
+      "score": 645,
+      "source": "hn",
+      "date": "2026-08-14T14:31:08+00:00"
+    },
+    {
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "score": 634,
+      "source": "hn",
+      "date": "2026-08-14T15:00:00+00:00"
+    },
+    {
       "title": "Delta",
       "url": "https://zed.dev/blog/introducing-delta",
       "score": 634,
       "source": "hn",
       "date": "2026-08-12T18:19:59+00:00"
-    },
-    {
-      "title": "Every Fucking Website (2020)",
-      "url": "https://lxe.github.io/everywebsite/",
-      "score": 628,
-      "source": "hn",
-      "date": "2026-08-14T14:31:08+00:00"
     },
     {
       "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
@@ -140,18 +147,11 @@
       "date": "2026-08-11T19:49:44+00:00"
     },
     {
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 604,
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "score": 607,
       "source": "hn",
-      "date": "2026-08-10T06:02:38+00:00"
-    },
-    {
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "score": 595,
-      "source": "hn",
-      "date": "2026-08-12T15:32:50+00:00"
+      "date": "2026-08-14T10:12:48+00:00"
     }
   ],
   "security_highlights": [
@@ -259,13 +259,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-09T19:20:40+00:00"
-    },
-    {
-      "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
-      "url": "https://alexanderwanyoike.github.io/vibez/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-09T15:31:49+00:00"
     }
   ]
 }
