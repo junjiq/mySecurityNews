@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T18:20:33.138909+00:00",
-  "total_articles": 70,
-  "urgent_count": 4,
+  "generated_at": "2026-08-14T18:46:52.115522+00:00",
+  "total_articles": 67,
+  "urgent_count": 3,
   "urgent_items": [
     {
       "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
@@ -24,24 +24,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-14T06:09:04+00:00"
-    },
-    {
-      "title": "AI Is Threatening Natural Resources for Billions",
-      "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-13T18:28:20+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 56,
       "top_items": [
         {
           "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
           "url": "https://z.ai/blog/glm-5.3",
-          "score": 937,
+          "score": 944,
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T05:19:59+00:00"
@@ -49,7 +42,7 @@
         {
           "title": "Every Fucking Website (2020)",
           "url": "https://lxe.github.io/everywebsite/",
-          "score": 566,
+          "score": 579,
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T14:31:08+00:00"
@@ -57,10 +50,18 @@
         {
           "title": "Why does Opus 5 feel worse to work with?",
           "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-          "score": 469,
+          "score": 505,
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T10:12:48+00:00"
+        },
+        {
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "score": 423,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-14T15:00:00+00:00"
         },
         {
           "title": "Understanding is the new bottleneck",
@@ -69,14 +70,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-13T18:47:19+00:00"
-        },
-        {
-          "title": "Qwen 3.8 27B",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "score": 367,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-14T15:00:00+00:00"
         }
       ]
     },
