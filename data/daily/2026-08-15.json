@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T20:04:11.363989+00:00",
+  "generated_at": "2026-08-15T20:38:32.604945+00:00",
   "total_articles": 54,
   "urgent_count": 1,
   "urgent_items": [
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 51,
+      "count": 50,
       "top_items": [
         {
           "title": "Going Dark, and the era of law enforcement hacking",
@@ -28,7 +28,7 @@
         {
           "title": "The other Sean Byrne doesn't exist",
           "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-          "score": 342,
+          "score": 349,
           "source": "hn",
           "severity": null,
           "date": "2026-08-15T04:18:44+00:00"
@@ -36,33 +36,41 @@
         {
           "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
           "url": "https://sankalp.bearblog.dev/autoresearch/",
-          "score": 317,
+          "score": 330,
           "source": "hn",
           "severity": null,
           "date": "2026-08-15T11:00:02+00:00"
         },
         {
+          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "score": 237,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-15T18:13:02+00:00"
+        },
+        {
           "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
           "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-          "score": 207,
+          "score": 236,
           "source": "hn",
           "severity": null,
           "date": "2026-08-15T15:58:53+00:00"
-        },
-        {
-          "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-          "score": 207,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-15T01:14:05+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 4,
       "top_items": [
+        {
+          "title": "AgentCore GatewayのSlack統合プロバイダーをCDKで設定して3LOで認証認可を通す",
+          "url": "https://qiita.com/har1101/items/d9cc04c7b69e9a029178?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-15T21:58:09+09:00"
+        },
         {
           "title": "エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした",
           "url": "https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
