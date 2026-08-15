@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T10:04:55.408984+00:00",
-  "total_articles": 76,
-  "urgent_count": 3,
+  "generated_at": "2026-08-15T10:38:25.754157+00:00",
+  "total_articles": 72,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "Going Dark, and the era of law enforcement hacking",
@@ -17,24 +17,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-14T16:02:20+00:00"
-    },
-    {
-      "title": "Ntfy – open-source Push to Mobile",
-      "url": "https://ntfy.sh/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-14T10:35:43+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 71,
+      "count": 67,
       "top_items": [
         {
           "title": "Qwen 3.8 27B",
           "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "score": 1142,
+          "score": 1153,
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T15:00:00+00:00"
@@ -42,18 +35,10 @@
         {
           "title": "Firefox is now the last major browser that still supports uBlock Origin",
           "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-          "score": 1026,
+          "score": 1063,
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T19:03:20+00:00"
-        },
-        {
-          "title": "Why does Opus 5 feel worse to work with?",
-          "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-          "score": 819,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-14T10:12:48+00:00"
         },
         {
           "title": "Every Fucking Website (2020)",
@@ -66,10 +51,18 @@
         {
           "title": "Google is making private AI practical with homomorphic encryption",
           "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-          "score": 389,
+          "score": 400,
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T15:43:10+00:00"
+        },
+        {
+          "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+          "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+          "score": 361,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-14T16:45:49+00:00"
         }
       ]
     },
