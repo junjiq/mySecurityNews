@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-08-14T23:38:12.076958+00:00",
-  "latest": "daily/2026-08-14.json",
+  "updated_at": "2026-08-15T00:11:36.169320+00:00",
+  "latest": "daily/2026-08-15.json",
   "days": [
+    {
+      "date": "2026-08-15",
+      "total_articles": 77,
+      "urgent_count": 4,
+      "file": "daily/2026-08-15.json"
+    },
     {
       "date": "2026-08-14",
       "total_articles": 83,
@@ -175,12 +181,6 @@
       "total_articles": 65,
       "urgent_count": 3,
       "file": "daily/2026-07-17.json"
-    },
-    {
-      "date": "2026-07-16",
-      "total_articles": 85,
-      "urgent_count": 5,
-      "file": "daily/2026-07-16.json"
     }
   ]
 }
