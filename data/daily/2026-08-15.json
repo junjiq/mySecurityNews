@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T14:38:36.189537+00:00",
-  "total_articles": 70,
+  "generated_at": "2026-08-15T15:04:20.380598+00:00",
+  "total_articles": 68,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 66,
+      "count": 64,
       "top_items": [
         {
           "title": "Firefox is now the last major browser that still supports uBlock Origin",
@@ -33,17 +33,9 @@
           "date": "2026-08-14T19:03:20+00:00"
         },
         {
-          "title": "Qwen 3.8 27B",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "score": 1246,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-14T15:00:00+00:00"
-        },
-        {
           "title": "Google is making private AI practical with homomorphic encryption",
           "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-          "score": 446,
+          "score": 448,
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T15:43:10+00:00"
@@ -51,7 +43,7 @@
         {
           "title": "Going Dark, and the era of law enforcement hacking",
           "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-          "score": 393,
+          "score": 397,
           "source": "hn",
           "severity": "critical",
           "date": "2026-08-14T20:52:44+00:00"
@@ -63,6 +55,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T16:45:49+00:00"
+        },
+        {
+          "title": "AI by Hand",
+          "url": "https://www.byhand.ai/",
+          "score": 335,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-14T15:58:59+00:00"
         }
       ]
     },
