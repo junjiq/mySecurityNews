@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T12:05:09.966623+00:00",
-  "total_articles": 69,
+  "generated_at": "2026-08-15T12:45:17.191026+00:00",
+  "total_articles": 68,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,23 +22,23 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 65,
+      "count": 64,
       "top_items": [
-        {
-          "title": "Qwen 3.8 27B",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "score": 1193,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-14T15:00:00+00:00"
-        },
         {
           "title": "Firefox is now the last major browser that still supports uBlock Origin",
           "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-          "score": 1176,
+          "score": 1226,
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T19:03:20+00:00"
+        },
+        {
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "score": 1203,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-14T15:00:00+00:00"
         },
         {
           "title": "Every Fucking Website (2020)",
@@ -51,7 +51,7 @@
         {
           "title": "Google is making private AI practical with homomorphic encryption",
           "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-          "score": 418,
+          "score": 425,
           "source": "hn",
           "severity": null,
           "date": "2026-08-14T15:43:10+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "Going Dark, and the era of law enforcement hacking",
           "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-          "score": 361,
+          "score": 370,
           "source": "hn",
           "severity": "critical",
           "date": "2026-08-14T20:52:44+00:00"
