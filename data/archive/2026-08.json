@@ -1,15 +1,15 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-16T20:03:40.685779+00:00",
+  "generated_at": "2026-08-16T20:38:15.402792+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 371,
-    "zennqiita": 79,
+    "hn": 360,
+    "zennqiita": 90,
     "project": 3
   },
   "severity_counts": {
     "critical": 11,
-    "medium": 4,
+    "medium": 3,
     "high": 2
   },
   "top_articles": [
@@ -135,7 +135,7 @@
     {
       "title": "Asus Bike Booster",
       "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "score": 577,
+      "score": 584,
       "source": "hn",
       "date": "2026-08-12T06:33:12+00:00"
     },
@@ -161,6 +161,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-16T18:03:09+00:00"
+    },
+    {
+      "title": "【個人開発】あなたの環境に合ったデスクセットを提案してくれるアプリ【Next.js / TypeScript / Vercel / Supabase】",
+      "url": "https://qiita.com/o68606007/items/de328c3e89ce4dfa2a8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-08-16T16:55:02+09:00"
     },
     {
       "title": "Going Dark, and the era of law enforcement hacking",
@@ -238,13 +245,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-12T10:06:29+00:00"
-    },
-    {
-      "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",
-      "url": "https://writemd.app/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-11T13:30:39+00:00"
     }
   ]
 }

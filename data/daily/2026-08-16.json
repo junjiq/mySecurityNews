@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T20:03:40.643082+00:00",
-  "total_articles": 63,
-  "urgent_count": 1,
+  "generated_at": "2026-08-16T20:38:15.366351+00:00",
+  "total_articles": 72,
+  "urgent_count": 2,
   "urgent_items": [
     {
       "title": "I've built a free, open-source local and remote memory system for agentw and CL",
@@ -10,33 +10,40 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-16T18:03:09+00:00"
+    },
+    {
+      "title": "【個人開発】あなたの環境に合ったデスクセットを提案してくれるアプリ【Next.js / TypeScript / Vercel / Supabase】",
+      "url": "https://qiita.com/o68606007/items/de328c3e89ce4dfa2a8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "critical",
+      "source": "zennqiita",
+      "date": "2026-08-16T16:55:02+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 58,
+      "count": 56,
       "top_items": [
-        {
-          "title": "Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "score": 406,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-16T12:48:21+00:00"
-        },
         {
           "title": "Firefox for iOS now has a native adblocker",
           "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-          "score": 399,
+          "score": 424,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T12:58:10+00:00"
         },
         {
+          "title": "Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "score": 421,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-16T12:48:21+00:00"
+        },
+        {
           "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
           "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-          "score": 289,
+          "score": 305,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T12:22:20+00:00"
@@ -61,47 +68,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 16,
       "top_items": [
         {
-          "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
-          "url": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Claude Managed Agents Workshop(大阪開催)に参加しました！",
+          "url": "https://qiita.com/Maruhoppe8/items/9be555d1f349d9c73d78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-16T16:22:51+09:00"
+          "date": "2026-08-16T23:18:25+09:00"
         },
         {
-          "title": "Cloud Run でキャッシュを保持したいなら、課金モードではなく最小インスタンス数",
-          "url": "https://qiita.com/k-nakatani/items/4e0b46f0fb4bfe7ff4a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Regional NAT Gatewayを検討して見送った話 — 何と比べて「良い」のかを確認する",
+          "url": "https://qiita.com/Omizu-25/items/555c6319df5a97d3c90f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-16T13:22:54+09:00"
+          "date": "2026-08-16T23:02:58+09:00"
         },
         {
-          "title": "【ローカルLLM】Qwen3.8-27Bの推論性能をテストする（WSL2 + Ollama + RTX 5070 Ti）",
-          "url": "https://qiita.com/h-nabata/items/390b3558be49c30f85a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "cdk-nagが良さそうなので使ってみる",
+          "url": "https://qiita.com/yakumo_09/items/9c540e06512631ca0b39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-16T12:24:38+09:00"
+          "date": "2026-08-16T23:01:50+09:00"
         },
         {
-          "title": "EKS CapabilitiesのマネージドArgo CD × EKS Auto Mode × GitHubでGitOpsを体感する",
-          "url": "https://qiita.com/yuki_ink/items/9d91f8b80269a1b5658e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "さくらのAIと話したかっただけなのに。。。人生初APIで、会話履歴をJSON保存し始めたセキュリティエンジニアの話",
+          "url": "https://qiita.com/Maruhoppe8/items/70b9777bac0159c840ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-16T12:17:38+09:00"
+          "date": "2026-08-16T17:41:30+09:00"
         },
         {
-          "title": "読書感想文『運用設計の教科書』ジョブスクリプト・バックアップ/リストア編（p218〜p239）",
-          "url": "https://qiita.com/RYA234/items/4de678c3761cf35e6922?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【個人開発】あなたの環境に合ったデスクセットを提案してくれるアプリ【Next.js / TypeScript / Vercel / Supabase】",
+          "url": "https://qiita.com/o68606007/items/de328c3e89ce4dfa2a8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-16T09:24:45+09:00"
+          "severity": "critical",
+          "date": "2026-08-16T16:55:02+09:00"
         }
       ]
     }
