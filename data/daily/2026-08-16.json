@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T08:06:50.494337+00:00",
-  "total_articles": 71,
+  "generated_at": "2026-08-16T08:42:11.166303+00:00",
+  "total_articles": 80,
   "urgent_count": 0,
   "urgent_items": [],
   "categories": [
@@ -12,7 +12,7 @@
         {
           "title": "AI has access to a vastly larger working memory than the human brain",
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "score": 483,
+          "score": 486,
           "source": "hn",
           "severity": null,
           "date": "2026-08-15T18:13:02+00:00"
@@ -20,7 +20,7 @@
         {
           "title": "Semaglutide linked to lower predicted dementia risk",
           "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-          "score": 415,
+          "score": 419,
           "source": "hn",
           "severity": null,
           "date": "2026-08-15T15:58:53+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
           "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-          "score": 252,
+          "score": 253,
           "source": "hn",
           "severity": null,
           "date": "2026-08-15T14:04:49+00:00"
@@ -53,15 +53,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 1,
+      "count": 10,
       "top_items": [
         {
-          "title": "AgentCore GatewayのSlack統合プロバイダーをCDKで設定して3LOで認証認可を通す",
-          "url": "https://qiita.com/har1101/items/d9cc04c7b69e9a029178?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "AIエージェントの作業結果、マークダウンで読むの辛くない？ →「HTML共有くん」を作りました",
+          "url": "https://qiita.com/minorun365/items/320b4230c0b0c169ba13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-15T21:58:09+09:00"
+          "date": "2026-08-16T16:22:51+09:00"
+        },
+        {
+          "title": "Cloud Run でキャッシュを保持したいなら、課金モードではなく最小インスタンス数",
+          "url": "https://qiita.com/k-nakatani/items/4e0b46f0fb4bfe7ff4a1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-16T13:22:54+09:00"
+        },
+        {
+          "title": "【ローカルLLM】Qwen3.8-27Bの推論性能をテストする（WSL2 + Ollama + RTX 5070 Ti）",
+          "url": "https://qiita.com/h-nabata/items/390b3558be49c30f85a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-16T12:24:38+09:00"
+        },
+        {
+          "title": "EKS CapabilitiesのマネージドArgo CD × EKS Auto Mode × GitHubでGitOpsを体感する",
+          "url": "https://qiita.com/yuki_ink/items/9d91f8b80269a1b5658e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-16T12:17:38+09:00"
+        },
+        {
+          "title": "読書感想文『運用設計の教科書』ジョブスクリプト・バックアップ/リストア編（p218〜p239）",
+          "url": "https://qiita.com/RYA234/items/4de678c3761cf35e6922?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-16T09:24:45+09:00"
         }
       ]
     }
