@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-16T11:04:56.612045+00:00",
+  "generated_at": "2026-08-16T11:37:05.662363+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 360,
@@ -8,8 +8,8 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 9,
-    "medium": 5,
+    "critical": 10,
+    "medium": 4,
     "high": 2
   },
   "top_articles": [
@@ -182,6 +182,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-14T06:09:04+00:00"
+    },
+    {
+      "title": "Chestnut – eGPU dock with open-source firmware",
+      "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-13T22:01:04+00:00"
     },
     {
       "title": "AI Is Threatening Natural Resources for Billions",
