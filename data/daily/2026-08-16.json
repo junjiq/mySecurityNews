@@ -1,22 +1,22 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T18:04:29.570091+00:00",
-  "total_articles": 67,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-08-16T18:42:22.852302+00:00",
+  "total_articles": 63,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "I've built a free, open-source local and remote memory system for agentw and CL",
+      "url": "https://www.lorekit.io/blog/give-your-agent-a-memory",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-16T18:03:09+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 62,
+      "count": 58,
       "top_items": [
-        {
-          "title": "AI has access to a vastly larger working memory than the human brain",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "score": 510,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-15T18:13:02+00:00"
-        },
         {
           "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
           "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
@@ -28,7 +28,7 @@
         {
           "title": "Claude: System Prompts",
           "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "score": 333,
+          "score": 361,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T12:48:21+00:00"
@@ -36,7 +36,7 @@
         {
           "title": "Firefox for iOS now has a native adblocker",
           "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-          "score": 311,
+          "score": 345,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T12:58:10+00:00"
@@ -48,6 +48,14 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-15T21:14:34+00:00"
+        },
+        {
+          "title": "Software Engineering fundamentals matter more",
+          "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+          "score": 267,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-15T22:31:09+00:00"
         }
       ]
     },
