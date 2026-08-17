@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T12:45:45.646514+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-08-17T13:17:03.207067+00:00",
+  "total_articles": 61,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,28 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 49,
+      "count": 45,
       "top_items": [
-        {
-          "title": "Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "score": 690,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-16T12:48:21+00:00"
-        },
-        {
-          "title": "Firefox for iOS now has a native adblocker",
-          "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-          "score": 590,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-16T12:58:10+00:00"
-        },
         {
           "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
           "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-          "score": 589,
+          "score": 611,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T23:45:09+00:00"
@@ -44,7 +28,7 @@
         {
           "title": "A third world engineer responds to “RISC-V: They should have known better”",
           "url": "https://rvembedded.com/blog_post/12/",
-          "score": 551,
+          "score": 558,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T17:01:07+00:00"
@@ -52,10 +36,26 @@
         {
           "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "score": 398,
+          "score": 432,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T21:53:43+00:00"
+        },
+        {
+          "title": "The AI Credit Resale Economy",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "score": 307,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-16T14:44:55+00:00"
+        },
+        {
+          "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "score": 306,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-16T20:31:16+00:00"
         }
       ]
     },

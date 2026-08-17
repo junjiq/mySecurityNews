@@ -1,10 +1,10 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-17T12:45:45.695425+00:00",
+  "generated_at": "2026-08-17T13:17:03.253106+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 354,
-    "zennqiita": 96,
+    "hn": 356,
+    "zennqiita": 94,
     "project": 3
   },
   "severity_counts": {
@@ -84,18 +84,18 @@
       "date": "2026-08-14T14:31:08+00:00"
     },
     {
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "score": 696,
+      "source": "hn",
+      "date": "2026-08-16T12:48:21+00:00"
+    },
+    {
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "score": 692,
       "source": "hn",
       "date": "2026-08-12T15:01:17+00:00"
-    },
-    {
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 690,
-      "source": "hn",
-      "date": "2026-08-16T12:48:21+00:00"
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
@@ -126,11 +126,11 @@
       "date": "2026-08-12T11:28:27+00:00"
     },
     {
-      "title": "Asus Bike Booster",
-      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "score": 608,
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "score": 611,
       "source": "hn",
-      "date": "2026-08-12T06:33:12+00:00"
+      "date": "2026-08-16T23:45:09+00:00"
     },
     {
       "title": "Grok 4.6",
@@ -147,11 +147,11 @@
       "date": "2026-08-16T12:58:10+00:00"
     },
     {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "score": 589,
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "score": 558,
       "source": "hn",
-      "date": "2026-08-16T23:45:09+00:00"
+      "date": "2026-08-16T17:01:07+00:00"
     }
   ],
   "security_highlights": [
