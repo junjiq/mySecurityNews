@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T07:47:09.723271+00:00",
-  "total_articles": 52,
-  "urgent_count": 2,
+  "generated_at": "2026-08-17T08:14:14.466930+00:00",
+  "total_articles": 66,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "I've built a free, open-source local and remote memory system for agentw and CL",
@@ -10,24 +10,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-16T18:03:09+00:00"
-    },
-    {
-      "title": "【個人開発】あなたの環境に合ったデスクセットを提案してくれるアプリ【Next.js / TypeScript / Vercel / Supabase】",
-      "url": "https://qiita.com/o68606007/items/de328c3e89ce4dfa2a8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "severity": "critical",
-      "source": "zennqiita",
-      "date": "2026-08-16T16:55:02+09:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 47,
       "top_items": [
         {
           "title": "Claude: System Prompts",
           "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "score": 631,
+          "score": 637,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T12:48:21+00:00"
@@ -43,7 +36,7 @@
         {
           "title": "A third world engineer responds to “RISC-V: They should have known better”",
           "url": "https://rvembedded.com/blog_post/12/",
-          "score": 478,
+          "score": 484,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T17:01:07+00:00"
@@ -51,7 +44,7 @@
         {
           "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
           "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-          "score": 368,
+          "score": 394,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T23:45:09+00:00"
@@ -68,47 +61,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 6,
+      "count": 19,
       "top_items": [
         {
-          "title": "エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした",
-          "url": "https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "海外で急速に広がる「FDE」と、AI時代のエンジニアに求められるより高い専門性",
+          "url": "https://qiita.com/sumomoo/items/7a8bf8214f6d4f70de17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-17T10:13:51+09:00"
+          "date": "2026-08-17T16:31:47+09:00"
         },
         {
-          "title": "Claude Managed Agents Workshop(大阪開催)に参加しました！",
-          "url": "https://qiita.com/Maruhoppe8/items/9be555d1f349d9c73d78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "新人エンジニア、長時間考える体力がなさすぎて全然集中が続かない",
+          "url": "https://qiita.com/prumnn/items/ab629ef2296563691957?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-16T23:18:25+09:00"
+          "date": "2026-08-17T16:27:57+09:00"
         },
         {
-          "title": "Regional NAT Gatewayを検討して見送った話 — 何と比べて「良い」のかを確認する",
-          "url": "https://qiita.com/Omizu-25/items/555c6319df5a97d3c90f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "ドキュメント生成とAIとの向き合い方について",
+          "url": "https://qiita.com/kurogoma939/items/bd7d11ec543d7cb68c75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-16T23:02:58+09:00"
+          "date": "2026-08-17T16:15:57+09:00"
         },
         {
-          "title": "cdk-nagが良さそうなので使ってみる",
-          "url": "https://qiita.com/yakumo_09/items/9c540e06512631ca0b39?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "結婚したほうが得、でも独身でも損をしない ― 子育てを社会全体で支える国家OSの設計 : システム設計視点の行動経済学 (16)",
+          "url": "https://qiita.com/maskot1977/items/58214aaa5c08ffb32193?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-16T23:01:50+09:00"
+          "date": "2026-08-17T12:18:50+09:00"
         },
         {
-          "title": "さくらのAIと話したかっただけなのに。。。人生初APIで、会話履歴をJSON保存し始めたセキュリティエンジニアの話",
-          "url": "https://qiita.com/Maruhoppe8/items/70b9777bac0159c840ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "Cloud Run Worker Pools を Terraform で立てたら毎回 drift した",
+          "url": "https://qiita.com/TaichiYamasaki/items/abab82b9c26fe1ac0e6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-16T17:41:30+09:00"
+          "date": "2026-08-17T11:19:55+09:00"
         }
       ]
     }
