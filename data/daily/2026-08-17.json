@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T15:38:57.921939+00:00",
-  "total_articles": 65,
+  "generated_at": "2026-08-17T16:06:11.794284+00:00",
+  "total_articles": 66,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,20 +15,28 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 53,
+      "count": 54,
       "top_items": [
         {
           "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
           "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-          "score": 689,
+          "score": 696,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T23:45:09+00:00"
         },
         {
+          "title": "Incident with Github.com",
+          "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+          "score": 635,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-17T13:40:55+00:00"
+        },
+        {
           "title": "A third world engineer responds to “RISC-V: They should have known better”",
           "url": "https://rvembedded.com/blog_post/12/",
-          "score": 577,
+          "score": 584,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T17:01:07+00:00"
@@ -36,18 +44,10 @@
         {
           "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "score": 568,
+          "score": 581,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T21:53:43+00:00"
-        },
-        {
-          "title": "Incident with Github.com",
-          "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-          "score": 560,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-17T13:40:55+00:00"
         },
         {
           "title": "Stripe will reportedly acquire OpenRouter for $7B+",
