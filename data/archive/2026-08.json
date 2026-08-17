@@ -1,15 +1,15 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-17T15:07:07.985433+00:00",
-  "total_articles": 457,
+  "generated_at": "2026-08-17T15:38:57.969447+00:00",
+  "total_articles": 456,
   "source_counts": {
     "hn": 363,
-    "zennqiita": 92,
+    "zennqiita": 91,
     "project": 2
   },
   "severity_counts": {
     "medium": 4,
-    "critical": 11,
+    "critical": 10,
     "high": 2
   },
   "top_articles": [
@@ -98,6 +98,13 @@
       "date": "2026-08-12T15:01:17+00:00"
     },
     {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "score": 689,
+      "source": "hn",
+      "date": "2026-08-16T23:45:09+00:00"
+    },
+    {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "score": 680,
@@ -110,13 +117,6 @@
       "score": 678,
       "source": "hn",
       "date": "2026-08-13T14:17:13+00:00"
-    },
-    {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "score": 672,
-      "source": "hn",
-      "date": "2026-08-16T23:45:09+00:00"
     },
     {
       "title": "Delta",
@@ -149,7 +149,7 @@
     {
       "title": "A third world engineer responds to “RISC-V: They should have known better”",
       "url": "https://rvembedded.com/blog_post/12/",
-      "score": 573,
+      "score": 577,
       "source": "hn",
       "date": "2026-08-16T17:01:07+00:00"
     }
@@ -238,13 +238,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-08-12T14:02:46+00:00"
-    },
-    {
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "url": "https://woxi.ad-si.com",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-12T10:06:29+00:00"
     }
   ]
 }
