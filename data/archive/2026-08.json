@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-17T17:40:50.670270+00:00",
+  "generated_at": "2026-08-17T18:08:17.085778+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 359,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 12,
     "medium": 4,
     "high": 2
   },
@@ -105,18 +105,18 @@
       "date": "2026-08-13T18:10:02+00:00"
     },
     {
+      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "score": 678,
+      "source": "hn",
+      "date": "2026-08-16T21:53:43+00:00"
+    },
+    {
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
       "score": 678,
       "source": "hn",
       "date": "2026-08-13T14:17:13+00:00"
-    },
-    {
-      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "score": 655,
-      "source": "hn",
-      "date": "2026-08-16T21:53:43+00:00"
     },
     {
       "title": "Incident with Github.com",
@@ -238,6 +238,13 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-08-13T14:18:34+00:00"
+    },
+    {
+      "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
+      "url": "https://www.nature.com/articles/d41586-026-02498-1",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-12T14:26:41+00:00"
     },
     {
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
