@@ -1,14 +1,14 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-17T18:08:17.085778+00:00",
-  "total_articles": 453,
+  "generated_at": "2026-08-17T18:45:22.794086+00:00",
+  "total_articles": 460,
   "source_counts": {
-    "hn": 359,
+    "hn": 366,
     "zennqiita": 91,
     "project": 3
   },
   "severity_counts": {
-    "critical": 12,
+    "critical": 13,
     "medium": 4,
     "high": 2
   },
@@ -91,6 +91,13 @@
       "date": "2026-08-14T14:31:08+00:00"
     },
     {
+      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "score": 699,
+      "source": "hn",
+      "date": "2026-08-16T21:53:43+00:00"
+    },
+    {
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "score": 692,
@@ -103,13 +110,6 @@
       "score": 680,
       "source": "hn",
       "date": "2026-08-13T18:10:02+00:00"
-    },
-    {
-      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "score": 678,
-      "source": "hn",
-      "date": "2026-08-16T21:53:43+00:00"
     },
     {
       "title": "Spaghettifying DRAM",
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
+      "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-17T18:06:30+00:00"
+    },
     {
       "title": "Anthropic's War on open source AI",
       "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",

@@ -1,9 +1,16 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T18:08:17.040301+00:00",
-  "total_articles": 71,
-  "urgent_count": 1,
+  "generated_at": "2026-08-17T18:45:22.749091+00:00",
+  "total_articles": 77,
+  "urgent_count": 2,
   "urgent_items": [
+    {
+      "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
+      "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-17T18:06:30+00:00"
+    },
     {
       "title": "Anthropic's War on open source AI",
       "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
@@ -15,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 65,
       "top_items": [
         {
           "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
@@ -28,7 +35,7 @@
         {
           "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
           "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "score": 678,
+          "score": 699,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T21:53:43+00:00"
@@ -44,7 +51,7 @@
         {
           "title": "A Preview of DuckDB v2.0",
           "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-          "score": 314,
+          "score": 354,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T13:46:27+00:00"
