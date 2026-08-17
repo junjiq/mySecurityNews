@@ -1,17 +1,39 @@
 {
-  "updated_at": "2026-08-17T20:06:22.360808+00:00",
+  "updated_at": "2026-08-17T20:40:19.361468+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49336672",
+      "source": "hn",
+      "title": "Will you have spent more of your life with computers than your family?",
+      "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
+      "score": 41,
+      "comments": 26,
+      "author": "Gecko4072",
+      "tags": [],
+      "date": "2026-08-17T19:56:30+00:00"
+    },
     {
       "id": "hn-49336573",
       "source": "hn",
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "score": 42,
-      "comments": 8,
+      "score": 214,
+      "comments": 102,
       "author": "mooreds",
       "tags": [],
       "date": "2026-08-17T19:47:15+00:00"
+    },
+    {
+      "id": "hn-49336304",
+      "source": "hn",
+      "title": "India has paved the way for charging merchants a fee on UPI transactions",
+      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+      "score": 25,
+      "comments": 9,
+      "author": "monkey_monkey",
+      "tags": [],
+      "date": "2026-08-17T19:25:11+00:00"
     },
     {
       "id": "hn-49336050",
@@ -29,8 +51,8 @@
       "source": "hn",
       "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
       "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-      "score": 56,
-      "comments": 18,
+      "score": 69,
+      "comments": 25,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-08-17T18:34:09+00:00"
@@ -40,7 +62,7 @@
       "source": "hn",
       "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
       "url": "https://blog.roboflow.com/roboflow-playground/",
-      "score": 12,
+      "score": 18,
       "comments": 1,
       "author": "Bluestein",
       "tags": [],
@@ -49,10 +71,10 @@
     {
       "id": "hn-49335292",
       "source": "hn",
-      "title": "How I Over-Engineered My Book",
+      "title": "How I over-engineered my book",
       "url": "https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/",
-      "score": 30,
-      "comments": 23,
+      "score": 40,
+      "comments": 31,
       "author": "benbalter",
       "tags": [],
       "date": "2026-08-17T18:15:27+00:00"
@@ -96,8 +118,8 @@
       "source": "hn",
       "title": "We Are Forking dotenvy into dotenv-ng",
       "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
-      "score": 15,
-      "comments": 16,
+      "score": 24,
+      "comments": 21,
       "author": "linggen",
       "tags": [],
       "date": "2026-08-17T17:55:24+00:00"
@@ -107,8 +129,8 @@
       "source": "hn",
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "url": "https://arxiv.org/abs/2608.13759",
-      "score": 43,
-      "comments": 8,
+      "score": 68,
+      "comments": 11,
       "author": "linggen",
       "tags": [],
       "date": "2026-08-17T17:54:59+00:00"
@@ -129,8 +151,8 @@
       "source": "hn",
       "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
       "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "score": 182,
-      "comments": 90,
+      "score": 205,
+      "comments": 101,
       "author": "anana_",
       "tags": [],
       "date": "2026-08-17T17:25:17+00:00"
@@ -151,8 +173,8 @@
       "source": "hn",
       "title": "Sun Clock",
       "url": "https://sunclock.net/",
-      "score": 78,
-      "comments": 31,
+      "score": 97,
+      "comments": 37,
       "author": "Gecko4072",
       "tags": [],
       "date": "2026-08-17T16:37:54+00:00"
@@ -162,8 +184,8 @@
       "source": "hn",
       "title": "Judge sets framework for Nine PBS to retrieve archival data",
       "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "score": 65,
-      "comments": 22,
+      "score": 73,
+      "comments": 28,
       "author": "qingcharles",
       "tags": [],
       "date": "2026-08-17T16:11:37+00:00"
@@ -184,8 +206,8 @@
       "source": "hn",
       "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
       "url": "https://speko.ai/",
-      "score": 73,
-      "comments": 45,
+      "score": 77,
+      "comments": 48,
       "author": "abdik",
       "tags": [],
       "date": "2026-08-17T15:36:18+00:00"
@@ -201,6 +223,19 @@
       "tags": [],
       "date": "2026-08-17T15:24:34+00:00",
       "severity": "critical"
+    },
+    {
+      "id": "qiita-0293493e40",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "少子化対策から人的資本投資へ ― 結婚・子育て・外国人材をつなぐ国家OSの再設計 : システム設計視点の行動経済学 (17)",
+      "url": "https://qiita.com/maskot1977/items/32ea927727c693cff1cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "maskot1977",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-18T00:00:53+09:00"
     },
     {
       "id": "hn-49331607",
@@ -240,8 +275,8 @@
       "source": "hn",
       "title": "How to put 170 atoms in an atom",
       "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-      "score": 78,
-      "comments": 15,
+      "score": 81,
+      "comments": 18,
       "author": "surprisetalk",
       "tags": [],
       "date": "2026-08-17T14:21:25+00:00"
@@ -251,8 +286,8 @@
       "source": "hn",
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 243,
-      "comments": 108,
+      "score": 257,
+      "comments": 112,
       "author": "galnagli",
       "tags": [],
       "date": "2026-08-17T14:18:38+00:00"
@@ -284,8 +319,8 @@
       "source": "hn",
       "title": "How to disable or avoid intrusive AI",
       "url": "https://www.librarian.net/notoai/",
-      "score": 186,
-      "comments": 93,
+      "score": 195,
+      "comments": 99,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-08-17T14:07:56+00:00"
@@ -306,8 +341,8 @@
       "source": "hn",
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 416,
-      "comments": 65,
+      "score": 437,
+      "comments": 69,
       "author": "ibotty",
       "tags": [],
       "date": "2026-08-17T13:46:27+00:00"
@@ -322,6 +357,19 @@
       "author": "amarcheschi",
       "tags": [],
       "date": "2026-08-17T13:44:23+00:00"
+    },
+    {
+      "id": "qiita-ff0e459d26",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "【雑記】自分のClaude Code運用の全体像",
+      "url": "https://qiita.com/ryu-ki/items/1668e67b8d3cf43c4e0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ryu-ki",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-17T22:43:18+09:00"
     },
     {
       "id": "hn-49330684",
@@ -350,8 +398,8 @@
       "source": "hn",
       "title": "Incident with Github.com",
       "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "score": 375,
-      "comments": 782,
+      "score": 403,
+      "comments": 803,
       "author": "SpyCoder77",
       "tags": [],
       "date": "2026-08-17T13:35:06+00:00"
@@ -372,11 +420,24 @@
       "source": "hn",
       "title": "Show HN: Sokoban AI Solver",
       "url": "https://mkornreich.me/projects/sokoban/",
-      "score": 57,
-      "comments": 32,
+      "score": 60,
+      "comments": 34,
       "author": "enjoyyourlife",
       "tags": [],
       "date": "2026-08-17T13:07:00+00:00"
+    },
+    {
+      "id": "qiita-53e1f18612",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Bedrockのエンドポイント/APIはどれを選べばいいの？（2026/8）",
+      "url": "https://qiita.com/moritalous/items/b023919af9f9e3e205c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "moritalous",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-17T21:45:58+09:00"
     },
     {
       "id": "hn-49329844",
@@ -416,8 +477,8 @@
       "source": "hn",
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "score": 252,
-      "comments": 132,
+      "score": 259,
+      "comments": 137,
       "author": "plurby",
       "tags": [],
       "date": "2026-08-17T12:09:42+00:00"
@@ -502,6 +563,32 @@
         "Qiita"
       ],
       "date": "2026-08-17T16:27:57+09:00"
+    },
+    {
+      "id": "qiita-80bd5ef5e5",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Mermaidで書いた過去記事の図を、話題の図解スキルに食わせてみた — 色指定が全部捨てられた",
+      "url": "https://qiita.com/jqit_suwa/items/3906db61d153fe8691aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "jqit_suwa",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-17T16:26:52+09:00"
+    },
+    {
+      "id": "qiita-f5f4c7a061",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "オントロジーについて",
+      "url": "https://qiita.com/kurogoma939/items/565588e1b1dc66012b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "kurogoma939",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-17T16:16:58+09:00"
     },
     {
       "id": "qiita-f3f41ad376",
@@ -597,6 +684,19 @@
         "Qiita"
       ],
       "date": "2026-08-17T11:19:55+09:00"
+    },
+    {
+      "id": "qiita-b0d5bea8f3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "Webアプリエンジニアがゲーム用にEC2インスタンスを立ててみた",
+      "url": "https://qiita.com/HERUESTA/items/fdb740410ef821eaa348?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "HERUESTA",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-17T11:11:38+09:00"
     },
     {
       "id": "hn-49325789",
@@ -848,8 +948,8 @@
       "source": "hn",
       "title": "How I developed an Am29000 C compiler and web browser",
       "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
-      "score": 61,
-      "comments": 9,
+      "score": 64,
+      "comments": 10,
       "author": "nanochess",
       "tags": [],
       "date": "2026-08-16T20:41:57+00:00"
@@ -3903,8 +4003,8 @@
       "source": "hn",
       "title": "Marketers are Addicted to Bad Data (2020)",
       "url": "https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data",
-      "score": 11,
-      "comments": 12,
+      "score": 14,
+      "comments": 18,
       "author": "zbentley",
       "tags": [],
       "date": "2026-08-13T16:47:40+00:00"
@@ -5036,90 +5136,11 @@
       "date": "2026-08-12T15:27:14+00:00"
     },
     {
-      "id": "hn-49273478",
-      "source": "hn",
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 692,
-      "comments": 161,
-      "author": "Philpax",
-      "tags": [],
-      "date": "2026-08-12T15:01:17+00:00"
-    },
-    {
-      "id": "hn-49273395",
-      "source": "hn",
-      "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
-      "url": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
-      "score": 1,
-      "comments": 0,
-      "author": "mkong1",
-      "tags": [],
-      "date": "2026-08-12T14:55:27+00:00"
-    },
-    {
-      "id": "hn-49273346",
-      "source": "hn",
-      "title": "Show HN: A website for exploring historical photographs of my city",
-      "url": "https://yesterdays.maprva.org/",
-      "score": 21,
-      "comments": 8,
-      "author": "uneekname",
-      "tags": [],
-      "date": "2026-08-12T14:53:02+00:00"
-    },
-    {
-      "id": "hn-49273330",
-      "source": "hn",
-      "title": "Pixel 11 Pro Fold",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-      "score": 71,
-      "comments": 96,
-      "author": "thm",
-      "tags": [],
-      "date": "2026-08-12T14:52:27+00:00"
-    },
-    {
-      "id": "hn-49273175",
-      "source": "hn",
-      "title": "Hax – a minimalist, terminal-native coding agent written in C",
-      "url": "https://usehax.dev/",
-      "score": 63,
-      "comments": 22,
-      "author": "OleksandrC",
-      "tags": [],
-      "date": "2026-08-12T14:43:45+00:00"
-    },
-    {
-      "id": "hn-49273165",
-      "source": "hn",
-      "title": "License plate reader searches should require a warrant",
-      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "score": 507,
-      "comments": 315,
-      "author": "apwheele",
-      "tags": [],
-      "date": "2026-08-12T14:43:39+00:00"
-    },
-    {
-      "id": "qiita-edd1e514c6",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "なぜ日本では「起業→投資→賃金→相続」の循環が弱いのか？ ― 諸外国の税制から考える国家OSの再設計 : システム設計視点の行動経済学 (13)",
-      "url": "https://qiita.com/maskot1977/items/f1195b799622c55e7234?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-12T23:33:09+09:00"
-    },
-    {
       "id": "hn-49272891",
       "source": "hn",
       "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
       "url": "https://www.nature.com/articles/d41586-026-02498-1",
-      "score": 46,
+      "score": 54,
       "comments": 2,
       "author": "Brajeshwar",
       "tags": [],
@@ -5127,23 +5148,12 @@
       "severity": "critical"
     },
     {
-      "id": "hn-49272832",
-      "source": "hn",
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 1130,
-      "comments": 215,
-      "author": "ropbear",
-      "tags": [],
-      "date": "2026-08-12T14:22:30+00:00"
-    },
-    {
       "id": "hn-49270194",
       "source": "hn",
       "title": "Olo (Color)",
       "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "score": 188,
-      "comments": 46,
+      "score": 199,
+      "comments": 48,
       "author": "inigyou",
       "tags": [],
       "date": "2026-08-12T10:26:14+00:00"
