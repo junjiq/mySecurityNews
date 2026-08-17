@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T04:15:38.981389+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-08-17T04:45:34.225722+00:00",
+  "total_articles": 52,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,28 +22,28 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 46,
+      "count": 44,
       "top_items": [
-        {
-          "title": "Claude: System Prompts",
-          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "score": 576,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-16T12:48:21+00:00"
-        },
         {
           "title": "Firefox for iOS now has a native adblocker",
           "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-          "score": 573,
+          "score": 586,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T12:58:10+00:00"
         },
         {
+          "title": "Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "score": 584,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-16T12:48:21+00:00"
+        },
+        {
           "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
           "url": "https://rvembedded.com/blog_post/12/",
-          "score": 406,
+          "score": 414,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T17:01:07+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 8,
       "top_items": [
         {
           "title": "エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした",
