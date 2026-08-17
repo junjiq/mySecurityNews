@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T00:47:25.510583+00:00",
-  "total_articles": 59,
+  "generated_at": "2026-08-17T01:31:00.863733+00:00",
+  "total_articles": 62,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,12 +22,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 48,
       "top_items": [
         {
           "title": "Claude: System Prompts",
           "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "score": 523,
+          "score": 537,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T12:48:21+00:00"
@@ -35,7 +35,7 @@
         {
           "title": "Firefox for iOS now has a native adblocker",
           "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-          "score": 521,
+          "score": 536,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T12:58:10+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
           "url": "https://rvembedded.com/blog_post/12/",
-          "score": 353,
+          "score": 370,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T17:01:07+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "Models Are Getting Dumber on Purpose",
           "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-          "score": 252,
+          "score": 264,
           "source": "hn",
           "severity": null,
           "date": "2026-08-16T19:04:26+00:00"
@@ -70,6 +70,14 @@
       "category": "日本語技術記事",
       "count": 14,
       "top_items": [
+        {
+          "title": "エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした",
+          "url": "https://qiita.com/jksoft/items/65f7824679ddf171a93d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-17T10:13:51+09:00"
+        },
         {
           "title": "Claude Managed Agents Workshop(大阪開催)に参加しました！",
           "url": "https://qiita.com/Maruhoppe8/items/9be555d1f349d9c73d78?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -101,14 +109,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-16T17:41:30+09:00"
-        },
-        {
-          "title": "【個人開発】あなたの環境に合ったデスクセットを提案してくれるアプリ【Next.js / TypeScript / Vercel / Supabase】",
-          "url": "https://qiita.com/o68606007/items/de328c3e89ce4dfa2a8a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": "critical",
-          "date": "2026-08-16T16:55:02+09:00"
         }
       ]
     }
