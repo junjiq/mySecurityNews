@@ -1,11 +1,11 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-17T13:17:03.253106+00:00",
-  "total_articles": 453,
+  "generated_at": "2026-08-17T13:44:28.433608+00:00",
+  "total_articles": 456,
   "source_counts": {
-    "hn": 356,
+    "hn": 360,
     "zennqiita": 94,
-    "project": 3
+    "project": 2
   },
   "severity_counts": {
     "medium": 4,
@@ -70,6 +70,13 @@
       "date": "2026-08-12T13:20:05+00:00"
     },
     {
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "score": 706,
+      "source": "hn",
+      "date": "2026-08-16T12:48:21+00:00"
+    },
+    {
       "title": "DeepSeek Harness developer preview",
       "url": "https://deepseek.com/harness/en/",
       "score": 703,
@@ -82,13 +89,6 @@
       "score": 701,
       "source": "hn",
       "date": "2026-08-14T14:31:08+00:00"
-    },
-    {
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 696,
-      "source": "hn",
-      "date": "2026-08-16T12:48:21+00:00"
     },
     {
       "title": "Qwen3.8-2.4T",
@@ -119,18 +119,18 @@
       "date": "2026-08-12T18:19:59+00:00"
     },
     {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "score": 629,
+      "source": "hn",
+      "date": "2026-08-16T23:45:09+00:00"
+    },
+    {
       "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
       "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
       "score": 616,
       "source": "hn",
       "date": "2026-08-12T11:28:27+00:00"
-    },
-    {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "score": 611,
-      "source": "hn",
-      "date": "2026-08-16T23:45:09+00:00"
     },
     {
       "title": "Grok 4.6",
@@ -149,7 +149,7 @@
     {
       "title": "A third world engineer responds to “RISC-V: They should have known better”",
       "url": "https://rvembedded.com/blog_post/12/",
-      "score": 558,
+      "score": 566,
       "source": "hn",
       "date": "2026-08-16T17:01:07+00:00"
     }
