@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-17T17:07:41.658818+00:00",
+  "generated_at": "2026-08-17T17:40:50.670270+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 359,
@@ -8,8 +8,8 @@
     "project": 3
   },
   "severity_counts": {
+    "critical": 11,
     "medium": 4,
-    "critical": 10,
     "high": 2
   },
   "top_articles": [
@@ -63,13 +63,6 @@
       "date": "2026-08-14T10:12:48+00:00"
     },
     {
-      "title": "AI is removing the middle class of software engineering?",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "score": 812,
-      "source": "hn",
-      "date": "2026-08-12T13:20:05+00:00"
-    },
-    {
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
       "score": 719,
@@ -119,6 +112,13 @@
       "date": "2026-08-13T14:17:13+00:00"
     },
     {
+      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "score": 655,
+      "source": "hn",
+      "date": "2026-08-16T21:53:43+00:00"
+    },
+    {
       "title": "Incident with Github.com",
       "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
       "score": 635,
@@ -133,13 +133,6 @@
       "date": "2026-08-12T18:19:59+00:00"
     },
     {
-      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "score": 621,
-      "source": "hn",
-      "date": "2026-08-16T21:53:43+00:00"
-    },
-    {
       "title": "Grok 4.6",
       "url": "https://x.ai/news/grok-4-6",
       "score": 595,
@@ -152,9 +145,23 @@
       "score": 590,
       "source": "hn",
       "date": "2026-08-16T12:58:10+00:00"
+    },
+    {
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "score": 589,
+      "source": "hn",
+      "date": "2026-08-16T17:01:07+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Anthropic's War on open source AI",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-17T15:24:34+00:00"
+    },
     {
       "title": "I've built a free, open-source local and remote memory system for agentw and CL",
       "url": "https://www.lorekit.io/blog/give-your-agent-a-memory",
