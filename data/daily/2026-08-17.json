@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T23:05:30.543534+00:00",
-  "total_articles": 85,
+  "generated_at": "2026-08-17T23:37:51.818675+00:00",
+  "total_articles": 86,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 67,
+      "count": 69,
       "top_items": [
         {
           "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
@@ -41,9 +41,17 @@
           "date": "2026-08-17T13:40:55+00:00"
         },
         {
+          "title": "AI;DR (AI; Didn't Read)",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "score": 513,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-17T19:47:15+00:00"
+        },
+        {
           "title": "A Preview of DuckDB v2.0",
           "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-          "score": 497,
+          "score": 505,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T13:46:27+00:00"
@@ -51,24 +59,16 @@
         {
           "title": "Incident with Github.com",
           "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-          "score": 482,
+          "score": 500,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T13:35:06+00:00"
-        },
-        {
-          "title": "AI;DR (AI; Didn't Read)",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "score": 473,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-17T19:47:15+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 18,
+      "count": 17,
       "top_items": [
         {
           "title": "少子化対策から人的資本投資へ ― 結婚・子育て・外国人材をつなぐ国家OSの再設計 : システム設計視点の行動経済学 (17)",
