@@ -1,16 +1,16 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-17T19:13:54.877047+00:00",
-  "total_articles": 462,
+  "generated_at": "2026-08-17T19:40:08.533283+00:00",
+  "total_articles": 453,
   "source_counts": {
-    "hn": 368,
-    "zennqiita": 91,
+    "hn": 361,
+    "zennqiita": 89,
     "project": 3
   },
   "severity_counts": {
     "critical": 13,
     "medium": 4,
-    "high": 2
+    "high": 1
   },
   "top_articles": [
     {
@@ -63,6 +63,13 @@
       "date": "2026-08-14T10:12:48+00:00"
     },
     {
+      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "score": 725,
+      "source": "hn",
+      "date": "2026-08-16T21:53:43+00:00"
+    },
+    {
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
       "score": 719,
@@ -75,13 +82,6 @@
       "score": 717,
       "source": "hn",
       "date": "2026-08-16T12:48:21+00:00"
-    },
-    {
-      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "score": 711,
-      "source": "hn",
-      "date": "2026-08-16T21:53:43+00:00"
     },
     {
       "title": "DeepSeek Harness developer preview",
@@ -252,13 +252,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-12T14:26:41+00:00"
-    },
-    {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-08-12T14:02:46+00:00"
     }
   ]
 }
