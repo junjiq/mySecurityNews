@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T20:04:35.398918+00:00",
-  "total_articles": 75,
+  "generated_at": "2026-08-18T20:39:21.915072+00:00",
+  "total_articles": 76,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 66,
+      "count": 64,
       "top_items": [
         {
           "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
@@ -26,20 +26,20 @@
           "date": "2026-08-17T20:46:10+00:00"
         },
         {
+          "title": "The Amazon tax",
+          "url": "https://seths.blog/2026/08/the-amazon-tax/",
+          "score": 669,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-18T13:22:38+00:00"
+        },
+        {
           "title": "How Bluesky draws its logo on screenshots",
           "url": "https://timmarinin.net/2026/bluesky-screenshots/",
           "score": 664,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T22:20:40+00:00"
-        },
-        {
-          "title": "The Amazon tax",
-          "url": "https://seths.blog/2026/08/the-amazon-tax/",
-          "score": 634,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-18T13:22:38+00:00"
         },
         {
           "title": "GPT-5.6 Sol Pricing Cut by 50%",
@@ -61,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 12,
       "top_items": [
         {
           "title": "OCI Data Catalog 第4回：Data LakeとADBのRDBMS、Vector Storeを統合し、Select AIとRAGでLakehouseを検索してみた",
@@ -70,6 +70,22 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-18T21:34:12+09:00"
+        },
+        {
+          "title": "TransformerのKVキャッシュを用いたDecode処理を理解する",
+          "url": "https://qiita.com/kenmatsu4/items/3126a7ff8d626f220202?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-18T20:08:45+09:00"
+        },
+        {
+          "title": "AHC延長戦の伝説\"saitodevel01\"の機械学習手法を再現して1位を奪い返した話",
+          "url": "https://qiita.com/thun-c/items/c8f72927ff0fbe3aa705?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-18T18:33:39+09:00"
         },
         {
           "title": "14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5",
@@ -86,22 +102,6 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-18T13:21:36+09:00"
-        },
-        {
-          "title": "生成AIによる処理結果をTP/FP/TN/FN×信頼区間でテストする",
-          "url": "https://qiita.com/take-yoda/items/4f561e8ad7c069c71001?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-18T13:17:11+09:00"
-        },
-        {
-          "title": "子供駆動開発で「キッズドリルゲーム」という学習Webアプリを個人開発で作っている",
-          "url": "https://qiita.com/st-man-hori/items/9dde1aad85cd4d866f91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-18T13:15:07+09:00"
         }
       ]
     }
