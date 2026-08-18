@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T22:04:39.762997+00:00",
-  "total_articles": 75,
+  "generated_at": "2026-08-18T22:39:43.015093+00:00",
+  "total_articles": 73,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,23 +15,15 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 63,
+      "count": 62,
       "top_items": [
         {
           "title": "The Amazon tax",
           "url": "https://seths.blog/2026/08/the-amazon-tax/",
-          "score": 755,
+          "score": 786,
           "source": "hn",
           "severity": null,
           "date": "2026-08-18T13:22:38+00:00"
-        },
-        {
-          "title": "How Bluesky draws its logo on screenshots",
-          "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-          "score": 664,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-17T22:20:40+00:00"
         },
         {
           "title": "Google has acquired the data of failed US airline Spirit",
@@ -44,24 +36,32 @@
         {
           "title": "Linux 7.3 improves performance when running out of vRAM",
           "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-          "score": 485,
+          "score": 490,
           "source": "hn",
           "severity": null,
           "date": "2026-08-18T07:51:50+00:00"
         },
         {
-          "title": "Quake Shareware, a CD-ROM just a little too full",
-          "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-          "score": 447,
+          "title": "Beware Management Consultants",
+          "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+          "score": 374,
           "source": "hn",
           "severity": null,
-          "date": "2026-08-17T22:06:14+00:00"
+          "date": "2026-08-18T19:29:51+00:00"
+        },
+        {
+          "title": "Using the railway network as a flatbed scanner",
+          "url": "https://philo.gay/linecam/",
+          "score": 370,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-18T12:43:54+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 12,
+      "count": 11,
       "top_items": [
         {
           "title": "OCI Data Catalog 第4回：Data LakeとADBのRDBMS、Vector Storeを統合し、Select AIとRAGでLakehouseを検索してみた",
