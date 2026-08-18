@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-18T18:07:49.208839+00:00",
+  "generated_at": "2026-08-18T18:45:05.315215+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 364,
@@ -9,8 +9,7 @@
   },
   "severity_counts": {
     "medium": 6,
-    "critical": 12,
-    "high": 1
+    "critical": 12
   },
   "top_articles": [
     {
@@ -98,13 +97,6 @@
       "date": "2026-08-13T18:10:02+00:00"
     },
     {
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 678,
-      "source": "hn",
-      "date": "2026-08-13T14:17:13+00:00"
-    },
-    {
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
       "score": 677,
@@ -145,6 +137,13 @@
       "score": 582,
       "source": "hn",
       "date": "2026-08-17T21:03:18+00:00"
+    },
+    {
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 548,
+      "source": "hn",
+      "date": "2026-08-18T13:22:38+00:00"
     },
     {
       "title": "Incident with Github.com",
@@ -238,13 +237,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-13T16:22:16+00:00"
-    },
-    {
-      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-      "severity": "high",
-      "source": "hn",
-      "date": "2026-08-13T14:18:34+00:00"
     }
   ]
 }
