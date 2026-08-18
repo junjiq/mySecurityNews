@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T02:47:40.744312+00:00",
-  "total_articles": 75,
+  "generated_at": "2026-08-18T03:17:31.907095+00:00",
+  "total_articles": 73,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,8 +22,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 66,
+      "count": 64,
       "top_items": [
+        {
+          "title": "AI;DR (AI; Didn't Read)",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "score": 649,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-17T19:47:15+00:00"
+        },
         {
           "title": "Incident with Github.com",
           "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
@@ -33,17 +41,9 @@
           "date": "2026-08-17T13:40:55+00:00"
         },
         {
-          "title": "AI;DR (AI; Didn't Read)",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "score": 632,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-17T19:47:15+00:00"
-        },
-        {
           "title": "A Preview of DuckDB v2.0",
           "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-          "score": 557,
+          "score": 561,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T13:46:27+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
           "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "score": 322,
+          "score": 324,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T14:18:38+00:00"
