@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-18T08:44:54.022470+00:00",
+  "updated_at": "2026-08-18T09:10:02.787078+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49342719",
+      "source": "hn",
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "score": 30,
+      "comments": 0,
+      "author": "flaburgan",
+      "tags": [],
+      "date": "2026-08-18T07:51:50+00:00"
+    },
     {
       "id": "hn-49342601",
       "source": "hn",
@@ -12,6 +23,17 @@
       "author": "alexmolas",
       "tags": [],
       "date": "2026-08-18T07:35:30+00:00"
+    },
+    {
+      "id": "hn-49342530",
+      "source": "hn",
+      "title": "Rethinking Database Programming",
+      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "score": 16,
+      "comments": 2,
+      "author": "honungsburk",
+      "tags": [],
+      "date": "2026-08-18T07:28:27+00:00"
     },
     {
       "id": "qiita-c83ec1c285",
@@ -55,7 +77,7 @@
       "source": "hn",
       "title": "Exercise intensity modulates interorgan communication and is associated with",
       "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
-      "score": 10,
+      "score": 16,
       "comments": 1,
       "author": "newsomix9xl",
       "tags": [],
@@ -131,8 +153,8 @@
       "source": "hn",
       "title": "The Benchmarkpocalypse",
       "url": "https://danluu.com/benchpocalypse/",
-      "score": 84,
-      "comments": 20,
+      "score": 91,
+      "comments": 22,
       "author": "cyndunlop",
       "tags": [],
       "date": "2026-08-18T02:11:02+00:00"
@@ -177,8 +199,8 @@
       "source": "hn",
       "title": "Repair Cafe – Fix Your Broken Items",
       "url": "https://www.repaircafe.org/",
-      "score": 99,
-      "comments": 15,
+      "score": 102,
+      "comments": 16,
       "author": "rglover",
       "tags": [],
       "date": "2026-08-17T23:28:28+00:00"
@@ -210,8 +232,8 @@
       "source": "hn",
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 468,
-      "comments": 324,
+      "score": 482,
+      "comments": 338,
       "author": "gavide",
       "tags": [],
       "date": "2026-08-17T22:20:40+00:00"
@@ -232,8 +254,8 @@
       "source": "hn",
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "score": 321,
-      "comments": 134,
+      "score": 330,
+      "comments": 139,
       "author": "shdon",
       "tags": [],
       "date": "2026-08-17T22:06:14+00:00"
@@ -243,8 +265,8 @@
       "source": "hn",
       "title": "Fairphone 6 and PostmarketOS working main camera",
       "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "score": 177,
-      "comments": 41,
+      "score": 186,
+      "comments": 42,
       "author": "pizzaiolo",
       "tags": [],
       "date": "2026-08-17T22:01:17+00:00"
@@ -265,8 +287,8 @@
       "source": "hn",
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "score": 412,
-      "comments": 243,
+      "score": 416,
+      "comments": 253,
       "author": "Topfi",
       "tags": [],
       "date": "2026-08-17T21:03:18+00:00"
@@ -276,8 +298,8 @@
       "source": "hn",
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "score": 449,
-      "comments": 292,
+      "score": 466,
+      "comments": 303,
       "author": "DeepLogin",
       "tags": [],
       "date": "2026-08-17T20:46:10+00:00"
@@ -333,8 +355,8 @@
       "source": "hn",
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "score": 855,
-      "comments": 524,
+      "score": 861,
+      "comments": 530,
       "author": "mooreds",
       "tags": [],
       "date": "2026-08-17T19:47:15+00:00"
@@ -366,8 +388,8 @@
       "source": "hn",
       "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
       "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-      "score": 144,
-      "comments": 49,
+      "score": 145,
+      "comments": 50,
       "author": "bookofjoe",
       "tags": [],
       "date": "2026-08-17T18:34:09+00:00"
@@ -457,7 +479,7 @@
       "source": "hn",
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "url": "https://arxiv.org/abs/2608.13759",
-      "score": 209,
+      "score": 210,
       "comments": 42,
       "author": "linggen",
       "tags": [],
@@ -490,8 +512,8 @@
       "source": "hn",
       "title": "An update on leaving Gmail for Fastmail",
       "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-      "score": 215,
-      "comments": 136,
+      "score": 225,
+      "comments": 139,
       "author": "neogodless",
       "tags": [],
       "date": "2026-08-17T17:15:20+00:00",
@@ -524,8 +546,8 @@
       "source": "hn",
       "title": "Sun Clock",
       "url": "https://sunclock.net/",
-      "score": 223,
-      "comments": 73,
+      "score": 226,
+      "comments": 74,
       "author": "Gecko4072",
       "tags": [],
       "date": "2026-08-17T16:37:54+00:00"
@@ -535,7 +557,7 @@
       "source": "hn",
       "title": "Judge sets framework for Nine PBS to retrieve archival data",
       "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "score": 163,
+      "score": 165,
       "comments": 62,
       "author": "qingcharles",
       "tags": [],
@@ -637,8 +659,8 @@
       "source": "hn",
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 367,
-      "comments": 141,
+      "score": 368,
+      "comments": 142,
       "author": "galnagli",
       "tags": [],
       "date": "2026-08-17T14:18:38+00:00"
@@ -671,7 +693,7 @@
       "title": "How to disable or avoid intrusive AI",
       "url": "https://www.librarian.net/notoai/",
       "score": 295,
-      "comments": 175,
+      "comments": 176,
       "author": "ColinWright",
       "tags": [],
       "date": "2026-08-17T14:07:56+00:00"
@@ -692,7 +714,7 @@
       "source": "hn",
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 624,
+      "score": 631,
       "comments": 112,
       "author": "ibotty",
       "tags": [],
@@ -829,7 +851,7 @@
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6/",
       "score": 338,
-      "comments": 161,
+      "comments": 163,
       "author": "plurby",
       "tags": [],
       "date": "2026-08-17T12:09:42+00:00"
@@ -1708,8 +1730,8 @@
       "source": "hn",
       "title": "Climbing Guide as a Shared Infrastructure",
       "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
-      "score": 13,
-      "comments": 4,
+      "score": 14,
+      "comments": 5,
       "author": "zbycz",
       "tags": [],
       "date": "2026-08-16T10:10:56+00:00"
@@ -4795,8 +4817,8 @@
       "source": "hn",
       "title": "Shattered skeleton is first confirmed death from trebuchet",
       "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-      "score": 63,
-      "comments": 42,
+      "score": 65,
+      "comments": 46,
       "author": "hermitcrab",
       "tags": [],
       "date": "2026-08-13T12:47:43+00:00"
@@ -5125,35 +5147,11 @@
       "date": "2026-08-13T02:32:01+00:00"
     },
     {
-      "id": "qiita-9547995fba",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "地理院標高タイルの「穴」を埋める多段フォールバックアルゴリズム",
-      "url": "https://qiita.com/8ga3/items/12a94f878679a5911443?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "8ga3",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-13T09:59:13+09:00"
-    },
-    {
-      "id": "hn-49280186",
-      "source": "hn",
-      "title": "The deep history behind the Road to Nowhere inside the Great Smoky Mountains",
-      "url": "https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains",
-      "score": 13,
-      "comments": 4,
-      "author": "yareally",
-      "tags": [],
-      "date": "2026-08-13T00:02:02+00:00"
-    },
-    {
       "id": "hn-49270194",
       "source": "hn",
       "title": "Olo (Color)",
       "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "score": 419,
+      "score": 429,
       "comments": 80,
       "author": "inigyou",
       "tags": [],
@@ -5164,7 +5162,7 @@
       "source": "hn",
       "title": "The Road to MS-DOS 2.0",
       "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
-      "score": 67,
+      "score": 69,
       "comments": 25,
       "author": "whobre",
       "tags": [],
@@ -5603,19 +5601,6 @@
       "date": "Fri, 14 Aug 2026 10:51:20 GMT"
     },
     {
-      "id": "zenn-f81b72a897",
-      "source": "zennqiita",
-      "sub_source": "Zenn",
-      "title": "AIエージェントと進めるソフトウェア開発",
-      "url": "https://zenn.dev/hako_hako/books/nexus-product-new-development",
-      "score": null,
-      "author": "hako@札幌",
-      "tags": [
-        "Zenn"
-      ],
-      "date": "Thu, 13 Aug 2026 08:10:07 GMT"
-    },
-    {
       "id": "zenn-9ddf40c015",
       "source": "zennqiita",
       "sub_source": "Zenn",
@@ -5640,6 +5625,19 @@
         "Zenn"
       ],
       "date": "Thu, 13 Aug 2026 05:44:16 GMT"
+    },
+    {
+      "id": "zenn-332c471b51",
+      "source": "zennqiita",
+      "sub_source": "Zenn",
+      "title": "同じRust製のBiomeとOxlintで、なぜ速度差が大きいのか",
+      "url": "https://zenn.dev/estie/articles/64b80da2fbf175",
+      "score": null,
+      "author": "yamarin",
+      "tags": [
+        "Zenn"
+      ],
+      "date": "Thu, 13 Aug 2026 03:00:09 GMT"
     },
     {
       "id": "edb-13e2bd4b12",
