@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-18T19:11:37.274378+00:00",
+  "updated_at": "2026-08-18T19:39:27.087265+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "hn-49351330",
+      "source": "hn",
+      "title": "Norway Should Buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "score": 14,
+      "comments": 8,
+      "author": "alexeigannon",
+      "tags": [],
+      "date": "2026-08-18T19:30:29+00:00"
+    },
+    {
+      "id": "hn-49351020",
+      "source": "hn",
+      "title": "Show HN: Argus, agentic QA for teams whose coding agents move faster than QA",
+      "url": "https://github.com/argus-testing/argus",
+      "score": 4,
+      "comments": 0,
+      "author": "canergl",
+      "tags": [],
+      "date": "2026-08-18T19:10:16+00:00"
+    },
+    {
+      "id": "hn-49350980",
+      "source": "hn",
+      "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
+      "url": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/",
+      "score": 3,
+      "comments": 0,
+      "author": "rdmuser",
+      "tags": [],
+      "date": "2026-08-18T19:07:47+00:00"
+    },
+    {
+      "id": "hn-49350955",
+      "source": "hn",
+      "title": "US announces new sanctions on top ICC figures",
+      "url": "https://www.bbc.com/news/articles/cnvnl0elz47o",
+      "score": 53,
+      "comments": 16,
+      "author": "root-parent",
+      "tags": [],
+      "date": "2026-08-18T19:06:16+00:00"
+    },
     {
       "id": "hn-49350637",
       "source": "hn",
@@ -14,12 +58,24 @@
       "date": "2026-08-18T18:47:51+00:00"
     },
     {
+      "id": "hn-49350031",
+      "source": "hn",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "score": 8,
+      "comments": 0,
+      "author": "j4mie",
+      "tags": [],
+      "date": "2026-08-18T18:14:59+00:00",
+      "severity": "critical"
+    },
+    {
       "id": "hn-49349984",
       "source": "hn",
       "title": "How does IKEA come up with names for its products?",
       "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "score": 62,
-      "comments": 31,
+      "score": 93,
+      "comments": 65,
       "author": "NaOH",
       "tags": [],
       "date": "2026-08-18T18:11:53+00:00"
@@ -29,8 +85,8 @@
       "source": "hn",
       "title": "Turbovec – Google's TurboQuant for vector search in Rust",
       "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 51,
-      "comments": 8,
+      "score": 80,
+      "comments": 10,
       "author": "fittingopposite",
       "tags": [],
       "date": "2026-08-18T18:07:21+00:00"
@@ -51,8 +107,8 @@
       "source": "hn",
       "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "score": 153,
-      "comments": 171,
+      "score": 189,
+      "comments": 215,
       "author": "cwwc",
       "tags": [],
       "date": "2026-08-18T17:24:53+00:00"
@@ -73,8 +129,8 @@
       "source": "hn",
       "title": "Claude Code May–August 2026 weekly limits promotion",
       "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "score": 216,
-      "comments": 162,
+      "score": 223,
+      "comments": 178,
       "author": "tyre",
       "tags": [],
       "date": "2026-08-18T17:02:15+00:00"
@@ -95,8 +151,8 @@
       "source": "hn",
       "title": "Superpowers, Not Superintelligence",
       "url": "https://bond.now/news/superpowers-not-superintelligence",
-      "score": 25,
-      "comments": 29,
+      "score": 26,
+      "comments": 37,
       "author": "edbernays",
       "tags": [],
       "date": "2026-08-18T16:27:41+00:00"
@@ -106,8 +162,8 @@
       "source": "hn",
       "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
       "url": "https://machine0.io",
-      "score": 27,
-      "comments": 26,
+      "score": 31,
+      "comments": 29,
       "author": "bwm",
       "tags": [],
       "date": "2026-08-18T16:26:42+00:00"
@@ -128,8 +184,8 @@
       "source": "hn",
       "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
       "url": "https://github.com/therepanic/openleetcode",
-      "score": 24,
-      "comments": 9,
+      "score": 27,
+      "comments": 11,
       "author": "therepanic",
       "tags": [],
       "date": "2026-08-18T15:30:40+00:00"
@@ -239,7 +295,7 @@
       "source": "hn",
       "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
       "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "score": 115,
+      "score": 118,
       "comments": 17,
       "author": "jeroenjanssens",
       "tags": [],
@@ -272,8 +328,8 @@
       "source": "hn",
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 574,
-      "comments": 401,
+      "score": 609,
+      "comments": 415,
       "author": "herbertl",
       "tags": [],
       "date": "2026-08-18T13:22:38+00:00"
@@ -283,8 +339,8 @@
       "source": "hn",
       "title": "Fixing a bricked Framework laptop",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "score": 259,
-      "comments": 163,
+      "score": 270,
+      "comments": 178,
       "author": "jp_sc",
       "tags": [],
       "date": "2026-08-18T13:18:40+00:00"
@@ -349,7 +405,7 @@
       "source": "hn",
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "score": 308,
+      "score": 317,
       "comments": 52,
       "author": "otherayden",
       "tags": [],
@@ -439,8 +495,8 @@
       "source": "hn",
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "score": 446,
-      "comments": 203,
+      "score": 452,
+      "comments": 206,
       "author": "flaburgan",
       "tags": [],
       "date": "2026-08-18T07:51:50+00:00"
@@ -942,8 +998,8 @@
       "source": "hn",
       "title": "Memory prices climb 500% in 12 months",
       "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "score": 243,
-      "comments": 184,
+      "score": 259,
+      "comments": 196,
       "author": "haunter",
       "tags": [],
       "date": "2026-08-17T17:52:37+00:00"
@@ -976,8 +1032,8 @@
       "source": "hn",
       "title": "Cursor launches Origin, GitHub alternative",
       "url": "https://cursor.com/changelog/origin-code-hosting",
-      "score": 274,
-      "comments": 221,
+      "score": 300,
+      "comments": 236,
       "author": "tomasreimers",
       "tags": [],
       "date": "2026-08-17T17:02:44+00:00"
@@ -1020,8 +1076,8 @@
       "source": "hn",
       "title": "Universal health coverage could save $1T and 114k lives a year: study",
       "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "score": 517,
-      "comments": 606,
+      "score": 537,
+      "comments": 634,
       "author": "karakoram",
       "tags": [],
       "date": "2026-08-17T15:49:57+00:00"
@@ -3058,8 +3114,8 @@
       "source": "hn",
       "title": "Splitting a Git Commit",
       "url": "https://blog.gnoack.org/post/git-history-split",
-      "score": 84,
-      "comments": 39,
+      "score": 87,
+      "comments": 42,
       "author": "signa11",
       "tags": [],
       "date": "2026-08-15T13:56:31+00:00"
@@ -3290,8 +3346,8 @@
       "source": "hn",
       "title": "Evolve: An incremental game about evolving a civilization",
       "url": "https://pmotschmann.github.io/Evolve/",
-      "score": 17,
-      "comments": 5,
+      "score": 21,
+      "comments": 7,
       "author": "frozenseven",
       "tags": [],
       "date": "2026-08-15T09:58:29+00:00"
@@ -4184,8 +4240,8 @@
       "source": "hn",
       "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
       "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-      "score": 34,
-      "comments": 16,
+      "score": 38,
+      "comments": 19,
       "author": "rbanffy",
       "tags": [],
       "date": "2026-08-14T11:05:13+00:00"
@@ -5057,85 +5113,23 @@
       "date": "2026-08-13T16:12:01+00:00"
     },
     {
-      "id": "qiita-19319b2132",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "『払った分だけ返ってくる』は本当？ ― 年金・社会保険料に潜む保険と再分配の設計 : システム設計視点の行動経済学 (14)",
-      "url": "https://qiita.com/maskot1977/items/a5effb8ffd48b80e6f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "maskot1977",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-14T00:59:23+09:00"
-    },
-    {
-      "id": "qiita-0388053aa1",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "TypeScriptのAPIサーバでSOLID原則とデザインパターンを「使いすぎない」ための線引き",
-      "url": "https://qiita.com/kkkkkou/items/c141424f081154458bc3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kkkkkou",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-14T00:12:12+09:00"
-    },
-    {
-      "id": "hn-49287153",
+      "id": "hn-49287463",
       "source": "hn",
-      "title": "Text AI watermarks will always be trivial to remove",
-      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "score": 36,
-      "comments": 24,
-      "author": "pseudolus",
-      "tags": [],
-      "date": "2026-08-13T15:07:10+00:00"
-    },
-    {
-      "id": "hn-49286891",
-      "source": "hn",
-      "title": "The Marvelously Inventive Life of Mária Telkes (2023)",
-      "url": "https://www.pbs.org/wgbh/americanexperience/features/sun-queen-marvelously-inventive-life-maria-telkes/",
-      "score": 3,
+      "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
+      "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
+      "score": 8,
       "comments": 0,
-      "author": "mooreds",
+      "author": "speckx",
       "tags": [],
-      "date": "2026-08-13T14:51:08+00:00"
-    },
-    {
-      "id": "qiita-b7978556fb",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証",
-      "url": "https://qiita.com/gts/items/8d3c14dabff88d8f1901?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "gts",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-13T23:42:12+09:00"
-    },
-    {
-      "id": "hn-49286654",
-      "source": "hn",
-      "title": "Flock updates privacy, accountability, security, and transparency safeguards",
-      "url": "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency",
-      "score": 20,
-      "comments": 26,
-      "author": "LazyMans",
-      "tags": [],
-      "date": "2026-08-13T14:37:29+00:00",
-      "severity": "medium"
+      "date": "2026-08-13T15:26:42+00:00"
     },
     {
       "id": "hn-49272631",
       "source": "hn",
       "title": "Teaching my kid to code with a modern MUD",
       "url": "https://tau.dev/2026/08/07/canon",
-      "score": 186,
-      "comments": 52,
+      "score": 187,
+      "comments": 54,
       "author": "andrewjanke",
       "tags": [],
       "date": "2026-08-12T14:07:14+00:00"

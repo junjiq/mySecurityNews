@@ -1,15 +1,15 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-18T19:11:37.381151+00:00",
+  "generated_at": "2026-08-18T19:39:27.193486+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 365,
-    "zennqiita": 85,
+    "hn": 368,
+    "zennqiita": 82,
     "project": 3
   },
   "severity_counts": {
-    "medium": 6,
-    "critical": 12
+    "critical": 13,
+    "medium": 5
   },
   "top_articles": [
     {
@@ -118,6 +118,13 @@
       "date": "2026-08-17T13:40:55+00:00"
     },
     {
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 609,
+      "source": "hn",
+      "date": "2026-08-18T13:22:38+00:00"
+    },
+    {
       "title": "Firefox for iOS now has a native adblocker",
       "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
       "score": 590,
@@ -139,21 +146,21 @@
       "date": "2026-08-17T21:03:18+00:00"
     },
     {
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 574,
+      "title": "Universal health coverage could save $1T and 114k lives a year: study",
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "score": 537,
       "source": "hn",
-      "date": "2026-08-18T13:22:38+00:00"
-    },
-    {
-      "title": "Incident with Github.com",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "score": 520,
-      "source": "hn",
-      "date": "2026-08-17T13:35:06+00:00"
+      "date": "2026-08-17T15:49:57+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-18T18:14:59+00:00"
+    },
     {
       "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
       "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",

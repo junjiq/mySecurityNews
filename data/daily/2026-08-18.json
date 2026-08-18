@@ -1,13 +1,21 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T19:11:37.337105+00:00",
-  "total_articles": 73,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-08-18T19:39:27.149406+00:00",
+  "total_articles": 76,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-18T18:14:59+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 64,
+      "count": 67,
       "top_items": [
         {
           "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
@@ -34,20 +42,20 @@
           "date": "2026-08-17T22:20:40+00:00"
         },
         {
+          "title": "The Amazon tax",
+          "url": "https://seths.blog/2026/08/the-amazon-tax/",
+          "score": 609,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-18T13:22:38+00:00"
+        },
+        {
           "title": "GPT-5.6 Sol Pricing Cut by 50%",
           "url": "https://openrouter.ai/openai/gpt-5.6-sol",
           "score": 582,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T21:03:18+00:00"
-        },
-        {
-          "title": "The Amazon tax",
-          "url": "https://seths.blog/2026/08/the-amazon-tax/",
-          "score": 574,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-18T13:22:38+00:00"
         }
       ]
     },
