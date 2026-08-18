@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T00:47:37.325219+00:00",
-  "total_articles": 81,
+  "generated_at": "2026-08-18T01:30:35.744653+00:00",
+  "total_articles": 80,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,7 +22,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 67,
+      "count": 68,
       "top_items": [
         {
           "title": "Incident with Github.com",
@@ -35,10 +35,18 @@
         {
           "title": "AI;DR (AI; Didn't Read)",
           "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "score": 559,
+          "score": 577,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T19:47:15+00:00"
+        },
+        {
+          "title": "A Preview of DuckDB v2.0",
+          "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+          "score": 531,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-17T13:46:27+00:00"
         },
         {
           "title": "Incident with Github.com",
@@ -49,17 +57,9 @@
           "date": "2026-08-17T13:35:06+00:00"
         },
         {
-          "title": "A Preview of DuckDB v2.0",
-          "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-          "score": 518,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-17T13:46:27+00:00"
-        },
-        {
           "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
           "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-          "score": 309,
+          "score": 315,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T14:18:38+00:00"
@@ -68,7 +68,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 14,
+      "count": 12,
       "top_items": [
         {
           "title": "少子化対策から人的資本投資へ ― 結婚・子育て・外国人材をつなぐ国家OSの再設計 : システム設計視点の行動経済学 (17)",
