@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T08:10:05.928293+00:00",
-  "total_articles": 67,
+  "generated_at": "2026-08-18T08:44:54.082851+00:00",
+  "total_articles": 76,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -27,7 +27,7 @@
         {
           "title": "AI;DR (AI; Didn't Read)",
           "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "score": 837,
+          "score": 855,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T19:47:15+00:00"
@@ -43,7 +43,7 @@
         {
           "title": "A Preview of DuckDB v2.0",
           "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-          "score": 619,
+          "score": 624,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T13:46:27+00:00"
@@ -59,7 +59,7 @@
         {
           "title": "How Bluesky draws its logo on screenshots",
           "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-          "score": 444,
+          "score": 468,
           "source": "hn",
           "severity": null,
           "date": "2026-08-17T22:20:40+00:00"
@@ -68,39 +68,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 4,
+      "count": 13,
       "top_items": [
         {
-          "title": "Cloud Run Worker Pools を Terraform で立てたら毎回 drift した",
-          "url": "https://qiita.com/TaichiYamasaki/items/abab82b9c26fe1ac0e6b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "OCI Data Catalog 第4回：Data LakeとADBのRDBMS、Vector Storeを統合し、Select AIとRAGでLakehouseを検索してみた",
+          "url": "https://qiita.com/shirok/items/6d67f981b547f181d644?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-18T12:56:02+09:00"
+          "date": "2026-08-18T15:23:52+09:00"
         },
         {
-          "title": "少子化対策から人的資本投資へ ― 結婚・子育て・外国人材をつなぐ国家OSの再設計 : システム設計視点の行動経済学 (17)",
-          "url": "https://qiita.com/maskot1977/items/32ea927727c693cff1cb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5",
+          "url": "https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-18T00:00:53+09:00"
+          "date": "2026-08-18T14:03:11+09:00"
         },
         {
-          "title": "【雑記】自分のClaude Code運用の全体像",
-          "url": "https://qiita.com/ryu-ki/items/1668e67b8d3cf43c4e0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "学習メモ：Findyと考える「個人を超えたAIの生産性をどう測定するか」 #oreilly_chomado_findy",
+          "url": "https://qiita.com/chomado/items/a91a87e22faf4b622640?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-17T22:43:18+09:00"
+          "date": "2026-08-18T13:21:36+09:00"
         },
         {
-          "title": "Bedrockのエンドポイント/APIはどれを選べばいいの？（2026/8）",
-          "url": "https://qiita.com/moritalous/items/b023919af9f9e3e205c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "生成AIによる処理結果をTP/FP/TN/FN×信頼区間でテストする",
+          "url": "https://qiita.com/take-yoda/items/4f561e8ad7c069c71001?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-17T21:45:58+09:00"
+          "date": "2026-08-18T13:17:11+09:00"
+        },
+        {
+          "title": "子供駆動開発で「キッズドリルゲーム」という学習Webアプリを個人開発で作っている",
+          "url": "https://qiita.com/st-man-hori/items/9dde1aad85cd4d866f91?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-18T13:15:07+09:00"
         }
       ]
     }
