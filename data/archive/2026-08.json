@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-18T01:30:35.792393+00:00",
+  "generated_at": "2026-08-18T02:24:50.910165+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 358,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 13,
+    "critical": 12,
     "medium": 5,
     "high": 1
   },
@@ -105,6 +105,13 @@
       "date": "2026-08-17T13:40:55+00:00"
     },
     {
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "score": 617,
+      "source": "hn",
+      "date": "2026-08-17T19:47:15+00:00"
+    },
+    {
       "title": "Firefox for iOS now has a native adblocker",
       "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
       "score": 590,
@@ -119,16 +126,9 @@
       "date": "2026-08-16T17:01:07+00:00"
     },
     {
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "score": 577,
-      "source": "hn",
-      "date": "2026-08-17T19:47:15+00:00"
-    },
-    {
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 531,
+      "score": 547,
       "source": "hn",
       "date": "2026-08-17T13:46:27+00:00"
     },
@@ -245,13 +245,6 @@
       "severity": "high",
       "source": "hn",
       "date": "2026-08-13T14:18:34+00:00"
-    },
-    {
-      "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
-      "url": "https://www.nature.com/articles/d41586-026-02498-1",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-12T14:26:41+00:00"
     }
   ]
 }
