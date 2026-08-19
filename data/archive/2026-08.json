@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-19T08:44:58.995020+00:00",
+  "generated_at": "2026-08-19T09:11:27.762879+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 367,
@@ -8,8 +8,8 @@
     "project": 3
   },
   "severity_counts": {
-    "medium": 5,
-    "critical": 9
+    "critical": 10,
+    "medium": 5
   },
   "top_articles": [
     {
@@ -29,16 +29,9 @@
     {
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 1157,
+      "score": 1170,
       "source": "hn",
       "date": "2026-08-18T13:22:38+00:00"
-    },
-    {
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "url": "https://z.ai/blog/glm-5.3",
-      "score": 1100,
-      "source": "hn",
-      "date": "2026-08-14T05:19:59+00:00"
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
@@ -139,6 +132,13 @@
       "date": "2026-08-16T17:01:07+00:00"
     },
     {
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "score": 584,
+      "source": "hn",
+      "date": "2026-08-19T01:58:28+00:00"
+    },
+    {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "score": 582,
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+      "url": "https://www.modular.com/blog/modcon-announcements",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-19T07:47:19+00:00"
+    },
     {
       "title": "Pacing model development in an era of cyber-critical capabilities",
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
