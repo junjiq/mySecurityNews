@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-19T04:14:08.204144+00:00",
+  "generated_at": "2026-08-19T04:44:23.724200+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 363,
@@ -8,8 +8,8 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 9,
-    "medium": 4
+    "medium": 5,
+    "critical": 9
   },
   "top_articles": [
     {
@@ -36,7 +36,7 @@
     {
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 1014,
+      "score": 1044,
       "source": "hn",
       "date": "2026-08-18T13:22:38+00:00"
     },
@@ -62,6 +62,13 @@
       "date": "2026-08-14T10:12:48+00:00"
     },
     {
+      "title": "Universal health coverage could save $1T and 114k lives a year: study",
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "score": 786,
+      "source": "hn",
+      "date": "2026-08-17T15:49:57+00:00"
+    },
+    {
       "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "score": 731,
@@ -81,13 +88,6 @@
       "score": 717,
       "source": "hn",
       "date": "2026-08-16T12:48:21+00:00"
-    },
-    {
-      "title": "Universal health coverage could save $1T and 114k lives a year: study",
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "score": 707,
-      "source": "hn",
-      "date": "2026-08-17T15:49:57+00:00"
     },
     {
       "title": "Every Fucking Website (2020)",
@@ -141,16 +141,16 @@
     {
       "title": "Memory prices climb 500% in 12 months",
       "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "score": 525,
+      "score": 534,
       "source": "hn",
       "date": "2026-08-17T17:52:37+00:00"
     },
     {
-      "title": "Incident with Github.com",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "title": "Cursor launches Origin, GitHub alternative",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
       "score": 520,
       "source": "hn",
-      "date": "2026-08-17T13:35:06+00:00"
+      "date": "2026-08-17T17:02:44+00:00"
     }
   ],
   "security_highlights": [
