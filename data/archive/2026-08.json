@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-19T16:42:24.096527+00:00",
+  "generated_at": "2026-08-19T17:07:25.495301+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 373,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "medium": 4
   },
   "top_articles": [
@@ -29,7 +29,7 @@
     {
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
-      "score": 1297,
+      "score": 1318,
       "source": "hn",
       "date": "2026-08-19T01:58:28+00:00"
     },
@@ -64,7 +64,7 @@
     {
       "title": "Being ambitious and being a dad",
       "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 787,
+      "score": 799,
       "source": "hn",
       "date": "2026-08-16T16:08:57+00:00"
     },
@@ -188,6 +188,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-16T18:03:09+00:00"
+    },
+    {
+      "title": "A recipe for drone racing with reinforcement learning",
+      "url": "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-16T13:12:34+00:00"
     },
     {
       "title": "【個人開発】あなたの環境に合ったデスクセットを提案してくれるアプリ【Next.js / TypeScript / Vercel / Supabase】",
