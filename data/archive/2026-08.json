@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-19T22:39:23.208383+00:00",
+  "generated_at": "2026-08-19T23:06:02.306732+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 368,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 5,
-    "critical": 10,
+    "critical": 9,
     "high": 1
   },
   "top_articles": [
@@ -86,7 +86,7 @@
     {
       "title": "A joke domain purchase turned in geopolitical warfare",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 687,
+      "score": 700,
       "source": "hn",
       "date": "2026-08-19T11:21:50+00:00"
     },
@@ -224,13 +224,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-14T20:52:44+00:00"
-    },
-    {
-      "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
-      "url": "https://rayforcedb.com/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-14T16:02:20+00:00"
     }
   ]
 }
