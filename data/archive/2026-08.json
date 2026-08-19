@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-19T16:07:19.151550+00:00",
+  "generated_at": "2026-08-19T16:42:24.096527+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 373,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 8,
     "medium": 4
   },
   "top_articles": [
@@ -27,18 +27,18 @@
       "date": "2026-08-14T15:00:00+00:00"
     },
     {
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "score": 1297,
+      "source": "hn",
+      "date": "2026-08-19T01:58:28+00:00"
+    },
+    {
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "score": 1293,
       "source": "hn",
       "date": "2026-08-18T13:22:38+00:00"
-    },
-    {
-      "title": "OpenLogi",
-      "url": "https://openlogi.org/en",
-      "score": 1242,
-      "source": "hn",
-      "date": "2026-08-19T01:58:28+00:00"
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
@@ -62,16 +62,9 @@
       "date": "2026-08-17T15:49:57+00:00"
     },
     {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 819,
-      "source": "hn",
-      "date": "2026-08-14T10:12:48+00:00"
-    },
-    {
       "title": "Being ambitious and being a dad",
       "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 771,
+      "score": 787,
       "source": "hn",
       "date": "2026-08-16T16:08:57+00:00"
     },
@@ -151,6 +144,13 @@
       "score": 582,
       "source": "hn",
       "date": "2026-08-17T21:03:18+00:00"
+    },
+    {
+      "title": "Cursor launches Origin, GitHub alternative",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "score": 562,
+      "source": "hn",
+      "date": "2026-08-17T17:02:44+00:00"
     }
   ],
   "security_highlights": [
@@ -209,13 +209,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-14T16:02:20+00:00"
-    },
-    {
-      "title": "Ntfy – open-source Push to Mobile",
-      "url": "https://ntfy.sh/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-14T10:35:43+00:00"
     }
   ]
 }
