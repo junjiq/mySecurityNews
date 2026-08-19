@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T08:10:36.062194+00:00",
-  "total_articles": 78,
+  "generated_at": "2026-08-19T08:44:58.951771+00:00",
+  "total_articles": 86,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -20,10 +20,18 @@
         {
           "title": "The Amazon tax",
           "url": "https://seths.blog/2026/08/the-amazon-tax/",
-          "score": 1140,
+          "score": 1157,
           "source": "hn",
           "severity": null,
           "date": "2026-08-18T13:22:38+00:00"
+        },
+        {
+          "title": "OpenLogi",
+          "url": "https://openlogi.org/en",
+          "score": 541,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-19T01:58:28+00:00"
         },
         {
           "title": "Google has acquired the data of failed US airline Spirit",
@@ -32,14 +40,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-18T10:13:28+00:00"
-        },
-        {
-          "title": "OpenLogi",
-          "url": "https://openlogi.org/en",
-          "score": 477,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-19T01:58:28+00:00"
         },
         {
           "title": "Beware Management Consultants",
@@ -61,8 +61,16 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 13,
       "top_items": [
+        {
+          "title": "OCI Data Catalog 第4回：Data LakeとADBのRDBMS、Vector Storeを統合し、Select AIとRAGでLakehouseを検索してみた",
+          "url": "https://qiita.com/shirok/items/6d67f981b547f181d644?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-19T17:32:30+09:00"
+        },
         {
           "title": "学習メモ：Findyと考える「個人を超えたAIの生産性をどう測定するか」 #oreilly_chomado_findy",
           "url": "https://qiita.com/chomado/items/a91a87e22faf4b622640?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -70,6 +78,14 @@
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-19T12:23:51+09:00"
+        },
+        {
+          "title": "Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術",
+          "url": "https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-19T12:05:44+09:00"
         },
         {
           "title": "SES案件参画後30日で信頼を作る行動",
@@ -80,28 +96,12 @@
           "date": "2026-08-19T12:00:34+09:00"
         },
         {
-          "title": "OCI Data Catalog 第4回：Data LakeとADBのRDBMS、Vector Storeを統合し、Select AIとRAGでLakehouseを検索してみた",
-          "url": "https://qiita.com/shirok/items/6d67f981b547f181d644?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "【2026年9月までに対応】Gemini API の Standard key を Auth key へ移行する手順と漏えい対策",
+          "url": "https://qiita.com/nkstm_0410/items/6145b1aaf27c16366303?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-18T21:34:12+09:00"
-        },
-        {
-          "title": "TransformerのKVキャッシュを用いたDecode処理を理解する",
-          "url": "https://qiita.com/kenmatsu4/items/3126a7ff8d626f220202?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-18T20:08:45+09:00"
-        },
-        {
-          "title": "AHC延長戦の伝説\"saitodevel01\"の機械学習手法を再現して1位を奪い返した話",
-          "url": "https://qiita.com/thun-c/items/c8f72927ff0fbe3aa705?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-18T18:33:39+09:00"
+          "date": "2026-08-19T09:55:55+09:00"
         }
       ]
     }
