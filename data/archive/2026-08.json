@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-19T00:11:21.693979+00:00",
+  "generated_at": "2026-08-19T00:47:21.955940+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 362,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 11,
+    "critical": 10,
     "medium": 4
   },
   "top_articles": [
@@ -41,18 +41,18 @@
       "date": "2026-08-17T20:46:10+00:00"
     },
     {
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 887,
+      "source": "hn",
+      "date": "2026-08-18T13:22:38+00:00"
+    },
+    {
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "score": 884,
       "source": "hn",
       "date": "2026-08-17T19:47:15+00:00"
-    },
-    {
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 858,
-      "source": "hn",
-      "date": "2026-08-18T13:22:38+00:00"
     },
     {
       "title": "Why does Opus 5 feel worse to work with?",
@@ -223,13 +223,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-13T22:01:04+00:00"
-    },
-    {
-      "title": "AI Is Threatening Natural Resources for Billions",
-      "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-13T18:28:20+00:00"
     }
   ]
 }
