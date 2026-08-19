@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-19T19:08:46.258592+00:00",
+  "generated_at": "2026-08-19T19:38:46.349077+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 374,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 10,
     "medium": 4
   },
   "top_articles": [
@@ -22,7 +22,7 @@
     {
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
-      "score": 1431,
+      "score": 1447,
       "source": "hn",
       "date": "2026-08-19T01:58:28+00:00"
     },
@@ -154,6 +154,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-19T17:47:29+00:00"
+    },
     {
       "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
       "url": "https://www.modular.com/blog/modcon-announcements",
