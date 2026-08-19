@@ -1,15 +1,16 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-19T20:05:39.528041+00:00",
+  "generated_at": "2026-08-19T20:41:10.397553+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 374,
-    "zennqiita": 76,
+    "hn": 367,
+    "zennqiita": 83,
     "project": 3
   },
   "severity_counts": {
+    "medium": 5,
     "critical": 10,
-    "medium": 4
+    "high": 1
   },
   "top_articles": [
     {
@@ -25,13 +26,6 @@
       "score": 1447,
       "source": "hn",
       "date": "2026-08-19T01:58:28+00:00"
-    },
-    {
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 1333,
-      "source": "hn",
-      "date": "2026-08-14T15:00:00+00:00"
     },
     {
       "title": "The Amazon tax",
@@ -90,13 +84,6 @@
       "date": "2026-08-16T12:48:21+00:00"
     },
     {
-      "title": "Every Fucking Website (2020)",
-      "url": "https://lxe.github.io/everywebsite/",
-      "score": 701,
-      "source": "hn",
-      "date": "2026-08-14T14:31:08+00:00"
-    },
-    {
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
       "score": 677,
@@ -116,6 +103,13 @@
       "score": 635,
       "source": "hn",
       "date": "2026-08-17T13:40:55+00:00"
+    },
+    {
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "score": 597,
+      "source": "hn",
+      "date": "2026-08-19T11:21:50+00:00"
     },
     {
       "title": "Firefox for iOS now has a native adblocker",
@@ -146,11 +140,18 @@
       "date": "2026-08-17T21:03:18+00:00"
     },
     {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 569,
+      "title": "Cursor launches Origin, GitHub alternative",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "score": 562,
       "source": "hn",
-      "date": "2026-08-19T11:21:50+00:00"
+      "date": "2026-08-17T17:02:44+00:00"
+    },
+    {
+      "title": "Devices with GrapheneOS support should be available in 2027",
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "score": 526,
+      "source": "hn",
+      "date": "2026-08-19T11:46:58+00:00"
     }
   ],
   "security_highlights": [
@@ -174,6 +175,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-18T18:14:59+00:00"
+    },
+    {
+      "title": "allowlist が破れる4パターン — Claude Code / Codex / Cursor の実CVE",
+      "url": "https://qiita.com/ryoji9702/items/238ce9ef6af93691d818?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "severity": "high",
+      "source": "zennqiita",
+      "date": "2026-08-19T00:08:50+09:00"
     },
     {
       "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
