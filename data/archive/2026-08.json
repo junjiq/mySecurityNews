@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-19T11:38:59.275473+00:00",
+  "generated_at": "2026-08-19T12:07:52.546277+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 367,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 10,
+    "critical": 9,
     "medium": 5
   },
   "top_articles": [
@@ -29,9 +29,16 @@
     {
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 1209,
+      "score": 1218,
       "source": "hn",
       "date": "2026-08-18T13:22:38+00:00"
+    },
+    {
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "score": 918,
+      "source": "hn",
+      "date": "2026-08-19T01:58:28+00:00"
     },
     {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
@@ -46,13 +53,6 @@
       "score": 884,
       "source": "hn",
       "date": "2026-08-17T19:47:15+00:00"
-    },
-    {
-      "title": "OpenLogi",
-      "url": "https://openlogi.org/en",
-      "score": 846,
-      "source": "hn",
-      "date": "2026-08-19T01:58:28+00:00"
     },
     {
       "title": "Universal health coverage could save $1T and 114k lives a year: study",
@@ -118,6 +118,13 @@
       "date": "2026-08-17T13:40:55+00:00"
     },
     {
+      "title": "Being ambitious and being a dad",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "score": 594,
+      "source": "hn",
+      "date": "2026-08-16T16:08:57+00:00"
+    },
+    {
       "title": "Firefox for iOS now has a native adblocker",
       "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
       "score": 590,
@@ -144,13 +151,6 @@
       "score": 582,
       "source": "hn",
       "date": "2026-08-17T21:03:18+00:00"
-    },
-    {
-      "title": "Being ambitious and being a dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 565,
-      "source": "hn",
-      "date": "2026-08-16T16:08:57+00:00"
     }
   ],
   "security_highlights": [
@@ -216,13 +216,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-14T10:35:43+00:00"
-    },
-    {
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-14T06:09:04+00:00"
     }
   ]
 }
