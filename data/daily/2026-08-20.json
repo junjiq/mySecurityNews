@@ -1,8 +1,8 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T07:45:13.914436+00:00",
-  "total_articles": 54,
-  "urgent_count": 2,
+  "generated_at": "2026-08-20T08:12:39.673997+00:00",
+  "total_articles": 63,
+  "urgent_count": 1,
   "urgent_items": [
     {
       "title": "Google has stopped pushing Git tags for some Android source code",
@@ -10,24 +10,17 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-19T17:47:29+00:00"
-    },
-    {
-      "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
-      "url": "https://www.modular.com/blog/modcon-announcements",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-19T07:47:19+00:00"
     }
   ],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 45,
+      "count": 44,
       "top_items": [
         {
           "title": "A joke domain purchase turned in geopolitical warfare",
           "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-          "score": 871,
+          "score": 877,
           "source": "hn",
           "severity": null,
           "date": "2026-08-19T11:21:50+00:00"
@@ -35,7 +28,7 @@
         {
           "title": "OpenRouter is joining Stripe",
           "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-          "score": 811,
+          "score": 819,
           "source": "hn",
           "severity": null,
           "date": "2026-08-19T17:32:38+00:00"
@@ -43,7 +36,7 @@
         {
           "title": "Go 1.27",
           "url": "https://go.dev/blog/go1.27",
-          "score": 602,
+          "score": 609,
           "source": "hn",
           "severity": null,
           "date": "2026-08-19T18:33:49+00:00"
@@ -68,8 +61,32 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 9,
+      "count": 19,
       "top_items": [
+        {
+          "title": "IT企業の面接、私服で本当に大丈夫？採用担当が考える「清潔感」のライン",
+          "url": "https://qiita.com/m__ikeda/items/edc03c11a477f5ecbfc2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-20T15:46:11+09:00"
+        },
+        {
+          "title": "AIも人も、ただ褒めるだけでは変わらない。大事なのは\"時間を惜しまない一言\"",
+          "url": "https://qiita.com/sumomoo/items/195c278d026657c6618f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-20T15:40:50+09:00"
+        },
+        {
+          "title": "基本情報｜科目B「アルゴリズム問題」、パズルが好きな人はたぶん好き",
+          "url": "https://qiita.com/prumnn/items/8f439ca399b08a925cba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-20T15:40:25+09:00"
+        },
         {
           "title": "新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）",
           "url": "https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -79,36 +96,12 @@
           "date": "2026-08-20T14:59:32+09:00"
         },
         {
-          "title": "Claude Codeに毎日3回「挨拶ハラスメント」して5時間の使用枠で作業を止まらなくするClaude活用術",
-          "url": "https://qiita.com/inoyu-qiita/items/1953d640bc0a7c0b16fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "GitHubのTrendingを、AI編集部が無料枠だけで下書きしてくれる仕組みを作った",
+          "url": "https://qiita.com/keishin_nishiura/items/48c6cb3c54168ab1082c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-20T11:20:59+09:00"
-        },
-        {
-          "title": "Claude Code に spellcheck が付いた — 日本語だと9割に下線が引かれる",
-          "url": "https://qiita.com/jqit_suwa/items/94b96d15c9c031e39b3f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-20T08:11:59+09:00"
-        },
-        {
-          "title": "Claude Code のタスクリストが出ない — 原因は環境変数 ENABLE_TASKS=0 だった",
-          "url": "https://qiita.com/jqit_suwa/items/dda364cfccd770e110d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-20T08:10:56+09:00"
-        },
-        {
-          "title": "Claude Code をやめて Codex で続きから作業できた — ただし引き継がれたのは要約ではなかった",
-          "url": "https://qiita.com/jqit_suwa/items/90f0c5866fb3516c909b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-20T08:10:56+09:00"
+          "date": "2026-08-20T12:27:17+09:00"
         }
       ]
     }
