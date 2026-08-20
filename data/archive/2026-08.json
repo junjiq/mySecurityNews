@@ -1,15 +1,15 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-20T14:44:35.365778+00:00",
+  "generated_at": "2026-08-20T15:11:10.199224+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 359,
-    "zennqiita": 91,
+    "hn": 362,
+    "zennqiita": 88,
     "project": 3
   },
   "severity_counts": {
+    "critical": 10,
     "medium": 5,
-    "critical": 8,
     "high": 1
   },
   "top_articles": [
@@ -156,6 +156,13 @@
   ],
   "security_highlights": [
     {
+      "title": "Show HN: Open-source Stripe Connect alternative",
+      "url": "https://zoneless.com",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-20T14:38:45+00:00"
+    },
+    {
       "title": "Google has stopped pushing Git tags for some Android source code",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
       "severity": "critical",
@@ -175,6 +182,13 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-18T18:14:59+00:00"
+    },
+    {
+      "title": "Mojo is now open source",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-18T16:23:24+00:00"
     },
     {
       "title": "allowlist が破れる4パターン — Claude Code / Codex / Cursor の実CVE",
