@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-20T10:08:24.467792+00:00",
+  "generated_at": "2026-08-20T10:42:00.663972+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 357,
@@ -9,7 +9,7 @@
   },
   "severity_counts": {
     "medium": 5,
-    "critical": 9,
+    "critical": 8,
     "high": 1
   },
   "top_articles": [
@@ -28,18 +28,18 @@
       "date": "2026-08-18T13:22:38+00:00"
     },
     {
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "score": 912,
+      "source": "hn",
+      "date": "2026-08-19T11:21:50+00:00"
+    },
+    {
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "score": 910,
       "source": "hn",
       "date": "2026-08-17T20:46:10+00:00"
-    },
-    {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 906,
-      "source": "hn",
-      "date": "2026-08-19T11:21:50+00:00"
     },
     {
       "title": "AI;DR (AI; Didn't Read)",
@@ -58,7 +58,7 @@
     {
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 842,
+      "score": 849,
       "source": "hn",
       "date": "2026-08-19T17:32:38+00:00"
     },
@@ -107,7 +107,7 @@
     {
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "score": 641,
+      "score": 655,
       "source": "hn",
       "date": "2026-08-19T18:33:49+00:00"
     },
@@ -140,18 +140,18 @@
       "date": "2026-08-16T17:01:07+00:00"
     },
     {
+      "title": "Google has stopped pushing Git tags for some Android source code",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "score": 586,
+      "source": "hn",
+      "date": "2026-08-19T17:47:29+00:00"
+    },
+    {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "score": 582,
       "source": "hn",
       "date": "2026-08-17T21:03:18+00:00"
-    },
-    {
-      "title": "Google has stopped pushing Git tags for some Android source code",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 565,
-      "source": "hn",
-      "date": "2026-08-19T17:47:29+00:00"
     }
   ],
   "security_highlights": [
@@ -217,13 +217,6 @@
       "severity": "critical",
       "source": "zennqiita",
       "date": "2026-08-16T16:55:02+09:00"
-    },
-    {
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-14T20:52:44+00:00"
     }
   ]
 }
