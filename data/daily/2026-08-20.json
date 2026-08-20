@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T22:40:48.694373+00:00",
-  "total_articles": 80,
+  "generated_at": "2026-08-20T23:07:04.399049+00:00",
+  "total_articles": 79,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,8 +15,16 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 61,
+      "count": 60,
       "top_items": [
+        {
+          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+          "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+          "score": 829,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-20T10:08:52+00:00"
+        },
         {
           "title": "Don't Paste the AI, please",
           "url": "https://dontpastetheai.com/",
@@ -26,17 +34,9 @@
           "date": "2026-08-20T08:20:44+00:00"
         },
         {
-          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-          "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-          "score": 814,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-20T10:08:52+00:00"
-        },
-        {
           "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
           "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-          "score": 490,
+          "score": 571,
           "source": "hn",
           "severity": null,
           "date": "2026-08-20T20:07:26+00:00"
@@ -44,7 +44,7 @@
         {
           "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
           "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-          "score": 459,
+          "score": 465,
           "source": "hn",
           "severity": null,
           "date": "2026-08-20T12:04:38+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "Malicious Rust crate Arrayref runs a build-time payload",
           "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-          "score": 347,
+          "score": 353,
           "source": "hn",
           "severity": null,
           "date": "2026-08-20T13:23:12+00:00"
