@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T17:08:44.409066+00:00",
-  "total_articles": 74,
+  "generated_at": "2026-08-20T17:41:26.762081+00:00",
+  "total_articles": 72,
   "urgent_count": 2,
   "urgent_items": [
     {
@@ -22,16 +22,8 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 59,
+      "count": 57,
       "top_items": [
-        {
-          "title": "OpenRouter is joining Stripe",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-          "score": 925,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-19T17:32:38+00:00"
-        },
         {
           "title": "Don't Paste the AI, please",
           "url": "https://dontpastetheai.com/",
@@ -59,10 +51,18 @@
         {
           "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
           "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-          "score": 608,
+          "score": 646,
           "source": "hn",
           "severity": null,
           "date": "2026-08-20T10:08:52+00:00"
+        },
+        {
+          "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+          "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+          "score": 347,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-20T12:04:38+00:00"
         }
       ]
     },
