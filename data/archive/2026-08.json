@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-21T19:38:03.333753+00:00",
+  "generated_at": "2026-08-21T20:05:36.983402+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 370,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 9,
+    "critical": 8,
     "medium": 5,
     "high": 1
   },
@@ -77,6 +77,13 @@
       "date": "2026-08-17T19:47:15+00:00"
     },
     {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "score": 842,
+      "source": "hn",
+      "date": "2026-08-21T13:56:37+00:00"
+    },
+    {
       "title": "Universal health coverage could save $1T and 114k lives a year: study",
       "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
       "score": 826,
@@ -89,13 +96,6 @@
       "score": 818,
       "source": "hn",
       "date": "2026-08-20T08:20:44+00:00"
-    },
-    {
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "score": 817,
-      "source": "hn",
-      "date": "2026-08-21T13:56:37+00:00"
     },
     {
       "title": "I like 'em thick: an apology to my English teachers",
@@ -217,13 +217,6 @@
       "severity": "critical",
       "source": "hn",
       "date": "2026-08-17T15:24:34+00:00"
-    },
-    {
-      "title": "I've built a free, open-source local and remote memory system for agentw and CL",
-      "url": "https://www.lorekit.io/blog/give-your-agent-a-memory",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-16T18:03:09+00:00"
     }
   ]
 }
