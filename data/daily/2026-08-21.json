@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T09:44:37.977876+00:00",
-  "total_articles": 86,
+  "generated_at": "2026-08-21T10:08:31.198586+00:00",
+  "total_articles": 87,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 72,
+      "count": 73,
       "top_items": [
         {
           "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
@@ -28,10 +28,18 @@
         {
           "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
           "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-          "score": 968,
+          "score": 970,
           "source": "hn",
           "severity": null,
           "date": "2026-08-20T10:08:52+00:00"
+        },
+        {
+          "title": "The August 17 outage",
+          "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+          "score": 531,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-20T19:22:24+00:00"
         },
         {
           "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
@@ -42,17 +50,9 @@
           "date": "2026-08-20T12:04:38+00:00"
         },
         {
-          "title": "The August 17 outage",
-          "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-          "score": 521,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-20T19:22:24+00:00"
-        },
-        {
           "title": "Malicious Rust crate Arrayref runs a build-time payload",
           "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-          "score": 494,
+          "score": 499,
           "source": "hn",
           "severity": null,
           "date": "2026-08-20T13:23:12+00:00"
