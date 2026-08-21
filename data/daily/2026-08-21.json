@@ -1,21 +1,13 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T14:12:41.704496+00:00",
-  "total_articles": 80,
-  "urgent_count": 1,
-  "urgent_items": [
-    {
-      "title": "Show HN: Open-source Stripe Connect alternative",
-      "url": "https://zoneless.com",
-      "severity": "critical",
-      "source": "hn",
-      "date": "2026-08-20T14:38:45+00:00"
-    }
-  ],
+  "generated_at": "2026-08-21T14:44:13.547621+00:00",
+  "total_articles": 83,
+  "urgent_count": 0,
+  "urgent_items": [],
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 66,
+      "count": 69,
       "top_items": [
         {
           "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
@@ -28,10 +20,18 @@
         {
           "title": "The August 17 outage",
           "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-          "score": 598,
+          "score": 606,
           "source": "hn",
           "severity": null,
           "date": "2026-08-20T19:22:24+00:00"
+        },
+        {
+          "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+          "url": "https://annas-archive.pk/blog/physical-destruction.html",
+          "score": 381,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-21T10:05:46+00:00"
         },
         {
           "title": "Show HN: Huzzah – a novel approach to coding with AI",
@@ -40,14 +40,6 @@
           "source": "hn",
           "severity": null,
           "date": "2026-08-20T19:05:36+00:00"
-        },
-        {
-          "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-          "url": "https://annas-archive.pk/blog/physical-destruction.html",
-          "score": 315,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-21T10:05:46+00:00"
         },
         {
           "title": "I should have loved biology (2020)",
