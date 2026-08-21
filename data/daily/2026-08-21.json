@@ -1,9 +1,17 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T17:40:53.308008+00:00",
-  "total_articles": 94,
-  "urgent_count": 0,
-  "urgent_items": [],
+  "generated_at": "2026-08-21T18:08:10.689683+00:00",
+  "total_articles": 93,
+  "urgent_count": 1,
+  "urgent_items": [
+    {
+      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+      "url": "https://github.com/proliferate-ai/proliferate",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-21T16:47:15+00:00"
+    }
+  ],
   "categories": [
     {
       "category": "テクノロジー",
@@ -18,20 +26,20 @@
           "date": "2026-08-20T20:07:26+00:00"
         },
         {
+          "title": "Kagi added a setting for removing paywalled links from search results",
+          "url": "https://kagi.com/changelog#11296",
+          "score": 703,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-21T13:56:37+00:00"
+        },
+        {
           "title": "AI companies destroy physical books – let's scan rare books before it's too late",
           "url": "https://annas-archive.pk/blog/physical-destruction.html",
           "score": 658,
           "source": "hn",
           "severity": null,
           "date": "2026-08-21T10:05:46+00:00"
-        },
-        {
-          "title": "Kagi added a setting for removing paywalled links from search results",
-          "url": "https://kagi.com/changelog#11296",
-          "score": 655,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-21T13:56:37+00:00"
         },
         {
           "title": "The August 17 outage",
@@ -44,7 +52,7 @@
         {
           "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
           "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-          "score": 506,
+          "score": 539,
           "source": "hn",
           "severity": null,
           "date": "2026-08-21T13:04:31+00:00"
@@ -53,7 +61,7 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 13,
+      "count": 12,
       "top_items": [
         {
           "title": "「文系だし、別の仕事してきたから無理…」って思ってない？未経験からITを目指す人に伝えたい本当の話",

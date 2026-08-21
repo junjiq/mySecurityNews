@@ -1,14 +1,14 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-21T17:40:53.504148+00:00",
+  "generated_at": "2026-08-21T18:08:10.756986+00:00",
   "total_articles": 453,
   "source_counts": {
-    "hn": 369,
-    "zennqiita": 81,
+    "hn": 370,
+    "zennqiita": 80,
     "project": 3
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "medium": 5,
     "high": 1
   },
@@ -133,6 +133,13 @@
       "date": "2026-08-16T23:45:09+00:00"
     },
     {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "score": 703,
+      "source": "hn",
+      "date": "2026-08-21T13:56:37+00:00"
+    },
+    {
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
       "score": 677,
@@ -145,16 +152,16 @@
       "score": 664,
       "source": "hn",
       "date": "2026-08-17T22:20:40+00:00"
-    },
-    {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "score": 658,
-      "source": "hn",
-      "date": "2026-08-21T10:05:46+00:00"
     }
   ],
   "security_highlights": [
+    {
+      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+      "url": "https://github.com/proliferate-ai/proliferate",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-21T16:47:15+00:00"
+    },
     {
       "title": "Show HN: Open-source Stripe Connect alternative",
       "url": "https://zoneless.com",
