@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-08-22T16:39:09.364502+00:00",
+  "generated_at": "2026-08-22T17:05:23.106703+00:00",
   "total_articles": 453,
   "source_counts": {
     "hn": 368,
@@ -8,7 +8,7 @@
     "project": 3
   },
   "severity_counts": {
-    "critical": 8,
+    "critical": 9,
     "medium": 4,
     "high": 1
   },
@@ -30,7 +30,7 @@
     {
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "score": 1198,
+      "score": 1202,
       "source": "hn",
       "date": "2026-08-21T13:56:37+00:00"
     },
@@ -107,7 +107,7 @@
     {
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 793,
+      "score": 796,
       "source": "hn",
       "date": "2026-08-21T15:17:04+00:00"
     },
@@ -155,6 +155,13 @@
     }
   ],
   "security_highlights": [
+    {
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "severity": "critical",
+      "source": "hn",
+      "date": "2026-08-22T16:23:09+00:00"
+    },
     {
       "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
       "url": "https://github.com/proliferate-ai/proliferate",
