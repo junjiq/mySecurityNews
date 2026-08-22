@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22T20:04:25.329443+00:00",
-  "total_articles": 40,
+  "generated_at": "2026-08-22T20:38:44.878283+00:00",
+  "total_articles": 51,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,7 +15,7 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 35,
+      "count": 39,
       "top_items": [
         {
           "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
@@ -36,33 +36,41 @@
         {
           "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
           "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-          "score": 232,
+          "score": 273,
           "source": "hn",
           "severity": null,
           "date": "2026-08-22T06:16:57+00:00"
         },
         {
-          "title": "Munder Difflin – Agent harness to run an office of your clones",
-          "url": "https://munderdiffl.in/",
-          "score": 225,
-          "source": "hn",
-          "severity": null,
-          "date": "2026-08-22T09:49:14+00:00"
-        },
-        {
           "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
           "url": "https://quantumi.sh/public/labs.html",
-          "score": 218,
+          "score": 234,
           "source": "hn",
           "severity": null,
           "date": "2026-08-22T14:54:07+00:00"
+        },
+        {
+          "title": "Munder Difflin – Agent harness to run an office of your clones",
+          "url": "https://munderdiffl.in/",
+          "score": 226,
+          "source": "hn",
+          "severity": null,
+          "date": "2026-08-22T09:49:14+00:00"
         }
       ]
     },
     {
       "category": "日本語技術記事",
-      "count": 5,
+      "count": 12,
       "top_items": [
+        {
+          "title": "『人手不足だから外国人』の前に考えたいこと ― 雇用・失業・言語教育・2世3世の設計 : システム設計視点の行動経済学 (20)",
+          "url": "https://qiita.com/maskot1977/items/33a704b63a84124fec4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-23T00:27:09+09:00"
+        },
         {
           "title": "「API連携で○百万円」と言われて、まず何を調べるべきだったのか調べてみた",
           "url": "https://qiita.com/songchong/items/b6ced9b1d05c0f797e76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -72,36 +80,28 @@
           "date": "2026-08-22T20:45:05+09:00"
         },
         {
+          "title": "CS専攻じゃない\"ニセモノのエンジニア\"が、AI時代の生存戦略を5つ考えてみた",
+          "url": "https://qiita.com/ktdatascience/items/2940d240db8f0fb5e930?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-22T20:18:24+09:00"
+        },
+        {
+          "title": "わかったようでわからない非同期処理の完全理解①",
+          "url": "https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-22T17:35:01+09:00"
+        },
+        {
           "title": "備忘録：Next.jsのServer ActionsをRSC・React 19から理解する。SSR・Hydration・再描画との関係を1本の流れに整理する",
           "url": "https://qiita.com/nogataka/items/8e416beb71e43af91bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
           "date": "2026-08-22T12:52:11+09:00"
-        },
-        {
-          "title": "備忘録：Next.js App RouterでServer Actions方式とAPI方式をどう使い分けるか。判断基準と選定フローを整理する",
-          "url": "https://qiita.com/nogataka/items/a6efbc9b2396ef285349?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-22T12:51:51+09:00"
-        },
-        {
-          "title": "備忘録：今さらNext.jsの全体像を整理する。App Router・RSC・Server Actions・キャッシュがどう噛み合うのか（Next.js 16 / React 19）",
-          "url": "https://qiita.com/nogataka/items/fcd6b5d213f8e647ea24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-22T12:51:35+09:00"
-        },
-        {
-          "title": "備忘録：管理画面は /admin か admin.example.com か。「なんとなく」で選んでいたので、XSSの波及範囲から考え直しました",
-          "url": "https://qiita.com/nogataka/items/56708827d5aea29c072a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-          "score": null,
-          "source": "zennqiita",
-          "severity": null,
-          "date": "2026-08-22T12:48:39+09:00"
         }
       ]
     }
