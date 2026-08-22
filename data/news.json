@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-08-22T08:06:33.159231+00:00",
+  "updated_at": "2026-08-22T08:42:18.219906+00:00",
   "count": 500,
   "items": [
+    {
+      "id": "qiita-5c583d013e",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「API連携で○百万円」と言われて、まず何を調べるべきだったのか調べてみた",
+      "url": "https://qiita.com/songchong/items/b6ced9b1d05c0f797e76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "songchong",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-22T16:58:05+09:00"
+    },
     {
       "id": "hn-49397074",
       "source": "hn",
       "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
       "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-      "score": 42,
-      "comments": 7,
+      "score": 67,
+      "comments": 26,
       "author": "tartoran",
       "tags": [],
       "date": "2026-08-22T06:16:57+00:00"
@@ -34,6 +47,58 @@
       "author": "izakfr",
       "tags": [],
       "date": "2026-08-22T04:33:06+00:00"
+    },
+    {
+      "id": "qiita-3ad3cea4e3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "備忘録：Next.jsのServer ActionsをRSC・React 19から理解する。SSR・Hydration・再描画との関係を1本の流れに整理する",
+      "url": "https://qiita.com/nogataka/items/8e416beb71e43af91bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-22T12:52:11+09:00"
+    },
+    {
+      "id": "qiita-a803d8bf25",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "備忘録：Next.js App RouterでServer Actions方式とAPI方式をどう使い分けるか。判断基準と選定フローを整理する",
+      "url": "https://qiita.com/nogataka/items/a6efbc9b2396ef285349?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-22T12:51:51+09:00"
+    },
+    {
+      "id": "qiita-a0fc8053d1",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "備忘録：今さらNext.jsの全体像を整理する。App Router・RSC・Server Actions・キャッシュがどう噛み合うのか（Next.js 16 / React 19）",
+      "url": "https://qiita.com/nogataka/items/fcd6b5d213f8e647ea24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-22T12:51:35+09:00"
+    },
+    {
+      "id": "qiita-f6bf3dc7a6",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "備忘録：管理画面は /admin か admin.example.com か。「なんとなく」で選んでいたので、XSSの波及範囲から考え直しました",
+      "url": "https://qiita.com/nogataka/items/56708827d5aea29c072a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "nogataka",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-22T12:48:39+09:00"
     },
     {
       "id": "hn-49396086",
@@ -62,8 +127,8 @@
       "source": "hn",
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
-      "score": 353,
-      "comments": 255,
+      "score": 372,
+      "comments": 270,
       "author": "Jach",
       "tags": [],
       "date": "2026-08-22T01:06:17+00:00"
@@ -73,8 +138,8 @@
       "source": "hn",
       "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
       "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-      "score": 105,
-      "comments": 33,
+      "score": 107,
+      "comments": 36,
       "author": "Cider9986",
       "tags": [],
       "date": "2026-08-22T01:02:09+00:00"
@@ -84,7 +149,7 @@
       "source": "hn",
       "title": "HN: The Good Parts (2016)",
       "url": "https://danluu.com/hn-comments/",
-      "score": 40,
+      "score": 43,
       "comments": 8,
       "author": "adletbalzhanov",
       "tags": [],
@@ -139,8 +204,8 @@
       "source": "hn",
       "title": "Three important steps in my maturation process",
       "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "score": 126,
-      "comments": 53,
+      "score": 131,
+      "comments": 58,
       "author": "tdullien",
       "tags": [],
       "date": "2026-08-21T22:29:00+00:00"
@@ -172,8 +237,8 @@
       "source": "hn",
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 149,
-      "comments": 34,
+      "score": 172,
+      "comments": 35,
       "author": "matklad",
       "tags": [],
       "date": "2026-08-21T19:51:54+00:00"
@@ -227,7 +292,7 @@
       "source": "hn",
       "title": "Scientists release biggest 2D map of the universe",
       "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 193,
+      "score": 198,
       "comments": 55,
       "author": "NKosmatos",
       "tags": [],
@@ -238,7 +303,7 @@
       "source": "hn",
       "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
       "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-      "score": 16,
+      "score": 18,
       "comments": 0,
       "author": "corysama",
       "tags": [],
@@ -249,8 +314,8 @@
       "source": "hn",
       "title": "OTel isn’t going well",
       "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-      "score": 101,
-      "comments": 38,
+      "score": 105,
+      "comments": 42,
       "author": "hn_acker",
       "tags": [],
       "date": "2026-08-21T17:45:41+00:00"
@@ -338,8 +403,8 @@
       "source": "hn",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 522,
-      "comments": 183,
+      "score": 532,
+      "comments": 186,
       "author": "thepoet",
       "tags": [],
       "date": "2026-08-21T16:25:25+00:00"
@@ -415,8 +480,8 @@
       "source": "hn",
       "title": "How we made a text-to-speech model respond in sub-50 ms",
       "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "score": 139,
-      "comments": 33,
+      "score": 142,
+      "comments": 34,
       "author": "toebee",
       "tags": [],
       "date": "2026-08-21T15:51:10+00:00"
@@ -514,8 +579,8 @@
       "source": "hn",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 673,
-      "comments": 269,
+      "score": 685,
+      "comments": 274,
       "author": "colinprince",
       "tags": [],
       "date": "2026-08-21T15:17:04+00:00"
@@ -571,8 +636,8 @@
       "source": "hn",
       "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
       "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "score": 253,
-      "comments": 176,
+      "score": 260,
+      "comments": 177,
       "author": "aakil",
       "tags": [],
       "date": "2026-08-21T14:31:52+00:00"
@@ -582,8 +647,8 @@
       "source": "hn",
       "title": "Zig’s io.threaded is neat",
       "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-      "score": 54,
-      "comments": 18,
+      "score": 63,
+      "comments": 25,
       "author": "chilipepperhott",
       "tags": [],
       "date": "2026-08-21T14:28:15+00:00"
@@ -626,8 +691,8 @@
       "source": "hn",
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "score": 1101,
-      "comments": 359,
+      "score": 1107,
+      "comments": 362,
       "author": "speckx",
       "tags": [],
       "date": "2026-08-21T13:56:37+00:00"
@@ -725,8 +790,8 @@
       "source": "hn",
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "score": 527,
-      "comments": 59,
+      "score": 533,
+      "comments": 61,
       "author": "gavide",
       "tags": [],
       "date": "2026-08-21T13:11:28+00:00"
@@ -736,7 +801,7 @@
       "source": "hn",
       "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
       "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-      "score": 233,
+      "score": 236,
       "comments": 165,
       "author": "speckx",
       "tags": [],
@@ -802,8 +867,8 @@
       "source": "hn",
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "score": 347,
-      "comments": 350,
+      "score": 352,
+      "comments": 352,
       "author": "rcymerys",
       "tags": [],
       "date": "2026-08-21T11:48:05+00:00"
@@ -999,8 +1064,8 @@
       "source": "hn",
       "title": "Stop Making TUIs",
       "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-      "score": 108,
-      "comments": 171,
+      "score": 114,
+      "comments": 179,
       "author": "underdeserver",
       "tags": [],
       "date": "2026-08-21T05:37:38+00:00"
@@ -1026,6 +1091,32 @@
       "author": "gandalfgeek",
       "tags": [],
       "date": "2026-08-21T05:20:50+00:00"
+    },
+    {
+      "id": "qiita-22e4c661c3",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "AIレビューがすり抜ける「なんか妥当じゃない」を、数えられる条件に翻訳した話",
+      "url": "https://qiita.com/ntaka329/items/ed0be05099ae142d9e70?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "ntaka329",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-21T13:32:10+09:00"
+    },
+    {
+      "id": "qiita-c7a7fbc756",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "商店街の事務局長から学んだ「守りながら変えていく」仕事【イベントレポート】",
+      "url": "https://qiita.com/RyoWakabayashi/items/6ce2f3dc73c0c1c244f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "RyoWakabayashi",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-21T13:12:06+09:00"
     },
     {
       "id": "qiita-4f13c27d87",
@@ -1370,8 +1461,8 @@
       "source": "hn",
       "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
       "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-      "score": 83,
-      "comments": 31,
+      "score": 85,
+      "comments": 34,
       "author": "gmays",
       "tags": [],
       "date": "2026-08-20T21:08:36+00:00"
@@ -1778,6 +1869,19 @@
       "author": "jonathanlydall",
       "tags": [],
       "date": "2026-08-20T14:18:16+00:00"
+    },
+    {
+      "id": "qiita-1641f52533",
+      "source": "zennqiita",
+      "sub_source": "Qiita",
+      "title": "「Microsoft 365はバックアップしてくれている」は誤解。標準機能の限界とMicrosoft 365バックアップを整理してみた",
+      "url": "https://qiita.com/itbibouroku/items/00274409872c495eca5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "score": null,
+      "author": "itbibouroku",
+      "tags": [
+        "Qiita"
+      ],
+      "date": "2026-08-20T23:16:40+09:00"
     },
     {
       "id": "hn-49374873",
@@ -2548,7 +2652,7 @@
       "source": "hn",
       "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
       "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
-      "score": 47,
+      "score": 49,
       "comments": 0,
       "author": "albertpedersen",
       "tags": [],
@@ -4955,8 +5059,8 @@
       "source": "hn",
       "title": "ESP32 Firmware Development with Docker Sandboxes",
       "url": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
-      "score": 9,
-      "comments": 2,
+      "score": 12,
+      "comments": 4,
       "author": "mfranzon",
       "tags": [],
       "date": "2026-08-17T12:02:18+00:00"
@@ -5019,109 +5123,11 @@
       "date": "2026-08-17T18:20:43+09:00"
     },
     {
-      "id": "hn-49328206",
-      "source": "hn",
-      "title": "Pi coding agent: config folder is out of place on Linux",
-      "url": "https://github.com/earendil-works/pi/issues/534",
-      "score": 17,
-      "comments": 5,
-      "author": "joooscha",
-      "tags": [],
-      "date": "2026-08-17T09:11:17+00:00"
-    },
-    {
-      "id": "hn-49327643",
-      "source": "hn",
-      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
-      "url": "https://desktopcolors.com",
-      "score": 105,
-      "comments": 42,
-      "author": "vlowrian",
-      "tags": [],
-      "date": "2026-08-17T07:51:22+00:00"
-    },
-    {
-      "id": "qiita-5bac8bb466",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "海外で急速に広がる「FDE」と、AI時代のエンジニアに求められるより高い専門性",
-      "url": "https://qiita.com/sumomoo/items/7a8bf8214f6d4f70de17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "sumomoo",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-17T16:31:47+09:00"
-    },
-    {
-      "id": "hn-49327490",
-      "source": "hn",
-      "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "url": "https://duti.dev/blog/2026/spr/",
-      "score": 48,
-      "comments": 39,
-      "author": "mindracer",
-      "tags": [],
-      "date": "2026-08-17T07:28:43+00:00"
-    },
-    {
-      "id": "qiita-0fc532aa16",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "新人エンジニア、長時間考える体力がなさすぎて全然集中が続かない",
-      "url": "https://qiita.com/prumnn/items/ab629ef2296563691957?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "prumnn",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-17T16:27:57+09:00"
-    },
-    {
-      "id": "qiita-80bd5ef5e5",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "Mermaidで書いた過去記事の図を、話題の図解スキルに食わせてみた — 色指定が全部捨てられた",
-      "url": "https://qiita.com/jqit_suwa/items/3906db61d153fe8691aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "jqit_suwa",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-17T16:26:52+09:00"
-    },
-    {
-      "id": "qiita-f5f4c7a061",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "オントロジーについて",
-      "url": "https://qiita.com/kurogoma939/items/565588e1b1dc66012b79?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kurogoma939",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-17T16:16:58+09:00"
-    },
-    {
-      "id": "qiita-f3f41ad376",
-      "source": "zennqiita",
-      "sub_source": "Qiita",
-      "title": "ドキュメント生成とAIとの向き合い方について",
-      "url": "https://qiita.com/kurogoma939/items/bd7d11ec543d7cb68c75?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "score": null,
-      "author": "kurogoma939",
-      "tags": [
-        "Qiita"
-      ],
-      "date": "2026-08-17T16:15:57+09:00"
-    },
-    {
       "id": "hn-49327408",
       "source": "hn",
       "title": "People of ACM – Russ Cox",
       "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-      "score": 129,
+      "score": 133,
       "comments": 13,
       "author": "signa11",
       "tags": [],

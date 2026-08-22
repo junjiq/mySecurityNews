@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22T08:06:33.225854+00:00",
-  "total_articles": 81,
+  "generated_at": "2026-08-22T08:42:18.284308+00:00",
+  "total_articles": 85,
   "urgent_count": 1,
   "urgent_items": [
     {
@@ -15,12 +15,12 @@
   "categories": [
     {
       "category": "テクノロジー",
-      "count": 78,
+      "count": 77,
       "top_items": [
         {
           "title": "Kagi added a setting for removing paywalled links from search results",
           "url": "https://kagi.com/changelog#11296",
-          "score": 1101,
+          "score": 1107,
           "source": "hn",
           "severity": null,
           "date": "2026-08-21T13:56:37+00:00"
@@ -28,7 +28,7 @@
         {
           "title": "Felony Bench",
           "url": "https://www.felonybench.com/",
-          "score": 673,
+          "score": 685,
           "source": "hn",
           "severity": null,
           "date": "2026-08-21T15:17:04+00:00"
@@ -52,7 +52,7 @@
         {
           "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
           "url": "https://lina.sh/blog/hijacking-e164-arpa",
-          "score": 527,
+          "score": 533,
           "source": "hn",
           "severity": null,
           "date": "2026-08-21T13:11:28+00:00"
@@ -61,31 +61,47 @@
     },
     {
       "category": "日本語技術記事",
-      "count": 3,
+      "count": 8,
       "top_items": [
         {
-          "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 2",
-          "url": "https://qiita.com/maskot1977/items/3363012f9778952a7240?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "「API連携で○百万円」と言われて、まず何を調べるべきだったのか調べてみた",
+          "url": "https://qiita.com/songchong/items/b6ced9b1d05c0f797e76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-22T00:02:16+09:00"
+          "date": "2026-08-22T16:58:05+09:00"
         },
         {
-          "title": "QAエンジニアの仕事が変わった——Claude CodeとPlaywrightで、テストからチケット管理まで全部AIに任せてみた話",
-          "url": "https://qiita.com/a_sato_JQIT/items/a82fccf6d52c05156384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "備忘録：Next.jsのServer ActionsをRSC・React 19から理解する。SSR・Hydration・再描画との関係を1本の流れに整理する",
+          "url": "https://qiita.com/nogataka/items/8e416beb71e43af91bdb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-21T18:04:05+09:00"
+          "date": "2026-08-22T12:52:11+09:00"
         },
         {
-          "title": "SQL初心者向け~参画までに覚えたいSQL構文10選~",
-          "url": "https://qiita.com/nt_matsuda56/items/156d782818f30a3b563e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "title": "備忘録：Next.js App RouterでServer Actions方式とAPI方式をどう使い分けるか。判断基準と選定フローを整理する",
+          "url": "https://qiita.com/nogataka/items/a6efbc9b2396ef285349?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "score": null,
           "source": "zennqiita",
           "severity": null,
-          "date": "2026-08-21T17:58:33+09:00"
+          "date": "2026-08-22T12:51:51+09:00"
+        },
+        {
+          "title": "備忘録：今さらNext.jsの全体像を整理する。App Router・RSC・Server Actions・キャッシュがどう噛み合うのか（Next.js 16 / React 19）",
+          "url": "https://qiita.com/nogataka/items/fcd6b5d213f8e647ea24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-22T12:51:35+09:00"
+        },
+        {
+          "title": "備忘録：管理画面は /admin か admin.example.com か。「なんとなく」で選んでいたので、XSSの波及範囲から考え直しました",
+          "url": "https://qiita.com/nogataka/items/56708827d5aea29c072a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "score": null,
+          "source": "zennqiita",
+          "severity": null,
+          "date": "2026-08-22T12:48:39+09:00"
         }
       ]
     }
